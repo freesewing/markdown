@@ -1,0 +1,12 @@
+---
+title: Knot width
+path: /en/docs/patterns/benjamin/options/knotwidth
+pattern: benjamin
+option: knotWidth
+---
+
+The knot width is the width in the middle of the bow tie, where you make the knot.
+
+How wide your bow tie is in the middle will influence the tie knot. Bigger works better with larger bow ties.
+
+> With the Square type bow tie, this value also dictates the width of the tips
