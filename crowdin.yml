@@ -1,4 +1,5 @@
-files:
-- source: /src/markdown/**/en.md
 translation: /src/markdown/**/%two_letters_code%.md
 content_segmentation: 0
+files:
+  - source: /**/en.md
+    translation: '/**/%two_letters_code%.md '
