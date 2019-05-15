@@ -1,7 +1,12 @@
 ---
 title: Getting started
-path: /en/docs/developer/start
 ---
+
+![npm init freesewing-pattern](./create-freesewing-pattern.svg)
+![npm init freesewing-pattern](start/create-freesewing-pattern.svg)
+![npm init freesewing-pattern](/start/create-freesewing-pattern.svg)
+
+![my image](./my-awesome-image.png)
 
 Freesewing is a JavaScript library for made-to-measure sewing patterns.  
 Or, more generally, it is a toolbox for parametric design of 2D drawings.
