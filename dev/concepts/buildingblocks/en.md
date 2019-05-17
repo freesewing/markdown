@@ -1,53 +1,55 @@
 ---
 title: Building blocks
 ---
+Creating a pattern with freesewing is similar to doing it on paper,
+but rather than draw lines, we'll define them in code.
+
+From the ground up, these are the main building blocks of a pattern:
+
+ - [Points](#points)
+ - [Paths](paths)
+ - [Parts](parts)
+ - [Pattern](pattern)
+
+In addition, your pattern comes with the following *extras*:
+
+ - [Snippets](snippets)
+ - [Snippets](snippets)
 
 
-> FIXME: This needs work
+## Points
 
-Creating a pattern with freesewing is very much like 
-doing it on paper. You need all the same tools, but now they are code.
+Points mark a spot in a 2D plane through an X and Y coordinate.
+
+If you think of a pattern as *connecting the dots*, those dots
+are Points.
+
+## Paths
+
+Paths are the lines and curves that make up your pattern.
+
+They are also literally made up of lines and 
+curves, [Bezier curves](/concepts/beziercurves) to be specific.
+
+## Snippets
+
+Snippets are little embellishments you can use and re-use on your pattern.
+
+They are typically used for things like logos or buttons. 
+
+## Parts
+
+Parts act as a container. They hold a specific set up Points, Paths
+and other data that is relevant to a specific part of your pattern.
+
+Imagine you're designing a more complex pattern, say a jacket.
+Having all points and paths in one big pile would things different to manage.
+
+Parts help you divide your pattern in discrete units that stand on their
+own. A part typically represents a part of the garment, like the sleeve or collar.
 
 ## Pattern
 
-You use freesewing to develop a **pattern**. You'll end up exporting a 
-[Pattern](/en/docs/developer/api/pattern) constructor method:
+The pattern is a container that holds all your parts, along with some other
+information like the [configuration](/concepts/config) and [settings](/concepts/settings).
 
-
-![Freesewing building blocks](./buildingblocks.svg)
-
-A pattern comes with a [configuration](/en/docs/developer/config) and 
-a [store](/en/docs/developer/api/store) and acts as a container for your
-pattern [parts](/en/docs/developer/api/part).
-
-The main work is done in these **parts**. They hold the actual information, 
-that make up your pattern. The [points](/en/docs/developer/api/point) that 
-we need to draw the [paths](/en/docs/developer/api/path) and perhaps 
-some [snippets](/en/docs/developer/api/snippet) too. They are reusable 
-embelishments that you can add to your pattern. Like a notch, or a button, and so on.
-
-In a typical scenario, your pattern will be instantiated with a bunch of 
-user settings, after [drafting and rendering it](#draftvsrender), it will come out on the other end
-as SVG.
-
-## Inheritance
-
-Sewing patterns are rarely designed from scratch. A pattern is typically based on 
-a block or sloper, or on another pattern.
-A western shirt pattern might be based on a button-down shirt pattern, which in turn
-is based on a menswear block, you get the idea.
-
-In software, we call this *inheritance*. You may want to design your own pattern
-starting from nothing, but often, you can get started from something that's already halfway
-to where you want to go.
-
-For example, Freesewing's Jaeger pattern is based on Bent, which in turn is based on Brian.
-
-## Options
-
-When we draw a pattern on paper, things are the way they are. When we code a pattern, 
-we have the option to provide choices. Long sleeves? Short sleeves? Bit more ease in
-the waist, or fitted like a glove?
-
-You can learn about all the types of options freesewing supports in
-the [configuration](/en/docs/developer/config) documentation.

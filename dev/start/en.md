@@ -23,9 +23,9 @@ npm init freesewing-pattern@beta
 
 It will ask your a number of question to prepare your pattern.
 
-> If you're not sure what to fill in, stick with the defaults.
->
-> You can change all of these later. It's just to get you started.
+If you're not sure what to fill in, stick with the defaults.
+
+You can change all of these later. It's just to get you started.
 
 Behind the scenes, we'll pull in a bunch of software to bootstrap 
 your development environment. Things like webpack, react, and a 
