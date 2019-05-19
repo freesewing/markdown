@@ -75,10 +75,32 @@ Text is just text. You can just start writing.
 
 > This is a blockquote
 
+
 > ###### This is also a blockquote
 > 
 > But this one has a bit more content to it, as wel as 
 > [a link](/).
+
+<Note>
+
+This is a note.
+
+</Note>
+
+<Tip>
+
+This is a tip.
+
+</Tip>
+
+
+<Warning>
+
+This is a warning.
+
+</Warning>
+
+
 
 ## Code
 
