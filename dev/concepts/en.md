@@ -26,7 +26,7 @@ If we look at our image, it can can divided into three areas:
 <Example 
   part="docs_overview" 
   caption="Your focus today is on the middle part"
-  focus="Pattern"
+  options={{focus: "Pattern"}}
 />
 
  - The left area with the *settings*  box
@@ -53,7 +53,7 @@ about front-end integration, start with FIXME: Insert link to relevant docs here
 <Example 
   part="docs_overview" 
   caption="Points store coordinates"
-  focus="Points"
+  options={{focus: "Points"}}
 />
 
 Developing a pattern with FreeSewing is similar to doing it on paper.
@@ -97,7 +97,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="Paths are the lines and curves of your pattern"
-  focus="Paths"
+  options={{focus: "Paths"}}
 />
 
 Paths are the lines and curves that make up your pattern.
@@ -140,7 +140,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="Snippets are little embelishments that go on your pattern"
-  focus="Snippets"
+  options={{focus: "Snippets"}}
 />
 
 Snippets are little embellishments you can use and re-use on your pattern.
@@ -169,7 +169,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="Parts divide your pattern into re-usable components"
-  focus="Part"
+  options={{focus: "Part"}}
 />
 
 Parts are a container for the points, paths, and snippets of (a part of) your pattern.
@@ -191,7 +191,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="The pattern configuration holds important information about the pattern"
-  focus="config"
+  options={{focus: "config"}}
 />
 
 A pattern's [configuration](/config) is created by the pattern designer
@@ -210,7 +210,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="The store provides pattern-wide key/value storage"
-  focus="store"
+  options={{focus: "store"}}
 />
 
 The store provides key-value storage that is shared across your pattern.
@@ -227,7 +227,7 @@ See also:
 <Example 
   part="docs_overview" 
   caption="The pattern you create will be a constructor for instances of your pattern"
-  focus="pattern"
+  options={{focus: "pattern"}}
 />
 
 Last but not least, we've arrived at the level of the pattern itself.
