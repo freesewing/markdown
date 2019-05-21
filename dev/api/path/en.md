@@ -1,5 +1,5 @@
 ---
-path: /en/docs/developer/api/path
+title: Path
 ---
 
 A path represents an SVG path; The lines and curves on our pattern. 
@@ -17,20 +17,7 @@ A Path objects comes with the following properties:
 
 In addition, a Part object exposes the following methods:
 
- - `move`
- - `curve`
- - `_curve`
- - `curve_`
- - `line`
- - `close`
- - `attr`
- - `clone`
- - `divide`
- - `edge`
- - `end`
-
-
-## Path.move()
+## move()
 
 ```js
 Path path.move(Point to)
@@ -38,25 +25,34 @@ Path path.move(Point to)
 
 Moves to a given point without drawing a line. 
 
-> ###### Always start your path with a move
->
-> When drawing a path, you must always start with a `move()` call, 
-> followed by your `line()` and/or `curve()` calls
-> and an optional `close()` call.
-> 
-> These calls are chainable, making your code easier to read:
->  
-> ```js
-> paths.example = new Path()
->   .move(points.a)
->   .curve(points.b, points.c, points.d)
->   .line(points.e)
->   .close();
-> ```
+<Example 
+  part="path_ops" 
+  caption="Example of the Path.move() method" 
+  options={{focus: 'move'}}
+/>
 
-<api-example o="path" m="move" i="ops" margin="15" strings='{ "msg_move": "Move to point A", "msg_line": "", "msg_curve": "", "msg__curve": "", "msg_curve_": "", "msg_close": ""}'></api-example>
+<Tip>
 
-## Path.line()
+###### Always start your path with a move
+
+When drawing a path, you must always start with a `move()` call, 
+followed by your `line()` and/or `curve()` calls
+and an optional `close()` call.
+
+These calls are chainable, making your code easier to read:
+ 
+```js
+paths.example = new Path()
+  .move(points.a)
+  .curve(points.b, points.c, points.d)
+  .line(points.e)
+  .close();
+```
+
+</Tip>
+
+
+## line()
 
 ```js
 Path path.line(Point to)
@@ -64,9 +60,13 @@ Path path.line(Point to)
 
 Draws a straight line from the current position to a given point.
 
-<api-example o="path" m="line" i="ops" margin="15" strings='{ "msg_move": "", "msg_line": "Line to point B", "msg_curve": "", "msg__curve": "", "msg_curve_": "", "msg_close": ""}'></api-example>
+<Example 
+  part="path_ops" 
+  caption="Example of the Path.line() method" 
+  options={{focus: 'line'}}
+/>
 
-## Path.curve()
+## curve()
 
 ```js
 Path path.curve(Point cp1, Point cp2, Point to)
@@ -74,9 +74,14 @@ Path path.curve(Point cp1, Point cp2, Point to)
 
 Draws a cubic Bezier curve from the current position via two control points to a given endpoint.
 
-<api-example o="path" m="curve" i="ops" margin="15" strings='{ "msg_move": "", "msg_line": "", "msg_curve": "Curve to point C", "msg__curve": "", "msg_curve_": "", "msg_close": ""}'></api-example>
+<Example 
+  part="path_ops" 
+  caption="Example of the Path.curve() method" 
+  options={{focus: 'curve'}}
+/>
 
-## Path.\_curve()
+
+## \_curve()
  
 ```js
 Path path._curve(Point cp2, Point to)
@@ -85,20 +90,28 @@ Path path._curve(Point cp2, Point to)
 Draws a cubic Bezier curve from the current position via two control points to a given endpoint.
 However, the start control point is identical to the start point.
 
-<api-example o="path" m="_curve" i="ops" margin="15" strings='{ "msg_move": "", "msg_line": "", "msg_curve": "", "msg__curve": "Curve to point D", "msg_curve_": "", "msg_close": ""}'></api-example>
+<Example 
+  part="path_ops" 
+  caption="Example of the Path._curve() method" 
+  options={{focus: '_curve'}}
+/>
 
-> ###### This method exists to save you some typing
-> 
-> Note that the two following calls yield the same result:
-> 
-> ```js
-> .curve(point1, point1, point2)
-> ._curve(point1, point2)
-> ```
-> 
-> So the only purpose of this method is to save your some typing;
+<Tip>
 
-## Path.curve\_()
+###### This method exists to save you some typing
+
+Note that the two following calls yield the same result:
+
+```js
+.curve(point1, point1, point2)
+._curve(point1, point2)
+```
+
+So the only purpose of this method is to save your some typing.
+
+</Tip>
+
+## curve\_()
 
 ```js
 Path path.curve_(Point cp1, Point to)
@@ -107,21 +120,29 @@ Path path.curve_(Point cp1, Point to)
 Draws a cubic Bezier curve from the current position via two control points to a given endpoint.
 However, the end control point is identical to the end point.
 
-<api-example o="path" m="curve_" i="ops" margin="15" strings='{ "msg_move": "", "msg_line": "", "msg_curve": "", "msg__curve": "", "msg_curve_": "Curve to point E", "msg_close": ""}'></api-example>
-
-> ###### This method exists to save you some typing
-> 
-> Note that the two following calls yield the same result:
-> 
-> ```js
-> .curve(point1, point2, point2)
-> .curve_(point1, point2)
-> ```
-> 
-> So the only purpose of this method is to save your some typing;
+<Example 
+  part="path_ops" 
+  caption="Example of the Path.curve_() method" 
+  options={{focus: 'curve_'}}
+/>
 
 
-## Path.close()
+<Tip>
+
+###### This method exists to save you some typing
+
+Note that the two following calls yield the same result:
+
+```js
+.curve(point1, point2, point2)
+.curve_(point1, point2)
+```
+
+So the only purpose of this method is to save your some typing;
+
+</Tip>
+
+## close()
 
 ```js
 Path path.close()
@@ -129,9 +150,13 @@ Path path.close()
 
 Closes a path by drawing a straight line from the current position to the path's start.
 
-<api-example o="path" m="close" i="ops" margin="15" strings='{ "msg_move": "", "msg_line": "", "msg_curve": "", "msg__curve": "", "msg_curve_": "", "msg_close": "Close the path"}'></api-example>
+<Example 
+  part="path_ops" 
+  caption="Example of the Path.close() method" 
+  options={{focus: 'close'}}
+/>
 
-## Path.attr()
+## attr()
 
 ```js
 Path path.attr(
@@ -147,9 +172,12 @@ This allows you to chain different calls together as in the example below.
 
 If the third parameter is set to `true` it will call `this.attributes.set()` instead, thereby overwriting the value of the attribute.
 
-<api-example o="path" m="attr" strings='{ "msg": "I am text on a path"}'></api-example>
+<Example 
+  part="path_attr" 
+  caption="Example of the Path.attr() method" 
+/>
 
-## Path.clone()
+## clone()
 
 ```js
 Path path.clone()
@@ -157,9 +185,12 @@ Path path.clone()
 
 Returns a new Path that is a deep copy of this path.
 
-<api-example o="path" m="clone"></api-example>
+<Example 
+  part="path_clone" 
+  caption="Example of the Path.clone() method" 
+/>
 
-## Path.divide()
+## divide()
 
 ```js
 array path.divide()
@@ -168,9 +199,12 @@ array path.divide()
 Breaks a path apart in an array of atomic paths. An atomic path is a path that can't be divided further and is
 always made up of one move + one drawing operation.
 
-<api-example o="path" m="divide"></api-example>
+<Example 
+  part="path_divide" 
+  caption="Example of the Path.divide() method" 
+/>
 
-## Path.edge()
+## edge()
 
 ```js
 Point path.edge(string side)
@@ -187,9 +221,12 @@ Returns the Point object at the edge of the path you specify. Edge must be one o
  - bottomLeft
  - bottomRight
 
-<api-example o="path" m="edge"></api-example>
+<Example 
+  part="path_edge" 
+  caption="Example of the Path.edge() method" 
+/>
 
-## Path.end()
+## end()
 
 ```js
 Point path.end()
@@ -197,25 +234,36 @@ Point path.end()
 
 Returns the Point object at the end of the path.
 
-<api-example o="path" m="end"></api-example>
+<Example 
+  part="path_end" 
+  caption="Example of the Path.end() method" 
+/>
 
-## Path.intersects()
+## intersects()
+
 ```
 array|false path.intersects(Path path)
 ```
 
 Returns the Point object(s) where the path intersects with a path you pass it.
 
-> ###### Use the intersection methods in Utils whenever possible
-> 
-> This is an expensive (read: slow) method that you should only use when you don't know
-> in advance in what segment of your path the intersection will occur.
-> 
-> If you do know, use one of the intersection methods in [Utils](#utils).
+<Tip>
 
-<api-example o="path" m="intersects"></api-example>
+###### Use the intersection methods in Utils whenever possible
 
-## Path.intersectsX()
+This is an expensive (read: slow) method that you should only use when you don't know
+in advance in what segment of your path the intersection will occur.
+
+If you do know, use one of the intersection methods in [Utils](/api/utils).
+
+</Tip>
+
+<Example 
+  part="path_intersects" 
+  caption="Example of the Path.intersects() method" 
+/>
+
+## intersectsX()
 
 ```js
 array|false path.intersectsX(float x)
@@ -223,9 +271,12 @@ array|false path.intersectsX(float x)
 
 Returns the Point object(s) where the path intersects with a given X-value.
 
-<api-example o="path" m="intersectsx"></api-example>
+<Example 
+  part="path_intersectsx" 
+  caption="Example of the Path.intersectsX() method" 
+/>
 
-## Path.intersectsY()
+## intersectsY()
 
 ```js
 array|false path.intersectsY(float y)
@@ -233,9 +284,12 @@ array|false path.intersectsY(float y)
 
 Returns the Point object(s) where the path intersects with a given Y-value.
 
-<api-example o="path" m="intersectsy"></api-example>
+<Example 
+  part="path_intersectsy" 
+  caption="Example of the Path.intersectsY() method" 
+/>
 
-## Path.join()
+## join()
 
 ```js
 Path path.join(path other)
@@ -243,13 +297,18 @@ Path path.join(path other)
 
 Joins this path with another path.
 
-<api-example o="path" m="join"></api-example>
+<Example 
+  part="path_join" 
+  caption="Example of the Path.join() method" 
+/>
 
-> ###### Only for unclosed paths
-> 
-> You cannot join a closed path to another path
+<Warning>
 
-## Path.length()
+You cannot join a closed path to another path
+
+</Warning>
+
+## length()
 
 ```js
 float path.length()
@@ -257,9 +316,12 @@ float path.length()
 
 Returns the length of the path.
 
-<api-example o="path" m="length"></api-example>
+<Example 
+  part="path_length" 
+  caption="Example of the Path.length() method" 
+/>
 
-## Path.offset()
+## offset()
  
 ```js
 Path path.offset(float distance)
@@ -267,9 +329,12 @@ Path path.offset(float distance)
 
 Returns a new Path that is offset by distance from the original path.
 
-<api-example o="path" m="offset"></api-example>
+<Example 
+  part="path_offset" 
+  caption="Example of the Path.offset() method" 
+/>
 
-## Path.reverse()
+## reverse()
 
 ```js
 Path path.reverse()
@@ -277,9 +342,12 @@ Path path.reverse()
 
 Returns a path that is the reversed version of this path. As in, start becomes end, and end becomes start.
 
-<api-example o="path" m="reverse" strings='{ "msg": "This path starts here", "gsm": "But now it starts here"}'></api-example>
+<Example 
+  part="path_reverse" 
+  caption="Example of the Path.reverse() method" 
+/>
 
-## Path.shiftAlong()
+## shiftAlong()
 
 ```js
 Point path.shiftAlong(float distance)
@@ -287,9 +355,13 @@ Point path.shiftAlong(float distance)
 
 Returns a point that lies at distance travelled along the path.
 
-<api-example o="path" m="shiftalong" strings='{ "msg_2cm": "Shifted 2cm\nalong path", "msg_9cm": "Shifted 9cm\nalong path"}'></api-example>
+<Example 
+  part="path_shiftalong" 
+  caption="Example of the Path.shiftAlong() method" 
+/>
 
-## Path.shiftFractionAlong()
+
+## shiftFractionAlong()
 
 ```js
 Point path.shiftFractionAlong(float fraction)
@@ -297,9 +369,13 @@ Point path.shiftFractionAlong(float fraction)
 
 Returns a point that lies at fraction of the length of the path travelled along the path.
 
-<api-example o="path" m="shiftfractionalong" strings='{ "msg_20": "Shifted 20%\nalong path", "msg_90": "Shifted 90%\nalong path"}'></api-example>
+<Example 
+  part="path_shiftfractionalong" 
+  caption="Example of the Path.shiftFractionAlong() method" 
+/>
 
-## Path.split()
+
+## split()
  
 ```js
 array path.split(Point splitPoint)
@@ -307,9 +383,13 @@ array path.split(Point splitPoint)
 
 Splits a path in two halves, on a point along that path that you pass it.
 
-<api-example o="path" m="split"></api-example>
+<Example 
+  part="path_split" 
+  caption="Example of the Path.split() method" 
+/>
 
-## Path.start()
+
+## start()
 
 ```js
 Point path.start()
@@ -317,9 +397,12 @@ Point path.start()
 
 Returns the Point object at the start of the path.
 
-<api-example o="path" m="start"></api-example>
+<Example 
+  part="path_start" 
+  caption="Example of the Path.start() method" 
+/>
 
-## Path.translate()
+## translate()
  
 ```js
 Path path.translate(float deltaX, float deltaY)
@@ -329,9 +412,12 @@ Returns a path with
 [a translate transform](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform#Translate)
 applied.
 
-<api-example o="path" m="translate" strings='{"msg_path": "I am a path", "msg_transform": "Now I am transformed"}'></api-example>
+<Example 
+  part="path_translate" 
+  caption="Example of the Path.translate() method" 
+/>
 
-## Path.trim()
+## trim()
 
 ```js
 Path path.trim()
@@ -339,20 +425,27 @@ Path path.trim()
 
 Returns a new Path that is this path with overlapping parts removed.
 
-This method is typically used when [Path.offset()](#path-offset) caused some overlap.
+This method is typically used when [Path.offset()](#offset) caused some overlap.
 
-> ###### Warning: Use sparsely or performance will suffer
->
-> This method is recursive and complex, and the performance penalty for using
-> it on a long/complex path will be significant.
-> 
-> To limit the impact of path.trim(), follow this approach:
-> 
->  - construct a minimal path that contains the overlap
->  - trim it
->  - now join it to the rest of your path
-> 
-> You can see an example of this 
-> [in the front part of the Bruce pattern](https://github.com/freesewing/bruce/blob/master/src/front.js#L139).
+<Warning>
 
-<api-example o="path" m="trim"></api-example>
+###### Use sparsely or performance will suffer
+
+This method is recursive and complex, and the performance penalty for using
+it on a long/complex path will be significant.
+
+To limit the impact of path.trim(), follow this approach:
+
+ - construct a minimal path that contains the overlap
+ - trim it
+ - now join it to the rest of your path
+
+You can see an example of this 
+[in the front part of the Bruce pattern](https://github.com/freesewing/freesewing/blob/develop/packages/bruce/src/front.js#L195).
+
+</Warning>
+
+<Example 
+  part="path_trim" 
+  caption="Example of the Path.trim() method" 
+/>
