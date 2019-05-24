@@ -11,14 +11,6 @@ All of these have an instantiated Attributes object in their `attributes` proper
 
 An Attributes object exposes the following methods:
 
- - `add()`: Adds a new attributed value under the specified key
- - `clone()`: Returns a deep copy of the attributes object
- - `get()`: Returns the attribute value(s) as a string
- - `getAsArray()`: Returns teh attribute value(s) as an array
- - `remove()`: Removes the attribute(s) under key
- - `set()`: Sets the attribute(s) under the specified key to the value passed to it
-
-
 ## add()
 
 ```js

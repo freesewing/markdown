@@ -1,10 +1,6 @@
 ---
 title: Snippet
-path: /en/docs/developer/api/snippet
-components: true
 ---
-
-## Description
 
 A snippet is a reuseable bit of markup for your pattern. They are added to the
 SVG `defs` section, and rendered with the SVG `use` tag.
@@ -26,7 +22,7 @@ A Snippet object comes with the following properties:
 
 In addition, a Snippet object exposes the following methods:
 
-## Snippet.attr()
+## attr()
 
 ```js
 Snippet snippet.attr(
@@ -42,9 +38,12 @@ but returns the Snippet object.  This allows you to chain different calls togeth
 If the third parameter is set to `true` it will call [attributes.set](./attributes#set) instead, 
 thereby overwriting the value of the attribute.
 
-<api-example o="snippet" m="attr"></api-example>
+<Example
+  part="snippet_attr"
+  caption="An example of the Snippet.attr() method"
+/>
 
-## Snippet.clone()
+## clone()
 
 ```js
 Snippet snippet.clone()
@@ -52,5 +51,7 @@ Snippet snippet.clone()
 
 Returns a new Snippets object that is a deep copy of this one.
 
-<api-example o="snippet" m="clone"></api-example>
-
+<Example
+  part="snippet_clone"
+  caption="An example of the Snippet.clone() method"
+/>

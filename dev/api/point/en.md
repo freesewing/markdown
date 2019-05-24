@@ -1,17 +1,6 @@
 ---
 title: Point
-path: /en/docs/developer/api/point
-components: true
-i18n:
-  boxTitle: Nevermind that box() method
-  boxInfo: You can ignore the box() method used in this example. In your patterns, you simply return the part object. 
-  boxWhy: The bounding box of a pattern part is calculated based on the paths used in that part. Some of these examples don't have any paths, and thus our example pattern has an extra box() method that draws an (invisible) diagonal line to force the bounding box to a certain size. 
-  i18nTitle: This pattern uses the i18n plugin
-  i18nInfo: You'll notice that the text used in this pattern is different from the text inserted in the code. That's because this pattern uses the i18n plugin to allow translation.
-  i18nData: In this case, we provided the following data to the i18n plugin
 ---
-
-## Description
 
 A Point object represents a point on a 2D plane with an X and Y axis.
 
@@ -32,7 +21,7 @@ Point new Point(x, y);
 
 In addition, a Point object exposes the following methods:
 
-## Point.attr()
+## attr()
 
 ```js
 Point point.attr(
@@ -47,9 +36,12 @@ This allows you to chain different calls together as in the example below.
 
 If the third parameter is set to `true` it will call `this.attributes.set()` instead, thereby overwriting the value of the attribute.
 
-<api-example o="point" m="attr" box="1" strings='{ "msg": "Hello world!\nThis is\na line break"}'></api-example>
+<Example 
+  part="point_attr"
+  caption="An example of the Point.attr() method"
+/>
 
-## Point.dx()
+## dx()
 
 ```js
 float point.dx(Point point)
@@ -57,9 +49,12 @@ float point.dx(Point point)
 
 Returns de delta along the X-axis between this point and the point you pass it.
 
-<api-example o="point" m="dx" ></api-example>
+<Example 
+  part="point_dx"
+  caption="An example of the Point.dx() method"
+/>
 
-## Point.dy()
+## dy()
 
 ```js
 float point.dy(Point point)
@@ -67,9 +62,12 @@ float point.dy(Point point)
 
 Returns de delta along the Y-axis between this point and the point you pass it.
 
-<api-example o="point" m="dy" ></api-example>
+<Example 
+  part="point_dy"
+  caption="An example of the Point.dy() method"
+/>
 
-## Point.dist()
+## dist()
 
 ```js
 float point.dist(Point point)
@@ -77,9 +75,12 @@ float point.dist(Point point)
 
 Returns the distance between this point and the point you pass it.
 
-<api-example o="point" m="dist" ></api-example>
+<Example 
+  part="point_dist"
+  caption="An example of the Point.dist() method"
+/>
 
-## Point.angle()
+## angle()
 
 ```js
 float point.angle(Point point)
@@ -87,9 +88,12 @@ float point.angle(Point point)
 
 Returns the angle made by a line from this point to the point you pass it.
 
-<api-example o="point" m="angle" ></api-example>
+<Example 
+  part="point_angle"
+  caption="An example of the Point.angle() method"
+/>
 
-## Point.rotate()
+## rotate()
 
 ```js
 Point point.rotate(float angle, Point center)
@@ -97,9 +101,12 @@ Point point.rotate(float angle, Point center)
 
 Rotates a point the number of degrees you pass it around the point you pass it.
 
-<api-example o="point" m="rotate" ></api-example>
+<Example 
+  part="point_rotate"
+  caption="An example of the Point.rotate() method"
+/>
 
-## Point.flipx()
+## flipX()
 
 ```js
 Point point.flipX(Point mirror = false)
@@ -109,9 +116,12 @@ Returns a new point that mirrors this point around the X-value of the point your
 
 If you don't pass it a point, it will mirror around an X-value of zero.
 
-<api-example o="point" m="flipx" ></api-example>
+<Example 
+  part="point_flipx"
+  caption="An example of the Point.flipX() method"
+/>
 
-## Point.flipY()
+## flipY()
 
 ```js
 Point point.flipY(Point mirror = false)
@@ -121,9 +131,12 @@ Returns a new point that mirrors this point around the Y-value of the point your
 
 If you don't pass it a point, it will mirror around a Y-value of zero.
 
-<api-example o="point" m="flipy" ></api-example>
+<Example 
+  part="point_flipy"
+  caption="An example of the Point.flipY() method"
+/>
 
-## Point.shift()
+## shift()
 
 ```js
 Point point.shift(float degrees, float distance)
@@ -131,9 +144,12 @@ Point point.shift(float degrees, float distance)
 
 Returns a point that lies distance in the direction of degrees from this point.
 
-<api-example o="point" m="shift" ></api-example>
+<Example 
+  part="point_shift"
+  caption="An example of the Point.shift() method"
+/>
 
-## Point.shiftTowards()
+## shiftTowards()
 
 ```js
 Point point.shiftTowards(Point target, float distance)
@@ -141,9 +157,12 @@ Point point.shiftTowards(Point target, float distance)
 
 Returns a point that lies distance in the direction of target.
 
-<api-example o="point" m="shifttowards" ></api-example>
+<Example 
+  part="point_shift"
+  caption="An example of the Point.shiftTowards() method"
+/>
 
-## Point.shiftFractionTowards()
+## shiftFractionTowards()
 
 ```js
 Point point.shiftFractionTowards(Point target, float fraction)
@@ -151,9 +170,12 @@ Point point.shiftFractionTowards(Point target, float fraction)
 
 Returns a point that is shifted towards the target by a fraction of the distance between this point and the target.
 
-<api-example o="point" m="shiftfractiontowards" ></api-example>
+<Example 
+  part="point_shiftfractiontowards"
+  caption="An example of the Point.shiftFractionTowards() method"
+/>
 
-## Point.shiftOutwards()
+## shiftOutwards()
 
 ```js
 Point point.shiftOutwards(Point direction, float distance)
@@ -161,9 +183,12 @@ Point point.shiftOutwards(Point direction, float distance)
 
 Returns a point that is shifted distance beyond target in the direction of target.
 
-<api-example o="point" m="shiftshiftoutwards" ></api-example>
+<Example 
+  part="point_shiftoutwards"
+  caption="An example of the Point.shiftOutwards() method"
+/>
 
-## Point.translate()
+## translate()
  
 ```js
 Point point.translate(float deltaX, float deltaY)
@@ -178,9 +203,12 @@ In other words, this will:
  - Add `deltaX` to the point's X-coordinate
  - Add `deltaY` to the point's Y-coordinate
 
-<api-example o="point" m="transform" ></api-example>
+<Example 
+  part="point_translate"
+  caption="An example of the Point.translate() method"
+/>
 
-## Point.sitsOn()
+## sitsOn()
 
 ```js
 bool point.sitsOn(Point check)
@@ -188,9 +216,12 @@ bool point.sitsOn(Point check)
 
 Returns true is the point has the same coordinates as the one you pass to it.
 
-<api-example o="point" m="sitson" ></api-example>
+<Example 
+  part="point_sitson"
+  caption="An example of the Point.sitsOn() method"
+/>
 
-## Point.sitsRoughlyOn()
+## sitsRoughlyOn()
 
 ```js
 bool point.sitsRoughlyOn(Point check)
@@ -198,12 +229,20 @@ bool point.sitsRoughlyOn(Point check)
 
 Returns true is the point has roughly the same coordinates as the one you pass to it.
 
-> ###### How rough?
-> The difference between this method and [Point.sitsOn](#pointsitson) is that this one rounds things down to the nearest integer (thus mm) before checking.
+<Note>
 
-<api-example o="point" m="sitsroughlyon" ></api-example>
+###### How rough?
 
-## Point.copy()
+The difference between this method and [Point.sitsOn](#pointsitson) is that this one rounds things down to the nearest integer (thus mm) before checking.
+
+</Note>
+
+<Example 
+  part="point_sitsroughlyon"
+  caption="An example of the Point.sitsRoughlyOn() method"
+/>
+
+## copy()
 
 ```js
 Point point.copy()
@@ -211,17 +250,30 @@ Point point.copy()
 
 Returns a new point with the same coordinates as this point.
 
-<api-example o="point" m="copy" ></api-example>
+<Example 
+  part="point_copy"
+  caption="An example of the Point.copy() method"
+/>
 
-## Point.clone()
+
+## clone()
 ```
 Point point.clone()
 ```
 
 Returns a new point with the same coordinates and attributes as this point.
 
-<api-example o="point" m="clone" ></api-example>
+<Example 
+  part="point_clone"
+  caption="An example of the Point.clone() method"
+/>
 
-> ###### Copy vs clone
-> The `Point.copy()` method will only copy the point's coordinates, whereas this
-> `Point.clone()` method will also copy its attributes.
+<Note>
+
+###### Copy vs clone
+
+The `Point.copy()` method will only copy the point's coordinates, whereas this
+`Point.clone()` method will also copy its attributes.
+
+</Note>
+

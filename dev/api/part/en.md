@@ -13,12 +13,6 @@ Each Part object comes with the following properties:
 
 In addition, a Part object exposes the following methods:
 
- - [Part.copy()](#partcopy) : Copies points/paths/snippets from the part you pass it
- - [Part.getId()](#partgetid) : Returns a free ID
- - [Part.shorthand()](#partshorthand) : Returns a plain object that can save you some typing
- - [Part.units()](#partunits) : Formats a number according to the units requested by the user
-
-
 ## copy()
 
 ```js
