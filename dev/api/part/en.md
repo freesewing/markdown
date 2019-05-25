@@ -68,6 +68,8 @@ This method returns a plain object with the following properties:
 As the name implies, this method can save you a bunch of typing, and keep your
 code concise. We highly recommend it. Below are some examples:
 
+### Part.shorthand() example
+
 ```js{16}
 // You could write this:
 part.points.from = new part.Point(

@@ -4,8 +4,8 @@ title: Attributes
 
 Attributes is an object that holds attributes for a variety of other objects.
 
-Attributes are attached to [Point](/api/point), [Path](/api/path), and [Snippet](/api/snippet) objects,
-as well as the internal [Svg](/api/svg) object. 
+Attributes are attached to [`Point`](/api/point), [`Path`](/api/path), and [`Snippet`](/api/snippet) objects,
+as well as the internal [`Svg`](/api/svg) object. 
 
 All of these have an instantiated Attributes object in their `attributes` property.
 
@@ -21,6 +21,8 @@ Adds `value` to the attribute identified by `key`.
 
 Adding multiple values to the same key will result in them being joined together 
 (with a space) when rendering.
+
+### Attributes.add() example
 
 ```js
 let { Path, paths } = part.shorthand();
@@ -58,6 +60,8 @@ Will return the value of attribute stored under `key`, or `false` if it's not se
 
 If key has multiple values, they will be joined together in a string, seperated by spaces.
 
+### Attributes.get() example
+
 ```js
 let { Path, paths } = part.shorthand();
 
@@ -78,6 +82,8 @@ array attributes.getAsArray(string key)
 
 Will return an array with the value of attribute stored under `key`, or `false` if it's not set.
 
+### Attributes.getAsArray() example
+
 ```js
 let { Path, paths } = part.shorthand();
 
@@ -96,6 +102,8 @@ Attributes attributes.remove(string key)
 ```
 
 Removes the attribute values under key and returns the Attributes object.
+
+### Attributes.remove() example
 
 ```js
 let { Path, paths } = part.shorthand();
@@ -124,7 +132,9 @@ This will overwrite any value that's currently set on the attribute identified b
 
 </Warning>
 
-```js{2,3}
+### Attributes.set() example
+
+```js
 let { Path, paths } = part.shorthand();
 
 // This will render as: class="classB"

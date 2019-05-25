@@ -14,32 +14,19 @@ A store is typically used to share information between parts. For example
 the length of the neck opening in one part can be used to calculate the 
 length for the collar in another part.
 
-> ###### The store is available as shorthand
->
-> You can access the store instance from the [Part.shorthand](./part#shorthand) method;
->
->```js
->let { store } = part.shorthand();
->```
+<Tip>
 
-## Store.set()
+###### The store is available as shorthand
+
+You can access the store instance from the [Part.shorthand](./part#shorthand) method;
 
 ```js
-void store.set(string key, mixed value)
+let { store } = part.shorthand();
 ```
 
-Stores the value of `value` in the store under key `key`.
+</Tip>
 
-## Store.setIfUnset()
-
-```js
-void store.setIfUnset(string key, mixed value)
-```
-
-Stores the value of `value` in the store under key `key`,
-but only if that key does not already hold a value.
-
-## Store.get()
+## get()
 
 ```js
 mixed store.get(string key)
@@ -47,3 +34,19 @@ mixed store.get(string key)
 
 Returnes the value stored under `key`.
 
+## set()
+
+```js
+void store.set(string key, mixed value)
+```
+
+Stores the value of `value` in the store under key `key`.
+
+## setIfUnset()
+
+```js
+void store.setIfUnset(string key, mixed value)
+```
+
+Stores the value of `value` in the store under key `key`,
+but only if that key does not already hold a value.
