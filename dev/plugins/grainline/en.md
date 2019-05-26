@@ -61,5 +61,7 @@ void macro("grainline", {
 ```
 The macro takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the grainline indicator from
- - `to`: A [`Point`](/api/point) object to end the grainline indicator at
+| Property   | Decription                                                               |
+| ---------: | ------------------------------------------------------------------------ |
+| to         | A [Point](/api/point) object for the start of the cut-on-fold indicator |
+| from       | A [Point](/api/point) object for the end of the cut-on-fold indicator   |

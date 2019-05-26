@@ -1,8 +1,15 @@
 --- 
-path: /en/docs/developer/settings
 title: Settings
-components: true
 ---
+
+<Note>
+
+Settings are what the user passes to your pattern at run-time.
+
+Don't confuse them with the [pattern configuration](/config) that is determined by
+the designer at build-time.
+
+</Note>
 
 ## measurements
 
@@ -19,32 +26,28 @@ let pattern = new Brian({
 })
 ```
 
-> ###### Try our models while developing
->
-> When designing a pattern, you want to test it with a bunch of different,
-> yet realistic, measurements.
-> 
-> We publish the [@freesewing/models](https://github.com/freesewing/models)
-> package exactly for this purpose. It comes with a set of models (with and 
-> without breasts) with (probaly) all the measurements you need.
+<Tip>
 
-> ###### Validation is optional
->
-> By default, patterns won't complain when measurements are missing, and simply try to 
-> draft the pattern with the information available. 
-> 
-> That often goes off the rails, so you might want to consider using 
-> [the validate plugin](https://github.com/freesewing/plugin-validate)
-> to validate all measurements are provided prior to attemping a draft.
-> 
-> Then again, if you already do this validation in your front-end, you can
-> skip that extra check.
+###### Try our models while developing
+
+When designing a pattern, you want to test it with a bunch of different,
+yet realistic, measurements.
+
+We publish the [@freesewing/models](/packages/models)
+package exactly for this purpose. It comes with a set of models (with and 
+without breasts) with (probaly) all the measurements you need.
+
+</Tip>
 
 ## options
 
 The pattern options as specified in the pattern configuration.
 
+<Note>
+
 Unlike measurements, options come with defaults.
+
+</Note>
 
 ```js
 import brian from "@freesewing/brian";
@@ -119,7 +122,7 @@ let pattern = new Brian({
 A 2-letter language code that indicates what language the user wants.
 
 This will be used to set the `xml:lang` attribute in the `svg` tag when rendering to SVG,
-and by [the i18n plugin](https://github.com/freesewing/plugin-i18n) to translate the pattern.
+and by [the i18n plugin](/plugins/i18n) to translate the pattern.
 
 ```js
 import brian from "@freesewing/brian";
@@ -161,13 +164,17 @@ let pattern = new Brian({
 })
 ```
 
-> ###### For paperless, the minimal margin is 10mm
->
-> In paperless mode, the margin will not go below 10mm. 
-> 
-> That is because text is not taken into account when calculating the bounding box of the part.
-> Since dimensions are typically the outermost elements in a paperless part, 
-> a too narrow margin would cause the dimension text to get cut off.
+<Note>
+
+###### For paperless, the minimal margin is 10mm
+
+In paperless mode, the margin will not go below 10mm. 
+
+That is because text is not taken into account when calculating the bounding box of the part.
+Since dimensions are typically the outermost elements in a paperless part, 
+a too narrow margin would cause the dimension text to get cut off.
+
+</Note>
 
 ## embed
 
@@ -184,8 +191,11 @@ let pattern = new Brian({
 })
 ```
 
-> Do **not** use this for SVGs you want to print.
+<Warning>
 
+Do **not** use this for SVGs you want to print.
+
+</Warning>
 
 ## idPrefix
 
@@ -209,14 +219,14 @@ let pattern = new Brian({
 Allows you to control the way pattern parts are laid out on the pattern.
 There are 3 scenarios:
 
-###### layout is true
+### layout is true
 
 This is the default behaviour. Parts will be laid without overlap in 
 a space that's a small as possible. 
 
-<pattern-example pattern="aaron"></pattern-example>
+<Note>FIXME: Insert example</Note>
 
-###### layout is false
+### layout is false
 
 This will cause all parts to be laid out on top of each other.
 
@@ -224,9 +234,9 @@ It is almost certainly not what you want, but having all parts piled
 on top of each other in the top left corner can be a good starting
 point for a custom layout.
 
-<pattern-example pattern="aaron" layout="false"></pattern-example>
+<Note>FIXME: Insert example</Note>
 
-###### layout is a layout object
+### layout is a layout object
 
 This allows you to control the layout by passing a layout object.
 This object should be structures as such:
@@ -260,8 +270,3 @@ For each part in the `parts` attribute of our layout object, there are 4 possibl
  - flipX: Will flip/mirror the part horizontally
  - flipY: Will flip/mirror the part vertically
 
-
-> ###### Serious about custom layouts?
->
-> Look at the [SVG object attributes](/en/docs/developer/api/svg) if you're serious about using
-> a custom layout.

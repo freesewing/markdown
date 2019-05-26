@@ -24,6 +24,14 @@ macro("scalebox", {
 });
 ```
 
+<Note>
+
+###### Purpose of a scale box
+
+A scalebox allows people to verify the pattern is printed at the correct scale
+
+</Note>
+
 <Tip>
 
 The scalebox plugin is part of our [plugin-bundle](/plugins/bundle)
@@ -62,8 +70,12 @@ void macro("scalebox", {
 ```
 The macro takes a single configuration object with the following properties:
 
- - `at`: A [`Point`](/api/point) object at which to anchor the scalebox
- - `rotate`: An optional number of degrees to rotate the scalebox by
- - `lead`: The scalebox's lead text. Defaults to *FreeSewing*
- - `title`: The scalebox's title text. Defaults to the pattern name
- - `text`: The scalebox's text. Defaults to *Freesewing is made by ...*
+| Property   | Default                | Decription                                                    |
+| ---------: | :--------------------: | ------------------------------------------------------------- |
+| at         |                        | A [Point](/api/#point) object at which to insert the scalebox |
+| lead       | freesewing             | The lead above the title                                      |
+| title      | pattern name + version | The pattern title                                             |
+| text       | See (\*)                | The text below the title                                      |
+| rotate     | 0                      | An optional number of degrees to rotate the scalebox by       |
+
+(\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`

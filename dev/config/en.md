@@ -1,14 +1,12 @@
 ---
-path: /en/docs/developer/config
 title: Configuration
 ---
-
 This is about the pattern configuration file.
-Freesewing (the library) does not require configuration. 
+FreeSewing (the library) does not require configuration. 
 The configuration documented here is the configuration file for
-patterns built on top of freesewing.
+patterns built on top of FreeSewing.
 
-For run-time configuration, see [settings](/en/docs/developer/settings/).
+For run-time configuration, see [settings](/settings).
 
 ## name
 
@@ -24,16 +22,6 @@ A string with the name of your pattern.
 version: "0.3.1"
 ```
 
-A string with the version of your pattern.
-
-> ###### Don't set this manually
->
-> Having to manually update the version in your config file is setting yourself
-> up for failure. Instead, load the version number from your `package.json` file.
-> 
-> Our [Pattern template](https://github.com/freesewing/pattern-template/blob/master/config/config.js)
-> uses this approach too.
-
 ## dependencies
 
 ```js
@@ -45,14 +33,11 @@ dependencies: {
 
 An object of `key`-`value` pairs that controls the order in which pattern parts will get drafted.
 
-The `key` must be a part name, the `value` can be a string holding one part name, 
-or an array of strings holding multiple part names.
+<Tip>
 
-This will be used to determine the order in which parts are drafted, and whether 
-a part is drafted at all.
+See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
 
-In the example above, if the user only requests the `front` part, we will stil
-draft the `back` part since it's a dependency.
+</Tip>
 
 ## inject
 
@@ -67,13 +52,12 @@ An object of `key`-`value` pairs of parts. The `value` part will be injected in 
 By *injected* we mean rather than starting out with a fresh part, you'll get a part that
 has the points, paths, and snippets of the `value` part.
 
-> ###### dependencies vs inject
->
-> Use a dependency when one part depends on another. For example, your sleeve depends on
-> the length of the armhole which you've stored in the store.
-> 
-> Use inject if your part builds on top of another part. For example, the front is 
-> just the back part with some extra tweaks.
+<Tip>
+
+See [Part inheritance](/advanced/inject) for more in-depth information on inject.
+
+</Tip>
+
 
 ## hide
 
@@ -98,13 +82,16 @@ parts: [
 
 An array that lists your (additional) pattern parts. The name must be the key the `pattern.parts` object.
 
-> ###### This does not need to be an exhaustive list of all parts in your pattern.
->
-> This list of parts is needed for the `draft()` method to figure out what
-> parts need to be drafted.
-> So if parts are included in the `dependencies`, `inject`, or `hide` configuration, 
-> there's no need to include them here, as we already know of their existence.
+<Tip>
 
+###### This does not need to be an exhaustive list of all parts in your pattern.
+
+This list of parts is needed for the `draft()` method to figure out what
+parts need to be drafted.
+So if parts are included in the `dependencies`, `inject`, or `hide` configuration, 
+there's no need to include them here, as we already know of their existence.
+
+</Tip>
 
 ## measurements
 
@@ -114,13 +101,18 @@ measurements: [
   "centerBackNeckToWaist"
 ]
 ```
+
 An array with the names of the measurements required to draft this pattern. 
 
-> ###### Don't just make up names
->
-> See [freesewing models](https://github.com/freesewing/models) 
-> for a list of measurement names already used in freesewing patterns.
-> It is a [best practice](/en/docs/developer/do#dont-re-invent-the-wheel) to stick to these names.
+<Note>
+
+###### Don't just make up names
+
+See [freesewing models](https://github.com/freesewing/models) 
+for a list of measurement names already used in freesewing patterns.
+It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
+
+</Note>
 
 ## options
 
@@ -173,12 +165,16 @@ options: {
 }
 ```
 
-> ###### Percentage options will be divided by 100 when loaded
->
-> You specify percentages in your config file. For example, `50` means 50%.
-> When your configuration is loaded, those percentages will by divided by 100. 
-> 
-> So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
+<Note>
+
+###### Percentage options will be divided by 100 when loaded
+
+You specify percentages in your config file. For example, `50` means 50%.
+When your configuration is loaded, those percentages will by divided by 100. 
+
+So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
+
+</Note>
 
 ### Millimeters
 
@@ -266,3 +262,69 @@ options: {
   }
 }
 ```
+
+## Extra
+
+Patterns also take these configuration options to facilitate frontend integration:
+
+### design
+
+The name of the designer:
+
+```js
+design: "Joost De Cock"
+```
+
+### code
+
+The name of the developer:
+
+```js
+code: "Joost De Cock"
+```
+
+### type
+
+Either `pattern` or `block`.
+
+```js
+type: "pattern"
+```
+
+### difficulty
+
+A `1` to `5` difficulty score that indicates how hard it is to make the pattern:
+
+```js
+difficulty: 3
+```
+
+### tags
+
+A set of tags to allow filtering of patterns on the website:
+
+```js
+tags: ["underwear", "top", "basics"],
+```
+
+### optionGroups
+
+Organises your pattern options in groups. It expects an object where the key is the group title,
+and the value an array of options:
+
+```js
+optionGroups: {
+  fit: ["chestEase", "hipsEase", "stretchFactor"],
+  style: [
+    "armholeDrop",
+    "backlineBend",
+    "necklineBend",
+    "necklineDrop",
+    "shoulderStrapWidth",
+    "shoulderStrapPlacement",
+    "lengthBonus"
+  ]
+} 
+```
+
+

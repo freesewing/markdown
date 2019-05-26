@@ -10,7 +10,12 @@ title: dimension
 &nbsp;
 [![Open issues tagged pkg:plugin-dimension](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-dimension.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-dimension)
 
-The **dimension** plugin provides `hd`, `vd`, `ld`, and `pd` [macros](/plugins#macros):
+The **dimension** plugin provides the following [macros](/plugins#macros):
+
+ - [hd](#hd) : Adds a horizontal dimension
+ - [vd](#vd) : Adds a vertical dimension
+ - [ld](#ld) : Adds a linear dimension
+ - [pd](#pd) : Adds a dimension along a path
 
 <Example part="plugin_dimension" caption="An example of the different dimensinon macros" design={false} />
 
@@ -102,9 +107,15 @@ void macro("hd", {
 The `hd` macro draws a horizontal dimenstion.
 It takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the cutonfold indicator from
- - `to`: A [`Point`](/api/point) object to end the cutonfold indicator at
- - `y`: The Y-value at which to draw the dimension
+| Property      | Default              | Decription                                                   |
+| ------------: | :------------------: | ------------------------------------------------------------ |
+| to            |                      | A [Point](/api/point) object for the start of the dimension |
+| from          |                      | A [Point](/api/point) object for the end of the dimension   |
+| y             |                      | The Y-coordinate at which to draw the dimension              |
+| text          | `units(from.dx(to))` | The text to be placed on the dimension                       |
+| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
+| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
+
 
 ### vd
 
@@ -119,9 +130,14 @@ void macro("vd", {
 The `vd` macro draws a vertical dimenstion.
 It takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the cutonfold indicator from
- - `to`: A [`Point`](/api/point) object to end the cutonfold indicator at
- - `x`: The X-value at which to draw the dimension
+| Property   | Default              | Decription                                                   |
+| ---------: | :------------------: | ------------------------------------------------------------ |
+| to         |                      | A [Point](/api/point) object for the start of the dimension |
+| from       |                      | A [Point](/api/point) object for the end of the dimension   |
+| x          |                      | The X-coordinate at which to draw the dimension              |
+| text       | `units(from.dy(to))` | The text to be placed on the dimension                       |
+| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
+| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
 
 ### ld
 
@@ -136,9 +152,14 @@ void macro("ld", {
 The `ld` macro draws a linear dimenstion.
 It takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the cutonfold indicator from
- - `to`: A [`Point`](/api/point) object to end the cutonfold indicator at
- - `d`: The distance by which the dimension should be offset from the straight line betweeen `from` and `to`
+| Property   | Default                | Decription                                                   |
+| ---------: | :--------------------: | ------------------------------------------------------------ |
+| to         |                        | A [Point](/api/point) object for the start of the dimension |
+| from       |                        | A [Point](/api/point) object for the end of the dimension   |
+| d          |                        | The distance to offset the dimension by                      |
+| text       | `units(from.dist(to))` | The text to be placed on the dimension                       |
+| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
+| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
 
 ### pd
 
@@ -152,6 +173,11 @@ void macro("pd", {
 The `ld` macro draws a dimenstion parallel to a [Path](/api/path).
 It takes a single configuration object with the following properties:
 
- - `path`: A [`Path`](/api/path) the dimension should follow
- - `d`: The distance by which the dimension should be offset from the path it follows
+| Property   | Default                | Decription                                                 |
+| ---------: | :--------------------: | ---------------------------------------------------------- |
+| path       |                        | A [Path](/api/#path) object for which to add the dimension |
+| d          |                        | The distance to offset the dimension by                    |
+| text       | `units(path.length())` | The text to be placed on the dimension                     |
+| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
+| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
 

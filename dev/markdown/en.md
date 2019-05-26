@@ -1,6 +1,5 @@
 ---
 title: Markdown help
-path: /en/docs/markdown
 ---
 
 Markdown is a lightweight markup language with plain text formatting syntax. 

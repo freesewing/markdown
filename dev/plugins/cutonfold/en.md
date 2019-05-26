@@ -35,6 +35,14 @@ macro("cutonfold", {
   grainline: true
 });
 ```
+<Note>
+
+###### It's safe to use a corner of your pattern part for this
+
+Since this is typically used on corners, the generated cut-on-fold indicator 
+will not go all the way to the `to` and `from` points.
+
+</Note>
 
 <Tip>
 
@@ -72,6 +80,9 @@ void macro("cutonfold", {
 ```
 The macro takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the cutonfold indicator from
- - `to`: A [`Point`](/api/point) object to end the cutonfold indicator at
- - `grainline`: Set this to `true` to indicate that the cutonfold indicator also indicates the grainline. Defaults to `false`
+| Property   | Default | Decription                                                               |
+| ---------: | :-----: | ------------------------------------------------------------------------ |
+| to         |         | A [Point](/api/point) object for the start of the cut-on-fold indicator |
+| from       |         | A [Point](/api/point) object for the end of the cut-on-fold indicator   |
+| grainline  | `false` | Set this to `true` to indicate this is also marks the grainline          |
+

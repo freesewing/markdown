@@ -66,10 +66,13 @@ void macro("title", {
 ```
 The macro takes a single configuration object with the following properties:
 
- - `at`: A [`Point`](/api/point) object where to anchor the title
- - `nr`: The part number
- - `title`: The part title
- - `rotation`: An optional rotation in degrees
- - `scale`: An optional scaling factor
- - `prefix`: An optional prefix for the points this macro adds to the part. You'll need this if you want to add multiple titles to the part
- - `append`: A boolean which signals the part nr should be appended. Typically used when extending a base part into a, b, ... varieties. Defaults to `false`.
+| Property   | Default | Decription                                                 |
+| ---------: | :-----: | ---------------------------------------------------------- |
+| at         |         | A [Point](/api/#point) object at which to insert the title |
+| nr         |         | The number of the pattern part                             |
+| title      | ""      | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr.|
+| prefix     | ""      | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.|
+| append     | `false` | Set this to `true` to append the `nr` to any text already set in Point `at`'s attributes, rather than overwrite it |
+| rotation   | 0       | An optional rotation in degrees |
+| scale      | 1       | An optional scaling factor |
+
