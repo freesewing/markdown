@@ -147,6 +147,3 @@ paths.demo = new Path()
   .attr('class', 'classA', true)
   .attr('class', 'classB', true);
 ```
-
-<PrevNext prev="/api" next="/api/part" />
-

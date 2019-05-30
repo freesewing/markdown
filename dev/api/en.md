@@ -30,5 +30,3 @@ instantiate your pattern.
 See [creating a new pattern design](/concepts/new-design) for an example.
 
 </Tip>
-
-<PrevNext next="/api/attributes" />
