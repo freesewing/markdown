@@ -4,7 +4,7 @@ title: round
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
 &nbsp;
-[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-round.svg?label="License)](https://www.npmjs.com/package/@freesewing/plugin-round)
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-round.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-round)
 &nbsp;
 [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
 &nbsp;
@@ -85,16 +85,19 @@ void macro("round", {
 ```
 The macro takes a single configuration object with the following properties:
 
- - `from`: A [`Point`](/api/point) object to start the rounding from
- - `to`: A [`Point`](/api/point) object to end the rounding towards
- - `via`: A [`Point`](/api/point) object that is the corner to round
- - `radius`: The radius to use (in mm)
- - `prefix`: A prefix to apply to the points this macro adds to the part
- - `render`: Whether to render the rounder corner, or merely add all required points to the part
+| Property    | Default | Type                | Description | 
+|-------------|---------|---------------------|-------------|
+| `from`      |         | [Point](/api/point) | The startpoint towards the corner to round |
+| `to`        |         | [Point](/api/point) | The endpoint away from the corner to round |
+| `via`       |         | [Point](/api/point) | The corner to round |
+| `radius`    | Maximum | Number              | The radius in mm in not the maximum |
+| `prefix`    |         | String              | A prefix to give to the points and paths created by this macro |
+| `render`    | `false` | Boolean             | Whether to render the path created by this macro |
+| `class`     |         | String              | Class(es) to assign to the path created by this macro |
 
- <Warning>
+<Warning>
 
- The round macro only supports rounding of 90° angles
+The round macro intended for rounding 90° angles
 
- </Warning>
+</Warning>
 

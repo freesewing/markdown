@@ -4,7 +4,7 @@ title: title
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
 &nbsp;
-[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-title.svg?label="License)](https://www.npmjs.com/package/@freesewing/plugin-title)
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-title.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-title)
 &nbsp;
 [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
 &nbsp;
@@ -66,13 +66,12 @@ void macro("title", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Property   | Default | Decription                                                 |
-| ---------: | :-----: | ---------------------------------------------------------- |
-| at         |         | A [Point](/api/#point) object at which to insert the title |
-| nr         |         | The number of the pattern part                             |
-| title      | ""      | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr.|
-| prefix     | ""      | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.|
-| append     | `false` | Set this to `true` to append the `nr` to any text already set in Point `at`'s attributes, rather than overwrite it |
-| rotation   | 0       | An optional rotation in degrees |
-| scale      | 1       | An optional scaling factor |
-
+| Property   | Default | Type                | Description | 
+| ---------- | :-----: | ---------------------------------------------------------- |
+| `at`       |         | [Point](/api/point) | The point at which to insert the title |
+| `nr`       |         | String              | The number of the pattern part |
+| `title`    |         | String              | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr.|
+| `prefix`   |         | String              | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.|
+| `append`   | `false` | Boolean             | Set this to `true` to append the `nr` to any text already set in Point `at`'s attributes, rather than overwrite it |
+| `rotation` | 0       | Number | An optional rotation in degrees |
+| `scale`    | 1       | Number | An optional scaling factor |

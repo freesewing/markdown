@@ -1,5 +1,6 @@
 ---
 title: Setting up the development environment
+order: 100
 ---
 
 Open a terminal and enter the following command:
@@ -65,3 +66,15 @@ yarn start
 If all goes well, your browser will open and show the following landing page:
 
 ![The FreeSewing development environment](./cfp.png)
+
+<Note>
+
+###### Using Windows?
+
+We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have
+a Windows machine I can test this on.
+
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+we'll figure it out together.
+
+</Note>

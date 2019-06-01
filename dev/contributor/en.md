@@ -1,5 +1,5 @@
 ---
-title: Contribute to freesewing
+title: Documentation for contributors
 ---
 
 Are you interested in contributing to freesewing? 

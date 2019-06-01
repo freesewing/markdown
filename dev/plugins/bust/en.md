@@ -4,7 +4,7 @@ title: bust
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
 &nbsp;
-[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-bust.svg?label="License)](https://www.npmjs.com/package/@freesewing/plugin-bust)
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-bust.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-bust)
 &nbsp;
 [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
 &nbsp;

@@ -4,7 +4,7 @@ title: dimension
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
 &nbsp;
-[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-dimension.svg?label="License)](https://www.npmjs.com/package/@freesewing/plugin-dimension)
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-dimension.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-dimension)
 &nbsp;
 [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
 &nbsp;
@@ -107,15 +107,14 @@ void macro("hd", {
 The `hd` macro draws a horizontal dimenstion.
 It takes a single configuration object with the following properties:
 
-| Property      | Default              | Decription                                                   |
-| ------------: | :------------------: | ------------------------------------------------------------ |
-| to            |                      | A [Point](/api/point) object for the start of the dimension |
-| from          |                      | A [Point](/api/point) object for the end of the dimension   |
-| y             |                      | The Y-coordinate at which to draw the dimension              |
-| text          | `units(from.dx(to))` | The text to be placed on the dimension                       |
-| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
-| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
-
+| Property        | Default  | Type                | Description | 
+|-----------------|----------|---------------------|-------------|
+| `from`          |          | [Point](/api/point) | The startpoint of the dimension |
+| `to`            |          | [Point](/api/point) | The endpoint of the dimension |
+| `y`             |          | Number              | The Y-value at which to draw the dimension |
+| `text`          | Horizontal distance | Number   | The text to go on the dimension if not the from-to horizontal distance |
+| `noStartMarker` | `false`  | Boolean             | Whether to not draw a start marker |
+| `noEndMarker`  | `false`  | Boolean             | Whether to not draw an end marker |
 
 ### vd
 
@@ -130,14 +129,14 @@ void macro("vd", {
 The `vd` macro draws a vertical dimenstion.
 It takes a single configuration object with the following properties:
 
-| Property   | Default              | Decription                                                   |
-| ---------: | :------------------: | ------------------------------------------------------------ |
-| to         |                      | A [Point](/api/point) object for the start of the dimension |
-| from       |                      | A [Point](/api/point) object for the end of the dimension   |
-| x          |                      | The X-coordinate at which to draw the dimension              |
-| text       | `units(from.dy(to))` | The text to be placed on the dimension                       |
-| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
-| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
+| Property        | Default | Type                | Description | 
+|-----------------|---------|---------------------|-------------|
+| `from`          |         | [Point](/api/point) | The startpoint of the dimension |
+| `to`            |         | [Point](/api/point) | The endpoint of the dimension |
+| `x`             |         | Number              | The X-value at which to draw the dimension |
+| `text`          | Vertical distance | Number    | The text to go on the dimension if not the from-to vertical distance |
+| `noStartMarker` | `false` | Boolean             | Whether to not draw a start marker |
+| `noEndMarker`  | `false` | Boolean             | Whether to not draw an end marker |
 
 ### ld
 
@@ -152,14 +151,14 @@ void macro("ld", {
 The `ld` macro draws a linear dimenstion.
 It takes a single configuration object with the following properties:
 
-| Property   | Default                | Decription                                                   |
-| ---------: | :--------------------: | ------------------------------------------------------------ |
-| to         |                        | A [Point](/api/point) object for the start of the dimension |
-| from       |                        | A [Point](/api/point) object for the end of the dimension   |
-| d          |                        | The distance to offset the dimension by                      |
-| text       | `units(from.dist(to))` | The text to be placed on the dimension                       |
-| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
-| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
+| Property        | Default | Type                | Description | 
+|-----------------|---------|---------------------|-------------|
+| `from`          |         | [Point](/api/point) | The startpoint of the dimension |
+| `to`            |         | [Point](/api/point) | The endpoint of the dimension |
+| `d`             | 0       | Number              | The offset at which to draw the dimension |
+| `text`          | Linear distance   | Number    | The text to go on the dimension if not the from-to linear distance |
+| `noStartMarker` | `false` | Boolean             | Whether to not draw a start marker |
+| `noEndMarker`  | `false` | Boolean             | Whether to not draw an end marker |
 
 ### pd
 
@@ -173,11 +172,11 @@ void macro("pd", {
 The `ld` macro draws a dimenstion parallel to a [Path](/api/path).
 It takes a single configuration object with the following properties:
 
-| Property   | Default                | Decription                                                 |
-| ---------: | :--------------------: | ---------------------------------------------------------- |
-| path       |                        | A [Path](/api/#path) object for which to add the dimension |
-| d          |                        | The distance to offset the dimension by                    |
-| text       | `units(path.length())` | The text to be placed on the dimension                     |
-| noStartMarker | false                | Set this to `true` to suppress the arrow at the from point   |
-| noEndMarker   | false                | Set this to `true` to suppress the arrow at the to point     |
+| Property        | Default | Type                | Description | 
+|-----------------|---------|---------------------|-------------|
+| `path`          |         | [Path](/api/path)   | The path to draw the dimension along |
+| `offset`        | 0       | Number              | The offset at which to draw the dimension |
+| `text`          | Path length | Number          | The text to go on the dimension if not the length of the path |
+| `noStartMarker` | `false` | Boolean             | Whether to not draw a start marker |
+| `noEndMarker`  | `false` | Boolean             | Whether to not draw an end marker |
 

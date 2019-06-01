@@ -4,7 +4,7 @@ title: grainline
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
 &nbsp;
-[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-grainline.svg?label="License)](https://www.npmjs.com/package/@freesewing/plugin-grainline)
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-grainline.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-grainline)
 &nbsp;
 [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
 &nbsp;
@@ -61,7 +61,7 @@ void macro("grainline", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Property   | Decription                                                               |
-| ---------: | ------------------------------------------------------------------------ |
-| to         | A [Point](/api/point) object for the start of the cut-on-fold indicator |
-| from       | A [Point](/api/point) object for the end of the cut-on-fold indicator   |
+| Property    | Default | Type                | Description | 
+|-------------|---------|---------------------|-------------|
+| `from`      |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
+| `to`        |         | [Point](/api/point) | The endpoint of the *grainline* indicator |

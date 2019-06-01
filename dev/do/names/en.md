@@ -30,5 +30,3 @@ While you can style your pattern however you want, try to re-use the CSS class n
 are in use in our default [theme plugin](/packages/theme).
 
 Doing so will ensure consistent styling for patterns.
-
-
