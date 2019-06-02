@@ -18,8 +18,12 @@ start a new FreeSewing pattern:
 npm init freesewing-pattern@beta
 ```
 
-> The `@beta` in the end is required while FreeSewing v2 is still
-> in beta. Once we release 2.0, it won't be needed
+<Note>
+
+The `@beta` in the end is required while FreeSewing v2 is still
+in beta. Once we release 2.0, it won't be needed
+
+</Note>
 
 It will ask your a number of question to prepare your pattern.
 

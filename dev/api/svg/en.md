@@ -13,7 +13,7 @@ While the methods exposed by this object are typically only used internally,
 its attributes are useful for situations where you
 want to develop a plugin, or use a custom layout:
 
-## svg.prefix
+## prefix
 
 A string that will be rendered before the opening SVG tag.
 
@@ -23,11 +23,11 @@ Its default value is:
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 ```
 
-## svg.attributes
+## attributes
 
 An [Attributes](/en/docs/developer/api/attributes) instance that controls the attributes of the SVG tag.
 
-## svg.style
+## style
 
 A string that will be rendered as the style section of the SVG document.
 
@@ -39,22 +39,26 @@ The style attribute is where plugins will add additional snippets.
 </style>
 ```
 
-> ###### Add, but don't overwrite
-> When adding your own styles, it's important not to
-> overwrite this property, but rather add your own.
-> 
-> In other words, do this:
->
-> ```js
-> svg.style += myStyles;
-> ```
-> and don't do this:
+<Warning>
 
-> ```js
-> svg.style = myStyles;
-> ```
+###### Add, but don't overwrite
+When adding your own styles, it's important not to
+overwrite this property, but rather add your own.
 
-## svg.script
+In other words, do this:
+
+```js
+svg.style += myStyles;
+```
+and don't do this:
+
+```js
+svg.style = myStyles;
+```
+
+</Warning>
+
+## script
 
 A string that will be rendered as the script section of the SVG document.
 
@@ -66,22 +70,26 @@ We don't use this ourselves, but it's here if you need it.
 </scripts>
 ```
 
-> ###### Add, but don't overwrite
-> When adding your own script, it's important not to
-> overwrite this property, but rather add your own.
-> 
-> In other words, do this:
->
-> ```js
-> svg.script += myScript;
-> ```
-> and don't do this:
+<Warning>
 
-> ```js
-> svg.script = myScript;
-> ```
+###### Add, but don't overwrite
+When adding your own script, it's important not to
+overwrite this property, but rather add your own.
 
-## svg.defs
+In other words, do this:
+
+```js
+svg.script += myScript;
+```
+and don't do this:
+
+```js
+svg.script = myScript;
+```
+
+</Warning>
+
+## defs
 
 A string that will be rendered 
 as [the defs section](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs) of 
@@ -94,22 +102,26 @@ The defs attribute is where plugins will add additional snippets.
   /* svg.defs will be inserted */
 </defs>
 ```
-> ###### Add, but don't overwrite
-> When adding your own defs, it's important not to
-> overwrite this property, but rather add your own.
-> 
-> In other words, do this:
->
-> ```js
-> svg.defs += myDefs;
-> ```
-> and don't do this:
+<Warning>
 
-> ```js
-> svg.defs = myDefs;
-> ```
+###### Add, but don't overwrite
+When adding your own defs, it's important not to
+overwrite this property, but rather add your own.
 
-## svg.head
+In other words, do this:
+
+```js
+svg.defs += myDefs;
+```
+and don't do this:
+
+```js
+svg.defs = myDefs;
+```
+
+</Warning>
+
+## head
 
 A string that combines the [svg.style](#svgstyle), [svg.script](#svgscript), 
 and [svg.defs](#svgdefs) sections and an opening tag for an SVG group.
@@ -131,16 +143,19 @@ and [svg.defs](#svgdefs) sections and an opening tag for an SVG group.
 <g id="fs-container">
 ```
 
-> ###### This does not include the opening SVG tag
->
-> Note that while [svg.tail](#svgtail) closes the SVG tag, [svg.head](#svghead) does
-> not open it. That's because the `width`, `height` and `viewBox` attributes will
-> depend on the main body of the SVG document.
+<Note>
 
+###### This does not include the opening SVG tag
 
-## svg.tail
+Note that while [svg.tail](#tail) closes the SVG tag, [svg.head](#head) does
+not open it. That's because the `width`, `height` and `viewBox` attributes will
+depend on the main body of the SVG document.
 
-A string that closes both the group opened by [svg.head](#svghead) and the SVG tag. 
+</Note>
+
+## tail
+
+A string that closes both the group opened by [svg.head](#head) and the SVG tag. 
 
 ```svg
 </g>
@@ -148,7 +163,7 @@ A string that closes both the group opened by [svg.head](#svghead) and the SVG t
 </svg>
 ```
 
-## svg.layout
+## layout
 
 An object that holds rendered SVG for all parts, and a list of their transforms.
 It is structured as follows:
@@ -163,9 +178,9 @@ It is structured as follows:
 }
 ```
 
-## svg.pattern
+## pattern
 
-A reference to [the Pattern object]("/en/docs/developer/api/pattern).
+A reference to [the Pattern object]("/api/pattern).
 
 This allows hooks that only receive the SVG object (such as the preRender and postRender hooks)
 to still access the pattern object.
