@@ -1,13 +1,10 @@
 ---
 date: 2017-12-31
-path: "/en/blog/roundup-2017-12"
 title: "Monthly roundup - December 2017: Patrons, Bent, Carlton, Florent, and the looming Inkscape issue"
 linktitle: "Monthly roundup; December 2017 edition"
 img: fireworks.jpg
 caption: "Your new login background for the month of January"
 author: joost
-category: roundup
-blurb: "A roundup of all the freesewing news of the last month"
 ---
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 

@@ -1,13 +1,10 @@
 ---
 date: 2017-06-12
-path: "/en/blog/freesewing-goes-jamstack"
 title: "We're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, and I hope you like JAMstack too"
 linktitle: "I hope you like JAMstack too"
 img: pipes.jpg
 caption: "Picture by <a href='https://stock.tookapic.com/jenniferforjoy' target='_BLANK' rel='nofollow'>Jennifer</a>"
 author: joost
-category: site
-blurb: "Freesewing.org goes JAMstack, which begs the question: What does that even mean?"
 ---
 When we released freesewing core at the end of March, my focus immeadiatly shifted to building our front-end so that [freesewing.org](/) could fully replace [makemypattern.com](https://makemypattern.com/).
 

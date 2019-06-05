@@ -5,8 +5,6 @@ linktitle: "Monthly roundup, September 2017 edition"
 img: leaves.jpg
 caption: "Your new login background for the month of october"
 author: joost
-category: roundup
-blurb: "A roundup of all the freesewing news of the last month"
 ---
 
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.

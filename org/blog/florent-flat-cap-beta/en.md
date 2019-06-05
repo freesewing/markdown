@@ -1,13 +1,10 @@
 ---
 date: 2017-12-06
-path: "/en/blog/florent-flat-cap-beta"
 title: "The Florent Flat Cap pattern is now available in beta. That's another gift sorted."
 linktitle: "The Florent Flat Cap is now available in beta"
 img: quentin.jpg
 caption: "Quentin surrounded by our future robot overlords."
 author: joost
-category: core
-blurb: "Announcing the Florent Flat Cap, by Quentin Felix."
 ---
 After last month's release of [Benjamin](/patterns/benjamin), here's another pattern release
 to channel the dapper gentleman within: the [Florent Flat Cap](/patterns/florent).

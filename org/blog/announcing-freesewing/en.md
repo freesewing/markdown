@@ -1,13 +1,10 @@
 ---
 date: 2017-03-24
-path: "/en/blog/announcing-freesewing"
 title: "Announcing freesewing, an open source platform for made-to-measure sewing patterns"
 linktitle: "Announcing freesewing"
 img: "logo.jpg"
 caption: "The freesewing logo"
 author: joost
-category: docs
-blurb: "I am are proud to announce freesewing core v1.0.0 and the accompanying documentation that describes the freesewing project in detail."
 ---
 
 I am are proud to announce [freesewing core v1.0.0](https://github.com/freesewing/core) 

@@ -1,13 +1,10 @@
 ---
 date: 2017-09-07
-path: "/en/blog/email-spam-problems"
 title: "Thanks for nothing Microsoft; Email shouldn't be this hard"
 linktitle: "Thanks for nothing Microsoft"
 img: full.jpg
 caption: "Would you close a lane because one driver was playing their music too loud?"
 author: joost
-category: site
-blurb: "It's damn near impossible for people with a Hotmail/Outlook/MSN/Live email address to sign up for this website."
 ---
 People with an email address from Microsoft --- think Hotmail, MSN, live.com, outlook.com and their numerous variants --- 
 are significantly less likely to sign up for this website.

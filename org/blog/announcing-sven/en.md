@@ -1,13 +1,10 @@
 ---
 date: 2017-07-09
-path: "/en/blog/announcing-sven"
 title: "Announcing the Sven Sweater; A basic sweater based on the Brian body block"
 linktitle: "Announcing the Sven Sweater"
 img: showcase.jpg
 caption: "A Sven made for the office. As in, kinda boring"
 author: joost
-category: core
-blurb: "A basic sweater pattern for men"
 ---
 Winter caused me to design this pattern. I was cold, and needed some sweaters, so what does one do?
 

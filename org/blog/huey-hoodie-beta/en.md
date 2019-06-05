@@ -1,13 +1,10 @@
 ---
 date: 2017-10-21
-path: "/en/blog/huey-hoodie-beta"
 title: "The Huey Hoodie is now available in beta. Which begs the question, what does it mean for a pattern to be in Beta?"
 linktitle: "The Huey Hoodie is now available in beta"
 img: hoodie.jpg
 caption: "This purple Huey hoodie is the first of its kind. Now it's your turn"
 author: joost
-category: core
-blurb: "Announcing the Huey Hoodie, and an explanation of what it means for a pattern to be in beta."
 ---
 Welcome to [Huey](/patterns/huey), the youngest member in our pattern family.
 Huey is a zip-up hoodie with an (optional) front pouch. I've made one for myself -- the one in the picture above -- 

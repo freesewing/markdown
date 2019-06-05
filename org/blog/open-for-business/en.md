@@ -5,8 +5,6 @@ linktitle: Freesewing.org is open for business
 img: open.jpg
 caption: "Open 24/7 from now onwards"
 author: joost
-category: site
-blurb: "Freesewing finally has a friendly face, and it's waiting to meet you at freesewing.org."
 ---
 When I released freesewing core back in March, 
 I did not expect it to take another 5 months to finally have a proper front-end for it, 

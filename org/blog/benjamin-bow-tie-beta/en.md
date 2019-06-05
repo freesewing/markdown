@@ -1,13 +1,10 @@
 ---
 date: 2017-11-14
-path: "/en/blog/benjamin-bow-tie-beta"
 title: "The Benjamin Bow Tie pattern is now available in beta. And I didn't even have to do anything."
 linktitle: "The Benjamin Bow Tie is now available in beta"
 img: bowtie.jpg
 caption: "If you like it, put a bow on it"
 author: joost
-category: core
-blurb: "Announcing the Benjamin Bow Tie, our first ever community pattern."
 ---
 Our family of freesewing patterns has grown once again, and the benjamin of the family is... [Benjamin](/patterns/benjamin).
 

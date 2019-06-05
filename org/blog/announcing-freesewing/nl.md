@@ -6,8 +6,6 @@ img: logo.jpg
 caption: "Het freesewing logo"
 author: joost
 translation: joost
-category: docs
-blurb: "Met enige trots mag ik freesewing core v1.0.0 aankondigen, met bijbehorende documentatie die het project in detail beschrijft."
 ---
 Met enige trots mag ik [freesewing core v1.0.0](https://github.com/freesewing/core) 
 aankondigen, met bijbehorende [documentatie](/docs) die het project in detail beschrijft.

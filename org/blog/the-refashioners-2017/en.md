@@ -5,8 +5,6 @@ linktitle: "The Refashioners 2017"
 img: zebra.jpg
 caption: "They said I was crazy to make a zebra jacket, so I made it anyway. And it sank into the swamp."
 author: joost
-category: makes
-blurb: "My contribution to The Refasioners 2017 and a sneak preview at the upcoming Blake Blazer pattern"
 ---
 
 For the uninitiated, the refashioners is a yearly event/competition hosted by the charming (and very persuasive) 

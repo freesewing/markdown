@@ -5,8 +5,6 @@ linktitle: "freesewing"
 img: logo.jpg
 caption: "das Freesewing-Logo"
 author: joost
-category: docs
-blurb: "Ich freue mich, freesewing core v1.0.0 und die dazugehörige Dokumentation, in der das freesewing Projekt ausführlich beschrieben wird, bekannt zu geben."
 ---
 Ich freue mich, [freesewing core v1.0.0](https://github.com/freesewing/core) 
 und die dazugehörige [Dokumentation](/de/docs/), 

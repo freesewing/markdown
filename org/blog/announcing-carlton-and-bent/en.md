@@ -5,8 +5,6 @@ linktitle: "Announcing the Carlton Coat and Bent Body Block"
 img: coat.jpg
 caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
 author: joost
-category: core
-blurb: "We're releasing a pattern to recreate the coat worn by Benedict Cumberbatch in Sherlock Holmes, as well as the block it's based on."
 ---
 Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes.
 Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason

@@ -1,13 +1,10 @@
 ---
 date: 2017-12-10
-path: "/en/blog/calling-all-patrons"
 title: "Calling all Patrons; Join our bedrock of loyal supporters."
 linktitle: "Calling all Patrons"
 img: phone.jpg
 caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
 author: joost
-category: roundup
-blurb: "You can sign up for as little as 2€, and it only takes a minute"
 ---
 Every year, on this day, I write about what happened in the previous 12 months,
 and look ahead at what you can expect in the year ahead.
