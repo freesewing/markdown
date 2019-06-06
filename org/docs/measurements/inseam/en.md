@@ -1,6 +1,5 @@
 ---
 title: Inseam
-path: /en/docs/measurements/inseam
 ---
 
 The Inseam is the measurement from your crotch down to the floor.
