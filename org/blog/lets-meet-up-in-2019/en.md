@@ -1,7 +1,7 @@
 ---
-layout: blog
 title: "Let's meet up in 2019! And other end-of-year musings"
 linktitle: "Let's meet up in 2019"
+date: 2018-12-10
 img: group.jpg
 caption: "As an introvert I don't say this often, but I'd actually like to meet you guys."
 author: joost
