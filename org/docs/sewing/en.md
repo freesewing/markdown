@@ -1,7 +1,5 @@
 ---
-title: Sewing documentation
-path: /en/docs/sewing
-index: true
+title: Sewing
 ---
 
-Below is a list of documentation on some of the sewing terminology and techniques used on freesewing.org.
+Documentation on some of the sewing terminology and techniques used on freesewing.org.

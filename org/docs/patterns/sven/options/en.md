@@ -1,4 +1,3 @@
 ---
-patternOptions: sven
-path: /en/docs/patterns/sven/options
+title: Options
 ---

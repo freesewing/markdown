@@ -1,8 +1,8 @@
 ---
-title: About freesewing
+title: About FreeSewing
 ---
 
-Freesewing is an open source platform for made-to-measure sewing patterns.
+FreeSewing is an open source platform for made-to-measure sewing patterns.
 
 What that means is that if you are here for sewing patterns, you came to the right place.
 However, this isn't your average sewing pattern site or company. 

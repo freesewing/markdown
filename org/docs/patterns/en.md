@@ -1,7 +1,6 @@
 ---
-path: /en/docs/patterns
-title: Pattern documentation
-index: true
+title: Patterns
 ---
 
-Click through to any of our patterns for its documentation:
+Documentation on the FreeSewing patterns:
+
