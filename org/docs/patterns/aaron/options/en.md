@@ -1,3 +1,3 @@
 ---
-title: Options
+title: Pattern options
 ---

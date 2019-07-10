@@ -1,92 +1,57 @@
 ---
 title: Making Aaron
-path: /en/docs/patterns/aaron
 ---
 
-## What you need
-
-To make Aaron, you will need the following:
-
-- Basic sewing supplies
-- About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
-
-> #### A serger/overlock is nice, but optional
->
-> As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
->
-> If you do not have one of those, don't despair. You don't really need it. 
-> Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
-
-## Fabric options
-
-An A-shirt is essentially underwear. And in that capacity, you want something that is comfortable, feels nice on your skin and breaths.
-
-Cotton with a hint of something stretchy, maybe rayon, or a fine knit. I suggest you go to the fabric store and feel around a bit.
-
-> While stretch is not required, it does make sense for underwear. That being said, you can make this in a non-stretch, just make sure pick loose or casual fit.
-
-
-## Cutting
-
- - Cut **1 back** on the fold
- - Cut **1 front** on the fold
- - Cut **3 strips** for neck opening and armhole binding
-
-> #### Caveats
-> 
->  - There is no seam allowance on the armholes 
->  - There is no seam allowance on the neck opening
->  - There is extra hem allowance at the hem
-
-Aaron is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
-
-Below is a typical draft layout:
-
-![A typical Aaron draft](layout.svg)
-
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
-
-
-## Construction
-
-### Step 1: Close seams
+## Step 1: Close seams
 
 ![Close the side and shoulder seams](step01.png)
 
 Put front and back on top of each other with good sides together. 
 Serge the side seams, and the short seams at the shoulder straps.
 
-### Step 2: Finish hem
+## Step 2: Finish hem
 
 ![Finish the hem](step02.png)
 
 Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
 
-> #### Fold only once, to avoid bulk
-> Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
+<Note>
 
-### Step 3: Sew knit binding to the front
+##### Fold only once, to avoid bulk
+Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
-> #### About knit binding
->
-> If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
->
-> ##### Repeat steps 3 and 4 for both armholes and the neck opening
-> 
-> The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
-> 
-> ##### Start with the simplest opening
->
-> I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
->
-> Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
+</Note>
+
+## Step 3: Sew knit binding to the front
+
+<Note>
+
+##### About knit binding
+
+If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
+
+###### Repeat steps 3 and 4 for both armholes and the neck opening
+
+The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
+
+###### Start with the simplest opening
+
+I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
+
+Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
+
+</Note>
 
 We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) 
 (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
 
-> This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
+<Note>
 
-#### Pick your spot
+This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
+
+</Note>
+
+### Pick your spot
     
 ![Applying knit binding](step03a.png)
 
@@ -95,7 +60,7 @@ The first thing we need to do is decide where we are going to start/stop our bin
   - For the armholes: at the side seam. This will hide our seam under the arm
   - For the neck opening: the center back of the neck. You might want to make this with a pin
 
-#### Place (the start of) your binding
+### Place (the start of) your binding
 
 ![Place (the start of) your binding](step03b.png)
 
@@ -109,7 +74,7 @@ Now shift your binding strip 1cm beyond your starting point. This little extra w
 > Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
 > Then all you need to do is keep the edge of your fabric aligned with that line.
 
-#### Make sure you know where to sew
+### Make sure you know where to sew
 
 ![Make sure you know where to sew](step03c.png)
 
@@ -117,7 +82,7 @@ We are going to sew 1.5cm from the edge. So be careful because this is not the s
 
 Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
 
-#### Sew binding in place
+### Sew binding in place
 
 ![Sew binding in place](step03d.png)
 
@@ -128,7 +93,7 @@ You might need to practice a bit to get the hang of it.
 > Make sure to stretch your binding more when you're taking a sharper bend. 
 > Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
 
-#### Mark binding ends
+### Mark binding ends
 
 ![Joining the binding ends](step03e.png)
 
@@ -140,7 +105,7 @@ Take one of the edges, and stretch it along the 3cm seperating it from the start
 
 Mark the where the binding reached the start point. Do the same for the other end.
 
-#### Sew binding ends together
+### Sew binding ends together
 
 ![Join the ends of the binding](step03g.png)
 
@@ -148,15 +113,15 @@ Fold you A-shirt in whatever way makes it more easy for your to place both bindi
 
 > 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
-#### Finish last 6cm of binding
+### Finish last 6cm of binding
 
 ![Sew binding ends together](step03h.png)
 
 Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
 
-### Step 4: Fold knit binding to the back and sew down
+## Step 4: Fold knit binding to the back and sew down
 
-#### Fold your binding over the fabric edge to the back
+### Fold your binding over the fabric edge to the back
     
 ![Fold knit binding to the back](step04a.png)
 
@@ -165,31 +130,43 @@ Fold your binding fabric around the fabric of your A-shirt to the back. This is 
 
 > While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
 
-#### Sew your binding down
+### Sew your binding down
 
 ![Sew the knit binding down](step04b.png)
 
 From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
 
-> If you have a coverlock machine, that would be perfect for this seam
+<Note>
+
+If you have a coverlock machine, that would be perfect for this seam
+
+</Note>
 
 You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
 
-> #### Beware of the uneven feed
-> As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
->
-> In a perfect world, all layers will follow smoothly. 
-> But more often than not, the top layer (front of your binding) tends to lag behind a bit. 
-> This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
->
-> So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+<Note>
 
-### Step 5: Trim back knit binding on the inside
+##### Beware of the uneven feed
+As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
+
+In a perfect world, all layers will follow smoothly. 
+But more often than not, the top layer (front of your binding) tends to lag behind a bit. 
+This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
+
+So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+
+</Note>
+
+## Step 5: Trim back knit binding on the inside
 
 ![Trim back knit binding on the inside](step05.png)
 
 On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
 
-> Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+<Note>
+
+Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+
+</Note>
 
 ![That's it, you're done 👍](finished.gif)
