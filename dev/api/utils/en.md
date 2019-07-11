@@ -480,6 +480,14 @@ Returns the degrees you pass to it as radians.
 This is useful for when you use methods like `Math.cos()` that expects a corner
 in radians, when we typically use degrees.
 
+## rad2deg()
+
+```js
+float rad2deg(float radians)
+```
+
+Returns the radians you pass to it as degrees.
+
 ## lineIntersectsCircle()
 
 ```js
