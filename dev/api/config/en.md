@@ -119,6 +119,7 @@ It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
 Options come in 6 varities:
 
  - [Constants](#constants) : A value that can't be changed
+ - [Booleans](#booleans) : A value that is either `true` or `false`
  - [Percentages](#percentages) : A value in percent, with minimum and maximum values
  - [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
  - [Degrees](#degrees) : A value in degrees, with minimum and maximum values
@@ -141,6 +142,20 @@ options: {
 
 Rather than define constants in your code, it's good practice to set them in your configuration file.
 This way, people who extend your pattern can change them if they would like to.
+
+### Booleans
+
+If your option is either `true` or `false, or **on** or **off** or **yes** or **no**, you can use a boolean:
+
+Your boolean option should be an object with these properties:
+
+ - `bool` : Either `true` or `false` which will be the default
+
+```js
+options: {
+  withLining: { bool: true }
+}
+```
 
 ### Percentages
 
