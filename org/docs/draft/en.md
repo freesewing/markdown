@@ -1,3 +1,3 @@
 ---
-title: Draft
+title: Pattern drafting
 ---

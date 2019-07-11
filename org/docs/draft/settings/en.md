@@ -1,5 +1,5 @@
 ---
-title: Draft settings
+title: Settings
 ---
 
 When you [draft a pattern](/draft) you can not only configure 
