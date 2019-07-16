@@ -736,6 +736,14 @@ paths.reverse = paths.example
   .attr("data-text-class", "text-xs fill-lining");
 ```
 
+## setRender()
+```js
+Path path.setRender(bool render)
+```
+
+This is a chainable method to sets the `path.render` property.
+If you set it to `false` your path will not be rendered.
+
 ## shiftAlong()
 
 ```js

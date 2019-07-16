@@ -1,4 +1,3 @@
 ---
-patternOptions: huey
-path: /en/docs/patterns/huey/options
+title: Options
 ---

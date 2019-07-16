@@ -1,11 +1,14 @@
 ---
-title: Freesewing donations pledge
+title: FreeSewing revenue pledge
 ---
 
-> I, Joost De Cock, founder and maintainer of the freesewing project and 
-> recipient of its donations, hereby pledge that all donations I receive 
-> will be passed on to
-> [Doctors Without Borders (MSF)](http://www.msf.org/).
+<Note>
+
+I — Joost De Cock, founder and maintainer of the FreeSewing 
+project — hereby pledge that all FreeSewing revenue will be transferred 
+to [Doctors Without Borders (MSF)](http://www.msf.org/).
+
+</Note>
 
 ## Understanding the reasons for this pledge
 
@@ -26,7 +29,7 @@ Do I need the money? No I don't.
 The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
 
 While I no longer carry Freesewing alone -- and I can't stress enough how much I value the work of all contributors --
-that doesn't make me immune to feelings of *Why the fuck am I doing this?*
+that doesn't make me immune to feelings of *Why the hell am I doing this?*
 
 When people become Patrons (or donate), they give more than money.
 To me, the main value is the message they send to me and other people working on this. 
@@ -47,10 +50,10 @@ And I need that to convince myself that yes, it's ok to spend all my time doing 
 because at the end of the year, I get to write a check to people who need it so much more.
 
 ### Charity is not sexy
-Here's the tricky part: People donate less once they know the money goes to charity in the end. 
+Here's the tricky part: People give less once they know the money goes to charity in the end. 
 I wish it wasn't the case, but it is.
 
-So I'm not explicitly mentioning it on [our Patrons page](/en/patrons/join), 
+So I'm not explicitly mentioning it on [our Patrons page](/patrons/join), 
 which is presented like you would see on a business site.
 
 Yes, everything is free, and the money doesn't actually go to paying the server bills 
@@ -73,6 +76,10 @@ I can't think of a single organisation more deserving of our support.
 
 So I am happy to make this pledge.
 
-In practice, all donations received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
+In practice, all revenue received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
 
-> If you'd like to, you can [donate here](/en/patrons/join)
+<Note>
+
+If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
+
+</Note>
