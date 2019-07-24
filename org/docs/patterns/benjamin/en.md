@@ -1,3 +1,3 @@
 ---
-title: Benjamin
+title: Benjamin bow tie
 ---

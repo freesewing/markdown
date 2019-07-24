@@ -1,3 +1,3 @@
 ---
-title: Florent
+title: Florent flatcap
 ---

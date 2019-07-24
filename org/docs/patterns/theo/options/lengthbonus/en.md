@@ -1,7 +1,7 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/theo/options/lengthbonus
-pattern: theo
+path: /en/docs/patterns/theodore/options/lengthbonus
+pattern: theodore
 option: lengthBonus
 ---
 
