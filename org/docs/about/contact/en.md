@@ -24,12 +24,15 @@ You can also reach us on social media, not to mention follow or like us.
 
  - [@freesewing_org on Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
  - [@freesewing_org on Instagram](https://www.instagram.com/freesewing_org/)
- - [Freesewing page on Facebook](https://facebook.com/freesewing.org)
 
 ## E-mail
 
 Send an email to [Joost](mailto:joost@decock.org?subject=Freesewing) 
 or [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
 
-> This option does not scale very well, so you might want to consider the other options first.
+<Note>
+
+This option does not scale very well, so you might want to consider the other options first.
+
+</Note>
 
