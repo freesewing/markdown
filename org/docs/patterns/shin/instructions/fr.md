@@ -1,152 +1,133 @@
 ---
-title: Réaliser Shin
-path: /fr/docs/patterns/shin
+title: Making Shin
+path: /en/docs/patterns/shin
 ---
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Shin, vous aurez besoin de ce qui suit :
+To make Shin, you will need the following:
 
- - Fournitures de base pour la couture
- - Environ 0,75 mètre d'un tissu approprié ([voir les Options de tissu](#options-de-tissu))
- - deux oeillets et un cordon
+- Basic sewing supplies
+- About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- two eyelets and a drawstring
 
-> #### Une surjeteuse/recouvreuse est bien pratique mais optionnelle
->
-> Comme pour tous les tissus élastiques, une surjeteuse/recouvreuse vous simplifiera la vie.
->
-> Si vous n'en avez pas, ne désespérez pas. Vous n'en avez pas absolument besoin. 
-> Vous pouvez utiliser d'autres techniques pour coutures élastiques, telles que l'utilisation d'un point zigzag, d'une aiguille double, ou d'un fil élastique.
-
-## Options de tissu
-
-Les maillots de bain devraient être réalisés dans un matériau élastique adapté pour être immergé dans de l'eau.
-
-Typiquement, ce genre de tissu se départage en peu de catégories :
-
- - le nylon mélangé avec de l'élasthane, du spandex, ou du lycra est doux et élastique. C'est ce dans quoi la plupart des vêtements de bain sont faits.
- - le polyester méangé avec du PBT (polybutylene terephthalate) est moins doux au toucher, mais résistant au chlore et à l'eau salée. C'est le matériau privilégié pour les maillots de bain sportifs.
- - le néoprène, connu aussi sous le nom de scuba, est lourd et moins élastique. C'est la matière des combinaisons de plongée.
- 
-## Découpe
-
- - Coupez **2 derrières** endroit contre endroit
- - Coupez **4 devants** 2 x 2 endroit contre endroit
- - Coupez **1 ceinture** 
-
-> #### Avertissements
+> #### A serger/overlock is nice, but optional
 > 
->  - Pour économiser du papier, la ceinture n'est pas complètement imprimée sur le patron étant donné que ce n'est qu'un rectangle long. Alors cherchez l'indicateur de longueur, et coupez un rectangle aux dimensions indiquées.
->  - La marge de couture a une valeur double par rapport à la marge standard.
+> As with all stretch fabrics, a serger/overlock will make your life easier.
+> 
+> If you do not have one of those, don't despair. You don't really need it. You can use another technique for stretch seams, such as a zig-zag stich, twin needle, or elastic thread.
 
-Shin est un patron très simple qui consiste en deux parties principales en plus de la ceinture.
+## Fabric options
 
-Ci-dessous une mise en page typique d'ébauche de ce patron :
+Swim trunks should be made out of a material with stretch that is suitable for being in the water.
 
-![Une ébauche typique de Shin](layout.svg){.elevation-1}
+Typically, this falls apart in a few categories:
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les différents marquages et lignes de votre ébauche.
+- Nylon mixed with elastene, spandex, or lycra is soft and stretchy. This is what most casual swimwear is made from.
+- Polyester mixed with PBT (polybutylene terephthalate) is less soft to the touch, but resistant to chlorine and salt water. This is what a lot of competitive swimwear is made from.
+- Neoprene, also known as scuba, is heavier and less tretchy. It's the stuff scuba suits are made from.
 
+## Cutting
+
+- Cut **2 backs** with good sides together
+- Cut **4 fronts** 2 x 2 with good sides together
+- Cut **1 waistband** 
+
+> #### Caveats
+> 
+> - To save paper, the waistband is not completely printed on the pattern since it's just a long rectangle. So look for the length indicator, and cut out a rectangle of that size.
+> - The hem allowance is double the standard seam allowance.
+
+Shin is a very simply pattern, and consists of two main parts plus the waistband.
+
+Below is a typical draft layout:
+
+<img src="layout.svg" alt="A typical Shin draft" title="" class="elevation-1" />
+
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
-> ##### Les images arriveront bientôt
->
-> Ces instructions constituent un travail en cours, et nous n'avons pas encore créé les illustrations.
-> Elles seront bientôt ajoutées.
+> ##### Images coming soon
+> 
+> These instructions are a work in progress, and we haven't created the illustrations yet. They will be added soon.
 
-### Etape 1 : Assembler les derrières
+### Step 1: Join the backs
 
-Mettez les deux derrières l'un sur l'autre endroit contre endroit, et cousez-les ensemble le long de la couture centrale arrière.
+Put your two backs on top of each other with the good sides together, and sew them together allong the center back seam.
 
-### Etape 2 : Assembler les devants
+### Step 2: Join the fronts
 
-**Effectuer la couture avant**
+**Sew the front seam**
 
-Mettez 2 devants l'un sur l'autre endroit contre endroit, et cousez-les ensemble le long de la couture centrale avant.
+Put two of your fronts on top of each other with the good sides together, and sew them together allong the center front seam.
 
-Répéter avec les deux autres devants de façon à obtenir deux sets identiques. 
+Repeat with the two other fronts so you have two identical sets.
 
-**Bâtir les devants ensemble**
+**Baste fronts togehter**
 
-Nous avons 4 devants car nous aurons une double épaisseur à l'avant de notre maillot.
+We have 4 fronts because we'll have a double layer at the front of our swim trunks.
 
-Etant donné que le tissu pour maillot de bain a tendance à être glissant, c'est une bonne idée de bâtir vos devants ensemble avant de les coudre, 
-cela facilitera le travail pour les prochaines étapes.
+Since swimwear fabric tends to be slippery, it's a good idea to baste your fronts together to make it easier to work with them in the next steps.
 
-Alors placez vos devants l'un sur l'autre envers sur envers, et piquez-les ensemble avec des points de bâti larges 
-dans la marge de couture.
+So place your fronts on top of each other, with good sides out, and sew them together with some large basting stitches in the seam allowance.
 
-### Etape 3 : Assembler les côtés
+### Step 3: Join the sides
 
-Placez le derrière avec l'endroit face à vous, et mettez votre double couche avant dessus. 
-Cousez les deux morceaux ensemble au niveau des côtés.
+Place your back down with the good side up, and place your double front layer on top. Sew fronts and back together at the side seams.
 
-### Etape 4 : Effectuer les coutures de l'enfourchure
+### Step 4: Sew the cross seams
 
-Gardez le maillot sur l'envers (le dos au moins, l'avant étant à l'endroit sur les deux faces)
-et cousez l'enfourchure pour créer les ouvertures des jambes.
+Keep your swim trunks with the good side inwards (the back at least, the front has good side on both sides) and sew the crossseam to create the leg openings.
 
-### Etape 5 : Placer les oeillets pour le cordon de serrage
+### Step 5: Place eyelets for the draw string
 
-Marquez le milieu de la longueur de la ceinture. Pliez deux fois la ceinture, et marquez le milieu de la largeur 
-(sans prendre en compte la marge de couture).
+Mark the middle of your waistband length. Fold the waistband double, and mark the middle of the width (do not take the seam allowance into account).
 
-Un peu à gauche et à droite de cette marque, vous pouvez ajouter deux oeillets pour y insérer un cordon de serrage.
-Cela vous évitera une situation embarassante lorsque vous ferez le grand plongeon en risquant de vous retrouver avec 
-votre maillot au niveau des chevilles.
+A bit to the left and right of this, you can add two eyelets to pass a drawstring through. This will avoid an embarassing situation when you go for that big dive and now suddenly find your swim trunks on your ankles.
 
-> ##### C'est mieux d'ajouter un peu de renfort
->
-> Comme le tissu pour maillot est glissant et fin, vous voudrez peut-être ajouter du renfort derrière ces oeillets.
-> Une chute de denim conviendra tout à fait.
+> ##### It's best to add some reinforcement
+> 
+> As swimwear fabric is slippery and thin, you might want to add some reinforcement behind these eyelets. A leftover piece of denim will do just fine.
 
-### Etape 6 : Préparer l'élastique
+### Step 6: Prepare the elastic
 
-Il n'y a pas de formule magique pour la longueur de votre élastique. Alors enroulez-le autour de votre taille et serrez
-le jusqu'à ce que vous trouviez le bon ajustement.
+There's no magic formula for the length of your elastic. So you wrap it around your waist and pull it tight until you get a good fit.
 
-Marquez cette longueur, coupez l'élastique, et assemblez les deux extrémités.
+Mark this length, cut the elastic, and join the two ends together.
 
-### Etape 7 : Assembler la ceinture
+### Step 7: Join the waistband
 
-Pliez en deux la ceinture endroit contre endroit sur aligner les extrémités courtes.
-Cousez-les ensemble.
+Fold the waistband in half with good sides together and line of the (short) edges. Sew them together.
 
-### Step 8: Fixer la ceinture
+### Step 8: Attach the waistband
 
-Pliez deux fois la ceinture le long de la longueur avec l'endroit à l'extérieur, et placez l'élastique à l'intérieur.
-Assurez-vous de bien aligner l'endroit où l'élastique est assemblé avec l'endroit où la ceinture est assemblée.
+Fold your waistband double along the length with good sides out, and place the elastic inside. Make sure to align the place where the elastic is joined with the place the waistband is joined.
 
-Alignez l'arrière de votre maillot avec l'endroit où vous avez joint la ceinture, 
-alignez le bord de la ceinture avec le bord de l'arrière, et épinglez-les ensemble.
-(veillez à épingler sur l'envers du derrière.
+Align the back of your swim trunks with the place where you joined the waistband, align the edge of the waistband with the edge of the back, and pin them together. (make certain that you pin it to the bad side of the back.
 
-> ##### Faites attention aux oeillets
->
-> Si vous avez mis des oeillets à votre ceinture, vérifiez de nouveau qu'ils sont placés vers l'extérieur,
-> pas à l'intérieur de votre ceinture.
+> ##### Mind your eyelets
+> 
+> If you've made eyelets in your waistband, double check that they are placed towards the outside, not the inside of your waistband.
 
-Trouvez l'avant de la ceinture (facile s'il y a des oeillets, sinon pliez juste deux fois) et alignez-le 
-avec la couture avant. Epinglez en place également.
+Find the front of the waistband (easy if there's eyelets, if not just fold it double) and align that with the front seam. Pin this in place too.
 
-Maintenant faites le tour autour de la ceinture du maillot, en épinglant la ceinture en place.
+Now make your way around the swim trunks waist, pinning the waistband in place.
 
-Puis, cousez la ceinture au maillot, aussi proche de l'élastique que vous le pouvez, mais sans piquer dedans.
+Then, sew the waistband to the swim trunks, as close to the the elastic as you can, but don't sew into the elastic.
 
-Ce n'est pas grave de ne pas coudre trop près de l'élastique au premier tour, lorsque l'élastique est attaché et encastré,
-faites un second tour pour le coudre de façon plus ajustée.
+It's fine to not sew too close the first time around, and once your elastic is attached and encased, make a second round to sew it a bit more snugly.
 
-### Etape 9 : Ourler les jambes
+### Step 9: Hem the legs
 
-Pliez les ourlets vers le haut, et piquez-les.Si vous avez une recouvreuse, servez-vous en. 
-Sinon, utilisez une aiguille double ou un point zigzag pour garder l'élasticité de la couture.
+Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
 
-> #### Ne pliez qu'une seule fois pour éviter les surépaisseurs
-> Le tissu pour maillot de bain ne s'effiloche pas, alors vous pouvez plier simplement une fois avant de coudre, puis découper nettement l'excédent de tissu.
+> #### Fold only once, to avoid bulk
+> 
+> Swimwear fabric doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
-### Etape 10 : Faire passer un cordon de serrage autour de la ceinture
+### Step 10: Thread a draw string around the waist
 
-Faites entrer un cordon de serrage à travers un oeillet, autour de la taille, et faites-le sortir à travers l'autre oeillet.
+Thread a drawstring through one eyelet, around the waist, and out of the other eyelet.
 
-![Voilà, vous avez terminé ! 👍finished.gif)
+![That's it, you're done 👍finished.gif)
