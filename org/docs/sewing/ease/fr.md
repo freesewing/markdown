@@ -1,29 +1,20 @@
 ---
-title: Aisance
-path: /fr/docs/sewing/ease
+title: Ease
+path: /en/docs/sewing/ease
 ---
 
-![Sans aisance, vous ne pourriez pas lever le bras](ease-plus.jpg)
+![Without ease, you would not be able to raise your arm](ease-plus.jpg)
 
-![L'aisance négative est ce qui rend vos collants ajustés](ease-min.jpg)
+![Negative ease is what makes your tights fit](ease-min.jpg)
 
-L'aisance est la quantité de tissu qui est ajoutée à un vêtement 
-en plus de ce qui est strictement nécessaire pour faire un vêtement ajusté.
+Ease is the amount of fabric that is added to a garment in addition to what is strictly required to make the garment fit.
 
-Sans aisance, un vêtement vous irait si bien que vous ne pourriez probablement 
-pas le mettre, ou vous auriez des difficultés pour bouger dedans.
+Without ease, a garment would fit you so precisely that you might not be able to get in to it, or would have problems moving in it.
 
-L'aisance ajoutée pour vous permettre de vous mouvoir à l'intérieur d'un vêtement est appelée valeur ou ampleur d'aisance. 
-De l'aisance additionnelle peut être ajoutée au delà de ce qui est pragmatiquement requis. 
-C'est ce qui est appelée aisance de conception, qui sert à obtenir un certain effet visuel.
+Ease that is added to allow you to move inside a garment is called wearing ease. Extra ease can be added beyond what is functionally needed. This is called design ease and is used to achieve a certain visual effect.
 
-L'aisance peut fonctionner dans l'autre sens également. 
-Lorsqu'un tissu est élastique, nous pouvons choisir d'utiliser moins de tissu que  
-ce qui est nécessaire pour ajuster le vêtement. Il s'agit d'**aisance négative**.
+Ease can work the other way too. When the fabric stretches, we can choose to use less fabric than what is needed to make the garment fit. This is called **negative ease**.
 
-L'aisance négative est employée pour les matériaux élastiques lorsque le vêtement doit être particulièrement bien ajusté. 
-Par exemple, pour les vêtements de bain, les collants, les sous-vêtements, ou les vêtements de sport.
+Negative easy is used for stretchy materials where the garment must fit tightly. For example, in swimwear, tights, underwear, or sportswear.
 
-
-> Photographies par [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/)
-> et [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893) 
+> Pictures by [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/) and [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893)
