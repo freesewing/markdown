@@ -1,10 +1,11 @@
 ---
 date: 2018-12-18
-title: Sven par Claire
+title: Sven by Claire
 img: showcase.jpg
-caption: Pas sûr de ce qui est le plus adorable ici. Le sweat ou la fille.
-patterns: [sven]
+caption: Not sure what's the most adorable here. The sweater or the girl.
+patterns:
+  - sven
 author: HoopesParkStudios
 ---
 
-Claire a réalisé ce Sven dans un jersey rayé rouge/noir et y a ajouté ce que l'on peut supposer être son animal spirituel.
+Claire made this Sven in a red/black striped jersey and added what we can only assume is her spirit animal.
