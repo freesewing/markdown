@@ -1,52 +1,40 @@
 ---
-date: 2018-09-30
-title: "Maandelijks overzicht - september 2018: Shin, veel JavaScript, en een lange TODO lijst"
-linktitle: "Maandelijkse overzicht; September 2018 editie"
-img: leaves.jpg
-caption: "De login achtergrond voor oktober"
 author: joost
+caption: Your login background for October
+date: 2018-09-30T00:00:00.000Z
+img: leaves.jpg
+linktitle: Monthly roundup; September 2018 edition
+title: "Monthly roundup - September 2018: Shin, loads of JavaScript, and a long TODO\nlist"
 ---
-Dit is je maandelijks overzicht van al het freesewing nieuws van de voorbije vier weken,
-en een vooruitblik op wat er ons volgende maand te wachten staat.
 
-## Een terugblik op september
+This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
-GitHub verteld me dat ik tijdens de maand september 329 commits heb gemaakt in 32 repositories. 
-Het gros van dat werk is een investering in de toekomst, en het zal nog een tijdje duren
-vooraleer je er de vruchten van kan plukken.
+## Looking back at September
 
-Maar niet alles is werk achter de schermen. Want intussen vond ik toch de tijd om de
-[Shin zwembroek](/nl/patterns/shin) toe te voegen aan de site.
+GitHub tells me that I've made 329 commits in 32 repositories during September. Most of that work is an investment in the future, and it will be a while before you'll be able to reap the benefits of it.
 
-![Shin is een zwembroek die ik als menswear zou labelen, maar ik zie geen reden waarom dames 'em niet kunnen dragen](cover.jpg)
+But not all, because between all the other stuff, I did find time to release the [Shin swim trunk pattern](/patterns/shin):
 
-### Foto's of het telt niet
+![Shin are swim trunks that I would qualify as menswear, but I see no reason women can't wear them](cover.jpg)
 
-Ook nieuw zijn een aantal voorbeelden, wat altijd leuk is, met onder meer deze
-Jaeger vest door 
-[Paul](/nl/users/Tiger751023):
+### Pics or it didn't happen
 
-![A Jaeger vest door Paul](showcase.jpg)
+Also new are a bunch of showcases, which is always nice, including this Jaeger jacket by [Paul](/users/Tiger751023):
 
-Als jij ook één van onze patronen maakt, aarzal dan niet om je foto's in te sturen zodat we ze kunnen toevoegen aan de voorbeelden.
+![A Jaeger jacket by Paul](https://freesewing.org/img/showcase/linnen-jaeger-by-paul/high_showcase.jpg)
 
-### Vechten in de schaduw
+If you're making our patterns, please don't hesitate to send in your pictures so we can add some more!
 
-Al het andere werk is voor het grootste deel het schrijven van JavaScript code als deel van onze plannen voor de toekomst.
-Ik ben me ervan bewust dat dit het soort van werk is dat onzichtbaar is voor de meesten van jullie (tenzij je me stalkt op GitHub)
-en dat dat de indruk kan wekken dat er hier niet veel gebeurd.
+### Shadow boxing
 
-Het omgekeerde is waar. Ik werk harder aan dit project dan ooit, maar voorlopig is het vooral in de schaduw.
+All the other work has mostly been JavaScript code as part of our future plans. I am aware that this kind of work is invisible to most of you (you don't stalk mmy on GitHub, do you?) and that the perception can be that not much is going on here.
 
-Om te trachten wat licht te laten schijnen op wat er allemaal gebeurd heb ik
-[een lange todo-lijst](https://github.com/freesewing/todo) gemaakt.
-Dus als je een handje wil toesteken (of als je gewoon nieuwsgierig bent waar we mee bezig zijn), 
-ga dan gerust een kijkje nemen.
+The opposite is true. I am working harder on this project than ever, but for now it's mostly in the shadows.
 
-Merk op dat niet alle taken technisch zijn. We moeten bijvoorbeel ook een mooi kleurenpalet uitkiezen voor onze patronen.
+To try shine some light on what's going on, I have created [a long todo-list](https://github.com/freesewing/todo), so if you'd like to help out (or if you're just curious what we're up to) go ahead and have a look.
 
+Note that not all tasks are technical. We also need to pick pretty colors for the new patterns for example.
 
-## Een vooruitblik naar oktober
+## Looking ahead to October
 
-Ik heb twee weken vakantie in oktober, en ik heb mezelf beloofd dat ik mijn laptop aan de kant zou zetten
-zodat ik wat kleren kan maken (of toch proberen). We zullen zien hoe dat afloopt.
+I have two weeks of holiday in October, and I have promised myself I would (try to) put away my laptop and make some clothes. I'm curious to see how that goes.
