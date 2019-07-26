@@ -1,8 +1,8 @@
 ---
-title: Hauteur de hanches
-path: /fr/docs/measurements/naturalwaisttoseat
+title: Natural waist to seat
+path: /en/docs/measurements/naturalwaisttoseat
 ---
 
-La **hauteur de hanches** est la mesure verticale depuis votre taille naturelle jusqu'à la partie la plus forte de vos fesses, mesurée sur le côté de votre corps.
+The **natural waist to seat** is the measurement from your natural waist down towards the fullest part of your bum, measured on the side of your body.
 
-Pour mesurer votre **hauteur de hanches**, localiser les hauteurs respectives de votre taille naturelle et de votre tour de bassin, puis mesurez la distance verticale qui les sépare. Veillez à effectuer cette mesure de profil.
+To measure your **natural waist to seat**, locate the height of both your natural waist and seat circumference, and measure the vertical distance between them. Make sure to measure at the side of your body.
