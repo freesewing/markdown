@@ -1,20 +1,21 @@
 ---
 date: 2018-08-01
-title: "Anunciando Sandy, una falda de capa diseñada por @AlfyLyr"
-linktitle: "Anunciando la falda de capa Sandy"
+title: "Announcing Sandy, a circle skirt designed by @AlfyLyr"
+linktitle: "Announcing the Sandy circle skirt"
 img: sandy.jpg
-caption: "¿Sabías que la falda se llama Sandy por el personaje de Olivia Newton-John en la película Grease?"
+caption: "Did you know that Sandy was named after Olivia Newton-John's character in the move Grease?"
 author: joost
 ---
-Señoras y señores (porque quién dice que los hombres no pueden llevar falda), me congratula anunciar la disponibilidad inmediata de nuestro último patrón freesewing: [the Sandy circle skirt](/patterns/sandy).
 
-Sandy ha sido diseñada por [@AlfaLyr](/users/alfalyr), quien ha hecho un estupendo trabajo. Esto hace otro patrón creado por la comunidad freesewing, algo que me emociona mucho.
+Ladies and gentlemen \--- because who says men can't wear skirts \--- I am happy to announce the immeadiate availability of our latest freesewing pattern: [the Sandy circle skirt](/patterns/sandy).
 
-## Todas las opciones
+Sandy was designed by [@AlfaLyr](/users/alfalyr) who really did a stellar job. This makes it also another pattern from the freesewing community, something that I'm very excited about.
 
-Como tantos patrones aquí en freesewing, Sandy viene con un montón de opciones que te permiten personalizar la falda según tus gustos.
+## All the options
 
-Hay optiones para qué porcentaje de un círculo quieres (¿de capa completa? ¿media capa? ¿otra cosa?), para la longitud, la forma y la superposición de la cinturilla, si quieres tablas o fruncidos, cuándo dobladillo, y mucho más.
+As many patterns here at freesewing, Sandy comes with a bunch of options to allow you to customize your skirt to your wishes.
 
-Puedo ver que esto va a ser una historia de éxito.  
-Así que ve y [date el lujo de una nueva falda](/draft/sandy), y dile a [@AlfyLyr](/users/alfalyr) cómo te ha ido.
+There's options for how much of circle you want (half? full? Something else?), how long you want it, the shape and overlap of the waistband, whether you want pleats, how much hem, and so on.
+
+I can see this becoming rather the success story.  
+So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.
