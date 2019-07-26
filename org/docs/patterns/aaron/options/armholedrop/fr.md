@@ -1,11 +1,12 @@
 ---
-title: Abaissement d'emmanchure
-path: /fr/docs/patterns/aaron/options/armholedrop
+title: Armhole drop
+path: /en/docs/patterns/aaron/options/armholedrop
 pattern: aaron
 option: armholeDrop
 ---
-![L'option d'abaissement d'emmanchure sur Aaron](./armholedrop.svg)
 
-De combien abaisser l'emmanchure par rapport à la valeur par défaut.
+![The armhole drop option on Aaron](./armholedrop.svg)
 
-> Cette option accepte également des valeurs négatives. Elles vont, de toute évidence, relever l'emmanchure de la même quantité.
+How much to lower the armhole below the default amount.
+
+> This option also allows negative values. They will, obviously, raise the armhole by said amount.
