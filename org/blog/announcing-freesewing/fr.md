@@ -1,77 +1,50 @@
 ---
 date: 2017-03-24
-title: "Annonce de freesewing, une plateforme open source pour les patrons de couture sur mesure"
-linktitle: "Annonce de freesewing"
-img: logo.jpg
-caption: "Le logo freesewing"
+title: "Announcing freesewing, an open source platform for made-to-measure sewing patterns"
+linktitle: "Announcing freesewing"
+img: "logo.jpg"
+caption: "The freesewing logo"
 author: joost
 ---
-Je suis fier d'annoncer la [version 1.0.0 de freesewing core](https://github.com/freesewing/core)
-et [la documentation](/docs) qui l'accompagne, qui décrit le projet freesewing en détail.
 
-Mais je suis également réaliste, 
-et je comprends que vous n'avez pas le temps de parcourir les pages sur des pages de documentation.
+I am are proud to announce [freesewing core v1.0.0](https://github.com/freesewing/core) and the accompanying [documentation](/docs) that describes the freesewing project in detail.
 
-Donc, à la place, voici une histoire pour vous donner l'essence de freeswing en un mot:
+But I'm also realistic, and understand that you don't have time to plow through pages upon pages of documentation.
 
-## L'histoire d'origine de freesewing
+So instead, here's a story to give you the essence of freesewing in a nutshell:
 
-La couture est facile. Ça l'est vraiment.  Ce qui est difficile, c'est d'adapter les choses correctement. 
-C'est pourquoi vous utilisez un patron de couture.  C'est un plan pour tout ce que vous faites. 
-Un bon patron vous donne un bon ajustement. La plupart d'entre eux ne le font pas.
+## The freesewing origin story
 
-C'est parce que -- tout comme les vêtements dans la boutique -- les patrons sont de tailles différentes. 
-Et les tailles sont un moyen brut de mettre les gens dans des cases. 
-Ils sont faits pour une personne moyenne imaginaire, plutôt que pour vous.
+Sewing is easy. It really is. What's hard is getting things to fit properly. That's why you use a sewing pattern. It's a blueprint for whatever it is you are making. A good pattern gives you good fit. Most patterns don't.
 
-Il y a un autre moyen, et c'est de dessiner un patron basé sur vos mesures. 
-Ces patrons sur mesure sont largement supérieurs, mais ils demandent beaucoup de travail.
+That's because &mdash; much like clothes in the shop &mdash; patterns come in sizes. And sizes are a crude way to put people in boxes. They are made for an imaginary average person, rather than for you.
 
-Je voulais changer cela, et cet effort a évolué en MakeMyPattern.com. 
-J'ai géré ce site pendant plusieurs années et ce fut un succès remarquable. 
-Probablement aidé par le fait que j'ai donné tous les patrons gratuitement.
+There's another way, and that is to draft a pattern based on your measurements. These made-to-measure patterns are vastly superior, but they require a lot of work.
 
-Dans le monde de la couture, il est souvent nécessaire d'expliquer pourquoi on 
-choisirait de donner son travail gratuitement. 
-Les choses sont différentes dans le monde open source où l'idée de partager votre travail 
-avec les autres pour le bénéfice de tous est le fil même à partir duquel les communautés sont tissées.
+I wanted to change that, and that effort evolved into [MakeMyPattern.com](https://makemypattern.com/). I ran that site for a number of years, and it was a remarkable success. Probably helped by the fact that I gave away all patterns for free.
 
-Bien que je ne puisse pas par magie apporter la culture de l'open source aux modèles de couture, 
-je peux certainement apporter des modèles de couture dans le monde open source.
+In the world of home sewing, it tends to require a bit of explaining why one would choose to give away their work for free. Things are different in the open source world where the idea of sharing your work with others for the benefit of all is the very thread from which communities are woven.
 
-Freesewing.org continuera à offrir ce que Makemypattern.com fait aujourd'hui: 
-des patrons de couture gratuits dessiné selon vos mesures. 
-Mais en plus, il sera ouvert à vos contributions.
+While I can't magically bring the culture of open source to sewing patterns, I certainly can bring sewing patterns into the open source world.
 
-En espérant que dans le diagramme de Venn du geek et de couture, 
-ce n'est pas juste moi au milieu.
+[Freesewing.org](https://freesewing.org/) will continue to offer what [Makemypattern.com](https://makemypattern.com/) does today: free sewing patterns drafted to your measurements. But additionally, it will be open to your contributions.
+
+Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
 
 joost
 
 ## Shout-outs
-Freesewing est un projet de [Joost De Cock](https://github.com/joostdecock) et de collaborateurs.
 
-Merci à [@jakesgordon](https://github.com/jakesgordon) et 
-[Kevin Lindsey](http://www.kevlindev.com/) pour m'avoir permis de porter une partie de leur code.
+Freesewing is a project by [Joost De Cock](https://github.com/joostdecock) and contributors.
 
-L'enthousiasme et les contributions de 
-[@diggydev](https://github.com/diggydev),
-[@cabi](https://github.com/cabi),
-[@woutervdub](https://github.com/woutervdub),
-[@cloutiy](https://github.com/cloutiy),
-[@straytaoist](https://github.com/straytaoist),
-[@netpraxis](https://github.com/netpraxis),
-[@Stefan1960](https://github.com/Stefan1960),
-[@brendare1](https://github.com/brendare1),
-[@JorisJoppe](https://github.com/JorisJoppe),
-[@JamJenkins](https://github.com/JamJenkins), and
-[@fightingrabbit](https://github.com/fightingrabbit)
-ont été un grand avantage pour ce projet.
+Hat-tip to [@jakesgordon](https://github.com/jakesgordon) and [Kevin Lindsey](http://www.kevlindev.com) for allowing me to port some of their code.
 
-Merci à [@annekecaramin](https://twitter.com/annekecaramin) pour avoir conçu un logo assez cool.
+The early-stage enthusiasm and input of [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), and [@fightingrabbit](https://github.com/fightingrabbit) has been a great boon to this project.
 
-Un grand merci à [@scorchtorch](https://twitter.com/scorchtorch) pour avoir été le meilleur dans ce domaine cœur / salade / bois.
+Thanks to [@annekecaramin](https://twitter.com/annekecaramin) for designing a logo cool enough to put on a Tshirt.
 
-Last but not least, ce projet n'existerait pas sans les utilisateurs, les supporters et les donateurs de makemypattern.com.
+Special thanks to [@scorchtorch](https://twitter.com/scorchtorch) for being the best at that heart/salad/antlers thing.
 
-Merci les gars!
+Last but not least, this project would not exist without the users, supporters, and donors of [makemypattern.com](https://makemypattern.com/).
+
+Thanks guys!
