@@ -1,7 +1,8 @@
 ---
-title: Ecart de poitrine
-path: /fr/docs/measurements/bustspan 
+title: Bust span
+path: /en/docs/measurements/bustspan
 ---
-L'**écart de poitrine** est la distance horizontale entre les saillants.
 
-Pour mesurer l'écart de poitrine, placez le mètre ruban au niveau de votre poitrine et relevez la distance horizontale d'un saillant à l'autre.
+The **bust span** is the horizontal distance between the two apex points of your bust.
+
+To measure your bust span, run the tape measure horizontally in a straight line from the tip of your one breast to the tip of the other.
