@@ -1,19 +1,21 @@
 ---
 date: 2018-01-21
-title: Bruce teints par Reanna
+title: Bleach dyed Bruce by Reanna
 img: showcase.jpg
-caption: "Ceux-là sont faits à partir de tissu de T-shirt noir qu'elle a teint elle-même, en utilisant des plantes du désert pour les motifs."
-patterns: [bruce]
+caption: "These are made of black tshirt fabric she bleach dyed myself, using desert plants for the design."
+patterns:
+  - bruce
 author: 'Alderrr'
 ---
-![Le dos du modèle montré au dessus](/img/showcase/bleach-dyed-bruce/1-back.jpg) 
- 
-![Le devant d'un second](/img/showcase/bleach-dyed-bruce/2-front.jpg)
 
-![Le dos du second](/img/showcase/bleach-dyed-bruce/2-back.jpg)
+![The back of the pair shown above](/img/showcase/bleach-dyed-bruce/1-back.jpg)
 
-> ##### Voir l'original sur Tumblr
-> Ces photos ont été prises du [post Tumblr](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear)
-> sur [le blog](http://alderrr.tumblr.com/) de [@Alderrr](/users/Alderrr).
->
-> Elles sont reproduites ici avec permission.
+![The front of a second pair](/img/showcase/bleach-dyed-bruce/2-front.jpg)
+
+![The back of a second pair](/img/showcase/bleach-dyed-bruce/2-back.jpg)
+
+> ##### See the original on Tumblr
+> 
+> These were taken from [this Tumblr post](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear) on [the blog](http://alderrr.tumblr.com/) of [@Alderrr](/users/Alderrr).
+> 
+> They are reposted here with permission.
