@@ -1,9 +1,8 @@
 ---
-title: Largeur des épaules
-path: /fr/docs/measurements/shouldertoshoulder
+title: Shoulder to shoulder
+path: /en/docs/measurements/shouldertoshoulder
 ---
 
-La mesure de la **largeur des épaules** va horizontalement de l'articulation d'une épaule à l'autre au niveau du dos.
+The **shoulder to shoulder** measurement runs from the tip of your shoulder on one side across your back to the tip of your other shoulder.
 
-Pour mesurer votre **largeur des épaules**, trouvez l'extremité de votre épaule, là où la couture d'épaule devrait se trouver sur une chemise bien ajustée. 
-Puis mesurez à partir de là jusqu'au même point de l'autre côté.
+To measure your **shoulder to shoulder** find the edge of your shoulder where on a good fitting shirt the shoulder seam would sit. Then, measure from there across your back to the same point at the other side.
