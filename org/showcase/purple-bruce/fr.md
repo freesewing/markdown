@@ -1,10 +1,11 @@
 ---
 date: 2016-08-23
-title: "Boxers violets par zephine_malvimavie"
+title: "Purple boxers by zephine_malvimavie"
 img: showcase.jpg
-caption: "Ceux-là sont légèrement raccourcis par rapport au patron original"
-patterns: [bruce]
+caption: "These are slightly shortened in comparison to the original pattern"
+patterns:
+  - bruce
 author: Laetitia B
 ---
 
-Cette photo provient du [compte Instagram](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) de [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) of [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
