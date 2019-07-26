@@ -1,339 +1,344 @@
 ---
-title: Réaliser Wahid
-path: /fr/docs/patterns/wahid
+title: Making Wahid
+path: /en/docs/patterns/wahid
 ---
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Wahid, vous aurez besoin de ce qui suit :
+To make Wahid, you will need the following:
 
- - Fournitures de base pour la couture
- - Un mètre de tissu approprié ([voir les Options de tissu](#options-de-tissu))
- - Un mètre de tissu de doublure
- - Entoilage themocollant
- - Boutons
+- Basic sewing supplies
+- One meter of a suitable fabric ([see Fabric options](#fabric-options))
+- One meter of lining fabric
+- Fusable interfacing
+- Buttons
 
-##  Options de tissu
+## Fabric options
 
-Tous les tissus pour costume sont un excellent choix pour faire des gilets de costume. N'importe quelle boutique de tissu qui en mérite le nom devrait avoir une section pour costume. Vous pouvez juste y entrer, demander où vous pouvez trouver les tissus pour costume, et choisir quelque chose qui vous plaît.
+All suiting fabrics are a great choice for your waistcoats. Any fabric shop that's worth your business should have a suiting section. You can just walk in, ask where you can find the fabric for suits, and pick out something you like.
 
-Ces tissus sont généralement en laine, mais vous pouvez tout à fait être un peu plus créatif et choisir autre chose.
+These fabrics are typically wool, but you can also be a bit more creative and go for something else.
 
-> Vous avez tout de même besoin d'un grammage suffisant. Du denim convient, alors qu'une cotonnade légère non.
+> You do need a bit of weight though. Denim is fine, some light cotton is not.
 
-## Découpe
+## Cutting
 
- - **Tissu principal**
-   - Coupez **2 devants** endroit contre endroit
-   - Coupez **2 dos** endroit contre endroit
-   - Coupez **2 parementures devant** endroit contre endroit
-   - Coupez **2 passepoils de poche** endroit contre endroit
-   - Coupez **2 triplures de poche** endroit contre endroit
- - **Tissu de doublure**
-   - Coupez **2 doublures devant** endroit contre endroit
-   - Coupez **2 dos** endroit contre endroit
-   - Coupez **2 fonds de poche** endroit contre endroit
- - **Entoilage**
-   - Coupez **2 devants** endroit contre endroit
-   - Coupez **2 entoilages de poche**
+- **Main fabric** 
+ - Cut **2 front(s)** with good sides together
+ - Cut **2 back(s)** with good sides together
+ - Cut **2 front facing(s)** with good sides together
+ - Cut **2 pocket welt(s)** with good sides together
+ - Cut **2 pocket facing(s)** with good sides together
+- **Lining fabric** 
+ - Cut **2 front lining(s)** with good sides together
+ - Cut **2 back(s)** with good sides together
+ - Cut **2 pocket bag(s)** with good sides together
+- **Interfacing** 
+ - Cut **2 front(s)** with good sides together
+ - Cut **2 pocket interfacing(s)**
 
-### Avertissements
- - Ne coupez pas la pince **devant**
- - Ne coupez pas la pince **dos**
- - Faites attention à la ligne droit-fil sur le **passepoil de poche** et **la triplure de poche**
+### Caveats
 
-Wahid est un patron relativement simple, ci-dessous une disposition typique :
+- Do not cut out the **front** dart
+- Do not cut out the **back** dart
+- Watch out for the grainline on the **pocket welt** and **pocket facing**
 
-![Une ébauche typique de Wahid](layout.svg)
+Wahid is a relatively simply pattern, below is a typical layout:
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les différents marquages et lignes de votre ébauche.
+![A typical Wahid draft](layout.svg)
+
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
-### Etape 1 : Thermocoller l'entoilage
+### Step 1: Fuse interfacing
 
-#### Repasser l'entoilage sur les passepoils de poche
+#### Press interfacing to pocket welts
 
-![Repasser l'entoilage sur les passepoils de poche](01a.png)
+![Press interfacing to pocket welts](01a.png)
 
-Placez votre passepoil de poche à l'envers, et votre entoilage de poche par dessus.
+Place your pocket welt with the good side down, and your pocket interfacing on top.
 
-L'entoilage est un peu plus court que le passepoil, alors veillez à aligner le côté qui a une ligne d'aide marquée dessus.
+The interfacing is a bit shorter than the welt, so make sure to align the side that has the help line marked on it.
 
-Pour chaque poche, fixez l'entoilage au fer sur l'envers du passepoil de poche.
+For each pocket, press the interfacing piece to the bad side of the pocket welt.
 
-#### Appliquer l'entoilage sur les devants
+#### Press interfacing to fronts
 
-![Appliquer l'entoilage sur les devants](01b.png)
+![Press interfacing to pocket fronts](01b.png)
 
-Placez le devant à l'envers, et l'entoilage par dessus.
+Place your front with the good side down, and your interfacing on top.
 
-Fixez l'entoilage en place au fer à repasser.
+Press the interfacing in place.
 
-> **Prenez votre temps**
->
-> Ne prenez pas cette étape à la légère, vous voulez repasser vraiment cet entoilage sur votre tissu pour qu'il soit fixé correctement.
->
-> Placez le fer et laissez le en place pendant 10 secondes à peu près avec de le déplacer au prochain endroit pour répéter la procédure (sans le faire glisser pour éviter tout risque de déformation).
-
-### Etape 2 : Assembler la parementure devant avec la doublure
-
-#### Coudre la parementure à la doublure
-
-![Coudre la parementure à la doublure](02a.png)
-
-Placez votre parementure devant et la doublure endroit contre endroit. Epinglez les bords de la limite parementure/doublure en place.
-
-Cousez-les ensemble.
-
-#### Ouvrir la couture au fer
-Ouvrez la couture entre la parementure et la doublure au fer.
-
-### Etape 3 : Fermer toutes les pinces
-
-![Fermer toute les pinces](03a.png)
-
-#### Fermer les pinces dos
-
-Faites les plis des pinces dos endroit contre endroit, et cousez-les.
-
-> N'oubliez-pas de le faire aussi pour la doublure
-
-#### Fermer les pinces devant
-Faites les plis des pinces devant (avec l'entoilage collé dessus) endroit contre endroit, et cousez-les.
-
-### Etape 4 : Repasser toutes les pinces
-
-![Repassez toutes les pinces](04a.png)
-
-#### Repasser les pinces devant
-Une fois coupées, repassez les pinces devant en ouvrant les coutures.
-
-#### Repasser les pinces dos
-Si vous coupez les pinces dos, ouvrez-les au fer, sinon couchez-les vers les côtés au fer.
-
-> N'oubliez-pas de faire la même chose pour la doublure
-
-### Etape 5: Construire les poches
-
-#### Assembler le fond de poche au passepoil de poche
-
-![Assembler le fond de poche au passepoil de poche](05a.png)
-
-Placez votre fond de poche à l'endroit, et le passepoil de poche par dessus à l'envers.
-
-Alignez le côté droit du fond de poche avec le côté du passepoil qui n'a pas d'entoilage, et cousez-les ensemble à la marge de couture standard.
-
-#### Ouvrir la couture
-Lorsque vous avez terminé, ouvrez cette couture.
-
-#### Marquer l'endroit où la poche doit aller
-
-![Marquer l'endroit où la poche doit aller](05a.png)
-
-Votre partie de patron devant a une ligne d'aide dessus pour montrer où le passepoil de poche devrait se trouver. Il s'agit de deux demi-rectangles qui se sont assemblés lorsque vous avez fermé la pince pour former la forme de votre poche passepoilée.
-
-Si vous n'avez pas encore marqué les quatre coins de ce rectangle, vous devriez le faire maintenant.
-
-> La poche se trouve sous un certain angle sur votre patron. A partir d'ici, dans les illustrations, je dessinerai la poche droite pour rendre les choses plus faciles.
-
-#### Fixer le passepoil et la triplure de poche
-
-![Fixer le passepoil et la triplure de poche](05c.png){.fs-row2}
-![Fixer le passepoil et la triplure de poche](05d.png){.fs-row2}
-
-Placez votre pièce devant à l'endroit. Nous allons fixer le passepoil à la ligne inférieure du contour de poche, et la triplure sur la ligne supérieure.
-
-> Si vous n'avez jamais réalisé de poche passepoilée avant, cela peut sembler un peu contre-intuitif de fixer la poche à l'extérieur du vêtement. Une poche devrait se trouver à l'intérieur, non ?
+> **Take your time**
 > 
-> Détendez-vous, la poche finira à l'intérieur
+> Don't just iron this on to get it over with, you want to really press that interfacing onto your fabric so that it fuses well.
+> 
+> Place your iron down and lean on it for 10 seconds or so before you move on to the next spot to repeat the process.
 
-Votre passepoil ainsi que la triplure de poche ont une ligne guide dessus. Cette ligne doit être alignée avec les bords longs de votre poche.
+### Step 2: Join front facing and lining
 
-Placez le passepoil de poche en bas, et la triplure de poche en haut, les deux étant à l'envers.
+#### Sew facing to lining
 
-Alignez soigneusement les lignes guides sur le contour de poche. Elles devraient se trouver maintenant côte à côte, et juste se heurter au milieu de votre poche.
+![Sew facing to lining](02a.png)
 
-Maintenant cousez le long de la ligne guide qui marque le bord long de votre poche.
+Place your front facing and lining with good sides together. Pin the edges of the facing/lining boundary in place.
 
-> Il est important que les lignes que vous cousez maintenant forment les bords longs d'un rectangle parfait. Cela va déterminer la forme de votre poche, alors si vous faites une ligne plus longue que l'autre, ou si elles sont désalignées ou non parallèles, votre poche aura un mauvais aspect.
+Sew them together.
 
-#### Ouvrir la poche
+#### Press open seam allowance
 
-![Ouvrir la poche](05c.png)
+Press open the seam allowance between facing and lining.
 
-Il est temps d'ouvrir avec attention la poche. Commencez au milieu de la poche, et coupez le long du bord le plus long vers le côté.
+### Step 3: Close all darts
 
-Au bords de votre poche, vous devrez arrêter de couper en ligne droite au milieu et couper plutôt vers la fin de votre ligne de piqûre à un angle de 45 degrés.
+![Close all darts](03a.png)
 
-> Ce petit triangle que vous coupez à présent est important. Veillez à viser avec attention où vous devez couper, comme vous devez couper jusqu'au niveau de la fin de vos points sans couper ces derniers.
+#### Close back darts
 
-#### Ouvrir les marges de couture
+Fold your back with good sides together, and sew the back dart.
 
-![Ouvrir les marges de couture](05c.png)
+> Don't forget to do the same for the lining
 
-Ouvrez au fer les marges de couture le long des bords longs de votre poche.
+#### Close front darts
 
-#### Mettre la triplure de poche vers l'arrière et repasser
+Fold your front (and the interfacing fused to it) with good sides together, and sew the front dart.
 
-![Mettre la triplure de poche vers l'arrière et repasser](05g.png)
+### Step 4: Press all darts
 
-Rabattez la triplure de poche vers le côté arrière et repassez-la.
+![Press all darts](04a.png)
 
-#### Repasser les triangles sur les côtés courts
+#### Press the front darts
 
-![Repasser les triangles sur les côtés courts](05h.png)
+Once cut open, press the front darts open.
 
-Déplacez votre triplure de poche hors du chemin pour révéler ces petits triangles sur les côtés de votre poche.
+#### Press the back darts
 
-Pliez-les vers l'arrière en vous assurant de garder votre ouverture de poche en forme de rectangle net, et repassez-les.
+If you cut open the back darts, press them open. If not, press them to the side.
 
-#### Rabattre les passepoils vers l'arrière, plier et repasser
+> Don't forget to do the same for the lining
 
-![Rabattre les passepoils vers l'arrière, plier et repasser](05i.png){.fs-row2}
-![Rabattre les passepoils vers l'arrière, plier et repasser](05j.png){.fs-row2}
+### Step 5: Construct the pockets
 
-Rabattre le passepoil avec la poche attachée vers l'arrière.
+#### Attach the pocket bag to the pocket welt
 
-Pliez le passepoil à l'endroit où il atteint le haut de la poche. Le passepoil devrait couvrir toute l'ouverture de poche.
+![Attach the pocket bag to the pocket welt](05a.png)
 
-> L'illustration montre ceci depuis l'arrière comme c'est plus facile de voir ce qui se passe de cette façon. Toutefois, vous devriez vérifier de l'avant pour être certain que la poche passepoilée ait un bel aspect.
+Place your pocket bag down with the good side up, and your pocket welt on top of it with the good side down.
 
-#### Coudre les triangles de la poche
+Align the straight side of the bag with the side of the welt that has no interfacing, and sew them together at the standard seam allowance.
 
-![Coudre les triangles de la poche](05k.png)
+#### Press seam open
 
-Placez le devant à l'endroit et veillez à ce que la triplure de poche et le passepoil soient bien à plat.
+When you are done, press open this seam.
 
-Rabattre le devant verticalement au bord de votre poche pour révéler ce petit triangle sur le côté court de votre ouverture de poche.
+#### Mark where your pocket needs to go
 
-Cousez ce triangle juste à côté du pli et du bord de la poche.
+![Mark where your pocket needs to go](05a.png)
 
-#### Fermer le fond de poche
+Your front pattern piece has a helpline on it to show where the welt pocket should go. It's two half rectangles that got joined together when you closed the dart to form the shape of your welt pocket.
 
-![Fermer le fond de poche](05l.png)
+If you haven't marked the four corners of that rectangle yet, you should do so now.
 
-Cousez votre triplure de poche au fond de poche pour finir votre poche.
+> The pocket sits under a slight angle on your pattern. Going forward, in the illustrations, I will draw the pocket straight as that makes things easier.
 
-> Cela va sans dire, mais soyez attentif à ne pas coudre votre fond de poche à l'avant de votre gilet.
+#### Attach pocket welt and pocket facing
 
-#### Repasser votre poche complétée
+<img src="05c.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" /> <img src="05d.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" />
 
-![Repasser votre poche complétée](05m.png)
+Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
 
-Lorsque vous avez fini, donnez à votre poche un bon coup de fer final.
+> If you've never made a welt pocket before, it can be a bit counterintuitive to attach the pocket on the outside of the garment. Pocket should be on the inside, right?
+> 
+> Relax, the pocket will end up on the inside
 
-### Etape 6 : Couture milieu dos
+Both your pocket welt and your pocket facing have a help line on them. That line needs to line up with the long edges of your pocket.
 
-![Coudre et repasser la couture milieu dos](06a.png)
+Place the pocket welt at the bottom, and the pocket facing on the top, both with their good side down.
 
-Mettez vos deux pièces dos endroit contre endroit et cousez la couture milieu dos.
+Carefully align their helpline on the pocket outline. They should now sit side by side, and just bump into each other at the middle of your pocket.
 
-Lorsque c'est fait, ouvrez cette couture au fer.
+Now sew along the helpline which marks the long edge of your pocket.
 
-> N'oubliez pas de faire la même chose pour la doublure
+> It is important that the lines you sew now form the long edges of a perfect rectangle. This will determine the shape of your pocket, so if you make one line longer than the other, or if they are not parallel or mis-aligned, you pocket will look bad.
 
-### Etape 7 : Assembler le dos aux devants
+#### Cut open the pocket
 
-![Assembler le dos aux devants](07a.png)
+![Cut open the pocket](05c.png)
 
-Mettez votre dos à l'endroit et les devants par dessus à l'envers. Alignez les coutures des côtés, épinglez et cousez.
+Time to carefully cut open the pocket. Start in the middle of the pocket, and cut towards along the longest edges towards the side.
 
-Lorsque c'est fait, ouvrez ces couture au fer.
+At the edges of your pocket you need to stop cutting open the center and instead cut towards the end of your line of stitches under 45 degrees.
 
-### Etape 8 : Assembler les épaules
+> This small triangle you are cutting at the end is important. Make sure to aim carefully as you should cut right up to the end of your stitches, without cutting into the stitches.
 
-![Assembler les épaules](08a.png)
+#### Press open the seam allowance
 
-Alignez les coutures d'épaule, cousez-les, et ouvrez les coutures au fer.
+![Press open the seam allowance](05c.png)
 
-> N'oubliez pas de faire la même chose pour la doublure
+Press open the seam allowance along the long edges of your pocket.
 
-### Etape 9 : Insérer la doublure
+#### Bring the pocket facing to the back and press
 
-#### Insérer la doublure dans le gilet
+![Bring the pocket facing to the back and press](05g.png)
 
-![Insérer la doublure dans le gilet](09a.png)
+Flip the pocket facing to the back side and press it down.
 
-Placez votre doublure sur votre gilet, endroit contre endroit. En d'autres termes, le gilet devrait avoir l'endroit à l'intérieur et l'envers à l'extérieur.
+#### Press down the triangles at the short sides
 
-#### Epingler la doublure au tissu
+![Press down the triangles at the short sides](05h.png)
 
-![Epingler la doublure au tissu](09b.png)
+Move your pocket facing out of the way to reveal those little traingles at the side of your pocket.
 
-Alignez les bords de la doublure et du tissu, et épinglez-les en place.
+Fold them back making sure you to keep your pocket opening a clean rectangle, and press them down.
 
-Démarrez au milieu dos, et suivez l'encolure jusqu'en bas du devant. Faites de tour, mais laissez environ 15 cm d'ouvert au milieu dos.
+#### Bring the pocket welt to the back, fold and press
 
-#### Coudre la doublure au tissu
+<img src="05i.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" /> <img src="05j.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" />
 
-![Coudre la doublure au tissu](09c.png)
+Flip the pocket welt with the attache pocket back tot he back side.
 
-Avec votre doublure proprement épinglée en place, cousez la doublure et le tissu ensemble.
+Fold your welt down at the point where it reaches the top of the pocket. The welt should cover the entire pocket opening.
 
-N'oubliez pas de laisser une ouverture de 15 cm au milieu dos.
+> The illustration shows this from the back as it's easier to see what is going on this way. However, you should check from the front to make sure your welt pocket looks good.
 
-#### Retourner le gilet et repassez les bords
+#### Sew down the pocket triangles
 
-![Retourner le gilet et repasser les bords](09d.png)
+![Sew down the pocket triangles](05k.png)
 
-A travers l'ouverture que vous avez laissée, retournez le gilet à l'endroit.
+Put your front down with the good side up and make sure the pocket facing and welt lie flat.
 
-Repassez les bords que vous venez de coudre, en vous assurant de rouler le tissu un peu de façon à ce que la doublure soit toujours invisible.
+Fold your front over vertically at the edge of your pocket to reveal that little triangle at the short side of your pocket opening.
 
-### Etape 10 : Finir les emmanchures
+Sew this triangle down by sewing right next to the fold, and pocket edge.
 
-#### Epingler vers l'intérieur la marge de couture du tissu
+#### Close the pocket bag
 
-![Epingler vers l'intérieur la marge de couture du tissu](10a.png)
+![Close the pocket bag](05l.png)
 
-Tout le long de l'emmanchure, épingler vers l'intérieur la marge de couture du tissu principal de votre gilet. Tout en faisant cela, gardez la doublure hord du chemin.
+Sew your pocket facing to the pocket bag to finish your pocket.
 
-#### Epingler la doublure
+> This should go without saying, but be careful not to sew your pocket bag to the front of your waistcoat.
 
-![Epingler la doublure](10b.png)
+#### Press your completed pocket
 
-Maintenant, rabattez votre doublure un peu avant le bord de l'emmanchure et épinglez-là.
+![Press your completed pocket](05m.png)
 
-#### Coudre à la main la doublure au tissu principal
+When you're done, give your pocket a good final press.
 
-![Coudre à la main la doublure au tissu principal](10c.png)
+### Step 6: Center back seam
 
-Utilisez un point glissé pour coudre à la main la doublure au tissu principal tout le long de l'eemanchure.
+![Sew and press the center back seam](06a.png)
 
-### Etape 11 : Fermer l'ouverture
-Vous vous souvenez du trou que nous avons laissé à l'étape 9 ? Il est temps de le fermer.
+Put your two back pieces with their good side together and sew the center back seam.
 
-Utilisez un point glissé pour coudre à la main la doublure au tissu principal et fermer l'ouverture.
+When you're done, press open this seam.
 
-### Etape 12 : Réaliser les boutonnières
+> Don't forget to do the same for the lining
 
-![Réaliser les boutonnières](12a.png)
+### Step 7: Join back to fronts
 
-Si vous ne l'avez pas déjà fait, transférer l'emplacement des boutonnières de votre patron vers votre tissu.
+![Join back to fronts](07a.png)
 
-Réalisez ces boutonnières.
+Put your back down with the good side up and put your fronts on it with the good side down. Align the side seams, pin and sew.
 
-### Etape 13 : Attacher les boutons
+When you're done, press open these seams.
 
-![Attacher les boutons](13a.png)
+### Step 8: Join the shoulders
 
-Epinglez votre gilet de manière à le fermer et transférez l'emplacement des boutonnières vers le côté des boutons.
+![Join the shoulders](08a.png)
 
-Cousez ces boutons.
+Align the shoulder seams, sew them, and press open the seam allowance.
 
-> Vous pourriez également transférer l'emplacement des boutons depuis le patron. Cependant, transférer les boutonnières que vous venez de faire vous assure que les boutons et les boutonnières seront bien alignés, même si votre(vos) boutonnière(s)even if your buttonhole(s) est(sont) légèrement décalée(s).
+> Don't forget to do the same for the lining
 
-### Etape 14 : Optionnelle : Faites un point de piqûre sur les bords
+### Step 9: Insert the lining
 
-![Vous pouvez optionnellement faire un point de piqûre sur les bordures de votre gilet](14a.png)
+#### Slide lining into the wasitcoat
 
-Si vous le désirez, Vous pouvez optionnellement faire un point de piqûre sur les bordures de votre gilet.
+![Slide lining into the waistcoat](09a.png)
 
-Le point de piqûre doit être réalisé à la main. Vous pouvez faire courir un point avant à quelques mm des bords de votre gilet, mais ne laissez vos points apparaître en surface que sur quelques fils. Vous avez certainement dû déjà voir ce genre de finition sur vos vestes de costume.
+Place your lining in your waistcoat, good sides together. In other words, the waistcoat should have the good side in and bad side out. The lining should have the bad side in and good side out.
 
-> Vous pouvez faire un point de piqûre avec un fil de la même couleur, ou utiliser une couleur contrastante si vous êtes d'humeur téméraire.
+#### Pin lining to fabric
 
-> Alors que le point de piqûre ajoute un aspect distinctif, il bloque également votre tissu à votre doublure/parementure ce qui empêche les choses de se déplacer.
+![Pin linng to fabric](09b.png)
 
-Après cela, vous voudrez probablement repasser votre gilet.
+Align the lining with the fabric edge, and pin it in place.
+
+Start at center back, and follow the neckline down the front closure. Work your way around the hem, but leave about a 15cm gat at the center back.
+
+#### Sew lining to fabric
+
+![Sew linng to fabric](09c.png)
+
+With your lining pinned neatly in place, sew lining and fabric together.
+
+Do not forget to leave that 15cm gap at the center back.
+
+#### Turn waistcoat and press edges
+
+![Turn waistcoat and press edgess](09d.png)
+
+Reach through the gap you left open at the hem, and turn your waistcoat.
+
+Press the edges you've just sewn, making sure to roll the fabric a bit so that the lining is always hidden.
+
+### Step 10: Finish the armholes
+
+#### Pin back the fabric seam allowance
+
+![Pin back the fabric seam allowance](10a.png)
+
+All along the armhole, pin back the seam allowance of your waistcoat fabric. While doing so, keep your lining out of the way.
+
+#### Pin down lining
+
+![Pin down lining](10b.png)
+
+Now fold back your lining a bit before the edge of the armhole and pin it down.
+
+#### Hand-sew the lining to the fabric
+
+![Hand-sew teh lining to the farbric](10c.png)
+
+Use a slipstitch to hand-sew the lining to the fabric all along the armhole.
+
+### Step 11: Finish the hem
+
+Remember that gap we didn't close in step 9? Time to close it.
+
+Use a slipstitch to hand-sew the lining to the fabric and close the hem.
+
+### Step 12: Make the buttonholes
+
+![Make the buttonholes](12a.png)
+
+If you haven't done so yet, transfer the buttonhole placement from your pattern onto your fabric.
+
+Make those buttonholes.
+
+### Step 13: Attach the buttons
+
+![Attach the buttons](13a.png)
+
+Pin your waistcoat closed and transfer the location of your buttonholes to the button side.
+
+Sew on those buttons.
+
+> You could also transfer the location of the buttons from the pattern. However, transferring the buttonholes you just made assures you that the buttons and buttonholes will line up, even if your buttonhole(s) is/are ever so slightly off.
+
+### Step 14: Optional: Pick-stitch the edges
+
+![You can optionally pick-stitch the edges of your waistcoat](14a.png)
+
+If you'd like, you can pick-stitch around the edges of your waistcoat.
+
+Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches it surface for a few threads. You've certainly seen it as a finish on suit jackets.
+
+> You can pick-stitch with thread of the same colour, or use a contrasting colour of you're feeling bold.
+> 
+> While pick-stitching adds a distinctive look, it also locks your fabric to your lining/facing which prevents things from shifting around.
+
+After this, you probably want to iron your waistcoat.
