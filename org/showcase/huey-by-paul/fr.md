@@ -1,8 +1,10 @@
 ---
 date: 2018-09-29
-title: Huey par Paul
+title: Huey by Paul
 img: showcase.jpg
-caption: "Un sweat à capuche en coton avec doublure contrastante par Paul"
-patterns: [huey]
+caption: "Cotton hoodie with contrasting lining by Paul"
+patterns:
+  - huey
 author: Tiger751023
 ---
+
