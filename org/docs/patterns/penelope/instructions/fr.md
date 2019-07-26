@@ -1,8 +1,9 @@
 ---
-title: Réaliser Penelope
-path: /fr/docs/patterns/penelope
+title: Making Penelope
+path: /en/docs/patterns/penelope
 ---
 
-> #### Cette documentation est incomplète
-> Penelope est un nouveau patron auquel il manque la documentation.  
-> Nous espérons l'ajouter prochainement.
+> #### This documentation is incomplete
+> 
+> Penelope is a new release and lacking documentation.  
+> We hope to add it soon.
