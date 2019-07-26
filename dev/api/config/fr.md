@@ -1,14 +1,10 @@
 ---
-path: /fr/docs/developer/config
 title: Configuration
 ---
 
-Cet article concerne le fichier de configuration des patrons.
-Freesewing (la librairie) ne requiert pas de configuration. 
-La configuration documentée ici est le fichier de configuration pour
-les patrons qui sont construits par dessus freesewing.
+This is about the pattern configuration file. FreeSewing (the library) does not require configuration. The configuration documented here is the configuration file for patterns built on top of FreeSewing.
 
-Pour la configuration d'exécution, allez voir les [réglages](/fr/docs/developer/settings/).
+For run-time configuration, see [settings](/settings).
 
 ## name
 
@@ -16,23 +12,12 @@ Pour la configuration d'exécution, allez voir les [réglages](/fr/docs/develope
 name: "sorcha"
 ```
 
-Une chaîne de caractère avec le nom de votre patron.
+A string with the name of your pattern.
 
 ## version
 
-```
-version: "0.3.1"
-```
-
-Une chaîne de caractère avec la version de votre patron.
-
-> ###### Ne le réglez pas manuellement
->
-> Avoir à régler manuellement la version de votre fichier de configuration va vous mener droit vers l'erreur. 
-> Au lieu de cela, chargez le numéro de version depuis votre fichier `package.json`.
-> 
-> Notre [Modèle de patron](https://github.com/freesewing/pattern-template/blob/master/config/config.js)
-> utilise également cette approche.
+    version: "0.3.1"
+    
 
 ## dependencies
 
@@ -43,15 +28,13 @@ dependencies: {
 }
 ```
 
-Un objet de paires `clé`-`valeur` qui contrôle l'ordre dans lequel vos parties de patron vont être ébauchées.
+An object of `key`-`value` pairs that controls the order in which pattern parts will get drafted.
 
-La `clé` doit être un nom de partie, la `valeur` peut être une chaîne de caractère contenant une nom de partie, 
-ou un tableau de chaînes de caractères contenant plusieurs noms de partie.
+<tip>
 
-Ceci sera utilisé pour déterminer l'ordre d'ébauche, et si, en premier lieu, une partie sera ébauchée ou non.
+See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
 
-Dans l'exemple ci-dessus, si l'utilisateur demande la partie `front` (devant), nous allons tout de même
-ébaucher la partie `back` (dos) étant donné que c'est une dépendance.
+</Tip>
 
 ## inject
 
@@ -61,18 +44,15 @@ inject: {
 }
 ```
 
-Un objet de paires `clé`-`valeur` des parties. La partie `valeur` sera injectée dans la partie `clé`.
+An object of `key`-`value` pairs of parts. The `value` part will be injected in the `key` part.
 
-L'*injection* signifie que plutôt que de démarrer avec une nouvelle partie, vous allez obtenir une partie qui 
-a des points, chemins et fragments d'une partie `valeur`.
+By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
 
-> ###### dependencies vs inject
->
-> Employez une dépendance lorsqu'une partie dépend d'une autre. Par exemple, vos manches dépendent de 
-> la longueur de l'emmanchure que vous avez stockée dans le store.
-> 
-> Utilisez inject si votre partie se construit au dessus d'une autre. Par exemple, For example, le devant est  
-> simplement la partie dos avec quelques mises au point.
+<tip>
+
+See [Part inheritance](/advanced/inject) for more in-depth information on inject.
+
+</Tip>
 
 ## hide
 
@@ -82,9 +62,7 @@ hide: [
 ]
 ```
 
-Un tableau qui liste les parties de patron qui devraient être cachées par défaut.
-Caché veut dire qu'ils seront ébauchés mais non rendu. C'est généralement utilisé 
-pour une partie de base sur laquelle les autres parties sont construites.
+An array that lists pattern parts that should be hidden by default. Hidden means that they will be drafted, but not rendered. Typically used for a base part on which other parts are built.
 
 ## parts
 
@@ -95,15 +73,15 @@ parts: [
 ]
 ```
 
-Un tableau qui liste vos parties (additionnelles) de patron. Le nom doit être la clé de l'objet `pattern.parts`.
+An array that lists your (additional) pattern parts. The name must be the key the `pattern.parts` object.
 
-> ###### Cela n'a pas à être une liste exhaustive de toutes les parties de votre patron.
->
-> Cette liste de parties est nécessaire pour la méthode `draft()` pour trouver quelles 
-> parties doivent être ébauchées.
-> Alors si des parties sont incluses dans la configuration de `dependencies`, `inject`, ou `hide`, 
-> il n'y a nul besoin de les inclure ici, puisque leur existence est déjà connue.
+<tip>
 
+###### This does not need to be an exhaustive list of all parts in your pattern.
+
+This list of parts is needed for the `draft()` method to figure out what parts need to be drafted. So if parts are included in the `dependencies`, `inject`, or `hide` configuration, there's no need to include them here, as we already know of their existence.
+
+</Tip>
 
 ## measurements
 
@@ -113,30 +91,32 @@ measurements: [
   "centerBackNeckToWaist"
 ]
 ```
-Un tableau avec les noms des mesures requises pour ébaucher le patron. 
 
-> ###### Ne fabriquez pas de noms.
->
-> Faites un tour sur les [modèles freesewing](https://github.com/freesewing/models) 
-> pour une liste des noms de mesures qui sont déjà utilisés dans les patrons freesewing.
-> Cela fait partie des [Meilleures pratiques](/fr/docs/developer/do#dont-re-invent-the-wheel) de se conformer à ces notations.
+An array with the names of the measurements required to draft this pattern.
+
+<note>
+
+###### Don't just make up names
+
+See [freesewing models](https://github.com/freesewing/models) for a list of measurement names already used in freesewing patterns. It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
+
+</Note>
 
 ## options
 
-Les options se divisent en 6 catégories :
+Options come in 6 varities:
 
- - [Constantes](#constantes) : Une valeur qui ne peut être changée
- - [Pourcentages](#pourcentages) : Une valeur en pourcentage, avec une valeur minimale et une valeur maximale
- - [Millimètres](#millimètres) : Une valeur en millimètres, avec une valeur minimale et une valeur maximale
- - [Degrés](#degrés) : Une valeur en degrés, avec une valeur minimale et une valeur maximale
- - [Compteurs](#compteurs) : Une valeur entière, avec une valeur minimale et une valeur maximale
- - [Listes](#listes) : Une liste d'option avec une valeur par défaut
+- [Constants](#constants) : A value that can't be changed
+- [Booleans](#booleans) : A value that is either `true` or `false`
+- [Percentages](#percentages) : A value in percent, with minimum and maximum values
+- [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
+- [Degrees](#degrees) : A value in degrees, with minimum and maximum values
+- [Counters](#counters) : An integer value, with minimum and maximum values
+- [Lists](#lists) : A list of options with a default
 
-Sous le capot, les millimètres, degrés, et compteurs sont traités de la même manière. 
-Nous utilisons des types différents pour que la nature d'une option donnée soit plus compréhensible.
+Under the hood, millimeters, degrees, and counters are handled the same way. We use different types because it easier to understand the nature of a given option.
 
-
-### Constantes
+### Constants
 
 If your option is a scalar value (like a string or a number), it will be treated as a constant:
 
@@ -146,21 +126,31 @@ options: {
 }
 ```
 
-Plutôt que de définir des constantes dans votre code, c'est une meilleure pratique de les régler dans votre fichier de configuration.
-De cette façon, les personnes qui étendent votre patron peuvent les modifier si elles le désirent.
+Rather than define constants in your code, it's good practice to set them in your configuration file. This way, people who extend your pattern can change them if they would like to.
 
-### Pourcentages
+### Booleans
 
-Les options poucentages sont le fondement de freesewing.
-Presque toutes nos options seront probablement des pourcentages.
-Ils assurent le fait que votre patron aura la bonne échelle peu importe la taille,
-et passera [le test de l'homme fourmi](https://github.com/freesewing/antman).
+If your option is either `true` or `false, or **on** or **off** or **yes** or **no**, you can use a boolean:
 
-Votre option pourcentage devrait être un objet avec ces propriétés :
+Your boolean option should be an object with these properties:
 
- - `pct` : le pourcentage
- - `min` : le minimum autorisé
- - `max` : le maximum autorisé
+- `bool` : Either `true` or `false` which will be the default
+
+```js
+options: {
+  withLining: { bool: true }
+}
+```
+
+### Percentages
+
+Percentage options are the bread and butter of freesewing. Almost all your options will probably be percentages. They make sure that your pattern will scale regardless of size, and pass [the ant-man test](https://github.com/freesewing/antman).
+
+Your percentage option should be an object with these properties:
+
+- `pct` : The percentage
+- `min` : The minimul that's allowed
+- `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -172,23 +162,26 @@ options: {
 }
 ```
 
-> ###### Les options pourcentage seront diviséees par 100 au chargement
->
-> Vous spécifiez des pourcentages dans votre fichier de configuration. Par exemple, `50` signifie 50%.
-> Lorsque votre configuration sera chargée, ces pourcentages seront divisés par 100. 
-> 
-> Alors un pourcentage de `50` dans votre fichier config sera `0.5` lorsque vous lirez cette option dans votre patron.
+<note>
 
-### Millimètres
+###### Percentage options will be divided by 100 when loaded
 
-Bien que nous recommandions l'usage de pourcentages lorsque c'est possible, parfois cela n'a aucun sens.  
-Dans ces cas-là, vous pouvez utiliser les millimètres.
+You specify percentages in your config file. For example, `50` means 50%. When your configuration is loaded, those percentages will by divided by 100.
 
-Votre option millimètre devrait être un objet avec ces propriétés :
+So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
 
- - `mm` : la valeur par défaut en millimètres
- - `min` : le minimum autorisé
- - `max` : le maximum autorisé
+</Note>
+
+### Millimeters
+
+While we recommend using percentages where possible, sometimes that doesn't make sense.  
+For those cases, you can use millimeters.
+
+Your millimeter option should be an object with these properties:
+
+- `mm` : The default value in millimeter
+- `min` : The minimul that's allowed
+- `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -200,15 +193,15 @@ options: {
 }
 ```
 
-### Degrés
+### Degrees
 
-Pour les angles, utiliser les degrés.
+For angles, use degrees.
 
-Votre option degré devrait être un objet avec ces propriétés :
+Your degree option should be an object with these properties:
 
- - `deg` : la valeur par défaut en degrés
- - `min` : le minimum autorisé
- - `max` : le maximum autorisé
+- `deg` : The default value in degrees
+- `min` : The minimul that's allowed
+- `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -220,16 +213,15 @@ options: {
 }
 ```
 
-### Compteurs
+### Counters
 
-Pour un nombre donné de choses, utilisez les compteurs.
-Les compteurs sont seulement pour les données de valeurs entières. Des choses comme le nombre de boutons par exemple.
+For a given number of things, use counters. Counters are for integers only. Things like number of buttons and so on.
 
-Votre option compteur devrait être un objet avec ces propriétés :
+Your counter option should be an object with these properties:
 
- - `count` : la valeur entière par défaut
- - `min` : le minimum autorisé
- - `max` : le maximum autorisé
+- `count` : The default integer value
+- `min` : The minimal integer value that's allowed
+- `max` : The maximum integer value that's allowed
 
 ```js
 options: {
@@ -241,14 +233,14 @@ options: {
 }
 ```
 
-### Listes
+### Lists
 
-Employez une option liste lorsque vous voulez proposer un tableau de choix.
+Use a list option when you want to offer an array of choices.
 
-Votre option de liste devrait être un objet avec ces propriétés :
+Your list option should be an object with these properties:
 
- - `dflt` : le défaut pour cette option
- - `list` : un tableau de valeurs disponibles pour l'option
+- `dflt` : The default for this option
+- `list` : An array of available values options
 
 ```js
 options: {
@@ -264,4 +256,67 @@ options: {
     ]
   }
 }
+```
+
+## Extra
+
+Patterns also take these configuration options to facilitate frontend integration:
+
+### design
+
+The name of the designer:
+
+```js
+design: "Joost De Cock"
+```
+
+### code
+
+The name of the developer:
+
+```js
+code: "Joost De Cock"
+```
+
+### type
+
+Either `pattern` or `block`.
+
+```js
+type: "pattern"
+```
+
+### difficulty
+
+A `1` to `5` difficulty score that indicates how hard it is to make the pattern:
+
+```js
+difficulty: 3
+```
+
+### tags
+
+A set of tags to allow filtering of patterns on the website:
+
+```js
+tags: ["underwear", "top", "basics"],
+```
+
+### optionGroups
+
+Organises your pattern options in groups. It expects an object where the key is the group title, and the value an array of options:
+
+```js
+optionGroups: {
+  fit: ["chestEase", "hipsEase", "stretchFactor"],
+  style: [
+    "armholeDrop",
+    "backlineBend",
+    "necklineBend",
+    "necklineDrop",
+    "shoulderStrapWidth",
+    "shoulderStrapPlacement",
+    "lengthBonus"
+  ]
+} 
 ```
