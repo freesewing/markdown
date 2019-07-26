@@ -1,194 +1,166 @@
 ---
-title: Réaliser Aaron
-path: /fr/docs/patterns/aaron
+title: Making Aaron
 ---
 
-## Ce dont vous avez besoin
+## Step 1: Close seams
 
-Pour réaliser Aaron, vous aurez besoin de ce qui suit :
+![Close the side and shoulder seams](step01.png)
 
-- Fournitures de base pour la couture
-- Environ 0,75 m d'un tissu adapté ([voir les options de Tissu](#fabric-options))
+Put front and back on top of each other with good sides together. Serge the side seams, and the short seams at the shoulder straps.
 
-> #### Une surjeteuse est bien pratique mais optionnelle
->
-> Comme pour tous les tissus de type maille et élastique, une surjeteuse vous simplifiera la vie.
->
-> Si vous n'en avez pas, ne désespérez pas, vous n'en avez pas vraiment besoin. 
-> Vu que les coutures des côtés et des épaules ne vont pas être étirées, vous pouvez les réaliser simplement avec un point droit basique.
+## Step 2: Finish hem
 
-## Options de tissu
+![Finish the hem](step02.png)
 
-Un débardeur est de manière générale un sous-vêtement. En cette qualité, vous voudriez quelque chose de confortable, agréable contre votre peau and respirant.
+Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
 
-Du coton avec une touche de matière élastique, peut-être de la rayonne ou bien une maille fine. Je vous suggère de faire un tour dans votre boutique de tissu favorite et de tâter quelques étoffes.
+<note>
 
-> Bien que l'aspect élastique ne soit pas indispensable, il est tout à fait à propos pour les sous-vêtements. Cela étant dit, vous pouvez réaliser cette pièce dans un tissu non élastique, veillez simplement à choisir une coupe ample ou décontractée.
+##### Fold only once, to avoid bulk
 
+Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
-## Découpe
+</Note>
 
- - Coupez **1 dos** au pli
- - Couper **1 devant** au pli
- - Couper **3 bandes** pour la finition de l'encolure et des emmanchures
+## Step 3: Sew knit binding to the front
 
-> #### Mises en garde
-> 
->  - Il n'y a pas de marge de couture pour les emmanchures 
->  - Il n'y a pas de marge de couture pour l'encolure
->  - Il y a une marge supplémentaire pour l'ourlet
+<note>
 
-Aaron est un patron très simple, qui consiste en deux parties principales et quelques bandes pour la finition de l'encolure et des emmanchures.
+##### About knit binding
 
-Ci-dessous une ébauche typique de ce patron:
+If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
 
-![Une ébauche typique d'Aaron](layout.svg)
+###### Repeat steps 3 and 4 for both armholes and the neck opening
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification des différents marquages et des lignes sur votre ébauche.
+The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
 
+###### Start with the simplest opening
 
-## Construction
+I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
 
-### Etape 1 : Assemblage du dos et du devant
+Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
 
-![Assembler au niveau des côtés et des épaules](step01.png)
+</Note>
 
-Disposer le devant et le dos l'un sur l'autre endroit contre endroit. 
-Assembler et surfiler les côtés et les épaules.
+We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
 
-### Etape 2 : Finition de l'ourlet
+<note>
 
-![Coudre l'ourlet](step02.png)
+This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
 
-Pliez le tissu au bas du vêtement vers le haut, et fixez-le. Si vous disposez d'une recouvreuse, faites-la travailler. Sinon, utilisez une aiguille double ou un point zig-zag pour conserver l'élasticité.
+</Note>
 
-> #### Pliez une seule fois pour éviter les surépaisseurs
-> Les tissus en maille ne s'effilochent pas, alors vous pouvez simplement plier une seule fois, coudre pour fixer l'ourlet puis couper l'excédent de tissu de façon bien nette.
+### Pick your spot
 
-### Step 3: Coudre les biais de finition
+![Applying knit binding](step03a.png)
 
-> #### A propos des biais en jersey
->
-> Si vous débutez avec la [finition au biais](/fr/docs/sewing/knit-binding), vous pourriez être intéressés par [cette page sur le sujet](/fr/docs/sewing/knit-binding).
->
-> ##### Répéter l'étape 3 et 4 pour les deux emmanchures et l'encolure
-> 
-> La procédure ci-dessous s'applique à la fois aux emmanchures et à l'encolure. En d'autres termes, vous aurez à la suivre trois fois.
-> 
-> ##### Commencer avec l'ouverture la plus simple
->
-> Je vous conseille de débuter avec l'ouverture qui a la courbure la plus uniforme. Par défaut, il s'agit des emmanchures, mais si vous avez changé les options du patron (dos nageur par exemple), ce n'est peut-être pas le cas.
->
-> Dans tous les cas, le moins vous avez de courbure prononcée, plus facile cela sera. Alors commencez avec les courbes douces pour vous échauffer avant de vous attaquer aux courbes plus délicates.
+The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
 
-Nous allons finir les ouvertures au niveau des bras et du cou avec la [finition au biais](/fr/docs/sewing/knit-binding) 
-(notez que ce n'est pas un parement. La différence est expliquée [ici](/fr/docs/sewing/knit-binding)).
+- For the armholes: at the side seam. This will hide our seam under the arm
+- For the neck opening: the center back of the neck. You might want to make this with a pin
 
-> C'est la seule partie de réalisation de ce débardeur qui requiert un petit peu de pratique. Rassurez-vous, tout ce que vous avez à faire est d'en faire quelques uns et vous deviendrez des pros en un rien de temps.
+### Place (the start of) your binding
 
-#### Choisir son emplacement
-    
-![Poser un biais](step03a.png)
+![Place (the start of) your binding](step03b.png)
 
-La première décision que nous devons prendre est l'emplacement où nous allons commencer/arrêter notre biais. Voilà ce que je suggère :
+Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
 
-  - Pour les emmanchures : au niveau de la couture du côté. Cela cachera notre couture sous le bras
-  - Pour l'encolure : au niveau du milieu du dos. Vous voudrez peut-être le marquer avec un épingle
+Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
 
-#### Placer (le début) de votre biais
+Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
 
-![Placer (le début) de votre biais](step03b.png)
+> The easy way to keep this 1.5cm distance is by using a seam gauge. Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. Then all you need to do is keep the edge of your fabric aligned with that line.
 
-Disposez votre débardeur sur l'endroit, et placez votre bande de biais dessus à l'envers (donc endroit contre endroit).
+### Make sure you know where to sew
 
-Aligner le côté long de votre bande avec le bord de votre tissu de telle sorte que la bande repose entièrement sur le tissu (pas dans l'ouverture). Placer l'extrémité sur votre point de démarrage.
+![Make sure you know where to sew](step03c.png)
 
-Maintenant décaler votre bande de biais d'1 cm au delà de votre point de démarrage. Ce petit surplus garantira que nous pourrons joindre les deux extrémités plus tard.
+We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
 
-> La méthode facile de garder cette distance de 1,5 cm est d'utiliser une jauge de couture. 
-> Ou de faire ce que je fais, placer un morceau de masking tape sur votre machine à coudre et marquer une ligne de 1,5 cm à partir de l'aiguille. 
-> Puis tout ce que vous avez à faire est de garder le bord du tissu aligné avec cette ligne.
+Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
 
-#### Veiller à savoir où coudre exactement
+### Sew binding in place
 
-![Veiller à savoir où coudre exactement](step03c.png)
+![Sew binding in place](step03d.png)
 
-Nous allons coudre à 1,5 cm du bord. Alors soyez consciencieux car ce n'est pas une marge de couture standard.
+Sew your binding in place while gently stretching the binding, but not the fabric. Make sure not to sew the last 3cm but leave them, just as you did at the start.
 
-Donc, nous ne commençons pas à notre point de départ, mais nous sautons les 3 premiers centimères. Nous aurons besoin de cette espace plus tard pour joindre les extrémités du biais.
+You might need to practice a bit to get the hang of it.
 
-#### Coudre le biais en place
+> Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
 
-![Coudre le biais en place](step03d.png)
+### Mark binding ends
 
-Cousez le biais en place en étirant gentiment le biais, mais pas le tissu. Veillez bien à ne pas coudre le 3 derniers cm, comme vous l'avez fait au début.
+![Joining the binding ends](step03e.png)
 
-Il se peut que vous ayez besoin de vous entraîner un peu pour prendre le coup de main.
+With about 6cm left to go before we complete our circle, it's time to sew the ends of the binding together.
 
-> Veillez à étirer votre biais un peu plus lorsque vous prenez un virage plus serré. 
-> Lire mes notes sur la [finition au biais](/fr/docs/sewing/knit-binding) pour plus d'informations.
+![Mark binding ends](step03f.png)
 
-#### Marquer la fin du biais
+Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
 
-![Joindre les extrémités du biais](step03e.png)
+Mark the where the binding reached the start point. Do the same for the other end.
 
-Avec environ 6 cm que nous avons laissé avant de terminer notre cercle, il est grand temps de joindre les extrémités de notre biais.
-    
-![Marquer la fin du biais](step03f.png)
+### Sew binding ends together
 
-Prenez un des bords, et étirez-le le long des 3 cm le séparant du point de départ comme vous le feriez si vous le cousiez.
+![Join the ends of the binding](step03g.png)
 
-Marquez l'emplacement où le biais rencontre le point de départ. Faites la même chose pour l'autre extrémité.
+Fold you A-shirt in whatever way makes it more easy for your to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
 
-#### Coudre ensemble les extrémités du biais
+> 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
-![Joindre les extrémités du biais](step03g.png)
+### Finish last 6cm of binding
 
-Plier votre débardeur de la façon qui facilite le plus pour vous le fait de placer les extrémités du biais endroit contre endroit, en alignant les marquages. Assemblez-les au niveau du marquage.
+![Sew binding ends together](step03h.png)
 
-> 6 cm ce n'est pas beaucoup, mais cela devrait être suffisant pour placer les deux extrémités confortablement sous le pied de votre machine pour les coudre ensemble.
+Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
 
-#### Finir les 6 derniers cm de biais
+## Step 4: Fold knit binding to the back and sew down
 
-![Assembler les extrémités du biais](step03h.png)
+### Fold your binding over the fabric edge to the back
 
-Maintenant que vos extrémités de biais sont cousues ensemble, il est temps de finir de coudre les 6 derniers cm de biais. Piquez-les, en restant à une distance de 1,5 cm comme précédemment.
+![Fold knit binding to the back](step04a.png)
 
-### Etape 4 : Replier le biais vers l'intérieur et le piquer
+Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
 
-#### Rabattre votre biais par dessus le bord du tissu vers l'intérieur
-    
-![Rabattre le biais vers l'intérieur](step04a.png)
+> While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
 
-Rabattez le biais autour du tissu vers l'intérieur de votre débardeur. C'est ainsi que nous allons le fixer.
+### Sew your binding down
 
-> Bien que le biais soit plié deux fois sur l'avant (cachant de ce fait la bordure du tissu), il n'est pas nécessaire de le faire à l'arrière. Nous allons simplement couper l'excédent plus tard, étant donné que les tissus en maille ne s'effilochent pas. Si nous décidions de plier à l'arrière également, cela ne ferait qu'augmenter l'épaisseur.
+![Sew the knit binding down](step04b.png)
 
-#### Coudre le biais
+From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
 
-![Coudre le biais](step04b.png)
+<note>
 
-Sur l'endroit de votre tissu, cousez le bord interne de votre biais (le plus éloigné de la bordure), en veillant bien à ce que l'arrière du biais soit également pris dans la couture.
+If you have a coverlock machine, that would be perfect for this seam
 
-> Si vous avez une recouvreuse, elle serait parfaite pour cette couture
+</Note>
 
-Vous aurez, une fois encore, à étirer un peu votre biais en faisant cela. Mais dans ce cas, il y a une mise en garde supplémentaire à prendre en compte.
+You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
 
-> #### Faites attention à une potentielle avancée inégale du tissu
-> En même temps que vous faites avancer votre biais sur votre machine à coudre, les griffes d'entraînement tirent la couche inférieure (arrière de votre biais). 
->
-> Dans un monde parfait, toutes les couches sont parfaitement entrainées et suivent sans problème. 
-> Mais bien plus souvent, la couche supérieure (avant de votre biais) tend à être un peu à la traîne. 
-> Cela fait que votre biais ne vient pas enserrer joliment le bord de votre tissu, mais au lieu de ça fait d'affreux plis.
->
-> Alors prenez garde à ce phénomène, et si vous voyez que cela se produit, étirez légèrement la couche inférieure pour le compenser.
+<note>
 
-### Etape 5 : Découper l'excédent de biais à l'intérieur
+##### Beware of the uneven feed
 
-![Découper l'excédent de biais à l'intérieur](step05.png)
+As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.
 
-A l'intérieur de votre débardeur, découpez l'excédent de biais le long de votre couture pour la finir.
+In a perfect world, all layers will follow smoothly. But more often than not, the top layer (front of your binding) tends to lag behind a bit. This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
 
-> Faites attention à ne pas faire de trou dans votre débardeur pendant la découpe. Sérieusement, ça m'est arrivé à plus d'une reprise.
+So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
 
-![Et voilà, vous avez terminé 👍](finished.gif)
+</Note>
+
+## Step 5: Trim back knit binding on the inside
+
+![Trim back knit binding on the inside](step05.png)
+
+On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
+
+<note>
+
+Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+
+</Note>
+
+![That's it, you're done 👍](finished.gif)
