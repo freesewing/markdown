@@ -1,76 +1,71 @@
 ---
-title: Markdown-Hilfe
-path: /de/docs/markdown
+title: Markdown help
 ---
 
-Markdown ist eine einfache Markup-Sprache mit Formatierungssyntax für Nur-Text. 
-Es ist so konzipiert, dass es für Menschen leicht lesbar ist, aber auch von 
-Computern leicht in HTML konvertiert werden kann.
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed to be easily readable by humans, yet also easily converted to HTML by computers.
 
-Markdown wird häufig zum Formatieren von Dokumentation, Online-Kommentaren oder 
-überall dort verwendet, wo Sie mit einem einfachen Texteditor Rich Text wünschen.
+Markdown is often used to format documentation, online comments, or anywhere where you want rich text while using a plain text editor.
 
-## Text und Absätze
+## Text and paragraphs
 
-Text ist nur Text. Sie können einfach anfangen zu schreiben.
+Text is just text. You can just start writing.
 
-Lassen Sie eine weiße Linie, um einen neuen Absatz zu beginnen:
+To start a new paragraph, leave a white line:
 
 ```md
-Text ist nur Text. Sie können einfach anfangen zu schreiben.
+Text is just text. You can just start writing.
 
-Lassen Sie eine weiße Linie, um einen neuen Absatz zu beginnen:
+To start a new paragraph, leave a white line:
 ```
 
-Wenn Sie einen Zeilenumbruch einfügen möchten, aber keinen neuen Absatz, lassen Sie einfach zwei Leerzeichen am Zeilenende.
+If you want to insert a linebreak, but not a new paragraph, simply leave 2 spaces at the end of the line.
 
-Mögen  
-diese.
+Like  
+this.
 
-## Kursiv und mutig
+## Italic and bold
 
-Sie können Text *kursiv* oder **fett** formatieren, indem Sie ihn in 1 oder 2 Sternchen einschließen:
+You can make text *italic* or **bold** by wrapping it in 1 or 2 asterix respectively:
 
 ```md
-Sie können Text *kursiv* oder **fett** formatieren, indem Sie ihn in 1 oder 2 Sternchen einschließen:
+You can make text *italic* or **bold** 
+by wrapping it in 1 or 2 asterix respectively:
 ```
 
-## Listen
+## Lists
 
-Um eine Liste zu erstellen, machen Sie einfach so, als würden Sie nur Text verwenden, 
-und stellen Sie sicher, dass Sie mit einem Leerzeichen beginnen:
+To make a list, just do as you would in plain text, making sure to start with a space:
 
 ```md
- - eine Kugel
- - Liste
+ - a bullet
+ - list
 
-oder
+or
 
- 1. Nummeriert
- 2. liste
+ 1. A numbered
+ 2. list
 ```
 
-Gibt Ihnen:
+Gives you:
 
- - eine Kugel
- - Liste
+- a bullet
+- list
 
-oder
+or
 
- 1. Nummeriert
- 2. Liste
+1. A numbered
+2. list
 
 ## Links
 
-Links kombinieren eckige Klammern für den Linktext mit runden Klammern für die Bezeichnung.
+Links combine square brackets for the link text with round brackets for the desitation.
 
-[So was](https://freesewing.org)
+[Like this](https://freesewing.org)
 
 ```md
-[So was](https://freesewing.org)
+[Like this](https://freesewing.org)
 ```
 
-## Mehr lesen
+## More reading
 
-Dies wird ausreichen, um loszulegen. Wenn Sie mehr erfahren möchten, besuchen Sie 
-[markdownguide.org](https://www.markdownguide.org/).
+This will be enough to get you started. If you'd like to learn more, visit [markdownguide.org](https://www.markdownguide.org/).
