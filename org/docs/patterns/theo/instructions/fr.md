@@ -1,689 +1,686 @@
 ---
-title: Réaliser Theodore
-path: /fr/docs/patterns/theodore
+title: Making Theodore
+path: /en/docs/patterns/theodore
 ---
 
-## Vidéo
-Le texte est un peu sec pour vous ? J'essaie de réaliser des vidéos disponibles comme parties intégrantes de la documentation des patrons.
+## Video
 
-Dans ce cas particulier, il y a beaucoup de matériel vidéo disponible, mais il a été originellement enregistré pour une version précédente du patron. Ce sont tout de même de bonnes vidéos.
+Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+
+In this particular case, there's a lot of video material available, but it was originally recorded for a previous version of this pattern. Still, good stuff.
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Theodore, vous aurez besoin de ce qui suit :
+To make Theodore, you will need the following:
 
- - Fournitures de base pour la couture
- - Environ 2 mètres d'un tissu approprié ([voir les Options de tissu](#options-de-tissu))
- - Environ un mètre de tissu de doublure
- - Entoilage thermocollant pour les poches arrières et la ceinture
- - une fermeture éclair, un bouton et une agrafe pour la braguette
+- Basic sewing supplies
+- About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- About a meter of lining fabric
+- Fusible interfacing for back pockets and waistband
+- A zipper, button and hook for the fly
 
-## Options de tissu
+## Fabric options
 
-Vous avez beaucoup d'options ici, mais gardez à l'esprit que c'est un pantalon de coupe classique. En d'autres termes, n'utilisez pas de tissu élastique, du denim, ou du simili cuir ou ce genre de choses. Des choix peu risqués sont la laine, le coton, ou du lin, possiblement mélangés avec des fibres synthétiques.
+You have a lot of options here, but keep in mind that these are classic cut trousers. In other words, do not use stretch, denim, pleather of that sort of thing. Safe bets are wool, cotton, or linen, possibly blended with some synthetic.
 
-Pour la **laine**, regardez dans la section pour costume de votre boutique de tissus. Si c'est votre premier, un mélange polyester/laine va probablement être plus indulgent avec votre portefeuille. Mais ne laissez pas uniquement le prix vous guider, acheter un tissu bon marché fantaisiste est la meilleure façon d'obtenir un pantalon à l'aspect douteux, et être frustré dans le procédé.
+For **wool**, look in the suiting section of your fabric store. If this is your first pair, some wool-poly blend is most likely going to be more budget-friendly. But don't let price alone guide you, buying some cheap whimsical fabric is the best way to come up with a shitty looking pair of trousers, and get frustrated in the process.
 
-Pour le **coton**, optez pour un grammage plus élevé. Le coton peut également être un peu facile pour le débutant que la laine. Si vous n'êtes pas sûr, demander du chino dans la boutique de tissu et choisissez simplement une couleur qui vous plait.
+For **cotton**, go for a heavier weight. Cotton might also be a bit easier on the beginner than wool. If unsure what to use, ask for chino in the fabric store and simply pick a colour you like.
 
-Rien ne surpasse le **lin** un jour de grande chaleur. C'est amusant à travailler aussi, mais il se froisse pour un rien, et même les pantalons réalisés avec la plus grande rigueur ont un aspect quelque peu brouillon lorsqu'ils sont fait en lin. Ce que je veux dire, ce n'est peut-être pas le bon choix pour votre premier pantalon.
+Nothing beats **linen** on a hot summer day. It's fun to work with too, but it does wrinkle like a mofo, and even the most neatly made trousers look somewhat messy when made in linen. What I'm saying is, maybe not for your first pair.
 
-## Découpe
+## Cutting
 
- - **Tissu principal**
-   - Coupez **2 derrières** endroit contre endroit
-   - Coupez **2 devants** endroit contre endroit
-   - Coupez **1 ceinture droite**
-   - Coupez **1 ceinture gauche**
-   - Coupez **2 braguettes** endroit contre endroit
-   - Coupez **2 empiècements côté** endroit contre endroit
-   - Coupez **4 empiècements poche arrière** 
-   - Coupez **8 passants de ceinture** 
- - **Doublure**
-   - Coupez **2 doublures devant** endroit contre endroit
-   - Coupez **1 doublure ceinture gauche**
-   - Coupez **1 doublure ceinture droite**
-   - Coupez **1 parement de braguette**
-   - Coupez **4 fonds de poche devant** 2x2 endroit contre endroit (**voir les avertissements plus bas**)
-   - Coupez **2 fonds de poche arrière interne** 
-   - Coupez **2 fonds de poche arrière externe** 
- - **Entoilage**
-   - Coupez **1 entoilage ceinture gauche**
-   - Coupez **1 entoilage ceinture droite**
-   - Coupez **4 entoilage poche arrière**
+- **Main fabric** 
+ - Cut **2 back(s)** with good sides together
+ - Cut **2 front(s)** with good sides together
+ - Cut **1 waistband left**
+ - Cut **1 waistband right**
+ - Cut **2 fly piece(s)** with good sides together
+ - Cut **2 side piece(s)** with good sides together
+ - Cut **4 back pocket facing(s)** 
+ - Cut **8 belt loop(s)** 
+- **Lining** 
+ - Cut **2 front lining(s)** with good sides together
+ - Cut **1 waistband lining left**
+ - Cut **1 waistband lining right**
+ - Cut **1 fly shield**
+ - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
+ - Cut **2 back inner pocket bag(s)** 
+ - Cut **2 back outer pocket bag(s)** 
+- **Interfacing** 
+ - Cut **1 waistband interfacing left**
+ - Cut **1 waistband interfacing right**
+ - Cut **4 back pocket interfacing(s)**
 
-### Avertissements
- - La **doublure devant** est coupée à partir de la partie **devant** de votre ébauche, vers le bas jusqu'à la ligne juste en dessous du genou
- - Prêtez de l'attention à la ligne de droit-fil sur les **empiècements braguette**, **parement de braguette**,  **empiècement côté**
- - Il y a deux variations du fond de poche avant. Vous devez en couper deux de chaque :
-    - Coupez deux pièces complètes
-    - Coupez deux pièces s'étendant seulement jusqu'à la ligne en pointillés sur la gauche
- - Le **fond de poche arrière interne** et le **fond de poche arrière externe** sont très similaires. Veillez à les marquer correctement de façon à pouvoir les distinguer.
+### Caveats
 
-Ci-dessous une disposition typique d'une ébauche de Theodore :
+- The **front lining** is cut from the **front** part on your draft, down to the line just below the knee
+- Pay attention to the grainline on the **fly piece**, **fly shield**, and **side piece**
+- There are two variations of the front pocket bag. You need to cut out two of each: 
+ - Cut two of the complete piece
+ - Cut two with only extending up to the dashed line at the left
+- The **back inner pocket bag** and **back outer pocket bag** are very similar. Make sure to mark them correctly so you don't confuse them.
 
-![Une ébauche typique de Theodore](layout.svg)
+Below is a typical draft layout of Theodore:
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les différents marquages et les lignes de votre ébauche.
+![A typical Theodore draft](layout.svg)
+
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
-> Beaucoup des étapes ci-dessous doivent être répétées pour les deux jambes. 
->
-> Ce n'est pas toujours mentionné parce que la vie est courte et écrire continuellement "N'oubliez pas de faire ceci pour les deux jambes" fatigue très rapidement.
+> Many of the steps below are to be repeated for both trouser legs.
+> 
+> That is not always mentioned because life is short and continuously writing *Do not forget to do this for both trouser legs* gets tired really soon.
 
-### Etape 1 : Bâtir les lignes de plis
+### Step 1: Baste the pleat lines
 
-![Bâtir les lignes de plis](step00.png)
+![Baste the pleat lines](step00.png)
 
-La première chose à faire est de bâtir la ligne de pli des jambes de votre pantalon. Faites le sur les parties devant et derrière de chaque jambe.
+First thing to do is to baste over the pleat line of your trouser legs. Do it on both front and back pieces for both legs.
 
-### Etape 2 : Fermer les pinces arrières et repasser
+### Step 2: Close the back darts and press
 
-### Fermer les pinces arrières
+### Close the back darts
 
-![Fermer les pinces arrières](step01.png)
+![Close the back darts](step01.png)
 
-Pliez la pièce 1 (derrière) en deux pour que les crans de la pince sur la ceinture soient alignés, et qu'un pli net aille du cran jusqu'à la fin de la pince. N'hésitez pas à repasser brièvement le pli, cela rendra la couture de la pince plus aisée à effectuer précisément.
+Fold piece 1 (back) double so that the notches of the dart on the waistband are aligned, and a sharp crease runs to the notch at the dart end. Feel free to briefly iron the crease, this will make it easier to sew the dart accurately.
 
-Fermez la pince en cousant depuis la ceinture jusqu'à la fin de la pince.
+Close the dart by sewing from the waistband down to the end of the dart.
 
-Utiliser un point de faible longueur, et continuez de piquer après la fin de la pince, puis faites un point arrière dans la marge de couture.
+Use a small stitch length, and let your stitch run completely to the end (and of) the dart, then backtrack making sure to veer into the seam allowance.
 
-#### Couchez les pinces vers les côtés au fer
+#### Press back darts to the side
 
-![Couchez les pinces vers les côtés au fer](step02.png)
+![Press the back darts to the side](step02.png)
 
-Aplatir au fer les pinces arrières, en pliant la marge de couture vers les côtés de votre pantalon.
+Press your back darts flat, folding the seam allowance to the side of your trousers.
 
-### Etape 3 : Construire les poches arrières
+### Step 3: Construct the back pockets
 
-Construire les poches passepoilées doubles à l'arrière de votre pantalon, en incluant le fond de poche.
+Construct the double welt pockets at the back of your trousers, including the pocket bag.
 
-> **Poche passepoilée double**
->
-> Construire une poche passepoilée double est une technique qui est utilisée dans différents vêtements. 
-> Voilà pourquoi j'ai fait sa propre page de documentation.
->
-> Il y a à la fois de la documentation écrite et une série de vidéos qui vous montre comment faire, alors même si vous n'en avez jamais cousu auparavant, tout ira bien.
->
-> [Vers la documentation des poches passepoilées doubles](/fr/docs/sewing/double-welt-pockets)
+> **Double welt pockets**
+> 
+> Constructing a double welt pocket is a technique that is used is different garments. That is why I have branched it off into its own documentation page.
+> 
+> There's both written documentation and a video series that shows you how to do it, so even if you've never made welt pockets before, you'll be fine.
+> 
+> [To the welt pockets documentation](/en/docs/sewing/double-welt-pockets)
 
-### Etape 4 : Optionnelle : Découper la doublure avec des ciseaux cranteurs
+### Step 4: Optional: Trim your lining with pinking shears
 
-![Découper la doublure avec des ciseaux cranteurs](step04.png)
+![Trim your lining with pinking shears](step04.png)
 
-Si vous allez doubler votre pantalon (c'est optionnel), vous aurez besoin de finir le bord de votre doublure. Pour ce faire, découpez le bord de votre doublure avec des ciseaux cranteurs.
+If you are going to line your trousers (it's optional), you'll need to finish the edge of your lining. To do so, trim the edge of the lining with pinking shears.
 
-Notez que vous n'aurez besoin de faire cela que pour les bords de votre doublure qui ne sont pas pris dans une couture. En d'autres termes, seulement le bord inférieur de votre doublure.
+Note that you only need to do this for those edges of your lining that are not caught in a seam. In other words, only the bottom edge of your lining.
 
-> Si vous n'avez pas de ciseaux cranteurs, vous pouvez appliquer une autre finition comme un point zigzag, ou utiliser une surjeteuse. Cependant, les ciseaux cranteurs sont les meilleurs pour ce scénario parce qu'ils n'ajoutent aucun volume, ce qui est important car nous voulons éviter que le bord de la doublure fasse une bosse à travers votre pantalon.
+> If you don't have pinking shears, you can apply another finish like a zig-zag stitch, or use a serger. However, pinking shears are best for this scenario because they don't add any bulk, which is important because we want to avoid the edge of the lining making a bump in your trousers.
 
-### Etape 5 : Découper les pièces pour l'inclinaison de la poche avant
+### Step 5: Trim pieces for front pocket slant
 
-![Découper les pièces pour l'inclinaison de la poche avant](step05.png)
+![Trim pieces for front pocket slant](step05.png)
 
-Alignez vos devant, doublure et fond de poche les uns sur les autres. Le devant et le fond de poche à l'envers, la doublure à l'endroit.
+Align your front, lining and pocket bag on top of each other. Front and pocket back with their good side down, lining with the good side up.
 
-Epinglez-les ensemble pour vous assurer qu'ils ne bougent pas. Faites ceci hors de là où la poche est inclinée, pour ne pas vous entraver plus tard.
+Pin them together to make sure they don't move. Do so away from the pocket slant to not hinder yourself later.
 
-Découpez le fond de poche (il devrait être au dessus) exactement sur la ligne d'inclinaison de la poche (marquée sur le patron).
+Trim back the pocket bag (it should lie on top) exactly on the pocket slant line (marked on the pattern).
 
-Maintenant découpez la partie devant (elle devrait être en bas) 3 cm au-delà de la ligne d'inclinaison, parallèlement à cette dernière.
+Now trim back the front piece (it should lie on the bottom) 3cm outwards from the slant line, parallel to it.
 
-Enfin, découpez votre doublure de façon à ce qu'elle s'arrête à 0,5 cm du bord de votre devant.
+Finally, trim back your lining so that it stops 0.5 cm short of reaching the edge of your front.
 
-> La doublure est découpée un peu plus courte pour qu'elle ne soit pas visible une fois rabattue. Mais il n'est pas important du tout de la couper exactement 0,5 cm plus courte.
+> The lining is trimmed a bit shorter so that when it is folded back, it does not show. But it's really not all that important to get it exactly 0.5 cm shorter.
 
-### Etape 6 : Rabattre et coudre la poche avant inclinée
+### Step 6: Fold back and sew front pocket slant
 
-![Rabattre et coudre la poche avant inclinée](step06.png)
+![Fold back and sew front pocket slant](step06.png)
 
-Rabattez votre doublure et la pièce devant le long de la ligne d'inclinaison de la poche (et de ce fait le long du bord découpé du fond de poche). Epinglez et repassez.
+Fold back your lining and front piece along the pocket slant line (and thus along the trimmed edge of the pocket bag. Pin this down and press.
 
-Vous allez coudre le long de l'inclinaison de la poche, mais veillez à tout rabattre par dessus de façon à pouvoir coudre sur l'endroit.
+You are going to sew along the pocket slant, but make sure to flip everything over first so you can sew from the good side.
 
-Surpiquez à 0,5 cm du pli, en vous assurant de le garder parallèle et de ne pas étirer votre tissu.
+Topstitch a 0.5 cm from the fold, making sure to keep it parallel and not stretch your fabric.
 
-> Cette surpiqûre sera toujours apparente, alors soyez sûr d'assortir la couleur de votre fil et de la rendre jolie.
+> This topstitching will always be on show, so make sure to match the thread color and make it pretty.
+> 
+> To prevent your pockets from bagging out, you can place a piece of non-stretching ribbon in between the fold. When stitching, you will also catch this ribbon, preventing the pocket to bag out.
 
-> Pour empêcher vos poches de sortir, vous pouvez placer un morceau de ruban non élastique au milieu du pli. Lorsque vous piquerez, vous allez aussi prendre ce ruban, empêchant la poche de sortir.
+### Step 7: Finish edge inside front pocket
 
-### Etape 7 : Finir le bord à l'intérieur de la poche avant
+![Finish the edge inside the front pocket](step07.png)
 
-![Finir le bord à l'intérieur de la poche avant](step07.png)
+Fold away the main part of the front piece, so you can place the lining, pocket bag and folded edge of the front piece flat.
 
-Pliiez de côté la partie principale de la pièce devant, de façon à pouvoir placer la doublure, le fond de poche et le bord plié de la pièce devant à plat.
+Zig-zag the edge of the folded-back front piece to finish it and secure it to the pocket back and lining.
 
-Faites un point zig-zag le long de la pièce devant rabattue pour la finir et la solidariser avec le fond de poche et la doublure.
+### Step 8: Press side pocket
 
-### Etape 8 : Repasser la poche côté
+![Press side pocket](step08.png)
 
-![Repasser la poche côté](step08.png)
+When you're done, place front piece, lining and pocket bag flat, and give it a good press.
 
-Lorsque vous avez fini, placez la pièce devant, la doublure et le fond de poche à plat, et repassez.
+> This might be a good time to remind you that every step up to this point had to be done for both legs.
+> 
+> It's just a friendly reminder, the next steps need to be done for both legs too.
 
-> C'est peut-être le bon moment de vous rappeler que chaque étape jusqu'à ce point doit être effectuée pour chaque jambe.
->
-> C'est juste un pense-bête amical, les prochaines étapes seront également à répéter pour les deux jambes.
+### Step 9: Attach side piece to pocket bag
 
-### Etape 9 : Fixer la pièce côté au fond de poche
+![Attach side piece to pocket bag](step09.png)
 
-![Fixer la pièce côté au fond de poche](step09.png)
+Place the other half of the pocket bag with the good side down, and align the side piece on it with the good side up.
 
-Placez l'autre moitié de fond de poche à l'envers, et alignez la pièce côté dessus à l'endroit.
+Sew a zig-zag stitch along the edge of the side piece to finish it and attach it to the pocket bag.
 
-Coudre un point zig-zag le long du bord de la pièce côté pour la finir et la fixer au fond de poche.
+### Step 10: Close the pocket bag
 
-### Etape 10 : Fermer le fond de poche
+![Close the pocket bag](step10.png)
 
-![Fermer le fond de poche](step10.png)
+Place the front piece, lining and pocket bag with the pocket bag up.
 
-Placez la pièce devant, la doublure et le fond de poche avec le fond de poche au dessus.
+Align the second pocket bag with the attached side piece facing down.
 
-Alignez le second fond de poche avec la pièce côté fixée vers le bas.
+Pin all pieces together making sure to stay about the bottom curve of the pocket bag.
 
-Epinglez toutes les pièces ensemble en veillant à rester vers le bord incurvé du fond de poche.
+When everything is pinned together, fold away the front piece and lining, and close the bottom curve of the pocket bag.
 
-Lorsque tout est épinglé ensemble, rabattez la pièce devant et la doublure, et fermez la courbe du fond de poche.
+> Sew to bottom curve of the pocket bag up until the point where it reached the side piece
+> 
+> You can finish the pocket bag in a number of ways, including:
+> 
+> - Serge the sides together
+> - Finish the edge with bias tape
+> - Sew the sides together and finish the edge with a zig-zag stitch
 
-> Cousez la courbe du fond de poche jusqu'à atteindre le point où il rejoint la pièce côté.
+### Step 11: Press the front pocket
 
-> Vous pouvez finir le fond de poche de nombreuses façons, incluant :
->
-> - Surjeter les côtés ensembles
-> - Finir le bord avec du biais
-> - Coudre les côtés ensemble et finir le bord avec un point zig-zag
+![Press the front pocket](step11.png)
 
-### Etape 11 : Repasser la poche avant
+Put everything flat with the front piece at the bottom, and give it a good press.
 
-![Repasser la poche avant](step11.png)
+### Step 12: Pin front pocket in place
 
-Mettez tout à plat avec la pièce devant en dessous, et donnez un bon coup de fer.
+![Pin the front pocket in place](step12.png)
 
-### Etape 12 : Epingler la poche devant en place
+Pin the pocket down to the front piece along the slant and the edges of the pocket bag. This will prevent it from shifting around while we continue to work on our trousers.
 
-![Epingler la poche devant en place](step12.png)
+### Step 13: Finish the side edges
 
-Epingler la poche sur la pièce le long de l'inclinaison et des bords du fond de poche. 
-Cela empêchera de se déplacer pendant que nous continuons à travailler sur notre pantalon.
+![Finish the side edges](step13.png)
 
-### Etape 13 : Finir les coutures des côtés
+Before we are going to sew the side seams, finish the side edges by serging or running a zig-zag stitch along the sides of your front and back pieces, making sure to stay within the foreseen seam allowance.
 
-![Finir les coutures des côtés](step13.png)
+> Make sure to include the lining and pocket bag edges, as this will prevent things from shifting around when we sew the side seams.
 
-Avant de coudre les coutures des côtés, finissez les bords des côtés en surjetant ou en effectuant un point zig-zag le long de côtés de vos pièces devant et derrière, en vous assurant de rester dans la marge de couture prévue.
+### Step 14: Sew the side seams
 
-> Soyez sûr d'inclure la doublure et les bords des fonds de poche, étant donné que cela empêchera les choses de bouger lorsque nous allons coudre les coutures des côtés.
+![Sew the side seams](step14.png)
 
-### Etape 14 : Coudre les coutures des côtés
+Place the front and back of each leg on top of each other, with the good sides together.
 
-![Coudre les coutures des côtés](step14.png)
+Align the side seam, more precisely the side seam on the outside, where there is no crotch curve.
 
-Placez le devant et le derrière de chaque jambe l'un par dessus l'autre, endroit contre endroit.
+> You can pin the pieces together to make sure things stay in place while sewing this lengthy seam
 
-Alignez la couture de côté, plus précisément la couture côté sur l'extérieur, où il n'y a pas de courbe d'entrejambe
+Sew the seam, starting from the waistband along the entire side of your trousers.
 
-> Vous pouvez épingler les pièces ensembles pour vous assurez que tout restera en place lorsque vous allez effectuer cette longue couture.
+### Step 15: Press open seam allowance
 
-Effectuez la couture, en partant de la ceinture le long du côté de votre pantalon.
+![Press open seam allowance](step14.png)
 
-### Etape 15 : Ouvrir les coutures
+Press open the seam allowance along the side seams. Do so from the back, and repeat from the good side of the fabric.
 
-![Ouvrir les coutures](step14.png)
+Take your time, making sure to use enough heat, but not too much. Use steam or spray on water for best effect.
 
-Ouvrez les marges de couture au fer le long des coutures des côtés. Faitez le sur l'envers, et répétez sur l'endroit du tissu.
+> A nice flat side seam looks great, so take your time to get it right.
 
-Prendez votre temps, en veillant à utiliser une température assez élevée, mais pas trop. Utilisez la vapeur ou un vaporisateur d'eau pour un meilleur effet.
+### Step 16: Sew fly shield to fly piece
 
-> Une couture bien plate a un très bel aspect, alors prenez votre temps pour bien la repasser.
+![Sew fly shield to fly piece](step16.png)
 
-### Etape 16 : Coudre le parement de braguette et la braguette
+Place your fly piece on the fly shield with the good sides together, and align the edge with the biggest curve.
 
-![Coudre le parement de braguette et la braguette](step16.png)
+Sew along the curved edge, taking account the standard 1cm seam allowance, to join the two pieces together.
 
-Placez votre braguette sur le parement de braguette endroit contre endroit, et alignez le bord avec la plus grande courbe.
+> If your lining has any stretch in it at all, try to stretch it out a bit while you sew the curve. This will make it easier to get the lining to lie flat without wrinkles later on.
 
-Cousez le long du bord courbe, en prenant en compte la marge de couture standard de 1 cm, pour assembler les deux pièces.
+### Step 17: Press the fly shield
 
-> Si votre doublure a un peu d'élasticité, essayez de l'étirer un peu tout en cousant la courbe. Cela sera plus facile de faire reposer la doublure bien à plat plus tard sans faire de petits plis.
+![Press the fly shield](step17.png)
 
-### Etape 17 : Repasser le parement de braguette
+> Before pressing down your fly piece, make sure to roll the seam a little bit so that your trouser lining fabric sits a bit further, and the lining starts only about 2mm from the edge. This will prevent the lining from peeking out at the edge.
 
-![Repasser le parement de braguette](step17.png)
+After you have sewed fly piece and fly shield together, turn them inside out and press the seam you just made.
 
-> Avant de repasser votre pièce de braguette, veillez à rouler un peu la couture pour le tissu de doublure de votre pantalon soit un peu plus loin, et que la doublure commence seulement à 2 cm environ du bord. Cela empêchera la doublure de déborder à l'extérieur sur le bord.
+### Step 18: Pin zip to right front piece
 
-Après avoir cousu la braguette et le parement de braguette ensemble, retournez-les sur l'envers et repassez la couture que vous venez d'effectuer.
+![Pin zip to right front piece](step18.png)
 
-### Etape 18 : Epingler la fermeture éclai à la pièce devant droit
+> Steps 18 to 21 all lead up to a single row of stitching that will sew your zip to the front, while attaching the fly piece and fly shield in one go.
+> 
+> This is the hardest seam to do in the entire construction process, so I'm taking my time to explain and illustrate this before you start sewing.
 
-![Epingler la fermeture éclai à la pièce devant droit](step18.png)
+Place your front piece for the right leg with the good side up. So that lining and front pocket bag sit underneath and lie flat.
 
-> Les étapes 18 à 21 mènent à une unique rangée de point qui va fixer le zip au devant, tout en attachant la braguette et le parement d'un coup.
->
-> C'est la couture la plus difficile à faire dans tout le procédé de construction, alors je prends le temps de vous l'expliquer et de l'illustrer avant que vous commenciez à coudre.
+Take your zip and open it (unzip it). Now turn it over so that it sits with the good side down. In other words, with the zipper puller down.
 
-Placez votre pièce devant pour la jambe droite à l'endroit, de façon à ce que la doublure et le fond de poche avant se retrouvent en dessous et soient bien à plat.
+Align your zip with the crotch seam as shown in the illustration. Take the following into account:
 
-Prenez votre fermeture éclair et ouvrez-la (dézippez-la). A présent, retournez-la pour qu'elle soit à l'envers. En d'autres termes, avec la tirette en dessous.
+- The end of your zip should sit at the top of your trousers where your waistband will start. However, make sure to remember that there is seam allowance there, so don't align it with the top of the front piece, but subtract 1cm seam allowance.
+- Align the zip with the crotch seam. Do not mind the edge of the zip, as they come in different widths. Instead, make sure that you can sew next to the teeth of the zip within the seam allowance of the front piece.
 
-Alignez votre zip avec la couture d'entrejambe telle que montrée sur l'illustration. Prenez bien en compte ce qui suit :
+Pin the zip in place with a few pins perpendicular to your zip (as shown). In other words, don't pin along the zip, but across the zip.
 
- - La fin de votre zip devrait se trouver en haut de votre pantalon là où la ceinture commencera. Cependant, souvenez vous qu'il y a une marge de couture à cet endroit, alors n'alignez pas avec le haut de la pièce devant, mais soustrayez 1 cm de marge de couture.
- - Alignez le zip avec la couture d'entrejambe. Ne vous préoccupez pas du bord du zip, étant donné qu'ils peuvent être de largeurs différentes. Au lieu de ça, veillez à pouvoir coudre au plus près des dents du zip au sein de la marge de couture de la pièce devant.
+> If you're unsure about the placement of your zip, put it as close to the edge as possible. Doing so will only mean your zip is tucked away a bit further under the fly, so that it certainly is not on show.
 
-Epinglez la fermeture en place avec quelques épingles perpendiculaires à cette dernière (comme montré). Autrement dit, n'épinglez pas au long du zip, mais sur la largeur.
+### Step 19: Pin fly shield to zip
 
-> Si vous n'êtes pas sûr de comment placer votre zip, mettez-le le plus près possible du bord. Faire ainsi impliquera que votre zip est glissé un peu plus loin que la braguette, et qu'il ne sera certainement pas apparent.
+![Pin zip to right front piece](step19.png)
 
-### Etape 19 : Epingler le parement de braguette à la fermeture éclair
+Take the fly shield/fly piece that you assembled in step 16 & 17, and place it with the fabric facing downward, and the lining upward.
 
-![Epingler le zip à la pièce devant droit](step19.png)
+Flip aside the top lining layer, and align the slightly curved edge of the fabric (where it is not sewn to the lining) with the edge of the fabric of your front piece.
 
-Prenez votre pièce parement de braguette/braguette que vous avez assemblée au cours des étapes 16 et 17, et placez la avec le tissu à l'envers et la doublure à l'endroit.
+> For clarity, what side of the fly shield that should be facing up is shown in the top part of the illustration, at a smaller scale.
 
-Rabattez sur le côté la couche de doublure du dessus, et alignez le bord légèrement courbé du tissu (là où il n'est pas cousu à la doublure) avec le bord du tissu de votre pièce devant.
+Pin this layer in place with a few pins perpendicular to your zip (as shown in red). Make sure you catch all layers underneath, including the zip. This way, you can remove your pins from the step before (shown in green) when done.
 
-> Pour plus de clarté, le côté du parement de braguette qui devraiet être à l'endroit est montré en haut de l'illustration, à une échelle plus petite.
+> If you're comfortable holding all this in place, you can let the lining fall back and pin everything together as shown in the next step. That's somewhat faster, but more prone to errors as things can shift around easier.
 
-Epinglez cette épaisseur en place avec quelques épingles perpendiculaires à votre zip (montrées en rouge). Veillez à prendre toutes les couches en dessous, en incluant le zip. De cette façon, vous pouvez retirer vos épingles de l'étape précédente (montrées en vert) lorsque c'est fait.
+### Step 20: Pin fly shield in place along zip
 
-> Si vous êtes à l'aise pour maintenir tout cela en place, vous pouvez laisser la doublure repliée en arrière et tout épingler ensemble comme cest montré dans la prochaine étape. C'est en quelque sorte plus rapide, mais cela induit plus de risques d'erreur, comme les choses peuvent bouger plus facilement.
+![Pin fly shield in place along zip](step20.png)
 
-### Etape 20 : Epingler le parement de braguette en place le long du zip
+Let the lining fall back in place, and now pin all layers together along the zip.
 
-![Epingler le parement de braguette en place le long du zip](step20.png)
+When you are done, remove your earlier perpendicular pins.
 
-laisser la doublure repliée en place, puis épinglez toutes les couches ensembl le long du zip.
+### Step 21: Fold over fly shield and pin down
 
-Lorsque vous avez fini, enlevez les épingles que vous avez placées précédemment de façon perpendiculaire.
+<img src="step21a.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" /> <img src="step21b.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" />
 
-### Etape 21 : Rabattre le parement de braguette et épingler
+Flip everything over so that your fly shield lies at the bottom.
 
-![Rabattre le parement de braguette et épingler](step21a.png){.fs-row2}
-![Rabattre le parement de braguette et épingler](step21b.png){.fs-row2}
+Fold the lining of the fly shield around the fly, front piece and fly piece, making sure to double-fold it so the raw edge is hidden inside.
 
-Retournez le tout pour que le parement de braguette se retrouve en bas.
+Pin this down, and remove your previous pins.
 
-Rabattez la doublure du parement de braguette autour de la braguette, de la pièce devant et de la braguette, en vous assurant de la plier en deux pour que le bord non fini soit caché à l'intérieur.
+### Step 22: Sew fly in place along zip
 
-Epinglez-cela, et retirer vos épingles précédentes.
+![Sew fly in place along zip](step22.png)
 
-### Etape 22 : Coudre la braguette en place le long du zip
+Now you can sew along the double folded fly piece. This will fix the front, zip, fly shield and fly piece all in place.
 
-![Coudre la braguette en place le long du zip](step22.png)
+> You will be sewing along your zip, so make sure to install your zipper foot for this.
 
-Maintenant vous pouvez coudre le long de la braguette pliée en deux. Cela va fixer en place le devant, la fermeture éclair, le parement de braguette et la braguette.
+### Step 23: Fold back fly and press
 
-> Vous allez coudre le long du zip, alors veillez à installer votre pied pour fermeture éclair sur votre machine, si vous en avez un.
+![Fold back fly and press](step23.png)
 
-### Etape 23 : Rabattre la braguette et repasser
+When you're done, fold back the fly so that it extends from the front piece, and give it a thorough press from the back. And a gentle press from the front.
 
-![Rabattre la braguette et repasser](step23.png)
+### Step 24: Apply bias tape to second fly piece and press
 
-Lorsque vous aveez fini, rabattez la braguette de façon à ce qu'elle s'étende à partir de la pièce devant, et donnez un coup de fer vigoureux depuis l'envers. Et un coup délicat sur l'endroit.
+![Apply bias tape to the edge with the large curve of your second fly piece](step24.png)
 
-### Etape 24 : Appliquer du biais sur la seconde pièce de braguette et repasser
+Apply bias tape to the edge with the large curve of your second fly piece.
 
-![Appliquer du biais sur le bord avec la courbe large de la seconde pièce de braguette](step24.png)
+Press the finished edge flat when you're done.
 
-Appliquer du biais sur le bord avec la courbe large de la seconde pièce de braguette.
+> Bias tape is a way to finish a seam. If you are not sure what it is or how to apply it, let me know.
 
-Repassez le bord fini lorsque vous aurez terminé.
+### Step 25: Pin and sew fly piece to crotch seam
 
-> Utiliser du biais est une manière de finir une couture. Si vous n'êtes pas sûr de ce que c'est où comment l'appliquer, faites-le moi savoir.
+![Pin and sew fly piece to crotch seam](step25.png)
 
-### Etape 25 : Epingler et coudre la pièce de braguette à la couture d'entrejambe
+Place the left leg with the good side up. Place the second fly piece on top with the good side down, aligning the unfinished seam with the crotch seam.
 
-![Epingler et coudre la pièce de braguette à la couture d'entrejambe](step25.png)
+Pin the fly piece in place, then sew it in place along the crotch seam.
 
-Placez la jambe gauche à l'endroit. Placez la seconde pièce de braguette au dessus à l'envers, en alignant au niveau de la couture non finie d'entrejambe.
+> When you sew this in place, make sure to catch the front lining.
 
-Epinglez la pièce de braguette en place, puis cousez-la en place le long de la couture d'entrejambe.
+Press the finished edge flat when you're done.
 
-> Lorsque vous cousez en place, veillez à bien prendre la doublure devant.
+### Step 26: Roll the fly piece to the back, and press the seam
 
-Repassez le bord fini lorsque vous aurez fini.
+![Roll the fly piece to the back, and press the seam](step26.png)
 
-### Etape 26 : Rouler la pièce de braguette vers l'arrière, et repasser la couture
+Fold the fly piece to the back. Before you press, make sure to roll the seam a bit backwards so that the front of the trousers sits a little further than the fly piece.
 
-![Rouler la pièce de braguette vers l'arrière, et repasser la couture](step26.png)
+This way, the seam or fly piece will not show from the front.
 
-Pliez la pièce de braguette vers l'arrière. Avant de repasser, veillez à rouler la couture un peu vers l'arrière pour que le devant de votre pantalon soit un peu plus loin que la pièce de braguette.
+Give it a good press from the back.
 
-De cette manière, la couture ou la pièce de braguette ne sera pas visible à l'avant.
+### Step 27: Pin and sew zip to fly piece
 
-Donnez un bon coup de fer depuis l'envers.
+<img src="step27a.png" alt="Place both legs on top of eachother" title="" class="fs-row3" /> <img src="step27b.png" alt="Pin the zip along the edge" title="" class="fs-row3" /> <img src="step27c.png" alt="Sew in place" title="" class="fs-row3" />
 
-### Etape 27 : Epingler et coudre la fermeture éclair à la pièce de braguette
+Place the right leg down with the good side up. Place the leg on top of it with the good side down.
 
-![Placez les deux jambes l'une sur l'autre](step27a.png){.fs-row3}
-![Epinglez le zip le long du bord](step27b.png){.fs-row3}
-![Coudre en place](step27c.png){.fs-row3}
+With the crotch seams aligned, pin the zip along the edge of the fly piece with the good side of the zip down.
 
-Placez la jambe droite à l'endroit puis la jambe gauche par dessus à l'envers.
+Make sure to pin the fly only to the fly piece. Not to any other layers underneath.
 
-Avec la couture d'entrejambe alignée, épinglez le zip à l'envers le long du bord de la pièce de braguette.
-Veillez à épingler le zip seulement à la pièce de braguette, pas aux autres couches en dessous.
+> I find it's easier to pin the zip through all layers, and then when it's secure in place add extra pins that pin it to the fly piece only. When that's done, you can remove the pins that go through all layers.
 
-> Je trouve plus facile d'épingler le zip à travers toutes les couches, et puis lorqu'il est bien maintenu en place ajouter des épingles supplémentaires qui ne traversent que le zip et la braguette. Lorsque c'est fait, vous pouvez retirer les épingles qui traversent toutes les couches.
+Last but not least, sew along the zip with your zipper foot to attach it to the fly piece.
 
-Dernier point mais non le moindre, cousez le long du zip avec votre pied pour fermeture éclair pour le fixer à la braguette.
+> When aligning the zip, make sure to take the following into account:
+> 
+> - The zip should be placed with the good side down
+> - The zip should sit a bit back from the edge of your fly piece
+> - Make sure to align the top of the zip with the other zip half on the right leg
 
-> Lorsque vous alignez le zip, veillez à prendre en compte ce qui suit :
->
-> - Le zip devrait être placé à l'envers
-> - Il devrait se trouver un peu en arrière du bord de votre braguette
-> - Veillez à bien aligner le haut du zip avec l'autre moitité sur la jambe droite
+### Step 28: Zig-zag the zip edge to the fly piece
 
-### Etape 28 : Faites un point zig-zag pour fixer le bord du zip avec la pièce de braguette
+![Zig-zag the zip edge to the fly piece](step28.png)
 
-![Faites un point zig-zag pour fixer le bord du zip avec la pièce de braguette](step28.png)
+With the fly in place, run a zig-zag stitch along the edge of the zip to secure it to the fly piece.
 
-Avec la braguette en place, faites courir un point zig-zag le long du bord du zip pour le fixer à la pièce de braguette.
+### Step 29: Bar-tack both fly pieces together
 
-### Etape 29 : Faire un point d'arrêt sur les pièces de braguette
+![Bar-tack both fly pieces together](step29.png)
 
-![Faire un point d'arrêt sur les pièces de braguette](step29.png)
+Place both fly pieces together, and move the front pieces out of the way.
 
-Placez les deux parties de braguettes ensemble, et écartez les pièces devant hors du chemin.
+Use a bar-tack to join them together at the bottom of the zip. Sew on both edges of the zip, and get as close to the zip as you can.
 
-Utilisez un point d'arrêt pour les assembler en bas du zip. Cousez sur les deux bords du zip, et aussi près que possible de ce dernier que vous le pouvez.
+> If your zip is too long, you can trim it below the bar-tacks.
 
-> Si votre zip est trop long, vous pouvez le couper en dessous des points d'arrêt.
+### Step 30: Join crotch seam
 
-### Etape 30 : Réaliser la couture d'entrejambe
+<img src="step30a.png" alt="Join crotch seam" title="" class="fs-row2" /> <img src="step30b.png" alt="Join crotch seam" title="" class="fs-row2" />
 
-![Réaliser la couture d'entrejambe](step30a.png){.fs-row2}
-![Réaliser la couture d'entrejambe](step30b.png){.fs-row2}
+Place both fronts with the good sides up. They are now joined by the fly.
 
-Placez les deux devants à l'endroit. Ils sont à présent assemblés par la braguette.
+Make sure the fly is neatly tucked under, and pin together both fronts at the bottom of the fly, where you bar-tacked earlier. Make sure the pin is aligned to the fold of your front.
 
-Assurez-vous que la braguette est repliée nettement en dessous, et épinglez les deux devants ensembles en bas de la braguette, où vous avez effectué des points d'arrêt plus tôt. Assurez-vous que l'épingle soit alignée avec le pli de votre devant.
+Fold the fronts with the good sides together, and pin them together along the crotch.
 
-Pliez les devants endroit contre endroit, et épinglez les ensemble le long de l'entrejambe.
+You'll need to get the fly shields out of the way, so if you've pinned through all layers before, remove that pin now, making sure to replace it with a horizontal pin. This will tell you how far to sew.
 
-Vous aurez besoin de mettre le parement de braguette hors du chemin, de façon à ce que si vous avez épinglé à travers toutes les couches plus tôt, retirez cette épingle maintenant, en vous assurant de la remplacer avec une épingle horizontale. Cela vous indiquera jusqu'où coudre.
+Sew the crotch seam, starting at the cross-seam point, and going up to your horizontal pin.
 
-Coudre l'entrejambe, en démarrant au point de croisement de l'entrejambe, et en allant vers le haut vers votre épingle.
+> I find this step hard to explain, and hard to illustrate. I hope it will make sense when you're looking at your fly. If not, check the video instructions.
 
-> Je trouve cette étape difficile à expliquer, et à illustrer. J'espère que cela prendra son sens lorsque vous regarderez votre braguette. Sinon, jetez un oeil aux instructions vidéos.
+### Step 31: Pin fly closed and baste fly curve
 
-### Etape 31 : Epingler pour fermer la braguette et bâtir la courbe de la braguette
+![Pin fly closed and baste fly curve](step31.png)
 
-![Epingler pour fermer la braguette et bâtir la courbe de la braguette](step31.png)
+Close the fly, and pin the fronts together making sure the fly is neatly tucked away.
 
-Fermez la braguette, et épinglez les devants ensemble en veillant à ce que la braguette soit nettement repliée.
+We will be topstitching the fly curve next, and it's a good idea to baste it first.
 
-Nous allons ensuite surpiquer la courbe de la braguette, et c'est une bonne idée de la bâtir d'abord.
+You should start a bit above your earlier bar tack, and make sure you catch only the fly shield of the left leg.
 
-Vous devriez démarrer un peu au-dessus de vos points d'arrêt précédants, et veiller à ne prendre que le parement de braguette de la jambe gauche.
+Curve upwards toward the edge of the fly shield, and then proceed in parallel with the zip.
 
-faites une courbe vers le haut, vers le bord du parement de braguette, puis continuez parallèlement au zip.
+### Step 32: Topstitch the fly curve
 
-### Etape 32: Surpiquer la courbe de la braguette
+![Topstitch your fly curve](step32.png)
 
-![Surpiquer la courbe de la braguette](step32.png)
+Now topstitch your fly curve, using your basting as a guide.
 
-A présent supiquez la courbe de votre braguette, avec votre bâti comme guide.
+When doing so, you will be locking your front, fly piece, pocket bag and lining all together.
 
-En faisant cela, vous allez bloquer vos devant, braguette, fond de poche et doublure ensemble.
+### Step 33: Pin together the inner leg seam
 
-### Etape 33 : Epingler la couture d'entrejambe
+![Pin together the inner leg seam](step33.png)
 
-![Epingler la couture d'entrejambe](step33.png)
+Close the legs with the good sides together, and pin together the inner leg seam. Start at the cross seam point and work your way to the bottom of the legs.
 
-Mettez les jambes l'une par dessus l'autre endroit contre endroit, et épinglez le long de la couture d'entrejambe. Débutez à la fourche et continuez vers le bas des jambes.
+Make sure to do this for both legs.
 
-N'oubliez pas de la faire pour les deux jambes.
+### Step 34: Sew the inner leg seams
 
-### Etape 34 : Coudre les coutures de l'interieur des jambes
+![Sew the inner leg seams](step34.png)
 
-![Coudre les coutures de l'interieur des jambes](step34.png)
+On both legs, sew the inner leg seams that you just pinned. Make sure to respect the seam allowance.
 
-Pour les deux jambes, cousez les coutures de l'intérieur des jambes que vous venez d'épingler. Veillez à bien respecter les marges de couture.
+### Step 35: Press open seam allowance of the inner leg seam
 
-### Etape 35 : Ouvrir les marges de couture de l'intérieur des jambes
+![Press open seam allowance of the inner leg seam](step35.png)
 
-![Ouvrir les marges de couture de l'intérieur des jambes](step35.png)
+Place your leg inside-out on your ironing board, and press open the seam allowance of the inner leg seam.
 
-Placez votre jambe sur l'envers, et ouvrez la couture de l'intérieur de la jambe au fer.
+### Step 36: Close the cross-seam
 
-### Etape 36 : Fermer la couture de la fourche
+![Close the cross-seam](step36.png)
 
-![Fermer la couture de la fourche](step36.png)
+We are now going to close the cross-seam, from the bottom of your fly between your legs, up your bum to the center back of where you'll add the waistband later.
 
-Nous allons maintenant fermer la couture de la fourche, du bas de la braguette entre vos jambes, jusqu'à vos fesses au milieu dos où vous ajouterez la ceinture plus tard.
+To do so, turn on of the legs inside out, so that that good side of the fabric is turned inside, and the bad side and lining sits on the outside.
 
-Pour ce faire, retournez une jambe sur l'envers, de façon à ce que le côté endroit du tissu principal soit à l'intérieur, et l'envers et la doublure à l'extérieur.
+The other leg should not be turned inside-out, but should just have its good side on the outside.
 
-L'autre jambe ne devrait pas être retournée, mais juste avoir son côté endroit à l'extérieur.
+Now, put the leg that has the good side out (the normal leg) into the leg that has the bad side out (the inside-out leg).
 
-Maintenant, mettez la jambe qui est à l'endroit dans la jambe qui est à l'envers.
+This way, the good sides of both legs will sit against each other, and this is how you should sew the cross seam.
 
-De cette façon, les côtés endroits des deux jambes vont se faire face, et c'est ainsi que vous allez effectuer la couture de la fourche.
+> Be careful that your leg is not twisted inside the other leg. When in doubt, turn the inside-out leg outside-out again after you've pinned the cross-seam to make sure it's all ok.
 
-> Faites attention que votre jambe ne soit pas vrillée dans l'autre jambe. S'il y a un doute, retrournez la jambe qui est à l'envers à l'endroit de nouveau après avoir épinglé la couture de fourche pour vous assurer que tout est bon.
+Pin the cross-seam in place, and then sew it close, starting at the side of the fly, and making sure to respect the seam allowance.
 
-Epinglez la couture de la fourche en place, et puis piquez-la, en commençant du côté de la braguette, et en respectant bien les marges de couture.
+When done, press the seam allowance open.
 
-Lorsque c'est fait, ouvrez la couture au fer.
+### Step 37: Press the leg crease in place
 
-### Etape 37 : Repasser les plis des jambes en place
+![Press the leg crease in place](step37.png)
 
-![Repasser les plis des jambes en place](step37.png)
+Turn your trousers good side out, and carefully place one leg on your ironing board so that it lies flat and folds exactly on the crease line your basted earlier.
 
-Retournez votre pantalon sur l'endroit, et placez avec attention une jambe sur votre table à repasser de façon à ce qu'elle repose bien à plat et se plie exactement sur la ligne de pli que vous avez bâtie plus tôt.
+When it's looking good, press the crease lines in your leg, front a back. Repeat for the other leg.
 
-Lorsque cela paraâit satisfaisant, repassez les lignes de pli sur votre jambe sur l'avant et l'arrière. Répétez pour l'autre jambe.
+Give it a firm press because you want the pleats to still be there after you wash your trousers (so you can see where to press them again).
 
-Donnez un coup de fer bien ferme car vous voulez que les plis restent même après avoir lavé votre pantalon (de façon à savoir où repasser de nouveau).
+> In the industry, chemicals are applied along the crease line before it is pressed together. Some tailors use some sort of wooden hammer and anvil to bang the fibers in a permanent crease.
 
->Dans l'industrie, des produits chimiques sont appliqués le long de la ligne de pli avant qu'elle soit repassé. Certains tailleurs utilisent une sorte de marteau en bois et une enclume pour frapper les fibres et rendre le pli permanent.
+Depending on your fabric, your crease might last longer, but ultimately, you can't expect to have a crease that can withstand a few washes without being reapplied.
 
-En fonction de votre tissu, votre pli durera plus ou moins longtemps, mais au final, vous ne pouvez pas espérer avoir un pli qui peut résister à plusieurs lavages sans avoir à être reformé au fer.
+> Maybe this goes without saying, but there's also another option: Do not press the crease. This give your trousers a more informal look.
 
-> Peut-être que cela va sans dire, mais il y a aussi une autre option. Ne repassez pas le pli. Cela donnera un look moins formel à votre pantalon.
+### Step 38: Fuse interfacing to waistband
 
-### Etape 38 : Thermocollez la ceinture
+![Fuse interfacing to waistband](step38.png)
 
-![Thermocollez la ceinture](step38.png)
+Fuse the waistband interfacing (Piece 3) to the waistband (Piece 4).
 
-Thermocollez l'entoilage de la ceinture (Pièce 3) à la ceinture (Pièce 4).
+Align the interfacing in the middle of the waistband, and make sure to keep it nicely aligned as you fuse it in place with your iron.
 
-Alignez l'entoilage au milieu de la ceinture, et veillez à le garder bien aligné tout en le fixant au fer.
+### Step 39: Close waistband and waistband lining
 
-### Etape 39 : Assembler la ceinture et la doublure de ceinture
+![Close waistband and waistband lining](step39.png)
 
-![Assembler la ceinture et la doublure de ceinture](step39.png)
+Join the waistband (Pieces 4a and 4b) by sewing both pieces good sides together.
 
-Assembler la ceinture (Pieces 4a and 4b) en cousant les deux pièces ensemble endroit contre endroit.
+Join the waistband lining (Pieces 5a and 5b) by sewing both pieces good sides together.
 
-Assembler la doublure de ceinture (Pieces 5a and 5b) en cousant les deux pièces endroit contre endroit.
+### Step 40: Sew waistband to waistband lining
 
-### Etape 40 : Coudre la ceinture à la doublure de ceinture
+![Sew waistband to waistband lining](step40.png)
 
-![Coudre la ceinture à la doublure de ceinture](step40.png)
+Place your waistband on the waistband lining, good sides together, so that the waistband interfacing is facing upwards.
 
-Placez votre ceinture sur sa doublure, endroit contre endroit, de façon à ce que l'entoilage de la doublure de ceinture soit devant vous.
+Align the edge, and pin them together.
 
-Alignez le bord, et épinglez-les ensemble.
+> We are going to sew along the edge of the interfacing, but we will sew about 3mm or 1/8 inch from the actual interfacing edge. This will prevent the lining from being visible from the front later.
 
-> Nous allons coudre le long de l'entoilage, mais nous allons coudre à environ 3 mm ou 1/8 inch du bord de cet entoilage. Cela empêchera que la doublure soit visible de l'avant plus tard.
+On one side of the waistband, end with a curve and then go down vertically along the edge of the waistband interfacing. Check the illustration to make sure you do it on the correct side.
 
-Sur un côté de la ceinture, finissez avec une courbe et puis descendez verticalement le long du bord de l'entoilage de ceinture. Regardez bien les illustrations pour être certain que vous le faites du bon côté.
+### Step 41: Roll fabric around interfacing edge and press waistband
 
-### Etape 41 : Rouler le tissu autour du bord de l'entoilage et repasser la ceinture
+![Roll fabric around interfacing edge and press waistband](step41.png)
 
-![Rouler le tissu autour du bord de l'entoilage et repasser la ceinture](step41.png)
+Before pressing the waistband, make sure to roll over the fabric around the edge of the interfacing.
 
-Avant de repasser la ceinture, veillez à rouler le tissu autour du bord de l'entoilage.
+Remember that in the previous step your sewed 3mm from the interfacing edge? You need to make the fold around the edge of the interfacing so that the actual seam sits 3mm more inwards.
 
-Vous souvenezvous que dans l'étape précédente vous avez cousu à 3 mm du bord de l'entoilage ? Vous avez besoin de faire le pli autour du bord de l'entoilage de façon à ce que votre couture soit 3 mm de plus vers l'intérieur.
+This will make sure that our lining fabric is never on display from the front of your trousers.
 
-Cela assurera que votre doublure ne sera jamais apparente sur le devant de votre pantalon.
+### Step 42: Pin waistband to trousers
 
-### Etape 42 : Epingler la ceinture au pantalon
+![Pin waistband to trousers](step42.png)
 
-![Epingler la ceinture au pantalon](step42.png)
+Pin the edge of your waistband (the side you did not sew the lining to) to the top of your trousers, good sides together.
 
-Epingler le bord de votre ceinture (le côté que vous ne l'avez pas cousu avec la doublure) sur le haut de votre pantalon, endroit contre endroit.
+Tuck the edge of your fly into the end of the waistband with the curved corner. On the other end of the waistband, it will be longer. In other words, your waistband will overlap here.
 
-Repliez le bord de votre braguette dans la fin de votre ceinture avec le coin courbé. Sur l'autre côté de la ceinture, il sera plus long. Autrement dit, votre ceinture chevauchera ici.
+> Be careful to match the vertical alignment of the waistband at the zip. With the zip closed, both sides of the waistband should sit at an equal height. This is easy to miss if you don't check it.
 
-> Veillez à faire correspondre l'alignement vertical de la ceinture au niveau du zip. Avers le zip fermé, les deux côtés de la ceinture devraient être à la même hauteur. Il est facile d'oublier ce détail si vous ne vérifiez pas.
+### Step 43: Sew waistband to trousers
 
-### Etape 43 : Coudre la ceinture au pantalon
+![Sew waistband to trousers](step43.png)
 
-![Coudre la ceinture au pantalon](step43.png)
+Now that the waistband is pinned to top of your trousers, sew it in place.
 
-Maintenant que votre ceinture est épinglée au haut de votre pantalon, cousez-la en place.
+On the side with the curved corner, get as close to the edge as possible. On the other side, stop when you reach the edge of your fly.
 
-Sur le côté avec le coin arrondi, cousez le plus près du bord possible. Sur l'autre côté, arrêtez-vous lorsque vous atteignez le bord de votre braguette.
+### Step 44: Press waistband
 
-### Etape 44 : Repasser la ceinture
+![Press waistband](step44.png)
 
-![Repasser la ceinture](step44.png)
+Give your newly sewn seam a good press. Do not press the seam open, instead press it towards the top (put both trousers and waistband seam allowance in the waistband).
 
-Repasser votre toute nouvelle couture. N'ouvrez pas les marges, mais couchez-les vers le haut (mettez les marges de couture du pantalon et de la ceinture dans la ceinture).
+### Step 45: Prepare the belt loops
 
-### Etape 45 : Préparer les passants de ceinture
+![Prepare the belt loops](step45.png)
 
-![Préparer les passants de ceinture](step45.png)
+The belt loops are a part of your trousers where you can let your creativity run free. There's load of different ways to make and shape belt loops, not to mention that where you place them is also up to you.
 
-Les passants de ceinture sont une partie de votre pantalon où vous pouvez laisser libre court à votre créativité. Il y a énormément de façons de former des passants de ceinture, sans parler du fait que vous pouvez les positionner à votre guise aussi.
+That being said, here's what to do to make a standard belt loop:
 
-Cela étant dit, voici ce qu'il faut faire pour réaliser un passant de ceinture standard :
+Find the belt loop pattern part, a small rectangular piece of fabric. There should be 8 of them, and these will become your belt loops. For each of them, take these steps:
 
-Prenez la partie de patron pour le passant de ceinture, un morceau rectangulaire de tissu. Il y en a 8, et ils deviendront chacun un passant de ceinture. Pour chacun d'entre eux, suivez ces étapes :
+- Zig-zag (or serge) along the longest edges of the rectangle
+- Fold one side back along the length, and press
+- Fold the other side back, along the length, and press
+- Hand sew along the back of the belt loop so that the folded sides stay in place, but the stitches do not show at the front
+- Give it a final good press when you're done
 
- - Faites un point zig-zag (ou bien surjetez) les bords longs du rectangle
- - Pliez vers l'arrière un côté le long du bord long, et repassez
- - Pliez vers l'arrière l'autre côté le long du bord long, et repassez
- - Cousez à la main le long de l'arrière du passant de façon à maintenir les côtés pliés en place, mais que les points ne soient pas visibles sur le devant.
- - Repassez de nouveau, et c'est fini
+> While the width of your belt loops is not all that important, it does matter to make sure they are all the same width.
+> 
+> To make it easier to have a consistent width, you can fold your belt loops around a strip of cardboard, thick paper, or plastic of the desired belt loop width.
+> 
+> This strip can also help you with the hand sewing. Keep it in your belt loop and it will prevent your needle from piercing through all layers and your thread won't show at the front.
 
-> Tandis que la longueur des passants n'est pas si importante, il faut qu'ils soient de même largeur.
->
-> Pour faciliter l'obtention d'une largeur uniforme, vous pouvez plier vos passants autour d'une bande de carton rigide, de papier épais ou de plastique de la largeur de passant désirée.
->
-> Cette bande peut également vous aider pour la couture à la main. Gardez-la dans votre passant et elle empêchera votre aiguille de passer à travers toutes les épaisseurs, et votre fil n'apparaîtra pas sur le devant.
+### Step 46: Attach the belt loops: Bottom
 
-### Etape 46 : Assembler les passants : Bas
+![Attach the bottom of the belt loops](step46.png)
 
-![Assembler le bas des passants](step46.png)
+Attach the bottom of the belt loops to your trousers. Place them about 1.5 cm below your waistband, depending on your waistband width.
 
-Attachez le bas des passants de ceinture à votre pantalon. Placez-les à environ 1,5 cm du bord de votre ceinture, en fonction de la largeur de la ceinture.
+Place the good side of the belt loop down on the good side of the trousers (good sides together) and secure with a bar tack or narrow zig-zag.
 
-Placez l'endroit du passant contre l'endroit du pantalon et bloquez-le avec un point d'arrêt ou un point zig-zag.
+Then, zig zag the edge of the belt loop to the trousers.
 
-Puis, faites un point zig-zag sur le bord du passant.
+> It is important to get the waistband lining out of the way while doing this. Make sure to attach the belt loops only to your trousers, and not to the waistband lining.
+> 
+> You have 8 belt loops, so you need to distribute them around your waistband. Have a look at an existing pair if you are uncertain how to do this.
+> 
+> Make sure to place belt hoops close to the center back, and not too close to each other at the front (for belt buckles).
 
-> Il est important de garder la doublure de la ceinture hors du chemin en faisant cela. Veillez à fixer les passants uniquement au pantalon, et non à la doublure de la ceinture.
+### Step 47: Waistband facing
 
-> Vous avez 8 passants de ceinture, alors vous devez les distribuez autour de la ceinture. Regardez sur un pantalon existant si vous n'êtes pas sûr de la façon de le faire.
->
-> Veillez à placer les passants près du milieu dos, et pas trop près les uns par rapport aux autres sur le devant (pour laisser de la place à la boucle de ceinture).
+![Waistband facing](step47.png)
 
-### Etape 47 : Entoilage de ceinture
+The waistband facing needs to be cut out and attached to your waistband.
 
-![Entoilage de ceinture](step47.png)
-
-L'entoilage de ceinture doit être coupé et fixé à votre ceinture.
-
-Cela sera bien plus simple à comprendre si vous jetez un oeil à la vidéo correspondante.
+This will be a lot simpler to understand if you have a look at the relevant video:
 
 @[youtube](https://www.youtube.com/embed/8dLOuOtb18U?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
-### Etape 48 : Découper le surplus de couture de la ceinture
+### Step 48: Trim waistband seam allowance
 
-![Découper le surplus de couture de la ceinture](step48.png)
+![Trim waistband seam allowance](step48.png)
 
-Avant de finaliser la ceinture, nous allons découper l'excédent de marge de couture s'y trouvant.
+Before we finalize the waistband, we're going to trim back some of its seam allowance.
 
-> **A propos de la gradation de marge de couture**
-> Lorsque vous dégarnissez les différentes couches de marge de couture, essayez toujours de les couper à des largeurs différentes de façon à réduire le volume en étapes incrémentales.
->
-> La couche qui se trouve le plus près de l'endroit du vêtement devrait être le plus large, alors découpez à partie de celle-ci.
->
-> Faire ainsi diminuera le risque que la bordure de la marge de couture soit visible sur le côté endroit.
-
-### Etape 49 : Repasser et bâtir la doublure de ceinture
-
-![Repasser et bâtir la doublure de ceinture](step49.png)
-
-La doublure de ceinture sera cousus depuis le devant du pantlon au dessus de la couture qui joint la ceinture au pantalon (dite, couture dans le sillon).
-
-Faire ainsi permettra de prendre la doublure et de la sécuriser en place. Toutefois, étant donné que nous cousons sur l'endroit, la doublure sera en dessous des autres épaisseurs, et nous ne verrons pas ce que nous faisons.
-
-C'est pourquoi, pour être sûr que tout repose bien proprement à plat, nous allons tout d'abord repasser et bâtir la doublure.
-
-La doublure va s'étendre vers le bas à partir du haut, et elle devra être repliée sur elle-même, de façon à ce qu'elle soit prise dans la couture lorsque nous la fixerons en place plus tard.
-
-Pour veillez à ce que les choses soient jolies, la distance entre le haut de notre ceinture, et le bord inférieur (replié) de notre doublure devrait être régulière. Vous pouvez marquer une distance égale depuis le haut de votre pantalon, et épingler la doublure sur cette ligne. Dernier point mais non le moindre, repassez ce pli sur votre doublure.
-
-Lorsque vous êtes satisfait de l'aspect obtenu, bâtissez la doublure ne place juste à côté de la couture qui assemble la ceinture au pantalon.
-
-> Il est mieux de bâtir à côté de la couture, mais non sur la couture. Cela sera plus facile de retirer le fil de bâti une fois la couture faite dans la prochaine étape.
-
-### Etape 50 : Coudre la doublure de ceinture en place
-
-![Coudre la doublure de ceinture en place](step50.png)
-
-Après avoir bâti la doublure de ceinture, cousez-la en place sur l'endroit, exactement dans la couture entre la ceinture et le pantalon.
-
-### Etape 51 : Attacher les passants : Haut
-
-![Attacher le haut des passants de ceinture](step51.png)
-
-Avec votre ceinture et sa doublure proprement bloquées, il est temps d'attacher le haut des passants de ceinture.
-
-Cousez-les en place comme vous l'avez fait pour le bas. A savoir, utilisez un point d'arrêt ou un zig-zag serré pour les fixer, puis un point zig-zag pour les sécuriser.
-
-> Ne cousez pas à travers le haut des passants. Vous devrez travailler le pied de votre machine à coudre sous le passant de façon à ne coudre que sur la partie qui est repliée.
-
-> N'hésitez-pas à découper la longueur de vos passants après avoir fait vos points d'arrêt ou après le point zig-zag sur leur extrémités, comme ils pourraient être trop longs.
-
-### Etape 52 : Finir le bords des jambes
-
-![Finir le bord des jambes](step52.png)
-
-Avant d'ourler le pantalon, finissez le bord des jambes avec un point zig-zag ou un point de surjet.
-
-> C'est également le bon moment d'essayer le pantalon pour marquer exactement la longueur que vous voulez qu'il ait après l'ourlet.
-
-### Etape 53 : (Optionnelle) Coudre un ruban d'ourlet
-
-![Optionellement coudre un ruban d'ourlet](step53.png)
-
-> Le ruban d'ourlet est un ruban qui se trouve à l'intérieur de votre ourlet de pantalon. A l'endroit où l'ourlet est replié, le tissu subit de mauvais traitements à cause des frottements répétés avec les chaussures et d'autres choses.
->
-> Placer un ruban à l'intérieur de l'ourlet protège jusqu'à un certain point votre tissu, et c'est une finition très propre.
-
-Marquer la ligne d'ourlet de votre pantalon (sur l'endroit).
-
-Placez le ruban comme montré dans l'illustration en veillant à ce qu'il dépasse de quelques mm de la ligne d'ourlet. Cousez-le en place tout le tour de la jambe, en veillant à coudre près mais non sur la ligne d'ourlet.
-
-### Etape 54 : Repasser l'ourlet
-
-![Repasser l'ourlet](step54.png)
-
-Repliez les jambes de pantalons à la ligne d'ourlet, et repassez l'ourlet.
-
-> Si vous avez cousu un ruban d'ourlet, le ruban va dépasser de quelques mm en dessous de la ligne d'ourlet, protégeant ainsi le tissu au niveau de l'ourlet.
-
-### Etape 55 : Ourler les jambes
-
-![Ourler les jambes](step55.png)
-
-Avec l'ourlet proprement repassé, cousez cimplement à la main la partie repliée à l'intérieur de votre pantalon.
-
-> L'ourlet est réalisé à la main car il est important que les points ne soient pas visibles sur le devant. Alors lorsque vous cousez à la main, ne poussez pas l'aiguille à travers le tissu mais attrapez juste quelques fils pour rendre les points invisibles sur le côté endroit du vêtement.
+> **About seam allowance grading** When trimming back different layers of seam allowance, always try to cut them at different lengths so that the bulk is reduced in incremental steps.
 > 
-> Bien qu'il y ait des alternatives mécaniques, elles ne sont pas aussi propres (point d'ourlet invisible) et probablement non accessibles au couturier amateur (machine industrielle pour ourlet invisible).
+> The layer that lies closest to the good side of the garment should be the longest, so trim back from there.
+> 
+> Doing so will make it less likely that the outline of the seam allowance is visible from the good side.
 
-### Etape 56 : Découper les surplus, nettoyer et repasser
-Découpez les fils qui pourraient encore dépasser, retirez les fils de bâti, et donnez un coup de fer final à votre pantalon.
+### Step 49: Press and baste the waistband lining
+
+![Press and baste the waistband lining](step49.png)
+
+The waistband lining will be sewn from the front of the trousers on top of the seam that joins the waistband to the trousers (so called *stitch in the ditch*).
+
+Doing so will catch the lining and secure it in place. However, since we'll be sewing this from the good side, the lining will lie beneath all other layers, and we won't see what we're doing.
+
+That is why, to make sure it all lies clean and flat, we will first press and baste the lining.
+
+The lining will extend downward from the top, and it needs to be folded back up under itself, so that it will get caught by the seam when we sew it in place later.
+
+To make sure things look pretty, the distance between the top of our waistband and the (folded back) bottom edge of our lining should be constant. You can mark an even distance from the top of your trousers, and then pin back the lining at this line. Last but not least, press that fold in your lining.
+
+When you're happy with how it looks, baste the lining in place just next to the seam joining the waistband and trousers.
+
+> It's best to baste next to the seam, and not actually in the seam. This will make it a lot easier to remove your basting when after we've sewn in the last step.
+
+### Step 50: Sew the waistband lining in place
+
+![Sew the waistband lining in place](step50.png)
+
+After you basted the waistband lining, sew it in place from the good side, exactly in the seam between the waistband and trousers.
+
+### Step 51: Attach the belt loops: Top
+
+![Attach the top of the belt loops](step51.png)
+
+With your waistband and lining properly secured, it's time to attach the top of the belt loops.
+
+Sew them in place just as you did at the bottom. That is, use a bar tack or close zig-zag to attach them, then zig-zag over the end to secure it.
+
+> Don't sew through the top of the belt loops. You'll have to work the foot of your sewing machine under the belt loop so you only sew the piece that is folded back.
+> 
+> Feel free to trim back the length of your belt loops after you bar tack and before you zig-zag the end of them, as they might be too long.
+
+### Step 52: Finish the edge of the legs
+
+![Finish the edge of the legs](step52.png)
+
+Before we hem the trousers, finish the raw edge of the legs with a zig-zag stitch or serger.
+
+> This would also be a good time to try on your trousers and mark exactly how long you want them to be after they are hemmed.
+
+### Step 53: (Optional) Sew in a hem ribbon
+
+![Optionally sew in a hem ribbon](step53.png)
+
+> The hem ribbon is a ribbon that sits on the inside of your trouser hem. At the place your hem folds back, the fabric has to take a lot of abuse from bumping into shoes and other things.
+> 
+> Placing a ribbon inside the hem protects your fabric to some extent, and it is a neat finish.
+
+Mark the hemline on your trousers (good side out).
+
+Place the ribbon as shown in the illustration making sure that it extends a few mm above the hemline. Sew it in place all the way around the leg, making sure to sew close but not on the hemline.
+
+### Step 54: Press the hem
+
+![Press the hem](step54.png)
+
+Fold back the trouser legs at the hemline, and press the hem.
+
+> If you've sewn in a hem ribbon, the ribbon will extend a few mm below the hem line, thereby protecting the fabric at the hem.
+
+### Step 55: Hem the legs
+
+![Hem the legs](step55.png)
+
+With the hem neatly pressed, simply hand-sew the folded back part to the inside of your trousers.
+
+> Hemming is done by hand because it's important that the stitches don't show on the front. So when hand-sewing the hem, don't push your needle through the fabric, but just catch a few threads so your stitches don't show on the front
+> 
+> While there are machine alternatives, they aren't as neat (blind hem stitch) or probably not accessible to the home-sewer (industrial blind hem machine).
+
+### Step 56: Trim, clean up, and press
+
+Trim any loose threads or basting that remains, and give your trousers a good final press.
