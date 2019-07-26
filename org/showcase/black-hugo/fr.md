@@ -1,10 +1,11 @@
 ---
 date: 2016-01-18
-title: Un sweat à capuche Hugo noir par Natalie
+title: A black hugo hoodie by Natalie
 img: showcase.jpg
-caption: On adore le détail du tissu contrastant pour l'intérieur de la capuche
-patterns: [hugo]
+caption: Love the detail of the different fabric on the inside of the hood
+patterns:
+  - hugo
 author: Natalie
 ---
 
-Cette photo provient du [compte Instagram](https://www.instagram.com/p/BAqm70Lqg9o/) de [taliajane_designs](https://www.instagram.com/taliajane_designs/).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BAqm70Lqg9o/) of [taliajane_designs](https://www.instagram.com/taliajane_designs/).
