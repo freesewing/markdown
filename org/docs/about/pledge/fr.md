@@ -1,81 +1,71 @@
 ---
-title: Engagement des donations pour Freesewing
-path: /fr/docs/about/pledge
+title: FreeSewing revenue pledge
 ---
 
-> Moi, Joost De Cock, fondateur et responsable du projet freesewing et réceptionnaire 
-> de ses donations, je fais le serment par la présente, que tous les dons que je recevrai seront 
-> transmis aux 
-> [Médecins Sans Frontières (MSF)](http://www.msf.org/).
+<note>
 
-## Comprendre les raisons de ce serment
+I — Joost De Cock, founder and maintainer of the FreeSewing project — hereby pledge that all FreeSewing revenue will be transferred to [Doctors Without Borders (MSF)](http://www.msf.org/).
+
+</Note>
+
+## Understanding the reasons for this pledge
 
 ### Noblesse oblige
 
-Vous présumez probablement que nous demandons de l'argent pour maintenir les serveurs en fonctionnement. Mais ce n'est pas exactement vrai.
+You probably assume that we ask for money to keep the servers running. But that's not exactly true.
 
-Je ne sais pas si l'expression **noblesse oblige** vous dit quelque chose, mais elle signifie essentiellement que des privilèges impliquent de la responsibilité.
+I don't know if you're familiar with the phrase **noblesse oblige** but it essentially means that privilege entails responsibility.
 
-Je suis privilégié, et j'ai donc des responsabilités.
-Je suis très chanceux d'être né en Europe occidentale, d'avoir un bon métier, et un toit au-dessus de ma tête.
+I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
-Est-ce que je pourrais utiliser cet argent ? Oui, je le pourrais. 
+Could I use the money? Yes I could.  
+Do I need the money? No I don't.
 
-Est ce que j'ai besoin de cet argent ? Non, je n'en ai pas besoin.
+### The value of your support
 
-### La valeur de votre soutien
+The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
 
-Le risque principal qui menace Freesewing est le même que pour n'importe quel projet open source : le burnout du responsable.
+While I no longer carry Freesewing alone -- and I can't stress enough how much I value the work of all contributors -- that doesn't make me immune to feelings of *Why the hell am I doing this?*
 
-Bien que je ne porte plus tout seul Freesewing -- et je ne pourrai jamais insister assez sur combien je valorise le travail de tous les contributeurs --
-cela ne me vaccine pas contre le virus qui chuchote *Mais pourquoi diable est-ce que je fais ça ?*
+When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you're doing a worthwhile thing. Keep up the good work*.
 
-Quand des gens deviennent Mécènes (ou font un don), ils donnent plus que de l'argent.
-Pour moi, la valeur principale réside dans le message qu'ils envoient, à moi et aux autres personnes qui travaillent sur Freesewing. 
+### The value of your money
 
-Et ce message est : *Hé, vous faites une chose qui en vaut la peine. Continuez votre bon travail*.
+It is not *just* about the money. But that doesn't mean the money is not important. Much to the contrary.
 
-### La valeur de votre argent
+Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
 
-Ce n'est pas *juste* une question d'argent. Mais cela ne veut pas dire que l'argent n'est pas important.
-Bien au contraire.
+I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
 
-Collecter de l'argent en faisant quelque chose que j'aime et le transmettre ensuite à une oeuvre de charité me permet de dormir la nuit. 
+Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 
-Je pourrais me porter volontaire dans une soupe populaire, ou enseigner à des enfants défavorisés comment coudre. Mais au lieu de ça, je travaille sur Freesewing.
+### Charity is not sexy
 
-C'est pourquoi tout l'argent qui est collecté à travers Freesewing va à un organisme de bienfaisance.
-Cela rend ce projet non seulement amusant à faire, mais aussi socialement responsable. 
-Et j'ai besoin de ça pour me convaincre que oui, c'est acceptable de passer tout mon temps à faire ça, 
-parce qu'à la fin de l'année, cela m'amène à faire un chèque à des personnes qui en ont bien plus besoin que moi.
+Here's the tricky part: People give less once they know the money goes to charity in the end. I wish it wasn't the case, but it is.
 
-### La charité n'est pas sexy
-Voilà la partie délicate : les gens donnent moins une fois qu'ils savent que l'argent va à une oeuvre caritative à la fin. 
-J'aurais aimé que ça ne soit pas le cas, mais ça l'est.
+So I'm not explicitly mentioning it on [our Patrons page](/patrons/join), which is presented like you would see on a business site.
 
-Alors je ne le mentionne pas explicitement sur notre [page des Mécènes](/fr/patrons/join), 
-qui est présentée comme vous le verriez sur une page commerciale.
+Yes, everything is free, and the money doesn't actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn't mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
 
-Oui, tout est gratuit, et l'argent ne va pas en fait pour payer les factures de serveurs 
-(parce que j'ai choisi de les payer de ma poche pour les raisons énoncées plus haut). 
-Mais cela ne veut pas dire que ces contributions ne sont pas cruciales pour la santé de ce projet, 
-ou à tout le moins, pour son responsable (moi en l'occurence).
+## What charity does the money go to?
 
-## A quel oeuvre va l'argent ?
+There's a lot of misery in the world. As I watch the news, I often feel my faith in humanity slipping.
 
-Il y a beaucoup de misère dans ce monde. Lorsque je regarde les informations, je sens souvent ma confiance en l'humanité diminuer.
+Some of the most vulnerable people on this planet seem largely abandoned by rich countries and supra-national organisations.
 
-Quelques unes des personnes les plus vulnérables sur cette planète semblent largement abandonnées par les pays riches et les organisations supranationales.
+Yet somehow, in some of those worst places to be a human being, there is still a banner flying that provides hope, and help. It's not the flag of the United Nations, nor is it the star spangled banner, or the blue and gold of the European Union.
 
-Pourtant, dans certains de ces pires endroits pour l'être humain, il y toujours une bannière qui flotte en fournissant de l'espoir et de l'aide. Ce n'est pas le drapeau des Nations Unies, ni la bannière étoilée, ou la bleue et or de l'Union Européenne.
+The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
 
-La seule chose qui me rappelle que l'humanité n'a pas complètement oublié ces gens est de voir la bannière des Médecins Sans Frontières flotter, précairement, au milieu des décombres de leurs hôpitaux bombardés.
+I can't think of a single symbol that reminds us that not everything is lost, and there's still good people out there.  
+I can't think of a single organisation more deserving of our support.
 
-Aucun autre symbole nous rappelant que tout n'est pas perdu et qu'il y a encore de bonnes personnes ici bas, 
-aucune autre organisation méritant plus notre soutien ne me viennent à l'esprit.
+So I am happy to make this pledge.
 
-Alors, je suis heureux de faire ce serment.
+In practice, all revenue received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
 
-En pratique, toutes les donations reçues dans les 12 derniers mois seront versées à Médecins Sans Frontières, le 10 décembre.
+<note>
 
-> Si vous le souhaitez, vous pouvez [donner ici](/fr/patrons/join)
+If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
+
+</Note>
