@@ -1,10 +1,8 @@
 ---
-title: Réaliser Huey
-path: /fr/docs/patterns/huey
+title: Making Huey
+path: /en/docs/patterns/huey
 ---
 
-> ##### Huey est actuellement en beta, la documentation est manquante
->
-> Ce patron est actuellement en beta. Une des raisons pour cela est que sa documentation 
-> reste à être rédigée.
-{:.warning}
+> ##### Huey is currently in beta, documentation is missing
+> 
+> This pattern is currently in beta. One of the reasons for that is that its documentation is yet to be written. {:.warning}
