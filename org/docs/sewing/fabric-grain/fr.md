@@ -1,22 +1,20 @@
 ---
-title: Droit fil
-path: /fr/docs/sewing/fabric-grain
+title: Fabric grain
+path: /en/docs/sewing/fabric-grain
 ---
 
-![Le droit fil est parallèle à la lisière](fabric-grain.jpg)
+![The grainline runs parallel to the selvedge](fabric-grain.jpg)
 
-Le droit fil d'un tissu est déterminé par l'alignement des fils dans une étoffe tissée. Plus précisément, le droit fil est déterminé par la direction du fil de chaine.
+The grain of a fabric is determined by the alignment of the yarns in a woven fabric. More precisely, the grain line is determined by how the warp yarns run.
 
-Les étoffes tissées sont produites en entrelaçant un fil de trame au travers de fils de chaine. Les fils de chaines parcourt la longueur du rouleau de tissu, parallèlement à la lisière, alors que la trame fait des allers-retour à travers sa largeur.
+Woven fabric are produced by weaving the so-called weft between the warp threads. The warp threads run along the length of a fabric roll, parallel to the selvedge, while the weft runs back and forth across its width.
 
-Le droit fil est indiqué sur un patron par la ligne de droit fil. Lorsque vous découpez à partir de votre patron, il est important d'aligner le droit fil du patron sur celui de votre tissu.
+Grain is indicated on a pattern by the grain line. When cutting out your pattern, it's important to align the grain line of the pattern to the grain of your fabric.
 
-> Pour plus de détails sur la chaine et la trame : [Tissage sur Wikipédia](https://fr.wikipedia.org/wiki/Tissage)
-
-> ##### Confus ? Pensez au bois
-> Le bois n'est pas tissé, mais croît selon différentes couches basées sur les saisons (anneaux de croissance). 
-> La façon dont ces couches sont alignées sont importantes pour les menuisiers. 
-> Elle influence le degré de déformation que va subir le bois après sa découpe, comment il va fléchir, ainsi que d'autres paramètres.
+> For more warp and weft details: [Weaving on Wikipedia](http://en.wikipedia.org/wiki/Weaving)
 > 
-> De la même façon qu'un menuisier prendra en compte cela avant de couper le bois, vous devriez prendre en compte le droit fil avant de couper votre tissu.
-  
+> ##### Confused? Think wood
+> 
+> Wood is not woven, but grows in different layers based on the seasons (growth rings). The way these layers are aligned are important for woodworkers. They influence to what extent the wood will deform after cutting it and how it will bend, as well as other parameters.
+> 
+> Just like a woodworker will take this into account before cutting the wood, you should take grain into account before cutting out your fabric.
