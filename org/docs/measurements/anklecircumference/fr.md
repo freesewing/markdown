@@ -1,6 +1,7 @@
 ---
-title: Tour de cheville
+title: Ankle circumference
 ---
-La mesure du **tour de cheville** fait le tour de votre cheville.
 
-Pour mesurer votre tour de cheville, enroulez le mètre ruban autour de votre jambe, juste au niveau de votre cheville.
+The **ankle circumference** measurement goes around your ankle.
+
+To measure your ankle circumference, run the tape measure around your leg, just above your ankle.
