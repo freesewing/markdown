@@ -1,13 +1,12 @@
 ---
-title: Réaliser Brian
-path: /fr/docs/patterns/brian
+title: Making Brian
+path: /en/docs/patterns/brian
 ---
 
-## Brian est un patron de base, pas un patron fini
+## Brian is a block, not a pattern
 
-Un patron de base est, comme son nom l'indique, une forme basique sur laquelle les autres patrons s'appuient.
-Ils sont parfois appelés slopers, bien que les puristes diront qu'ils ne représentent pas la même chose.
+A block is a basic shape on which other patterns are based. They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
 
-Le fait est que cela ne sert pas à grand chose de donner des instructions sur la façon de réaliser Brian.
+Point is, there is no point in providing instructions on how to make Brian.
 
-Pourquoi ? Parce que Brian n'est pas supposé être fait tel quel, mais sert plutôt comme base pour la conception de vos propres patrons.
+That's because Brian is not supposed to be made as-is, but rather can serve as the basis for your own pattern designs.
