@@ -1,8 +1,10 @@
 ---
 date: 2018-09-29
-title: Jaeger par Paul
+title: Jaeger by Paul
 img: showcase.jpg
-caption: "Une veste de sport en lin Jaeger par Paul"
-patterns: [jaeger]
+caption: "Linnen Jaeger Sports Jacket by Paul"
+patterns:
+  - jaeger
 author: Tiger751023
 ---
+
