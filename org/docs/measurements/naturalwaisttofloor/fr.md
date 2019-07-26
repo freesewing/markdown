@@ -1,10 +1,10 @@
 ---
-title: Hauteur de taille
-path: /fr/docs/measurements/naturalwaisttofloor
+title: Natural waist to floor
+path: /en/docs/measurements/naturalwaisttofloor
 ---
 
-La **hauteur de taille** est la mesure verticale de votre taille naturelle jusqu'au sol.
+The **naturalWaistToFloor** is the measurement from your natural waist down to the floor.
 
-Pour la mesurer, localiser la hauteur de votre taille naturelle, et mesurer la distance qui la sépare du sol.
+To measure your natural waist to floor measurement, locate the height of your natural waist, and measure how high it is from the floor.
 
-Il est souvent plus facile de la mesurer sur le côté de votre corps.
+It is often easiest to measure at the side of your body.
