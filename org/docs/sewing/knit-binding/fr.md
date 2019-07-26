@@ -1,114 +1,113 @@
 ---
-title: Biais
-path: /fr/docs/sewing/knit-binding
+title: Knit binding
+path: /en/docs/sewing/knit-binding
 ---
-## Qu'est ce qu'un biais en tricot à la fin ?
 
-Un biais est un terme générique pour un type de finition (généralement) trouvé à l'encolure et aux bords des manches des T-shirts et autres tricots.
+## What is knit binding anyway?
 
-Il y a deux variétés de cette finition, un parement en tricot, et un véritable biais en tricot.
+Knit binding is a general term for a type of finish (typically) found on the neck or arm opening of Tshirts and other knitwear.
 
-## Parement
+There's two varieties of this finish, a knit band, and actual knit binding.
 
-![Comme pour la plupart des T-shirts, celui que que la fille porte possède un parement à l'encolure.](knit_band.jpg)
+## Knit band
 
-Un parement est ce que vous trouvez généralement à l'encolure de votre T-shirt. C'est une bande de tissu qui est pliée deux fois et fixée au bord de votre vêtement.
+![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
 
-Cela laisse un bord non fini à l'intérieur qui est souvent cousu en faisant des points de bordure autour du parement.
+Knit band is what you typically find at the neck opening of your Tshirt. It's a strip of fabric that is folded double and attached to the edge of the garment.
 
-### Biais en tricot
-![Le maillot de corps de cette fille et le T-shirt au dessus ont tous deux un biais à l'encolure.](knit_binding.jpg)
+This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
 
-Le véritable biais en tricot agit plus comme un biais classique, dans le sens où il entoure le tissu, plutôt que d'en être une extension.
+### Knit binding
 
-Le bord brut de ce vêtement est inséré entre le biais en tricot plié, qui est fixé avec des points de bordures. 
-C'est souvent réalisé avec une recouvreuse, permettant de finir proprement l'intérieur.
+![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
-> Photos de [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/)
-> et de [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
+Real knit binding acts more like classic bias binding, in that it is wrapped around the fabric, rather than extend from it.
 
-### Style vs fonction
-Un parement en tricot est plus commun, et c'est ce que vous trouvez généralement aux encolures des T-shirts. C'est une option plus décorative.
+The raw edge of the garment is inserted between the folded knit binding, which is edge-stitched down. This is often done with a coverlock machine, thereby neatly finishing the inside.
 
-Un biais en tricot est moins commun, mais souvent utilisé pour les maillots de corps (sous-vêtements). C'est une option plus fonctionnelle.
+> Pictures by [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) and [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
 
-> ##### Toujours confus ?
-> Un autre façon de les distinguer est la suivante : Penser à ce qui arrive lorsque vous décidez d'élargir le biais/parement.
->
-> Sur un T-shirt, élargir le parement au niveau du cou va rétrécir l'encolure. 
-> Si vous voulez un parement plus large, vous allez devoir couper une plus grande encolure dans votre T-shirt.
+### Style vs function
+
+A knit band is more common, and is what you typically find on Tshirt necklines. It's the more decorative option.
+
+A knit binding is less common, but often used on undershirts (as in, underwear). It's the more functional option.
+
+> ##### Still confused?
 > 
-> Sur un maillot de corps, si vous voulez que le biais d'encolure soit plus large, cela ne va pas rétrécir l'encolure.
-> Au lieu de cela, le biais va seulement avancer plus sur le tissu principal du maillot de corps.
+> Another way to distinguish them is this: Think about what happens when you decide to widen the knit binding/band.
+> 
+> On a Tshirt, widening the band at the neck will make the neck opening smaller. If you want a wider band, you will have to cut a larger hole in your Tshirt.
+> 
+> On an undershirt, if you want the knitwear binding at the neck to be wider, it will not make the neck opening smaller. Instead, the binding will simply lay further over the undershirt main fabric.
 
-## Pourquoi les biais en tricot nécessitent d'être étirés
+## Why knitwear binding requires stretch
 
-Que vous utilisiez une finition avec un parement en tricot ou avec un biais en tricot, vous allez devoir étirer votre tissu de finition pour avoir de bons résultats. Ceci, en supposant que vous ne travailliez pas sur une couture droite. Voilà pourquoi :
+Whether you're using a knit band or a knit binding finish, you are going to have to stretch your binding fabric for good results. That is, assuming you're not sewing a straight seam. Here's why:
 
-### Ligne droite : la vie en mode facile
+### Straight: life on easy mode
 
-![Pas d'étirement nécessaire lorsqu'on va tout droit](knitbinding1.png)
+![No stretch required when going straight](knitbinding1.png)
 
-Sur une couture droite, vous pouvez fixer simplement votre parement/biais. Votre tissu principal et celui de finition ont la même longueur, donc tout ira bien.
+On a straight seam, you can simply attach your binding/band. Your fabric and binding have the same length, so everything will be fine.
 
-Le scénario le plus probable où vous rencontrerez cela est sur les manches (courtes) d'un T-shirt. Bien que le parement s'enroule autour de votre bras, d'une perspective de patron (lorsque le tissu est encore à plat) c'est une couture droite.
+The most likely scenario where you will encounter this is on the (short) sleeves of a Tshirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
 
+### Uniformly curved: uniform stretch
 
-### Courbure uniforme : étirement uniforme
+![Curved seams require stretch](knitbinding2.png)
 
-![Les coutures en courbe requièrent de l'étirement](knitbinding2.png)
+On a curved seam, like an neck opening, things get a little more complicated. That is because the outer edge and the inner edge of your binding will have a different length.
 
-Sur une couture courbe, comme une encolure, les choses deviennent un peu plus compliquées. Ceci parce que les bords externe et interne de votre biais vont avoir des longueurs différentes.
+**No stretch, and things won't lie flat (aka gape)**
 
-**Pas d'étirement, et les choses ne vont pas reposer à plat**
+If you simply sew the binding to the fabric, things will be fine at the outer edge of your binding. But the inner edge is shorter, and your binding fabric will be pushed together. The tension that this creates will make it rise, and your binding will not lie flat against your skin.
 
-Si vous cousez simplement le biais au tissu, les choses vont bien se passer pour le bord externe de votre biais. Mais le bord interne est plus court, et votre tissu de biais va s'agglutiner. La tension que cela crée le fera s'élever, et votre biais ne va reposer à plat sur votre peau.
+**Stretch it just right, and it will look great**
 
-**Etirez-le juste assez, et cela sera magnifique**
+To fix this issue, you need to stretch your knit binding (and not the fabric) while attaching your binding. If you do it right, the outer edge will be stretched open a bit, while the inner edge will nicely fill out your curve and everything will lie flat.
 
-Pour régler ce problème, vous avez besoin d'étirer votre biais (et pas le tissu) tout en le fixant. Si vous faites ça bien, le bord externe va être étiré un peu, alors que le bord interne va joliment remplir la courbe et tout va être bien plat. 
+**If you stretch too much, things will wrinkle**
 
-**Si vous étirez trop fort, cela va créer des petits plis**
+Stretch your binding too much, and it will spring back too far, causing the main fabric to wrinkle.
 
-Etirez trop votre biais, et il va se remettre en place trop loin, provoquant des plis au niveau du tissu principal.
+### Real life: variable stretch
 
-### La vraie vie : étirement variable
+![As the curve changes, so should the stretch](knitbinding3.png)
 
-![La courbe variant, l'étirement doit varier également](knitbinding3.png)
+Straight seams exist, and although I've never come across one, maybe uniformly curves seams exists too. But more often than not, the curvature of your seam will vary.
 
-Les coutures droites existent, et bien que je n'en ai jamais encore rencontrées, peut-être que les coutures uniformément courbées existent aussi. Mais plus souvent que jamais, la courbure de votre couture va varier.
+On a typical Tshirt neckline, the curve at the back of your neck is different from the front, and there's probably a somewhat tighter bend behind your shoulder seam.
 
-Sur l'encolure d'un T-shirt typique, la courbe à l'arrière de votre nuque est différente de celle de l'avant, et il y a probablement un virage un peu plus serré à l'approche des coutures des épaules.
+On a slight curve, the difference between the inner and outer edge is not so big, and a little bit of stretch is all you need. But on a tighter curve, the difference between the inner and outer edge of your binding will be more significant. And you'll need more stretch to accomodate for that.
 
-Sur une courbe légère, la différence entre les bords interne et externe n'est pas si grande, et un peu d'étirement est tout ce dont vous avez besoin. Mais sur une courbe plus marquée, la différence entre les bords interne et externe de votre biais sera plus conséquente. Et vous aurez besoin de plus d'étirement pour l'accommoder.
+So as you follow your seam, and it curves around necklines, or shoulders, or design features, you will have to adapt the amount of stretch to the situation.
 
-En suivant votre couture, et ses courbes autour de l'encolure, ou des épaules, ou des éléments de conception, vous aurez à adapter la quantité d'étirement à la situation.
+## You cannot calculate the length of your knit binding
 
-## Vous ne pouvez pas calculer la quantité exacte de biais dont vous aurez besoin
-Je ne dis pas que c'est théoriquement impossible. Mais je dis que c'est impossible d'un point de vue pratique.
+I am not saying it is theoretically impossible. But I am saying that it is practically impossible.
 
-La longueur de votre biais dépend de la quantité de laquelle il aura à être étiré. Cela dépend des courbes que vous devez suivre, de la largeur du biais, sans parler de sa propre élasticité. Il y a juste trop de paramètres à prendre en compte pour calculer la longueur exacte du biais.
+The length of your knit binding depends on the amount it needs to be stretched. This depends on the curves you have to follow, and the width of the binding, not to mention the strength of its stretchiness. There's just too many parameters to take into account to calculate your binding length accurately.
 
-### Ne faites pas ça
-Il y a une tonne de tutoriels sur internet qui montrent comment poser un biais en tricot. 
-La plupart suggère quelque chose d'approchant : prendre un biais d'une longueur de 90% de la longueur du tissu auquel vous le fixez (le pourcentage varie).
+### Do not do this
 
-L'idée est de couper votre biais, d'en joindre les bouts, puis de le coudre dans l'ouverture. Ce n'est pas (à mon avis) une bonne idée.
+There are a bunch of tutorials out on the internet that show you how to sew on knit binding. Many of those suggest something like *make the neck binding 90% of the length of the seam you are attaching it to* (the percentage varies).
 
-Un approche alternative pour contourner ce problème de longueur est de fixer le biais avant de fermer l'ouverture dans laquelle votre biais va aller. 
-Par exemple, sur un T-shirt dont vous voulez finir une couture d'épaule, fixer votre biais, puis fermer la seconde couture d'épaule.
+This idea is that you cut your binding, join its edges, and then sew it in the opening. That is (in my opionion) no good.
 
-Evidemment, cela signifie que votre couture d'épaule va couper à travers votre biais ce qui est hors de question selon moi.
+An alternative approach to sidestep the length issue is to attach the binding before you close the opening your binding goes in. For example, on a Tshirt you close one shoulder seam, attach binding, then close the second shoulder seam.
 
-### Au lieu de ça, faites ceci
+Obviously, that means your shoulder seam will cut through your binding which is a big no no in my book.
 
- - Coupez une longueur de biais égale à celle du tissu où il va être fixé. Pas 90%, mais 100%. De cette façon, vous savez qu'il va être trop long, mais c'est ce que l'on veut.
- - Marquez l'endroit où vous voulez que le biais soit joint (disons le centre de l'encolure dos) et placer votre biais 1cm avant ce point.
- - Commencez à coudre votre biais à 3 cm à peu près de ce point, et faites le tour. En faisant ça, veillez à ajuster l'étirement à ce que la courbe requiert. Il n'y a pas d'astuce pour ça, vous aurez à vous entraîner jusqu'à ce que cela devienne naturel pour vous.
- - Lorsque vous avez fait le tour et que vous vous rapprochez du point marqué, arrêtez-vous 3 cm avant.
- - Maintenant votre biais est fixé, à part sur une longueur de 6 cm au dos. Epinglez les deux bords de votre biais endroit contre endroit en leur donnant exactement la longueur nécessaire et les assembler.
- - Cousez les 6 cm restant de votre biais.
+### Instead, do this
 
-De cette façon, il n'y a pas d'hypothèse à faire sur la longueur de votre biais, et la couture du biais reposera bien là où vous voulez qu'elle repose.
+- Cut your binding as long as the seam it needs to be sewn into. Not 90%, but 100%. This way, you know it's going to be too long, and that's what we want.
+- Mark the place you want your binding to be joined (say center back of the neckline) and place your binding 1cm beyond this point.
+- Start sewing your binding about 3cm or so from this point, and go all the way around. While you do so, make sure to adjust the stretch to whatever the curve requires. There's no tricks for this, you'll have to practice until it comes natural to you.
+- When you make your way around and get close in to the point your marked, stop about 3cm before that.
+- Now you're entire binding is attached, apart from a 6cm or so stretch at the back. Pin both edges of your binding good sides together making is exactly as long as needed and sew them together.
+- Sew the remaining 6cm of your binding.
 
-> Pour des instructions détaillées, regardez [la documentation pour Aaron](/fr/docs/patterns/aaron/)
+This way, there is no guessing how long your binding should be, and the binding seam sits where you want it to sit.
+
+> For detailed instructions, check [the Aaron documentation](/en/docs/patterns/aaron/)
