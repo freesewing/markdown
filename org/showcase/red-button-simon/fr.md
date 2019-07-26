@@ -1,9 +1,11 @@
 ---
 date: 2017-04-03
-title: Joost fait Simon
+title: Joost does Simon
 img: showcase.jpg
-caption: Une chemise Simon par Joost
-patterns: [simon]
+caption: A Simon shirt by Joost
+patterns:
+  - simon
 author: joost
 ---
-Une chemise Simon à boutons contrastants rouges.
+
+A Simon shirt with red contrasting buttons.
