@@ -1,17 +1,15 @@
 ---
 date: 2018-08-13
-title: Un pantalon Theodore négligé
+title: Sloppy Theodore trousers
 img: showcase.jpg
-caption: "Pantalon Theodore"
-patterns: [theodore]
+caption: "Theodore Trousers"
+patterns:
+  - theodore
 author: cabi
 ---
 
-Ceci est une adaptation du patron Theodore. J'ai laissé de côté la fermeture éclair et les boutons. 
-A la place, j'ai mis un élastique dans la ceinture.
+This is a adaption of the Theodore pattern. I left out the zipper and the buttons. Instead of this I filled the waistband with a elastic.
 
-Le but de ce pantalon était d'avoir un pantalon sympa et un peu négligé pour la maison. 
-Mais avec ce tissu en lin et cette couleur, ce pantalon garde le chic classique du patron. 
-Maintenant je le porte au travail et pour les loisirs. 
+The intention of this trousers were to have a nice sloppy trousers at home. But with the linen fabric and its colour the trousers still hold the classic chic of the pattern. Now I wear them at work and funsies.
 
-![Une autre photo de ce pantalon en lin Theodore](/img/showcase/theodore-by-cabi/2.jpg)
+![Another picture from these linen Theodore trousers](/img/showcase/theodore-by-cabi/2.jpg)
