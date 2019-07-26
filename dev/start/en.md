@@ -1,54 +1,63 @@
 ---
 title: Getting started
-path: /en/docs/developer/start
 ---
 
-Freesewing is a JavaScript library for made-to-measure sewing patterns.  
-Or, more generally, it is a toolbox for parametric design of 2D drawings.
+## Install Node.js
 
-## Building blocks
+FreeSewing is a JavaScript library, so the first thing you will need
+is [Node.js](https://nodejs.org/).
+If you don't have Node.js on your system, follow the link above and 
+install it on your system.
 
-Creating a pattern with freesewing is very much like 
-doing it on paper. You need all the same tools, but now they are code.
+## Create a freesewing pattern
 
-You use freesewing to develop **patterns**. You'll end up exporting a 
-[Pattern](/en/docs/developer/api/pattern) constructor method:
+Once you have Node.js installed, it only takes one command to 
+start a new FreeSewing pattern:
+
+```bash
+npm init freesewing-pattern@beta
+```
+
+<Note>
+
+The `@beta` in the end is required while FreeSewing v2 is still
+in beta. Once we release 2.0, it won't be needed
+
+</Note>
+
+It will ask your a number of question to prepare your pattern.
+
+If you're not sure what to fill in, stick with the defaults.
+
+You can change all of these later. It's just to get you started.
+
+Behind the scenes, we'll pull in a bunch of software to bootstrap 
+your development environment. Things like webpack, react, and a 
+complete frontend to facilitate your development. This step can
+take a few minutes to complete.
+
+Once you're ready, you will have a directory that holds your
+pattern source code in the `scr` folder, and its configuration
+in the `config` folder.
+
+In addition, you'll see an `example` folder to help your while developing.
+
+## Start the development environment
+
+Now you need to run two commands in two different terminals (because 
+they need to be running side by side):
+
+ - In the newly created folder that bears the name of your pattern, run `npm start`
+ - In the `example` subfolder within, also run `npm start`
+
+Your browser will spin up and open http://localhost:3000 
 
 
-![Freesewing building blocks](./buildingblocks.svg)
+That's it. You got started. Here are some links to continue reading:
 
-A pattern comes with a [configuration](/en/docs/developer/config) and 
-a [store](/en/docs/developer/api/store) and acts as a container for your
-pattern [parts](/en/docs/developer/api/part).
-
-The main work is done in these **parts**. They hold the actual information, 
-that make up your pattern. The [points](/en/docs/developer/api/point) that 
-we need to draw the [paths](/en/docs/developer/api/path) and perhaps 
-some [snippets](/en/docs/developer/api/snippet) too. They are reusable 
-embelishments that you can add to your pattern. Like a notch, or a button, and so on.
-
-In a typical scenario, your pattern will be instantiated with a bunch of 
-user settings, after [drafting and rendering it](#draftvsrender), it will come out on the other end
-as SVG.
-
-## Inheritance
-
-Sewing patterns are rarely designed from scratch. A pattern is typically based on 
-a block or sloper, or on another pattern.
-A western shirt pattern might be based on a button-down shirt pattern, which in turn
-is based on a menswear block, you get the idea.
-
-In software, we call this *inheritance*. You may want to design your own pattern
-starting from nothing, but often, you can get started from something that's already halfway
-to where you want to go.
-
-For example, Freesewing's Jaeger pattern is based on Bent, which in turn is based on Brian.
-
-## Options
-
-When we draw a pattern on paper, things are the way they are. When we code a pattern, 
-we have the option to provide choices. Long sleeves? Short sleeves? Bit more ease in
-the waist, or fitted like a glove?
-
-You can learn about all the types of options freesewing supports in
-the [configuration](/en/docs/developer/config) documentation.
+ - [Tutorial](/tutorial): A step-by-step guide to designing your first pattern
+ - [API reference](/): Documentation for the FreeSewing API
+ - [Concepts](/concepts): A list of basic concepts explained
+ - [Advanced guides](/advanced): Guides on more advanced topics
+ - [Plugins](/plugins): A list of all the plugins that you can use in your pattern
+ - [Get help](/help): Where to turn to with your questions

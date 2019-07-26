@@ -1,8 +1,3 @@
 ---
-title: Making Penelope
-path: /en/docs/patterns/penelope
+title: Penelope pencil skirt
 ---
-
-> #### This documentation is incomplete
-> Penelope is a new release and lacking documentation.  
-> We hope to add it soon.

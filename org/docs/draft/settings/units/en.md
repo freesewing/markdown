@@ -1,7 +1,5 @@
 ---
 title: Units
-path: /en/docs/draft/settings/units
-setting: units
 ---
 
 This controls the units used (by the text) on the pattern. 

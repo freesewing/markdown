@@ -1,7 +1,5 @@
 ---
 title: Language
-path: /en/docs/draft/settings/locale
-setting: locale
 ---
 
 This determines the language used on your pattern.

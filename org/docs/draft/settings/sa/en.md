@@ -1,7 +1,5 @@
 ---
 title: Seam allowance
-path: /en/docs/draft/settings/sa
-setting: sa
 ---
 
 This controls whether you want seam allowance or not.

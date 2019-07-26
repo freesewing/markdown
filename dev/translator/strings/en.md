@@ -1,7 +1,5 @@
 ---
-path: /en/docs/translator/strings
 title: Translating strings
-
 ---
 
 Translating strings (or making changes to the translated strings)

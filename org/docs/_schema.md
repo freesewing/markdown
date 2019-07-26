@@ -1,6 +1,5 @@
 ---
 title: GraphQL documentation schema
-path: /en/docs/schema
 measurement: chestCircumference
 patternOptions: aaron
 pattern: aaron
