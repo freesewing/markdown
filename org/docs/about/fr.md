@@ -1,44 +1,33 @@
 ---
-title: A propos de freesewing
-path: /fr/docs/about
+title: About FreeSewing
 ---
-Freesewing est une plateforme ouverte de patrons de couture sur mesure.
 
-Ceci signifie que si vous êtes là pour des patrons de couture, vous avez frappé à la bonne porte.
-Sauf qu'il ne s'agit pas d'un site de patrons de couture ou d'une société comme les autres.
-Il y a quelques différences, en particulier :
+FreeSewing is an open source platform for made-to-measure sewing patterns.
 
-## Freesewing est un projet ouvert géré par une communauté, pas par une société
+What that means is that if you are here for sewing patterns, you came to the right place. However, this isn't your average sewing pattern site or company. There's a few important differences, specifically:
 
-Freesewing est un projet ouvert. 
-Tous nos patrons, mais aussi notre plateforme et cerise sur le gâteau, même notre site web sont 
-[disponibles sur GitHub](https://github.com/freesewing).
+## Freesewing is an open source project run by a community, not a company
 
-Il n'y a aucune société cachée derrière, ou liée de quelque façon que ce soit à freesewing. 
-Ceci est possible grâce au dur labeur de nos contributeurs et au soutien financier de nos mécènes.
+Freesewing is an open source project. All of our patterns, but also our platform and even this website are freely [available on GitHub](https://github.com/freesewing).
 
-## Nous fournissons des patrons sur mesure
+There is no company behind, or linked to, freesewing. This is possible due to the hard work of our contributors, and the financial support of our patrons.
 
-Tous nos patrons de coutures sont faits sur mesure. Ce qui signifie qu'avant de télécharger un patron,
-vous devez nous donner ces mesures. Pour ça, vous créez **un mannequin**.
-C'est la liste des mensurations de la personnes pour qui vous souhaitez réaliser un vêtement (ça pourrait être pour vous-même comme ça pourrait être pour quelqu'un d'autre).
+## We provide made-to-measure sewing patterns
 
-Nous utilisons les mesures de votre mannequin, et nous les combinons avec un de nos patrons pour créer **une ébauche**.
+All of our sewing patterns are made-to-measure. Which means that before you can download a pattern, you have to give us those measurements. For this, you create **a model**. It's a list of measurements for the person you're making your garment for (could be yourself, could be someone else).
 
-Cette ébauche est ce que vous allez télécharger au final. 
+We use the measurements of your model, and combine them with one of our patterns to create **a draft**.
 
-## Freesewing est une plateforme
+This draft is what you'll end up downloading.
 
-Une plateforme est un support sur lequel vous construisez des choses, et c'est ce que nous souhaiterions voir.
+## Freesewing is a platform
 
-Vous avez peut-être atterri ici pour nos patrons, mais nous mettons également à votre disposition les outils et la documentation pour vous laissez exprimer votre potentiel de créateur 
-et ajouter vos propres patrons.
+A platform is something on which you build things, and that's what we'd like to see.
 
-Puisque nos patrons sont implémentés dans un code, ils requièrent à la fois des compétences en programmation et en patronage.
-Une telle association de compétences n'étant pas souvent concentrée dans une même personne, nous encourageons vivement
-la collaboration entre développeurs et modélistes.
+You might be here for our patterns, but we also provid the tools and documentation for designers to add their own patterns.
 
-Faites un saut sur [notre chat sur Gitter](https://gitter.im/freesewing/freesewing) pour trouver des personnes
-partageant les mêmes aspirations que vous, avec qui vous pouvez faire équipe pour ajouter de nouveaux patrons fantastiques à notre bibliothèque grandissante.
+Since our patterns are implemented in code, they require both coding and pattern design skills. Such diverse skillsets are not often found in the same person, which is why we recommend collaboration between a developer and a pattern designer.
 
-C'est également le meilleur endroit où aller si vous avez de plus amples questions.
+Stop by [our chatroom on Gitter](https://gitter.im/freesewing/freesewing) to find like-minded people you can team up with to add some great new patterns to our growing library.
+
+It's also the best place to turn to should you have further questions.
