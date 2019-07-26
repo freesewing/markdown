@@ -1,37 +1,31 @@
 ---
-title: Infos de contact
-path: /fr/docs/contact
-nocomments: true
+title: Contact info
 ---
-Vous disposez de plus d'un moyen pour nous contacter. Voici les options, rangées par ordre décroissant d'efficacité d'échelle.
 
-## Chatter avec nous sur Gitter
+You can contact us in more than one way. Here are the options, ranked by how well they scale:
 
-La communauté freesewing sur Gitter est le meilleur endroit pour poser des questions, rencontrer d'autres 
-freesewers, ou bien juste passer un bon moment et rigoler un peu.
+## Chat with us on Gitter
 
- - [Chatter avec nous sur Gitter](https://gitter.im/freesewing/freesewing)
+The freesewing community on Gitter is the best place to ask questions, meet other freesewers, or just hang out and share a laugh.
 
-## Faire remonter un problème sur GitHub
+- [Chat with us on Gitter](https://gitter.im/freesewing/freesewing)
 
-Vous avez remarqué une erreur ? Ou bien vous avez une suggestion d'amélioration ? 
-Merci de
- - [Faire remonter un problème sur GitHub](https://github.com/freesewing/site/issues/new). 
+## Create an issue on GitHub
 
-Vous aurez besoin pour cela d'un compte GitHub que vous pouvez créer gratuitement.
+Did you spot a mistake? Did something go wrong, or do you have a suggestion for an improvement? Please file an issue on GitHub. You'll need a GitHub account, but they are free.
 
-## Freesewing sur les réseaux sociaux
+- [Create an issue on GitHub](https://github.com/freesewing/website/issues/new)
 
-Vous pouvez également nous joindre sur les réseaux sociaux, sans parler de nous suivre ou de nous liker dessus.
+## Freesewing on social media
 
- - [@freesewing_org sur Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
- - [@freesewing_org sur Instagram](https://www.instagram.com/freesewing_org/)
- - [Freesewing page sur Facebook](https://facebook.com/freesewing.org)
+You can also reach us on social media, not to mention follow or like us.
+
+- [@freesewing_org on Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
+- [@freesewing_org on Instagram](https://www.instagram.com/freesewing_org/)
+- [Freesewing page on Facebook](https://facebook.com/freesewing.org)
 
 ## E-mail
 
-Envoyer un email à [Joost](mailto:joost@decock.org?subject=Freesewing) 
-ou [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
+Send an email to [Joost](mailto:joost@decock.org?subject=Freesewing) or [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
 
-> Cette dernière option ayant peu d'envergure, vous devriez considérer les autres options dans un premier temps.
-
+> This option does not scale very well, so you might want to consider the other options first.
