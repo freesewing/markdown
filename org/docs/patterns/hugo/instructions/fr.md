@@ -1,162 +1,159 @@
 ---
-title: Réaliser Hugo
-path: /fr/docs/patterns/hugo
+title: Making Hugo
+path: /en/docs/patterns/hugo
 ---
 
-> #### Documentation en construction
-> Tout d'abord la bonne nouvelle : il y a une série de vidéos (en anglais) qui montrent comment réaliser Hugo du début à la fin.
-> Allez un peu plus bas, c'est intégré dans cette page.
->
-> Maintenant la mauvaise nouvelle : les instructions écrites pour Hugo ne sont pas encore complètes.
+> #### Documentation under construction
+> 
+> First the good news: There's a video series that shows how to make Hugo from start to finish. Scroll down, it's embedded in this page.
+> 
+> Now the bad news: The written instructions for Hugo are not complete yet.
 
-## Vidéo
-Le texte est un peu sec pour vous ? J'essaie de faire des vidéos disponibles comme partie de la documentation des patrons.
+## Video
 
-Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche du début à la fin :
+Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+
+This 6-episode series shows you how to make your hoodie start to finish:
 
 @[youtube](https://www.youtube.com/playlist?list=PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO)
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Hugo, vous aurez besoin de ce qui suit :
+To make Hugo, you will need the following:
 
-- Fournitures de base pour la couture
-- Environ 2 mètres d'un tissu adapté ([voir les Options de tissu](#options-de-tissu))
-- Tissu de finition pour l'ourlet et les poignets (bord côte)
+- Basic sewing supplies
+- About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- Ribbing fabric for the hem and cuffs
 
-## Options de tissu
+## Fabric options
 
-Vous pouvez peut-être trouver un rayon consacré aux tissus pour sweatshirt et survêtement dans le magasin de tissu de votre choix. Sinon, allez à la section maille et cherchez une maille plus épaisse et confortable.
+You may find a dedicated sweatshirt/tracksuit fabric section in your fabric store of choice. If you don't, just head for the knitwear section and look for a thicker comfortable knit fabric.
 
-Pour ce qui est des fibres, vous pouvez choisir du tout coton, ou opter pour un mélange polycoton ou acrylique/coton.
+As far as fibers go, you can go all cotton, or opt for a poly or acryl cotton blend.
 
-Veillez à prêter attention à l'intérieur du tissu. Les tissus pour sweatshirt ont un envers bouclette ou brossé. Si vous voulez ce sentiment ce Oh-mon-Dieu-c'est-si-doux-contre-ma-peau, optez pour du brossé.
+Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come in loopback and brushed back. If you want that OMG-it-feels-so-soft-on-my-skin feeling, go for brushed.
 
-> Vous n'êtes pas obligé d'utiliser du tissu pour sweatshirt. D'autre options sont disponibles, depuis le neoprene avant-gardiste (dit scuba) à un choix à faire un peu plus hausser les sourcils comme du velours.
+> You don't have to use sweatshirt fabric. Other options are available, from fashion-forward neoprene (aka scuba) to a more eyebrow-rising choice like crushed velour (aka velvet).
 > 
-> Ou si vous avez totalement abandonné la classe, vous pourriez pencher vers la fourrure.
+> Or if you have given up on class, you could go for fleece.
 
-## Découpe
+## Cutting
 
- - **Tissu principal**
-   - Coupez **1 devant** au pli
-   - Coupez **1 dos** au pli
-   - Coupez **2 manches**, endroit contre endroit
-   - Coupez **1 poche** au pli
-   - Coupez **2 parements de poche**, endroit contre endroit
-   - Coupez **4 côtés de capuche**, 2x2 endroit contre endroit
-   - Coupez **2 centres de capuche**, endroit contre endroit
-   - Coupez **1 biais d'encolure**
- - **Tissu de bordure**
-   - Coupez **2 poignets**
-   - Coupez **1 ceinture**
+- **Main fabric** 
+ - Cut **1 front** on the fold
+ - Cut **1 back** on the fold
+ - Cut **2 sleeves**, good sides together
+ - Cut **1 pocket** on the fold
+ - Cut **2 pocket facing(s)**, good sides together
+ - Cut **4 Hood side(s)**, 2x2 good sides together
+ - Cut **2 hood center(s)**, good sides together
+ - Cut **1 neck binding**
+- **Ribbing** 
+ - Cut **2 cuff(s)**
+ - Cut **1 waistband**
 
-### Mises en garde
+### Caveats
 
-**manche** 
-  - Il y a un unique cran sur le devant, et un double cran à l'arrière. Ces crans ont une correspondance sur les parties devant et dos respectivement.
-**parement de poche** et **capuche**
-  - Faites attention au droit-fil sur ces parties
+**sleeve**
 
-Parce que les manches raglan de Hugo couvrent une portion du dos et du devant,
-elles sont les éléments principaux de votre ébauche.
+- There's a single notch at the front, and a double notch at the back. These notches match on the front and back parts respectively. **pocket facing** and **hood**
+- Watch out for the grainlines on these parts
 
-Ci-dessous la mise en page typique d'une ébauche Hugo :
+Because Hugo's raglan sleeve also covers a portion of the back and front, the sleeve is the dominant feature of your draft.
 
-![Une ébauche typique de Hugo](layout.svg)
+Below is a typical draft layout:
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les marquages et des lignes de votre ébauche.
+![A typical Hugo draft](layout.svg)
+
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
+### Step 1: Prepare the Pocket
 
-### Etape 1 : Préparer la poche
+- Place the Pocket Facing pieces together with the edges of the Pocket piece, good sides together.
+- Stitch the facing pieces to the pocket with a 1cm seam allowance. Stitch both the long edge, and the shorter edge at the bottom of the pocket.
+- Carefully trim the seam allowance on the facing pieces.
+- Flip and turn the facing pieces good sides out. Then hand-roll and press the seams.
+- Topstitch or edge-stitch ½ cm along both upper and lower edges on each side of the pocket, to anchor the facing and the seam allowance.
+- Topstitch another line ½ from the inside upper edge of the facing on each side of the pocket. This topstitch line will end at the lower edge stitch line.
+- Trim away the excess facing on the inside of the pocket.
+- Press the edges.
 
- - Placez les pièces de  parement de poche ensemble avec les bords de la pièce de poche, endroit contre endroit.
- - Piquez les pièces de parement à la poche avec une marge de couture d'1 cm. Piquez les bords longs et le bord court au bas de la poche.
- - Découper les surplus de couture avec attention sur les pièces de parement.
- - Retournez au bon endroit les pièces de parement.Roulez à la main et repassez les coutures.
- - Surpiquez ou faites une piqûre de bordure à ½ cm le long des bords supérieur et inférieur sur chaque côté de la poche, pour ancrer le parement et la marge de couture.
- - Surpiquez une autre ligne ½ cm depuis le bord supérieur interne du parement sur chaque côté de la poche. Cette ligne de surpiqûre finira à la ligne de points au bord inférieur.
- - Découpez le surplus de parement à l'intérieur de la poche.
- - Repassez les bords.
+### Step 2: Attach the Pocket
 
-### Etape 2 : Fixer la poche
+- Match the Pocket to the front, good sides together.
+- The upper pocket seam line is marked by notches on the pattern. The pocket bottom edge should point towards the neckline. Align the pocket edges horizontally with the notches on the pattern. Overlap the top of the pocket over the seam line by a little less than 1 cm seam allowance.
+- Stitch the top seam of the Pocket to the Shirt Front.
+- Flip the pocket over the seam line so the bottom now lines up with the edge at the waist.
+- Using a long basting stitch (4mm or longer), baste the pocket into place at the waist, with a ½ cm seam allowance. This is optional, but keeps the pocket in place while you work on the rest of the shirt.
 
- - Faites correspondre la poche sur le devant, endroit contre endroit.
- - La ligne de couture supérieure de la poche est marquée par des crans sur le patron. Le bord inférieur de la poche devrait pointer vers l'encolure. Alignez les bords de poche horizontalement avec les crans sur le patron. Faites chevaucher le haut de la poche par dessus la ligne de couture sur un peu moins de 1 cm de marge de couture.
- - Piquer la couture supérieure de la poche au devant du vêtement.
- - Rabattez la poche par dessus la ligne de couture pour que le bas s'aligne à présent avec le bord au niveau de la taille.
- - Utilisez un long point de bâti (4 mm ou plus), bâtissez la poche en place à la taille, avec ½ cm de marge de couture. C'est optionnel, mais cela garde la poche en place tandis que vous travaillez sur le reste du vêtement.
+### Step 3: Attach the Sleeves
 
-### Etape 3 : Assembler les manches
+- The side of the sleeve with the pointy edge at top is the back of the sleeve piece. It is also marked by a double notch on the pattern.
+- Match good sides of the sleeve seam to good sides of the front, matching the single notch on front to single notch on the sleeve piece. Stitch the seam. Do this for both sleeve pieces.
+- To finish the seam, you can use one of these methods:
+    
+ - Use a serger to sew and finish the seam in one step. This is fast and convenient, but produces a less-refined look.
+ - If you do not have a serger, or would like a more refined look, sew a seam with a straight stitch on your conventional machine. Press the seam allowances apart on the wrong side. Then, edgestitch along both sides of the seam from the right side. Finally, trim the excess seam allowance. This produces a refined look, but takes longer.
+ - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch. Finally, trim the excess seam allowance. This simulates what a serger would do, and is quicker than option (2).
+- Match the good sides of the sleeve to the good sides of the back, matching the double notch on back to the double notch on the sleeve seam. Stitch the seam, then finish the seams as you did for the front.
 
- - Le côté de la manche avec le bord pointu en haut est l'arrière de la manche. Il est également marqué avec un double cran sur le patron.
- - Faites correspondre l'endroit de la manche avec l'endroit du devant, en vous aidant du cran unique sur chaque pièce. Piquez pour assembler. Faites ceci pour les manches.
- - Pour finir la couture, vous pouvez utiliser une de ces méthodes :
+### Step 4: Close the Sides
 
-   - Utilisez une surjeteuse pour coudre et finir la couture en une étape. C'est simple et pratique, mais cela produit un aspect moins raffiné.
-   - Si vous n'avez pas de surjeteuse, ou si vous désirez un aspect plus raffiné, cousez avec un point droit sur votre machine à coudre conventionnelle. Ouvrez les coutures sur l'envers. Puis, faites une piqûre de bordure le long des deux côtés de la couture sur l'endroit. Finalement, découpez le surplus de couture. Cela produit un aspect plus raffiné, mais prend plus de temps.
-   - Une autre option sans surjeteuse est de coudre avec un point droit. Puis cousez ensemble les marges de couture avec une ligne additionnelle de zig-zag le long de la piqûre droite. Enfin, découpez le surplus de couture. Cela simule ce que fait une surjeteuse, mais est plus rapide à mettre en oeuvre que l'option (2).
+- Match the good sides together along sides and sleeves.
+- Stitch the side seam and the sleeves together in one long seam, starting at the waist and going all the way through to the end of the sleeve. You can stop at the underarm point to change colors for the sleeve, if your design calls for it.
+- Finish the seam allowances as you did in step 2. If you finish the sleeves with the edgestitch method, you will need to go slow for finishing the sleeve seam, as you will be .sewing in the tunnel..
 
- - Faites correspondre l'endroit des manches avec l'endroit du dos, à l'aide des doubles crans sur ces pièces. Piquez, et finissez les coutures comme vous l'avez fait pour le devant.
+### Step 5: Add a Drawstring to the Hood (Optional)
 
-### Etape 4 : Fermer les côtés
+- Take one matching set of the Hood Side pieces, that you intend to feature on the outside of the finished hoodie.
+- Mark the place for a hole on each side hood piece, along the rim.
+- The hole should be located about 1.5-2cm from the edge of the fabric. This is to allow for the seam allowance, as well as for the hood
+- The hole should be located above the notch on the hood rim. The notch shows where the sides of the hood overlap at center front , so the cord should exit above that point.
+- You can consider using the buttonhole feature of your sewing machine, if it has one, to sew a buttonhole at this point.
+- Cut open a hole at the points you marked.
+- After the hood is prepared, you can run a cord around the front edge of the hood. Sneaker shoelaces work well for this.
 
- - Faites correspondre les côtés endroits le long des côtés et des manches.
- - Piquez la couture du côté et de la manche en une seule longue couture, en démarrant de la taille jusqu'au bout des manches. Vous pouvez arrêter au niveau de l'aisselle pour changer de couleur pour la manche, si votre modèle le nécessite.
- - Finissez les marges de couture comme vous l'avez effectué à l'étape 2. Si vous finissez les manches avec la méthode des piqures de bordure, vous devrez procéder lentement étant donné que vous allez coudre à l'intérieur d'un tunnel.
+### Step 6: Prepare Inside and Outside Hood
 
-### Etape 5 : Ajouter un cordon de serrage à la capuche (Optionnel)
+> Follow this set of steps twice, once for the outer hood and again for the inside hood.
 
- - Prenez un set de pièces côté de capuche, que vous comptez de faire apparaître à l'extérieur de votre vêtement fini.
- - Marquez l'emplacement d'un trou sur chaque pièce côté de capuche, le long du bord.
- - Le trou doit être placé à environ 1.5-2cm du bord du tissu. Ceci pour laisser une marge de couture, et aussi pour la capuche.
- - Le trou devrait être placé au-dessus du cran sur le bord de la capuche. Ce cran montre où les côtés de la capuche chevauchent le milieu devant, pour que le cordon sorte au dessus de ce point.
- - Vous pouvez considérer l'utilisation de la fonctionnalité boutonnière de votre machine à coudre, si elle en a une, pour coudre une boutonnière à cet endroit.
- - Faites des trous aux emplacements marqués.
- - Après avoir préparé la capuche, vous pouvez mettre un cordon autour du bord avant de la capuche. Des lacets de baskets peuvent tout à fait convenir.
+- Run a Center Panel piece around one outer edge of the Hood Side, good sides together, and pin in place. Stitch.
+- Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
+- Press the seam allowances, and finish them as in Step 2. Trim the seam allowances.
 
+### Step 7: Join Inside and Outside Hood
 
-### Etape 6 : Préparer l'intérieur et l'extérieur de la capuche
+- With both hoods inside out, put them on top of each other, good sides together.
+- Align the center panel seams and pin.
+- Stitch along the outer edge of the hood with a 1cm seam allowance. Do not trim the seam allowance.
+- Flip the hood pieces right side out, then press the outer edge flat.
+- Topstitch along the edge of the hood, about 1.5-2 cm from the edge. Ensure that you go beyond the seam allowance, and that it is not caught in this line of stitching. This creates a decorative rim. The enclosed seam allowance helps make the rim a bit poofy.
+- To close the hood, serge together the bottom layers along the neckline. If you do not have a serger, use a zig-zag stitch.
+- (Optional) If you added holes for a drawstring, you can thread the drawstring now.
 
-> Suivez cet ensemble d'instructions deux fois, une fois pour la capuche externe et une autre pour la capuche interne.
+### Step 8: Attach the Hood
 
- - Placez une pièce panneau central autour d'un bord externe de côté de capuche, endroit contre endroit, et l'épinglez en place. Piquez.
- - Epinglez la pièce panneau central autour du bord externe restant de la capuche, endroit contre endroit. Piquez.
- - Ouvrez les coutures au fer, et les finir comme à l'étape 2. Découpez les surplus de couture.
+- Place good sides together on the neck binding piece, then sew a 1cm seam allowance along the short side to make the binding into a circular band.
+- Starting from the back, match the outside of the hood to the right side of the neckline. Align the hood panel to the back of the neckline.
+- Working around to the front, pin the hood to the neckline.
+- Match the good side of the neck binding to the outer neckline (this will be the inside of the hood). Pin the binding to the hood.
+- Serge or zig-zag all layers together with 1cm seam allowance. Check around the neckline to make sure all layers were caught by the stitching.
+- Reinforce the points where the neckline intersects with the sleeve seams. Use a straight stitch on the sewing machine to stabilize these seams.
+- Fold the binding over the raw edge of the neckline, and pin.
+- From the outside, topstitch along and approx 1cm away from the neck edge to catch and secure the binding. You should be able to use a straight stitch here as long as the neck fits somewhat loosely when you try it on. If the neck fits snug, then use a zigzag stitch.
+- Trim excess binding from the inside.
 
-### Etape 7 : Assembler l'intérieur et l'extérieur de la capuche
+### Step 9: Attach the Cuffs and Waistband
 
- - Avec les deux capuches sur l'envers, placez les l'une au dessus de l'autre endroit contre endroit.
- - Aligner les coutures du panneau central et épinglez.
- - Piquer le long du bord externe de la capuche avec une marge de couture d'1 cm. Ne coupez pas la marge de couture.
- - Retournez les pièces de capuches à l'endroit, et aplatir le bord externe au fer.
- - Surpiquer le long de la capuche à environ 1,5-2 cm du bord. Assurez-vous d'aller au delà de la marge de couture, et qu'elle ne soit pas prise dans cette ligne de piqûre. Cela crée une bordure décorative. La marge de couture incluse aide à rendre la bord plus volumineux.
- - Pour fermer la capuche, surjetez ensemble les couches du bas le long de l'encolure. Si vous ne possédez pas de surjeteuse, utilisez un point zig-zag.
- - (Optionnel) Si vous avez ajouté des trous pour un cordon, vous pouvez le mettre en place maintenant.
-
-### Etape 8 : Fixer la capuche
-
- - Mettez endroit contre endroit sur le biais d'encolure, puis cousez à 1 cm le long du côté court pour rendre le biais circulaire.
- - En commmençant par le dos, faites correspondre l'extérieur de la capuche avec l'endroit de l'encolure. Alignez le panneau de la capuche à l'arrière de l'encolure.
- - En travaillant autour du devant, épinglez la capuche à l'encolure.
- - Faites correspondre l'endroit du biais d'encolure avec l'encolure externe (cela sera l'intérieur de la capuche). Epinglez le biais à la capuche.
- - Surjetez ou zigzaguer toutes les couches ensemble avec 1 cm de marge de couture. Vérifiez autour de l'encolure que toutes les couches soient bien prises dans la couture.
- - Renforcez les points où l'encolure croise les coutures des manches. Utilisez un point droit sur la machine à coudre pour stabiliser ces coutures.
- - Pliez le biais par dessus le bord cru de l'encolure, et épinglez.
- - Depuis l'extérieur, surpiquez le long et à approximativement 1 cm du bord de l'encolure pour prendre et fixer le biais. Vous devriez pouvoir utiliser un point droit ici du moment que l'encolure s'ajuste sans serrer lorsque vous essayez le vêtement. Si le cou est très ajusté, alors utilisez un point zigzag.
- - Coupez les excédents à l'intérieur.
-
-### Etape 9 : Assembler les poignets et la ceinture
-
- - Si le bord côte est léger ou fin, vous pouvez couper les poignets et la ceinture sur une longueur deux fois plus grande, puis les plier en deux sur eux-mêmes.
- - Placez endroit contre endroit les poignets et la ceinture, puis cousez à 1 cm le long du bord court pour en faire des bandes circulaires.
- - Pliez le long des bords longs pour transformer les poignets et la ceinture en des tubes de double épaisseur. Cousez ou surjetez le long des bords ouverts pour fermer.
- - Alignez la couture sur le poignet sur la couture sur la manche. Epinglez, endroit contre endroit.
- - Epinglez le côté opposé.
- - Surjetez (ou zigzaguer) le bord côte au poignet, en étirant gentiment jusqu'à ce que le bord côte et le poignet soient de même longueur. Retirer les épingles avant qu'elles ne soient en contact de la surjeteuse.
- - Découpez le bord inférieur de la poche si elle dépasse du bord de la ceinture.
- - Assurez-vous que le bord côte soit mis aussi uniformément que possible autour de la ceinture.
- - Surjetez ou zigzaguer le bord côte à la ceinture, de nouveau en étirant gentiment jusqu'à ce que le bord côte et la ceinture soient de même longueur. Piquer avec la capuche au dessus de façon à pouvoir la voir se faire prendre dans la couture.
- - Surpiquez les bords inférieurs des poches au corps du sweatshirt pour ancrer le bas des poches.
+- If the ribbing is light or thin, you can cut the cuff and waistband pieces twice as high, then double-fold them.
+- Place good sides together on the cuffs and waistband pieces, then sew a 1cm seam allowance along the short side to make them into circular bands.
+- Fold along the long side to make cuffs and waistband into double-thick tubes. Sew or serge along the open edges to close.
+- Align the seam on the cuff to the seam on the sleeve. Pin, good sides together.
+- Pin the opposite side.
+- Serge (or zig-zag stitch) the ribbing to the cuff, stretching gently until the ribbing and cuff are the same length. Remove pins before they enter the serger.
+- Trim the bottom edge of the pocket if it extends past the waistband edge.
+- Ensure the ribbing is gathered as uniformly as possible around the waistband.
+- Serge or zig-zag the waistband, again gently stretching untill the ribbing and waistband are the same length. Stitch with the hoodie on top so you can see it gets caught in the seam.
+- Topstitch the lower pocket edges to the body of the shirt to anchor the bottom of the pocket.
