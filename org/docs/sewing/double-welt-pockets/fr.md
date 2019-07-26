@@ -1,239 +1,230 @@
 ---
-title: Poche passepoilée double
-path: /fr/docs/sewing/double-welt-pockets
+title: Double welt pockets
+path: /en/docs/sewing/double-welt-pockets
 ---
 
-> ##### Apprenez à faire des poches passepoilées avec David Page Coffin
->
-> L'édition de Novembre 2015 de  
-> [Seamwork Magazine](https://www.seamwork.com/) a une section appelée
-> [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt)
-> où David Page Coffin vous accompagne dans la construction de poches passepoilées.
->
-> David a écrit des livres variés sur la construction de pantalons et de chemises, 
-> il anime des cours de couture en ligne, ainsi que des ateliers à travers les Etats-Unis et à l'étranger.
->
-> David est un ami de ce site, et il est à tout point de vue bien plus pédagogue que moi.
+> ##### Learn welts with David Page Coffin
+> 
+> The November 2015 edition of [Seamwork Magazine](https://www.seamwork.com/) has a section called [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt) where David Page Coffin walks you through the construction of welt pockets.
+> 
+> David has written various books on trouser and shirt construction, teaches online sewing classes, and hosts workshops throughout the US, and abroad.
+> 
+> David is a friend of the site, and by all measures much better at explaining this than I am.
 
-## Vidéo
-> Le texte est un peu aride pour vous ? J'essaie de faire des vidéos disponibles au sein de la documentation des patrons.
+## Video
 
-La liste de lecture intégrée ci-dessous contient en deux parties les expications présentées ici
+> Text a bit dry for you? I try to make videos available as part of the pattern documentation.
 
-[Comment faire : Poches passepoilées doubles](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn).
+The embedded playlist below contains both parts in the [How to: Double welt pockets](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn) series.
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn)
 
-## Avant de commencer
+## Before you start
 
-### Ce dont vous avez besoin
+### What you need
 
-Pour faire des poches passepoilées doubles, vous aurez besoin de :
+To make double welt pockets, you will need:
 
- - Fournitures de base pour la couture
- - Le tissu ou la pièce de patron dans lequel vous voulez faire la poche
- - Deux bandes de tissu pour les passepoils
- - Une bande d'entoilage thermocollant
- - Doublure ou autre tissu approprié pour le corps de la poche (Voir les options de tissu et de couleur)
- - Triplure pour le corps de la poche, en fonction de votre tissu et des options de couleur
+- Basic sewing supplies
+- The fabric or pattern piece you want to make the pocket in
+- Two fabric strips for the welts
+- A strip of interfacing
+- Lining or other suitable fabric for the pocket bag (See fabric and colour options)
+- Facing for the pocket bag, depending on your fabric and colour options
 
-### Paramètres
+### Parameters
 
-Deux valeurs déterminent la taille de votre poche passepoilée double :
+Two values determine the size of your double welt pocket. They are:
 
- - La largeur de la poche : il s'agit de la largeur de l'ouverture de la poche passepoilée finale double
- - La hauteur du passepoil : c'est la hauteur d'un passepoil simple, soit la moitié de la hauteur de notre poche passepoilée double
+- The pocket width: This is the width of the opening of the finalized double welt pocket
+- The welt height: This is the height of a single welt, and this half of the height of our double welt pocket
 
-> Dans l'exemple ci-dessous, j'utilise une largeur de poche de 13 cm et une hauteur de passepoil de 0,5 cm.
+> In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
 
-## Découpe
+## Cutting
 
-### Passepoils de poche
+### Pocket welts
 
-Les passepoils sont deux bandes de tissu rectangulaires dans les dimensions suivantes :
+The welts are two rectangular strips of fabric with the following measurements:
 
- - Longueur : Largeur de poche + 4 cm
- - Largeur : Hauteur de passepoil x 2 + 5 cm
+- Length: Pocket width + 4cm
+- Width: Welt height x2 + 5cm
 
-Pour notre exemple :
+For our example:
 
- - Longueur : 13 + 4 = 17 cm
- - Largeur : (0.5 x 2) + 5 = 6 cm
+- Length: 13+4 = 17cm
+- Width: (0.5x2)+5 = 6cm
 
-Ils formeront les deux bandes étroites de tissu constituant la poche passepoilée double.
+They will form the two narrow strips of fabric that form your double welt pocket.
 
-> Veillez bien à respecter le droit-fil lors de la découpe des passepoils
+> Make sure to respect the grainline when cutting the two welts
 
-### Entoilage Thermocollant
+### Pocket interfacing
 
-L'entoilage de la poche est une bande rectangulaire d'entoilage thermocollant avec les dimensions suivantes :
+The pocket interfacing is a single rectangular strip of fusible interfacing with the following measurements:
 
- - Longueur : Largeur de poche + 4 cm
- - Largeur : Hauteur de passepoil x 2 + 5 cm
+- Length: Pocket widht + 4cm
+- Width: Welt height x2 + 5cm
 
-Pour notre exemple :
+For our example:
 
- - Longueur : 13 + 4 = 17 cm
- - Largeur : (0.5 x 2) + 5 = 6 cm
+- Length: 13+4 = 17cm
+- Width: (0.5x2)+5 = 6cm
 
-> Vous avez peut-être remarqué que l'entoilage est de même dimension qu'un passepoil
+> You may have noticed that the interfacing is the same size as a welt
 
-L'entoilage est utilisé pour stabiliser la poche, et sera fixé au tissu avec votre fer à repasser.
+The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
 
-### Optionnel : Triplure de la poche
+### Optional: Pocket facing
 
-La triplure (optionnelle) de la poche est une simple bande rectangulaire de tissu aux dimensions suivantes :
+The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
 
- - Longueur : Largeur de la poche + 4 cm
- - Largeur : Hauteur de passepoil x 2 + 5 cm
+- Length: Pocket width + 4cm
+- Width: Welt height x2 + 5cm
 
-Pour notre exemple :
+For our example:
 
- - Longueur : 13 + 4 = 17 cm
- - Largeur : (0.5 x 2) + 5 = 6 cm
+- Length: 13+4 = 17cm
+- Width: (0.5x2)+5 = 6cm
 
-> Vous avez peut-être remarqué que la triplure fait la même taille qu'un passepoil
+> You may have noticed that the facing is the same size as a welt
 
-La triplure est ce qui sera visible lorsque vous entrebailllerez l'ouverture de la poche.
+The facing is what you'll see when you peer through the opening of your pocket.
 
-La triplure est optionnelle, si vous n'en utilisez pas, entrouvrir la poche révèlera le tissu dans lequel le corps de la poche est fait.
+The facing is optional, if you do not use it, peering through the pocket will reveal whatever material the pocket bag is made from.
 
-### Corps de la poche
+### Pocket bag
 
-La forme du corps de la poche dépend du patron. 
-Pour faire simple, j'utiliserai un corps de poche rectangulaire avec des coins arrondis en bas comme vous pouvez en trouver pour les poches arrières de pantalons.
+The shape of the pocket bag depends on the pattern. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
 
-> Il y a en général une version longue et une version courte du corps de la poche. C'est parce qu'un côté est attaché au passepoil supérieur alors que l'autre côté est attaché au passepoil inférieur.
+> There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
 
 ## Construction
 
-### Etape 1: Thermocoller l'entoilage en place
+### Step 1: Fuse interfacing in place
 
-![Thermocoller l'entoilage en place](step01.png)
+![Fuse interfacing in place](step01.png)
 
-Thermocollez l'entoilage de poche sur l'envers du vêtement, de façon à ce qu'il couvre la zone où vous allez construire la poche passepoilée.
+Fuse the pocket interfacing to the bad side of your garment, so that it covers the place where you will make the welt pocket.
 
-> Les patrons ont généralement des crans de repère pour vous aider à déterminer l'emplacement d'une poche passepoilée
+> Patterns typically have notches that help you determine the placement of a welt pocket
 
-### Etape 2: Marquer la poche passepoilée sur l'endroit du tissu
+### Step 2: Mark the welt pocket on the good side of the fabric
 
-![Marquer la poche passepoilée sur l'endroit du tissu](step02.png)
+![Mark the welt pocket on the good side of the fabric](step02.png)
 
-Marquez la poche passepoilée comme ce qui suit :
+Mark the welt pocket as follows:
 
- - Marquez la largeur de la poche avec des lignes verticales. Laisser les dépasser pour vous aider à aligner plus tard les passepoils.
- - Alignez le centre de l'ouverture de la poche avec une ligne horizontale. Laisser la dépasser pour vous aider à aligner plus tard les passepoils.
- - Marquez deux lignes horizontales parallèles à la ligne centrale, avec un décalage égal à la hauteur de passepoil (0,5 cm dans notre exemple).
+- Mark the pocket width with the vertical lines. Let these lines extend to help you align the welts later
+- Align the center opening of the pocket with a horizontal line. Let it extend to help you align the welts later
+- Mark two horizontal lines parallel to the center line, at an offset equal to the welt height (0.5cm in our example)
 
-La partie des lignes horizontales parallèle à la ligne centrale qui se trouve entre les lignes verticales est la zone où nous allons coudre les passepoils. Elle est illustrée par la ligne rouge.
+The part of the horizontal lines parallel to the center line that fall in between the verticle lines is where we'll sew our welts in place. This is illustrated by the red lines.
 
-### Etape 3: Plier et repasser les passepoils
+### Step 3: Fold and press the welts
 
-![Plier et repasser les passepoils](step03.png)
+![Fold and press the welts](step03.png)
 
-Pliez les passepoils parallèlement au côté long, avec l'endroit du tissu à l'extérieur du pli.
+Fold the welts parallel with the long side, with the good side out.
 
-Ne les pliez pas en deux parties égales, mais pliez-les de façon à ce qu'un côté soit plus long que l'autre d'1 cm.
+Don't fold them in half. Instead make one side 1cm longer than the other.
 
-Repassez le pli jusqu'à ce qu'il soit bien net.
+Press the fold so that it becomes a sharp crease.
 
-> En décalant les bords, les bords des passepoils vont légèrement s'amenuiser, ce qui va réduire leur ampleur et leur visibilité sur l'extérieur du vêtement.
+> By offsetting the edges, the welt edge tapers off, which reduces bulk and visibility on the outside of the garment.
 
-### Etape 4: Coudre les passepoils en place
+### Step 4: Sew welts in place
 
-![Coudre les passepoils en place](step04.png)
+![Sew welts in place](step04.png)
 
-> Sur l'image, la ligne hachurée noire est le centre du passepoil. La ligne rouge montre où piquer.
+> In the images above, the dashed black line is the center of the welt. The red line shows where to sew, and the green line is a seam that has already been sewn.
 
-Placez le passepoil sur l'endroit du vêtement avec le bord plié le plus court vers le bas, et centrez-le horizontallement.
+Place the welt on the good side of your garment with the shorter folded side down, and center it horizontally.
 
-Alignez le côté plié avec le centre de la poche passepoilée, et à présent déplacez-le vers l'extérieur de deux fois la largeur de passepoil (WH sur le schéma).
+Align the folded side with the center of the welt pocket, and now shift it twice the Welt Height (WH) outwards.
 
-Dans notre exemple, avec une hauteur de passepoil de 0,5 cm, le pli de votre passepoil se situe à 1 cm du centre de la poche passepoilée.
+In our example with a Welt Height of 0.5cm, the fold of your welt lies 1cm from the welt pocket center.
 
-Cousez le passepoil en place 0,5 cm (WH) à partir du pli, ou en d'autres termes, précisément sur la ligne que vous avez marquée sur le vêtement.
+Sew your welt in place 0.5cm (WH) from the fold, or in other words, precisely on the line you marked on your garment.
 
-Veillez à commencer et finir la couture précisément sur les lignes verticales qui indiquent la longueur de la poche.
+Make sure to start and stop precisely on the vertical lines that indicate the pocket width.
 
-Lorsque vous avez fini, cousez le deuxième passepoil en place. Notez que cela sera un peu plus compliqué car vous devrez rabattre le premier passepoil et superposer une partie de votre second passepoil dessus.
+When you're done, sew the second welt in place. Note that this will be a bit more tricky as you'll have to fold back the first welt, and lay part of your second welt over it.
 
-### Etape 5: Ouvrir votre poche
+### Step 5: Cut open your pocket
 
-![Ouvrir la poche](step05.png)
+![Cut open your pocket](step05.png)
 
-> Sur l'image, la ligne rouge marque comment/où ouvrir la poche. 
+> In the image, the red line marks how/where to cut open your pocket, and the green line shows the seams.
 
-Ouvrez la poche passepoilée en coupant le long de la ligne horizontale centrale. Arrêtez-vous près des lignes verticales qui marquent les côtés de la poche et coupez à 45 degrés jusqu'au bord de votre ligne de piqûre qui maintient les passepoils.
+Cut open your welt pocket by cutting along the center horizontal line. Stop short of the vertical lines that mark the sides of the pocket and cut under 45 degrees to the edge of your line of stitching that holds the welts down.
 
-> Veillez bien à ne pas couper votre ligne de piqûre ou couper trop loin. Soyez précis. 
+> Make sure to not cut into your stitches or cut too far. Make it precise.
 
-### Etape 6: Retourner les passepoils de l'autre côté et repasser
+### Step 6: Flip the welts to the other side and press
 
-![Retourner les passepoils de l'autre côté et repasser](step06.png)
+![Flip the welts to the other side and press](step06.png)
 
-Vous avez cousu vos passepoils sur l'endroit du tissu. Maintenant, nous allons les retourner vers l'envers, à travers l'ouverture que nous venons de pratiquer dans le tissu.
+You have been sewing your welts to the good side of the fabric. Now, we are going to flip them to the back side, through the opening we just cut in the fabric.
 
-Retournez les passepoils et repassez-les. Prenez votre temps pour former le tissu en un rectangle net avant de repasser.
+Flip the welts to the back, and press them flat. Take your time to work the fabric into a neat rectangle before you press it down.
 
-> Veillez à repasser les pièces triangulaires de tissu (aux bords courts de l'ouverture) vers les côtés. 
+> Make sure to press the triangular pieces of fabric (at the short edge of your opening) to the side
+> 
+> You're pressing several layers of fabric. Consider pressing down (or open) the layers individually before pressing them together. This will give a sharper crease, and a neater welt pocket.
 
-> Vous devez repasser de multiples couches de tissu. Envisagez de repassez (ou ouvrir) les couches individuellement avant de les repasser ensemble. Vous obtiendrez ainsi un bord plus net, et un passepoil plus propre.
+### Step 7: Sew the pocket opening sides to the welts
 
-### Etape 7: Coudre les côtés de l'ouverture de poche aux passepoils
+![Sew the pocket opening side to the welt on one side](step07a.png) ![And repeat on the other side](step07b.png)
 
-![Coudre les côtés de l'ouverture de poche aux passepoils](step07a.png)
-![Et le faire de l'autre côté](step07b.png)
+Put your garment down with the good side up, and fold it back on the side of your welt pocket, making sure to keep your welts lying flat.
 
-Mettez votre vêtement sur l'endroit et le rabattre sur le côté de la poche passepoilée, en veillant à ce que les passepoils restent bien plats.
+Sew the triangular piece of fabric from the pocket opening to the welts.
 
-Cousez la partie triangulaire de tissu de l'ouverture de poche aux passepoils.
+> Make sure that you do not sew into the pocket opening, as this will show the stitches on the front
 
-> Veillez à ne pas coudre dans l'ouverture de poche, car cela ferait apparaître les points sur l'avant. 
+### Step 8: Sew the bottom pocket bag to the bottom welt
 
-### Etape 8: Coudre l'arrière du corps de poche au passepoil inférieur
+![Sew the bottom pocket bag to the botom welt](step08.png)
 
-![Coudre l'arrière du corps de poche au passepoil inférieur](step08.png)
+Fold your garment out of the way so you can sew the pocket bag to the lower welt.
 
-Retourner le vêtement de façon à pouvoir coudre le corps de poche au passepoil inférieur.
+Also finish the edge of the welt with a zig-zag stitch so the welt stays flat inside the pocket.
 
-Finissez également le bord du passepoil à l'aide d'un point zig-zag pour que le passepoil reste plat à l'intérieur de la poche.
+> The pocket bag is show in lining fabric here (green) far clarity. You can also make your pocket bags from other fabric.
 
-> Le corps de la poche est représenté ici en tissu de doublure (vert) pour plus de clarté. Vous pouvez également faire vos corps de poche dans d'autres tissus.
+### Step 9: Optional: Sew facing to top pocket bag
 
-### Etape 9: Optionnelle: Coudre une triplure sur l'avant du corps de poche
+![Sew the facing to the top pocket bag](step09.png)
 
-![Coudre une triplure sur l'avant du corps de poche](step09.png)
+> This step is optional. Attach facing to the top pocket bag if that is want you want to show through the pocket opening.
 
-> Cette étape est facultative. Fixer une triplure sur l'avant du corps de poche si c'est ce que vous voulez laisser apparaître par l'ouverture de poche.
+### Step 10: Sew the top pocket bag to the top welt
 
-### Etape 10: Coudre l'avant du corps de poche au passepoil supérieur
+![Sew the top pocket bag to the top welt](step10.png)
 
-![Coudre l'avant du corps de poche au passepoil supérieur](step10.png)
+Fold your garment out the way so you can sew the pocket bag to the top welt.
 
-Retourner votre vêtement de façon à pouvoir coudre le corps de poche au passepoil supérieur.
+> If you applied facing to your pocket bag, make sure to place it with the facing towards the welts.
 
-> Si vous avez appliqué une triplure au corps de la poche, veillez à la placer de façon à ce qu'elle fasse face aux passepoils.
+### Step 11: Attach the welts to the pocket bag
 
-### Etape 11: Attacher les passepoils au corps de la poche
+![Sew one side](step11a.png) ![Sew the other side](step11b.png) ![And sew the top](step11c.png)
 
-![Coudre un côté](step11a.png)
-![Coudre l'autre côté](step11b.png)
-![Et coudre le haut](step11c.png)
+Place your garment with the good side up, and fold it back at the side of the welt pocket.
 
-Placez votre vêtement à l'endroit et le rabattre sur le côté de la poche passepoilée.
+Sew the triangular piece of fabric from the pocket opening to the pocket bags, much like you've sewn it to the welts earlier.
 
-Cousez la partie triangulaire de tissu de l'ouverture de poche au corps de la poche, comme vous l'avez cousue aux passepoils plus tôt.
+Fold back your garment at the top of the welt pocket.
 
-Rabattez votre vêtement en haut de la poche passepoilée.
+Now, sew the top of the pocket opening to the pocket bag.
 
-A présent, cousez le haut de l'ouverture de poche au corps de la poche.
+### Step 12: Finish the pocket bag
 
-### Etape 12: Terminer le corps de la poche
+![Now finish the pocket bag](step12.png)
 
-![Maintenant finir le corps de la poche](step12.png)
+Now finish the pocket back by closing all the edges (the top edge is optional).
 
-Maintenant finissez l'arrière de la poche en fermant tous les côtés (le côté supérieur est facultatif).
+To do so, you can apply bias tape, use a serger, or sew some other finishing stitch.
 
-Pour ce faire, vous pouvez appliquer un ruban de biais, ou utiliser un surjet ou tout autre technique de finition cousue.
-
-Après cela, vous avez terminé.
+After that, you're done!
