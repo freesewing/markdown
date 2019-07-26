@@ -1,50 +1,40 @@
 ---
-path: /fr/docs/translator
-title: Documentation pour les traducteurs
-
+title: Documentation for translators
 ---
 
-Freesewing est fièrement multilingue, et sur ce point nous dépendons de vous pour nous aider.
-A tout moment, si vous voyez quelque chose qui mériterait d'être mieux traduit, vous pouvez sauter sur l'occasion et le corriger.
+Freesewing is proudly multilingual, and for this we depend on you to help us. Anytime you see something that's poorly translated, you can jump right in and fix it.
 
-Cette page vous dit tout ce qu'il y a à savoir pour faire ça.
+## Languages
 
-> ##### Qu'est-ce-que i18n?
-> Vous allez souvent tomber sur le terme *i18n* lorsque nous parlons de traduction.
->
-> i18n est le petit nom pour internationalisation, qui est un terme générique pour la traduction, et l'adaptation d'autres choses (comme les dates et les horaires) à la langue locale.
+English is our origin language. Which means that everything is written in English and then translated from English into other languages.
 
-## Langues
+We currently support the following five languages:
 
-L'anglais est notre langue d'origine. Ce qui signifie que tout est écrit en anglais
-puis traduit de l'anglais vers d'autres langues.
+- **en** : English (our origin language)
+- **de** : German
+- **es** : Spanish
+- **fr** : French
+- **nl** : Dutch
 
-Actuellement, cinq langues sont prises en charge par le site :
+If you'd like to start working on a new language, that's great, but a bit beyond the scope of this documentation. So in that case, please [come and talk to us on Gitter](https://gitter.im/freesewing/freesewing).
 
-  - **en** : anglais (notre langue originale)
-  - **de** : allemand
-  - **es** : espagnol
-  - **fr** : français
-  - **nl** : néerlandais
+## Translation
 
-Si vous souhaitez travailler sur un nouvelle langue, c'est génial, mais cela dépasse la portée de cette documentation.
-Dans ce cas, merci de [venir nous parler sur Gitter](https://gitter.im/freesewing/freesewing).
+We use [crowdin](https://crowdin.com/) to manage all translations for FreeSewing. It's an online platform that makes translation a breeze.
 
+FreeSewing has two different projects on crowdin:
 
-## Types de travaux de traduction
+- [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. 
+- [freesewing/markdown](https://crowdin.com/project/freesewing-md) holds **content**; Things like documentation, blog posts, and so on. 
 
-Il y a deux types de traduction :
+<note>
 
-### Les chaînes de caractères (Strings en anglais)
+###### What is i18n?
 
-Les chaînes de caractères représentent tous les mots ou les phrases qui sont employées dans notre code. 
-Elles sont toujours stockées dans des fichiers YAML, qui ont une extension `.yaml`.
+You'll come across the term *i18n* a lot when we discuss translation.
 
-Pour plus de détails sur leurs spécificités, allez voir la [documentation sur la traduction des chaînes de caractères](/fr/docs/translator/strings).
+i18n is short for internationalization, which is an umbrella term for translation, and adapting other things (like dates) to the local language.
 
-### Les contenus
+</Note>
 
-Les contenus sont des choses comme la doumentation, les articles du blog, etc. 
-Les contenus sont toujours stockés dans des fichiers MarkDown, qui ont une extension `.md`.
-
-Pour plus de détails sur leurs spécificités, allez voir la [documentation sur la traduction des contenus](/en/docs/translator/content).
+To get started, you will need to be invited as a translator. No need to worry, simply [let us know you'd like to help out](https://gitter.im/freesewing/freesewing) and we'll add you.
