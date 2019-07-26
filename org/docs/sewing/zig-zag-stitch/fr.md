@@ -1,17 +1,14 @@
 ---
-title: Point zig-zag
-path: /fr/docs/sewing/zig-zag-stitch
+title: Zig-zag stitch
+path: /en/docs/sewing/zig-zag-stitch
 ---
 
-![Un point zig-zag est utilisé pour empêcher la marge de couture de ce denim de s'effilocher](zig-zag.jpg)
+![A zig-zag stitch is used to prevent the SA of the denim from fraying](zig-zag.jpg)
 
-Un point zig-zag est utile lorsque vous devez effectuez une couture élastique (sur les tissus en maille par exemple). 
-Vous pouvez aussi l'utiliser pour des effets décoratifs, ou bien pour bloquer le bord de votre tissu.
+A zig-zag stitch is useful for when you need to sew a stretchable seam (like when using knits). You can also use it for a decorative effect, or to lock the edge of your fabric.
 
-Comme la plupart des machines à coudre, si ce ne sont pas toutes, possèdent un point zig-zag, 
-c'est une alternative populaire aux surjeteuses/recouvreuses, lorsque des points plus spécialisés ne sont pas disponibles.
+As most, if not all, sewing machines can sew a zig-zag stitch, it's a popular alternative for when more specialised stitches are not available.
 
-> L'encyclopédie préférée de tout le monde a plus d'informations sur le point zig-zag (en anglais) : 
-> [Zigzag stitch sur Wikipedia](http://en.wikipedia.org/wiki/Zigzag_stitch)
-
-> Photo par [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
+> Everyone's favourite encyclopedia has more on the zig-zag stitch: [Zigzag stitch on Wikipedia](http://en.wikipedia.org/wiki/Zigzag_stitch)
+> 
+> Picture by [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
