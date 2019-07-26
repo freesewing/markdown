@@ -1,8 +1,10 @@
 ---
 date: 2017-02-18
-title: Le sweater le plus ennuyeux du monde, parfait pour le bureau
+title: The world's most boring sweater, perfect for the office
 img: showcase.jpg
-caption: Ce tissu contient de la laine, il est super chaud.
-patterns: [sven]
+caption: This fabric has wool in it a is super warm.
+patterns:
+  - sven
 author: joost
 ---
+
