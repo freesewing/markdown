@@ -1,8 +1,8 @@
 ---
-title: Longueur de la taille naturelle jusqu'au genou
-path: /fr/docs/measurements/naturalwaisttoknee
+title: Natural waist to knee
+path: /en/docs/measurements/naturalwaisttoknee
 ---
 
-La **longueur de la taille naturelle jusqu'au genou** est la mesure verticale de votre taille naturelle jusqu'à votre genou, mesurée sur le côté de votre corps.
+The **natural waist to knee** is the measurement from your natural waist down towards your knee, measured on the side of your body.
 
-Pour mesurer votre **longueur de la taille naturelle jusqu'au genou**, localisez les hauteurs respectives de votre taille naturelle et de votre genou, puis mesurer la distance verticale entre elles. Veillez à effectuer cette mesure de profil.
+To measure your **natural waist to knee**, locate the height of both your natural waist and your knee, and measure the vertical distance between them. Make sure to measure at the side of your body.
