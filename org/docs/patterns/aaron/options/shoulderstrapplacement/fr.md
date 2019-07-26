@@ -1,11 +1,12 @@
 ---
-title: Emplacement de bretelle
-path: /fr/docs/patterns/aaron/options/shoulderstrapplacement
+title: Shoulder strap placement
+path: /en/docs/patterns/aaron/options/shoulderstrapplacement
 pattern: aaron
 option: shoulderStrapPlacement
 ---
-![L'option emplacement de bretelle sur Aaron](./shoulderstrapplacement.svg)
 
-Détermine la position de la bretelle au niveau de l'épaule.
+![The shoulder strap placement option on Aaron](./shoulderstrapplacement.svg)
 
-> Les valeurs basses placent la bretelle plus près du cou, alors que les valeurs élevées l'en éloignent.
+Determines the position of the shoulder strap on the shoulder.
+
+> Lower values place the strap closer to the neck, whereas higher values place it closer to the shoulder.
