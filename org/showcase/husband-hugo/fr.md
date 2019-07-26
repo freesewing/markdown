@@ -1,15 +1,17 @@
 ---
 date: 2015-12-28
-title: Un Hugo pour le mari, par Sonia
+title: A hugo for the husband, by Sonia
 img: showcase.jpg
-caption: C'est moi ou Hugo est une réalisation populaire pour les maris ?
-patterns: [hugo]
+caption: Is it me or is Hugo a popular make for husbands?
+patterns:
+  - hugo
 author: Sonia
 ---
-Cette photo provient du [compte Instagram](https://www.instagram.com/p/_1j7FSgynG/)  de [uneanneedecouture](https://uneanneedecouture.wordpress.com/).
 
-> ##### Plus de photos et d'infos sur l'article de blog d'origine
-> La réalisation est détaillée dans  [Le sweat en mérinos MakeMyPattern](https://uneanneedecouture.wordpress.com/2015/12/28/le-sweat-en-merinos-makemypattern/)
-> sur [uneanneedecouture.wordpress.com](https://uneanneedecouture.wordpress.com/).
->
-> Cet article est écrit en anglais et en français.
+This picture is from [the Instagram feed](https://www.instagram.com/p/_1j7FSgynG/) of [uneanneedecouture](https://uneanneedecouture.wordpress.com/).
+
+> ##### More pictures and info on the original blog post
+> 
+> This make is detailed in the [Le sweat en m&eacute;rinos MakeMyPattern](https://uneanneedecouture.wordpress.com/2015/12/28/le-sweat-en-merinos-makemypattern/) on [uneanneedecouture.wordpress.com](https://uneanneedecouture.wordpress.com/).
+> 
+> The blog post is in both French and English.
