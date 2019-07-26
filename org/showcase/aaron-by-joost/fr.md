@@ -1,9 +1,11 @@
 ---
 date: 2017-03-23
-title: Joost fait Aaron
+title: Joost does Aaron
 img: showcase.jpg
-caption: Un débardeur Aaron par Joost
-patterns: [aaron]
+caption: An Aaron A-shirt by Joost
+patterns:
+  - aaron
 author: joost
 ---
-Voici un haut Aaron que j'ai monté. Je porte ça sous mes chemises, et j'en suis plutôt satisfait.
+
+Here's an Aaron top I whipped up. I wear this under my shirts, and I'm rather pleased with it.
