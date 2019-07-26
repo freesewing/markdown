@@ -1,9 +1,8 @@
 ---
-title: Hauteur des hanches à l'entrejambe
-path: /fr/docs/measurements/hipstoupperleg
+title: Hips to upper leg
+path: /en/docs/measurements/hipstoupperleg
 ---
 
-La **hauteur des hanches à l'entrejambe** est mesurée sur le côté de votre corps depuis votre ligne des petites hanches jusqu'à la partie supérieure de vos jambes.
+The **hips to upper leg** is measured at the side of your body from your hipline down to the upper part of your leg.
 
-Pour mesurer votre **hauteur des hanches à l'entrejambe**, posez un mètre ruban sur le côté de votre corps là où sont vos petites hanches (là ou vous portez votre ceinture)
-et mesurer verticalement jusque là où votre jambe commence à être une jambe, et ne fait plus partie de vos fesses.
+To measure your **hips to upper leg** measurement, put a tape measure at the side of your body where your hips sit (where you wear your belt) and measure down to where your leg starts being a leg, and no longer is part of your bum.
