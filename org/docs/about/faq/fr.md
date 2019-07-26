@@ -1,58 +1,48 @@
 ---
-title: Questions fréquentes
-path: /fr/docs/faq
+title: Frequently asked questions
 ---
 
-## Pourquoi faut-il que je crée un compte pour simplement télécharger un patron ?
+## Why do I need to create an account just to download a pattern?
 
-Pour des raisons pratiques. Puisque nous générons des patrons de couture sur mesure, nous avons besoin de vos mensurations pour créer votre patron.
-Nous devons également savoir si vous utilisez les unités métriques ou les unités impériales.
+For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
 
-Vous demander ces informations à chaque fois serait fastidieux, alors nous avons besoin de les stocker.
-Et votre compte est là pour ça.
+Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
 
-Même si nous aurions pu en principe construire ce site de telle sorte qu'un compte ne soit pas requis, cela aurait été désespéremment peu pratique.
+So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
 
-> ##### Vous posez-vous cette question car nous ne vous inspirons pas confiance ?
->
-> Cette question pointe souvent vers une défiance sous-jacente envers le fait de
-> créer un compte. A cet effet, les questions et réponses suivantes peuvent être pertinentes :
+> ##### Are you asking because you don't trust us?
 > 
->  - [Que faites-vous avec mes données personnelles ?](#que-faites-vous-avec-mes-données-personnelles)
->  - [Qui paye pour tout cela ?](#qui-paye-pour-tout-cela)
->  - [Quel est votre but ultime ?](#quel-est-votre-but-ultime)
+> This question often hints at an underlying distrust towards creating an account. As such, the following questions and answers may also be relevant:
+> 
+> - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
+> - [Who pays for all of this?](#who-pays-for-all-of-this)
+> - [What's your end game?](#whats-your-end-game)
 
+## I know my size. So why do I have to enter my measurements?
 
-## Je connais ma taille. Alors pourquoi est-ce-que je dois entrer mes mensurations ?
+Drafting made-to-measure sewing patterns really is **our thing**.  
+If you insist on getting a pattern in a standard size, freesewing is not for you.
 
-L'élaboration de patrons de couture sur mesure est vraiment **notre spécialité**.  
-Si vous insistez pour obtenir un patron dans une taille standard, freesewing n'est pas fait pour vous.
+No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, freesewing is the only one on that list to not provide sewing patterns in standardized sizes.
 
-Ne désespérez pas malgré tout, Fiona a fait
-[une liste de créateurs de patrons indépendants](https://chainstitcher.blogspot.com/p/about-blog.html) 
-et à notre connaissance, freesewing est le seul de cette liste à ne pas proposer de patrons en taille standard.
+## What are you doing with my personal data?
 
-## Que faites-vous de mes données personnelles ?
+How we handle your personal data is documented in [our privacy policy](/en/docs/privacy/).
 
-La façon dont vos données personnelles sont traitées est documentée dans [notre politique de confidentialité](/fr/docs/privacy/).
+## Who pays for all of this?
 
-## Qui paye pour tout cela ?
+The freesewing project is supported financially by [our patrons](/en/patrons).
 
-Le projet freesewing est supporté financièrement par [nos mécènes](/fr/patrons).
+Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
 
-Les mécènes sont des utilisateurs réguliers comme vous qui ont accepté de faire une petite contribution mensuelle pour maintenir le développement de freesewing.
+> ##### Join the Freesewing Patrons
+> 
+> You can be a patron for as little as 2 euro per month. So why not [become a patron](/en/patrons/join) too?
 
-> ##### Rejoindre les Mécènes Freesewing
-> Vous pouvez devenir un mécène à partir de seulement 2 euros par mois. Alors pourquoi ne pas 
-> [devenir mécène](/fr/patrons/join) ?
+## What's your end game?
 
-## Quel est votre but ultime ?
+We would like freesewing.org to become the WikiPedia of sewing patterns.
 
-Nous voudrions que freesewing.org devienne le WikiPedia des patrons de couture.  
+We are not interested in fashion, trends, or publishing the hot new pattern of the season. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
 
-La mode, les tendances, ou encore publier le dernier nouveau patron de la saison ne nous intéressent pas.
-Au lieu de cela, nous souhaitons donner les moyens de créer aux couturiers de tout horizon, en distillant le savoir de la communauté couturesque 
-dans des patrons et de la documentation, et en rendant cette information accessible à tous. 
-
-En outre, nous aimerions voir d'autres modélistes et sociétés de patronage 
-adopter notre technologie, et travailler avec eux pour le bénéfice de tous.
+In addition, we would like see other designers and pattern companies adopt our technology, and work with them for the benefit of all.
