@@ -1,9 +1,8 @@
 ---
-title: Tour de poitrine
-path: /fr/docs/measurements/chestcircumference 
+title: Chest circumference
+path: /en/docs/measurements/chestcircumference
 ---
 
-Le **tour de poitrine** fait le tour de la partie la plus forte de votre poitrine.
+The **chest circumference** measurement wraps around the fullest part of your chest.
 
-Pour mesurer votre tour de poitrine, enroulez le mètre ruban autour de votre poitrine et relevez la mesure au plus fort en passant par les saillants.
-Veillez bien à positionner le mètre ruban horizontalement (soit parallèlement au sol).
+To measure your chest circumference, wrap the tape measure around your chest at the fullest part. Make sure to keep the tape measure horizontal (parallel to the floor).
