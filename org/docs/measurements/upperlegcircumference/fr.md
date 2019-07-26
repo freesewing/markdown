@@ -1,9 +1,8 @@
 ---
-title: Tour de cuisse
-path: /fr/docs/measurements/upperlegcircumference
+title: Upper leg circumference
+path: /en/docs/measurements/upperlegcircumference
 ---
 
-Le **tour de cuisse** est la mesure au plus fort de votre cuisse.
+The **upper leg circumference** is the measurement around your leg, all the way at the top of your leg, at your crotch.
 
-Pour mesurer votre **tour de cuisse**, enroulez le mètre ruban autour de votre jambe, et glissez-le le plus haut possible. 
-Veillez à garder le mètre ruban bien horizontal.
+To measure your **upper leg circumference**, wrap the tape measure around your leg, and slide it up your leg as high as you can. Make sure to keep the tape measure horizontal to the floor as you measure the circumference of your leg.
