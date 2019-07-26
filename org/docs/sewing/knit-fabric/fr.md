@@ -1,13 +1,13 @@
 ---
-title: Tissu en maille
+title: Knit fabric
 ---
 
-![Un morceau de jersey gris, un tissu en maille](/img/sewing/knit-fabric.jpg)
+![A piece of grey jersey, a knit fabric](/img/sewing/knit-fabric.jpg)
 
-Les tissus en maille sont des tissus qui sont tricotés, plutôt que tissés. Ils sont généralement élastiques.
+Knit fabric is fabric that is knitted, rather than woven. Knit fabric typically stretches to some extent.
 
-Bien que ces tissus soit tricotés, ils n'ont pas l'apparence de tricots classiques, mais d'un tissu.
+While the fabric is knitted, it does not look like knitwear, but like fabric.
 
-Les tissus en maille sont employés pour les vêtements qui nécessitent de l'élasticité. Ils sont souvent cousus avec une surjeteuse pour garder de l'élasticité au niveau des coutures.
+Knit fabric is used in garments where stretch is required. Sewing them is often done with a serger to maintain the stretch in the seams.
 
-> Wikipedia est plus exhaustif sur ce sujet : [Knitted fabric sur Wikipedia](http://en.wikipedia.org/wiki/Knitted_fabric)
+> Wikipedia has more to say about knits: [Knitted fabric in Wikipedia](http://en.wikipedia.org/wiki/Knitted_fabric)
