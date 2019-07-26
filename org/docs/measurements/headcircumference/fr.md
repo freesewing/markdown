@@ -1,8 +1,8 @@
 ---
-title: Tour de tête
-path: /fr/docs/measurements/headcircumference 
+title: Head circumference
+path: /en/docs/measurements/headcircumference
 ---
 
-Le **tour de tête** fait le tour de la tête à son endroit le plus large.
+The **head circumference** measurement wraps around the fullest part of your head.
 
-Pour mesurer votre tour de tête, enroulez le mètre ruban autour de votre tête au niveau de votre front.
+To measure your head circumference, wrap the tape measure around your head at the height of your forehead.
