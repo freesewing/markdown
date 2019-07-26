@@ -1,13 +1,15 @@
 ---
 date: 2017-08-14
-title: Un bermuda rouge  par Petros
+title: Red bermuda shorts by Petros
 img: showcase.jpg
-caption: Pas la meilleure qualité d'image, mais on n'y peut pas grand chose
-patterns: [theo]
+caption: Not the greatest quality picture, but what can we do
+patterns:
+  - theo
 author: Petros
 ---
-Petros écrit (via Facebook messenger):
 
-> Hi, Joost. La nouvelle plateforme est incroyable. Félicitations !!! J'ai posté un commentaire sous le nom d'utilisateur Petros. J'ai utilisé le patron Theo du site précédent et j'ai cousu un bermuda en suivant tes conseils et les instructions des tutoriels youtube que tu as réalisés. Je n'ai jamais cousu un vêtement aussi complexe avant et pourtant tu as rendu la tâche facile. Tu es extraordinaire.
+Petros writes (via Facebook messenger):
 
-![Voici une vue de face](2.jpg)
+> Hi, Joost. The new platform is amazing. Congratulations!!! I have posted a comment under username Petros. I used the pattern Theo from the previous site and i sewed a bermuda shorts under your guidance and thorough instructions of the youtube tutorials you 've made. I have never sewed a gament this complex before and yet you made it easy. You are extraordinary.
+
+![Here's a view from the front](2.jpg)
