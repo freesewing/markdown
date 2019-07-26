@@ -1,16 +1,16 @@
 ---
-title: Aisance des hanches
-path: /fr/docs/patterns/aaron/options/hipsease
+title: Hips ease
+path: /en/docs/patterns/aaron/options/hipsease
 pattern: aaron
 option: hipsEase
 ---
-![L'option d'aisance des hanches sur Aaron](./hipsease.svg)
 
-Combien d'espace souhaitez-vous pour vos hanches ?
+![The hips ease option on Aaron](./hipsease.svg)
 
-La valeur que vous indiquerez ici sera simplement ajoutée à votre tour des petites hanches lors de l'ébauche de votre vêtement.
+How much room do you want at the hips?
 
-> ##### Cette option accepte également des valeurs négatives
->
-> Vous ne devriez utiliser de l'aisance négative que si vous employez un tissu élastique que vous souhaitez moulant.
-> L'élasticité globale devrait être configurée avec l'option **élasticité**.
+Whatever value you provide here will simply be added to your hips circumference measurement when drafting the garment.
+
+> ##### This option also allows negative values.
+> 
+> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the stretch option.
