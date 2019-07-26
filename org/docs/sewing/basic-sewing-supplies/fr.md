@@ -1,20 +1,19 @@
 ---
-title: Fournitures de base pour la couture
-path: /fr/docs/sewing/basic-sewing-supplies
+title: Basic sewing supplies
+path: /en/docs/sewing/basic-sewing-supplies
 ---
 
-> Ce qui constitue exactement le minimum vital pour coudre est un sujet de débat. 
-> Certaines personnes aiment posséder plus d'outils, d'autres disent qu'une machine à coudre est optionnelle puisqu'il est possible de coudre manuellement.
+> What exactly constitutes the bare necessities for sewing is subject to debate. Some people like more tools, others say that even a sewing machine is optional as you can sew by hand.
 
-Par souci de clarté, lorsque je fais référence sur ce site web aux fournitures de base pour la couture, je parle de ce qui suit :
+For the sake of clarity, when I refer to basic sewing supplies on this website, I mean the following:
 
- - un mètre ruban
- - une machine à coudre
-   - des aiguilles pour machine à coudre 
-   - des canettes
- - du fil à coudre
- - des ciseaux de couture
- - un découd-vite
- - des épingles et des aiguilles pour la couture à la  main
- - des crayons ou feutres de marquage pour tissu
- - un fer à repasser
+- Tape measure
+- Sewing machine 
+ - Sewing machine needles
+ - Bobbins
+- Sewing thread
+- Fabric scissors
+- Seam ripper
+- Pins and hand sewing needles
+- Fabric marker/Pencils
+- An iron
