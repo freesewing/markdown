@@ -1,8 +1,8 @@
 ---
-title: Hauteur dos
-path: /fr/docs/measurements/centerbacknecktowaist 
+title: Center back neck to waist
+path: /en/docs/measurements/centerbacknecktowaist
 ---
 
-La **hauteur dos** est la distance verticale entre la base de votre cou et votre ligne de taille naturelle.
+The **center back neck to waist** is the measurement from the center back of your neck down to your natural waist.
 
-Pour mesurer la hauteur dos, placer votre mètre ruban verticalement au niveau du dos et relevez la distance entre la base de votre cou et votre ligne de taille naturelle.
+o measure your center back neck to waist, measure down from the center back of your neck towards your natural waist.
