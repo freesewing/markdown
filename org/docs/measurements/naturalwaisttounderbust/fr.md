@@ -1,8 +1,8 @@
 ---
-title: Longueur de la taille au dessous de la poitrine
-path: /fr/docs/measurements/naturalwaisttounderbust
+title: Natural waist to underbust
+path: /en/docs/measurements/naturalwaisttounderbust
 ---
 
-La **longueur de la taille au dessous de la poitrine** est la distance allant de votre taille naturelle jusqu'à votre dessous de poitrine (là ou la basque des soutien-gorges se situe).
+The **natural waist to underbust** is the measurement from your natural waist up towards your underbust link (where your bra band sits).
 
-Pour mesurer votre **longueur de la taille au dessous de la poitrine**, localiser les hauteurs respectives de votre taille et de votre dessous de poitrine, et mesurer la distance verticale qui les sépare. Veillez à effectuer la mesure sur le côté de votre corps.
+To measure your **natural waist to underbust**, locate the height of both your natural waist and underbust, and measure the vertical distance between them. Make sure to measure at the side of your body.
