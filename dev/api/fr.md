@@ -1,86 +1,30 @@
 ---
-title: Référence API
-path: /fr/docs/developer/api
-components: true
+title: API Reference
 ---
 
-Freesewing exporte un objet unique avec les propriétés suivantes :
+Freesewing exports a single object with the following properties:
 
-## freesewing.version
+- `version`: A string containing the FreeSewing version number
 
-```js
-string freesewing.version
-```
+In addition, FreeSewing's default export exposes the following method:
 
-Une chaîne de caractères (string) contenant le numéro de version de freesewing.
+- `Design()`: A *super-constructor* to create new pattern designs.
 
-## freesewing.create()
+## Design()
 
 ```js
-function freesewing.create(object config, object|array plugins)
+function freesewing.Design(object config, object|array plugins)
 ```
 
-Utilisez cette méthode pour créer vos propres patrons. Elle prend les arguments suivants :
+Use this method to create a new pattern design. It takes the following arguments:
 
- - `config` : La configuration du patron
- - `plugins` : Soit un objet de type plugin, soit une matrice d'objets de type plugin
-à charger dans votre patron
+- `config` : The pattern configuration
+- `plugins` : Either a plugin object, or an array of plugin objects to load in your pattern
 
-Cette méthode vous retournera une méthode de construction qui devrait être appelée pour 
-instancier votre patron. 
-Voir [Créer un nouveau patron](/fr/docs/developer/examples/#creating-a-new-pattern).
+<tip>
 
-## Utilitaires
+This method will return a constructor method that should be called to instantiate your pattern.
 
-Une collection d'utilitaires. Voir [Utilitaires](./api/utils).
+See [creating a new pattern design](/concepts/new-design) for an example.
 
-## freesewing.patterns
-
-Lorsque vous lancez la construction du navigateur de freesewing, 
-les patrons chargés vont se rattacher ici.
-
-> Ceci n'est pertinent que si vous lancez freesewing directement dans le navigateur, 
-plutôt que d'utiliser a version noeud et un paqueteur.
-
-## freesewing.plugins
-
-Lorsque vous lancez la construction du navigateur de freesewing, 
-les plugins chargés vont se rattacher ici.
-
-> Ceci n'est pertinent que si vous lancez freesewing directement dans le navigateur, 
-plutôt que d'utiliser a version noeud et un paqueteur.
-
-## freesewing.Pattern()
-
-Le constructeur de [Patron](./api/pattern). 
-
-> ###### Obsolète
->
-> L'usage de ce constructeur est obsolète, et il sera supprimé de 
-> l'export par défaut de la nouvelle version.
-
-## freesewing.Point()
-
-Le constructeur de [Point](./api/point).
-
-> ###### Obsolète
->
-> L'usage de ce constructeur est obsolète, et il sera supprimé de 
-> l'export par défaut de la nouvelle version.
-
-## freesewing.Path()
-
-Le constructeur de [Chemin](./api/path).
-> ###### Obsolète
->
-> L'usage de ce constructeur est obsolète, et il sera supprimé de 
-> l'export par défaut de la nouvelle version.
-
-## freesewing.Snippet()
-
-Le constructeur de [Fragment](./api/snippet).
-
-> ###### Obsolète
->
-> L'usage de ce constructeur est obsolète, et il sera supprimé de 
-> l'export par défaut de la nouvelle version.
+</Tip>
