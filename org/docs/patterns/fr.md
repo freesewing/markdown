@@ -1,7 +1,5 @@
 ---
-path: /fr/docs/patterns
-title: Documentation des patrons
-index: true
+title: Patterns
 ---
 
-Cliquer sur n'importe lequel de nos patrons pour accéder à sa documentation :
+Documentation on the FreeSewing patterns:
