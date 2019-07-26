@@ -1,17 +1,18 @@
 ---
-title: Aisance de poitrine
-path: /fr/docs/patterns/aaron/options/chestease
+title: Chest ease
+path: /en/docs/patterns/aaron/options/chestease
 pattern: aaron
 option: chestEase
 ---
-![L'option d'aisance de poitrine sur Aaron](./chestease.svg)
 
-Combien d'espace souhaitez-vous pour votre torse ?
+![The chest ease option on Aaron](./chestease.svg)
 
-La valeur que vous allez fournir ici sera ajoutée à votre mesure de tour de buste lorsque le vêtement sera ébauché.
+How much room do you want at the chest?
 
-> Etant donné qu'un sous-vêtement n'a pas de bras, un peu d'aisance de poitrine suffit. Ajoutez-en trop, et vous finirez avec des emmanchures béantes.
+Whatever value you provide here will simply be added to your chest circumference measurement when drafting the garment.
 
-> ##### Cette option accepte également des valeurs négatives
-> Vous ne devriez utiliser de l'aisance négative que si vous employez un tissu élastique que vous souhaitez moulant.
-> L'élasticité globale devrait être configurée avec l'option **élasticité**.
+> Given that an undershirt has no arms, a little chest ease goes a long way. Add too much, and you'll end up with gaping armholes.
+> 
+> ##### This option also allows negative values
+> 
+> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the **stretch** option.
