@@ -1,14 +1,14 @@
 ---
-title: Elasticité
-path: /fr/docs/patterns/aaron/options/stretchfactor
+title: Stretch
+path: /en/docs/patterns/aaron/options/stretchfactor
 pattern: aaron
 option: stretchFactor
 ---
-![L'option facteur d'élasticité sur Aaron](./stretchfactor.svg)
 
-A quel point votre tissu est-il élastique ? Choisissez 0 % si votre tissu n'est pas élastique.
+![The stretch factor option on Aaron](./stretchfactor.svg)
 
-> ##### Cette option n'impacte qu'une seule direction d'élasticité (horizontale).
->
-> L'élasticité dans les deux directions ne concerne pas vraiment ce haut, mais si vous le voulez, vous pouvez jouer  
-> avec l'option [ajout de longueur](../lengthbonus) option.
+How much does your fabric stretch? Choose 0% if your fabric does not stretch.
+
+> ##### This option does only impact stretch one-way (horizontal).
+> 
+> Four-way stretch is not really a concern for this top, but if you want you can play with the [length bonus](../lengthbonus) option.
