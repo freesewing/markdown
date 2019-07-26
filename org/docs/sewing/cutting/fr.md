@@ -1,12 +1,13 @@
 ---
-title: Découpe
-path: /fr/docs/sewing/cutting
+layout: onecol
+title: Cutting
+path: /en/docs/sewing/cutting
 ---
 
-![Moi en train de couper quelques T-shirts](cutting.jpg)
+![Me cutting out some T-shirts](cutting.jpg)
 
-La découpe est l'action de couper les différentes pièces de patron dans votre tissu.
+Cutting is the act of cutting out the different pattern pieces out of your fabric.
 
-Elle est typiquement effectuée à l'aide de ciseaux ou d'un cutter rotatif.
+Cutting is typically done with scissors or a rotary cutter.
 
-> La **coupe d'un vêtement**, son aspect, fait référence à la façon dont il a été coupé. Par exemple, un jean taille haute et un haut décolleté.
+> The **cut of a garment**, the way it looks, refers to how it was cut out. For example, high-cut jeans and a low-cut top.
