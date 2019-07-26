@@ -1,73 +1,58 @@
 ---
-path: /fr/docs/translator/content
-title: Traduire du contenu
----
-
-## Pour démarrer
-
-Tous nos contenus sont écrit en [Markdown](/fr/docs/markdown). Vous pouvez trouver 
-ces fichiers dans [le dossier markdown](https://github.com/freesewing/website/tree/develop/src/markdown)
-de [notre dépôt pour le site web](https://github.com/freesewing/website).
-
-Dedans, vous trouverez trois sous-dossiers:
-
- - `blog` : contenant nos articles du blog
- - `docs` : contenant la documentation
- - `showcase` : contenant les articles de la galerie
-
-Pour traduire un article ou une page de documentation, trouvez tout d'abord le fichier en anglais qui est
-toujours nommé `en.md`. Puis, copier le dans un nouveau fichier dans la langue dans laquelle vous souhaitez le traduire.
-Par exemple, pour le traduire en français, copiez le dans `fr.md` dans le même répertoire.
-Vous pouvez à présent traduire le fichier.
-
-## Données d'entête
-
-Au début d'un fichier MarkDown, vous trouverez les données d'entête comprises entre 
-un début et une fin représentés par trois tirets `---`.
-
-Elles portent les métadonnées de cette page, et la nécessité ou non de les traduire dépend du contexte.
-
-Par exemple, voici les données d'entête de la version d'origine de cette page en anglais :
-
-```
----
+path: /en/docs/translator/content
 title: Translating content
 ---
-```
 
-Les données d'entête sont toujours sous la forme d'une paire `clé:valeur`, dans laquelle la clé n'est jamais traduite.
-La traduction de la valeur dépend de la clé. Dans l'exemple ci-dessus,
-vous traduiriez le titre de la page. Mais regardez donc les données d'entête d'un article de la galerie :
+## Getting started
 
-```
----
-title: Sloppy Theodore trousers
-img: showcase.jpg
-caption: "Theodore Trousers"
-patterns: [theodore]
-author: cabi
----
-```
+All our content is written in [Markdown](/en/docs/markdown). You can find these files in [the markdown folder](https://github.com/freesewing/website/tree/develop/src/markdown) of [our website repository](https://github.com/freesewing/website).
 
-Ici, vous traduirez le titre (title) et la légende (caption), mais vous ne devez pas traduire les autres métadonnées, 
-qui sont des variables utilisées par le système, plutôt que du texte destiné à être lu par le visiteur.
+In it, you will find three subfolders:
 
-Si vous avez un doute sur le fait de traduire ou non quelque chose, [vous pouvez demander à quelqu'un](https://gitter.im/freesewing/freesewing).
+- `blog` : Contains blog posts
+- `docs` : Contains documentation
+- `showcase` : Contains showcase posts
 
-## Syntaxe
+To translate a post or documentation page, first find the English file which is always called `en.md`. Then, copy it to the language code you want to translate it to. For example, to translate it to French, you copy it to `fr.md` in the same directory. Now you can translate the file.
 
-MarkDown est un moyen direct de formatter du texte vers du HTML. Vous allez vous y familiariser en un rien de temps.
+## Frontmatter
 
-La [documentation officielle sur MarkDown](https://daringfireball.net/projects/markdown/syntax) est un peu aride.
-Vous trouverez peut-être [notre résumé des principales fonctions de MarkDown](/en/docs/markdown) plus plaisante à lire.
+At the start of a MarkDown file, you will find frontmatter enclosed between a starting and ending line of 3 dashes `---` .
 
-## Mettre à jour les liens de direction vers le bon langage
+This holds the metadata of the page, and whether it needs to be transated depends on the context.
 
-Lorsque vous faites un lien vers un autre endroit du site web, you devez mettre à jour le préfixe de langue. 
+For example, this is the fronmatter of this page:
 
-Par exemple, `/en/docs/i18n/markdown` redirige vers la version anglaise de cette page.
-Alors que `/es/docs/i18n/markdown` pointe vers la version espagnole de cette page.
+    ---
+    title: Translating content
+    ---
+    
 
-Il est important de mettre à jour ces liens, car ils déterminent la langue du site. 
-Si vous traduisez cette page en espagnol, et que vous ne mettez pas à jour le lien, 
-alors lorsque le visiteur cliquera sur ce lien, le site web va soudainement s'afficher en anglais au lieu de le faire en espagnol.
+Frontmatter is always a `key:value` pair, in which the key never is translated. Translation of the value depends on the key. In the example above, you would translate the page title. But look at this frontmatter from a showcase:
+
+    ---
+    title: Sloppy Theodore trousers
+    img: showcase.jpg
+    caption: "Theodore Trousers"
+    patterns: [theodore]
+    author: cabi
+    ---
+    
+
+Here, you would translate the title and caption, but you would not translate the other meta data as they are variables used by the system, rather than text to be read by the visitor.
+
+When you’re not certain whether something needs translating or not , [you can ask someone](https://gitter.im/freesewing/freesewing).
+
+## Syntax
+
+MarkDown is a straigh-forward way to format text to turn it into HTML. You’ll be familiar with it in no time.
+
+The [official MarkDown documentation](https://daringfireball.net/projects/markdown/syntax) is a bit dry. You may find [our summary of the main MarkDown features](/en/docs/markdown) a more pleasant read.
+
+## Updating links to point to the correct language
+
+When you link to a different place on the website, you need to update the language prefix.
+
+For example, `/en/docs/i18n/markdown` points to the English version of this page. Whereas `/es/docs/i18n/markdown` points to the Spanish version of this page.
+
+It’s important to update these links, as they determine the language of the site. If you are translating a page to Spanish, and you don’t update a link, then when a visitor clicks that link, the website will suddenly be in English instead of Spanish.
