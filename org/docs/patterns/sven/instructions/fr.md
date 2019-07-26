@@ -1,107 +1,104 @@
 ---
-title: Réaliser Sven
-path: /fr/docs/patterns/sven
+title: Making Sven
+path: /en/docs/patterns/sven
 ---
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Sven, vous aurez besoin de ce qui suit :
+To make Sven, you will need the following:
 
-- Fournitures de base pour la couture
-- Environ 1,75 m d'un tissu approprié ([voir les Options de tissu](#options-de-tissu))
-- Tissu pour la finition des poignets et de l'encolure
+- Basic sewing supplies
+- About 1.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- Ribbing fabric for the cuffs and neck opening
 
-> **Une surjeteuse est pratique mais optionnelle**
->
-> Comme pour tous les tissus en maille ou élastiques, une surjeteuse vous facilitera la vie.
->
-> Si vous n'en possédez pas, ne désespérez pas. Vous n'en avez pas absolument besoin. Car les coutures des côtés et des épaules ne vont pas être étirées, vous pouvez les réaliser avec un simple point droit.
+> **A serger/overlock is nice, but optional**
+> 
+> As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
+> 
+> If you do not have one of those, don't despair. You don't really need it. Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
 
-## Options de tissu
+## Fabric options
 
-Sven peut être n'importe quel sweatshirt que vous voulez qu'il soit. Des étoffes tissés à la maille ou encore du scuba, vous ne pouvez pas vraiment vous tromper du moment que vous choisissiez quelque chose d'un peu lourd.
+Sven can be any sweatshirt you want it to be. From wovens to knit or even scuba, you can't really go wrong as long as you stick with something that has a bit of weight to it.
 
-Jetez un oeil à la [galerie des Sven](/showcase/pattern/sven) pour vous inspirer.
+Have a look at [the Sven showcases](/showcase/pattern/sven) for inspiration.
 
-## Découpe
+## Cutting
 
- - **Tissu principal**
-   - Coupez **1 dos** au pli
-   - Coupez **1 devant** au pli
-   - Coupez **2 manches** endroit contre endroit
- - **Tissu de finition**
-   - Coupez **1 bande** pour la finition de l'encolure au biais
-   - Coupez **2 bandes** pour les poignets
-   - Coupez **1 bande** pour l'ourlet
+- **Main fabric** 
+ - Cut **1 back** on the fold
+ - Cut **1 front** on the fold
+ - Cut **2 sleeves** with good sides together
+- **Ribbing fabric** 
+ - Cut **1 strip** for the neck opening binding
+ - Cut **2 strips** for the cuffs
+ - Cut **1 strip** for the hem
 
-###  Avertissement
+### Caveats
 
-Les parties de finition ne sont pas incluses dans le patron étant donné que ce ne sont que de simples rectangles.
-Nous allons les déterminer tout en progressant dans le montage.
+The ribbing parts are not included on the pattern because they're just rectangular. We'll figure it out as we go along.
 
-Sven est un patron très simple, qui consiste en deux parties principales, des manches et quelques bandes pour l'encolure et les poignets.
+Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
 
-Ci-dessous une mise en page typique :
+Below is a typical draft layout:
 
-![Une ébauche typique de Sven](layout.svg)
-% include scalebox.html %}
+![A typical Sven draft](layout.svg) % include scalebox.html %}
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les marquages et des lignes sur votre patron.
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
-### Etape 1 : Fermer les coutures d'épaule
+### Step 1: Close shoulder seams
 
- - Placez le dos et le devant l'un au dessus de l'autre endroit contre endroit.
- - Alignez la couture d'épaule, et cousez/surjetez à la marge de couture standard.
- - Répétez pour l'autre couture d'épaule.
+- Place the back and front on top of each other with the good sides toghether.
+- Align the shoulder seam, and sew/serge it at the standard seam allowance.
+- Repeat for the other shoulder seam.
 
+### Step 2: Set in the sleeves
 
-### Etape 2 : Monter les manches
+- Place your now attached front and back with the good side up. 
+- Place a sleeve on top if it with the good side down
+- Align the top of the sleevecap with the shoulder seam, your sleeve should lie over your front/back extending to the other shoulder seam
+- Pin sleeve in place along the entire armhole. There's a bit of sleevecap ease, which means that the sleevehead is slightly longer than the armhole. Ease this in the top part of the sleeve head while pinning.
+- Sew/serge your pinned sleeve in place
+- Repeat for the other sleeve
 
- - Placez votre devant attaché maintenant au dos à l'endroit. 
- - Placez une manche dessus à l'envers
- - Alignez le haut de la tête de manche avec la couture d'épaule, votre manche devrait reposer sur votre devant/dos s'étendant vers l'autre couture d'épaule
- - Epinglez la manche en place le long de toute l'emmanchure. Il y a un peu d'embu, ce qui signifie que la tête de manche est légèrement plus longue que l'emmanchure. Répartissez l'embu sur le haut de la tête de manche en épinglant.
- - Cousez/surjetez votre manche épinglée en place
- - Répétez pour l'autre manche
+### Step 3: Finish the neck binding
 
-### Etape 3 : Finir l'encolure
+- Measure the length of the neck opening
+- Cut a piece of ribbing that is this length and 6cm/2.5inch wide
+- Fold the ribbing double with the good side outward, and pin it to your neckopening starting from the back
+- The cut off side of your ribbing should align with the edge of your neck opening, while the ribbing extends over your sweatshirt
+- Pin the ribbing in place around the neck opening, starting at the back and stretching it gently as you do so
+- First, join the ribbing at center back, with good sides together. As you've been stretching the ribbing as you were pinning it, it will be too long. Simply cut that away
+- Then, sew the ribbing to the neck opening
 
- - Mesurez la longueur de l'encolure
- - Coupez un morceau de biais de même longueur et de largeur 6cm/2.5inch 
- - Pliez le biais en deux avec l'endroit à l'extérieur, et épinglez-le à l'encolure en partant de l'arrière
- - La partie coupée de votre biais devrait s'aligner sur le bord de l'encolure, alors que le biais devrait s'étendre sur le sweatshirt
- - Epinglez le biais en place autour de l'encolure, en commençant au dos et en l'étirant doucement pendant que vous faites le tour
- - D'abord, joindre le biais au milieu dos, endroit contre endroit. Comme vous avez étiré le biais au fur et à mesure que vous l'avez épinglé, il sera trop long. Coupez l'excédent.
- - Puis, cousez le biais à l'encolure
- 
-### Etape 4: Fermer les coutures des côtés et des manches
+### Step 4: Close the side seams and sleeves
 
- - Pliez en deux Sven au niveau des coutures d'épaules endroit contre endroit
- - Alignez les coutures des côtés et des manches et épinglez-les
- - Maintenant, cousez la couture côté et continuez pour fermer les manches tout le long jusqu'au poignet
- - Répétez de l'autre côté
+- Fold Sven double at the shoulder seams with good sides together
+- Align the side seams and sleeves and pin them together
+- Now, sew the side seam and continue sewing to close the arms all the way to the cuff
+- Repeat on the other side
 
-### Etape 5 : Assembler les poignets
+### Step 5: Attach the cuffs
 
- - Mesurez la largeur de la manche au niveau du poignet
- - Coupez un morceau de biais qui est (deux fois cette longueur - 2cm/1inch) et 7cm/3inch de large
- - Pliez le biais en deu le long du côté le plus long, et cousez ensemble les bords de façon à obtenir un anneau continu
- - Retournez votre Sven à l'envers
- - Pliez l'anneau de biais avec le côté endroit vers l'extérieur, et insérer le côté plié dans votre manche de Sven mise à l'envers
- - Alignez le côté coupé du biais avec le bord de la manche et épinglez-le en place. Le biais est un peu plus court, alors étirez-le un peu en l'épinglant pour le faire correspondre à la manche.
- - Maintenant, cousez/surjetez le biais à la manche
- - Répétez pour l'autre poignet
+- Measure the width of the sleeve at the cuff
+- Cut a piece of ribbing that is (twice this length - 2cm/1inch) and 7cm/3inch wide
+- Fold the ribbing double along the longest side, and sew together the edge so you have a continous ring
+- Turn your Sven inside-out
+- Fold the ribbing ring with the good side outwards, and slip the folded side into your inside/out Sven sleeve
+- Align the cut off side of the ribbing with the edge of the sleeve and pin it in place. The ribbing is a bit shorter, so stretch it a bit while pinning to work this into the sleeve.
+- Now, sew/serge the ribbing to the sleeve
+- Repeat for the other cuff
 
-### Etape 6: Fixer l'ourlet
+### Step 6: Attach the hem
 
- - Faites pour l'ourlet la même chose que ce que vous avez fait pour les poignets
- - Mesurer la largeur de Sven au niveau de l'ourlet
- - Coupez un morceau de biais qui est 1,9 fois cette longueur et 7cm/3inch de large  
- - Vous aurez peut-être à fixer différentes pièces si votre tissu de finition n'est pas assez large
- - Pliez le biais en deux le long du côté le plus long, et cousez les bords ensemble de façon à obtenir un anneau continu
- - Retournez votre Sven à l'envers
- - Pliez l'anneau de biais avec le côté endroit vers l'extérieur, et insérer le côté plié au corps de Sven
- - Alignez le côté coupé du biais avec le bord du corps et épinglez-le en place. Le biais est un peu plus court, alors étirez-le un peu en l'épinglant pour le faire correspondre au corps.
- - Maintenant, cousez/surjetez le biais au corps
+- Do for the hem as your did for the cuffs
+- Measure the width of Sven at the hem
+- Cut a piece of ribbing that 1.9 times this length and 7cm/3inch wide 
+- You may need to attach different pieces if your ribbing fabric isn't wide enough
+- Fold the ribbing double along the longest side, and sew together the edge so you have a continous ring
+- Turn your Sven inside-out
+- Fold the ribbing ring with the good side outwards, and slip the folded side into your inside/out Sven body
+- Align the cut off side of the ribbing with the edge of the body and pin it in place. The ribbing is a bit shorter, so stretch it a bit while pinning to work this into the body.
+- Now, sew/serge the ribbing to the body
