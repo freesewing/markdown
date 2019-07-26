@@ -1,0 +1,7 @@
+content_segmentation: 0
+files:
+  - source: /org/**/en.md
+    translation: /org/**/%two_letters_code%.md
+  - source: /dev/**/en.md
+    translation: /dev/**/%two_letters_code%.md
+
