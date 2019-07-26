@@ -1,11 +1,12 @@
 ---
-title: Ajout de longueur
-path: /fr/docs/patterns/aaron/options/lengthbonus
+title: Length bonus
+path: /en/docs/patterns/aaron/options/lengthbonus
 pattern: aaron
 option: lengthBonus
 ---
-![L'option ajout de longueur sur Aaron](./lengthbonus.svg)
 
-La longueur supplémentaire que vous désirez par rapport à la valeur par défaut pour réaliser votre haut.
+![The length bonus option on Aaron](./lengthbonus.svg)
 
-> Cette option accepte aussi les valeurs négatives, qui vont raccourcir le haut.
+How much longer than the default length to make your top.
+
+> This option allows negative values, which will shorten/crop the top.
