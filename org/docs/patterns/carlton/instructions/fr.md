@@ -1,8 +1,6 @@
 ---
-title: Réaliser Carlton
-path: /fr/docs/patterns/carlton
+title: Making Carlton
+path: /en/docs/patterns/carlton
 ---
 
-Ces instructions sont manquantes, nous avons toutefois des 
-[instructions préliminaires pour Carlita](/fr/docs/patterns/carlita)
-qui est un patron presque identique.
+These instructions are missing, although we have [preliminary instructions for Carlita](/en/docs/patterns/carlita) which is an almost identical pattern.
