@@ -1,122 +1,110 @@
 ---
-title: Politique sur la confidentialité
-path: /fr/docs/privacy
+title: Privacy notice
 ---
 
-**Dernière mise à jour** : 23 Mai 2018
+**Last update**: 23 May 2018
 
-## A propos
+## About
 
-Cette politique sur la confidentialité décrit les données personnelles que nous stockons.
-Elle expose pourquoi nous avons besoin des données, combien de temps nous les gardons, et si nous les partageons avec une quelconque tierce partie.
+This privacy notice describes the personal data we store. It outlines why we need the data, how long we keep it, and whether we share it with any third-parties.
 
-Nous sommes confiants qu'elle démontrera notre engagement concernant le respect de votre vie privée. 
+We are confident it will demonstrate our commitment to privacy.
 
-## Partie 1 : Comment nous utilisons vos données personnelles
+## Part 1: How we use your personal data
 
-Par souci de clarté, nous les avons séparées selon 3 types de rôle différents :
+For clarity, we've broken this up in three different types of roles:
 
- - Pour les visiteurs, nous stockons les [données des visiteurs](#données-des-visiteurs)
- - Pour les utilisateurs, nous stockons les [données de profile](#données-de-profile)
- - Pour les utilisateurs avec un ou plusieurs modèles, nous stockons les [données des modèles](#sonnées-des-modèles)
+- For visitors, we store [visitor data](#visitor-data)
+- For users, we store [profile data](#profile-data)
+- For users with one or more models, we store [model data](#model-data)
 
-Ces rôles sont cumulatifs. Si vous êtes un utilisateur, vous êtes également un visiteur.
-Et si vous êtes un utilisateur avec un ou plusieurs modèles, vous êtes aussi un utilisateur, et aussi un visiteur.
+These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
 
-> #### Données de visiteurs
+> #### Visitor data
 > 
->  - **Quelles données personnelles stockons-nous ?**
->    - Votre adresse IP
->  - **Pourquoi en avons-nous besoin ?**
->    - Votre adresse IP est inscrite dans nos systèmes backend. Nous utilisons ces registres et les informations qui s'y trouvent uniquement pour diagnostiquer des problèmes.
->  - **Combien de temps les gardons-nous ?**
->    - Nous conservons ces registres pendant 6 mois.
->  - **Est-ce-que nous les partageons ?**
->    - Non, jamais.
->
-> Ces données sont stockées pour quiconque visite le site ou se connecte à nos API backend.
-{.privacy .fs-bq}
-
-> #### Données de profile
+> - **What personal data do we store?** 
+>     - Your IP address
+> - **Why do we need it?** 
+>     - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
+> - **How long do we keep it?** 
+>     - We keep these logs for 6 months.
+> - **Do we share it?** 
+>     - No, never.
 > 
->  - **Quelles données personnelles stockons-nous ?**
->    - Votre adresse E-mail
->    - Votre nom d'utilisateur et votre mot de passe
->    - En option : une photo de profil, une biographie, et les liens vers vos comptes de réseaux sociaux
->  - **Pourquoi en avons-nous besoin ?**
->    - Pour vous authentifier
->    - Pour être capable de vous contacter si nécessaire
->    - En option : Nous n'avons pas besoin d'une photo ou de vos comptes de media sociaux, mais ils aident à construire une communauté en ligne
->  - **Combien de temps les gardons-nous ?**
->    - Nous gardons les données de profil jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
->  - **Est-ce-que nous les partageons ?**
->    - Non, jamais.
->
-> Ces données sont stockées pour quiconque ayant un compte sur notre site web.
-{.privacy .fs-bq}
-
-> #### Données des modèles
->
->  - **Quelles données personnelles stockons-nous ?**
->    - Les mensurations du corps
->    - Si le modèle possède une poitrine ou non
->    - En option : Un avatar pour le modèle
->  - **Pourquoi en avons-nous besoin ?**
->    - Nous avons besoin des mensurations corporelles pour ébaucher des patrons de couture sur mesure
->    - Nous utilisons l'information comme quoi le modèle possède ou non une poitrine uniquement pour montrer des mesures pertinentes lors de la configuration du modèle
->    - L'avatar du modèle ne sert qu'à vous aider à différencier vos différents modèles
->  - **Combien de temps les gardons-nous ?**
->    - Nous conservons les données des modèles jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
->  - **Est-ce-que nous les partageons ?**
->    - Nous ne partageons jamais les données de modèles personnelles
->    - Nous publions un set de mesures ouvert, contenant des données totalement anonymisées.
+> This data is stored for anybody who visits our website or connects to our backend APIs. {.privacy .fs-bq}
 > 
-> Ces données sont stockées pour quiconque avec un compte sur notre site web contenant un ou plusieurs modèles.
-{.privacy .fs-bq}
+> #### Profile data
+> 
+> - **What personal data do we store?** 
+>     - Your E-mail address
+>     - Your username and password
+>     - Optional: A profile picture, bio, and your social media accounts
+> - **Why do we need it?** 
+>     - To authenticate you
+>     - To be able to contact you when required
+>     - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
+> - **How long do we keep it?** 
+>     - We keep profile data up to 12 months after your last login, or until you remove it.
+> - **Do we share it?** 
+>     - No, never.
+> 
+> This data is stored for anybody with an account on our website. {.privacy .fs-bq}
+> 
+> #### Model data
+> 
+> - **What personal data do we store?** 
+>     - Body measurements
+>     - Whether the model has breasts or not
+>     - Optional: An avatar for the model
+> - **Why do we need it?** 
+>     - We need the body measurements to draft made-to-measure sewing patterns
+>     - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
+>     - The model avatar only serves to help you differentiate between your different models
+> - **How long do we keep it?** 
+>     - We keep model data up to 12 months after your last login, or until you remove it.
+> - **Do we share it?** 
+>     - We never share personal model data
+>     - We publish an open data set of measurements, containing fully anonymized data.
+> 
+> This data is stored for anybody with an account on our website which contains one or more models. {.privacy .fs-bq}
 
-## Partie 2 : Autres sujets
+## Part 2: Other topics
 
-### Entière divulgation
+### Full disclosure
 
-Si nous avons vent d'infraction à la sécurité de nos systèmes, nous vous informerons ainsi que les autorités.
+If we learn of a security systems breach, we will inform both you and the authorities.
 
-Si vous pensez que vos données personnelles ont été compromises, merci de contacter joost@decock.org.
+If you believe your personal data has been compromised, please contact joost@decock.org.
 
+### Service Providers
 
-### Fournisseurs de services
+Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
 
-Nos fournisseurs d'accès gère nos systèmes backend pour nous. Cela inclut l'hébergement, le stockage, et la sauvegarde. 
+While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
 
-Bien que cela signifie qu'ils traitent vos données (dans le sens strict du terme), ils n'ont pas besoin d'accéder aux informations vous concernant. 
-De plus, comme nous cryptons les données de profile à l'arrêt, il n'est pas trivial pour eux d'y accéder même s'ils le voulaient.
+### Law enforcement
 
-### Application de la loi
+While we have no intention of sharing any of your personal data, we are not above the law.
 
-Quoique nous n'ayons aucune intention de partager vos données personnelles, ces dernières ne sont pas au dessus de la loi.
+If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
 
-Si nous devions le faire de façon légale, ou si nous sentions que le faire serait un moindre mal, nous divulguerons vos données personnelles.
+So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
 
-Jusqu'à présent, nous n'avons reçu aucune requête en vue de l'application de la loi de révéler des informations concernant un de nos utilisateurs.
-Nous n'avons également révélé aucune information personnelle pour tout autre raison.
+### Use by minors under the age of 16
 
-### Utilisation par des mineurs de moins de 16 ans
+You need to be at least 16 years old to use freesewing.
 
-Vous devez avoir au moins 16 ans pour utiliser freesewing.
+### Data Controller and Contact information
 
-### Gestionnaire des données et informations de contact
+For questions about this privacy notice, you can contact Joost De Cock at joost@decock.org.
 
-Pour toute question concernant cette notice de confidentialité, vous pouvez contacter Joost De Cock à l'adresse joost@decock.org.
+### Changes and Updates to this Policy
 
-### Modifications et mise à jour de cette politique
+This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
 
-Cette politique pourra être mise à jour occasionnellement. Nous indiquerons ceci dans les données de **Dernière mise à jour** en haut de ce document.
+A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/site/commits/develop/nuxt/content/en/docs/privacy/index.md).
 
-Un aperçu plus complet de l'historique de ce document est 
-[disponible sur GitHub](https://github.com/freesewing/site/commits/develop/nuxt/content/en/docs/privacy/index.md).
+## See also
 
-## Voir aussi
-
- - [Vos droits](/rights)
- - [Votre consentement](/account/consent)
-
-
+- [Your rights](/rights)
+- [Your consent](/account/consent)
