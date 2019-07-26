@@ -1,12 +1,11 @@
 ---
-author: Tiger751023
-caption: "Ces réalisations ont été créées à partir de chutes de T-shirt et de robes."
-date: 2018-12-19T00:00:00.000Z
+date: 2018-12-19
+title: Bruces by Paul
 img: showcase.jpg
+caption: "A few bruces to use up left over textile from t-shirts and dresses"
 patterns:
   - bruce
-title: "Des exemples de réalisations à partir du patron Bruce"
-
+author: Tiger751023
 ---
 
 ![View of the back](back.jpg)
