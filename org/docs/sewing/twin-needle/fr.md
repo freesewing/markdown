@@ -1,13 +1,14 @@
 ---
-title: Aiguille double
-path: /fr/docs/sewing/twin-needle
+title: Twin needle
+path: /en/docs/sewing/twin-needle
 ---
-![Une aiguille double de Schmetz](twin-needle.jpg)
 
-![Un point d'aiguille double qui est flexible grâce au zig-zag à l'arrière](twin-needle.gif)
+![A twin needle from Schmetz](twin-needle.jpg)
 
-Une aiguille double vous est utile lorsque pour devez effectuer une surpiqûre sur un tissu élastique (comme pour faire un ourlet sur de la maille). Vous pouvez également l'utiliser à des fins décoratives.
+![A twin needle stitch is flexible because of the zig-zag at the back.](twin-needle.gif)
 
-Bien qu'une recouvreuse soit conçue pour produire une surpiqûre élastique, tout le monde n'a pas ce genre de machine. Une aiguille double utilise deux fils de bobines et un seul fil de canette. Cela produit un effet de zig-zag sur l'envers, rendant le point élastique. En même temps, vous obtenez deux lignes paralèles de points sur l'endroit.
+A twin needle is useful for when you need to sew stretchable topstitching (like when hemming a knit). You can also use it for a decorative effect.
 
-> GIF animé par [Ashley](http://www.makeit-loveit.com/2011/05/sewing-tips-basic-stitches-plus-double.html)
+While a coverlock machine is purpose-built to produce a stretchable topstitch, not everybody has such a machine. A twin needle uses two upper threads and a single under thread. This causes a zig-zag effect on the back, making the stitch stretchable. Meanwhile, you get two parallel lines of stitching at the front.
+
+> Animated GIF by [Ashley](http://www.makeit-loveit.com/2011/05/sewing-tips-basic-stitches-plus-double.html)
