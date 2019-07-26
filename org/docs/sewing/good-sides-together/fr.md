@@ -1,29 +1,30 @@
 ---
-title: Endroit contre endroit
-path: /fr/docs/sewing/good-sides-together
+title: Good sides together
+path: /en/docs/sewing/good-sides-together
 ---
-Lorsque je fais référence à endroit contre endroit, cela peut concerner soit la découpe soit la couture :
 
-## Couper endroit contre endroit 
+When I refer to good sides together that can refer to either cutting or sewing:
 
-![Une poche est marquée sur l'envers d'un coupon de denim plié en deux, prêt à être coupé endroit contre endroit. Après avoir coupé les deux couches, cela donnera deux poches qui sont l'image miroir l'une de l'autre.](cutting-good-sides-together.jpg)
+## Cutting with good sides together
 
-La découpe endroit contre endroit est une technique utilisée lorsque deux pièces identiques ou miroirs doivent être coupées.
+![A pocket is marked on the bad side of a piece of double-folded denim, ready to be cut good sides together. After cutting both layers, this will yield two pockets that are mirror images of each other.](cutting-good-sides-together.jpg)
 
-Lorsqu'un patron requiert de découper une pièce endroit contre endroit, pliez le tissu en deux avec l'endroit à l'intérieur et l'envers à l'extérieur.
+Cutting with good sides together is a technique that is used when two identical, or mirrored pieces need to be cut.
 
-Maintenant marquez la pièce de patron sur l'envers du tissu, puis coupez les deux couches en même temps.
+When a pattern asks to cut a piece with good sides together, fold your fabric double with the good side/right side of the fabric to the inside, and the bad side/wrong side outside.
 
-Cela vous donne deux pièces qui sont l'image miroir l'une de l'autre.
+Now mark the pattern piece on the bad side of the fabric, and cut both layers in one go.
 
-> Lorsque vous coupez endroit contre endroit, veillez à ce que chaque côté soit bien aligné par rapport au droit fil.
+This gives you two pieces that are mirror images of each other.
 
-## Coudre endroit contre endroit
+> When cutting good sides together, make sure both sides are on grain.
 
-![Un morceau de denim est cousu endroit contre endroit.](sewing-good-sides-together.jpg)
+## Sewing with good sides together
 
-Coudre endroit contre endroit est l'approche standard pour effectuer une couture.
+![A piece of denim is sewn with good sides together.](sewing-good-sides-together.jpg)
 
-En plaçant deux pièces endroit contre endroit, ces dernières seront assemblées avec la même marge de couture à l'intérieur du vêtement. C'est ce qui est fait pour la majorité des coutures.
+Sewing with good sides together is the standard approach to making a seam.
 
-> Lorsqu'il n'y a pas d'instruction spécifique sur la façon d'effectuer une couture, c'est endroit contre endroit.
+By placing the good sides of the fabric together, both pieces will be joined with the seam allowance to the inside of the garment. This is what's done for the vast majority of seams.
+
+> When there's no specific instructions on how to construct a seam, it's good sides together.
