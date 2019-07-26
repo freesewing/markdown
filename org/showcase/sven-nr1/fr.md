@@ -1,8 +1,10 @@
 ---
 date: 2017-02-12
-title: Un Sven au goût du jour
+title: An era-appropriate Sven
 img: showcase.jpg
-caption: hashtag résiste
-patterns: [sven]
+caption: hashtag resist
+patterns:
+  - sven
 author: joost
 ---
+
