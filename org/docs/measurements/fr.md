@@ -1,5 +1,6 @@
 ---
-title: Mesures
-path: /fr/docs/measurements
+title: Measurements
+path: /en/docs/measurements
 index: true
 ---
+
