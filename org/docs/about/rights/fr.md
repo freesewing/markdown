@@ -1,51 +1,43 @@
 ---
-title: Vos droits
-path: /fr/docs/rights
+title: Your rights
 ---
 
-Freesewing applique le réglement général de la protection des données (RGPD) de l'Union Européenne (UE).
+Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
 
-Citoyen européen ou non, voici vos droits :
+EU citizen or not, for us these are your rights:
 
-## Le droit d'être informé
+## The right to be informed
 
-Vous avez le droit d'être informé à propos de la collecte et de l'utilisation de vos données personnelle ;
-Allez sur la page [/privacy](/privacy) pour lire notre notice de confidentialité, et vous informer.
+You have the right to be informed about the collection and use of your personal data; Go to </privacy> to read our privacy notice, and inform yourself.
 
-## Le droit d'accès
+## The right of access
 
-Vous avez le droit d'accéder à vos données personnelles ;
-Allez sur la page [/account](/account) pour le faire.
+You have the right to access your personal data; Go to </account> to do so.
 
-## Le droit de rectification
+## The right to rectification
 
-Vous avez le droit de rectifier vos données personnelles, ou de les compléter si elles sont incomplètes ;
-Allez sur la page [/account](/account) pour le faire.
+You have the right to rectify your personal data, or complete it if it is incomplete; Go to </account> to do so.
 
-## Le droit d'effacement
+## The right to erasure
 
-Vous avez le droit de faire effacer vos données personnelles ;
-Allez sur [/account/remove](/account/remove) pour supprimer toutes vos données.  
+You have the right to have your personal data erased; Go to </account/remove> to remove all your data.
 
-## Le droit de limiter le traitement
+## The right to restrict processing
 
-Vous avez le droit d'exiger une limitation du traitement de vos données personnelles ;
-Allez sur [/account/restrict](/account/restrict) pour demander que nous limitions le traitement de vos données personnelles.  
+You have the right to request a restriction on the processing of your personal data; Go to </account/restrict> to request we restrict processing of your personal data.
 
-> Votre requête sera consentie immédiatement, et ne pourra être annulée qu'en [nous contactant](/contact) pour lever la restriction.
+> Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
 
-## Le droit à la portabilité de données
+## The right to data portability
 
-Vous avez le droit d'obtenir et de réutiliser vos données personnelles pour vos propres usages ou à travers différents services ;
-Allez sur [/account/export](/account/export) pour exporter vos données.
+You have the right to obtain and reuse your personal data for your own purposes or across different services; Go to </account/export> to export your data.
 
-## Le droit d'objection
+## The right to object
 
-Vous avez le droit de refuser que vos données personnelles d'être utilisées pour de la recherche scientifique ;
-Aller sur [/account/consent](/account/consent) et protester dans la section **données du modèle** pour le faire.
+You have the right to object to your personal data being used for scientific research; Go to </account/consent> and object in the **model data** section to do so.
 
-> Le droit d'objection est plus étendu, mais c'est ainsi qu'il s'applique sur freesewing.
+> The right to object is broader, but this is how it applies to freesewing.
 
-## Droits relatifs à la prise de décision automatique et le profilage
+## Rights in relation to automated decision making and profiling.
 
-Ce droit ne s'applique pas à freesewing comme nous n'employons pas de prise de décision automatique et de profilage.
+This right does not apply to freesewing as we do not use automated decision making or profiling.
