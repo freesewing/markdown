@@ -1,18 +1,18 @@
 ---
-title: Marges de couture
-path: /fr/docs/sewing/seam-allowance
+title: Seam allowance
+path: /en/docs/sewing/seam-allowance
 ---
 
-![L'intérieur de la jambe d'un jean. Les marges de couture sont les bandes de tissus juste à côté de la couture. Elles ont été surfilées au point zig-zag pour les empêcher de s'effilocher](zig-zag.jpg)
+![The inside of the leg on a pair of jeans. The SA is the dark narrow stretch of fabric next to the seam. It has been zig-zagged to keep it from fraying](zig-zag.jpg)
 
-Les marges de coutures (dont l'abbréviation est SA en anglais pour seam allowance), est le tissu en surplus au niveau des coutures qui vous permettent d'assembler un vêtement.
+Seam allowance, often shortened to SA, is the extra fabric at the seam that allows you to sew a garment together.
 
-Si, au lieu de coudre, vous pouviez magiquement joindre deux morceaux de tissu, il n'y aurait nul besoin de marge de couture.
+If, instead of sewing, you could magically join seams together, there would be no need for seam allowance.
 
-Etant donné que nous ne sommes pas magiciens, nous avons besoin d'un peu de marge de couture pour que l'effilochage du tissu ne défasse pas les coutures.
+Since we can't do magic, we need a bit of seam allowance so that the minor fraying of the fabric will not undo the seam.
 
-Les marges de couture peuvent prendre des valeurs différentes. 1 cm est commun pour quelques patronss, mais aux Etats-Unis, 5/8" ou 15 mm sont des valeurs standards. Veillez à toujours vérifier la valeur par défaut de marge de couture de votre patron.
+Seam allowance can differ. 1cm is common for some patterns, but in the US 5/8" or 15mm is standard. Make sure to always check the pattern for the default SA.
 
-Des marges supplémentaires peuvent être requises pour des finitions spécifiques (comme des coutures anglaises) ou pour les ourlets.
+Extra SA can be required for specific finished (like french seams) or for hemming.
 
-> Photo par [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
+> Picture by [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
