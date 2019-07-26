@@ -1,178 +1,143 @@
 ---
-title: Réaliser Florent
-path: /fr/docs/patterns/florent
+title: Making Florent
+path: /en/docs/patterns/florent
 ---
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Florent, vous allez avoir besoin de ce qui suit :
+To make Florent, you will need the following:
 
-- Fournitures de base pour la couture
-- Environ 0,5 mètre d'un tissu adapté ([voir les options de tissu](#options-de-tissu))
-- Environ 0,5 mètres de tissu de doublure
-- Ruban, un peu plus que **le tour de tête** + **l'aisance** que vous avez choisi pour le patron
-- Une feuille de plastique ou quelque chose de rigide pour la visière (1 mm d'épaisseur ou moins)
+- Basic sewing supplies
+- About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- About 0.5 meter of lining fabric
+- Tape, a bit more than **head circumference** + **ease** that you used for the pattern
+- A sheet of plastic or something rigid for the brim (1 mm thick or less)
 
-## Options de tissu
+## Fabric options
 
-Pour le tissu principal de votre casquette, un tissu épais prendra une meilleure forme, mais si vous choisissez un tissu plus léger, 
-vous pouvez l'entoiler pour lui donner plus de corps.
+For the main fabric of your cap, a thick fabric will shape better, but if you go for a lighter fabric, you can interface it to give it more body.
 
-La doublure peut être faite de n'importe quoi, mais c'est souvent avec quelque chose de léger et agréable.
+The lining can be anything, but it is usually something light and nice.
 
+## Cutting
 
-## Découpe
+Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself. Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
 
-En fonction de la quantité de tissu disponible, vous voudrez couper deux fois les parties du dessus et des côtés, d'où les instructions du patron en lui-même.
-Avertissement : le patron inclut des marges de couture sur la partie du dessus alors si vous voulez la couper au pli, ne les incluez pas !
+The brim bottom part is inset, while the brim top part is offset so that the seam falls "underneath the brim edge". Keep that in mind when cutting the parts, and mark them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
 
-La partie du bas de la visière est décalée vers l'intérieur, alors que la partie du dessus de la visière est décallée vers l'extérieur, de façon à ce que la couture tombe "en dessous du bord de la visière". 
-Gardez ça en tête lorsque vous découpez les parties, et marquez les en accord, ainsi vous ne finirez pas avec la couture au-dessus de la visière (je ne veux pas vous forcer à prendre ce choix de style, mais souligner la différence des deux parties pour que vous en soyez conscients et agissiez en conséquence).
+- **Main fabric** 
+ - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
+ - Cut **1 side** on the fold, or **2 side**.
+ - Cut **1 brim top** .
+ - Cut **1 brim bottom**.
+- **Lining fabric** 
+ - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
+ - Cut **1 side** on the fold, or **2 side**
+- **Plastic** 
+ - Cut **1 brim interfacing**. Tape the pattern part to the plastic, don't cut the notches in the plastic, but you can mark it (engrave it, or with permanent marker maybe). You don't really want any sharp edge, so make sure everything is smooth and rounded a bit (especially on the pointy sides)
 
- - **Tissu principal**
-   - Coupez **1 dessus** au pli mais n'incluez pas la marge de la couture centrale, ou **2 dessus** avec la marge de couture centrale.
-   - Coupez **1 côté** au pli, ou **2 côtés**.
-   - Coupez **1 dessus de visière**.
-   - Coupez **1 dessous de visière**.
- - **Tissu de doublure**
-   - Coupez **1 dessus** au pli mais n'incluez pas la marge de la couture centrale, ou **2 dessus** avec la marge de couture centrale.
-   - Coupez **1 côté** au pli, ou **2 côtés**.
- - **Plastique**
-   - Coupez **1 entoilage de visière**. Scotchez la partie de patron au plastique, ne coupez pas les crans dans le plastique, mais marquez-le (gravez-le ou utilisez du marqueur permanent peut-être). Vous ne voulez pas vraiment de bords coupants, alors veillez à ce que tout soit bien lisse et arrondis (surtout sur les bords pointus).
+A typical Florent layout looks like this:
 
-Une mise en page typique de Florent ressemble à ça :
-
-![Une mise en page typique de Florent](/img/patterns/florent/layout.svg)
+![A typical Florent layout](/img/patterns/florent/layout.svg)
 
 ## Construction
 
-### Etapé 1 : Thermocoller l'entoilage
+### Step 1: Fuse interfacing
 
-En fonction du grammage de votre tissu, vous aurez peut-être besoin de thermocoller toutes les parties de votre tissu principal.
-Peu importe l'épaisseur de votre tissu, vous devriez songer à renforcer les côtés de la visières (là où le cran se situe).
-Cela aidera à empêcher les bords pointus de la partie en plastique de sortir à l'extérieur de la casquette dans cette zone.
+Depending on your fabric weight you might want to fuse all your main fabric parts No matter the thickness of your fabric, you should consider reinforcing the sides of your brim parts (where the notch mark is). This will help prevent the pointy ends of the plastic part to poke outside of the cap on this area
 
-![Protéger cette zone d'être transpercée par la visière en plastique](step16.svg)
+![Protect this area from being pocked through by the plastic brim](step16.svg)
 
-### Etape 2 : Fermer la pince arrière
+### Step 2: Closing the back dart
 
-#### Version avec la partie du dessus coupée au pli
+#### Version with top part cut on fold
 
-Vous devriez marquer le haut de la pince arrière sur l'envers du tissu pour savoir où arrêter votre couture.
-	
-![Marquer la fin de la pince](step01.jpg)
-	
-Il y a différentes astuces pour coudre des pinces, voilà comment je m'y prends (je crois que cela s'appelle "équilibrer la pince") :
-préparez un rectangle coupé dans le biais du même tissu que celui que vous allez coudre et la placer sous le point de votre future pince.
-Piquez la pince en démarrant du bas et continuez de piquer quelques points après le haut de la pince. 
-Laissez une bonne longueur de fil pour faire un noeud à la main.
+You should mark the top of the back dart on the wrong side of the fabric so that you know where to end your seam
 
-![Pince équilibrée](step02.jpg)
+![Marking the end of the dart](step01.jpg)
 
-Là où le rectangle de tissu commence, coupez la marge de couture qui est contre ce rectangle, jusqu'à la couture de façon à ce que la couture puisse être ouverte au fer avant le rectangle.
-Sur la zone où la pince est piquée avec le rectangle, couchez les marges de couture d'un côté, et le rectangle plié vers l'autre côté.
-Dégarnissez les bords du rectangle. Le bord se trouvant contre le tissu principal est plus large, celui par-dessus plus étroit.
+There is several tricks to sewing darts, here is how I do it (I think it is called "balancing the dart"): prepare a bias cut rectangle of the same fabric you are going to stitch and place it underneath the point of your future dart. Stitch the dart starting from the bottom and keep stitching a few stitching after the top dart. Leave a good length of thread to make a knot by hand.
 
-#### Version avec la partie du dessus coupée deux fois
-Cette pince est plus directe étant données que la couture est continue. 
-Piquez simplement tout du long.
+![Balanced dart](step02.jpg)
 
-#### Repasser la couture
-Vous aurez probablement à cranter les marges de couture pour les aplatir.
-Utiliser un coussin de tailleur ou quelque chose d'arrondi pour vous aider à ouvrir les coutures tout en gardant la jolie forme que vous venez de créer.
-	
-#### Surpiquer
-En fonction du style que vous voulez obtenir, vous pouvez surpiquer toutes vos coutures (à la machine ou à la main).
-Cependant, la visière avant sera un peu délicate à travailler avec la machine (mais pas impossible). Dans tous les cas, j'écris ça ici et je ne vous le rappellerai pas après chaque étape, mais basiquement, le procédé serait : Piquer, Repasser, Surpiquer, Répéter à la prochaine étape.
+Where the rectangle of fabric starts, cut the seam allowance that is against this rectangle, up to the seam so that the seam can be ironed flat open before the rectangle. On the area where the dart is stitched with the rectangle, iron both seam allowances on one side, and the folded rectangle on the other side. Layer the edges of the rectangle. The edge against the main fabric is wider, the one above is smaller
 
-### Etape 3 : Optionnelle : Assembler les deux parties des côtés.
-Cela s'applique seulement si vous coupez en deux parties la partie du côté.
-C'est une couture droite. Pas grand chose à dire là-dessus. 
-Repassez la couture au fer, en ouvrant les marges de couture.
+#### Version with the top part cut twice
 
-### Etape 4 : Assembler le dessus avec le côté
+This dart is more straight forward since the seam is continuous. Simply stitch the seam all the way
 
-Avertissement : Quelques épingles seront impliquées
-Alignez les crans et épingler les parties ensemble pour que cette partie ronde soit bien maintenue en place.
+#### Ironing the seam
 
-![Epingles](step03.jpg)
-![Encore des épingles](step04.jpg)
+You might have to notch the seam allowance to press it flat. Use a tailoring Ham or something rounded underneath to help you press the seam open whilst keeping the nice shape you just created.
 
-Pour la piqûre, je démarre depuis le milieu du devant, fais une moitié, et je repars au milieu pour faire l'autre moitié (la **partie du côté** est au dessus pour chaque couture).
-Ainsi, si ma machine décale le tissu inférieur, cela donnerait un "décalage symétrique" des deux côtés.
-Crantez et dégarnissez les marges de coutures où c'est nécessaire, sur la courbe, vous voudrez sans doute dégarnir la marge de couture sur la partie du côté et la cranter pour faciliter le repassage.
+#### Top Stitching
 
-![Les marges de couture sont dégarnies, crantées et ouvertes](step05.jpg)
+Depending on the style you want to achieve, you can top stitch all your seams (by machine of by hand). However, the front brim seam will be a bit tricky to do with the machine (but not impossible). Anyway, I put this here and won't remind you about it after each step, but basically, the process would be: Stitch, Iron, Top stitch, Repeat on the next step.
 
-### Etape 5 : La couture externe de la visière.
+### Step 3: Optional: Join both side parts.
 
-Alignez les crans et épingler les parties du dessus et du dessous.
-Techniquement, la partie du dessous a une longueur de couture plus courte, alors vous aurez probablement à tirer un peu pour que les marges de couture se rencontrent.
-En pratique, le tissu est généralement assez élastique pour que la différence de longueur soit compensée.
-Repassez les marges de couture couchées vers la **partie du dessous**
+This applies only if you cut two parts for the side part. It is a straight seam. nothing much to say about that. Iron the seam flat, with the seam allowances open.
 
-### Etape 6 : Insérer la partie en plastique
+### Step 4: Join the top to the side
 
-La partie en plastique est alors insérée à l'intérieur de la visière, en veillant à garder marge de couture plate sur la **partie du dessous**.
-Vous pouvez alors fermer la visière à la main, en gardant les partie en place et avec une bonne tension.
-    
-![La visière est préparée](step06.jpg)
+Warning: There will be quite a few pins involved Align the notches and pin the parts together so that this rounded part is held well in place.
 
-### Etape 7 : Piquer la visière sur la casquette
+![Pins](step03.jpg) ![More pins](step04.jpg)
 
-Alignez les crans et piquer la visière à la casquette.
-Faites attention à ne pas piquer dans le plastique.
-Cela sera peut-être plus facile si vous "libériez" le bras de votre machine.
+For the stitching, I tend to start from the center front, do one half, and then start again, back from the center front to do the other half (the **side part** is on top for both stitches). So that, if my machine shifts the lower fabric, it would be a "symmetrical shift" on both sides. Clip the seam allowances where needed, on the curve, you might want to trim the seam allowance of the side part, and notch it, to help the ironing process.
 
-### Etape 8 : Préparer la doublure
+![The seam allowances are trimmed, clipped and pressed flat open](step05.jpg)
 
-Basiquement, répéter les étapes 2, 3 et 4 avec le **dessus** et les **parties du côté** de la doublure.
-Cela serait aussi le bon moment pour fixer une étiquette sur la **partie du dessus** de la doublure, si ce genre de détail vous intéresse.
+### Step 5: The brim outer seam.
 
-### Etape 9 : Assembler la doublure au tissu principal.
+Align the notches and pin the top and bottom parts. Technically, the lower part has a shorter seam length, so you might have to stretch it so that the seam allowances meet. In practice, fabric is usually stretchy enough so that the length difference can be eased. Iron both seam allowance against the **Bottom part**
 
-Retournez la doublure et placer le tissu principal dessus (endroit contre endroit).
-Epinglez et piquez d'un bord de la visière à l'autre (en laissant la couture de visière ouverte).
+### Step 6: Inserting the plastic part
 
-![Préparation en vue de piquer la doublure à la casquette](step07.jpg)
+The plastic part is then inserted inside the brim, being careful to keep the seam allowance flat on the **Bottom part**. You then hand stitch the brim closed, keeping the parts in place and well tensioned.
 
-N'oubliez pas d'effectuer de bons points arrières pour cette couture étant donné qu'elle va subir des tensions lorsque nous allons retourner la casquette au bon endroit.
-Retournez la casquette à l'endroit.
+![The brim is prepared](step06.jpg)
 
-Au niveau de la visière, bâtissez la doublure en place et assemblez la à la visière de façon à cacher les autres points qui sont déjà sur la marge de couture.
-![Assembler la doublure, finition à la main](step08.jpg)
+### Step 7: Stitching the brim to the cap
 
-### Etape 10 : fixer le dessous de la casquette
+Align the notches and stitch the brim to the cap. Be careful not to stitch onto the plastic. It might be easier if you "free" the arm of your machine
 
-C'est une bonne idée de surpiquer la couture inférieure de la casquette de façon à ce que la doublure reste à l'intérieur. Pour avoir un meilleur contrôle je bâtis généralement d'abord pour obtenir un bord bien défini.
-![Un joli bord net bâti](step09.jpg)
+### Step 8: Prepare the lining
 
-### Etape 11 : Le ruban
+Basically, repeat the steps 2, 3 and 4 with the lining **top** and **side parts**. This would also be a good time to stitch a label on the **top part** of the lining if you are into this kind of things.
 
-Formez une boucle avec le ruban de façon à ce que la circonférence de la boucle corresponde au tour de tête mesuré du porteur de la casquette. Le meilleur résultat est obtenu en épinglant le ruban quand vous l'enroulez autour de la tête du futur propriétaire de la casquette. Une fois la boucle fermée, vous pouvez faire une double vérification et demander si cela convient au porteur.
+### Step 9: Join lining to main fabric.
 
-![Ce ruban empêchera la casquette de se déformer](step10.jpg)
+Turn the lining outside out and place the main fabric in it (good side against good side). Pin and stitch from one end of the brim to the other end of the brim (leaving the brim seam open).
 
-Coupez les extrémités du ruban en forme de flèche pour l'empêcher de sortir.
-![Tout est dans le plus minuscule détail](step11.jpg)
+![Preparation for stitching the lining to the cap](step07.jpg)
 
-Divisez le ruban en deux avec deux épingles
+Don't forget to back tack this stitch quite well since it will get some stretch when we will turn the cap "outside out". Turn the cap outside out, so that the good side is outside. On the Brim area, baste the lining in place and hand stitch it to the brim in a way to hide the other stitches that are already on the seam allowance. ![Joining the lining, finishing by hand](step08.jpg)
 
-![Evidemment, la casquette est symétrique, alors nous devrions aussi distribuer le ruban de façon égale des deux côtés](step12.jpg)
+### Step 10: Top stitching the bottom of the cap
 
-Epinglez le ruban en place : les deux épingles servent à distribuer le ruban équitablement des deux côtés. 
-Placez une épingle sur l'arrière et une épingle sur l'avant.
-Etant donné que la visière est maintenue en place, elle ne peut pas être trop étirée, alors, épingler le ruban dans cette zone "normalement".
-Pour la partie restante, vous devrez peut-être réduire le tissu le long du ruban.
-Je recommande de fixer le ruban en place à la main, sur les deux bords du ruban.
-    
-![Les deux bords du ruban sont fixés à l'aide d'un point glissé, et le bord de la casquette est surpiquée](step13.jpg)
+It is a good idea to top stitch the bottom seam of the cap so that the lining stays inside. To have a better control I usually baste it first, so that the edge is sharp. ![A nice crisp basted edge](step09.jpg)
 
-### Etape 12 : Piquer le côté à la visière
-Nous avons presque terminé, et la dernière étape sera de fixer le haut de la visière au devant du corps de la casquette. 
-Epingler les deux parties en position de l'extérieur, retourner la casquette du côté de la doublure et piquer les deu parties ensemble plusieurs fois.
+### Step 11: The tape
 
-![Epingler en place](step14.jpg)
-![Piquer en place, du côté de la doublure](step15.jpg)
+Form a loop with the tape so that the circumference of the loop matches the measured head circumference of the wearer of the cap. The best result is achieved when you pin the tape while you are wrapping it around the head of the future owner of the cap. Once the loop is closed, you can even double check it and ask if this fit is OK for the wearer.
 
-![Fini!](finished.gif)
+![This tape will keep the cap from stretching](step10.jpg)
+
+Trim the ends of the tape in an arrow shape to keep it from poking out. ![It's all in the smallest details](step11.jpg)
+
+Divide the tape in two with two pins
+
+![Obviously, the cap is symmetrical, so we might as well distribute the tape evenly on both sides](step12.jpg)
+
+Pin the tape in place: The two pins are used to distribute the tape equally on both sides. Place one pin at the back, and the other at the front. Since the brim is held in place it can't be much stretched, so pin the tape in this area "normally" For the remaining part you might need to ease the fabric along the tape. I recommend to hand stitch the tape in place, on both edges of the tape
+
+![Both edges of the tape are slip stitched, and the edge of the cap is top stitched](step13.jpg)
+
+### Step 12: Stitch the side to the brim
+
+We are almost done, and the last step will be to attach the brim top to the front of the body of the cap. Pin the two part in position from the outside, turn the cap on the lining side and stitch both parts together several times.
+
+![Pin it in place](step14.jpg) ![Stitch it in place, from the lining side](step15.jpg)
+
+![All done!](finished.gif)
