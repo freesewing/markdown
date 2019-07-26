@@ -1,17 +1,18 @@
 ---
-title: Surjeteuse
-path: /fr/docs/sewing/serger
+title: Serger
+path: /en/docs/sewing/serger
 ---
-![L'envers fini d'une couture surjetée](serged-seam.jpg)
 
-![Ma surjeteuse, une Bernina 700D](serger.jpg)
+![The finished backside of a serged seam](serged-seam.jpg)
 
-Une surjeteuse est un type de machine à coudre qui peut à la fois couper du tissu et effectuer une couture élastique à point de navette.
+![My serger, a Bernina 700D](serger.jpg)
 
-Les surjeteuses utilisent de multiples fils et aiguilles pour ne pas uniquement assembler, mais aussi bloquer le tissu. Elles sont souvent utilisées pour les tissus en maille et d'autres tissus élastiques.
+A serger or overlock is a type of sewing machine that can both cut fabric and make a stretch lockstitch.
 
-> Le terme overlock peut également être trouvé en Europe pour désigner une surjeteuse. Toutefois, je préfère employer le mot surjeteuse comme cela évite la confusion avec les machines au nom similaire de type overlock/recouvreuse.
->
-> Une confusion supplémentaire est ajoutée par le fait que certaines machines à coudre ont un point overlock qui imite le role d'une surjeteuse.
->
-> Pour éviter toute confusion, j'utilise le terme surjeteuse pour faire référence à la machine dédiée. 
+Sergers use multiple threads and needles to not only make the seam, but also lock the fabric. They are very often used with knit or other stretchy fabrics.
+
+> The term overlock is more common in Europe for a serger. However, I prefer to use serger as it avoids confusion between the very similar named overlock and coverlock machines.
+> 
+> Further confusion is added by the fact that some sewing machines have an overlock stitch that mimics the role of a serger.
+> 
+> To steer clear of all this, I use serger to refer to the dedicated machine.
