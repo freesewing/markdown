@@ -1,8 +1,8 @@
 ---
-title: Tour des petites hanches
-path: /fr/docs/measurements/hipscircumference
+title: Hips circumference
+path: /en/docs/measurements/hipscircumference
 ---
 
-Le **tour des petites hanches** est mesuré en haut du bassin.
+The **hips circumference** is measured at the top of your hipbones.
 
-Pour mesurer votre **tour de bassin**, placez le mètre ruban autour de votre corps au niveau de l'os du bassin.
+To measure your **hips circumference** put a tape measure around your body at the height of your hip bone.
