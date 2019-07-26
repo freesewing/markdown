@@ -1,8 +1,8 @@
 ---
-title: Tour de cou
-path: /fr/docs/measurements/neckcircumference
+title: Neck circumference
+path: /en/docs/measurements/neckcircumference
 ---
 
-Le **tour de cou** est la mesure autour de votre cou, là où serait le col d'une chemise et où vous porteriez une cravate.
+The **neck circumference** is the measurement around your neck, at the level you would wear your shirt collar, or tie.
 
-Pour mesurer votre **tour de cou**, enroulez le mètre ruban autour de votre cou là où se trouverait votre col de chemise.
+To measure your **neck circumference**, wrap the tape measure around your neck where your shirt collar would sit.
