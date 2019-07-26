@@ -1,9 +1,10 @@
 ---
 date: 2018-02-05
-title: Un gilet Wahid avec des boutonnières passepoilées
+title: A Wahid Waistcoat with bound buttonholes
 img: showcase.jpg
-caption: Croyez-le ou non, c'est son troisième projet de couture.
-patterns: [wahid]
+caption: Believe it or not, this is only his third sewing project ever.
+patterns:
+  - wahid
 author: funloveadventure
 ---
 
@@ -13,10 +14,8 @@ author: funloveadventure
 
 ![](4.jpg)
 
-> ##### Voir les originales sur le compte Instagram de funloveadventure
->
-> Ces images proviennent du 
-> [compte Instagram](https://www.instagram.com/funloveadventure/) de FIXME.
-> Elles sont reproduites avec permission.
-
+> ##### See the originals on the Instragram feed of funloveadventure
+> 
+> These images are from [the Instagram feed](https://www.instagram.com/funloveadventure/) of FIXME. They are published here with permission.
+> 
 > FIXME: What user is this?
