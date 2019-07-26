@@ -1,52 +1,48 @@
 ---
-title: Réaliser Tamiko
-path: /fr/docs/patterns/tamiko
+title: Making Tamiko
+path: /en/docs/patterns/tamiko
 ---
 
-## Ce dont vous avez besoin
+## What you need
 
-Pour réaliser Tamiko, vous aurez besoin de ce qui suit :
+To make Tamiko, you will need the following:
 
-- Fournitures de base pour la couture
-- Environ 1 mètre de tissu approprié ([voir les Options de tissu](#options-de-tissu))
+- Basic sewing supplies
+- About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
 
-## Options de tissu
+## Fabric options
 
-Ce patron a beaucoup de bords non finis, alors vous aurez besoin de quelque chose qui ne s'effiloche pas. Et vous voudrez un tissu avec un joli drapé de préférence.
+This pattern has a lot of unfinished edges, so you need something that does not ravel. And you want to go for something with a nice drape.
 
-Pour faire court, optez pour une tissu en maille ou du scuba léger. Pas d'étoffe tissée.
+Long story short, go for a knitted fabric, or some light scuba or something. No wovens.
 
-## Découpe
+## Cutting
 
- - **Tissu principal**
-   - Coupez **1 top Tamiko** au pli
+- **Main fabric** 
+ - Cut **1 Tamiko top** on the fold
 
-Tamiko est un patron zéro-déchet. Il s'agit d'un rectangle qui est coupé au pli. Ni plus ni moins.
-Il n'y a donc qu'une seule pièce pour ce top, que nous appellerons simplement **top Tamiko**.
-Il doit petre coupé au pli le long du bas.
+Tamiko is a zero-waste pattern. It's a rectangle that's cut out on the fold. Not more than that. There's only one part to this top, we will simply refer to it at the **Tamiko top**. It needs to be cut on the fold along the bottom.
 
-> Coupez l'emmanchure, mais laissez de la marge de couture
+> Cut out the armhole, but leave seam allowance
 
-Ci-dessous une ébauche typique de Tamiko :
+Below is a typical Tamiko draft:
 
-![Une ébauche typique de Tamiko](layout.svg)
+![A typical Tamiko draft](layout.svg)
 
-> La [légende des notations](/fr/docs/patterns/notation) explique la signification de tous les différents marquages et les lignes de votre patron.
-
+> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 
-### Etape 1 : Finir la couture de l'emmanchure
+### Step 1: Finish the armhole seam
 
-![Finir la couture de l'emmanchure](step03.png)
+![Finsh the armhole seam](step03.png)
 
-Finissez la couture de l'emmanchure avec un ourlet étroit.
+Finish the armhole seam with a narrow hem.
 
-### Etape 2 : Finir le haut
+### Step 2: Finish the top
 
-![Coudre les trois lignes de couture qui sont marquées sur votre ébauche](step04.png)
+![Sew the three seamlines that are marked on your draft](step04.png)
 
-> Avec votre top plié, c'est une bonne idée d'épingler les deux moitiés ensemble.
-> De cette façon, votre top ne peut pas glisser pendant que nous le finissons.
+> As your top is folded, it's a good idea to pin both halves together. This way, your top can't shift around while we finish it.
 
-Cousez les trois lignes de couture qui sont marquées sur votre ébauche.
+Sew the three seamlines that are marked on your draft.
