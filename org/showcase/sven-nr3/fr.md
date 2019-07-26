@@ -1,8 +1,10 @@
 ---
 date: 2017-02-19
-title: Un Sven verts avec des détails noirs aux épaules et des bords côtes
+title: A green Sven with a black shoulder detail and ribbing
 img: showcase.jpg
-caption: Ce tissu contient de la laine, il est super chaud.
-patterns: [sven]
+caption: This fabric has wool in it a is super warm.
+patterns:
+  - sven
 author: joost
 ---
+
