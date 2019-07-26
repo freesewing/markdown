@@ -1,19 +1,14 @@
 ---
-title: Réaliser Bent
-path: /fr/docs/patterns/bent
+title: Making Bent
+path: /en/docs/patterns/bent
 ---
 
-## Bent est un patron de base, pas un patron fini
+## Bent is a block, not a pattern
 
-Un patron de base est, comme son nom l'indique, une forme basique sur laquelle les autres patrons s'appuient.
-Ils sont parfois appelés slopers, bien que les puristes diront qu'ils ne représentent pas la même chose.
+A block is a basic shape on which other patterns are based. They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
 
-Le fait est que cela ne sert pas à grand chose de donner des instructions sur la façon de réaliser Bent.
+Point is, there is no point in providing instructions on how to make Bent.
 
-Pourquoi ? Parce que Bent n'est pas supposé être fait tel quel, mais sert plutôt comme base pour la conception de vos propres patrons.
+That's because Bent is not supposed to be made as-is, but rather can serve as the basis for your own pattern designs.
 
-> Quelques patrons basés sur Bent comprennent 
-> [Carlton](/patterns/carlton),
-> [Carlita](/patterns/carlita),
-> et
-> [Jaeger](/patterns/jaeger).
+> Some of the patterns based on Bent include [Carlton](/patterns/carlton), [Carlita](/patterns/carlita), and [Jaeger](/patterns/jaeger).
