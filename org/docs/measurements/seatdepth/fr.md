@@ -1,8 +1,8 @@
 ---
-title: Hauteur du montant
-path: /fr/docs/measurements/seatdepth
+title: Seat depth
+path: /en/docs/measurements/seatdepth
 ---
 
-La **hauteur du montant** est la distance verticale entre la ligne de taille d'un pantalon et la surface sur laquelle vous être assis.
+The **Seat depth** measurement is the height your trouser waist rises from the surface you are sitting on.
 
-Pour mesurer votre **hauteur de montant**, asseyez-vous droit sur une chaise plate ou bien une table, et mesurer la distance entre la ligne de taille et la chaise/table.
+To measure your seat depth, sit straight on a flat chair or table, and measure from hip line down to the chair/table.
