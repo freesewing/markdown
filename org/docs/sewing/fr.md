@@ -1,7 +1,5 @@
 ---
-title: Documentation pour la couture
-path: /fr/docs/sewing
-index: true
+title: Sewing
 ---
 
-Ci-dessous vous trouverez la liste de la documentation concernant quelques termes de terminologie de couture utilisés sur freesewing.org.
+Documentation on some of the sewing terminology and techniques used on freesewing.org.
