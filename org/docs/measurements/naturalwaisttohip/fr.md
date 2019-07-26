@@ -1,5 +1,6 @@
 ---
-title: Longueur de la taille jusqu'aux petites hanches
-path: /fr/docs/measurements/naturalwaisttohip
+title: Natural waist to hip
+path: /en/docs/measurements/naturalwaisttohip
 ---
-La **longueur de la taille jusqu'au petites hanches** est mesurée à partir de votre taille naturelle jusqu'à l'os du bassin (là où repose votre pantalon). Mesurez-la sur le côté de votre corps.
+
+The **natural waist to hip** is measured from your natural waist down to the top if your hip bone (where your trousers sit). Measure it a the side of your body.
