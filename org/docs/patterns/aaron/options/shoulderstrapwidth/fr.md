@@ -1,9 +1,10 @@
 ---
-title: Largeur de bretelle
-path: /fr/docs/patterns/aaron/options/shoulderstrapwidth
+title: Shoulderstrap width
+path: /en/docs/patterns/aaron/options/shoulderstrapwidth
 pattern: aaron
 option: shoulderStrapWidth
 ---
-![L'option largeur de bretelle sur Aaron](./shoulderstrapwidth.svg)
 
-Détermine la largeur des bretelles.
+![The shoulder strap width option on Aaron](./shoulderstrapwidth.svg)
+
+Determines the width of the shoulder straps.
