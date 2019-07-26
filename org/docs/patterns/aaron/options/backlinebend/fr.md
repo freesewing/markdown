@@ -1,11 +1,12 @@
 ---
-title: Forme de l'emmanchure dos
-path: /fr/docs/patterns/aaron/options/backlinebend
+title: Back armhole shape
+path: /en/docs/patterns/aaron/options/backlinebend
 pattern: aaron
 option: backlineBend
 ---
-![L'option forme de l'emmanchure dos sur Aaron](./backlinebend.svg)
 
-Détermine la courbure de l'emmanchure dans le dos. Autrement dit, à quel point l'emmanchure est ouverte dans votre dos.
+![The back armhole shape option on Aaron](./backlinebend.svg)
 
-> Des valeurs plus fortes courbent davantage l'emmanchure, donnant un style dos nageur.
+Determines the bend of the armhole at the back. In other words, the amount the arm opening is cut-out on your back.
+
+> Higher values bend the armhole more, resulting in a more raceback-style top.
