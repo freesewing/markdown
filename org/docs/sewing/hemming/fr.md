@@ -1,12 +1,12 @@
 ---
-title: Ourlet
-path: /fr/docs/sewing/hemming
+title: Hemming
+path: /en/docs/sewing/hemming
 ---
 
-![L'ourlet au bas d'un T-shirt](coverlock-hem.jpg)
+![The hem at the bottom of a T-shirt](coverlock-hem.jpg)
 
-Un ourlet est un type de finition qui est faite sur le bas d'un vêtement.
+Hemming, or a hem, is a type of finish that is done on the bottom of a garment.
 
-L'ourlet de votre pantalon est là où ce dernier rencontre vos chaussures. L'ourlet d'une robe est sa bordure inférieure.
+The hem of your trousers is where they meet your shoes. The hem of a dress is the bottom edge of the dress.
 
-Un ourlet n'est pas une couture dans le sens où il n'assemble pas deux parties ensemble. Il est plutôt utilisé pour finir la bordure du tissu et l'empêcher de s'effilocher.
+The hem is not a seam in the sense that it does not join two parts together. Rather hemming is used to finish the fabric edge and prevent it from fraying.
