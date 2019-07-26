@@ -1,21 +1,21 @@
 ---
 layout: onecol
-title: Bâti
-path: /fr/docs/couture/bati
+title: Basting
+path: /en/docs/sewing/basting
 ---
 
-![La forme de cette poche arrière en denim est bâtie avant que cette poche soit surpiquée sur le vêtement](basting.jpg)
+![The shape of this denim back pocket is basted before the pocket is topstitched to the garment](basting.jpg)
 
-La bâti est une couture temporaire qui sert à maintenir les pièces en place.
+Basting is temporary sewing to hold things in place.
 
-Il est typiquement fait à la main, mais il est également possible d'effectuer un bâti à la machine.
+It is typically done by hand, but you can also machine baste.
 
-Des exemples où le point de bâti est souvent utilisé sont :
+Examples of where basting is commonly used are:
 
- - bâtir une couture avant de la piquer
- - bâtir un ornement, une poche ou une autre pièce avant de les piquer
- - bâtir des pinces ou d'autres modifications de patron pendant l'ajustement du vêtement sur un mannequin.
+- Basting a seam in place before sewing it
+- Basting an ornament, pocket, or other part in place before attaching it
+- Basting darts or other pattern changes while fitting the garment on a model
 
-Le bâti n'est jamais permanent, mais uniquement un moyen temporaire de maintemir les choses en place.
+Basting is never permanent, but merely a temporary measure to hold things in place.
 
-> Bâtir et épingler sont deux techniques différentes employées dans des buts similaires.
+> Basting and pinning are different techniques for similar situations
