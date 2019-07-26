@@ -1,8 +1,8 @@
 ---
-title: Tour de poignet
-path: /fr/docs/measurements/wristcircumference
+title: Wrist circumference
+path: /en/docs/measurements/wristcircumference
 ---
 
-Le **tour de poignet** mesure la circonférence de votre poignet.
+The **wrist circumference** measurement is the circumference of your wrist.
 
-Pour mesurer votre **tour de poignet**, positionnez le mètre ruban autour de votre poignet, là où votre avant-bras rencontre votre main.
+To measure your **wrist circumference**, run the tape measure around your wrist, where your arm joins your hand.
