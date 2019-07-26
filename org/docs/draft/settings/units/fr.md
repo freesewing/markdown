@@ -1,16 +1,14 @@
 ---
-title: Unités
-path: /fr/docs/draft/settings/units
-setting: units
+title: Units
 ---
 
-Ceci contrôle les unités utilisées (dans le texte) sur le patron. 
+This controls the units used (by the text) on the pattern.
 
-Freesewing prend en charge deux types d'unités :
+Freesewing supports two types of units:
 
- - Unités métriques (cm)
- - Unités impériales (inch)
- 
-Vous pouvez configurer vos unités par défaut dans les paramètres de votre compte. 
-De plus, vous pouvez fixer les unités de façon individuelle pour chaque modèle.  
-Et si ce n'est pas suffisant, vous pouvez passer outre les unités pour une ébauche individuelle avec ce réglage.
+- Metric units (cm)
+- Imperial units (inch)
+
+You can configure your default units in your account settings.  
+In addition, you can set the units individually for each model.  
+And if that wasn't enough, you can still override the units for an individual draft with this setting.
