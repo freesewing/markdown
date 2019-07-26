@@ -1,3 +1,3 @@
 ---
-title: Bruce
+title: Bruce boxer briefs
 ---

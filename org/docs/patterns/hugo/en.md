@@ -1,3 +1,3 @@
 ---
-title: Hugo
+title: Hugo hoodie
 ---

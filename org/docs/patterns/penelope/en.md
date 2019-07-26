@@ -1,3 +1,3 @@
 ---
-title: Penelope
+title: Penelope pencil skirt
 ---

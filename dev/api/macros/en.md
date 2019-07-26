@@ -85,7 +85,7 @@ The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
 
 ## pd
 
-Adds a *linear dimension* to your pattern.
+Adds a *path dimension* to your pattern.
 
 | Property        | Default | Type                | Description | 
 |-----------------|---------|---------------------|-------------|

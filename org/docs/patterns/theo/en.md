@@ -1,3 +1,3 @@
 ---
-title: Theo
+title: Theo trousers
 ---

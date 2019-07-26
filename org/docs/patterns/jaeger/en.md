@@ -1,3 +1,3 @@
 ---
-title: Jaeger 
+title: Jaeger jacket
 ---

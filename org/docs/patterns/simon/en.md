@@ -1,3 +1,3 @@
 ---
-title: Simon
+title: Simon shirt
 ---

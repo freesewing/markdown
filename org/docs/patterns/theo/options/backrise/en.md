@@ -1,7 +1,7 @@
 ---
 title: Back rise
-path: /en/docs/patterns/theo/options/backrise
-pattern: theo
+path: /en/docs/patterns/theodore/options/backrise
+pattern: theodore
 option: backRise
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Waistband width
-path: /en/docs/patterns/theo/options/waistbandwidth
-pattern: theo
+path: /en/docs/patterns/theodore/options/waistbandwidth
+pattern: theodore
 option: waistbandWidth
 ---
 
