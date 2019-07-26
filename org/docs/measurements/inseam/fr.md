@@ -1,8 +1,7 @@
 ---
-title: Longueur d'entrejambe
-path: /fr/docs/measurements/inseam
+title: Inseam
 ---
 
-La **longueur d'entrejambe** est la mesure êntre le haut de l'intérieur des cuisses jusqu'au sol.
+The Inseam is the measurement from your crotch down to the floor.
 
-Pour mesurer votre longueur d'entrejambe, mesurez à partir du point où vos jambes se rencontrent (l'entrejambe) jusqu'au sol.
+To measure your Inseam, measure down vertically from the point your legs join (at the crotch) down to the floor.
