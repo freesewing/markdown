@@ -1,12 +1,12 @@
 ---
 title: Jersey
-path: /fr/docs/sewing/jersey
+path: /en/docs/sewing/jersey
 ---
 
-![Un morceau de jersey gris](knit-fabric.jpg)
+![A piece of grey jersey](knit-fabric.jpg)
 
-Le Jersey est un type de tissu tricoté. Souvent utilisé pour la fabrication de T-shirts, il a un côté lisse et un côté texturé.
+Jersey is a type of knit fabric. Jersey has a flat and a piled side, and is often used for T-shirts.
 
-Le Jersey peut également être doublement tricoté (appelé parfois du jersey interlock). Cela produit un tissu plus épais avec les mailles lisses à l'extérieur et les mailles texturées bloquées au milieu.
+Jersey can also be double-knitted (sometimes called interlock jersey). This produces a thicker fabric with the flat sides on the outside and the piled sites locked in the middle.
 
-Le Jersey a un bon drapé, ce qui le rend populaire pour la confection de hauts et de robes pour femme.
+Jersey has good drape which makes it a popular choice for women's tops and dresses.
