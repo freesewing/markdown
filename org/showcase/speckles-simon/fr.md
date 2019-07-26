@@ -1,18 +1,17 @@
 ---
 date: 2018-03-05
-title: Une Simon mouchetée par Allie pour son mari
+title: A speckled simon by Allie for her husband
 img: showcase.jpg
-caption: "Cet ensemble de boutons contrastant est une touche formidable."
-patterns: [simon]
+caption: "That constrasting buttonhole packet is a great touch."
+patterns:
+  - simon
 author: Allie
 ---
 
-Allie écrit :
+Allie writes:
 
-> Avez-vous entendu parler de freesewing.org ? C'est pour le moins la meilleure chose qui ait jamais existé !
-   
+> Have you heard of freesewing.org? It’s pretty much the greatest thing ever!
 
-Cette image et cette citation proviennent du blog [the Aspiring Seamstress](https://theaspiringseamstress.wordpress.com/2018/03/01/freesewing-org-simon/)
-Elles sont publiées ici avec sa permission.
+This image and the quote above are from [the Aspiring Seamstress blog](https://theaspiringseamstress.wordpress.com/2018/03/01/freesewing-org-simon/) It is published here with permission.
 
-Suivez le lien ci-dessus pour une critique du patron.
+Follow the link above for a review of the pattern.
