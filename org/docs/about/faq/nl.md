@@ -6,30 +6,30 @@ title: Vaak gestelde vragen
 
 Om praktische redenen. Aangezien we op-maat-gemaakte patronen genereren hebben we je maten nodig om een patroon voor jou te genereren. We moeten ook weten of je metrische of imperiale (duim) eenheden gebruikt.
 
-Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Jou elke keer opnieuw om deze informatie vragen gaat snel vervelen, dus willen we deze informatie opslaan. En jouw account is waar we deze info opslaan.
 
-So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
+Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig is, zou dat hopeloos onpraktisch zijn.
 
-> ##### Are you asking because you don't trust us?
+> ##### Vraag je dit misschien omdat je ons niet vertrouwt?
 > 
-> This question often hints at an underlying distrust towards creating an account. As such, the following questions and answers may also be relevant:
+> Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. De volgende vragen en antwoorden kunnen dus ook relevant zijn:
 > 
-> - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
-> - [Who pays for all of this?](#who-pays-for-all-of-this)
-> - [What's your end game?](#whats-your-end-game)
+> - [Wat doen jullie met mijn persoonlijke gegevens?](#what-are-you-doing-with-my-personal-data)
+> - [Wie betaalt dit allemaal?](#who-pays-for-all-of-this)
+> - [Wat is jullie uiteindelijke bedoeling?](#whats-your-end-game)
 
-## I know my size. So why do I have to enter my measurements?
+## Ik ken mijn maat. Waarom moet ik dan mijn maten invoeren?
 
-Drafting made-to-measure sewing patterns really is **our thing**.  
-If you insist on getting a pattern in a standard size, freesewing is not for you.
+Op-maat-gemaakte naaipatronen genereren is **ons ding**.  
+Als je absoluut een patroon wil in standaard maten is FreeSewing niet voor jou.
 
-No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, freesewing is the only one on that list to not provide sewing patterns in standardized sizes.
+Geen nood, Fiona publiceert [een lange lijst](https://chainstitcher.blogspot.com/p/about-blog.html) van indie patroon ontwerpers, en voor zover we weten is FreeSewing de enige op die lijst die op-maat-gemaakte patronen aanbiedt.
 
-## What are you doing with my personal data?
+## Wat doen jullie met mijn persoonlijke gegevens?
 
-How we handle your personal data is documented in [our privacy policy](/en/docs/privacy/).
+Hoe we met je persoonlijke gegevens omgaan, is gedocumenteerd in [ons privacybeleid](/en/docs/privacy/).
 
-## Who pays for all of this?
+## Wie betaalt dit allemaal?
 
 The freesewing project is supported financially by [our patrons](/en/patrons).
 
@@ -39,7 +39,7 @@ Patrons are regular users like you who agreed to make a small monthly contributi
 > 
 > You can be a patron for as little as 2 euro per month. So why not [become a patron](/en/patrons/join) too?
 
-## What's your end game?
+## Wat is jullie uiteindelijke bedoeling?
 
 We would like freesewing.org to become the WikiPedia of sewing patterns.
 
