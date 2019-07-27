@@ -1,8 +1,10 @@
 ---
 date: 2013-02-16
-title: Braune graue Leinen Theodore Hose von Joostdecock
+title: Brown greyish linnen Theodore trousers by joostdecock
 img: showcase.jpg
-caption: diese sind großartig im Sommer
-patterns: [theodore]
+caption: These are great in summer
+patterns:
+  - theodore
 author: joost
 ---
+
