@@ -2,19 +2,19 @@
 title: Contact info
 ---
 
-You can contact us in more than one way. Here are the options, ranked by how well they scale:
+Je kan ons contacteren op meer dan één manier. Hier zijn je verschillende mogelijkheden, de snelste manieren bovenaan:
 
-## Chat with us on Gitter
+## Chat met ons via Gitter
 
-The freesewing community on Gitter is the best place to ask questions, meet other freesewers, or just hang out and share a laugh.
+De FreeSewing gemeenschap op Gitter is de beste plek om vragen te stellen, andere FreeSewers te ontmoeten, of gewoon een praatje te slaan.
 
-- [Chat with us on Gitter](https://gitter.im/freesewing/freesewing)
+- [Chat met ons via Gitter](https://gitter.im/freesewing/freesewing)
 
-## Create an issue on GitHub
+## Maak een issue aan via Github
 
-Did you spot a mistake? Did something go wrong, or do you have a suggestion for an improvement? Please file an issue on GitHub. You'll need a GitHub account, but they are free.
+Foutje gevonden? Did something go wrong, or do you have a suggestion for an improvement? Please file an issue on GitHub. You'll need a GitHub account, but they are free.
 
-- [Create an issue on GitHub](https://github.com/freesewing/website/issues/new)
+- [Maak een issue aan via Github](https://github.com/freesewing/website/issues/new)
 
 ## Freesewing on social media
 
