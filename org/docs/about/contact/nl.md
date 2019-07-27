@@ -1,5 +1,5 @@
 ---
-title: Contact info
+title: Contactgegevens
 ---
 
 Je kan ons contacteren op meer dan één manier. Hier zijn je verschillende mogelijkheden, de snelste manieren bovenaan:
@@ -12,20 +12,20 @@ De FreeSewing gemeenschap op Gitter is de beste plek om vragen te stellen, ander
 
 ## Maak een issue aan via Github
 
-Foutje gevonden? Did something go wrong, or do you have a suggestion for an improvement? Please file an issue on GitHub. You'll need a GitHub account, but they are free.
+Foutje gevonden? Liep er iets verkeerd, of heb je een suggestie voor verbetering? Maak dan een issue aan via Github. Je hebt een Github accout nodig, maar die zijn gratis.
 
 - [Maak een issue aan via Github](https://github.com/freesewing/website/issues/new)
 
-## Freesewing on social media
+## FreeSewing op sociale media
 
-You can also reach us on social media, not to mention follow or like us.
+Je kan ons ook bereiken op sociale media, en uiteraard kan je ons ook volgen of liken.
 
-- [@freesewing_org on Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
-- [@freesewing_org on Instagram](https://www.instagram.com/freesewing_org/)
-- [Freesewing page on Facebook](https://facebook.com/freesewing.org)
+- [@freesewing_org op Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
+- [@freesewing_org op Instagram](https://www.instagram.com/freesewing_org/)
+- [De FreeSewing pagina op Facebook](https://facebook.com/freesewing.org)
 
 ## E-mail
 
-Send an email to [Joost](mailto:joost@decock.org?subject=Freesewing) or [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
+Stuur een email naar [Joost](mailto:joost@decock.org?subject=Freesewing) of [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
 
-> This option does not scale very well, so you might want to consider the other options first.
+> Als iedereen deze optie kiest loopt het snel spaak. Kies dus waar mogelijk één van de bovenstaande opties.
