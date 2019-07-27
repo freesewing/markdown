@@ -1,10 +1,10 @@
 ---
-title: Frequently asked questions
+title: Vaak gestelde vragen
 ---
 
-## Why do I need to create an account just to download a pattern?
+## Waarom moet ik een account aanmaken vooraleer ik een patroon kan downloaden?
 
-For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
+Om praktische redenen. Aangezien we op-maat-gemaakte patronen genereren hebben we je maten nodig om een patroon voor jou te genereren. We moeten ook weten of je metrische of imperiale (duim) eenheden gebruikt.
 
 Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
 
