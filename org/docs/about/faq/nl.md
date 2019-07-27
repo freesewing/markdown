@@ -31,18 +31,18 @@ Hoe we met je persoonlijke gegevens omgaan, is gedocumenteerd in [ons privacybel
 
 ## Wie betaalt dit allemaal?
 
-The freesewing project is supported financially by [our patrons](/en/patrons).
+Het freesewing project wordt financieel ondersteund door [onze mecenassen](/en/patrons).
 
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine maandelijkse bijdrage te leveren om FreeSewing gaande te houden.
 
-> ##### Join the Freesewing Patrons
+> ##### Word een FreeSewing mecenas
 > 
-> You can be a patron for as little as 2 euro per month. So why not [become a patron](/en/patrons/join) too?
+> Je kan mecenas worden voor slechts 2 euro per maand. Dus waarom geen [mecenas worden](/en/patrons/join)?
 
 ## Wat is jullie uiteindelijke bedoeling?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+We willen van FreeSewing.org de WikiPedia van naaipatronen maken.
 
-We are not interested in fashion, trends, or publishing the hot new pattern of the season. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken.
 
-In addition, we would like see other designers and pattern companies adopt our technology, and work with them for the benefit of all.
+Daarnaast willen we graag zien dat andere ontwerpers en patroon bedrijven onze technologie overnemen, en met hen samenwerken zodat iedereen er beter van wordt.
