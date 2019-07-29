@@ -20,53 +20,65 @@ For clarity, we've broken this up in three different types of roles:
 
 These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
 
-> #### Visitor data
-> 
-> - **What personal data do we store?** 
->     - Your IP address
-> - **Why do we need it?** 
->     - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
-> - **How long do we keep it?** 
->     - We keep these logs for 6 months.
-> - **Do we share it?** 
->     - No, never.
-> 
-> This data is stored for anybody who visits our website or connects to our backend APIs. {.privacy .fs-bq}
-> 
-> #### Profile data
-> 
-> - **What personal data do we store?** 
->     - Your E-mail address
->     - Your username and password
->     - Optional: A profile picture, bio, and your social media accounts
-> - **Why do we need it?** 
->     - To authenticate you
->     - To be able to contact you when required
->     - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
-> - **How long do we keep it?** 
->     - We keep profile data up to 12 months after your last login, or until you remove it.
-> - **Do we share it?** 
->     - No, never.
-> 
-> This data is stored for anybody with an account on our website. {.privacy .fs-bq}
-> 
-> #### Model data
-> 
-> - **What personal data do we store?** 
->     - Body measurements
->     - Whether the model has breasts or not
->     - Optional: An avatar for the model
-> - **Why do we need it?** 
->     - We need the body measurements to draft made-to-measure sewing patterns
->     - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
->     - The model avatar only serves to help you differentiate between your different models
-> - **How long do we keep it?** 
->     - We keep model data up to 12 months after your last login, or until you remove it.
-> - **Do we share it?** 
->     - We never share personal model data
->     - We publish an open data set of measurements, containing fully anonymized data.
-> 
-> This data is stored for anybody with an account on our website which contains one or more models. {.privacy .fs-bq}
+<note>
+
+#### Visitor data
+
+- **What personal data do we store?** 
+ - Your IP address
+- **Why do we need it?** 
+ - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
+- **How long do we keep it?** 
+ - We keep these logs for 6 months.
+- **Do we share it?** 
+ - No, never.
+
+This data is stored for anybody who visits our website or connects to our backend APIs.
+
+</Note>
+
+<note>
+
+#### Profile data
+
+- **What personal data do we store?** 
+ - Your E-mail address
+ - Your username and password
+ - Optional: A profile picture, bio, and your social media accounts
+- **Why do we need it?** 
+ - To authenticate you
+ - To be able to contact you when required
+ - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
+- **How long do we keep it?** 
+ - We keep profile data up to 12 months after your last login, or until you remove it.
+- **Do we share it?** 
+ - No, never.
+
+This data is stored for anybody with an account on our website.
+
+</Note>
+
+<note>
+
+#### Model data
+
+- **What personal data do we store?** 
+ - Body measurements
+ - Whether the model has breasts or not
+ - Optional: An avatar for the model
+- **Why do we need it?** 
+ - We need the body measurements to draft made-to-measure sewing patterns
+ - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
+ - The model avatar only serves to help you differentiate between your different models
+- **How long do we keep it?** 
+ - We keep model data up to 12 months after your last login, or until you remove it.
+- **Do we share it?** 
+ - We never share personal model data
+ - We publish an open data set of measurements, containing fully anonymized data.
+
+This data is stored for anybody with an account on our website which contains one or more models.
+
+</Note>
 
 ## Part 2: Other topics
 
@@ -102,9 +114,9 @@ For questions about this privacy notice, you can contact Joost De Cock at joost@
 
 This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/site/commits/develop/nuxt/content/en/docs/privacy/index.md).
+A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
 
 ## See also
 
-- [Your rights](/rights)
+- [Your rights](/docs/about/rights)
 - [Your consent](/account/consent)
