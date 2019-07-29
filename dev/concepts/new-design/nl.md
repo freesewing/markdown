@@ -27,7 +27,7 @@ import Sorcha from "@freesewing/sorcha";
 let pattern = new Sorcha();
 ```
 
-<tip>
+<Tip>
 
 Constructors are functions you can call with `new` to create an object. As `freesewing.Design()` returns a constructor, you can think of it as a super-constructor.
 

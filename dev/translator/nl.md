@@ -27,7 +27,7 @@ FreeSewing has two different projects on crowdin:
 - [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. 
 - [freesewing/markdown](https://crowdin.com/project/freesewing-md) holds **content**; Things like documentation, blog posts, and so on. 
 
-<note>
+<Note>
 
 ###### What is i18n?
 

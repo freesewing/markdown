@@ -13,7 +13,7 @@ To check how well your pattern scales, you can use the *ant-man* test by samplin
 
 A well-designed pattern will scale a factor 10 down and hold its shape. If your pattern makes assumptions about size, this test will show that.
 
-<warning>
+<Warning>
 
 FIXME: Add instructions on how to test this
 

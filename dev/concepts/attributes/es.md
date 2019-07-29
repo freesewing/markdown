@@ -21,13 +21,13 @@ points.message = new Point(0,0)
   .attr("data-text-class", "note");
 ```
 
-<note>
+<Note>
 
 In this example, we're using attributes to add text to our pattern. The [adding-text](/concepts/adding-text) documentation explains this in detail.
 
 </Note>
 
-<tip>
+<Tip>
 
 When rendering, FreeSewing will output all your attributes. This gives you the possiblity to use any valid attribute to control the appearance.
 

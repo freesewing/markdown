@@ -6,7 +6,7 @@ title: logo
 
 The **logo** plugin provides `logo` [snippet](/api/snippet):
 
-<example part="plugin_logo" caption="An example of the logo snippet" design={false} />
+<Example part="plugin_logo" caption="An example of the logo snippet" design={false} />
 
 ```js
 let { Point, snippets, Snippet } = part.shorthand();
@@ -14,7 +14,7 @@ let { Point, snippets, Snippet } = part.shorthand();
 snippets.logo = new Snippet("logo", new Point(50, 30));
 ```
 
-<tip>
+<Tip>
 
 The logo plugin is part of our [plugin-bundle](/plugins/bundle)
 

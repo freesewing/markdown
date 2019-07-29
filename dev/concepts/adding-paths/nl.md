@@ -11,7 +11,7 @@ Things will now *just work* when you do this:
 paths.example = new Path();
 ```
 
-<tip>
+<Tip>
 
 The [Path API docs](/api/point) list all the things you can do with a path object.
 

@@ -18,7 +18,7 @@ This is a common design pattern where one part builds on another. In our example
 
 Using `inject` will cause FreeSewing to always draft the injected part prior to drafting the part it gets injected to. It will, in other words, influece the draft order.
 
-<note>
+<Note>
 
 For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
 

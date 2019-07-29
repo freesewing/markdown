@@ -15,9 +15,9 @@ points.anchor = new Point(100, 25)
   .attr("data-text-class", "center");
 ```
 
-<example part="point_attr" caption="Text inserted in a FreeSewing pattern" />
+<Example part="point_attr" caption="Text inserted in a FreeSewing pattern" />
 
-<note>
+<Note>
 
 You may have noticed that the text we inserted isn't the text that's shown. That is because, in line with our [best practices](/do) we allow translation of our pattern by inserting a key that is used to lookup the string in the language of the pattern, using [the i18n plugin](/plugins/i18n).
 
@@ -39,4 +39,4 @@ paths.example = new Path()
   .attr("data-text-class", "text-xs center");
 ```
 
-<example part="path_attr" caption="Text on a path" />
+<Example part="path_attr" caption="Text on a path" />

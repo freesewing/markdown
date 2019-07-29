@@ -9,7 +9,7 @@ Measusuremnets are stored in `pattern.settings.measurements`, but thanks to the 
 let quarterChest = measurements.chestCircumference / 4;
 ```
 
-<note>
+<Note>
 
 Keep in mind that [FreeSewing uses millimeter for everything](/concepts/units).
 
