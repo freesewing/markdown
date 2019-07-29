@@ -1,8 +1,10 @@
 ---
 date: 2018-09-29
-title: Huey door Paul
+title: Huey by Paul
 img: showcase.jpg
-caption: Een katoenen capuchon trui met contrasterende voering door Paul
-patterns: [huey]
+caption: "Cotton hoodie with contrasting lining by Paul"
+patterns:
+  - huey
 author: Tiger751023
 ---
+
