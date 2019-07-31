@@ -21,21 +21,21 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 ## Un peu plus de lecture
 
 - Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](fr/concepts)
-- Bookmark [the FreeSewing API docs](/api), they are your reference every time you're not entirely certain how something works
-- Have a look at [our best practices](/do) that will help you make the best possible patterns
+- Mettez en marque page les [docs API de FreeSewing](fr/api), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
+- Prenez en considération [nos meilleures pratiques](/do) qui vous aideront à réaliser des patrons optimaux
 
-## What to do next
+## Pour la suite
 
-Now that you have learned how to create a pattern, why don't you make one?
+Maintenant que vous avez appris comment réaliser un patron, pourquoi ne pas vous lancer dans un nouveau ?
 
-Think about what it is you would like to create, and just do it. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/freesewing) and we'll help you out.
+Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/freesewing) et nous vous donnerons un coup de main.
 
 <note>
 
-###### Tell us how we can improve this tutorial
+###### Dites-nous comment nous pourrions améliorer ce tutoriel
 
-You could do as a real favor by letting us know what you loved or hated about this tutorial.
+Vous nous feriez une belle faveur en nous faisant part de ce que vous avez bien aimé ou détesté dans ce tutoriel.
 
-Where there areas that were not clear? Did we dwell too long on one topic, or rushed through another one too quickly? You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+Y avait-il des parties pas très claires ? Est-ce que nous nous sommes trop attardés sur un sujet, ou au contraire sommes-nous passés trop vite sur un autre sujet ? Votre avis nous aide à améliorer les choses, alors ne soyez pas timides et [dites-nous ce que vous pensez](https://gitter.im/freesewing/freesewing)
 
 </Note>
