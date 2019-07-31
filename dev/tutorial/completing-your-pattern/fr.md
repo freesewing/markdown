@@ -1,9 +1,9 @@
 ---
-title: Completing your pattern
+title: Compléter votre patron
 order: 260
 ---
 
-When we started out, we said a good part boilerplate looks like this:
+Lorsque nous avons commencé, nous avons dit qu'une bonne partie standard ressemblait à cela :
 
 ```js
 export default function(part) {
@@ -22,19 +22,19 @@ export default function(part) {
 }
 ```
 
-So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?*
+Jusqu'à présent, nous en sommes restés à la zone *// Design pattern here* (concevoir le patron ici), mais maintenant nous allons travailler sur la zone sous-jacente *// Complete?* (compléter ?)
 
 <note>
 
-###### The point of (non) complete patterns
+###### L'intérêt des patrons (non) complétés
 
-Users can set the `complete` setting to `false`. When that's the case, you should draft a base outline of the pattern, rather than a fully detailed pattern.i
+Les utilisateurs peuvent régler le réglage `complete` sur `false`. Lorsque c'est le cas, vous devriez ébaucher un contour de base du patron, plutôt qu'un patron totalement détaillé.
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
 </Note>
 
-The `complete` setting is `true` by default, but the user can change it. To access the setting, we merely have to tell `part.shorthand()` that we'd like to access it.
+Le réglage `complete` est sur `true` par défaut, mais l'utilisateur peut le modifier. Pour accéder à ce paramètre, nous avons juste à dire à `part.shorthand()` que nous aimerions y avoir accès.
 
 While we're at it, also add `snippets` and `Snippet`, like this:
 
