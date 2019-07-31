@@ -102,11 +102,11 @@ if (sa) {
 
 Notre bavoir n'utilise pas de marge de couture. Nous allons employer du biais pour la finition. Alors vous pouvez simplement supprimer cette condition.
 
-Toutefois, pour de futures références, `sa` (pour seam allowance) est la variable que vous pouvez obtenir de `part.shorthand()` tout comme `complete`. But instead of `true` or `false` it will hold the amount if seam allowance in mm.
+Toutefois, pour de futures références, `sa` (pour seam allowance) est la variable que vous pouvez obtenir de `part.shorthand()` tout comme `complete`. Mais au lieu des valeurs `true` ou `false`, elle contiendra la quantité de marge de couture en mm.
 
-Note that you can still do `if (sa)` because zero is *falsy*.
+Notez que vous pouvez toujours écrire `if (sa)` parce qu'une valeur nulle est équivalente à un *false*.
 
-We won't be adding seam allowance, but we will be doing something that is essentially the same. Rather than draw an outline outside our bib to indicate the seam allowance, we'll draw one within our bib to mark the bias tape:
+Nous n'ajouterons pas de marge de couture, mais nous allons faire quelque chose qui s'en rapproche dans l'absolu. Plutôt que de dessiner un contour hors de notre bavoir pour indiquer la marge de couture, nous allons en dessiner un au sein de notre bavoir pour signifier le ruban de biais :
 
 ```js
 paths.bias = paths.seam
@@ -116,17 +116,17 @@ paths.bias = paths.seam
   .attr("data-text-class", "center fill-various");
 ```
 
-The `path.offset()` method makes it trivial to add seam allowance, since it will contruct a path parallel at the distance you pass it. 9 times out of 10, you'll be using it as `path.offset(sa)`.
+La méthode `path.offset()` rend la tâche d'ajouter une marge de couture triviale, étant donné qu'elle construit un chemin parallèle à la distance que vous désirez. 9 fois sur 10, vous l'utiliserez en tant que `path.offset(sa)`.
 
-Note that we're also using the attributes again, to change the look of the line, and add text to it, as explained in [Adding text](/concepts/adding-text).
+Notez que nous employons de nouveau les attributs, pour modifier l'aspect de la ligne, et pour ajouter du texte dessus, comme expliqué dans [Ajouter du texte](fr/concepts/adding-text).
 
-## Scalebox and title
+## Echelle et titre
 
-Two more macros and we're done.
+Deux macros en plus et nous aurons terminé.
 
-The `title` macro adds a title to our part. It's not that big a deal here since we only have one part in our pattern. But patterns typically have many different parts, some of them which might look rather similar. That's why you should number your parts and give them a name.
+La macro `title` ajoute un titre à notre partie. Ce n'est pas indispensable ici puisque nous n'avons qu'une seule partie. Mais les patrons ont en général différentes parties, quelques unes d'entre elles peuvent se ressembler. C'est pourquoi vous devriez numéroter vos parties et leur donner un nom.
 
-The `title` macro can help you with that:
+La macro `title` est là pour vous aider :
 
 ```js
 points.title = points.bottom.shift(-90, 45);
@@ -137,15 +137,15 @@ macro("title", {
 });
 ```
 
-The `scalebox` macro prints a box of an exact size. It is used by people who print the pattern to make sure their print is correctly scaled.
+La macro `scalebox` imprime un carré de dimensions exactes. Elle est utilisée par les personnes qui impriment leur patron afin qu'elles puissent vérifier que leur impression est à la bonne échelle.
 
 ```js
 points.scalebox = points.title.shift(-90, 55);
 macro("scalebox", { at: points.scalebox });
 ```
 
-And with that, our pattern is now *complete*:
+Et avec ça, notre patron est maintenant *complet* :
 
 <example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
-We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.
+Nous n'avons pas tout à fait terminé cependant. Il y a une chose supplémentaire que l'utilisateur peut demander : un patron *sans papier*.
