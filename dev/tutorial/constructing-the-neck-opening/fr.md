@@ -1,13 +1,13 @@
 ---
-title: Constructing the neck opening
+title: Construire l'encolure
 order: 160
 ---
 
-Your goal is to construct a slightly oval neck opening that has a circumference that is the `headCircumference` measurements multiplied by the `neckRatio` option.
+Votre but est de construire une encolure légèrement ovale qui a une circonférence égale à la mesure `headCircumference` multipliée par l'option `neckRatio`.
 
-That might involve some trial and error. But since the neck opening will be symetric both horizontal and vertical, you only need to construct one quadrant.
+Cela va peut-être impliquer un peu d'essai-erreur. Mais étant donné que l'encolure sera symétrique à la fois horizontalement et verticalement, vous aurez juste besoin de construire un quart de celle-ci.
 
-We'll be adding some points to our pattern to do just that. But we want to have access to our measurements and options to do so. For this, you first update the shorthand call to indicate you also want access to `measurements` and `options`:
+Nous allons ajouter quelques points à notre patron pour cela. Mais nous voulons avoir accès à toutes nos mesures et options pour ce faire. Pour cela, vous allez d'abord mettre à jour l'appel aux raccourcis pour indiquer que vous voulez également avoir accès à `measurements` et `options`:
 
 ```js
 let {
@@ -20,7 +20,7 @@ let {
 } = part.shorthand();
 ```
 
-Great. Now let's get to work:
+Merveilleux. Maintenant, mettons-nous au travail :
 
 ```js
 // Design pattern here
