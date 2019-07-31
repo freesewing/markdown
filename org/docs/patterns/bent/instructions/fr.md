@@ -1,6 +1,5 @@
 ---
 title: Making Bent
-path: /en/docs/patterns/bent
 ---
 
 ## Bent is a block, not a pattern
