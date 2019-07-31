@@ -1,6 +1,5 @@
 ---
 title: Buttons
-path: /en/docs/patterns/simon/options/buttons
 pattern: simon
 option: buttons
 ---

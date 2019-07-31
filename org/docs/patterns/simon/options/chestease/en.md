@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/simon/options/chestease
 pattern: simon
 option: chestEase
 ---

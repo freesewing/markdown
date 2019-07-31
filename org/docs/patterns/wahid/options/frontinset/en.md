@@ -1,6 +1,5 @@
 ---
 title: Front inset
-path: /en/docs/patterns/wahid/options/frontinset
 pattern: wahid
 option: frontInset
 ---

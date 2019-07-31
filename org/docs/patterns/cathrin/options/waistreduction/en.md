@@ -1,6 +1,5 @@
 ---
 title: Waist reduction
-path: /en/docs/patterns/cathrin/options/waistreduction
 pattern: cathrin
 option: waistReduction
 ---

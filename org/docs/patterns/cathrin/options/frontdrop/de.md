@@ -1,6 +1,5 @@
 ---
 title: Front drop
-path: /en/docs/patterns/cathrin/options/frontdrop
 pattern: cathrin
 option: frontDrop
 ---

@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/bent/options/lengthbonus
 pattern: bent
 option: lengthBonus
 ---

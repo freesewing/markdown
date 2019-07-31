@@ -1,6 +1,5 @@
 ---
 title: Back scye dart
-path: /en/docs/patterns/wahid/options/backscyedart
 pattern: wahid
 option: backScyeDart
 ---

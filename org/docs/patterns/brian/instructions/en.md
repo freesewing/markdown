@@ -1,6 +1,5 @@
 ---
 title: Making Brian
-path: /en/docs/patterns/brian
 ---
 
 ## Brian is a block, not a pattern

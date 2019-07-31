@@ -1,6 +1,5 @@
 ---
 title: Cuff ease
-path: /en/docs/patterns/sven/options/cuffease
 pattern: sven
 option: cuffEase
 ---

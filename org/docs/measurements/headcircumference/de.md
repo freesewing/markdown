@@ -1,6 +1,5 @@
 ---
 title: Head circumference
-path: /en/docs/measurements/headcircumference
 ---
 
 The **head circumference** measurement wraps around the fullest part of your head.

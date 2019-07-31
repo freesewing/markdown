@@ -1,6 +1,5 @@
 ---
 title: Ribbing width
-path: /en/docs/patterns/huey/options/ribbingwidth
 pattern: huey
 option: ribbingWidth
 ---

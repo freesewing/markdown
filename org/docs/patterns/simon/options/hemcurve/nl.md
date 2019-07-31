@@ -1,6 +1,5 @@
 ---
 title: Hem curve
-path: /en/docs/patterns/simon/options/hemcurve
 pattern: simon
 option: hemCurve
 ---

@@ -1,6 +1,5 @@
 ---
 title: Natural waist
-path: /en/docs/measurements/naturalwaist
 ---
 
 The **natural waist** measurement is the circumference of your waist below your ribcage.

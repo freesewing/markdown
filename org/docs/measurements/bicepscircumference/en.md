@@ -1,6 +1,5 @@
 ---
 title: Biceps circumference
-path: /en/docs/measurements/bicepscircumference 
 ---
 The **biceps circumference** measurement goes around the fullest part of your upper arm.
 

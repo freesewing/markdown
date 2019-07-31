@@ -1,6 +1,5 @@
 ---
 title: Making Benjamin
-path: /en/docs/patterns/benjamin
 ---
 
 ## What you need

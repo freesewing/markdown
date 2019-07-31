@@ -1,6 +1,5 @@
 ---
 title: Hips ease
-path: /en/docs/patterns/aaron/options/hipsease
 pattern: aaron
 option: hipsEase
 ---

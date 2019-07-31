@@ -1,6 +1,5 @@
 ---
 title: Armhole depth factor
-path: /en/docs/patterns/simon/options/armholedepthfactor
 pattern: simon
 option: armholeDepthFactor
 ---

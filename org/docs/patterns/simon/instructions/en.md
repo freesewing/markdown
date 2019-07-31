@@ -1,6 +1,5 @@
 ---
 title: Making Simon
-path: /en/docs/patterns/simon
 ---
 
 ## What you need

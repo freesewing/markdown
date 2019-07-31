@@ -1,6 +1,5 @@
 ---
 title: Knit binding
-path: /en/docs/sewing/knit-binding
 ---
 ## What is knit binding anyway?
 

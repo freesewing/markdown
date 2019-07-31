@@ -1,6 +1,5 @@
 ---
 title: Extra top button
-path: /en/docs/patterns/simon/options/extratopbutton
 pattern: simon
 option: extraTopButton
 ---

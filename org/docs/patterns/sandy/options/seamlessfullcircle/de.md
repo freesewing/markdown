@@ -1,6 +1,5 @@
 ---
 title: Seamless full circle
-path: /en/docs/patterns/sandy/options/seamlessfullcircle
 pattern: sandy
 option: seamlessFullCircle
 ---

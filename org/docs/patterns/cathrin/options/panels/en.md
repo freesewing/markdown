@@ -1,6 +1,5 @@
 ---
 title: Panels
-path: /en/docs/patterns/cathrin/options/panels
 pattern: cathrin
 option: panels
 ---

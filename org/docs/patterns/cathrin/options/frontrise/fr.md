@@ -1,6 +1,5 @@
 ---
 title: Front rise
-path: /en/docs/patterns/cathrin/options/frontrise
 pattern: cathrin
 option: frontRise
 ---

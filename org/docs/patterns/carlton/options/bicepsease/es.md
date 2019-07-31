@@ -1,6 +1,5 @@
 ---
 title: Biceps ease
-path: /en/docs/patterns/carlton/options/bicepsease
 pattern: carlton
 option: bicepsEase
 ---

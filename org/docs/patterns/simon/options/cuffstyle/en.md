@@ -1,6 +1,5 @@
 ---
 title: Cuff style
-path: /en/docs/patterns/simon/options/cuffstyle
 pattern: simon
 option: cuffStyle
 ---

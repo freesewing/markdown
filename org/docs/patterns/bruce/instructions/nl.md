@@ -1,6 +1,5 @@
 ---
 title: Making Bruce
-path: /en/docs/patterns/bruce
 ---
 
 ### Video

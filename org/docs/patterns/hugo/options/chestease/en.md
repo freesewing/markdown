@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/hugo/options/chestease
 pattern: hugo
 option: chestEase
 ---

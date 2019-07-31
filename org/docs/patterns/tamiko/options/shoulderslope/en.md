@@ -1,6 +1,5 @@
 ---
 title: Shoulder slope
-path: /en/docs/patterns/tamiko/options/shoulderslope
 pattern: tamiko
 option: shoulderSlope
 ---

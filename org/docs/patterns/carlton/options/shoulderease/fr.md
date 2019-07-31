@@ -1,6 +1,5 @@
 ---
 title: Shoulder ease
-path: /en/docs/patterns/carlton/options/shoulderease
 pattern: carlton
 option: shoulderEase
 ---

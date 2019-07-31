@@ -1,6 +1,5 @@
 ---
 title: Making Jaeger
-path: /en/docs/patterns/jaeger
 ---
 
 > ##### Jaeger is currently in beta, documentation is under construction

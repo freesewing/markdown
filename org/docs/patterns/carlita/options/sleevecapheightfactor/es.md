@@ -1,6 +1,5 @@
 ---
 title: Sleevecap height factor
-path: /en/docs/patterns/carlita/options/sleevecapheightfactor
 pattern: carlita
 option: sleevecapHeightFactor
 ---

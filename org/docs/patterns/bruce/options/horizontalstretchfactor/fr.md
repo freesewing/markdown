@@ -1,6 +1,5 @@
 ---
 title: Horizontal stretch factor
-path: /en/docs/patterns/bruce/options/horizontalstretchfactor
 pattern: bruce
 option: horizontalStretchFactor
 ---

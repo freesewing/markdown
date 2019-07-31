@@ -1,6 +1,5 @@
 ---
 title: Across back factor
-path: /en/docs/patterns/hugo/options/acrossbackfactor
 pattern: hugo
 option: acrossBackFactor
 ---

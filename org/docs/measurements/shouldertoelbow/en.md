@@ -1,6 +1,5 @@
 ---
 title: Shoulder to elbow
-path: /en/docs/measurements/shouldertoelbow
 ---
 
 The **shoulder to elbow** measurement runs from the edge of your shoulder down to your elbow.

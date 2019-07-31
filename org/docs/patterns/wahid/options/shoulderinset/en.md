@@ -1,6 +1,5 @@
 ---
 title: Shoulder inset
-path: /en/docs/patterns/wahid/options/shoulderinset
 pattern: wahid
 option: shoulderInset
 ---

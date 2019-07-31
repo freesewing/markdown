@@ -1,6 +1,5 @@
 ---
 title: Button placket type
-path: /en/docs/patterns/simon/options/buttonplackettype
 pattern: simon
 option: buttonPlacketType
 ---

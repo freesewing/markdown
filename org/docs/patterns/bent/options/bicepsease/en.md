@@ -1,6 +1,5 @@
 ---
 title: Biceps ease
-path: /en/docs/patterns/bent/options/bicepsease
 pattern: bent
 option: bicepsEase
 ---

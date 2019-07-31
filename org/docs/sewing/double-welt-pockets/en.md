@@ -1,6 +1,5 @@
 ---
 title: Double welt pockets
-path: /en/docs/sewing/double-welt-pockets
 ---
 
 > ##### Learn welts with David Page Coffin

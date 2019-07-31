@@ -1,6 +1,5 @@
 ---
 title: Wrist circumference
-path: /en/docs/measurements/wristcircumference
 ---
 
 The **wrist circumference** measurement is the circumference of your wrist.

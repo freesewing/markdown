@@ -1,6 +1,5 @@
 ---
 title: Armhole depth factor
-path: /en/docs/patterns/jaeger/options/armholedepthfactor
 pattern: jaeger
 option: armholeDepthFactor
 ---

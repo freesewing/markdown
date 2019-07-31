@@ -1,6 +1,5 @@
 ---
 title: Upper leg circumference
-path: /en/docs/measurements/upperlegcircumference
 ---
 
 The **knee circumference** is the measurement around your knee.

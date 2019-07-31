@@ -1,6 +1,5 @@
 ---
 title: Making Carlton
-path: /en/docs/patterns/carlton
 ---
 
 These instructions are missing, although we have 

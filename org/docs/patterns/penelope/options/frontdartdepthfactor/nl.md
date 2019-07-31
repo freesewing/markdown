@@ -1,6 +1,5 @@
 ---
 title: Front dart depth factor
-path: /en/docs/patterns/penelope/options/frontdartdepthfactor
 pattern: penelope
 option: frontdartdepthfactor
 ---

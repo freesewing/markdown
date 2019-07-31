@@ -1,6 +1,5 @@
 ---
 title: Front scye dart
-path: /en/docs/patterns/wahid/options/frontscyedart
 pattern: wahid
 option: frontScyeDart
 ---

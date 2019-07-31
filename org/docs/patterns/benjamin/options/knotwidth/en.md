@@ -1,6 +1,5 @@
 ---
 title: Knot width
-path: /en/docs/patterns/benjamin/options/knotwidth
 pattern: benjamin
 option: knotWidth
 ---

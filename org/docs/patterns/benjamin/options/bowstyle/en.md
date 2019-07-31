@@ -1,6 +1,5 @@
 ---
 title: Bow style
-path: /en/docs/patterns/benjamin/options/bowstyle
 pattern: benjamin
 option: bowStyle
 ---

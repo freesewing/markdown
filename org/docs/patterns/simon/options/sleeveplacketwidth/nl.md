@@ -1,6 +1,5 @@
 ---
 title: Sleeve placket width
-path: /en/docs/patterns/simon/options/sleeveplacketwidth
 pattern: simon
 option: sleevePlacketWidth
 ---

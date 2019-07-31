@@ -1,6 +1,5 @@
 ---
 title: Shoulder slope
-path: /en/docs/measurements/shoulderslope
 ---
 
 The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward. You can not measure it directly, but need to calculate the difference between two measurements to find it.

@@ -1,6 +1,5 @@
 ---
 title: Natural waist to seat
-path: /en/docs/measurements/naturalwaisttoseat
 ---
 
 The **natural waist to seat** is the measurement from your natural waist down towards the fullest part of your bum, measured on the side of your body.

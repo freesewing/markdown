@@ -1,6 +1,5 @@
 ---
 title: Back rise
-path: /en/docs/patterns/bruce/options/backrise
 pattern: bruce
 option: backRise
 ---

@@ -1,6 +1,5 @@
 ---
 title: Across back factor
-path: /en/docs/patterns/carlton/options/acrossbackfactor
 pattern: carlton
 option: acrossBackFactor
 ---

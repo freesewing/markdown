@@ -1,6 +1,5 @@
 ---
 title: Svg
-path: /en/docs/developer/api/svg
 components: true
 ---
 

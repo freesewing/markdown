@@ -1,6 +1,5 @@
 ---
 title: Tip width
-path: /en/docs/patterns/benjamin/options/tipwidth
 pattern: benjamin
 option: tipWidth
 ---

@@ -1,6 +1,5 @@
 ---
 title: Armhole depth factor
-path: /en/docs/patterns/bent/options/armholedepthfactor
 pattern: bent
 option: armholeDepthFactor
 ---

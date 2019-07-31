@@ -1,6 +1,5 @@
 ---
 title: Split yoke
-path: /en/docs/patterns/simon/options/splityoke
 pattern: simon
 option: splitYoke
 ---

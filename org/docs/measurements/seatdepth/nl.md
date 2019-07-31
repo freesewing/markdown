@@ -1,6 +1,5 @@
 ---
 title: Seat depth
-path: /en/docs/measurements/seatdepth
 ---
 
 The **Seat depth** measurement is the height your trouser waist rises from the surface you are sitting on.

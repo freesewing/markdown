@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/aaron/options/lengthbonus
 pattern: aaron
 option: lengthBonus
 ---

@@ -1,6 +1,5 @@
 ---
 title: Front pocket height
-path: /en/docs/patterns/jaeger/options/frontpocketheight
 pattern: jaeger
 option: frontPocketHeight
 ---

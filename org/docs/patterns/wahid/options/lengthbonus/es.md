@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/wahid/options/lengthbonus
 pattern: wahid
 option: lengthBonus
 ---

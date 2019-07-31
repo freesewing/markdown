@@ -1,6 +1,5 @@
 ---
 title: Armhole depth factor
-path: /en/docs/patterns/carlton/options/armholedepthfactor
 pattern: carlton
 option: armholeDepthFactor
 ---

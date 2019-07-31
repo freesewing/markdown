@@ -1,6 +1,5 @@
 ---
 title: Pinning
-path: /en/docs/sewing/pinning
 ---
 
 ![Sewing pins are part of the basic sewing supplies](sewing-pins.jpg)

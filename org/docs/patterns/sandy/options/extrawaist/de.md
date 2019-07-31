@@ -1,6 +1,5 @@
 ---
 title: Extra waist
-path: /en/docs/patterns/sandy/options/extrawaist
 pattern: sandy
 option: extraWaist
 ---

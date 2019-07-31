@@ -1,6 +1,5 @@
 ---
 title: Serger
-path: /en/docs/sewing/serger
 ---
 ![The finished backside of a serged seam](serged-seam.jpg)
 

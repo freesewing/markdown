@@ -1,6 +1,5 @@
 ---
 title: Shoulder to shoulder
-path: /en/docs/measurements/shouldertoshoulder
 ---
 
 The **shoulder to shoulder** measurement runs from the tip of your shoulder on one side across your back to the tip of your other shoulder.

@@ -1,6 +1,5 @@
 ---
 title: Making Carlita
-path: /en/docs/patterns/carlita
 ---
 
 ## Maker's notes
