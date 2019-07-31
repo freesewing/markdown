@@ -9,12 +9,12 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 - Vous avez appris à [ajouter des parties](fr/tutorial/your-first-part), [des mesures](fr/tutorial/adding-measurements), et [des options](http://localhost:8000/fr/tutorial/adding-options) à votre fichier de configuration de patron
 - Vous avez appris à quoi ressemble [un bon standard pour démarrer une nouvelle partie](/tutorial/part-structure)
 - Vous avez appris [comment ajouter des points et dessiner des chemins](fr/tutorial/constructing-the-neck-opening)
-- You learned how you can make changes in a loop to [adapt the neckopening](/tutorial/fitting-the-neck-opening) or [rotate the straps](/tutorial/avoiding-overlap) until they were just right
-- You learned about [macros and how to use them](/tutorial/creating-the-closure)
-- You learned different methods to manipulate [points](/api/point) and [paths](/api/path)
-- You learned about using [attributes](/api/attributes) to influence the appearance of points and paths
-- Your learned about what it means to draft [a complete pattern](/tutorial/completing-your-pattern)
-- Your learned about [snippets and how to add them](/tutorial/completing-your-pattern#adding-snippets)
+- Vous avez appris que vous pouvez effectuer des modifications dans une boucle pour [adapter une encolure](fr/tutorial/fitting-the-neck-opening) ou [faire pivoter des attaches](/tutorial/avoiding-overlap) jusqu'à ce qu'elles soient bien placées
+- Vous avez appris ce que sont des [macros et comment les utiliser](fr/tutorial/creating-the-closure)
+- Vous avez appris différentes méthodes pour manipuler des [points](fr/api/point) et des [chemins](fr/api/path)
+- Vous avez appris à utiliser des [attributes](fr/api/attributes) pour influencer l'apparence des points et des chemins
+- Vous avez appris ce que cela signifie d'ébaucher [un patron complet](fr/tutorial/completing-your-pattern)
+- Vous avez appris ce que sont les [snippets et comment les ajouter](fr/tutorial/completing-your-pattern#adding-snippets)
 - You learned [how to offset a path](/tutorial/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
 - You learned how to create a [paperless pattern](/tutorial/paperless-bib) by adding dimensions
 
