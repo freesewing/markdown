@@ -8,7 +8,7 @@ We are not interested in fashion, trends, or publishing the hot new pattern of t
 
 On the surface, freesewing.org might seem like just another website with sewing patterns. But there's a lot more going on.
 
-## FreeSewing is an open source project
+## C'est un projet open source
 
 All of our code, including our sewing patterns, is freely [available on GitHub](https://github.com/freesewing).
 
