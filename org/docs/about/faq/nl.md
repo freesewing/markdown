@@ -12,9 +12,9 @@ Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig 
 
 <note>
 
-##### Are you asking because you don't trust us?
+##### Vraag je dit misschien omdat je ons niet vertrouwt?
 
-This question often hints at an underlying distrust towards creating an account. As such, the following questions and answers may also be relevant:
+Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. De volgende vragen en antwoorden kunnen dus ook relevant zijn:
 
 - [Wat doen jullie met mijn persoonlijke gegevens?](#what-are-you-doing-with-my-personal-data)
 - [Wie betaalt dit allemaal?](#who-pays-for-all-of-this)
@@ -24,31 +24,31 @@ This question often hints at an underlying distrust towards creating an account.
 
 ## Ik ken mijn maat. Waarom moet ik dan mijn maten invoeren?
 
-Drafting made-to-measure sewing patterns really is *our thing*.  
-If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+Op-maat-gemaakte naaipatronen genereren is *ons ding*.  
+Als je absoluut een patroon wil in standaard maten is FreeSewing niet voor jou.
 
-No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, FreeSewing is the only one on that list to not provide sewing patterns in standardized sizes.
+Geen nood, Fiona publiceert [een lange lijst](https://chainstitcher.blogspot.com/p/about-blog.html) van indie patroon ontwerpers, en voor zover we weten is FreeSewing de enige op die lijst die op-maat-gemaakte patronen aanbiedt.
 
 ## Wat doen jullie met mijn persoonlijke gegevens?
 
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
+Hoe we met je persoonlijke gegevens omgaan, is gedocumenteerd in [ons privacybeleid](/docs/about/privacy/).
 
 ## Wie betaalt dit allemaal?
 
-The FreeSewing project is supported financially by [our patrons](/patrons).
+Het freesewing project wordt financieel ondersteund door [onze mecenassen](/patrons).
 
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine maandelijkse bijdrage te leveren om FreeSewing gaande te houden.
 
 <note>
 
-##### Join the Freesewing Patrons
+##### Word een FreeSewing mecenas
 
-You can be a patron for as little as 2 euro per month. So why not [become a patron](/patrons/join) too?
+Je kan mecenas worden voor slechts 2 euro per maand. Dus waarom geen [mecenas worden](/patrons/join)?
 
 </Note>
 
 ## Wat is jullie uiteindelijke bedoeling?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+We willen van FreeSewing.org de WikiPedia van naaipatronen maken.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken.
