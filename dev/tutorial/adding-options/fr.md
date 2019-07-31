@@ -1,21 +1,21 @@
 ---
-title: Adding options
+title: Ajouter des options
 order: 140
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. But there's still a number of choices you have to make:
+Vous savez à quoi devrait ressembler votre bavoir, et vous disposez de la mesure *headCircumference* (pour tour de tête en français). Mais il y a encore un certain nombre de choix que vous allez devoir faire :
 
-- How large should the neck opening be?
-- How wide should the bib be?
-- How long should the bib be?
+- Quelle devrait être la largeur de l'encolure ?
+- Quelle sera la largeur du bavoir ?
+- Quelle longueur devra-t-il avoir ?
 
-You can make all of these choices for the user and set them in stone, so to speak.
+Vous pourriez faire ces choix à la place de l'utilisateur et les graver dans la pierre, pour ainsi dire.
 
-But since you're designing a pattern in code, it's trivial to make your pattern flexible and let the user decide. All you have to do is add options to your pattern.
+Mais étant donné que vous concevez un patron sous forme de code, il est trivial de rendre votre patron flexible et de laisser le choix à l'utilisateur. Tout ce que vous avez à faire est d'ajouter des options à votre patron.
 
-## Add the neckRatio option
+## Ajouter l'option neckRatio
 
-The first option we're going to add controls the ratio between the neck opening and the head circumference. Let's call it `neckRatio`.
+La première option que nous allons ajouter contrôle le ratio entre l'encolure et le tour de tête. Appelons-la `neckRatio`.
 
 Open the config file at `config/index.js` and add this to the options:
 
