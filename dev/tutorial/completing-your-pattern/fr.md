@@ -36,7 +36,7 @@ This has different uses, such as generating patterns to be cut out with a laser 
 
 Le réglage `complete` est sur `true` par défaut, mais l'utilisateur peut le modifier. Pour accéder à ce paramètre, nous avons juste à dire à `part.shorthand()` que nous aimerions y avoir accès.
 
-While we're at it, also add `snippets` and `Snippet`, like this:
+Tant que nous y sommes, ajoutons également `snippets` et `Snippet`, comme ceci :
 
 ```js
 let {
@@ -55,7 +55,7 @@ let {
 
 ## Adding snippets
 
-Snippets are little re-useable things to embellish your pattern with. Things like buttons or buttonholes, a logo, or snaps:
+Les snippets sont de petites choses réutilisables pour embellir notre patron. Des choses comme les boutons et les boutonnières, un logo, ou des boutons pression :
 
 ```js
 // Complete?
@@ -72,17 +72,17 @@ if (complete) {
 }
 ```
 
-We've added a `snap-male` and `snap-female` snippet to the points we had foreseen for that.
+Nous avons ajouté des snippets `snap-male` (pression mâle) et `snap-female` (pression femelle) aux points que nous avons envisagés pour cela.
 
-Because the female snippet is at the back of the fabric, we've made it semi-transparent by setting the `opacity` attribute to `0.5`. Yes, you can do that.
+Etant donné que la pression femelle est sur l'envers du tissu, nous l'avons rendue semi-transparente en réglant l'attribut `opacity` (opacité) à `0.5`. Oui, vous pouvez faire ça.
 
 <tip>
 
-Any attributes you set will be added to the SVG output.
+Tous les attributs que vous réglez seront ajoutés à la sortie SVG.
 
 </Tip>
 
-Since we're adding snippets, let's throw a logo on there to:
+Puisque nous ajoutons des snippets, mettons-y également un logo :
 
 ```js
 points.logo = new Point(0, 0);
@@ -91,18 +91,18 @@ snippets.logo = new Snippet("logo", points.logo);
 
 ## Seam allowance
 
-Just like users can choose whether they want a complete pattern or not, they can choose whether they want to include seam allowance on the pattern or not.
+De la même façon que les utilisateurs peuvent choisir s'ils désirent un patron complet ou non, ils peuvent choisir d'inclure ou non des marges de couture sur le patron.
 
-This is why we have this condition:
+Voici pourquoi nous avons cette condition :
 
 ```js
 if (sa) {
 }
 ```
 
-Our bib does not use seam allowance. Instead we'll finish it with bias tape. So you can simply remove that condition.
+Notre bavoir n'utilise pas de marge de couture. Nous allons employer du biais pour la finition. Alors vous pouvez simplement supprimer cette condition.
 
-However, for future refefence, `sa` is a variable that you can get from `part.shorthand()` just like `complete`. But instead of `true` or `false` it will hold the amount if seam allowance in mm.
+Toutefois, pour de futures références, `sa` (pour seam allowance) est la variable que vous pouvez obtenir de `part.shorthand()` tout comme `complete`. But instead of `true` or `false` it will hold the amount if seam allowance in mm.
 
 Note that you can still do `if (sa)` because zero is *falsy*.
 
