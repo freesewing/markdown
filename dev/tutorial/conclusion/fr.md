@@ -15,12 +15,12 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 - Vous avez appris à utiliser des [attributes](fr/api/attributes) pour influencer l'apparence des points et des chemins
 - Vous avez appris ce que cela signifie d'ébaucher [un patron complet](fr/tutorial/completing-your-pattern)
 - Vous avez appris ce que sont les [snippets et comment les ajouter](fr/tutorial/completing-your-pattern#adding-snippets)
-- You learned [how to offset a path](/tutorial/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
-- You learned how to create a [paperless pattern](/tutorial/paperless-bib) by adding dimensions
+- Vous avez appris [comment décaler un chemin](/tutorial/completing-your-pattern#seam-allowance) pour créer une marge de couture, ou dans notre cas, marquer la ligne pour le ruban de biais
+- Vous avez appris comment créer un [patron sans papier](/tutorial/paperless-bib) en ajoutant des dimensions
 
-## More reading material
+## Un peu plus de lecture
 
-- If you haven't done so already, read through [the basic concepts of FreeSewing](/concepts)
+- Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](fr/concepts)
 - Bookmark [the FreeSewing API docs](/api), they are your reference every time you're not entirely certain how something works
 - Have a look at [our best practices](/do) that will help you make the best possible patterns
 
