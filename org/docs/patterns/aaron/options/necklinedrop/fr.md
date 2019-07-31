@@ -1,6 +1,5 @@
 ---
 title: Neckline drop
-path: /en/docs/patterns/aaron/options/necklinedrop
 pattern: aaron
 option: necklineDrop
 ---
