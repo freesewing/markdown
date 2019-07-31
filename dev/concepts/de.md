@@ -1,5 +1,6 @@
 ---
 title: Basic concepts
+order: 200
 ---
 
 This illustration is a good starting point to gain a better understanding of the main FreeSewing building blocks:
