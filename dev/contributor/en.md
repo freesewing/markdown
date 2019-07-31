@@ -1,5 +1,6 @@
 ---
 title: Documentation for contributors
+order: 700
 ---
 
 Are you interested in contributing to freesewing? 
