@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/bent/options/chestease
 pattern: bent
 option: chestEase
 ---
