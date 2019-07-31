@@ -1,5 +1,5 @@
 ---
-title: Biceps circumference
+title: Tour de bras
 path: /en/docs/measurements/bicepscircumference
 ---
 
