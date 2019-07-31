@@ -1,5 +1,6 @@
 ---
 title: Documentation for contributors
+order: 700
 ---
 
 Are you interested in contributing to freesewing? That's awesome, and exactly why this thing is open source in the first place.
