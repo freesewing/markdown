@@ -1,6 +1,5 @@
 ---
 title: "Store"
-path: /en/docs/developer/api/store
 components: true
 ---
 
