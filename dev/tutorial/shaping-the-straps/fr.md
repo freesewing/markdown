@@ -1,13 +1,13 @@
 ---
-title: Shaping the straps
+title: Mettre en forme les attaches
 order: 200
 ---
 
-Our straps should follow the neck opening, which isn't that hard to do. We just need to keep the control points of our curves at similar proportions. Which means, halfway between the start of the curve, and the corner of our rectangle.
+Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. Il nous faut juste nous assurer que les points de contrôle de nos courbes aient des proportions similaires. Ce qui signifie, à la moitié entre le début de la courbe et le coin de notre rectangle.
 
 <note>
 
-For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`. As always, [the API docs](/api/point) have all the details.
+Pour cela, vous allez employer une nouvelle méthode : `Point.shiftFractionTowards()`. Nous avons déjà utilisé `Point.shift()` et il y a aussi `Point.shiftTowards()` et `Point.shiftOutwards()`. Comme toujours, [les docs API](/api/point) contiennent tous les détails à ce propos.
 
 </Note>
 
@@ -25,7 +25,7 @@ points.edgeTopLeftCp = points.edgeTop.shiftFractionTowards(
 points.edgeTopRightCp = points.edgeTopLeftCp.flipX();
 ```
 
-Now, adapt our `rect` path so it's no longer a rectangle:
+Maintenant, adaptons notre chemin `rect` de façon à ce qu'il ne soit plus un rectangle :
 
 ```js
 paths.rect = new Path()
@@ -38,6 +38,6 @@ paths.rect = new Path()
   .close();
 ```
 
-All of a sudden, things are starting to look like a bib:
+Tout à coup, les choses commencent à prendre la forme d'un bavoir :
 
 <example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
