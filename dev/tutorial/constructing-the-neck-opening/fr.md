@@ -23,7 +23,7 @@ let {
 Merveilleux. Maintenant, mettons-nous au travail :
 
 ```js
-// Design pattern here
+// Design pattern here (concevoir le patron ici)
 points.right = new Point(measurements.headCircumference / 10, 0);
 points.bottom = new Point(0, measurements.headCircumference / 12);
 
@@ -37,13 +37,13 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-You've added some points to your part, and drawn your first path. Let's look at each line in detail:
+Vous avez ajouté quelques points à votre partie, et dessiné votre premier chemin. Examinons chaque ligne en détail :
 
 ```js
 points.right = new Point(measurements.headCircumference / 10, 0);
 ```
 
-- We're adding a point named `right` to `points` which holds our part's points
+- Nous ajoutons un point nommé `right` à `points`, qui contient les points de notre partie
 - We're using the Point constructor, which takes two arguments: The points X and Y values
 - The X value is `measurements.headCircumference / 10`
 - The Y value is `0`
