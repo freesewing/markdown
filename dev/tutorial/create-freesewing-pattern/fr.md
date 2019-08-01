@@ -24,18 +24,18 @@ Cela va charger quelques dépendances, puis vous demander les questions suivante
     - **Pattern type (Type de patron)**: Utilisez les flèches directionnelles pour sélectionner `Pattern` (pour patron)
     - **Department (Département)**: Utilisez les flèches directionnelles pour sélectionner `Accessories` (pour Accessoires)
     - **Author (Auteur)**: Entrez votre nom d'utilisateur GitHub
-    - **GitHub repository**: This will be prefilled for you, so just hit Enter
-    - **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.</ul> 
+    - **GitHub repository (Dépôt Github)**: Cela sera pré-rempli pour vous, alors cliquez juste sur Entrée
+    - **Package manager (Gestionnaire de package)**: Utilisez la flèche pour choisir. En cas de doute, prenez `NPM`.</ul> 
     
-    After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
+    Après avoir répondu à toutes ces questions, le modèle par défaut sera copié, après quoi toutes les dépendances seront installées.
     
     <note>
     
-    This will take a few minutes because we're loading some software for your development environment.
+    Cela prendra quelques minutes car nous chargeons des logiciels pour votre environnement de développement.
     
     </Note>
     
-    When it's ready, you'll need to run two commands in parallel. In the current terminal, enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
+    Lorsque c'est prêt, vous devrez exécuter deux commandes en parallèle. Dans le terminal courant, entrez le répertoire qui vient d'être créé pour notre patron `tutorial` et démarrez rollup en mode veille :
     
     ```bash
     cd tutorial
