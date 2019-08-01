@@ -1,5 +1,6 @@
 ---
 title: Sleevecap ease
+path: /en/docs/patterns/carlton/options/sleevecapease
 pattern: carlton
 option: sleevecapEase
 ---
