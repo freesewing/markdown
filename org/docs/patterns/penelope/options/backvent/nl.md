@@ -1,5 +1,6 @@
 ---
 title: Back vent
+path: /en/docs/patterns/penelope/options/backvent
 pattern: penelope
 option: backVent
 ---
