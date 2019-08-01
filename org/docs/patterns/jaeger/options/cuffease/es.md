@@ -1,5 +1,6 @@
 ---
 title: Cuff ease
+path: /en/docs/patterns/jaeger/options/cuffease
 pattern: jaeger
 option: cuffEase
 ---
