@@ -1,5 +1,6 @@
 ---
 title: Side-front placement
+path: /en/docs/patterns/jaeger/options/sidefrontplacement
 pattern: jaeger
 option: sideFrontPlacement
 ---
