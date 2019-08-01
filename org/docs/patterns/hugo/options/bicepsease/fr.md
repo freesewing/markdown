@@ -1,5 +1,6 @@
 ---
 title: Biceps ease
+path: /en/docs/patterns/hugo/options/bicepsease
 pattern: hugo
 option: bicepsEase
 ---
