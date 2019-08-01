@@ -22,19 +22,19 @@ macro("round", {
 });
 ```
 
-Mais il y a encore quelque chose à apprendre ici. If you look at our earlier use of the `round` macro, you'll notice that we used this line:
+Mais il y a encore quelque chose à apprendre ici. Si vous regardez comment nous avons employer la macro `round` précédemment, vous vous rendrez compte que nous avons utilisé cette ligne :
 
 ```js
   render: true,
 ```
 
-This instructs the `round` macro create a path that draws the rounded corner. Whereas by default, it merely constructs the points required to round the corner.
+Cela instruit la macro `round` de créer un chemin qui dessine un coin arrondi. Alors que par défaut, elle ne fait que dessiner les points requis pour arrondir le coin.
 
-Typically, your rounded corner will be part of a larger path and so you don't want the macro to draw it. That's why the `round` macro's `render` property defaults to `false`.
+Typiquement, votre coin arrondi fera partie d'un chemin plus large et vous ne voulez pas que la macro le dessine. C'est pourquoi la propriété `render` (rendu) de la macro `round` a sa valeur par défaut définie sur `false`.
 
-We've left it out here, and you should also remove it from your earlier use of the `round` macro. We merely set `render` to `true` at that time so you could see what the macro was doing.
+Nous l'avons laissée là, et vous devriez aussi la retirer pour votre emploi précédent de la macro `round`. Nous avons réglé `render` sur `true` à ce moment pour que vous puissiez voir ce que la macro faisait.
 
-With our corners rounded, we should update our path. Fortunately, we merely have to update the start of it. Replace this:
+Avec nos coins arrondis, nous devrions mettre à jour notre chemin. Fort heureusement, nous avons juste à mettre à jour le début de ce dernier. Remplacez ceci :
 
 ```js
 paths.seam = new Path()
@@ -44,7 +44,7 @@ paths.seam = new Path()
   .line(points.edgeRight)
 ```
 
-With this:
+Par ça :
 
 ```js
 paths.seam = new Path()
