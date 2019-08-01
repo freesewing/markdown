@@ -1,5 +1,6 @@
 ---
 title: Hem bonus
+path: /en/docs/patterns/penelope/options/hembonus
 pattern: penelope
 option: hemBonus
 ---
