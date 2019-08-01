@@ -4,7 +4,7 @@ pattern: aaron
 option: armholeDrop
 ---
 
-![The armhole drop option on Aaron](./armholedrop.svg)
+![De diepte van het armsgat bij Aaron](./armholedrop.svg)
 
 Hoeveel lager het armsgat wordt dan de standaard.
 
