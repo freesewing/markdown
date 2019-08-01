@@ -1,5 +1,6 @@
 ---
 title: Across back factor
+path: /en/docs/patterns/carlita/options/acrossbackfactor
 pattern: carlita
 option: acrossBackFactor
 ---
