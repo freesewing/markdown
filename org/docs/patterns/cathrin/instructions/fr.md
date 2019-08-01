@@ -1,5 +1,6 @@
 ---
 title: Making Cathrin
+path: /en/docs/patterns/cathrin
 ---
 
 > #### This documentation is incomplete
