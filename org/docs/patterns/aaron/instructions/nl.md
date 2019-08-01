@@ -4,13 +4,13 @@ title: Aaron maken
 
 ## Stap 1: Sluit de naden
 
-![Close the side and shoulder seams](step01.png)
+![Sluit de zij-en schoudernaden](step01.png)
 
 Leg het voorpand op het rugpand met de juiste kanten tegen elkaar. Overlock de zijnaden, en de korte naden aan de schouderbandjes.
 
 ## Stap 2: Werk de zoom af
 
-![Finish the hem](step02.png)
+![Werk de zoom af](step02.png)
 
 Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
@@ -52,7 +52,7 @@ Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Gee
 
 ### Kies je startpunt
 
-![Applying knit binding](step03a.png)
+![Jersey bies aanbrengen](step03a.png)
 
 Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen. Dit zou ik suggereren:
 
@@ -91,7 +91,7 @@ Misschien moet je een beetje oefenen om dit beet te krijgen.
 
 ### Markeer het einde van je biezen
 
-![Joining the binding ends](step03e.png)
+![Uiteindes van bies aan elkaar zetten](step03e.png)
 
 Met nog een zestal cm te gaan voor de een complete cirkel gemaakt hebben is het tijd om de uiteindes van de biezen aan elkaar te naaien.
 
@@ -103,7 +103,7 @@ Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere 
 
 ### Stik de uiteindes van de biezen aan elkaar
 
-![Join the ends of the binding](step03g.png)
+![Zet de uiteindes van de bies aan elkaar](step03g.png)
 
 Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Naai de uiteindes aan elkaar op de markering.
 
@@ -119,7 +119,7 @@ Nu de uiteindes van je biezen aan elkaar hangen is het tijd om de laatste 6 cm v
 
 ### Plooi je bies over de rand van de stof naar de achterkant
 
-![Fold knit binding to the back](step04a.png)
+![Plooi de jersey bies naar achter](step04a.png)
 
 Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de bies vaststikken.
 
@@ -127,7 +127,7 @@ Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de b
 
 ### Stik de bies vast
 
-![Sew the knit binding down](step04b.png)
+![Stik de jersey bies vast](step04b.png)
 
 Stik langs de goede kant van de stof langs je bies, langs de aanzetnaad (en zo ver mogelijk van de rand), zorg zeker dat je het stuk bies dat je naar achter geplooid hebt mee vaststikt.
 
@@ -143,24 +143,24 @@ Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er 
 
 ##### Let op voor ongelijk transport
 
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.
+Als je je bies door de naaimachine haalt trekken de tandjes van je machine de onderste laag (de achterkant van je bies) vooruit.
 
-In a perfect world, all layers will follow smoothly. But more often than not, the top layer (front of your binding) tends to lag behind a bit. This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
+In een ideale wereld zouden alle lagen gelijkmatig volgen. Maar meestal blijft de bovenste laag (de voorkant van je bies) wat achter. Dit zorgt dat je bies niet helemaal recht rond de randjes geplooid ligt, en lelijke rimpels maakt.
 
-So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje uit om te compenseren. Een boventransportvoet op je naaimachine helpt ook met dit probleem.
 
 </Note>
 
-## Step 5: Trim back knit binding on the inside
+## Stap 5: knip de bies bij aan de binnenkant
 
-![Trim back knit binding on the inside](step05.png)
+![Knip de bies langs de binnenkant bij](step05.png)
 
-On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
+Keer je hemdje naar de verkeerde kant en knip de bies bij om alles netjes af te werken.
 
 <note>
 
-Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+Doe dit voorzichtig zodat je niet per ongeluk een gat in je hemdje knipt. Ik spreek uit ervaring.
 
 </Note>
 
-![That's it, you're done 👍](finished.gif)
+![Dat is het, je bent klaar!](finished.gif)
