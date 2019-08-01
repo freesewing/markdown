@@ -42,36 +42,36 @@ Cela va charger quelques dépendances, puis vous demander les questions suivante
     npm run start
     ```
     
-    Or if you chose to use Yarn as package manager:
+    Ou si vous choisissez d'utiliser Yarn en tant que gestionnaire de package :
     
     ```bash
     cd tutorial
     yarn start
     ```
     
-    Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
+    Maintenant, ouvrez un second terminal, et naviguez jusqu'au sous-dossier `example` et exécutez la même commande là :
     
     <pre><code class="bash:">cd tutorial/example
 npm run start
 </code></pre>
     
-    Or if you chose to use Yarn as package manager:
+    Ou si vous choisissez d'utiliser Yarn en tant que gestionnaire de package :
     
     ```bash
     cd tutorial/example
     yarn start
     ```
     
-    If all goes well, your browser will open and show the following landing page:
+    Si tout se passe bien, votre navigateur s'ouvrira et vous montrera la page suivante :
     
-    ![The FreeSewing development environment](./cfp.png)
+    ![L'environnement de développement FreeSewing](./cfp.png)
     
     <note>
     
-    ###### Using Windows?
+    ###### Vous utilisez Windows ?
     
-    We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have a Windows machine I can test this on.
+    Nous avons testé ceci sur Linux et MacOS, mais pas sur Windows étant donné que je (Joost) ne possède pas une machine Windows sur laquelle je pourrais le tester.
     
-    If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and we'll figure it out together.
+    Si vous rencontrez un problème, vous pouvez joindre [notre chat](https://gitter.im/freesewing/freesewing) et nous trouverons une solution ensemble.
     
     </Note>
