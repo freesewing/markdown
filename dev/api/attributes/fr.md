@@ -1,10 +1,10 @@
 ---
-title: Attributes
+title: Attributs
 ---
 
-Attributes is an object that holds attributes for a variety of other objects.
+Les attributs correspondent à un objet qui contient les attributs pour une variété d'autres objets.
 
-Attributes are attached to [`Point`](/api/point), [`Path`](/api/path), and [`Snippet`](/api/snippet) objects, as well as the internal [`Svg`](/api/svg) object.
+Les attributs sont liés aux objets [`Point`](/api/point), [`Path`](/api/path), et [`Snippet`](/api/snippet), et aussi à l'objet interne [`Svg`](/api/svg) .
 
 All of these have an instantiated Attributes object in their `attributes` property.
 
