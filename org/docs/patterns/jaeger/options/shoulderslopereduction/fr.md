@@ -1,5 +1,6 @@
 ---
 title: Shoulder slope reduction
+path: /en/docs/patterns/jaeger/options/shoulderslopereduction
 pattern: jaeger
 option: shoulderSlopeReduction
 ---
