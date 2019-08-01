@@ -105,43 +105,43 @@ Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere 
 
 ![Join the ends of the binding](step03g.png)
 
-Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Sew them together on the mark.
+Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Naai de uiteindes aan elkaar op de markering.
 
-> 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
+> 6 cm is niet veel, maar zou genoeg moeten zijn om de twee uiteindes makkelijk onder je naaimachine te leggen en aan elkaar te naaien.
 
-### Finish last 6cm of binding
+### Stik de laatste 6 cm van de bies vast
 
 ![Stik de uiteindes van de biezen aan elkaar](step03h.png)
 
-Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
+Nu de uiteindes van je biezen aan elkaar hangen is het tijd om de laatste 6 cm van je bies vast te stikken. Naai dit stukje, 1,5 cm van de rand, zoals eerder.
 
-## Step 4: Fold knit binding to the back and sew down
+## Stap 4: Plooi bies naar achter en stik vast
 
-### Fold your binding over the fabric edge to the back
+### Plooi je bies over de rand van de stof naar de achterkant
 
 ![Fold knit binding to the back](step04a.png)
 
-Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
+Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de bies vaststikken.
 
-> While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
+> Vooraan is de bies twee keer geplooid (en wordt de rand van de stof meteen verborgen), maar aan de verkeerde kant is dit niet nodig. Later kunnen we gewoon het randje wat bijknippen, aangezien jersey niet rafelt. Als we de bies aan de achterkant ook zouden plooien zou dit alleen maar bulk toevoegen.
 
-### Sew your binding down
+### Stik de bies vast
 
 ![Sew the knit binding down](step04b.png)
 
-From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
+Stik langs de goede kant van de stof langs je bies, langs de aanzetnaad (en zo ver mogelijk van de rand), zorg zeker dat je het stuk bies dat je naar achter geplooid hebt mee vaststikt.
 
 <note>
 
-If you have a coverlock machine, that would be perfect for this seam
+Als je een coverlock hebt is dit ook een perfect moment om die te gebruiken
 
 </Note>
 
-You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
+Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er nog iets anders om voor uit te kijken.
 
 <note>
 
-##### Beware of the uneven feed
+##### Let op voor ongelijk transport
 
 As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.
 
