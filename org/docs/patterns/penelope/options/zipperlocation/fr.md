@@ -1,5 +1,6 @@
 ---
 title: Zipper placement
+path: /en/docs/patterns/penelope/options/zipperlocation
 pattern: penelope
 option: zipperlocation
 ---
