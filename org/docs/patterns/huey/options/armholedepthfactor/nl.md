@@ -1,5 +1,6 @@
 ---
 title: Armhole depth factor
+path: /en/docs/patterns/huey/options/armholedepthfactor
 pattern: huey
 option: armholeDepthFactor
 ---
