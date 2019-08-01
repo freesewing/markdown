@@ -1,13 +1,13 @@
 ---
-title: Darts
+title: Nepen
 path: /en/docs/sewing/darts
 ---
 
 ![Bust darts on a blouse](dart.jpg)
 
-Darts are crucial in pattern design as they turn a flat, two-dimensional piece of fabric, into a three-dimensional shape.
+Nepen zijn cruciaal bij het ontwerpen van patronen, ze geven een plat en tweedimensionaal stuk stof vorm.
 
-A dart is created by two lines that form a wedge, and meet each other in the dart point. When the lines are sewn together they create a permanent fold, preventing the fabric from laying flat, thereby creating a three-dimensional shape.
+Een neep wordt gemaakt door twee lijnen die een wig vormen, en elkaar ontmoeten in een punt. Wanneer de lijnen samen vastgestikt worden creëren ze een permanente plooi die de stof verhindert plat te liggen, en zo een driedimensionele vorm maakt.
 
 Darts are used where fabric needs to cover curves in more than one direction. You don't need a dart for your legs because your fabric can follow the curvature of your legs and wrap around it. Your bum does not only curve horizontally, but also vertically. So bums and boobs are typically places where you'll find darts.
 
