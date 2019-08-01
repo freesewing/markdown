@@ -77,14 +77,14 @@ Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera u
 
 ## Le test de l'homme fourmi
 
-Le test de l'homme fourmi It drafts your pattern with a set of *typical* measurements , and then drafts it again with measurements that are 1/10th of those *typical* measurements.
+Un cas particulier de test de modèle est le test dit de *l'homme fourmi*. Cela ébauche votre patron avec un set de mesures *types*, et le dessine de nouveau avec des mesures qui sont le dixième de ces mesures *types*.
 
-It is named after [the cartoon character](https://en.wikipedia.org/wiki/Ant-Man_(film)) who can shrink, yet somehow his suit still fits.
+Ce test est nommé d'apèrs [le personnage de bande dessinée](https://en.wikipedia.org/wiki/Ant-Man_(film)) qui peut rapetisser, et pourtant ses habits lui vont toujours.
 
-The purpose of the antman test is to bring out areas in your pattern where you made assumptions that will not properly scale. Many drafting books will tell you to *add 3cm there* or *measure 2 inch to the right*. Those instructions don't scale, and you should avoid them.
+Le but du test de l'homme fourmi est de mettre en évidence les zones de votre patron où vous avez fait des hypothèses qui ne se mettent pas bien à l'échelle. Beaucoup de livres de patronage vous diront d'*ajouter 3 cm ici* ou de *mesurer 2 pouces vers la droite*. Ces instructions ne s'adapte pas à l'échelle, et vous devriez les éviter.
 
-The best patterns will pass the antman test with 2 exact pattern. One will simply be 1/10th the scale of the other.
+Les meilleurs patrons passeront le test de l'homme fourmi avec 2 patrons identiques. L'un sera simplement le dixième de l'autre en termes d'échelle.
 
 <example sample caption="Congratulations, your bib passes the antman test" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { ant: headcircumference: 39 }, man: 390 } } }} />
 
-When you're happy with how your pattern passes these tests, it's time to complete it.
+Lorsque vous êtes satisfait de la façon dont votre patron passe les tests, il est temps de le compléter.
