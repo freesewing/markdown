@@ -1,69 +1,69 @@
 ---
-title: Making Aaron
+title: Aaron maken
 ---
 
-## Step 1: Close seams
+## Stap 1: Sluit de naden
 
 ![Close the side and shoulder seams](step01.png)
 
-Put front and back on top of each other with good sides together. Serge the side seams, and the short seams at the shoulder straps.
+Leg het voorpand op het rugpand met de juiste kanten tegen elkaar. Overlock de zijnaden, en de korte naden aan de schouderbandjes.
 
-## Step 2: Finish hem
+## Stap 2: Werk de zoom af
 
 ![Finish the hem](step02.png)
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
+Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
 <note>
 
-##### Fold only once, to avoid bulk
+##### Vouw maar een keer om een teveel aan stof te vermijden
 
-Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
+Gebreide stoffen rafelen niet, dus je kan dit gewoon één keer omplooien en vaststikken, en daarna de rand netjes bijknippen.
 
 </Note>
 
-## Step 3: Sew knit binding to the front
+## Stap 3: Stik de halsbies aan de voorkant
 
 <note>
 
-##### About knit binding
+##### Over jersey biezen
 
-If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
+Als [biesjes in jersey](/en/docs/sewing/knit-binding) nieuw zijn, is het misschien interessant om [deze pagina hierover](/en/docs/sewing/knit-binding) te lezen.
 
-###### Repeat steps 3 and 4 for both armholes and the neck opening
+###### Herhaal stappen 3 en 4 voor beide armsgaten en de halsopening
 
-The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
+De handelswijze hieronder kan zowel voor de armsgaten als voor de halsopening gebruikt worden. Met andere woorden, je zal dit drie keer moeten doen.
 
-###### Start with the simplest opening
+###### Start met het makkelijkste gat
 
-I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
+Ik zou aanraden te starten met de opening die de meest gelijke curve heeft. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
 
-Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
+Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met een makkelijker opwarmertje voor je aan de lastigere stukken begint.
 
 </Note>
 
-We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
+We gaan de armsgaten en nekopening afwerken met een [jersey bies](/en/docs/sewing/knit-binding) (Pas op: geen jersey band. Er is een verschil, en dat wordt [hier](/en/docs/sewing/knit-binding) uitgelegd).
 
 <note>
 
-This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
+Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Geen zorgen, als je er een paar maakt ben je een pro voor je het weet.
 
 </Note>
 
-### Pick your spot
+### Kies je startpunt
 
 ![Applying knit binding](step03a.png)
 
-The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
+Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen. Dit zou ik suggereren:
 
-- For the armholes: at the side seam. This will hide our seam under the arm
-- For the neck opening: the center back of the neck. You might want to make this with a pin
+- Voor de armsgaten: aan de zijnaad. Zo zit de naad verstopt onder je arm
+- Voor de halsopening: middenachter aan je nek. Het is aangeraden dit met een speldje aan te duiden
 
-### Place (the start of) your binding
+### Positioneer (het begin van) je bies
 
-![Place (the start of) your binding](step03b.png)
+![Positioneer (het begin van) je bies](step03b.png)
 
-Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
+Leg je hemdje neer met de goede kant naar boven, en leg je bies met de goede kant naar beneden op de stof (dus, goede kanten op elkaar).
 
 Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
 
