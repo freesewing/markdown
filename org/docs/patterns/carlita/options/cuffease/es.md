@@ -1,5 +1,6 @@
 ---
 title: Cuff ease
+path: /en/docs/patterns/carlita/options/cuffease
 pattern: carlita
 option: cuffEase
 ---
