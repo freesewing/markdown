@@ -1,5 +1,6 @@
 ---
 title: Shoulder ease
+path: /en/docs/patterns/carlita/options/shoulderease
 pattern: carlita
 option: shoulderEase
 ---
