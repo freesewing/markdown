@@ -1,5 +1,6 @@
 ---
 title: Waistband overlap
+path: /en/docs/patterns/sandy/options/waistbandoverlap
 pattern: sandy
 option: waistbandOverlap
 ---
