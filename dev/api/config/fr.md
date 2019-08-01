@@ -106,19 +106,19 @@ Voir les [modèles de patron freesewing](https://github.com/freesewing/models) p
 
 Les options sont disponibles en 6 variétés :
 
-- [Constantes](#constants) : Une valeur qui ne peut pas être modifiée
-- [Booléens](#booleans) : Une valeur qui est soit `true` (vrai) ou `false` (faux)
+- [Constants](#constants) (constantes) : Une valeur qui ne peut pas être modifiée
+- [Booleans](#booleans) (booléens) : Une valeur qui est soit `true` (vraie) ou `false` (fausse)
 - [Percentages](#percentages) (pourcentages) : Une valeur en pourcentage, avec des valeurs minimales et maximales
 - [Millimeters](#millimeters) : Une valeur en millimètre, avec des valeurs minimales et maximales
 - [Degrees](#degrees) (degrés) : Une valeur en degré, avec des valeurs minimales et maximales
 - [Counters](#counters) (compteurs) : Une valeur entière, avec des valeurs minimales et maximales
 - [Lists](#lists) (listes) : Une liste d'options avec un contenu par défaut
 
-Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. We use different types because it easier to understand the nature of a given option.
+Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. Nous utilisons des types différents parce qu'il est plus facile ainsi de comprendre la nature d'une option donnée.
 
 ### Constants
 
-If your option is a scalar value (like a string or a number), it will be treated as a constant:
+Si votre option est une valeur scalaire (comme une chaîne ou un nombre), elle sera traitée comme une constante :
 
 ```js
 options: {
@@ -126,13 +126,13 @@ options: {
 }
 ```
 
-Rather than define constants in your code, it's good practice to set them in your configuration file. This way, people who extend your pattern can change them if they would like to.
+Plutôt que de définir des constantes dans votre code, c'est une bonne pratique de les définir dans votre fichier de configuration. De cette façon, les personnes qui étendent votre modèle peuvent les changer si elles le souhaitent.
 
 ### Booleans
 
-If your option is either `true` or `false, or **on** or **off** or **yes** or **no**, you can use a boolean:
+Si votre option prend la valeur `true` (vraie) ou **false** (fausse), ou bien **activée** ou **désactivée**, ou encore **oui** ou **non**, vous pouvez utiliser un booléen :
 
-Your boolean option should be an object with these properties:
+Votre option booléenne devrait être un objet avec ces propriétés :
 
 - `bool` : Either `true` or `false` which will be the default
 
