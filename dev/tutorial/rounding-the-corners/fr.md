@@ -1,9 +1,9 @@
 ---
-title: Rounding the corners
+title: Arrondir les coins
 order: 240
 ---
 
-We already know how to round corners, let the `round` macro do it:
+Nous savons déjà comment arrondir des coins, laissons la macro `round` s'en charger :
 
 ```js
 macro("round", {
@@ -22,7 +22,7 @@ macro("round", {
 });
 ```
 
-But there's still something to be learned here. If you look at our earlier use of the `round` macro, you'll notice that we used this line:
+Mais il y a encore quelque chose à apprendre ici. If you look at our earlier use of the `round` macro, you'll notice that we used this line:
 
 ```js
   render: true,
