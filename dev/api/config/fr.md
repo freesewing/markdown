@@ -286,17 +286,17 @@ Soit `pattern` (patron), soit `block` (patron de base).
 type: "pattern"
 ```
 
-### difficulty
+### difficulty (difficulté)
 
-A `1` to `5` difficulty score that indicates how hard it is to make the pattern:
+Un score de difficulté entre `1` et `5` qui indique à quel point il est difficile de réaliser le patron :
 
 ```js
 difficulty: 3
 ```
 
-### tags
+### tags (étiquettes)
 
-A set of tags to allow filtering of patterns on the website:
+Un ensemble d'étiquettes permettant le filtrage des patrons sur le site web :
 
 ```js
 tags: ["underwear", "top", "basics"],
@@ -304,7 +304,7 @@ tags: ["underwear", "top", "basics"],
 
 ### optionGroups
 
-Organises your pattern options in groups. It expects an object where the key is the group title, and the value an array of options:
+Organise vos options de patrons en groupes. Elle attend un objet où la clé est le titre du groupe, et où la valeur est un tableau d'options :
 
 ```js
 optionGroups: {
