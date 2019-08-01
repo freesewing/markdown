@@ -7,9 +7,9 @@ Les choses commencent à prendre forme, mais nous ne pouvons pas passer le bavoi
 
 Pour arrondir les attaches, nous allons utiliser quelque chose de nouveau : **une macro**.
 
-Les macros sont de petites assistantes qui automatisent les tâches qui autrement seraient un peu fastidieuses. Il existe des macros pour ajouter des titres à votre patron, ou des indicateurs de droit-fil, une échelle, et il y a une macro pour arrondir les coins. The `round` macro.
+Les macros sont de petites assistantes qui automatisent les tâches qui autrement seraient un peu fastidieuses. Il existe des macros pour ajouter des titres à votre patron, ou des indicateurs de droit-fil, une échelle, et il y a une macro pour arrondir les coins. La macro `round`.
 
-Before we can use it, we have to update our `part.shorthand()` call to indicate that we'd also like to make use of macros. Simple add `macro` at the end:
+Avant de pouvoir l'utiliser, nous devons mettre à jour notre appel à `part.shorthand()` pour indiquer que nous aimerions également utiliser des macros. Ajoutez simplement `macro` à la fin :
 
 ```js
 let {
@@ -23,9 +23,9 @@ let {
 } = part.shorthand();
 ```
 
-We need a half circle here, but the `round` macro works on 90° angles, so you'll use it twice.
+Nous avons besoin d'un demi cercle ici, mais la macro `round` fonctionne sur des angles à 90°, alors nous allons l'utiliser deux fois.
 
-As such, let's add some points to guide the macro, and then put it to work:
+Ainsi, ajoutons donc quelques points pour guider la macro, puis la laisser faire son travail :
 
 ```js
 let strap = points.edgeTop.dy(points.top);
@@ -52,12 +52,12 @@ macro("round", {
 
 <warning>
 
-FIXME: Add link to macro/extend docs
+FIXME: Ajouter le lien vers les docs macro/extend
 
 </Warning>
 
 <example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
-Like our neck opening, we've only drawn half since we can simply copy the points to the other side.
+Comme pour l'encolure, nous avons seulement dessiné la moitié étant donné que nous pouvons copier les points pour l'autre côté.
 
-However, doing so would make both straps overlap. Which doesn't work for a pattern as it would make it impossible to cut it out of a single piece of fabric. So let's deal with the overlap next.
+Toutefois, le faire engendrerait un chevauchement des attaches. Ce qui ne fonctionne pas pour un patron puisque cela rendrait impossible de le couper à partir d'une simple pièce de tissu. Alors occupons-nous ensuite du chevauchement.
