@@ -123,7 +123,7 @@ Attributes attributes.set(string key, string value)
 
 Sets the attribute identified by `key` to value `value`.
 
-<Warning>
+<warning>
 
 This will overwrite any value that's currently set on the attribute identified by `key`.
 
