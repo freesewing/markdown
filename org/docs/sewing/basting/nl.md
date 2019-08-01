@@ -1,6 +1,7 @@
 ---
 layout: onecol
 title: Basting
+path: /en/docs/sewing/basting
 ---
 
 ![The shape of this denim back pocket is basted before the pocket is topstitched to the garment](basting.jpg)
