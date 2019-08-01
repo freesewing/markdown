@@ -1,6 +1,5 @@
 ---
 title: Collar ease
-path: /en/docs/patterns/benjamin/options/collarease
 pattern: benjamin
 option: collarEase
 ---

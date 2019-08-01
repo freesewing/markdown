@@ -1,6 +1,5 @@
 ---
 title: Buttonhole placket fold width
-path: /en/docs/patterns/simon/options/buttonholeplacketfoldwidth
 pattern: simon
 option: buttonholePacketFoldWidth
 ---

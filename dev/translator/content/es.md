@@ -1,5 +1,4 @@
 ---
-path: /en/docs/translator/content
 title: Translating content
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Center back neck to waist
-path: /en/docs/measurements/centerbacknecktowaist
 ---
 
 The **center back neck to waist** is the measurement from the center back of your neck down to your natural waist.

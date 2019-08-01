@@ -1,6 +1,5 @@
 ---
 title: Good sides together
-path: /en/docs/sewing/good-sides-together
 ---
 When I refer to good sides together that can refer to either cutting or sewing:
 

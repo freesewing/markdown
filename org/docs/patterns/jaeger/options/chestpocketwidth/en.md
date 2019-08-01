@@ -1,6 +1,5 @@
 ---
 title: Chest pocket width
-path: /en/docs/patterns/jaeger/options/chestpocketwidth
 pattern: jaeger
 option: chestPocketWidth
 ---

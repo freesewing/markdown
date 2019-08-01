@@ -1,6 +1,5 @@
 ---
 title: Head ease
-path: /en/docs/patterns/florent/options/headease
 pattern: florent
 option: headEase
 ---

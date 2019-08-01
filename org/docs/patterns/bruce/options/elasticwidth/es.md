@@ -1,6 +1,5 @@
 ---
 title: Elastic width
-path: /en/docs/patterns/bruce/options/elasticwidth
 pattern: bruce
 option: elasticWidth
 ---

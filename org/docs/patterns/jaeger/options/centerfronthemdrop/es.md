@@ -1,6 +1,5 @@
 ---
 title: Center front hem drop
-path: /en/docs/patterns/jaeger/options/centerfronthemdrop
 pattern: jaeger
 option: centerFrontHemDrop
 ---

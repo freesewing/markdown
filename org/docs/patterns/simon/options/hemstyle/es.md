@@ -1,6 +1,5 @@
 ---
 title: Hem style
-path: /en/docs/patterns/simon/options/hemstyle
 pattern: simon
 option: hemStyle
 ---

@@ -1,6 +1,5 @@
 ---
 title: Hem radius
-path: /en/docs/patterns/wahid/options/hemradius
 pattern: wahid
 option: hemRadius
 ---

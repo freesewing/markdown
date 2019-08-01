@@ -1,6 +1,5 @@
 ---
 title: Back rise
-path: /en/docs/patterns/shin/options/backrise
 pattern: shin
 option: backRise
 ---

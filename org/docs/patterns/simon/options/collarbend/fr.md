@@ -1,6 +1,5 @@
 ---
 title: Collar bend
-path: /en/docs/patterns/simon/options/collarbend
 pattern: simon
 option: collarBend
 ---

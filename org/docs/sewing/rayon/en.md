@@ -1,6 +1,5 @@
 ---
 title: Rayon
-path: /en/docs/sewing/rayon
 ---
 
 ![I use rayon for my underwear](rayon.jpg)

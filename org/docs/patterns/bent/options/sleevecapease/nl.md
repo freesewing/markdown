@@ -1,6 +1,5 @@
 ---
 title: Sleevecap ease
-path: /en/docs/patterns/bent/options/sleevecapease
 pattern: bent
 option: sleevecapEase
 ---

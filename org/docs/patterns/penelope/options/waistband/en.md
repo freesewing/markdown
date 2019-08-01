@@ -1,6 +1,5 @@
 ---
 title: Waistband
-path: /en/docs/patterns/penelope/options/waistband
 pattern: penelope
 option: waistband
 ---

@@ -1,6 +1,5 @@
 ---
 title: Lapel start
-path: /en/docs/patterns/jaeger/options/lapelstart
 pattern: jaeger
 option: lapelStart
 ---

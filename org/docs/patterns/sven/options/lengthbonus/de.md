@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/sven/options/lengthbonus
 pattern: sven
 option: lengthBonus
 ---

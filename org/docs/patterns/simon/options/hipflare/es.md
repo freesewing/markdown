@@ -1,6 +1,5 @@
 ---
 title: Hip flare
-path: /en/docs/patterns/simon/options/hipflare
 pattern: simon
 option: hipFlare
 ---

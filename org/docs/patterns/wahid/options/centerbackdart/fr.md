@@ -1,6 +1,5 @@
 ---
 title: Center back dart
-path: /en/docs/patterns/wahid/options/centerbackdart
 pattern: wahid
 option: centerBackDart
 ---

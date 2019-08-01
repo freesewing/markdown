@@ -1,6 +1,5 @@
 ---
 title: Back armhole shape
-path: /en/docs/patterns/aaron/options/backlinebend
 pattern: aaron
 option: backlineBend
 ---

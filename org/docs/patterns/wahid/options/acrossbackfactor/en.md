@@ -1,6 +1,5 @@
 ---
 title: Across back factor
-path: /en/docs/patterns/wahid/options/acrossbackfactor
 pattern: wahid
 option: acrossBackFactor
 ---

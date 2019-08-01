@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/hugo/options/lengthbonus
 pattern: hugo
 option: lengthBonus
 ---
