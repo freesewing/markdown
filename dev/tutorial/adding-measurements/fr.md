@@ -19,7 +19,7 @@ Ouvrez le fichier de configuration à l'adresse `config/index.js` et mettez à j
 measurements: ["headCircumference"],
 ```
 
-<Tip>
+<tip>
 
 Assurez-vous d'employer les noms de mesures existantes, plutôt que d'inventer les vôtres.
 
@@ -37,4 +37,4 @@ Etant donné qu'il n'y a qu'une seule mesure, rentrons simplement une valeur à 
 
 Entrez `38` dans le cadre, puis cliquez sur **Ebaucher votre patron** dans la barre de navigation supérieure pour revenir à votre ébauche, qui pour le moment ressemble encore à ça :
 
-<Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
+<example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
