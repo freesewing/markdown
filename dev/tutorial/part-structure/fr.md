@@ -68,7 +68,7 @@ L'exemple ci-dessus rend les variables suivantes disponibles :
 
 <note>
 
-Cela va devenir plus clair, mais si vous êtes curieux, les docs API contiennent tous les détails sur la méthode Part.shorthand()](fr/api/part#shorthand)</p> 
+Cela va devenir plus clair, mais si vous êtes curieux, les docs API contiennent tous les détails sur [la méthode Part.shorthand()](/api/part#shorthand)
 
 </Note>
 
@@ -85,6 +85,6 @@ if (complete) {
 }
 ```
 
-This is some more boilerplate that makes sure we respect the `complete`, `sa`, and `paperless` settings.
+Voici quelques standards supplémentaires pour nous assurer que nous respectons les paramètres `complete`, `sa`, et `paperless`.
 
-For now, you don't need to worry about this. Let's just start designing our bib.
+Pour le moment, vous n'avez pas à vous inquiéter à propos de cela. Focalisons-nous sur le démarrage du bavoir.
