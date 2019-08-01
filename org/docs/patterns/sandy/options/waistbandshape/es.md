@@ -1,5 +1,6 @@
 ---
 title: Waistband shape
+path: /en/docs/patterns/sandy/options/waistbandshape
 pattern: sandy
 option: waistbandShape
 ---
