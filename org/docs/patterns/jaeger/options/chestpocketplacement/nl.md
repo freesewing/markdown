@@ -1,5 +1,6 @@
 ---
 title: Chest pocket placement
+path: /en/docs/patterns/jaeger/options/chestpocketplacement
 pattern: jaeger
 option: chestPocketPlacement
 ---
