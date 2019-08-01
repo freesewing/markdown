@@ -24,7 +24,7 @@ Now if a user requests to draft only the `sleeve` part, FreeSewing will still dr
 
 but it will only render the `sleeve` part, as that's the only thing the user requested.
 
-<Note>
+<note>
 
 For inheriting parts, please refer to [part inheritance](/advanced/inject).
 
