@@ -1,9 +1,9 @@
 ---
-title: High point shoulder to bust
+title: Hoog schouder punt tot buste
 ---
 
-The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms you bust span.
+De **hoog schouder punt (HSP) tot buste** afmeting loopt van je HSP naar beneden tot aan de lijn die je bustewijdte bepaalt.
 
-The HPS is where your shoulder seam would meet your neck. The point is situated where your neck meets your shoulder. If you put a marble there, it should not roll forward or backward, but roll towards your shoulder (as in, it should sit in the middle) Tp measure your HPS to bust, first localize your HPS point. Then measure straight down to the line that forms your chest circumference/bust span.
+Het HSP zit waar je schoudernaad tegen je nek zou komen. Het is het punt waar je nek overgaat in je schouder. Als je er een knikker op zou leggen zou die niet voorwaarts of achterwaards rollen maar in de richting van je schouder (dit betekent: exact in het midden) Om de afstand van het HSP tot de buste te meten moet je eerst het HSP bepalen. Meet dan verticaal naar beneden tot aan de lijn die je borstomtrek of bustewijdte bepaalt.
 
-The point of this measurement is to locate the fullest part of your bust vertically on your torso.
+Het punt van deze afmeting is bepalen op welke hoogte het volste deel van je bust zich bevindt op je torso.
