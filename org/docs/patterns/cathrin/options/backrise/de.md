@@ -1,5 +1,6 @@
 ---
 title: Back rise
+path: /en/docs/patterns/cathrin/options/backrise
 pattern: cathrin
 option: backRise
 ---
