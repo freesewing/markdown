@@ -1,13 +1,13 @@
 ---
-title: Creating the closure
+title: Créer la fermeture
 order: 210
 ---
 
-Things are starting to look good, but we can't fit the bib over the baby's head like this. So we must create a closure. We'll let the straps overlap at the end, and put in a snap.
+Les choses commencent à prendre forme, mais nous ne pouvons pas passer le bavoir sur la tête du bébé comme ça. Alors nous devons créer un système de fermeture. Nous allons faire chevaucher les attaches à leurs extrémités, et y mettre un bouton pression.
 
-To round the straps, we'll use something new: **a macro**.
+Pour arrondir les attaches, nous allons utiliser quelque chose de nouveau : **une macro**.
 
-Macros are little helpers that automate things that would otherwise get rather tedious. There are macros to add titles to your pattern, or grainline indicators, a scalebox, and there's a macro to round corners. The `round` macro.
+Les macros sont de petites assistantes qui automatisent les tâches qui autrement seraient un peu fastidieuses. Il existe des macros pour ajouter des titres à votre patron, ou des indicateurs de droit-fil, une échelle, et il y a une macro pour arrondir les coins. The `round` macro.
 
 Before we can use it, we have to update our `part.shorthand()` call to indicate that we'd also like to make use of macros. Simple add `macro` at the end:
 
