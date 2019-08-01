@@ -1,6 +1,5 @@
 ---
 title: Back vent length
-path: /en/docs/patterns/jaeger/options/backventlength
 pattern: jaeger
 option: backVentLength
 ---

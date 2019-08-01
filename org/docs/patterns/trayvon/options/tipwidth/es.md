@@ -1,6 +1,5 @@
 ---
 title: Tip width
-path: /en/docs/patterns/trayvon/options/tipwidth
 pattern: trayvon
 option: tipWidth
 ---

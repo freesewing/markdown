@@ -22,7 +22,7 @@ Use this method to create a new pattern design. It takes the following arguments
 - `config` : The pattern configuration
 - `plugins` : Either a plugin object, or an array of plugin objects to load in your pattern
 
-<tip>
+<Tip>
 
 This method will return a constructor method that should be called to instantiate your pattern.
 

@@ -1,6 +1,5 @@
 ---
 title: Shoulderseam length
-path: /en/docs/patterns/tamiko/options/shoulderseamlength
 pattern: tamiko
 option: shoulderseamLength
 ---

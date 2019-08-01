@@ -1,6 +1,5 @@
 ---
 title: Hips reduction ratio back
-path: /en/docs/patterns/jaeger/options/hipreductionratioback
 pattern: jaeger
 option: hipsReductionRatioBack
 ---

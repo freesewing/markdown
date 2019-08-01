@@ -4,7 +4,7 @@ title: "@freesewing/patterns"
 
 This bundles all of FreeSewing's patterns.
 
-<warning>
+<Warning>
 
 FIXME: Documentation is missing
 

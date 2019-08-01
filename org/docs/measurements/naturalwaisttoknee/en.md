@@ -1,6 +1,5 @@
 ---
 title: Natural waist to knee
-path: /en/docs/measurements/naturalwaisttoknee
 ---
 
 The **natural waist to knee** is the measurement from your natural waist down towards your knee, measured on the side of your body.

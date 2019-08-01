@@ -59,4 +59,4 @@ Nous calculons le point `topLeft` (hautGauche) de façon à ce que le bord haut 
 
 Vous n'étiez pas obligés de le faire. Mais cela paraît plus équilibré de cette façon :
 
-<example pattern="tutorial" part="step5" caption="Note how the neck opening is the same distance from the left, right, and top edge" />
+<Example pattern="tutorial" part="step5" caption="Note how the neck opening is the same distance from the left, right, and top edge" />

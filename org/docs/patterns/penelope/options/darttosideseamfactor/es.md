@@ -1,6 +1,5 @@
 ---
 title: Dart to side seam factor
-path: /en/docs/patterns/penelope/options/darttosideseamfactor
 pattern: penelope
 option: darttosideseamfactor
 ---

@@ -11,7 +11,7 @@ At the bottom of each page, you'll find a *Edit this page* link that allows you 
 
 Or fork the repository, make your changes, and submit a pull request.
 
-<note>
+<Note>
 
 All our content is written in MarkDown. If you're new to MarkDown, [read our MarkDown documentation](/markdown/) first.
 

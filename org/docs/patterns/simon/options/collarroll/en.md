@@ -1,6 +1,5 @@
 ---
 title: Collar roll
-path: /en/docs/patterns/simon/options/collarroll
 pattern: simon
 option: collarRoll
 ---

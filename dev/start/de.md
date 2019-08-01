@@ -15,7 +15,7 @@ Once you have Node.js installed, it only takes one command to start a new FreeSe
 npm init freesewing-pattern@beta
 ```
 
-<note>
+<Note>
 
 The `@beta` in the end is required while FreeSewing v2 is still in beta. Once we release 2.0, it won't be needed
 

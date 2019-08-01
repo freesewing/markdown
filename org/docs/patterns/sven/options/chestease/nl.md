@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/sven/options/chestease
 pattern: sven
 option: chestEase
 ---

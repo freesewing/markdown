@@ -1,6 +1,5 @@
 ---
 title: Topstitching
-path: /en/docs/sewing/topstitching
 ---
 
 ![I used plenty of topstitching in a contrasting red thread on these jeans for my godson Akki](topstitching.jpg)

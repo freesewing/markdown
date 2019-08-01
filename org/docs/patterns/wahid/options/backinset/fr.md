@@ -1,6 +1,5 @@
 ---
 title: Back inset
-path: /en/docs/patterns/wahid/options/backinset
 pattern: wahid
 option: backInset
 ---

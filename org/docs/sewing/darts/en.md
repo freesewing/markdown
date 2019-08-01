@@ -1,6 +1,5 @@
 ---
 title: Darts
-path: /en/docs/sewing/darts
 ---
 
 ![Bust darts on a blouse](dart.jpg)

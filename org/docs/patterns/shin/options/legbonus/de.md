@@ -1,6 +1,5 @@
 ---
 title: Leg bonus
-path: /en/docs/patterns/shin/options/legbonus
 pattern: shin
 option: legBonus
 ---

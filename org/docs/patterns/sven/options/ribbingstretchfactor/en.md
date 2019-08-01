@@ -1,6 +1,5 @@
 ---
 title: Ribbing stretch factor
-path: /en/docs/patterns/sven/options/ribbingstretchfactor
 pattern: sven
 option: ribbingStretchFactor
 ---

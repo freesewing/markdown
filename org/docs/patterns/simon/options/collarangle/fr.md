@@ -1,6 +1,5 @@
 ---
 title: Collar angle
-path: /en/docs/patterns/simon/options/collarangle
 pattern: simon
 option: collarAngle
 ---
