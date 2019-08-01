@@ -65,15 +65,15 @@ Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen.
 
 Leg je hemdje neer met de goede kant naar boven, en leg je bies met de goede kant naar beneden op de stof (dus, goede kanten op elkaar).
 
-Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
+Leg de lange rand van je bies gelijk met de rand van je stof zodat de bies op de stof ligt (en niet in de opening). Leg de hoek van je bies op je startpunt.
 
-Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
+Leg nu je bies 1 cm voorbij je startpunt. Dit beetje extra garandeert dat we later de twee uiteindes aan elkaar kunnen bevestigen.
 
-> The easy way to keep this 1.5cm distance is by using a seam gauge. Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. Then all you need to do is keep the edge of your fabric aligned with that line.
+> Als je naaimachine geen markeringen heeft om de afstand van de naald tot de rand van de stof aan te geven kan je een zoommaatje gebruiken. Of doe wat ik doe, kleef een stukje papierplakband op je naaimachine en markeer een streepje op 1,5 cm van je naald. Dan moet je alleen maar de rand van je stof gelijk houden met die lijn.
 
-### Make sure you know where to sew
+### Zorg dat je weet waar je naait
 
-![Make sure you know where to sew](step03c.png)
+![Zorg dat je weet waar je naait](step03c.png)
 
 We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
 
