@@ -85,12 +85,12 @@ paths.neck = new Path()
 
 Si vous avez lu les [concepts de base de FreeSewing](/fr/concepts), vous aurez appris que les chemins commencent toujours avec une opération `move()`. Dans ce cas, nous avons bougé depuis notre point `right`.
 
-From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and `bottomCp2` as control points.
+A partir de là, nous avons dessiné une courbe de Bézier vers notre point `bottom` en utilisant `rightCp1` et `bottomCp2` comme points de contrôle.
 
-When all is said and done, we now have a quarter of our neck opening:
+Lorsque tout est dit et fait, nous avons maintenant un quart de notre encolure :
 
 <example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
-The only problem is, we have no guarantee whatsoever that this opening is the correct size.
+Le seul problème étant que nous n'avons aucune garantie que cette ouverture soit de taille correcte.
 
-Rather than hope it is the correct size, you'll make sure it is next.
+Plutôt que d'espérer qu'elle le soit, vous allez vérifier qu'elle l'est réellement dans la prochaine étape.
