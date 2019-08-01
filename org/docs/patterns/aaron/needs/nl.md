@@ -1,18 +1,18 @@
 ---
-title: What you need
+title: Wat je nodig hebt
 ---
 
-To make Aaron, you will need the following:
+Om Aaron te maken heb je het volgende nodig:
 
-- [Basic sewing supplies](/docs/sewing/basic-sewing-supplies)
-- About 0.75 meter of a suitable fabric ([see Fabric options](/docs/patterns/aaron/fabric))
+- [Basis naaimateriaal](/docs/sewing/basic-sewing-supplies)
+- Ongeveer 0,75 meter geschikte stof (zie [optionele stoffen](/docs/patterns/aaron/fabric))
 
 <note>
 
-#### A serger/overlock is nice, but optional
+#### Een overlockmachine is handig, maar optioneel
 
-As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
+Zoals met alle gebreide en elastische stoffen maakt een overlock het leven eenvoudiger.
 
-If you do not have one of those, don't despair. You don't really need it. Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
+Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. Omdat deze zij- en schoudernaden niet echt uitgerokken worden kan je ze gewoon stikken met een rechte steek of een smalle zigzagsteek.
 
 </Note>
