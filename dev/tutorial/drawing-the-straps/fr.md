@@ -83,14 +83,14 @@ paths.seam = new Path()
   .attr("class", "fabric");
 ```
 
-With that out of the way, our bib now looks like this:
+Avec ceci, notre bavoir ressemble à présent à cela :
 
 <example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
 <note>
 
-We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black, it doesn't look much different. We'll use some other classes later that will make its effect more clear.
+Nous avons utilisé la méthode `part.attr()` pour styliser notre chemin. Mais étant donné que la classe `fabric` (tissu) est dessinée en noir, cela ne semble pas très différent. Nous allons utiliser d'autres classes plus tard qui rendront son effet plus apparent.
 
 </Note>
 
-It's looking pretty good. But those sharp corners at the bottom don't exactly say *baby* do they? Let's fix that.
+Cela a un assez bel aspect. Mais ces coins vers le bas ne font pas très *bébé*, non ? Réglons donc ça.
