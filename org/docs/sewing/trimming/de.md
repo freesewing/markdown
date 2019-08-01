@@ -1,5 +1,6 @@
 ---
 title: Trimming
+path: /en/docs/sewing/trimming
 ---
 
 ![Seam allowance being trimmed](trimming.jpg)
