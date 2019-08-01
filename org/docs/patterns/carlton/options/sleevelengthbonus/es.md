@@ -1,5 +1,6 @@
 ---
 title: Sleeve length bonus
+path: /en/docs/patterns/carlton/options/sleevelengthbonus
 pattern: carlton
 option: sleeveLengthBonus
 ---
