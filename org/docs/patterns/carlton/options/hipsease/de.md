@@ -1,5 +1,6 @@
 ---
 title: Hips ease
+path: /en/docs/patterns/carlton/options/hipsease
 pattern: carlton
 option: hipsEase
 ---
