@@ -134,7 +134,7 @@ Si votre option prend la valeur `true` (vraie) ou **false** (fausse), ou bien **
 
 Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `bool` : Either `true` or `false` which will be the default
+- `bool` : soit `true` (vrai) ou `false` (faux) qui sera la valeur par défaut
 
 ```js
 options: {
