@@ -56,8 +56,8 @@ paths.seam = new Path()
   .line(points.edgeRight)
 ```
 
-and keep the rest of the path as it was.
+et gardez le reste du chemin tel qu'il était.
 
-The shape our bib is now completed:
+La forme de notre bavoir est maintenant finie :
 
 <example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
