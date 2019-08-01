@@ -4,7 +4,7 @@ title: "@freesewing/components"
 
 A collection of utilities shared between different FreeSewing projects.
 
-<Warning>
+<warning>
 
 FIXME: Documentation is missing
 
