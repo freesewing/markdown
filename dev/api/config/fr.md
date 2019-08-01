@@ -46,11 +46,11 @@ inject: {
 
 Un objet de pair clé-valeur `key`-`value` de parties. La partie valeur `value` sera injectée dans la partie clé `key`.
 
-By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
+Par *injected* nous entendons plutôt que de commencer par une toute nouvelle partie, vous obtiendrez une partie qui a les points, chemins et snippets de la partie `value`.
 
 <tip>
 
-See [Part inheritance](/advanced/inject) for more in-depth information on inject.
+Voir l'[Héritage de partie](/advanced/inject) pour des informations plus poussées sur inject.
 
 </Tip>
 
@@ -62,7 +62,7 @@ hide: [
 ]
 ```
 
-An array that lists pattern parts that should be hidden by default. Hidden means that they will be drafted, but not rendered. Typically used for a base part on which other parts are built.
+Un tableau qui liste les parties de patron qui devraient être masquées par défaut. Hidden means that they will be drafted, but not rendered. Typically used for a base part on which other parts are built.
 
 ## parts
 
