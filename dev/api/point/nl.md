@@ -2,18 +2,18 @@
 title: Point
 ---
 
-A Point object represents a point on a 2D plane with an X and Y axis.
+Een Point object is een representatie van een punt op een vlak met een X en een Y as.
 
-Point objects come with the following properties:
+Point objecten hebben de volgende eigenschappen:
 
-- `x` : The X-coordinate of the point
-- `y` : The Y-coordinate of the point
+- `x`: De coördinaat op de X as van het punt
+- `x`: De coördinaat op de Y as van het punt
 - `attributes` : An [Attributes](../attributes) instance holding the point's attributes
 
 The point constructor takes two arguments:
 
-- `x` : The X-coordinate of the point
-- `y` : The Y-coordinate of the point
+- `x`: De coördinaat op de X as van het punt
+- `x`: De coördinaat op de Y as van het punt
 
 ```js
 Point new Point(x, y);
