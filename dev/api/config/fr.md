@@ -116,7 +116,7 @@ Les options sont disponibles en 6 variétés :
 
 Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. Nous utilisons des types différents parce qu'il est plus facile ainsi de comprendre la nature d'une option donnée.
 
-### Constants
+### Constants (constantes)
 
 Si votre option est une valeur scalaire (comme une chaîne ou un nombre), elle sera traitée comme une constante :
 
@@ -128,9 +128,9 @@ options: {
 
 Plutôt que de définir des constantes dans votre code, c'est une bonne pratique de les définir dans votre fichier de configuration. De cette façon, les personnes qui étendent votre modèle peuvent les changer si elles le souhaitent.
 
-### Booleans
+### Booleans (booléens)
 
-Si votre option prend la valeur `true` (vraie) ou **false** (fausse), ou bien **activée** ou **désactivée**, ou encore **oui** ou **non**, vous pouvez utiliser un booléen :
+Si votre option prend la valeur **true** (vraie) ou **false** (fausse), ou bien **activée** ou **désactivée**, ou encore **oui** ou **non**, vous pouvez utiliser un booléen :
 
 Votre option booléenne devrait être un objet avec ces propriétés :
 
@@ -142,15 +142,15 @@ options: {
 }
 ```
 
-### Percentages
+### Percentages (pourcentages)
 
-Percentage options are the bread and butter of freesewing. Almost all your options will probably be percentages. They make sure that your pattern will scale regardless of size, and pass [the ant-man test](https://github.com/freesewing/antman).
+Les options de pourcentage sont le "gagne-pain" de freesewing. Presque toutes vos options seront probablement des pourcentages. Ils assurent que votre patron se mettra à l'échelle indépendamment de la taille, et passe avec succès [le test de l'homme-fourmi](https://github.com/freesewing/antman).
 
-Your percentage option should be an object with these properties:
+Votre option pourcentage devrait être un objet avec ces propriétés :
 
-- `pct` : The percentage
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `pct` : Le pourcentage
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -164,24 +164,24 @@ options: {
 
 <note>
 
-###### Percentage options will be divided by 100 when loaded
+###### Les options de pourcentage seront divisées par 100 lors du chargement
 
-You specify percentages in your config file. For example, `50` means 50%. When your configuration is loaded, those percentages will by divided by 100.
+Vous spécifiez des pourcentages dans votre fichier de configuration. Par exemple, `50` signifie 50%. Lorsque votre configuration est chargée, ces pourcentages seront divisés par 100.
 
-So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
+Donc un pourcentage de `50` dans votre fichier de configuration prendra la valeur `0.5` lorsque vous lisez cette option dans votre patron.
 
 </Note>
 
-### Millimeters
+### Millimeters (millimètres)
 
-While we recommend using percentages where possible, sometimes that doesn't make sense.  
-For those cases, you can use millimeters.
+Bien que nous recommandons d'utiliser des pourcentages lorsque c'est possible, parfois cela n'a pas de sens.  
+Pour ces cas précis, vous pouvez utiliser des millimètres.
 
-Your millimeter option should be an object with these properties:
+Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `mm` : The default value in millimeter
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `mm` : La valeur par défaut en millimètres
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -193,15 +193,15 @@ options: {
 }
 ```
 
-### Degrees
+### Degrees (degrés)
 
 For angles, use degrees.
 
 Your degree option should be an object with these properties:
 
 - `deg` : The default value in degrees
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
