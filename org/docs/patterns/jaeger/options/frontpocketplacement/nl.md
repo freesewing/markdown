@@ -1,5 +1,6 @@
 ---
 title: Front pocket placement
+path: /en/docs/patterns/jaeger/options/frontpocketplacement
 pattern: jaeger
 option: frontPocketPlacement
 ---
