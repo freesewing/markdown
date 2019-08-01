@@ -23,7 +23,7 @@ measurements: ["headCircumference"],
 
 Assurez-vous d'employer les noms de mesures existantes, plutôt que d'inventer les vôtres.
 
-Voyez nos [ meilleures pratiques](fr/do/names#re-use-measurements) sur ce sujet pour plus de détails.
+Voyez nos [ meilleures pratiques](do/names#re-use-measurements) sur ce sujet pour plus de détails.
 
 </Tip>
 
