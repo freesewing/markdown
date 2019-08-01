@@ -1,9 +1,9 @@
 ---
-title: Fitting the neck opening
+title: Ajuster l'encolure
 order: 170
 ---
 
-Here's how we'll make sure the neck opening is *just right*:
+Voici comment vous allez vous assurer que l'encolure est *au point* :
 
 ```js
 let tweak = 1;
@@ -26,21 +26,21 @@ do {
 } while (Math.abs(delta) > 1);
 ```
 
-We've added a few new variables:
+Nous avons ajouté quelques nouvelles variables :
 
-- `tweak`: A *tweak factor* that we'll use to increase or decrease the neck opening by making it more or less than 1
-- `target`: How long our (quarter) neck opening should be
-- `delta`: How far we're off. Positive numbers mean it's too long, negative means too short
+- `tweak`: un *facteur d'ajustement* que nous utiliserons pour augmenter ou diminuer l'encolure en lui donnant une valeur supérieure ou inférieure à 1
+- `target` : la longueur prévue de l'encolure (de son quart)
+- `delta` : à quel point nous dévions de notre idéal. Les nombres positifs signifient qu'elle est trop longue, les nombres négatifs qu'elle est trop courte
 
-Now that we know what `target` is, we construct our path as we did before. But this time around, we multiply our point coordinates with our `tweak` variable (1 at the start).
+Maintenant que nous savons ce qu'est la `cible` (target), nous construisons notre chemin comme nous l'avons fait précédemment. Mais cette fois, nous multiplions les coordonnées de notre point avec notre variable `d'ajustement` (tweak) (1 au départ).
 
-Then, we compare our `target` to the result of `paths.neck.length()` which — you guessed it — returns the length of our neck path.
+Puis, nous comparons notre `cible` au résultat de `paths.neck.length()` qui - vous l'avez deviné — retourne la longueur du chemin de l'encolure.
 
-If the delta is positive, our path is too long and we reduce the tweak factor.  
-If the delta is negative, our path is too short and we increase the tweak factor.
+Si le delta est positif, notre chemin est trop long et nous devrions réduire le facteur d'ajustement.   
+Si le delta est négatif, notre chemin est trop court et nous devrions augmenter le facteur d'ajustement.
 
-We keep on doing this until `Math.abs(delta)` is less than 1. Meaning that we are withing 1mm or our target value.
+Nous continuons de faire ceci jusqu'à ce que `Math.abs(delta)` devienne inférieur à 1. Cela signifie que nous sommes à 1 mm près de notre valeur cible.
 
 <example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
 
-Now that we're happy with the length of our quarter neck opening, let's construct the entire neck opening.
+Maintenant nous sommes satisfaits de la longueur du quart de notre encolure, construisons à présent l'encolure complète.
