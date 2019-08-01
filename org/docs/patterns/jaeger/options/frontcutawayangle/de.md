@@ -1,5 +1,6 @@
 ---
 title: Front cutaway angle
+path: /en/docs/patterns/jaeger/options/frontcutawayangle
 pattern: jaeger
 option: frontCutawayAngle
 ---
