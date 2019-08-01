@@ -6,9 +6,9 @@ Les attributs correspondent à un objet qui contient les attributs pour une vari
 
 Les attributs sont liés aux objets [`Point`](/api/point), [`Path`](/api/path), et [`Snippet`](/api/snippet), et aussi à l'objet interne [`Svg`](/api/svg) .
 
-All of these have an instantiated Attributes object in their `attributes` property.
+Tous ceux-ci possèdent un objet Attributs instantié dans leur propriété `attributes`.
 
-An Attributes object exposes the following methods:
+Un objet Attributes expose les méthodes suivantes :
 
 ## add()
 
