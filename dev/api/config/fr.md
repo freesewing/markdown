@@ -62,7 +62,7 @@ hide: [
 ]
 ```
 
-Un tableau qui liste les parties de patron qui devraient être masquées par défaut. Hidden means that they will be drafted, but not rendered. Typically used for a base part on which other parts are built.
+Un tableau qui liste les parties de patron qui devraient être masquées par défaut. Hidden (caché) signifie qu'elles seront ébauchées, mais non rendues. Utilisé en général pour une partie de base sur laquelle d'autres parties sont construites.
 
 ## parts
 
@@ -73,13 +73,13 @@ parts: [
 ]
 ```
 
-An array that lists your (additional) pattern parts. The name must be the key the `pattern.parts` object.
+Un tableau qui liste vos parties de patron (additionnelles). Le nom doit être la clé de l'objet `pattern.parts`.
 
 <tip>
 
-###### This does not need to be an exhaustive list of all parts in your pattern.
+###### Cela n'a pas être une liste exhaustive de toutes les parties de votre modèle.
 
-This list of parts is needed for the `draft()` method to figure out what parts need to be drafted. So if parts are included in the `dependencies`, `inject`, or `hide` configuration, there's no need to include them here, as we already know of their existence.
+Cette liste de parties est nécessaire pour la méthode `draft()` pour déterminer quelles parties doivent être ébauchées. Donc, si des parties sont incluses dans la configuration `dependancies`, `inject`, ou `hide`, il n'est pas nécessaire de les inclure ici, comme nous avons déjà conscience de leur existence.
 
 </Tip>
 
@@ -92,29 +92,29 @@ measurements: [
 ]
 ```
 
-An array with the names of the measurements required to draft this pattern.
+Un tableau avec les noms des mesures nécessaires pour ébaucher ce modèle.
 
 <note>
 
-###### Don't just make up names
+###### N'inventez pas simplement des noms
 
-See [freesewing models](https://github.com/freesewing/models) for a list of measurement names already used in freesewing patterns. It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
+Voir les [modèles de patron freesewing](https://github.com/freesewing/models) pour une liste de noms de mesure déjà utilisés dans les patrons freesewing. Cela fait partie des [meilleures pratiques](/do/dont-re-invent-the-wheel) de garder ces noms.
 
 </Note>
 
 ## options
 
-Options come in 6 varities:
+Les options sont disponibles en 6 variétés :
 
-- [Constants](#constants) : A value that can't be changed
-- [Booleans](#booleans) : A value that is either `true` or `false`
-- [Percentages](#percentages) : A value in percent, with minimum and maximum values
-- [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
-- [Degrees](#degrees) : A value in degrees, with minimum and maximum values
-- [Counters](#counters) : An integer value, with minimum and maximum values
-- [Lists](#lists) : A list of options with a default
+- [Constantes](#constants) : Une valeur qui ne peut pas être modifiée
+- [Booléens](#booleans) : Une valeur qui est soit `true` (vrai) ou `false` (faux)
+- [Percentages](#percentages) (pourcentages) : Une valeur en pourcentage, avec des valeurs minimales et maximales
+- [Millimeters](#millimeters) : Une valeur en millimètre, avec des valeurs minimales et maximales
+- [Degrees](#degrees) (degrés) : Une valeur en degré, avec des valeurs minimales et maximales
+- [Counters](#counters) (compteurs) : Une valeur entière, avec des valeurs minimales et maximales
+- [Lists](#lists) (listes) : Une liste d'options avec un contenu par défaut
 
-Under the hood, millimeters, degrees, and counters are handled the same way. We use different types because it easier to understand the nature of a given option.
+Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. We use different types because it easier to understand the nature of a given option.
 
 ### Constants
 
