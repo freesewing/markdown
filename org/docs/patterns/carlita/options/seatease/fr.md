@@ -1,5 +1,6 @@
 ---
 title: Seat ease
+path: /en/docs/patterns/carlita/options/seatease
 pattern: carlita
 option: seatEase
 ---
