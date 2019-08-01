@@ -1,83 +1,83 @@
 ---
-title: Testing your pattern
+title: Tester votre patron
 order: 250
 ---
 
-With the basic outline of your pattern ready, now would be a good time to test it to see how well it adapts to different measurements, and the range of options we provided.
+Avec le contour de base de votre patron prêt, il est maintenant temps de le tester pour voir à quel point il s'adapte bien à différentes mesures, et à l'étendue des options que nous avons fournie.
 
 <tip>
 
-###### No more grading
+###### Plus besoin de gradation
 
-FreeSewing patterns are *made-to-measure*, which means that you don't need to grade your pattern to provide a range of sizes. You should sample your pattern for different measurements and options to see how well it adapts.
+Les patrons FreeSewing sont faits *sur mesures*, ce qui signifie que vous n'avez pas besoin de grader votre patron pour fournir un ensemble de tailles. Vous pouvez échantillonner votre patron pour différentes mesures et options pour voir s'il s'adapte correctement.
 
 </Tip>
 
-If testing your pattern sounds like a lot of work, you're in luck. FreeSewing can do it for you. Click the **Test your pattern** button in the top navigation bar of your development environment, and you'll see a number of choices at the right:
+Si le fait de tester votre patron vous semble une masse de travail conséquente, c'est votre jour de chance. FreeSewing peut le faire pour vous. Cliquez sur le bouton **Tester votre patron** dans la barre de navigation en haut de votre environnement de programmation, et vous verrez un nombre de choix possibles sur la droite :
 
-- Test pattern options
-- Test measurements
-- Test models
+- Tester les options du patron
+- Tester les mesures
+- Tester les modèles
 
-The [API docs on sampling](/api/pattern#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
+Les [docs API sur l'échantillonnage](/api/pattern#sample) contiennent tous les détails de fonctionnement, mais pour le moment jetons juste un œil sur le résultat final de chacun de ces choix.
 
-## Testing pattern options
+## Tester les options du patron
 
-We used percentage options, which can vary between their minimum and maximum value. For these tests, FreeSewing will divide that range into 10 steps and draft your pattern for each step.
+Nous avons utilisé des options pourcentages, qui peuvent varier entre leurs valeurs minimales et maximales. Pour ces tests, FreeSewing va diviser cette étendue en 10 étapes et ébaucher votre patron pour chacune d'entre elle.
 
-Click on any of the options we've added to our pattern, and your bib will be drawn with that option sampled.
+Cliquez sur n'importe quelle option que nous avons ajoutée au patron, et votre bavoir sera dessiné avec une échantillonnage de cet option.
 
 ### lengthRatio
 
-The `lengthRatio` option controls the length of our bib. Testing it confirms that it only influences the length:
+L'option `lengthRatio` contrôle la longueur de notre bavoir. La tester confirme qu'elle n'influence que la longueur :
 
 <example caption="Your bib with the lengthRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "lengthratio" } }} />
 
 ### neckRatio
 
-The `neckRatio` option will determine the size of the neck opening. For a the same `headCircumference` measurement, varying this option should result in bibs with increasingly larger neck opening.
+L'option `neckRatio` va déterminer la taille de l'encolure. Pour une même mesure de `headCircumference` (tour de tête), varier cette option devrait faire augmenter la largeur de l'encolure.
 
-Testing it confirms this. We can also see that as the neck opening gets smaller, we will rotate the straps further out of the way to avoid overlap:
+La tester confirme cela. Nous pouvons également voir que l'encolure devient plus étroite, les attaches seront tournées plus loin pour éviter qu'elles se chevauchent :
 
 <example caption="Your bib with the neckRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "neckratio" } }} />
 
 ### widthRatio
 
-The `widthRatio` option will determine the width of our bib. For a the same `headCircumference` measurement, varying this option should result in increasingly wider bibs.
+L'option `widthRatio` détermine la largeur de notre bavoir. Pour une même mesure de `headCircumference` (tour de tête), varier cette option devrait donner des bavoirs de plus en plus larges.
 
-If we test it, we can see that it works as intended. But there's one thing that perhaps requires your attention. Making the bib wider shortens the length from the bottom of the neck opening to the bottom of the bib. Thereby making the bib shortern when its worn.
+Si nous testons cela, nous pouvons voir que cela fonctionne comme prévu. Mais il y a une chose qui requiert peut-être votre attention. Élargir le bavoir réduit la longueur depuis le bas de l'encolure jusqu'au bas du bavoir. Ce qui rend le bavoir plus court lorsqu'il est porté.
 
-Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern.
+Même si la *longueur totale* de notre bavoir reste la même, la *longueur utile* est raccourcie lorsque le bavoir est élargi. Les utilisateurs ne s'attendent pas à cela, alors c'est une chose que nous devrions corriger dans notre patron.
 
 <note>
 
-Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not covered in this tutorial. It is left *as an exercise to the reader*.
+Ajuster le patron pour éviter que le `widthRatio` n'influence la *longueur utilisable* de notre bavoir n'est pas explicité dans ce tutoriel. Ce problème est laissé comme *exercice pour le lecteur*.
 
 </Note>
 
 <example caption="Your bib with the widthRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "widthratio" } }} />
 
-## Testing measurements
+## Tester les mesures
 
-Testing a measurement will vary that measurement 10% up or down while leaving everything else the same. This gives you the option to determine how any given measurement is influencing the pattern.
+Tester une mesure va faire varier cette mesure de 10% de plus ou de moins tout en laissant à l'identique tout le reste. Cela vous donne l'option de déterminer comment n'importe quelle mesure donnée influence le patron.
 
-For our bib, we only use one measurement, so it influences the entire pattern:
+Pour notre bavoir, nous employons uniquement une mesure, alors elle influence le patron en entier :
 
 <example caption="Your bib with the head circumference measurement sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "measurement", measurement: "headcircumference" } }} />
 
-## Testing models
+## Tester les modèles
 
-Whereas testing a measurement will only vary one individual measurement, testing models will draft your pattern for different sets of measurments, which we refer to as *models*.
+Tandis que le test des mesures va uniquement faire varier une seule mesure, tester des modèles va ébaucher votre patron pour différents sets de mesures, que l'on appelle *modèles*.
 
-On the surface, the result below is the same as our measurement test. But that is because our bib only uses one measurement. So testing that one measurement ends up being the same as testing a complete set of measurements.
+Sur la surface, le résultat ci-dessous est le même que pour notre test de mesure. Mais c'est parce que notre bavoir n'utilise qu'une seule mesure. Alors tester cette unique mesure revient au même que tester un set de mesures complet.
 
-But most patterns use multiple measurements, and you'll find this test gives you insight into how your pattern will adapt to differently sizes bodies.
+Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera un aperçu de la façon dont votre patron s'adapte à différentes morphologies.
 
 <example sample caption="Your bib sampled for a range of baby sizes" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { baby1: headcircumference: 340 }, baby2: 350 baby3: 360 baby4: 370 baby5: 380 baby6: 390 baby7: 400 baby8: 410 baby9: 420 } } }} />
 
-## The antman test
+## Le test de l'homme fourmi
 
-A special case of model testing is the so-called *antman test*. It drafts your pattern with a set of *typical* measurements , and then drafts it again with measurements that are 1/10th of those *typical* measurements.
+Le test de l'homme fourmi It drafts your pattern with a set of *typical* measurements , and then drafts it again with measurements that are 1/10th of those *typical* measurements.
 
 It is named after [the cartoon character](https://en.wikipedia.org/wiki/Ant-Man_(film)) who can shrink, yet somehow his suit still fits.
 
