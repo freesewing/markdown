@@ -1,5 +1,6 @@
 ---
 title: Chest ease
+path: /en/docs/patterns/huey/options/chestease
 pattern: huey
 option: chestEase
 ---
