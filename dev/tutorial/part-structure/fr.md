@@ -1,9 +1,9 @@
 ---
-title: Structure of a part
+title: Structure d'une partie
 order: 150
 ---
 
-Let's get rid of the example box first. Open `src/bib.js` and make sure it looks like this:
+Débarassons-nous tout d'abord de la boîte exemple. Ouvrez le fichier `src/bib.js` et assurez-vous qu'il ressemble à ceci :
 
 ```js
 export default function(part) {
@@ -22,11 +22,11 @@ export default function(part) {
 }
 ```
 
-This is an empty skeleton for a pattern part. Anytime you want to create a new part, this is a good starting point.
+C'est un squelette vide pour une partie de patron. A chaque fois que vous voudrez créer une nouvelle partie, ces quelques lignes constitueront un bon point de départ.
 
-Let's quickly go over the different sections. Even if there's not much going on yet, it's always good to understand what's going on.
+Parcourons rapidement les différentes sections. Même s'il ne se passe pas encore grand chose, il est toujours bénéfique de comprendre ce qu'il se passe.
 
-## The draft method
+## La méthode d'ébauche (draft)
 
 ```js
 export default function(part) {
@@ -38,11 +38,11 @@ export default function(part) {
 
 ```
 
-This is the boilerplate of our `draftBib` method. It takes the part as an argument, and returns it.
+Ceci est un standard de notre méthode `draftBib`. Elle prend comme argument la partie, et la retourne.
 
 <note>
 
-If you're new to JavaScript, and don't intuitively *get this*, stick with it. It will become second nature soon enough.
+Si vous êtes novice en JavaScript, et ne *saisissez pas cela* intuitivement, tenez-vous en là. Cela va bientôt devenir une seconde nature.
 
 </Note>
 
@@ -57,22 +57,22 @@ let {
 } = part.shorthand();
 ```
 
-This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers and you use JavaScript's *object destructuring* to only get what you need.
+Ceci est la méthode **shorthand** de FreeSewing (raccourci en français). Elle retourne un objet avec beaucoup d'assistants bien pratiques et vous utilisez l'*object destructuring* de JavaScript (destructuration d'objet en français) pour obtenir seulement ce dont vous avez besoin.
 
-The example above makes the following variables available:
+L'exemple ci-dessus rend les variables suivantes disponibles :
 
-- `Point`: The Point constructor
-- `points`: A reference to the part's points
-- `Path`: The Path constructor
-- `paths`: A reference to the part's paths
+- `Point` : Le constructeur de point (Point)
+- `points`: Une référence aux points de la partie
+- `Path` : La constructeur de chemin (Path)
+- `paths` : Une référence aux chemins de la partie
 
 <note>
 
-This will all become clear, but if you're curious, the API docs have all the details on [the Part.shorthand() method](/api/part#shorthand)
+Cela va devenir plus clair, mais si vous êtes curieux, les docs API contiennent tous les détails sur la méthode Part.shorthand()](fr/api/part#shorthand)</p> 
 
 </Note>
 
-## Part boilerplate
+## Partie standard
 
 ```js
 // Complete?
