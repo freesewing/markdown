@@ -1,5 +1,6 @@
 ---
 title: Neck reduction
+path: /en/docs/patterns/jaeger/options/neckreduction
 pattern: jaeger
 option: neckReduction
 ---
