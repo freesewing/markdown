@@ -1,7 +1,7 @@
 ---
-title: Hips to upper leg
+title: Heupen tot bovenbeen
 ---
 
-The **hips to upper leg** is measured at the side of your body from your hipline down to the upper part of your leg.
+De afmeting **heupen tot bovenbeen** wordt aan de zijkant van je lichaam gemeten, van je heuplijn tot aan het begin van je bovenbeen.
 
-To measure your **hips to upper leg** measurement, put a tape measure at the side of your body where your hips sit (where you wear your belt) and measure down to where your leg starts being a leg, and no longer is part of your bum.
+Om de maat **heupen tot bovenbeen** te nemen begin je langs de zijkant van je lichaam, ter hoogte van je heup (waar een broekriem zou zitten) en meet je verticaal naar beneden tot waar je been een been wordt, en niet langer deel is van je kont.
