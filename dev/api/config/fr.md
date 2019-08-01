@@ -195,11 +195,11 @@ options: {
 
 ### Degrees (degrés)
 
-For angles, use degrees.
+Pour les angles, utilisez des degrés.
 
-Your degree option should be an object with these properties:
+Votre option degré devrait être un objet avec ces propriétés :
 
-- `deg` : The default value in degrees
+- `deg` : La valeur par défaut en degrés
 - `min` : Le minimum autorisé
 - `max` : Le maximum autorisé
 
@@ -213,15 +213,15 @@ options: {
 }
 ```
 
-### Counters
+### Counters (compteurs)
 
-For a given number of things, use counters. Counters are for integers only. Things like number of buttons and so on.
+Pour un nombre donné de choses, utilisez des compteurs. Les compteurs ne sont destinés qu'à des valeurs entières. Des choses comme le nombre de boutons, etc.
 
-Your counter option should be an object with these properties:
+Votre option compteur devrait être un objet avec ces propriétés :
 
-- `count` : The default integer value
-- `min` : The minimal integer value that's allowed
-- `max` : The maximum integer value that's allowed
+- `count` : La valeur entière par défaut
+- `min` : La valeur entière minimale autorisée
+- `max` : La valeur entière maximale autorisée
 
 ```js
 options: {
@@ -233,14 +233,14 @@ options: {
 }
 ```
 
-### Lists
+### Lists (listes)
 
-Use a list option when you want to offer an array of choices.
+Utilisez une option de liste lorsque vous souhaitez offrir un tableau de choix.
 
-Your list option should be an object with these properties:
+Votre option liste devrait être un objet avec ces propriétés :
 
-- `dflt` : The default for this option
-- `list` : An array of available values options
+- `dflt` : La valeur par défaut pour cette optional
+- `list` : Un tableau d'options des valeurs disponibles
 
 ```js
 options: {
@@ -260,11 +260,11 @@ options: {
 
 ## Extra
 
-Patterns also take these configuration options to facilitate frontend integration:
+Les patrons prennent également ces options de configuration pour faciliter l'intégration frontend :
 
-### design
+### design (conception)
 
-The name of the designer:
+Le nom du concepteur :
 
 ```js
 design: "Joost De Cock"
@@ -272,7 +272,7 @@ design: "Joost De Cock"
 
 ### code
 
-The name of the developer:
+Le nom du développeur :
 
 ```js
 code: "Joost De Cock"
@@ -280,7 +280,7 @@ code: "Joost De Cock"
 
 ### type
 
-Either `pattern` or `block`.
+Soit `pattern` (patron), soit `block` (patron de base).
 
 ```js
 type: "pattern"
