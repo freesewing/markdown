@@ -1,7 +1,7 @@
 ---
-title: Center back neck to waist
+title: Midden nek tot taille
 ---
 
-The **center back neck to waist** is the measurement from the center back of your neck down to your natural waist.
+**Midden nek tot taille** is de maat van het midden van je nek, langs je rug, tot aan je natuurlijke taille.
 
-o measure your center back neck to waist, measure down from the center back of your neck towards your natural waist.
+Om de midden nek tot taille maat te nemen meet je van het midden van je nek langs je ruggengraat tot aan je natuurlijke taille.
