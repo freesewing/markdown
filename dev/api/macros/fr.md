@@ -2,7 +2,7 @@
 title: Macros
 ---
 
-All macro takes a single object as their configuration. The configuration object is documented on this page for all available macros.
+Toutes les macros prennent un unique objet comme configuration. L'objet de configuration est documenté sur cette page pour toutes les macros disponibles.
 
 <tip>
 
