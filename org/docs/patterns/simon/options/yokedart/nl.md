@@ -1,5 +1,6 @@
 ---
 title: Yoke dart
+path: /en/docs/patterns/simon/options/yokedart
 pattern: simon
 option: yokeDart
 ---
