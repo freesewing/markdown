@@ -93,8 +93,8 @@ Nous avons également ajouté trois macros `vd` pour les mesures verticales sur 
 
 Elle prennent aussi un point de départ `from` et un point d'arrivée `to`, mais attendent un paramètre `x` pour leur indiquer à quelle valeur de X la mesure doit être marquée.
 
-Finalement, nous avons ajouté une macro `ld` pour la mesure linéaire du haut qui marque la largeur de notre attache. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
+Finalement, nous avons ajouté une macro `ld` pour la mesure linéaire du haut qui marque la largeur de notre attache. Bien que la plupart des mesures soient horizontale ou verticale, parfois vous voudrez une ligne droite entre les points `from` et `to` comme dans ce cas.
 
-The `ld` macro takes a `d` argument (short for delta) that indicates how far the dimension should be offset from the line from the `from` to the `to` point, if at all.
+La macro `ld` prend un argument `d` (pour delta) qui indique jusqu'où la mesure doit être décalée de la ligne partant du point `from` au point `to`, si besoin.
 
-Making your pattern paperless is the icing on the cake. Time to wrap up, go over what we've learned, and give some pointers on where to go from here.
+Rendre votre patron sans papier est la cerise sur le gâteau. Il est temps de faire un bilan, de voir tout ce que nous avons appris, et de donner quelques indications sur la direction à suivre à partir de là.
