@@ -1,5 +1,6 @@
 ---
 title: Button placket style
+path: /en/docs/patterns/simon/options/buttonplacketstyle
 pattern: simon
 option: buttonPlacketStyle
 ---
