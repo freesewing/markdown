@@ -7,19 +7,19 @@ Een Point object is een representatie van een punt op een vlak met een X en een 
 Point objecten hebben de volgende eigenschappen:
 
 - `x`: De coördinaat op de X as van het punt
-- `x`: De coördinaat op de Y as van het punt
-- `attributes` : An [Attributes](../attributes) instance holding the point's attributes
+- `y`: De coördinaat op de Y as van het punt
+- `attributes` : De [Attributes](../attributes) instantie die het punt's kenmerken bevat
 
-The point constructor takes two arguments:
+De Point constructor heeft twee argumenten:
 
 - `x`: De coördinaat op de X as van het punt
-- `x`: De coördinaat op de Y as van het punt
+- `y`: De coördinaat op de Y as van het punt
 
 ```js
 Point new Point(x, y);
 ```
 
-In addition, a Point object exposes the following methods:
+Vervolgens heeft een Point object de volgende methoden:
 
 ## attr()
 
@@ -31,11 +31,11 @@ Point point.attr(
 )
 ```
 
-This `Point.attr()` method calls `this.attributes.add()` under the hood, but returns the Point object. This allows you to chain different calls together as in the example below.
+De `Point.attr()` methode roept de `this.attributes.add()` functie aan, maar geeft het Point object terug. This allows you to chain different calls together as in the example below.
 
 If the third parameter is set to `true` it will call `this.attributes.set()` instead, thereby overwriting the value of the attribute.
 
-### Points.attr() example
+### Points.attr() voorbeeld
 
 <example part="point_attr" caption="An example of the Point.attr() method" />
 
@@ -50,7 +50,7 @@ points.anchor = new Point(100, 25)
 ## dx()
 
 ```js
-float point.dx(Point point)
+float point.dx(Point punt)
 ```
 
 Returns de delta along the X-axis between this point and the point you pass it.
