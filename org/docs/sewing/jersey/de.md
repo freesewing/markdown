@@ -1,5 +1,6 @@
 ---
 title: Jersey
+path: /en/docs/sewing/jersey
 ---
 
 ![A piece of grey jersey](knit-fabric.jpg)
