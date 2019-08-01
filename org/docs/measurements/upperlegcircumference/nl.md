@@ -1,7 +1,7 @@
 ---
-title: Upper leg circumference
+title: Knieomtrek
 ---
 
-The **upper leg circumference** is the measurement around your leg, all the way at the top of your leg, at your crotch.
+De **bovenbeenomtrek** is de omtrek van je been, helemaal bovenaan, net onder je kruis.
 
-To measure your **upper leg circumference**, wrap the tape measure around your leg, and slide it up your leg as high as you can. Make sure to keep the tape measure horizontal to the floor as you measure the circumference of your leg.
+Op je **bovenbeenomtrek** te meten wikkel je de lintmeter rond je been, zo hoog als je kan. Zorg dat de lintmeter horizontaal (parallel met de vloer) blijft terwijl je deze maat neemt.
