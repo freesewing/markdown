@@ -1,11 +1,11 @@
 ---
-title: Making your pattern paperless
+title: Rendre votre patron sans papier
 order: 270
 ---
 
-Users can request paperless patterns by setting the `paperless` setting to `true`.
+Les utilisateurs peuvent demander des patrons sans papier en réglant le paramètre `paperless` sur `true`.
 
-We can get that value of the setting from the `part.shorthand()` method. It will be the last shorthand we need:
+Nous pouvons obtenir cette valeur du paramètre à partir de la méthode `part.shorthand()`. Cela sera le dernier raccourci dont nous aurons besoin :
 
 ```js
 let {
@@ -23,24 +23,24 @@ let {
 } = part.shorthand();
 ```
 
-The idea behind *paperless patterns* is that users don't need to print your pattern in order to use it. Instead, we include dimensions on the pattern that allows them to transfer the pattern directly onto fabric, or onto an intermediate medium such as tracing paper.
+L'idée derrière les *patrons sans papier* est que les utilisateurs n'aient pas à imprimer votre patron pour pouvoir l'utiliser. Au lieu de cela, nous incluons les dimensions sur le patron qui leur permettent de transférer la patron directement sur le tissu, ou sur un medium intermédiaire comme du papier carbone.
 
-In addition, FreeSewing will automatically render a grid for each pattern part with metric or imperial marcations, depending on the units requested by the user.
+De plus, FreeSewing va automatiquement délivrer une grille pour chaque partie de patron avec des marques métriques ou impériales, selon les unités choisies par l'utilisateur.
 
-While the grid gets added automatically, the dimensions you have to add yourself. Thankfully, there's macros that can help you with that, specifically:
+Tandis que la grille est ajoutée automatiquement, vous aurez à ajouter les dimensions vous-mêmes. Heureusement, il existe des macros pour vous aider dans cette tâche, spécifiquement :
 
-- The `hd` macro adds a horizontal dimension
-- The `vd` macro adds a vertical dimension
-- The `ld` macro adds a linear dimension
-- The `pd` macro adds a path dimension that follows a given path
+- La macro `hd` qui ajoute une mesure horizontale
+- La macro `vd` qui ajoute une mesure verticale
+- La macro `ld` qui ajoute une mesure linéaire
+- La macro `pd` qui ajoute une mesure de chemin suivant ce même chemin
 
 <warning>
 
-FIXME: Add links to macro docs
+FIXME: Ajouter les liens à la doc
 
 </Warning>
 
-Let's look at the code:
+Jetons un coup d'oeil à ce code :
 
 ```js
 if (paperless) {
@@ -78,22 +78,22 @@ if (paperless) {
 }
 ```
 
-There's a lot going on, but it's mostly repetition. Let's look at the end result, and discuss:
+Beaucoup de choses se passent, mais elles sont répétitives. Voyons un peu le résultat final, et discutons-en :
 
 <example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
-We used the `hd` macro to add two horizontal dimensions:
+Nous avons utilisé la macro `hd` pour ajouter deux mesures horizontales :
 
-- One at the bottom for the width of our bib
-- One for the width of the neck opening
+- Une en bas pour la largeur de notre bavoir
+- Une pour la largeur de l'encolure
 
-The `hd` macro takes a `from` and `to` point as well as a `y` value that says at what Y-value to draw the dimension.
+La macro `hd` prend un point d'origine `from` et un point d'arrivée `to` et également une valeur `y` qui dit à quelle valeur en Y marquer cette mesure.
 
-We've also added three `vd` macros for the vertical dimensions on the right.
+Nous avons également ajouté trois macros `vd` pour les mesures verticales sur la droite.
 
-They also takes a `from` and `to` point, but expect a `x` parameter to indicate at what X-value the dimension should be drawn.
+Elle prennent aussi un point de départ `from` et un point d'arrivée `to`, mais attendent un paramètre `x` pour leur indiquer à quelle valeur de X la mesure doit être marquée.
 
-Finally, we added a `ld` macro for the linear dimension at the top that marks the width of our strap. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
+Finalement, nous avons ajouté une macro `ld` pour la mesure linéaire du haut qui marque la largeur de notre attache. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
 
 The `ld` macro takes a `d` argument (short for delta) that indicates how far the dimension should be offset from the line from the `from` to the `to` point, if at all.
 
