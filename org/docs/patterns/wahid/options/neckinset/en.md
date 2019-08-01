@@ -1,6 +1,5 @@
 ---
 title: Neck inset
-path: /en/docs/patterns/wahid/options/neckinset
 pattern: wahid
 option: neckInset
 ---

@@ -1,6 +1,5 @@
 ---
 title: End style
-path: /en/docs/patterns/benjamin/options/endstyle
 pattern: benjamin
 option: endStyle
 ---

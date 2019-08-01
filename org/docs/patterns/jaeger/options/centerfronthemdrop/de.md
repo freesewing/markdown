@@ -1,0 +1,7 @@
+---
+title: Center front hem drop
+pattern: jaeger
+option: centerFrontHemDrop
+---
+
+How much do you want the front of your jacket to be longer/lower than the back?

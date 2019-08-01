@@ -1,5 +1,6 @@
 ---
 title: Documentation for editors
+order: 720
 ---
 
 The *static content* of our websites is 

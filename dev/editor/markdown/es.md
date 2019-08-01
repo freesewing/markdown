@@ -1,76 +1,71 @@
 ---
-title: Markdown ayuda
-path: /es/docs/markdown
+title: Markdown help
 ---
 
-Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano. 
-Está diseñado para que los humanos puedan leerlo fácilmente, pero también 
-se convierta fácilmente a HTML en las computadoras.
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed to be easily readable by humans, yet also easily converted to HTML by computers.
 
-Markdown se usa a menudo para formatear documentación, comentarios en línea o en 
-cualquier lugar donde desee texto enriquecido mientras usa un editor de texto plano.
+Markdown is often used to format documentation, online comments, or anywhere where you want rich text while using a plain text editor.
 
-## Texto y párrafos
+## Text and paragraphs
 
-El texto es sólo texto. Puedes empezar a escribir.
+Text is just text. You can just start writing.
 
-Para comenzar un nuevo párrafo, deja una línea blanca:
+To start a new paragraph, leave a white line:
 
 ```md
-El texto es sólo texto. Puedes empezar a escribir.
+Text is just text. You can just start writing.
 
-Para comenzar un nuevo párrafo, deja una línea blanca:
+To start a new paragraph, leave a white line:
 ```
 
-Si desea insertar un salto de línea, pero no un párrafo nuevo, 
-simplemente deje 2 espacios al final de la línea.
+If you want to insert a linebreak, but not a new paragraph, simply leave 2 spaces at the end of the line.
 
-Me gusta  
-esta.
+Like  
+this.
 
-## Cursiva y negrita
+## Italic and bold
 
-Puede hacer texto en *cursiva* o en **negrita** envolviéndolo en 1 o 2 asterisco, respectivamente:
+You can make text *italic* or **bold** by wrapping it in 1 or 2 asterix respectively:
 
 ```md
-Puede hacer texto en *cursiva* o en **negrita** envolviéndolo en 1 o 2 asterisco, respectivamente:
+You can make text *italic* or **bold** 
+by wrapping it in 1 or 2 asterix respectively:
 ```
 
-## Liza
+## Lists
 
-Para hacer una lista, simplemente haga lo que haría en texto plano, asegurándose de comenzar con un espacio:
+To make a list, just do as you would in plain text, making sure to start with a space:
 
 ```md
- - una bala
- - lista
+ - a bullet
+ - list
 
-o
+or
 
- 1. un número
- 2. lista
+ 1. A numbered
+ 2. list
 ```
 
-Te dio:
+Gives you:
 
- - una bala
- - lista
+- a bullet
+- list
 
-o
+or
 
- 1. Un numerado
- 2. lista
+1. A numbered
+2. list
 
-## Campo de golf
+## Links
 
-Los enlaces combinan corchetes para el texto del enlace con corchetes para la designación.
+Links combine square brackets for the link text with round brackets for the desitation.
 
-[Me gusta esto](https://freesewing.org)
+[Like this](https://freesewing.org)
 
 ```md
-[Me gusta esto](https://freesewing.org)
+[Like this](https://freesewing.org)
 ```
 
-## Más lectura
+## More reading
 
-Esto será suficiente para que comiences. Si desea obtener más información, 
-visite [markdownguide.org](https://www.markdownguide.org/).
+This will be enough to get you started. If you'd like to learn more, visit [markdownguide.org](https://www.markdownguide.org/).

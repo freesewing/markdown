@@ -1,6 +1,5 @@
 ---
 title: Armhole depth factor
-path: /en/docs/patterns/carlita/options/armholedepthfactor
 pattern: carlita
 option: armholeDepthFactor
 ---

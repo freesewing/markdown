@@ -1,110 +1,78 @@
 ---
 date: 2018-05-24
-title: "Welkom op onze nieuwe website. Ze is AVG compatible, spreekt 3 talen, en ruikt nog wat naar natte verf"
-linktitle: "Onze nieuwe website doet AVG and i18n"
+title: "Welcome to our new website. It's GDPR compliant, speaks 3 languages, and smells of wet paint"
+linktitle: "Our new website does GDPR and i18n"
 img: paint.jpg
-caption: "De belangrijkste wijziging is uiteraard dat we voor onze huiskleur van paars naar zwart zijn overgeschakeld"
+caption: "The most important change is obviously that we moved from purple to black as our signature color"
 author: joost
 ---
 
-Morgen, op 25 mei, gaat de Algemene Verordering Gegevensbescherming (AVG) van de Europese Unie (EU) van kracht.
-Vanaf dan riskeren bedrijven die de rechten van EU inwoners niet respecteren een fikse boete, tot 4% van hun jaarlijks zakencijfer.
+Tomorrow, May 25th, the General Data Protection Regulation (GDPR) of the European Union (EU) comes into force. From that day onward, businesses that don't respect the privacy of EU citizens expose themselves to fines of up to 4% of their global annual turnover.
 
-Morgen is dus een belangrijk moment voor privacy online, want plots zijn 's werelds strengste
-regels terzake van toepassing op een half miljard mensen.
+The date marks nothing short of a watershed moment for online privacy, as the world's most stringent data protection laws suddenly apply to half a billion people.
 
-## Je toestemming is nu een voorwaarde
+## Your consent is now required
 
-Voor freesewing stelt de komst van AVG niet echt een probleem.
-Niet alleen [hadden we een prima plan gemaakt](/nl/blog/gdpr-plan),
-het enige wat we absoluut moesten toevoegen was het vragen om *toestemming*.
+For freesewing, the roll-out of GDPR doesn't pose a problem as such. Not only did we have a solid plan, the only thing we absolutely had to add to the site was *consent*. We are no longer allowed to process your data without your permission. Permission that we should ask for both explicitly and granularly.
 
-Het is niet langer toegestaan om je gegevens te verwerken zonder je toestemming.
-Die toestemming moeten we specifiek en gedetailleerd vragen.
+So, we have two types of questions to ask you:
 
-Dus, we hebben nu twee vragen voor je:
+- Do you give your consent to process your profile data?
+- Do you give your consent to process your model data?
 
- - Geef je ons de toestemming om je profielgegevens te verwerken?
- - Geef je ons de toestemming om je modelgegevens te verwerken?
+We make the distinction because they are different things. A profile/account is required to login to the site, post comments, and so on.  
+Model data is required to generate made-to-measure sewing patterns.
 
-We maken een onderscheid omdat het om verschillende zaken gaat.
-Een profiel/account is noodzakelijk om je aan te melden op de site, commentaar te posten enzoverder.
-Modelgegevens zijn nodig om naaipatronen op maat te genereren.
+You will be greeted by these questions when they are relevant (as in, when we do need to access that specific data), and you can revisit them at any time [in your account settings](/account).
 
-Je zal door deze vragen begroet worden op het ogenblik dat ze relevant worden
-(maw, wanneer we toegang nodig hebben tot de gegevens in kwestie)
-en je kan je beslissing op elk ogenblik herzien [in je account instellingen](/nl/account).
+## It is our duty to inform you
 
-## Het is onze plicht om je te informeren
+Under GDPR, we must inform you about how we handle privacy issues. We have written about [our approach to privacy](/blog/privacy-choices) before, but this requires something (a bit) more formal.
 
-Onder AVG is het aan ons om je te informeren over hoe we privacy aanpakken.
-We hebben eerder al geschreven over [onze kijk op privacy](/nl/blog/privacy-choices), 
-maar nu hebben we nood aan iets dat (iets) meer formeel is.
+So, we've drafted a [privacy notice](/privacy) that outlines all of these things.
 
-Dus, we hebben een [privacy beleid](/nl/privacy) opgesteld dat al deze zaken uitklaart.
+In addition to our privacy notice, we've setup [a page that lists all of your rights](/rights), and explains how you can exercise them.
 
-Naast ons privacy beleid hebben we ook [een pagina opgezet die al je rechten op een rijtje zet](/nl/rights), 
-met instructies hoe je van elk van die rechten gebruik kan maken.
-
-Met deze wijzigingen hebben we onze plicht om je te informeren vervuld.
+With these changes, we've covered your right to be informed.
 
 ## Privacy by design
 
-Eén van de vagere vereisten van AVG, maar met een belangrijke impact, is het zogenaamde *privacy by design* 
-We hebben dat advies ter harte genomen, en twee wijzigingen doorgevoerd die hierdoor geïnspireerd zijn:
+One of the more vague yet impactful requirements of GDPR is so-called *privacy-by-design*. We took the advice to heart and have made two changes inspired by this:
 
- - Versleuteling van gegevens in rust
- - Afsluiten van slapende accounts
+- Encryption of data at rest
+- Termination of dormant accounts
 
-We versleutelen nu je profiel gegevens in rust.
-Met andere woorden, onze databank bevat jouw informatie, maar deze informatie is versleuteld.
-We ontcijferen de informatie alleen op het ogenblik dat we ze nodig hebben.
+We now encrypt your profile data at rest. In other words, our database holds your info, but it's encrypted. We only decrypt it when we need it.
 
-We gaan ook accounts afsluiten die al 12 maand non-actief zijn.
-Concreet: Als je je gedurende een heel jaar niet aanmeld op de website, dan verwijderen we je account en al je gegevens.
+We'll also terminate accounts that have been dormant for 12 months. In other words, if you don't login on the website for 1 year, your account and all your data will be removed.
 
-Voor dat laatste gaan we wel een overgangsperiode voorzien daar we nog niet klaar zijn met alle wijzigingen die hiervoor nodig zijn.
-En dat brengt me bij mijn volgende punt:
+However, for that last matter, there will be a bit of a grace period as we haven't fully implemented all the required changes yet. Which brings me to my next point:
 
-## Ook nieuw: Al de rest
+## Also new: everything else
 
-Deze wijzigingen door de AVG leken ons een goeie gelegenheid om een aantal zaken te herbekijken, en eventueel te verbeteren.
-Dat was althans het originele idee. Uiteindelijk hebben we de hele website opnieuw gemaakt.
+These GDPR-related changes seemed like a good opportunity to re-vist some of the choices we've made, and see if there was room for improvement. That was the initial idea anyway. In the end, we complete re-wrote the website from scratch.
 
-Onze vorige website maakte gebruik van [Jekyll](https://jekyllrb.com/) om een statische website te genereren.
-We hadden daar dan een hoop javascript code bij om de dynamische elementen te verzorgen.
-Die aanpak deed wat het moest doen, maar had twee belangrijke nadelen:
+Our previous website used [Jekyll](https://jekyllrb.com/) as a static site generator, with a pile of javascript code to make add the dynamic elements to the site. While that did do the trick, there were two important downsides:
 
- - Jekyll maakt gebruik van de Ruby programeertaal. Dat is alweer een andere taal, een andere pakketbeheerder, en een ander ecosysteem dat potentiële vrijwillige medewerkers in hun hoofd moeten prenten. Dat wilden we graag vermijden. 
- - Die *hoop* JavaScript code mag je ook nogal letterlijk nemen. Onderhoudbaarheid van de code werd stilaan een probleem, en bovendien was het ook moeilijk voor nieuwe medewerkers om het allemaal te begrijpen.
+- Jekyll uses the Ruby programming language. That's another programming language, another package manager, and another ecosystem that potential contributors have to wrap their heads around. We wanted to avoid that.
+- That *pile* of JavaScript code was rather literal. Maintainability was starting to become an issue, not to mention that it would be difficult for new developers to jump in and understand what's going on.
 
-Dus, om twee vliegen in één klap te slaan, hebben we de hele boel herschreven door gebruik te maken van [Vue.js](https://vuejs.org/) en [Nuxt](https://nuxtjs.org/). 
-Onze volledige frontend (website dus) is nu geschreven in JavaScript — geen Ruby meer — en door Vue's modulaire aanpak en herbruikbare componenten zou het allemaal een stuk makkelijker moeten zijn om het te onderhouden.
+So, to kill two birds with one stone, we rewrote the entire site using [Vue.js](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Our entire frontend is written in JavaScript now — no more Ruby required — and due to Vue's modular nature and component-based approach, it should be a lot easier to maintain.
 
-## Internationalisatie, of i18n
+## Internationalization, aka i18n
 
-Als we dan toch aan het herschrijven waren wilden we uiteraard een aantal leuke nieuwe functionaliteiten toevoegen.
-De meest voor de hand liggende daarvan is dat we nu i18n (internationalisatie) ondersteunen.
+Obviously, as we were rewriting things, we've thrown in a couple of new features. The most obvious being that we fully support i18n (internationalization) now.
 
-Hoewel vertaalwerk een neverending story is hebben nu technisch alles op een rijtje om het te ondersteunen.
-Vanaf vandaag is freesewing trouwens niet langer alleen beschikbaar [in het Engels](/blog/gdpr/ready), 
-maar ook [in het Spaans](/es/blog/gdpr-ready), en [in het Nederlands](/nl/blog/gdpr-ready).
+While translation is an ongoing endeavor, we've got everything in place to support it. Starting today, freesewing is no longer exclusively available in English, but also in Dutch and Spanish.
 
-Ik wil graag [@AnnekeCaramin](/users/annekecaramin) 
-en [@AlfaLyr](/users/alfalyr) bedanken, die onze taal coördinatoren zijn voor respectievelijk Nederlands en Spaans,
-maar ook alle andere mensen die geholpen hebben met de vertaling.
+I'd like to thank [@AnnekeCaramin](/users/annekecaramin) and [@AlfaLyr](/users/alfalyr), our language coordinators for Dutch and Spanish respectively, but also all other people who have helped out with translating.
 
-Een overzicht van de status van de verschillende talen is [hier beschikbaar](/nl/i18n), 
-en ik ben hoopvol dat we binnen korte tijd andere talen zullen kunnen inschakelen.
+An overview of the status of the different languages is available [here](/i18n), and I'm hopeful that soon we'll be able to enable more languages.
 
-## Let op voor de natte verf
+## Beware the wet paint
 
-De publicatie van deze nieuwe website komt wellicht een beetje te vroeg.
-We hebben nog een aantal [openstaande zaken die we moeten oplossen](https://github.com/freesewing/site/issues), 
-en we missen nog een boel documentatie.
+Arguably, this release is a bit premature. We've still have [a couple of open issue to fix](https://github.com/freesewing/site/issues), and we're missing a bunch of documentation.
 
-Maar, gezien de AVG-deadline ons extern wordt opgelegd hebben we niet echt een andere keuze dan ze nu te publiceren.
-Tenminste, als we helemaal compatibel willen zijn met de AVG, en dat willen we.
+However, since our deadline is externally imposed, we don't exactly have much choice in this. That is, if we want to be fully compliant with GDPR, and we do.
 
-We hopen dan ook dat we op jullie geduld kunnen rekenen terwijl we verder bouwen aan onze website en ons platform.
-En aarzel niet om het ons te laten weten als er iets fout loopt.
+So, please bear with us as we continue to build this website, and our platform. And don't hesitate to let us know when something goes wrong.

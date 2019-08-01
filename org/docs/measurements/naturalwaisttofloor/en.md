@@ -1,6 +1,5 @@
 ---
 title: Natural waist to floor
-path: /en/docs/measurements/naturalwaisttofloor
 ---
 
 The **naturalWaistToFloor** is the measurement from your natural waist down to the floor.

@@ -1,82 +1,71 @@
 ---
-title: Aide Markdown
-path: /fr/docs/markdown
+title: Markdown help
 ---
 
-Markdown est un langage de balisage léger avec une syntaxe de formatage de texte brut. 
-Il est conçu pour être facilement lisible par les humains, mais également facilement 
-converti en HTML par les ordinateurs.
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed to be easily readable by humans, yet also easily converted to HTML by computers.
 
-Markdown est souvent utilisé pour formater la documentation, les commentaires en 
-ligne ou partout où vous voulez du texte enrichi avec un éditeur de texte brut.
+Markdown is often used to format documentation, online comments, or anywhere where you want rich text while using a plain text editor.
 
-## Texte et paragraphes
+## Text and paragraphs
 
-Le texte n'est que du texte. Vous pouvez simplement commencer à écrire.
+Text is just text. You can just start writing.
 
-Pour commencer un nouveau paragraphe, laissez une ligne blanche:
+To start a new paragraph, leave a white line:
 
 ```md
-Le texte n'est que du texte. 
-Vous pouvez simplement commencer à écrire.
+Text is just text. You can just start writing.
 
-Pour commencer un nouveau paragraphe, 
-laissez une ligne blanche:
+To start a new paragraph, leave a white line:
 ```
 
-Si vous souhaitez insérer un saut de ligne, mais pas un nouveau paragraphe, 
-laissez simplement 2 espaces à la fin de la ligne.
+If you want to insert a linebreak, but not a new paragraph, simply leave 2 spaces at the end of the line.
 
-Comme  
-ce.
+Like  
+this.
 
-## Italique et gras
+## Italic and bold
 
-Vous pouvez mettre du texte en *italique* ou en **gras** en l’emboîtant 
-respectivement dans 1 ou 2 astérisques:
+You can make text *italic* or **bold** by wrapping it in 1 or 2 asterix respectively:
 
 ```md
-Vous pouvez mettre du texte en 
-*italique* ou en **gras** en 
-l’emboîtant respectivement 
-dans 1 ou 2 astérisques:
+You can make text *italic* or **bold** 
+by wrapping it in 1 or 2 asterix respectively:
 ```
 
-## Des listes
+## Lists
 
-Pour faire une liste, faites comme vous le feriez en texte brut, en prenant soin de commencer par un espace:
+To make a list, just do as you would in plain text, making sure to start with a space:
 
 ```md
- - une balle
- - liste
+ - a bullet
+ - list
 
-ou
+or
 
- 1. Un numéroté
- 2. liste
+ 1. A numbered
+ 2. list
 ```
 
-Vous donne:
+Gives you:
 
- - une balle
- - liste
+- a bullet
+- list
 
-ou
+or
 
- 1. Un numéroté
- 2. liste
+1. A numbered
+2. list
 
-## Liens
+## Links
 
-Les liens combinent des crochets pour le texte du lien avec des crochets ronds pour la desitation.
+Links combine square brackets for the link text with round brackets for the desitation.
 
-[Comme ceci](https://freesewing.org)
+[Like this](https://freesewing.org)
 
 ```md
-[Comme ceci](https://freesewing.org)
+[Like this](https://freesewing.org)
 ```
 
-## Plus de lecture
+## More reading
 
-Ce sera suffisant pour vous aider à démarrer. Si vous souhaitez en savoir plus, 
-visitez [markdownguide.org](https://www.markdownguide.org/).
+This will be enough to get you started. If you'd like to learn more, visit [markdownguide.org](https://www.markdownguide.org/).

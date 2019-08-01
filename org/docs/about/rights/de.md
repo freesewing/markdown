@@ -1,0 +1,46 @@
+---
+title: Your rights
+---
+
+Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
+
+EU citizen or not, for us these are your rights:
+
+## The right to be informed
+
+You have the right to be informed about the collection and use of your personal data.
+Read [our privacy notice](/docs/about/privacy) to inform yourself.
+
+## The right of access
+
+You have the right to access your personal data.
+Go to [/account](/account) to do so.
+
+## The right to rectification
+
+You have the right to rectify your personal data, or complete it if it is incomplete.
+Go to [/account](/account) to do so.
+
+## The right to erasure
+
+You have the right to have your personal data erased.
+Go to [/account/remove](/account/remove) to remove all your data.  
+
+## The right to restrict processing
+
+You have the right to request a restriction on the processing of your personal data.
+Go to [/account/restrict](/account/restrict) to request we restrict processing of your personal data.  
+
+<Warning>
+
+Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
+
+</Warning>
+
+## The right to data portability
+
+> The right to object is broader, but this is how it applies to freesewing.
+
+## Rights in relation to automated decision making and profiling
+
+This right does not apply to FreeSewing as we do not use automated decision making or profiling.

@@ -1,14 +1,13 @@
 ---
 date: 2017-11-24
-title: Stefan réalise un T-shirt basé sur Brian
+title: Stefan makes a T-shirt based on Brian
 img: showcase.jpg
-caption: "Stefan se pavanant avec son nouveau T-shirt, qui est basé sur le patron de base Brian."
-patterns: [brian]
+caption: "Stefan showing off his new T-shirt, which is based on the Brian Body Block."
+patterns:
+  - brian
 author: 'Stefan Thanheiser'
 ---
 
-Cette image est [apparue pour la première fois](https://twitter.com/SThanheiser/status/933942463332536320)
-sur le compte Twitter de [@SThanheiser](https://twitter.com/SThanheiser).
+This picture [originally appeared](https://twitter.com/SThanheiser/status/933942463332536320) in the twitter feed of [@SThanheiser](https://twitter.com/SThanheiser).
 
-Elle est reproduite ici avec permission.
----
+It is reposted here with permission.

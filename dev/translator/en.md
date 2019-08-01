@@ -1,9 +1,12 @@
 ---
 title: Documentation for translators
+order: 740
 ---
 
-Freesewing is proudly multilingual, and for this we depend on you to help us.
-Anytime you see something that's poorly translated, you can jump right in and fix it.
+Freesewing is proudly multilingual, and for this we depend on translators to help us.
+
+We use [crowdin](https://crowdin.com/) to manage all translations for FreeSewing.
+It's an online platform that makes translation a breeze.
 
 ## Languages
 
@@ -24,13 +27,10 @@ please [come and talk to us on Gitter](https://gitter.im/freesewing/freesewing).
 
 ## Translation
 
-We use [crowdin](https://crowdin.com/) to manage all translations for FreeSewing.
-It's an online platform that makes translation a breeze.
-
 FreeSewing has two different projects on crowdin:
 
- - [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. 
- - [freesewing/markdown](https://crowdin.com/project/freesewing-md) holds **content**; Things like documentation, blog posts, and so on. 
+ - [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. See [Translating strings](/translator/strings) for more info.
+ - [freesewing/markdown](https://crowdin.com/project/fs-markdown) holds **content**; Things like documentation, blog posts, and so on. See [Translating content](/translator/content) for more info. 
 
 <Note>
 

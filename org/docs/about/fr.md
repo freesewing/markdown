@@ -1,44 +1,25 @@
 ---
-title: A propos de freesewing
-path: /fr/docs/about
+title: About FreeSewing
 ---
-Freesewing est une plateforme ouverte de patrons de couture sur mesure.
 
-Ceci signifie que si vous êtes là pour des patrons de couture, vous avez frappé à la bonne porte.
-Sauf qu'il ne s'agit pas d'un site de patrons de couture ou d'une société comme les autres.
-Il y a quelques différences, en particulier :
+FreeSewing est une plate-forme open source pour des patrons de couture sur mesure. Our aim is to become the *WikiPedia of sewing patterns*.
 
-## Freesewing est un projet ouvert géré par une communauté, pas par une société
+We are not interested in fashion, trends, or publishing the hot new pattern of the season. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation, and make that information globally available.
 
-Freesewing est un projet ouvert. 
-Tous nos patrons, mais aussi notre plateforme et cerise sur le gâteau, même notre site web sont 
-[disponibles sur GitHub](https://github.com/freesewing).
+On the surface, freesewing.org might seem like just another website with sewing patterns. But there's a lot more going on.
 
-Il n'y a aucune société cachée derrière, ou liée de quelque façon que ce soit à freesewing. 
-Ceci est possible grâce au dur labeur de nos contributeurs et au soutien financier de nos mécènes.
+## C'est un projet open source
 
-## Nous fournissons des patrons sur mesure
+All of our code, including our sewing patterns, is freely [available on GitHub](https://github.com/freesewing).
 
-Tous nos patrons de coutures sont faits sur mesure. Ce qui signifie qu'avant de télécharger un patron,
-vous devez nous donner ces mesures. Pour ça, vous créez **un mannequin**.
-C'est la liste des mensurations de la personnes pour qui vous souhaitez réaliser un vêtement (ça pourrait être pour vous-même comme ça pourrait être pour quelqu'un d'autre).
+There is no company behind FreeSewing. This is possible due to the hard work of our contributors, and the financial support of [our patrons](/patrons).
 
-Nous utilisons les mesures de votre mannequin, et nous les combinons avec un de nos patrons pour créer **une ébauche**.
+## FreeSewing provides made-to-measure sewing patterns
 
-Cette ébauche est ce que vous allez télécharger au final. 
+All of our sewing patterns are made-to-measure. We don't scale or grade patterns. Instead, we draft the pattern to your measurements. That happens in real-time, in your browser.
 
-## Freesewing est une plateforme
+## FreeSewing is a platform
 
-Une plateforme est un support sur lequel vous construisez des choses, et c'est ce que nous souhaiterions voir.
+A platform is something on which you build things, and that's what we'd like to see.
 
-Vous avez peut-être atterri ici pour nos patrons, mais nous mettons également à votre disposition les outils et la documentation pour vous laissez exprimer votre potentiel de créateur 
-et ajouter vos propres patrons.
-
-Puisque nos patrons sont implémentés dans un code, ils requièrent à la fois des compétences en programmation et en patronage.
-Une telle association de compétences n'étant pas souvent concentrée dans une même personne, nous encourageons vivement
-la collaboration entre développeurs et modélistes.
-
-Faites un saut sur [notre chat sur Gitter](https://gitter.im/freesewing/freesewing) pour trouver des personnes
-partageant les mêmes aspirations que vous, avec qui vous pouvez faire équipe pour ajouter de nouveaux patrons fantastiques à notre bibliothèque grandissante.
-
-C'est également le meilleur endroit où aller si vous avez de plus amples questions.
+You might be here for our patterns, but we also provid the tools and documentation for designers to add their own patterns. Please refer to [freesewing.dev](https://freesewing.dev) for all details.

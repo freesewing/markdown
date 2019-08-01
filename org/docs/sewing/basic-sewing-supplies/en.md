@@ -1,6 +1,5 @@
 ---
 title: Basic sewing supplies
-path: /en/docs/sewing/basic-sewing-supplies
 ---
 
 > What exactly constitutes the bare necessities for sewing is subject to debate. 

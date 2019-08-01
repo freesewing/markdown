@@ -1,6 +1,5 @@
 ---
 title: Rise
-path: /en/docs/patterns/shin/options/rise
 pattern: shin
 option: rise
 ---

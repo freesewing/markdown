@@ -1,76 +1,71 @@
 ---
-title: Markdown hulp
-path: /nl/docs/markdown
+title: Markdown help
 ---
 
-Markdown is een lichtgewicht opmaaktaal met syntactische syntaxis voor opmaak. 
-Het is ontworpen om gemakkelijk leesbaar te zijn voor mensen, maar kan ook 
-gemakkelijk worden omgezet naar HTML door computers.
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed to be easily readable by humans, yet also easily converted to HTML by computers.
 
-Markdown wordt vaak gebruikt voor het formatteren van documentatie, 
-online opmerkingen of waar u maar wilt, terwijl u een gewone teksteditor gebruikt.
+Markdown is often used to format documentation, online comments, or anywhere where you want rich text while using a plain text editor.
 
-## Tekst en alinea's
+## Text and paragraphs
 
-Tekst is gewoon tekst. Je kunt meteen beginnen met schrijven.
+Text is just text. You can just start writing.
 
-Laat een witregel om een nieuwe alinea te starten:
+To start a new paragraph, leave a white line:
 
 ```md
-Tekst is gewoon tekst. Je kunt gewoon beginnen met schrijven.
+Text is just text. You can just start writing.
 
-Laat een witregel om een nieuwe alinea te starten:
+To start a new paragraph, leave a white line:
 ```
 
-Als u een lijnbreuk wilt invoegen, maar geen nieuwe alinea, 
-laat u aan het einde van de regel slechts 2 spaties open.
+If you want to insert a linebreak, but not a new paragraph, simply leave 2 spaces at the end of the line.
 
-Zoals  
-hier.
- 
-## Cursief en vet
+Like  
+this.
 
-U kunt tekst *cursief* of **vet** maken door deze respectievelijk in 1 of 2 asterix te vouwen:
+## Italic and bold
+
+You can make text *italic* or **bold** by wrapping it in 1 or 2 asterix respectively:
 
 ```md
-U kunt tekst *cursief* of **vet** maken door deze respectievelijk in 1 of 2 asterix te vouwen:
+You can make text *italic* or **bold** 
+by wrapping it in 1 or 2 asterix respectively:
 ```
 
-## Lijsten
+## Lists
 
-Om een lijst te maken, doe gewoon zoals je zou doen in platte tekst, 
-zorg ervoor dat je begint met een spatie:
+To make a list, just do as you would in plain text, making sure to start with a space:
 
 ```md
- - een punten
- - lijst
+ - a bullet
+ - list
 
-of
+or
 
- 1. Een genummerde
- 2. lijst
+ 1. A numbered
+ 2. list
 ```
-Geeft jou:
 
- - een punten
- - lijst
+Gives you:
 
-of
+- a bullet
+- list
 
- 1. Een genummerde
- 2. lijst
+or
+
+1. A numbered
+2. list
 
 ## Links
 
-Links combineren vierkante haakjes voor de linktekst met ronde haakjes voor de bestemming.
+Links combine square brackets for the link text with round brackets for the desitation.
 
-[Op deze manier](https://freesewing.org)
+[Like this](https://freesewing.org)
 
 ```md
-[Op deze manier](https://freesewing.org)
+[Like this](https://freesewing.org)
 ```
 
-## Meer lezen
+## More reading
 
-Dit is genoeg om van start te gaan. Wil je er meer over weten, bezoek dan
-[markdownguide.org](https://www.markdownguide.org/).
+This will be enough to get you started. If you'd like to learn more, visit [markdownguide.org](https://www.markdownguide.org/).
