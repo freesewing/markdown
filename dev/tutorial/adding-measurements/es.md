@@ -19,7 +19,7 @@ Open the config file at `config/index.js` and update the `measurements` array wi
 measurements: ["headCircumference"],
 ```
 
-<Tip>
+<tip>
 
 Make sure to re-use the names of existing measurements, rather than invent your own.
 
@@ -37,4 +37,4 @@ Since it's just one measurements, let's simply enter a value by hand. For exampl
 
 Enter `38` in the box, and click on **Draft your pattern** in the top navigation bar to get back to your draft which for now still looks like this:
 
-<Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
+<example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
