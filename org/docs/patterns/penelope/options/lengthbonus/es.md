@@ -1,5 +1,6 @@
 ---
 title: Length bonus
+path: /en/docs/patterns/penelope/options/lengthbonus
 pattern: penelope
 option: lengthBonus
 ---
