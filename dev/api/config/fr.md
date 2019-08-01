@@ -2,9 +2,9 @@
 title: Configuration
 ---
 
-This is about the pattern configuration file. FreeSewing (the library) does not require configuration. The configuration documented here is the configuration file for patterns built on top of FreeSewing.
+Il s'agit du fichier de configuration du modèle. FreeSewing (la bibliothèque) n'a pas besoin de configuration. La configuration documentée ici concerne le fichier de configuration pour les patrons construits par dessus FreeSewing.
 
-For run-time configuration, see [settings](/settings).
+Pour la configuration d'exécution, voir les [Paramètres](/settings).
 
 ## name
 
@@ -12,7 +12,7 @@ For run-time configuration, see [settings](/settings).
 name: "sorcha"
 ```
 
-A string with the name of your pattern.
+Une chaîne de caractères correspondant au nom de votre patron.
 
 ## version
 
@@ -28,11 +28,11 @@ dependencies: {
 }
 ```
 
-An object of `key`-`value` pairs that controls the order in which pattern parts will get drafted.
+Un objet de paires clé-valeur `key`-`value` qui contrôle l'ordre dans lequel les parties de patron vont être ébauchées.
 
 <tip>
 
-See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
+Voir les [Dépendances des parties](/advanced/dependencies) pour des informations plus poussées sur les dépendances.
 
 </Tip>
 
@@ -44,7 +44,7 @@ inject: {
 }
 ```
 
-An object of `key`-`value` pairs of parts. The `value` part will be injected in the `key` part.
+Un objet de pair clé-valeur `key`-`value` de parties. La partie valeur `value` sera injectée dans la partie clé `key`.
 
 By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
 
