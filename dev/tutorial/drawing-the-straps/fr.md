@@ -1,11 +1,11 @@
 ---
-title: Drawing the straps
+title: Dessiner les attaches
 order: 230
 ---
 
-All we have to do know is flip a bunch of points on the other side, and create one single path that follows our bib outline.
+Tout ce que nous devons faire maintenant est de retourner un ensemble de points de l'autre côté, et créer un unique chemin qui suit le contour de notre bavoir.
 
-First, let's create the points:
+Tout d'abord, il faut créer les points :
 
 ```js
 points.edgeTopRightCp = points.edgeTopLeftCp.flipX();
@@ -21,7 +21,7 @@ points.tipLeftBottomEnd = points.tipRightBottomEnd.flipX();
 points.snapRight = points.snapLeft.flipX();
 ```
 
-Now, remove the `neck` and `rect` paths that we created earlier, and replace them with this new path:
+Maintenant, supprimez les chemins `neck` et `rect` que nous avons créés plus tôt, et remplaçez-les avec ce nouveau chemin :
 
 ```js
 paths.seam = new Path()
