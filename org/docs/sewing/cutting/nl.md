@@ -4,7 +4,7 @@ title: Knippen
 path: /en/docs/sewing/cutting
 ---
 
-![Me cutting out some T-shirts](cutting.jpg)
+![Ik, druk t-shirts aan het uitknippen](cutting.jpg)
 
 Knippen slaat op het uit de stof knippen van de verschillende patroondelen.
 
