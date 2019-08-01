@@ -1,5 +1,5 @@
 ---
-title: Drawing the bib outline
+title: Dessiner le contour du bavoir
 order: 190
 ---
 
