@@ -1,5 +1,6 @@
 ---
 title: Collar ease
+path: /en/docs/patterns/simon/options/collarease
 pattern: simon
 option: collarEase
 ---
