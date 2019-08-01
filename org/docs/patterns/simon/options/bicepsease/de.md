@@ -1,5 +1,6 @@
 ---
 title: Biceps ease
+path: /en/docs/patterns/simon/options/bicepsease
 pattern: simon
 option: bicepsEase
 ---
