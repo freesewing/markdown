@@ -1,5 +1,6 @@
 ---
 title: Cuff ease
+path: /en/docs/patterns/carlton/options/cuffease
 pattern: carlton
 option: cuffEase
 ---
