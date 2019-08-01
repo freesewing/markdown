@@ -1,5 +1,6 @@
 ---
 title: Bulge
+path: /en/docs/patterns/bruce/options/bulge
 pattern: bruce
 option: bulge
 ---
