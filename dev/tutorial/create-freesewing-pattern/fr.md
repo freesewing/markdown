@@ -1,9 +1,9 @@
 ---
-title: Setting up the development environment
+title: Paramétrer l'environnement de développement
 order: 100
 ---
 
-Open a terminal and enter the following command:
+Ouvrez un terminal et entrez la commande suivante :
 
 ```bash
 npm init freesewing-pattern@beta
@@ -11,66 +11,68 @@ npm init freesewing-pattern@beta
 
 <Note>
 
-The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
+Le suffixe `@beta` est requis tant que FreeSewing 2.0 est en beta.
 
 </Note>
 
-This will load a few dependencies, and then ask you the following questions:
 
-- **Language**: Use the arrow keys to select the language of your choice
-- **Pattern name**: Enter `tutorial` 
-- **description**: Enter `The FreeSewing tutorial`
-- **Pattern type**: Use the arrow key to select `Pattern`
-- **Department**: Use the arrow keys to select `Accessories`
-- **Author**: Enter your GitHub username
-- **GitHub repository**: This will be prefilled for you, so just hit Enter
-- **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
+Cela va charger quelques dépendances, puis vous demander les questions suivantes :
 
-After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
-
+  - **Language</strong (Langage) >: Utilisez les flèches directionnelles pour sélectionner le langage de votre choix</li> 
+  - **Pattern name (Nom du patron)**: Entrez `tutorial` (pour tutoriel) 
+  - **description**: Entrez `The FreeSewing tutorial` (le tutoriel Freesewing)
+  - **Pattern type (Type de patron)**: Utilisez les flèches directionnelles pour sélectionner `Pattern` (pour patron)
+  - **Department (Département)**: Utilisez les flèches directionnelles pour sélectionner `Accessories` (pour Accessoires)
+  - **Author (Auteur)**: Entrez votre nom d'utilisateur GitHub
+  - **GitHub repository (Dépôt Github)**: Cela sera pré-rempli pour vous, alors cliquez juste sur Entrée
+  - **Package manager (Gestionnaire de package)**: Utilisez la flèche pour choisir. En cas de doute, prenez `NPM`.</ul> 
+    
+Après avoir répondu à toutes ces questions, le modèle par défaut sera copié, après quoi toutes les dépendances seront installées.
+    
 <Note>
-
-This will take a few minutes because we're loading some software for your development environment.
-
+    
+Cela prendra quelques minutes car nous chargeons des logiciels pour votre environnement de développement.
+    
 </Note>
-
-When it's ready, you'll need to run two commands in parallel. In the current terminal, enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
-
+    
+Lorsque c'est prêt, vous devrez exécuter deux commandes en parallèle. Dans le terminal courant, entrez le répertoire qui vient d'être créé pour notre patron `tutorial` et démarrez rollup en mode veille :
+    
 ```bash
 cd tutorial
 npm run start
 ```
-
-Or if you chose to use Yarn as package manager:
-
+   
+Ou si vous choisissez d'utiliser Yarn en tant que gestionnaire de package :
+    
 ```bash
 cd tutorial
 yarn start
 ```
-
-Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
-
-<pre><code class="bash:">cd tutorial/example
+    
+Maintenant, ouvrez un second terminal, et naviguez jusqu'au sous-dossier `example` et exécutez la même commande là :
+    
+```bash
+cd tutorial/example
 npm run start
-</code></pre>
-
-Or if you chose to use Yarn as package manager:
-
+```
+    
+Ou si vous choisissez d'utiliser Yarn en tant que gestionnaire de package :
+    
 ```bash
 cd tutorial/example
 yarn start
 ```
-
-If all goes well, your browser will open and show the following landing page:
-
-![The FreeSewing development environment](./cfp.png)
-
+    
+Si tout se passe bien, votre navigateur s'ouvrira et vous montrera la page suivante :
+    
+![L'environnement de développement FreeSewing](./cfp.png)
+    
 <Note>
-
-###### Using Windows?
-
-We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have a Windows machine I can test this on.
-
-If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and we'll figure it out together.
-
+    
+###### Vous utilisez Windows ?
+    
+Nous avons testé ceci sur Linux et MacOS, mais pas sur Windows étant donné que je (Joost) ne possède pas une machine Windows sur laquelle je pourrais le tester.
+    
+Si vous rencontrez un problème, vous pouvez joindre [notre chat](https://gitter.im/freesewing/freesewing) et nous trouverons une solution ensemble.
+    
 </Note>

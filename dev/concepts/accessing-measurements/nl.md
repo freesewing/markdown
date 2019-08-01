@@ -1,9 +1,9 @@
 ---
-title: Accessing measurements
+title: Afmetingen oproepen
 order: 240
 ---
 
-Measusuremnets are stored in `pattern.settings.measurements`, but thanks to the [shorthand](/concepts/shorthand) call, you can simply write:
+Afmetingen worden opgeslagen in `pattern.settings.measurements.`, maar dankzij [shorthand](/concepts/shorthand) kan je gewoon schrijven:
 
 ```js
 let quarterChest = measurements.chestCircumference / 4;
@@ -11,6 +11,6 @@ let quarterChest = measurements.chestCircumference / 4;
 
 <Note>
 
-Keep in mind that [FreeSewing uses millimeter for everything](/concepts/units).
+Houd er rekening mee dat FreeSewing [overal millimeters voor gebruikt](/concepts/units).
 
 </Note>

@@ -1,47 +1,47 @@
 ---
-title: Adding options
+title: Ajouter des options
 order: 140
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. But there's still a number of choices you have to make:
+Vous savez à quoi devrait ressembler votre bavoir, et vous disposez de la mesure *headCircumference* (pour tour de tête en français). Mais il y a encore un certain nombre de choix que vous allez devoir faire :
 
-- How large should the neck opening be?
-- How wide should the bib be?
-- How long should the bib be?
+- Quelle devrait être la largeur de l'encolure ?
+- Quelle sera la largeur du bavoir ?
+- Quelle longueur devra-t-il avoir ?
 
-You can make all of these choices for the user and set them in stone, so to speak.
+Vous pourriez faire ces choix à la place de l'utilisateur et les graver dans la pierre, pour ainsi dire.
 
-But since you're designing a pattern in code, it's trivial to make your pattern flexible and let the user decide. All you have to do is add options to your pattern.
+Mais étant donné que vous concevez un patron sous forme de code, il est trivial de rendre votre patron flexible et de laisser le choix à l'utilisateur. Tout ce que vous avez à faire est d'ajouter des options à votre patron.
 
-## Add the neckRatio option
+## Ajouter l'option neckRatio
 
-The first option we're going to add controls the ratio between the neck opening and the head circumference. Let's call it `neckRatio`.
+La première option que nous allons ajouter contrôle le ratio entre l'encolure et le tour de tête. Appelons-la `neckRatio`.
 
-Open the config file at `config/index.js` and add this to the options:
+Ouvrez le fichier de configuration à cette adresse `config/index.js` et ajoutez ceci aux options :
 
 ```js
   options: {
-    // Remove this size option
+    // Supprimez cette option de taille (size)
     //size: { pct: 50, min: 10, max: 100 }
-    // And add the neckRatio options
+    // Et ajoutez l'option neckRatio
     neckRatio: { pct: 80, min: 70, max: 90 }, 
   }
 ```
 
-Can you guess what it means?
+Pouvez-vous devinez ce que cela signifie ?
 
-- We've added a option of type percentage
-- Its minimum value is 70%
-- Its maximum value is 90%
-- Its default value is 80%
+- Nous avons ajouté une option de type pourcentage
+- Sa valeur minimale est de 70%
+- Sa valeur maximale est de 90%
+- Sa valeur par défaut est de 80%
 
 <Note>
 
-There are different types of options, but percentages are the most common ones. They are all documentation [in the API docs](/api/config#options).
+Il y a différents types d'options, mais les pourcentages sont les plus communes. Toute la documentation à ce sujet est dans [la doc API](fr/api/config#options).
 
 </Note>
 
-Let's do something similar for the width and length of our bib:
+Faisons quelque chose de similaire pour la largeur (width en anglais) et la longueur (length en anglais) de notre bavoir :
 
 ```js
 options: {
@@ -51,17 +51,17 @@ options: {
 }
 ```
 
-- You've added `widthRatio` and `lengthRatio` options
-- You've given all options sensible defauls 
-- You've given all options sensible maximum and minimum boundaries
+- Vous avez ajouté les options `widthRatio` et `lengthRatio`
+- Vous avez donné toutes les valeurs par défaut sensibles des options 
+- Vous avez donné toutes les valeurs sensibles pour les minima et les maxima des options
 
 <Note>
 
-Later, you'll test-drive your pattern to see how it behaves when you adapt the options between their minimum and maximum values. At that time, you can still tweak these values.
+Plus tard, vous testerez votre patron pour voir comment il se comporte lorsque vous modifierez les options entre leurs valeurs minimales et maximales. A cet instant, vous pouvez encore ajuster ces valeurs.
 
 </Note>
 
-Before you close the `config/index.js` file, make sure to update the `optionGroups` entry as follows:
+Avant de fermer le fichier `config/index.js`, assurez-vous de mettre à jour l'entrée `optionGroups` comme suit :
 
 ```js
 optionGroups: {
@@ -71,8 +71,8 @@ optionGroups: {
 
 <Note>
 
-The `optionGroups` entry does not do anything for your pattern as such. Instead it signals to the frontend that this is how options should be grouped together and presented to the user.
+L'entrée `optionGroups` ne fait rien pour votre patron en tant que telle. Elle signale au frontend que c'est ainsi que les options devraient être rassemblées et présentées à l'utilisateur.
 
 </Note>
 
-Because you have removed the `box` option, the pattern no longer draws a box. So let's start drawing your bib instead.
+Etant donnée que vous avez supprimé l'option `box`, le patron ne dessine plus une boîte. Alors commençons à dessiner votre bavoir à la place.

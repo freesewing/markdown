@@ -5,7 +5,7 @@ title: Using macros
 Macros are a way to facilitate pattern design by bundling a bunch of individual actions
 into a little routine.
 
-Macros are provided by [plugins](/plugins/). Here are some examples:
+Macros are provided by [plugins](/plugins). Here are some examples:
 
 <Example pattern="rendertest" options={{
   colors: false,

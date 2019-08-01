@@ -9,4 +9,3 @@ to the [shorthand](/concepts/shorthand) call, you can simply write:
 ```js
 let sleeveBonus = measurements.shoulderToWrist * (1 + options.sleeveLengthBonus);
 ```
-

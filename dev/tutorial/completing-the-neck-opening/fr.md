@@ -1,11 +1,11 @@
 ---
-title: Completing the neck opening
+title: Compléter l'encolure
 order: 180
 ---
 
-As the neck opening is symmetrical, there's no need to re-calculate the points on the other side. You can just flip them over, so to speak. And that's exactly what you'll do:
+Comme l'encolure est symétrique, il n'est pas nécessaire de recalculer les points de l'autre côté. Vous pouvez tout simplement les retourner, pour ainsi dire. Et c'est exactement ce que vous allez faire :
 
-First create some new points:
+D'abord, créez quelques nouveaux points :
 
 ```js
 points.rightCp2 = points.rightCp1.flipY();
@@ -22,11 +22,11 @@ points.topCp2 = points.bottomCp1.flipY();
 
 <Note>
 
-We're using the `Point.flipX()` and `Point.flipY()` methods here. Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
+Nous utilisons ici les méthodes `Point.flipX()` et `Point.flipY()`. Peut-être pouvez-vous deviner à quoi elles servent ? Sinon, vérifiez [la documentation API](fr/api/point).
 
 </Note>
 
-Then, update your path:
+Puis, mettez à jour votre chemin :
 
 ```js
 paths.neck = new Path()

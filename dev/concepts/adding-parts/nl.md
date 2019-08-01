@@ -1,23 +1,23 @@
 ---
-title: Adding pattern parts
+title: Patroondelen toevoegen
 order: 210
 ---
 
-Since the patterns parts are listed in [the configuration file](/en/docs/developer/config), freesewing knows about all the parts that belong to your pattern.
+Omdat alle patroondelen opgelijst staan in het [configuratiebestand](/en/docs/developer/config) weet FreeSewing precies welke delen er bij jouw patroon horen.
 
-It expects that each pattern has it's own draft method, that is called `draft` followed by the capitalized name of the pattern part.
+Het gaat ervan uit dat elk patroon zijn eigen tekenmethode heeft met de naam `draft` gevolgd door de naam van het patroondeel met een hoofdletter.
 
-For example, if our pattern `Sorcha` has a part called `back`, you should have a `draftBack` method. It's good practice to keep each part in its own file, so create a file called `back.js`. Inside, you export your method to draft this part:
+Als ons patroon `Sorcha` bijvoorbeeld een onderdeel heeft dat `back` heet, dan heb je een methode `draftBack` nodig. Het is een goede werkwijze om elk deel in zijn eigen bestand te bewaren. In dit geval maak je dus een bestand met de naam `back.js`. Daarin exporteer je jouw methode om dit onderdeel te tekenen:
 
 ```js
 export default part => {
-  // Your part code here
+  // De code voor jouw onderdeel
 
   return part;
 }
 ```
 
-Then, in your `index.js` file, you import this file, and attach the method to your pattern's prototype:
+Daarna importeer je dit bestand in je `index.js`-bestand en voegt de methode toe aan het prototype van je patroon:
 
 ```js
 import freesewing from "freesewing";

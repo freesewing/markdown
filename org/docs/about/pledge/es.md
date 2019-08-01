@@ -4,11 +4,11 @@ title: FreeSewing revenue pledge
 
 <Note>
 
-I — Joost De Cock, founder and maintainer of the FreeSewing project — hereby pledge that all FreeSewing revenue will be transferred to [Doctors Without Borders (MSF)](http://www.msf.org/).
+I — Joost De Cock, maintainer of the FreeSewing project — hereby pledge that all FreeSewing revenue will be donated to [Doctors Without Borders (MSF)](http://www.msf.org/).
 
 </Note>
 
-## Understanding the reasons for this pledge
+## Why we're doing this
 
 ### Noblesse oblige
 
@@ -18,14 +18,14 @@ I don't know if you're familiar with the phrase **noblesse oblige** but it essen
 
 I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
-Could I use the money? Yes I could.  
+ould I use the money? Yes I could.  
 Do I need the money? No I don't.
 
 ### The value of your support
 
-The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
+The main risk to FreeSewing is the same as any open source project out there: maintainer burnout.
 
-While I no longer carry Freesewing alone -- and I can't stress enough how much I value the work of all contributors -- that doesn't make me immune to feelings of *Why the hell am I doing this?*
+While I no longer carry FreeSewing alone — and I can't overstate the value of the work of all contributors — that doesn't make me immune to feelings of *Why the hell am I doing this?*
 
 When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you're doing a worthwhile thing. Keep up the good work*.
 
@@ -35,15 +35,15 @@ It is not *just* about the money. But that doesn't mean the money is not importa
 
 Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
+I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on FreeSewing.
 
-Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+Which is why all the money raised through FreeSewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 
 ### Charity is not sexy
 
 Here's the tricky part: People give less once they know the money goes to charity in the end. I wish it wasn't the case, but it is.
 
-So I'm not explicitly mentioning it on [our Patrons page](/patrons/join), which is presented like you would see on a business site.
+So we're presenting [our subscription options](/patrons/join) like you would see on a for-profit site. It seems more intuitive this way, and also just works better.
 
 Yes, everything is free, and the money doesn't actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn't mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
 

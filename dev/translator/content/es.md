@@ -2,56 +2,35 @@
 title: Translating content
 ---
 
-## Getting started
+Crowdin makes translations of strings very easy.  
+If you provide the translation, Crowdin will make sure your changes make it back into our repository, where they will be picked up and merged by one of the development people.
 
-All our content is written in [Markdown](/en/docs/markdown). You can find these files in [the markdown folder](https://github.com/freesewing/website/tree/develop/src/markdown) of [our website repository](https://github.com/freesewing/website).
+Here's what you need to know to get started:
 
-In it, you will find three subfolders:
+- Crowdin link: https://crowdin.com/project/fs-markdown
+- Request an invite: https://gitter.im/freesewing/freesewing
 
-- `blog` : Contains blog posts
-- `docs` : Contains documentation
-- `showcase` : Contains showcase posts
+<tip>
 
-To translate a post or documentation page, first find the English file which is always called `en.md`. Then, copy it to the language code you want to translate it to. For example, to translate it to French, you copy it to `fr.md` in the same directory. Now you can translate the file.
+When translating content, please give priority to the content of freesewing.org, before tackling developer documentation for freesewing.dev. In other words, do the `org` folder first.
 
-## Frontmatter
+</Tip>
 
-At the start of a MarkDown file, you will find frontmatter enclosed between a starting and ending line of 3 dashes `---` .
+## Content as strings
 
-This holds the metadata of the page, and whether it needs to be transated depends on the context.
+Tranlating content used to be very different from translating strings, because you had to translate entire pages in one go, adapt links and so on.
 
-For example, this is the fronmatter of this page:
+Today, they are much the same as Crowdin breaks down all content (blog posts, documentation, and so on) into individual sentences. This may seem weird at first, but it actually has a number of benefits:
 
-    ---
-    title: Translating content
-    ---
-    
-
-Frontmatter is always a `key:value` pair, in which the key never is translated. Translation of the value depends on the key. In the example above, you would translate the page title. But look at this frontmatter from a showcase:
-
-    ---
-    title: Sloppy Theodore trousers
-    img: showcase.jpg
-    caption: "Theodore Trousers"
-    patterns: [theodore]
-    author: cabi
-    ---
-    
-
-Here, you would translate the title and caption, but you would not translate the other meta data as they are variables used by the system, rather than text to be read by the visitor.
-
-When you’re not certain whether something needs translating or not , [you can ask someone](https://gitter.im/freesewing/freesewing).
+- You never have to tackle an enourmous page of documentation. Whenever you have a few minutes to spare, you can just jump in, and translate a few sentences. This makes it much simpler to collaborate with others.
+- When (part) of the original (English) content is changed, Crowdin will detect that and let you know exactly what sentences need to be updated.
+- It's easier to keep track of how much has been done/remains to be done
+- Content is more consisten across languages
 
 ## Syntax
 
-MarkDown is a straigh-forward way to format text to turn it into HTML. You’ll be familiar with it in no time.
+Content will contain MarkDown syntax. MarkDownis a straigh-forward way to format text to turn it into HTML. You’ll be familiar with it in no time.
 
-The [official MarkDown documentation](https://daringfireball.net/projects/markdown/syntax) is a bit dry. You may find [our summary of the main MarkDown features](/en/docs/markdown) a more pleasant read.
+The [official MarkDown documentation](https://daringfireball.net/projects/markdown/syntax) is a bit dry, but there's plenty of MarkDown guides out there.
 
-## Updating links to point to the correct language
-
-When you link to a different place on the website, you need to update the language prefix.
-
-For example, `/en/docs/i18n/markdown` points to the English version of this page. Whereas `/es/docs/i18n/markdown` points to the Spanish version of this page.
-
-It’s important to update these links, as they determine the language of the site. If you are translating a page to Spanish, and you don’t update a link, then when a visitor clicks that link, the website will suddenly be in English instead of Spanish.
+If you have any questions, [we're here to help](https://gitter.im/freesewing/freesewing).

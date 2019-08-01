@@ -3,39 +3,39 @@ title: Conclusion
 order: 280
 ---
 
-Congratulations, you have created your first pattern. And while it's arguably rather simple, you have learned a bunch of things along the way. Let's list some of the things you've learned:
+Félicitations, vous avez créé votre premier patron. Et tandis que c'est discutablement assez simple, vous avez appris un tas de choses en cours de route. Listons toutes ces choses que vous avez apprises :
 
-- You have learned how to [setup your development environment](/tutorial/create-freesewing-pattern) with `npm init freesewing-pattern`
-- You learned how to [add parts](/tutorial/your-first-part), [measurements](/tutorial/adding-measurements), and [options](http://localhost:8000/tutorial/adding-options) to your pattern's configuration file
-- You learned what [a good boilerplate is to start with a new part](/tutorial/part-structure)
-- You've learned [how to add points and draw paths](/tutorial/constructing-the-neck-opening)
-- You learned how you can make changes in a loop to [adapt the neckopening](/tutorial/fitting-the-neck-opening) or [rotate the straps](/tutorial/avoiding-overlap) until they were just right
-- You learned about [macros and how to use them](/tutorial/creating-the-closure)
-- You learned different methods to manipulate [points](/api/point) and [paths](/api/path)
-- You learned about using [attributes](/api/attributes) to influence the appearance of points and paths
-- Your learned about what it means to draft [a complete pattern](/tutorial/completing-your-pattern)
-- Your learned about [snippets and how to add them](/tutorial/completing-your-pattern#adding-snippets)
-- You learned [how to offset a path](/tutorial/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
-- You learned how to create a [paperless pattern](/tutorial/paperless-bib) by adding dimensions
+- Vous avez appris à [configurer votre environnement de programmation](fr/tutorial/create-freesewing-pattern) avec `npm init freesewing-pattern`
+- Vous avez appris à [ajouter des parties](fr/tutorial/your-first-part), [des mesures](fr/tutorial/adding-measurements), et [des options](http://localhost:8000/fr/tutorial/adding-options) à votre fichier de configuration de patron
+- Vous avez appris à quoi ressemble [un bon standard pour démarrer une nouvelle partie](/tutorial/part-structure)
+- Vous avez appris [comment ajouter des points et dessiner des chemins](fr/tutorial/constructing-the-neck-opening)
+- Vous avez appris que vous pouvez effectuer des modifications dans une boucle pour [adapter une encolure](fr/tutorial/fitting-the-neck-opening) ou [faire pivoter des attaches](/tutorial/avoiding-overlap) jusqu'à ce qu'elles soient bien placées
+- Vous avez appris ce que sont des [macros et comment les utiliser](fr/tutorial/creating-the-closure)
+- Vous avez appris différentes méthodes pour manipuler des [points](fr/api/point) et des [chemins](fr/api/path)
+- Vous avez appris à utiliser des [attributes](fr/api/attributes) pour influencer l'apparence des points et des chemins
+- Vous avez appris ce que cela signifie d'ébaucher [un patron complet](fr/tutorial/completing-your-pattern)
+- Vous avez appris ce que sont les [snippets et comment les ajouter](fr/tutorial/completing-your-pattern#adding-snippets)
+- Vous avez appris [comment décaler un chemin](/tutorial/completing-your-pattern#seam-allowance) pour créer une marge de couture, ou dans notre cas, marquer la ligne pour le ruban de biais
+- Vous avez appris comment créer un [patron sans papier](/tutorial/paperless-bib) en ajoutant des dimensions
 
-## More reading material
+## Un peu plus de lecture
 
-- If you haven't done so already, read through [the basic concepts of FreeSewing](/concepts)
-- Bookmark [the FreeSewing API docs](/api), they are your reference every time you're not entirely certain how something works
-- Have a look at [our best practices](/do) that will help you make the best possible patterns
+- Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](fr/concepts)
+- Mettez en marque page les [docs API de FreeSewing](fr/api), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
+- Prenez en considération [nos meilleures pratiques](/do) qui vous aideront à réaliser des patrons optimaux
 
-## What to do next
+## Pour la suite
 
-Now that you have learned how to create a pattern, why don't you make one?
+Maintenant que vous avez appris comment réaliser un patron, pourquoi ne pas vous lancer dans un nouveau ?
 
-Think about what it is you would like to create, and just do it. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/freesewing) and we'll help you out.
+Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/freesewing) et nous vous donnerons un coup de main.
 
 <Note>
 
-###### Tell us how we can improve this tutorial
+###### Dites-nous comment nous pourrions améliorer ce tutoriel
 
-You could do as a real favor by letting us know what you loved or hated about this tutorial.
+Vous nous feriez une belle faveur en nous faisant part de ce que vous avez bien aimé ou détesté dans ce tutoriel.
 
-Where there areas that were not clear? Did we dwell too long on one topic, or rushed through another one too quickly? You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+Y avait-il des parties pas très claires ? Est-ce que nous nous sommes trop attardés sur un sujet, ou au contraire sommes-nous passés trop vite sur un autre sujet ? Votre avis nous aide à améliorer les choses, alors ne soyez pas timides et [dites-nous ce que vous pensez](https://gitter.im/freesewing/freesewing)
 
 </Note>

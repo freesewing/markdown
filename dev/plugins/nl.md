@@ -1,5 +1,6 @@
 ---
 title: Plugins
+order: 620
 ---
 
 Plugins allow you to extend freesewing beyond the basic functionality.

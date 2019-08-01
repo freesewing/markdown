@@ -1,13 +1,13 @@
 ---
-title: Constructing the neck opening
+title: Construire l'encolure
 order: 160
 ---
 
-Your goal is to construct a slightly oval neck opening that has a circumference that is the `headCircumference` measurements multiplied by the `neckRatio` option.
+Votre but est de construire une encolure légèrement ovale qui a une circonférence égale à la mesure `headCircumference` multipliée par l'option `neckRatio`.
 
-That might involve some trial and error. But since the neck opening will be symetric both horizontal and vertical, you only need to construct one quadrant.
+Cela va peut-être impliquer un peu d'essai-erreur. Mais étant donné que l'encolure sera symétrique à la fois horizontalement et verticalement, vous aurez juste besoin de construire un quart de celle-ci.
 
-We'll be adding some points to our pattern to do just that. But we want to have access to our measurements and options to do so. For this, you first update the shorthand call to indicate you also want access to `measurements` and `options`:
+Nous allons ajouter quelques points à notre patron pour cela. Mais nous voulons avoir accès à toutes nos mesures et options pour ce faire. Pour cela, vous allez d'abord mettre à jour l'appel aux raccourcis pour indiquer que vous voulez également avoir accès à `measurements` et `options`:
 
 ```js
 let {
@@ -20,10 +20,10 @@ let {
 } = part.shorthand();
 ```
 
-Great. Now let's get to work:
+Merveilleux. Maintenant, mettons-nous au travail :
 
 ```js
-// Design pattern here
+// Design pattern here (concevoir le patron ici)
 points.right = new Point(measurements.headCircumference / 10, 0);
 points.bottom = new Point(0, measurements.headCircumference / 12);
 
@@ -37,40 +37,40 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-You've added some points to your part, and drawn your first path. Let's look at each line in detail:
+Vous avez ajouté quelques points à votre partie, et dessiné votre premier chemin. Examinons chaque ligne en détail :
 
 ```js
 points.right = new Point(measurements.headCircumference / 10, 0);
 ```
 
-- We're adding a point named `right` to `points` which holds our part's points
-- We're using the Point constructor, which takes two arguments: The points X and Y values
-- The X value is `measurements.headCircumference / 10`
-- The Y value is `0`
+- Nous ajoutons un point nommé `right` à `points`, qui contient les points de notre partie
+- Nous utilisons le constructeur Point, qui prend deux arguments : les valeurs X et Y du point
+- La valeur X est `measurements.headCircumference / 10`
+- La valeur Y est `0`
 
-The `bottom` part is very similar, so let's skip to the next line:
+Le point `bottom` est très similaire, alors passons directement à la ligne suivante :
 
 ```js
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
 ```
 
-- We're adding a point named `rightCp1`, which will become the *control point* of the right part
-- Instead of using the Point constructor, we're calling the `Point.shift()` method on an existing point
-- It takes two arguments: The angle to shift towards, and the distance
-- You can see that we're shifting 90 degrees (that means up) but the distance uses another method
-- The `Point.dy()` method returns the delta along the Y axis between the point you call it on and the point you pass it
-- We shift half of the Y-delta
+- Nous ajoutons un point nommé `rightCp1`, qui va devenir le *point de contrôle* de la partie droite
+- Au lieu d'utiliser le constructeur Point, nous faisons appel à la méthode `Point.shift()` sur un point existant
+- Elle prend deux arguments : l'angle de décalage et la distance
+- Vous pouvez voir que nous décalons à 90 degrés (ce qui signifie vers le haut) mais la distance emploie une autre méthode
+- La méthode `Point.dy()` retourne la différence selon l'axe Y entre le point appelé et le point source
+- Nous nous décalons de la moitié de la différence en Y
 
-The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
+Le point suivant est très similaire de nouveau, excepté que cette fois nous nous décalons vers la droite (0 degré) de la moitié de la distance en X entre les points `bottom` et `right`.
 
 <Tip>
 
-Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
+Points vient avec une ribambelle de ces méthodes. Vous pouvez toutes les trouver dans [les docs API pour Point](/fr/api/point).
 
 </Tip>
 
-The next line introduces you to something new: Paths:
+La ligne suivante vous introduit une notion nouvelle, les chemins (Paths) :
 
 ```js
 paths.neck = new Path()
@@ -78,19 +78,19 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-- We're adding a path named `neck` to `paths` which holds our part's paths
-- We're using the Path constructor, which takes no arguments
-- We're following up with a `Path.move()` call that takes one Point as argument
-- Then, there's a `Path.curve()` call that takes 3 points as arguments
+- Nous ajoutons un chemin nommé `neck` à `paths` qui contient les chemins de notre partie
+- Nous utilisons le constructeur de chemin Path, qui ne prend aucun argument
+- Nous poursuivons avec l'appel à `Path.move()` qui prend un Point comme argument
+- Puis, il y a un appel à `Path.curve()` qui prend 3 points comme arguments
 
-If you've read about [FreeSewing's basic concepts](/concepts) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
+Si vous avez lu les [concepts de base de FreeSewing](/fr/concepts), vous aurez appris que les chemins commencent toujours avec une opération `move()`. Dans ce cas, nous avons bougé depuis notre point `right`.
 
-From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and `bottomCp2` as control points.
+A partir de là, nous avons dessiné une courbe de Bézier vers notre point `bottom` en utilisant `rightCp1` et `bottomCp2` comme points de contrôle.
 
-When all is said and done, we now have a quarter of our neck opening:
+Lorsque tout est dit et fait, nous avons maintenant un quart de notre encolure :
 
 <Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
-The only problem is, we have no guarantee whatsoever that this opening is the correct size.
+Le seul problème étant que nous n'avons aucune garantie que cette ouverture soit de taille correcte.
 
-Rather than hope it is the correct size, you'll make sure it is next.
+Plutôt que d'espérer qu'elle le soit, vous allez vérifier qu'elle l'est réellement dans la prochaine étape.

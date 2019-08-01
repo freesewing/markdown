@@ -39,14 +39,6 @@ Your request will be granted immediately, and can only be undone by [contacting 
 
 ## The right to data portability
 
-You have the right to obtain and reuse your personal data for your own purposes or across different services.
-Go to [/account/export](/account/export) to export your data.
-
-## The right to object
-
-You have the right to object to your personal data being used for scientific research.
-Go to [/account/consent](/account/consent) and object in the **model data** section to do so.
-
 > The right to object is broader, but this is how it applies to freesewing.
 
 ## Rights in relation to automated decision making and profiling

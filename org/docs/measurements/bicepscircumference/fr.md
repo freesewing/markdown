@@ -1,5 +1,5 @@
 ---
-title: Biceps circumference
+title: Tour de bras
 ---
 
 The **biceps circumference** measurement goes around the fullest part of your upper arm.

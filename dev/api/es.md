@@ -1,5 +1,6 @@
 ---
 title: API Reference
+order: 500
 ---
 
 Freesewing exports a single object with the following properties:

@@ -1,5 +1,4 @@
 ---
 title: Measurements
-index: true
 ---
 

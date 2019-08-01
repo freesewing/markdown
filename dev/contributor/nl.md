@@ -1,5 +1,6 @@
 ---
 title: Documentation for contributors
+order: 700
 ---
 
 Are you interested in contributing to freesewing? That's awesome, and exactly why this thing is open source in the first place.
@@ -13,7 +14,7 @@ As a contributor, you are expected to uphold it.
 
 - The [freesewing chat room on Gitter](https://gitter.im/freesewing/freesewing) is the best place to ask questions, meet other freesewers, or just hang out and share a laugh.
 - Chat not your thing? The [@freesewing_org](https://twitter.com/freesewing_org) Twitter account is the next best thing.
-- Did you spot a mistake? Have a suggestion for an improvement? Please [file an issue on GitHub](https://github.com/freesewing/freesewing/issues/new). You'll need a GitHub account, but they are free.
+- Foutje gevonden? Have a suggestion for an improvement? Please [file an issue on GitHub](https://github.com/freesewing/freesewing/issues/new). Je hebt een Github accout nodig, maar die zijn gratis.
 
 ## Ways to contribute
 

@@ -1,19 +1,19 @@
 ---
-title: Adding measurements
+title: Ajouter des mesures
 order: 130
 ---
 
-FreeSewing is all about *made-to-measure* sewing patterns; We are going to draft our pattern according to the measurements provided to us.
+L'essence de FreeSewing est de réaliser des patrons de couture *sur mesure* ; Nous allons ébaucher notre patron selon les mesures qui nous sont fournies.
 
-Which begs the question, which measurements?
+Ce qui nous amène à cette question : quelles mesures ?
 
-It is you, as the pattern designer, who decides which measurements are required to draft your pattern. For our bib, the only measurement we need is the baby's *head circumference*.
+C'est vous, en tant que concepteur de patron, qui décidez de quelles mesures vont être requises pour ébaucher votre patron. Pour notre bavoir, la seule mesure dont nous avons besoin est le *tour de tête* du bébé (*headCircumference*).
 
-So let's add it as a required measurement.
+Alors ajoutons-le comme mesure nécessaire.
 
-## Add required measurements
+## Ajouter les mesures nécessaires
 
-Open the config file at `config/index.js` and update the `measurements` array with the name of our required measurement:
+Ouvrez le fichier de configuration à l'adresse `config/index.js` et mettez à jour le tableau `measurements` avec le nom des mesures requises :
 
 ```js
 measurements: ["headCircumference"],
@@ -21,20 +21,20 @@ measurements: ["headCircumference"],
 
 <Tip>
 
-Make sure to re-use the names of existing measurements, rather than invent your own.
+Assurez-vous d'employer les noms de mesures existantes, plutôt que d'inventer les vôtres.
 
-See our [best practices](/do/names#re-use-measurements) on this topic for details.
+Voyez nos [ meilleures pratiques](fr/do/names#re-use-measurements) sur ce sujet pour plus de détails.
 
 </Tip>
 
-Now everybody knows your pattern requires the `headCircumference` measurement.
+A présent tout le monde sait que votre patron a besoin de la mesure `headCircumference`.
 
-This change will also get picked up by the development environment, and you'll now see this screen:
+Ce changement sera également repris par l'environnement de programmation, et vous verrez alors à l'écran :
 
-![This screen tells you you are missing some required measurments](./required-measurements.png)
+![Cet écran vous indique qu'il manque des mesures requises](./required-measurements.png)
 
-Since it's just one measurements, let's simply enter a value by hand. For example `38` as 38cm is a realistic head circumference measurement for a baby.
+Etant donné qu'il n'y a qu'une seule mesure, rentrons simplement une valeur à la main. Par exemple, `38` pour 38 cm est une mesure de tour de tête réaliste pour un bébé.
 
-Enter `38` in the box, and click on **Draft your pattern** in the top navigation bar to get back to your draft which for now still looks like this:
+Entrez `38` dans le cadre, puis cliquez sur **Ebaucher votre patron** dans la barre de navigation supérieure pour revenir à votre ébauche, qui pour le moment ressemble encore à ça :
 
 <Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />

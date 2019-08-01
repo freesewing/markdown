@@ -1,9 +1,9 @@
 ---
-title: Drawing the bib outline
+title: Dessiner le contour du bavoir
 order: 190
 ---
 
-With our neck opening in place, let's draw basic outline of our bib:
+Avec notre encolure en place, attaquons-nous au contour du bavoir :
 
 ```js
 let width = measurements.headCircumference * options.widthRatio;
@@ -26,16 +26,16 @@ paths.rect = new Path()
   .close();
 ```
 
-Firs thing we did was create the `width` and `length` variables to save ourselves some typing:
+La première chose que nous avons faite est de créer les variables `width` (largeur) et `length` (longueur) afin de nous épargner un peu de dactylographie :
 
 ```js
 let width = measurements.headCircumference * options.widthRatio;
 let length = measurements.headCircumference * options.lengthRatio;
 ```
 
-Both the length and width of your bib are a factor of the head circumference. This way, your bib size will adapt to the size of the baby, and the user can tweak the length and width by playing with the options you added to the pattern.
+La longueur et la largeur de votre bavoir sont tous les deux des facteurs du tour de tête (head circumference). De cette façon, la taille du bavoir s'adaptera à celle du bébé, et l'utilisateur pourra ajuster la longueur et la largeur en jouant avec les options que vous aurez ajouté au patron.
 
-Once we have our variables, we're adding some new points, and a second path called `rect`.
+Une fois nos variables prêtes, nous ajoutons quelques nouveaux points, et un deuxième chemin nommé `rect`.
 
 ```js
 points.topLeft = new Point(
@@ -55,8 +55,8 @@ paths.rect = new Path()
   .close();
 ```
 
-We're calculating the `topLeft` point so that the top edge of our bib and the sides are equidistant from the neck neck opening.
+Nous calculons le point `topLeft` (hautGauche) de façon à ce que le bord haut du bavoir et les côtés soient équidistants de l'encolure.
 
-You didn't have to do that. But it looks nicely balanced this way:
+Vous n'étiez pas obligés de le faire. Mais cela paraît plus équilibré de cette façon :
 
 <Example pattern="tutorial" part="step5" caption="Note how the neck opening is the same distance from the left, right, and top edge" />

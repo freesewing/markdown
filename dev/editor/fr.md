@@ -1,5 +1,6 @@
 ---
 title: Documentation for editors
+order: 720
 ---
 
 The *static content* of our websites is stored in [our markdown repository](/repos/markdown). Anybody can make changes to it and submit a pull request.
