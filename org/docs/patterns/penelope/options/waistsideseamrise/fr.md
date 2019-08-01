@@ -1,5 +1,6 @@
 ---
 title: Waist side seam rise
+path: /en/docs/patterns/penelope/options/waistsideseamrise
 pattern: penelope
 option: waistsideseamrise
 ---
