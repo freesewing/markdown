@@ -21,7 +21,7 @@ Part part.copy(Part original)
 
 This will copy the points, paths, and snippets from a part you pass into it.
 
-<Note>
+<note>
 
 This method is used internally, you are unlikely to need this.
 
@@ -97,7 +97,7 @@ paths.example = new Path()
   .line(points.to);
 ```
 
-<Tip>
+<tip>
 
 As you can see in the example above, you can/should load only the shorthand you need by using object destructuring.
 
@@ -111,7 +111,7 @@ string part.units(float number)
 
 Formats input (in mm) as the units requested by the user.
 
-<Tip>
+<tip>
 
 ###### This method is available as shorthand
 
