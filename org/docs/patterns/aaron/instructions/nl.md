@@ -75,43 +75,43 @@ Leg nu je bies 1 cm voorbij je startpunt. Dit beetje extra garandeert dat we lat
 
 ![Zorg dat je weet waar je naait](step03c.png)
 
-We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
+We gaan op 1,5 cm van de rand naaien. Opletten dus, want dit is niet de standaard naadwaarde.
 
-Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
+We beginnen ook niet aan het startpunt, maar slaan de eerste 3 cm over. Dit extra beetje plaats hebben we later nodig om te uiteindes van de bies aan elkaar te zetten.
 
-### Sew binding in place
+### Stik de bies vast
 
-![Sew binding in place](step03d.png)
+![Stik de bies vast](step03d.png)
 
-Sew your binding in place while gently stretching the binding, but not the fabric. Make sure not to sew the last 3cm but leave them, just as you did at the start.
+Stik de bies vast, rek terwijl de bies lichtjes uit. Let op dat je de stof niet mee uitrekt. Stik de laatste 3 cm niet maar laat deze los, net als aan het begin.
 
-You might need to practice a bit to get the hang of it.
+Misschien moet je een beetje oefenen om dit beet te krijgen.
 
-> Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
+> Zorg dat je je bies een beetje meer uitrekt als je bij een scherpere curve komt. Lees mijn opmerkingen over [jersey biezen](/en/docs/sewing/knit-binding) voor meer info.
 
-### Mark binding ends
+### Markeer het einde van je biezen
 
 ![Joining the binding ends](step03e.png)
 
-With about 6cm left to go before we complete our circle, it's time to sew the ends of the binding together.
+Met nog een zestal cm te gaan voor de een complete cirkel gemaakt hebben is het tijd om de uiteindes van de biezen aan elkaar te naaien.
 
-![Mark binding ends](step03f.png)
+![Markeer het einde van je biezen](step03f.png)
 
-Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
+Neem een van de uiteindes, en rek het lichtjes uit langs de 3 cm tot aan het startpunt, zoals je zou doen als je aan het naaien was.
 
-Mark the where the binding reached the start point. Do the same for the other end.
+Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere uiteinde.
 
-### Sew binding ends together
+### Stik de uiteindes van de biezen aan elkaar
 
 ![Join the ends of the binding](step03g.png)
 
-Fold you A-shirt in whatever way makes it more easy for your to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
+Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Sew them together on the mark.
 
 > 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
 ### Finish last 6cm of binding
 
-![Sew binding ends together](step03h.png)
+![Stik de uiteindes van de biezen aan elkaar](step03h.png)
 
 Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
 
