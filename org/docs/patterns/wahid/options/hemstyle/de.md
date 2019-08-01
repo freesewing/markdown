@@ -1,5 +1,6 @@
 ---
 title: Hem style
+path: /en/docs/patterns/wahid/options/hemstyle
 pattern: wahid
 option: hemStyle
 ---
