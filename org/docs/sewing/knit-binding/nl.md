@@ -1,5 +1,5 @@
 ---
-title: Knit binding
+title: Jersey biezen
 path: /en/docs/sewing/knit-binding
 ---
 
@@ -17,7 +17,7 @@ Knit band is what you typically find at the neck opening of your Tshirt. It's a 
 
 This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
 
-### Knit binding
+### Jersey biezen
 
 ![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
