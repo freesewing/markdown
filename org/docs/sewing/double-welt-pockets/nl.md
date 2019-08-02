@@ -28,74 +28,74 @@ Om een dubbele paspelzak te maken heb je dit nodig:
 - Basis naaimateriaal
 - De stof of het patroondeel waar je de zak in wil maken
 - Twee stroken stof voor de paspels
-- A strip of interfacing
-- Lining or other suitable fabric for the pocket bag (See fabric and colour options)
-- Facing for the pocket bag, depending on your fabric and colour options
+- Een strookje tussenvoering
+- Voering of een andere geschikte stof voor de binnenzak (Zie stof- en kleuropties)
+- Een beleg voor de binnenzak, afhankelijk van je stof- en kleuropties
 
 ### Parameters
 
-Two values determine the size of your double welt pocket. They are:
+Twee waarden bepalen de afmeting van je dubbele paspelzak. They are:
 
-- The pocket width: This is the width of the opening of the finalized double welt pocket
-- The welt height: This is the height of a single welt, and this half of the height of our double welt pocket
+- Breedte van de zak: dit is de breedte van de opening van de afgewerkte dubbele paspelzak
+- Hoogte van de paspel: dit is de hoogte van één paspel, en dus de helft van de hoogte van een dubbele paspelzak
 
-> In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
+> In dit voorbeeld gebruik ik een zakbreedte van 13 cm en een paspelhoogte van 0.5 cm
 
 ## Knippen
 
-### Pocket welts
+### Paspels
 
-The welts are two rectangular strips of fabric with the following measurements:
+De paspels zijn twee rechthoekige stroken stof met de volgende afmetingen:
 
-- Length: Pocket width + 4cm
-- Width: Welt height x2 + 5cm
+- Lengte: zakbreedte + 4 cm
+- Breedte: Hoogte van de paspel x 2 + 5 cm
 
-For our example:
+Voor ons voorbeeld:
 
-- Length: 13+4 = 17cm
-- Width: (0.5x2)+5 = 6cm
+- Lengte: 13 + 4 = 17 cm
+- Hoogte: (O.5 x 2) + 5 = 6 cm
 
-They will form the two narrow strips of fabric that form your double welt pocket.
+Deze vormen de twee smalle stroken stof die je paspelzak maken.
 
-> Make sure to respect the grainline when cutting the two welts
+> Let op dat je de draadrichting respecteert bij het uitknippen
 
-### Pocket interfacing
+### Tussenvoering zak
 
-The pocket interfacing is a single rectangular strip of fusible interfacing with the following measurements:
+De tussenvoering voor de zak is een enkele rechthoekige strook kleefbare tussenvoering met de volgende afmetingen:
 
-- Length: Pocket widht + 4cm
-- Width: Welt height x2 + 5cm
+- Lengte: zakbreedte + 4 cm
+- Breedte: Hoogte van de paspel x 2 + 5 cm
 
-For our example:
+Voor ons voorbeeld:
 
-- Length: 13+4 = 17cm
-- Width: (0.5x2)+5 = 6cm
+- Lengte: 13 + 4 = 17 cm
+- Hoogte: (O.5 x 2) + 5 = 6 cm
 
-> You may have noticed that the interfacing is the same size as a welt
+> Je hebt misschien opgemerkt dat de tussenvoering dezelfde afmeting heeft als een paspel
 
-The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
+De tussenvoering wordt gebruikt om de zak te stabiliseren, en wordt aan de verkeerde kant van je stof gestreken.
 
-### Optional: Pocket facing
+### Optioneel: zakbeleg
 
-The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
+Het (optionele) zakbeleg is een enkele rechthoekige strook stof met de volgende afmetingen:
 
-- Length: Pocket width + 4cm
-- Width: Welt height x2 + 5cm
+- Lengte: zakbreedte + 4 cm
+- Breedte: Hoogte van de paspel x 2 + 5 cm
 
-For our example:
+Voor ons voorbeeld:
 
-- Length: 13+4 = 17cm
-- Width: (0.5x2)+5 = 6cm
+- Lengte: 13 + 4 = 17 cm
+- Hoogte: (O.5 x 2) + 5 = 6 cm
 
-> You may have noticed that the facing is the same size as a welt
+> Je hebt misschien opgemerkt dat het beleg dezelfde afmeting heeft als een paspel
 
-The facing is what you'll see when you peer through the opening of your pocket.
+Het beleg is wat je zal zien als je door de zakopening kijkt.
 
-The facing is optional, if you do not use it, peering through the pocket will reveal whatever material the pocket bag is made from.
+Het beleg is optioneel, maar als je het niet gebruikt zie je het materiaal waar je binnenzak van gemaakt is.
 
-### Pocket bag
+### Binnenzak
 
-The shape of the pocket bag depends on the pattern. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
+De vorm van het zakdeel hangt af van het patroon. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
 
 > There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
 
