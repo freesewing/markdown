@@ -1,5 +1,6 @@
 ---
 title: Sleeve length bonus
+path: /en/docs/patterns/sven/options/sleevelengthbonus
 pattern: sven
 option: sleeveLengthBonus
 ---

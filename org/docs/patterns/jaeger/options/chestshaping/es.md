@@ -1,5 +1,6 @@
 ---
 title: Chest shaping
+path: /en/docs/patterns/jaeger/options/chestshaping
 pattern: jaeger
 option: chestShaping
 ---

@@ -1,11 +1,11 @@
 ---
-title: Neckline shape
+title: Vorm halslijn
 pattern: aaron
-option: necklineBend
+option: halslijnBuiging
 ---
 
-![The neckline shape option on Aaron](./necklinebend.svg)
+![De optie voor de vorm van de halslijn bij Aaron](./necklinebend.svg)
 
-Determines the bend of the front of the neck opening.
+Bepaalt de curve van de voorkant van de halsopening.
 
-> Higher values bend the neck opening more, resulting in a more squarish neck opening.
+> Hogere waarden buigen de halslijn meer, wat resulteert in een eerder vierkante opening.

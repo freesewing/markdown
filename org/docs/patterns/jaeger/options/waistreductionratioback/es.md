@@ -1,5 +1,6 @@
 ---
 title: Waist reduction ratio back
+path: /en/docs/patterns/jaeger/options/waistreductionratioback
 pattern: jaeger
 option: waistReductionRatioBack
 ---

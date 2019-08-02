@@ -1,5 +1,6 @@
 ---
 title: Back vent length
+path: /en/docs/patterns/penelope/options/backventlength
 pattern: penelope
 option: backVentLength
 ---

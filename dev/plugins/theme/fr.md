@@ -6,11 +6,11 @@ title: theme
 
 The **theme** plugin provides CSS styling for SVG output:
 
-<Example pattern="rendertest" part="test" caption="An example of the styles provided by this plugin" design={false} />
+<example pattern="rendertest" part="test" caption="An example of the styles provided by this plugin" design={false} />
 
 It uses the [`preRender`](/plugins#prerender) hook to do so.
 
-<Note>
+<note>
 
 This plugin only applies to rendered SVG output. If you use our React component to display patterns, you should style our component or use our [css-theme](/packages/css-theme) package.
 

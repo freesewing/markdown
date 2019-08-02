@@ -1,5 +1,6 @@
 ---
 title: Across back factor
+path: /en/docs/patterns/simon/options/acrossbackfactor
 pattern: simon
 option: acrossBackFactor
 ---

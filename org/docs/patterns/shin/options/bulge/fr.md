@@ -1,5 +1,6 @@
 ---
 title: Bulge
+path: /en/docs/patterns/shin/options/bulge
 pattern: shin
 option: bulge
 ---

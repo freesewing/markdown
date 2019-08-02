@@ -1,5 +1,6 @@
 ---
 title: Zig-zag stitch
+path: /en/docs/sewing/zig-zag-stitch
 ---
 
 ![A zig-zag stitch is used to prevent the SA of the denim from fraying](zig-zag.jpg)

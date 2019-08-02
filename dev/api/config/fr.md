@@ -2,9 +2,9 @@
 title: Configuration
 ---
 
-This is about the pattern configuration file. FreeSewing (the library) does not require configuration. The configuration documented here is the configuration file for patterns built on top of FreeSewing.
+Il s'agit du fichier de configuration du modèle. FreeSewing (la bibliothèque) n'a pas besoin de configuration. La configuration documentée ici concerne le fichier de configuration pour les patrons construits par dessus FreeSewing.
 
-For run-time configuration, see [settings](/settings).
+Pour la configuration d'exécution, voir les [Paramètres](/settings).
 
 ## name
 
@@ -12,7 +12,7 @@ For run-time configuration, see [settings](/settings).
 name: "sorcha"
 ```
 
-A string with the name of your pattern.
+Une chaîne de caractères correspondant au nom de votre patron.
 
 ## version
 
@@ -28,11 +28,11 @@ dependencies: {
 }
 ```
 
-An object of `key`-`value` pairs that controls the order in which pattern parts will get drafted.
+Un objet de paires clé-valeur `key`-`value` qui contrôle l'ordre dans lequel les parties de patron vont être ébauchées.
 
-<Tip>
+<tip>
 
-See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
+Voir les [Dépendances des parties](/advanced/dependencies) pour des informations plus poussées sur les dépendances.
 
 </Tip>
 
@@ -44,13 +44,13 @@ inject: {
 }
 ```
 
-An object of `key`-`value` pairs of parts. The `value` part will be injected in the `key` part.
+Un objet de pair clé-valeur `key`-`value` de parties. La partie valeur `value` sera injectée dans la partie clé `key`.
 
-By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
+Par *injected* nous entendons plutôt que de commencer par une toute nouvelle partie, vous obtiendrez une partie qui a les points, chemins et snippets de la partie `value`.
 
-<Tip>
+<tip>
 
-See [Part inheritance](/advanced/inject) for more in-depth information on inject.
+Voir l'[Héritage de partie](/advanced/inject) pour des informations plus poussées sur inject.
 
 </Tip>
 
@@ -62,7 +62,7 @@ hide: [
 ]
 ```
 
-An array that lists pattern parts that should be hidden by default. Hidden means that they will be drafted, but not rendered. Typically used for a base part on which other parts are built.
+Un tableau qui liste les parties de patron qui devraient être masquées par défaut. Hidden (caché) signifie qu'elles seront ébauchées, mais non rendues. Utilisé en général pour une partie de base sur laquelle d'autres parties sont construites.
 
 ## parts
 
@@ -73,13 +73,13 @@ parts: [
 ]
 ```
 
-An array that lists your (additional) pattern parts. The name must be the key the `pattern.parts` object.
+Un tableau qui liste vos parties de patron (additionnelles). Le nom doit être la clé de l'objet `pattern.parts`.
 
-<Tip>
+<tip>
 
-###### This does not need to be an exhaustive list of all parts in your pattern.
+###### Cela n'a pas être une liste exhaustive de toutes les parties de votre modèle.
 
-This list of parts is needed for the `draft()` method to figure out what parts need to be drafted. So if parts are included in the `dependencies`, `inject`, or `hide` configuration, there's no need to include them here, as we already know of their existence.
+Cette liste de parties est nécessaire pour la méthode `draft()` pour déterminer quelles parties doivent être ébauchées. Donc, si des parties sont incluses dans la configuration `dependancies`, `inject`, ou `hide`, il n'est pas nécessaire de les inclure ici, comme nous avons déjà conscience de leur existence.
 
 </Tip>
 
@@ -92,33 +92,33 @@ measurements: [
 ]
 ```
 
-An array with the names of the measurements required to draft this pattern.
+Un tableau avec les noms des mesures nécessaires pour ébaucher ce modèle.
 
-<Note>
+<note>
 
-###### Don't just make up names
+###### N'inventez pas simplement des noms
 
-See [freesewing models](https://github.com/freesewing/models) for a list of measurement names already used in freesewing patterns. It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
+Voir les [modèles de patron freesewing](https://github.com/freesewing/models) pour une liste de noms de mesure déjà utilisés dans les patrons freesewing. Cela fait partie des [meilleures pratiques](/do/dont-re-invent-the-wheel) de garder ces noms.
 
 </Note>
 
 ## options
 
-Options come in 6 varities:
+Les options sont disponibles en 6 variétés :
 
-- [Constants](#constants) : A value that can't be changed
-- [Booleans](#booleans) : A value that is either `true` or `false`
-- [Percentages](#percentages) : A value in percent, with minimum and maximum values
-- [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
-- [Degrees](#degrees) : A value in degrees, with minimum and maximum values
-- [Counters](#counters) : An integer value, with minimum and maximum values
-- [Lists](#lists) : A list of options with a default
+- [Constants](#constants) (constantes) : Une valeur qui ne peut pas être modifiée
+- [Booleans](#booleans) (booléens) : Une valeur qui est soit `true` (vraie) ou `false` (fausse)
+- [Percentages](#percentages) (pourcentages) : Une valeur en pourcentage, avec des valeurs minimales et maximales
+- [Millimeters](#millimeters) : Une valeur en millimètre, avec des valeurs minimales et maximales
+- [Degrees](#degrees) (degrés) : Une valeur en degré, avec des valeurs minimales et maximales
+- [Counters](#counters) (compteurs) : Une valeur entière, avec des valeurs minimales et maximales
+- [Lists](#lists) (listes) : Une liste d'options avec un contenu par défaut
 
-Under the hood, millimeters, degrees, and counters are handled the same way. We use different types because it easier to understand the nature of a given option.
+Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. Nous utilisons des types différents parce qu'il est plus facile ainsi de comprendre la nature d'une option donnée.
 
-### Constants
+### Constants (constantes)
 
-If your option is a scalar value (like a string or a number), it will be treated as a constant:
+Si votre option est une valeur scalaire (comme une chaîne ou un nombre), elle sera traitée comme une constante :
 
 ```js
 options: {
@@ -126,15 +126,15 @@ options: {
 }
 ```
 
-Rather than define constants in your code, it's good practice to set them in your configuration file. This way, people who extend your pattern can change them if they would like to.
+Plutôt que de définir des constantes dans votre code, c'est une bonne pratique de les définir dans votre fichier de configuration. De cette façon, les personnes qui étendent votre modèle peuvent les changer si elles le souhaitent.
 
-### Booleans
+### Booleans (booléens)
 
-If your option is either `true` or `false, or **on** or **off** or **yes** or **no**, you can use a boolean:
+Si votre option prend la valeur **true** (vraie) ou **false** (fausse), ou bien **activée** ou **désactivée**, ou encore **oui** ou **non**, vous pouvez utiliser un booléen :
 
-Your boolean option should be an object with these properties:
+Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `bool` : Either `true` or `false` which will be the default
+- `bool` : soit `true` (vrai) ou `false` (faux) qui sera la valeur par défaut
 
 ```js
 options: {
@@ -142,15 +142,15 @@ options: {
 }
 ```
 
-### Percentages
+### Percentages (pourcentages)
 
-Percentage options are the bread and butter of freesewing. Almost all your options will probably be percentages. They make sure that your pattern will scale regardless of size, and pass [the ant-man test](https://github.com/freesewing/antman).
+Les options de pourcentage sont le "gagne-pain" de freesewing. Presque toutes vos options seront probablement des pourcentages. Ils assurent que votre patron se mettra à l'échelle indépendamment de la taille, et passe avec succès [le test de l'homme-fourmi](https://github.com/freesewing/antman).
 
-Your percentage option should be an object with these properties:
+Votre option pourcentage devrait être un objet avec ces propriétés :
 
-- `pct` : The percentage
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `pct` : Le pourcentage
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -162,26 +162,26 @@ options: {
 }
 ```
 
-<Note>
+<note>
 
-###### Percentage options will be divided by 100 when loaded
+###### Les options de pourcentage seront divisées par 100 lors du chargement
 
-You specify percentages in your config file. For example, `50` means 50%. When your configuration is loaded, those percentages will by divided by 100.
+Vous spécifiez des pourcentages dans votre fichier de configuration. Par exemple, `50` signifie 50%. Lorsque votre configuration est chargée, ces pourcentages seront divisés par 100.
 
-So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
+Donc un pourcentage de `50` dans votre fichier de configuration prendra la valeur `0.5` lorsque vous lisez cette option dans votre patron.
 
 </Note>
 
-### Millimeters
+### Millimeters (millimètres)
 
-While we recommend using percentages where possible, sometimes that doesn't make sense.  
-For those cases, you can use millimeters.
+Bien que nous recommandons d'utiliser des pourcentages lorsque c'est possible, parfois cela n'a pas de sens.  
+Pour ces cas précis, vous pouvez utiliser des millimètres.
 
-Your millimeter option should be an object with these properties:
+Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `mm` : The default value in millimeter
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `mm` : La valeur par défaut en millimètres
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -193,15 +193,15 @@ options: {
 }
 ```
 
-### Degrees
+### Degrees (degrés)
 
-For angles, use degrees.
+Pour les angles, utilisez des degrés.
 
-Your degree option should be an object with these properties:
+Votre option degré devrait être un objet avec ces propriétés :
 
-- `deg` : The default value in degrees
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+- `deg` : La valeur par défaut en degrés
+- `min` : Le minimum autorisé
+- `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -213,15 +213,15 @@ options: {
 }
 ```
 
-### Counters
+### Counters (compteurs)
 
-For a given number of things, use counters. Counters are for integers only. Things like number of buttons and so on.
+Pour un nombre donné de choses, utilisez des compteurs. Les compteurs ne sont destinés qu'à des valeurs entières. Des choses comme le nombre de boutons, etc.
 
-Your counter option should be an object with these properties:
+Votre option compteur devrait être un objet avec ces propriétés :
 
-- `count` : The default integer value
-- `min` : The minimal integer value that's allowed
-- `max` : The maximum integer value that's allowed
+- `count` : La valeur entière par défaut
+- `min` : La valeur entière minimale autorisée
+- `max` : La valeur entière maximale autorisée
 
 ```js
 options: {
@@ -233,14 +233,14 @@ options: {
 }
 ```
 
-### Lists
+### Lists (listes)
 
-Use a list option when you want to offer an array of choices.
+Utilisez une option de liste lorsque vous souhaitez offrir un tableau de choix.
 
-Your list option should be an object with these properties:
+Votre option liste devrait être un objet avec ces propriétés :
 
-- `dflt` : The default for this option
-- `list` : An array of available values options
+- `dflt` : La valeur par défaut pour cette optional
+- `list` : Un tableau d'options des valeurs disponibles
 
 ```js
 options: {
@@ -260,11 +260,11 @@ options: {
 
 ## Extra
 
-Patterns also take these configuration options to facilitate frontend integration:
+Les patrons prennent également ces options de configuration pour faciliter l'intégration frontend :
 
-### design
+### design (conception)
 
-The name of the designer:
+Le nom du concepteur :
 
 ```js
 design: "Joost De Cock"
@@ -272,7 +272,7 @@ design: "Joost De Cock"
 
 ### code
 
-The name of the developer:
+Le nom du développeur :
 
 ```js
 code: "Joost De Cock"
@@ -280,23 +280,23 @@ code: "Joost De Cock"
 
 ### type
 
-Either `pattern` or `block`.
+Soit `pattern` (patron), soit `block` (patron de base).
 
 ```js
 type: "pattern"
 ```
 
-### difficulty
+### difficulty (difficulté)
 
-A `1` to `5` difficulty score that indicates how hard it is to make the pattern:
+Un score de difficulté entre `1` et `5` qui indique à quel point il est difficile de réaliser le patron :
 
 ```js
 difficulty: 3
 ```
 
-### tags
+### tags (étiquettes)
 
-A set of tags to allow filtering of patterns on the website:
+Un ensemble d'étiquettes permettant le filtrage des patrons sur le site web :
 
 ```js
 tags: ["underwear", "top", "basics"],
@@ -304,7 +304,7 @@ tags: ["underwear", "top", "basics"],
 
 ### optionGroups
 
-Organises your pattern options in groups. It expects an object where the key is the group title, and the value an array of options:
+Organise vos options de patrons en groupes. Elle attend un objet où la clé est le titre du groupe, et où la valeur est un tableau d'options :
 
 ```js
 optionGroups: {

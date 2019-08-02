@@ -1,5 +1,6 @@
 ---
 title: Waistband position
+path: /en/docs/patterns/sandy/options/waistbandpostition
 pattern: sandy
 option: waistbandPositionp
 ---

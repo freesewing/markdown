@@ -1,5 +1,6 @@
 ---
 title: Across back factor
+path: /en/docs/patterns/sven/options/acrossbackfactor
 pattern: sven
 option: acrossBackFactor
 ---

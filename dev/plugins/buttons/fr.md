@@ -6,7 +6,7 @@ title: buttons
 
 The **buttons** plugin provides `button` and `buttonhold` [snippets](/api/snippet):
 
-<Example part="plugin_buttons" caption="An example of the button and buttonhole snippets" design={false} />
+<example part="plugin_buttons" caption="An example of the button and buttonhole snippets" design={false} />
 
 ```js
 let { Point, snippets, Snippet } = part.shorthand();
@@ -15,7 +15,7 @@ snippets.button = new Snippet('button', new Point(40, 10));
 snippets.buttonhole = new Snippet('buttonhole', new Point(80, 10));
 ```
 
-<Tip>
+<tip>
 
 The buttons plugin is part of our [plugin-bundle](/plugins/bundle)
 

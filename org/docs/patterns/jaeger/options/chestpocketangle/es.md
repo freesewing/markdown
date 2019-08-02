@@ -1,5 +1,6 @@
 ---
 title: Chest pocket angle
+path: /en/docs/patterns/jaeger/options/chestpocketangle
 pattern: jaeger
 option: chestPocketAngle
 ---

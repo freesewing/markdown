@@ -1,5 +1,6 @@
 ---
 title: Princess seam smooth factor
+path: /en/docs/patterns/carlita/options/princessseamsmoothfactor
 pattern: carlita
 option: princessSeamSmoothFactor
 ---

@@ -1,5 +1,6 @@
 ---
 title: Button-free length
+path: /en/docs/patterns/simon/options/buttonfreelength
 pattern: simon
 option: buttonfreeLength
 ---

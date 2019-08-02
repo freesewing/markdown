@@ -1,5 +1,6 @@
 ---
 title: Knot width
+path: /en/docs/patterns/trayvon/options/knotwidth
 pattern: trayvon
 option: knotWidth
 ---

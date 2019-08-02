@@ -1,5 +1,6 @@
 ---
 title: Buttonhole placket type
+path: /en/docs/patterns/simon/options/buttonholeplackettype
 pattern: simon
 option: buttonholePlacketType
 ---

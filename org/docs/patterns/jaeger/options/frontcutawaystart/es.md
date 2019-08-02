@@ -1,5 +1,6 @@
 ---
 title: Front cutaway start
+path: /en/docs/patterns/jaeger/options/frontcutawaystart
 pattern: jaeger
 option: frontCutawayStart
 ---

@@ -1,5 +1,6 @@
 ---
 title: Sleeve length bonus
+path: /en/docs/patterns/brian/options/sleevelengthbonus
 pattern: brian
 option: sleeveLengthBonus
 ---

@@ -1,5 +1,6 @@
 ---
 title: Sleevecap ease
+path: /en/docs/patterns/carlita/options/sleevecapease
 pattern: carlita
 option: sleevecapEase
 ---

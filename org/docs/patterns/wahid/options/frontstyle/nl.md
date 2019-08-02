@@ -1,5 +1,6 @@
 ---
 title: Front style
+path: /en/docs/patterns/wahid/options/frontstyle
 pattern: wahid
 option: frontStyle
 ---

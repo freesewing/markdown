@@ -1,5 +1,6 @@
 ---
 title: Across back factor
+path: /en/docs/patterns/huey/options/acrossbackfactor
 pattern: huey
 option: acrossBackFactor
 ---

@@ -1,166 +1,166 @@
 ---
-title: Making Aaron
+title: Aaron maken
 ---
 
-## Step 1: Close seams
+## Stap 1: Sluit de naden
 
-![Close the side and shoulder seams](step01.png)
+![Sluit de zij-en schoudernaden](step01.png)
 
-Put front and back on top of each other with good sides together. Serge the side seams, and the short seams at the shoulder straps.
+Leg het voorpand op het rugpand met de juiste kanten tegen elkaar. Overlock de zijnaden, en de korte naden aan de schouderbandjes.
 
-## Step 2: Finish hem
+## Stap 2: Werk de zoom af
 
-![Finish the hem](step02.png)
+![Werk de zoom af](step02.png)
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
+Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
-<Note>
+<note>
 
-##### Fold only once, to avoid bulk
+##### Vouw maar een keer om een teveel aan stof te vermijden
 
-Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
-
-</Note>
-
-## Step 3: Sew knit binding to the front
-
-<Note>
-
-##### About knit binding
-
-If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
-
-###### Repeat steps 3 and 4 for both armholes and the neck opening
-
-The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
-
-###### Start with the simplest opening
-
-I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
-
-Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
+Gebreide stoffen rafelen niet, dus je kan dit gewoon één keer omplooien en vaststikken, en daarna de rand netjes bijknippen.
 
 </Note>
 
-We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
+## Stap 3: Stik de halsbies aan de voorkant
 
-<Note>
+<note>
 
-This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
+##### Over jersey biezen
 
-</Note>
+Als [biesjes in jersey](/en/docs/sewing/knit-binding) nieuw zijn, is het misschien interessant om [deze pagina hierover](/en/docs/sewing/knit-binding) te lezen.
 
-### Pick your spot
+###### Herhaal stappen 3 en 4 voor beide armsgaten en de halsopening
 
-![Applying knit binding](step03a.png)
+De handelswijze hieronder kan zowel voor de armsgaten als voor de halsopening gebruikt worden. Met andere woorden, je zal dit drie keer moeten doen.
 
-The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
+###### Start met het makkelijkste gat
 
-- For the armholes: at the side seam. This will hide our seam under the arm
-- For the neck opening: the center back of the neck. You might want to make this with a pin
+Ik zou aanraden te starten met de opening die de meest gelijke curve heeft. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
 
-### Place (the start of) your binding
-
-![Place (the start of) your binding](step03b.png)
-
-Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
-
-Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
-
-Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
-
-> The easy way to keep this 1.5cm distance is by using a seam gauge. Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. Then all you need to do is keep the edge of your fabric aligned with that line.
-
-### Make sure you know where to sew
-
-![Make sure you know where to sew](step03c.png)
-
-We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
-
-Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
-
-### Sew binding in place
-
-![Sew binding in place](step03d.png)
-
-Sew your binding in place while gently stretching the binding, but not the fabric. Make sure not to sew the last 3cm but leave them, just as you did at the start.
-
-You might need to practice a bit to get the hang of it.
-
-> Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
-
-### Mark binding ends
-
-![Joining the binding ends](step03e.png)
-
-With about 6cm left to go before we complete our circle, it's time to sew the ends of the binding together.
-
-![Mark binding ends](step03f.png)
-
-Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
-
-Mark the where the binding reached the start point. Do the same for the other end.
-
-### Sew binding ends together
-
-![Join the ends of the binding](step03g.png)
-
-Fold you A-shirt in whatever way makes it more easy for your to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
-
-> 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
-
-### Finish last 6cm of binding
-
-![Sew binding ends together](step03h.png)
-
-Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
-
-## Step 4: Fold knit binding to the back and sew down
-
-### Fold your binding over the fabric edge to the back
-
-![Fold knit binding to the back](step04a.png)
-
-Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
-
-> While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
-
-### Sew your binding down
-
-![Sew the knit binding down](step04b.png)
-
-From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
-
-<Note>
-
-If you have a coverlock machine, that would be perfect for this seam
+Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met een makkelijker opwarmertje voor je aan de lastigere stukken begint.
 
 </Note>
 
-You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
+We gaan de armsgaten en nekopening afwerken met een [jersey bies](/en/docs/sewing/knit-binding) (Pas op: geen jersey band. Er is een verschil, en dat wordt [hier](/en/docs/sewing/knit-binding) uitgelegd).
 
-<Note>
+<note>
 
-##### Beware of the uneven feed
-
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.
-
-In a perfect world, all layers will follow smoothly. But more often than not, the top layer (front of your binding) tends to lag behind a bit. This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
-
-So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Geen zorgen, als je er een paar maakt ben je een pro voor je het weet.
 
 </Note>
 
-## Step 5: Trim back knit binding on the inside
+### Kies je startpunt
 
-![Trim back knit binding on the inside](step05.png)
+![Jersey bies aanbrengen](step03a.png)
 
-On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
+Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen. Dit zou ik suggereren:
 
-<Note>
+- Voor de armsgaten: aan de zijnaad. Zo zit de naad verstopt onder je arm
+- Voor de halsopening: middenachter aan je nek. Het is aangeraden dit met een speldje aan te duiden
 
-Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+### Positioneer (het begin van) je bies
+
+![Positioneer (het begin van) je bies](step03b.png)
+
+Leg je hemdje neer met de goede kant naar boven, en leg je bies met de goede kant naar beneden op de stof (dus, goede kanten op elkaar).
+
+Leg de lange rand van je bies gelijk met de rand van je stof zodat de bies op de stof ligt (en niet in de opening). Leg de hoek van je bies op je startpunt.
+
+Leg nu je bies 1 cm voorbij je startpunt. Dit beetje extra garandeert dat we later de twee uiteindes aan elkaar kunnen bevestigen.
+
+> Als je naaimachine geen markeringen heeft om de afstand van de naald tot de rand van de stof aan te geven kan je een zoommaatje gebruiken. Of doe wat ik doe, kleef een stukje papierplakband op je naaimachine en markeer een streepje op 1,5 cm van je naald. Dan moet je alleen maar de rand van je stof gelijk houden met die lijn.
+
+### Zorg dat je weet waar je naait
+
+![Zorg dat je weet waar je naait](step03c.png)
+
+We gaan op 1,5 cm van de rand naaien. Opletten dus, want dit is niet de standaard naadwaarde.
+
+We beginnen ook niet aan het startpunt, maar slaan de eerste 3 cm over. Dit extra beetje plaats hebben we later nodig om te uiteindes van de bies aan elkaar te zetten.
+
+### Stik de bies vast
+
+![Stik de bies vast](step03d.png)
+
+Stik de bies vast, rek terwijl de bies lichtjes uit. Let op dat je de stof niet mee uitrekt. Stik de laatste 3 cm niet maar laat deze los, net als aan het begin.
+
+Misschien moet je een beetje oefenen om dit beet te krijgen.
+
+> Zorg dat je je bies een beetje meer uitrekt als je bij een scherpere curve komt. Lees mijn opmerkingen over [jersey biezen](/en/docs/sewing/knit-binding) voor meer info.
+
+### Markeer het einde van je biezen
+
+![Uiteindes van bies aan elkaar zetten](step03e.png)
+
+Met nog een zestal cm te gaan voor de een complete cirkel gemaakt hebben is het tijd om de uiteindes van de biezen aan elkaar te naaien.
+
+![Markeer het einde van je biezen](step03f.png)
+
+Neem een van de uiteindes, en rek het lichtjes uit langs de 3 cm tot aan het startpunt, zoals je zou doen als je aan het naaien was.
+
+Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere uiteinde.
+
+### Stik de uiteindes van de biezen aan elkaar
+
+![Zet de uiteindes van de bies aan elkaar](step03g.png)
+
+Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Naai de uiteindes aan elkaar op de markering.
+
+> 6 cm is niet veel, maar zou genoeg moeten zijn om de twee uiteindes makkelijk onder je naaimachine te leggen en aan elkaar te naaien.
+
+### Stik de laatste 6 cm van de bies vast
+
+![Stik de uiteindes van de biezen aan elkaar](step03h.png)
+
+Nu de uiteindes van je biezen aan elkaar hangen is het tijd om de laatste 6 cm van je bies vast te stikken. Naai dit stukje, 1,5 cm van de rand, zoals eerder.
+
+## Stap 4: Plooi bies naar achter en stik vast
+
+### Plooi je bies over de rand van de stof naar de achterkant
+
+![Plooi de jersey bies naar achter](step04a.png)
+
+Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de bies vaststikken.
+
+> Vooraan is de bies twee keer geplooid (en wordt de rand van de stof meteen verborgen), maar aan de verkeerde kant is dit niet nodig. Later kunnen we gewoon het randje wat bijknippen, aangezien jersey niet rafelt. Als we de bies aan de achterkant ook zouden plooien zou dit alleen maar bulk toevoegen.
+
+### Stik de bies vast
+
+![Stik de jersey bies vast](step04b.png)
+
+Stik langs de goede kant van de stof langs je bies, langs de aanzetnaad (en zo ver mogelijk van de rand), zorg zeker dat je het stuk bies dat je naar achter geplooid hebt mee vaststikt.
+
+<note>
+
+Als je een coverlock hebt is dit ook een perfect moment om die te gebruiken
 
 </Note>
 
-![That's it, you're done 👍](finished.gif)
+Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er nog iets anders om voor uit te kijken.
+
+<note>
+
+##### Let op voor ongelijk transport
+
+Als je je bies door de naaimachine haalt trekken de tandjes van je machine de onderste laag (de achterkant van je bies) vooruit.
+
+In een ideale wereld zouden alle lagen gelijkmatig volgen. Maar meestal blijft de bovenste laag (de voorkant van je bies) wat achter. Dit zorgt dat je bies niet helemaal recht rond de randjes geplooid ligt, en lelijke rimpels maakt.
+
+Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje uit om te compenseren. Een boventransportvoet op je naaimachine helpt ook met dit probleem.
+
+</Note>
+
+## Stap 5: knip de bies bij aan de binnenkant
+
+![Knip de bies langs de binnenkant bij](step05.png)
+
+Keer je hemdje naar de verkeerde kant en knip de bies bij om alles netjes af te werken.
+
+<note>
+
+Doe dit voorzichtig zodat je niet per ongeluk een gat in je hemdje knipt. Ik spreek uit ervaring.
+
+</Note>
+
+![Dat is het, je bent klaar!](finished.gif)

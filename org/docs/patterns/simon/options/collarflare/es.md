@@ -1,5 +1,6 @@
 ---
 title: Collar flare
+path: /en/docs/patterns/simon/options/collarflare
 pattern: simon
 option: collarFlare
 ---

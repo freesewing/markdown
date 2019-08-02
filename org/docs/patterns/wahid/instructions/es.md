@@ -1,5 +1,6 @@
 ---
 title: Making Wahid
+path: /en/docs/patterns/wahid
 ---
 
 ## What you need

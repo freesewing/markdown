@@ -1,5 +1,6 @@
 ---
 title: Cuff drape
+path: /en/docs/patterns/simon/options/cuffdrape
 pattern: simon
 option: cuffDrape
 ---

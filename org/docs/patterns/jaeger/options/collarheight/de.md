@@ -1,5 +1,6 @@
 ---
 title: Collar height
+path: /en/docs/patterns/jaeger/options/collarheight
 pattern: jaeger
 option: collarHeight
 ---

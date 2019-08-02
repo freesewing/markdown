@@ -1,5 +1,6 @@
 ---
 title: Armhole drop
+path: /en/docs/patterns/huey/options/cuffease
 pattern: huey
 option: armholeDrop
 ---

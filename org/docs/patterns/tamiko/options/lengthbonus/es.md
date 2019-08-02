@@ -1,5 +1,6 @@
 ---
 title: Length bonus
+path: /en/docs/patterns/tamiko/options/lengthbonus
 pattern: tamiko
 option: lengthBonus
 ---

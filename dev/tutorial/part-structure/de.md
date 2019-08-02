@@ -40,7 +40,7 @@ export default function(part) {
 
 This is the boilerplate of our `draftBib` method. It takes the part as an argument, and returns it.
 
-<Note>
+<note>
 
 If you're new to JavaScript, and don't intuitively *get this*, stick with it. It will become second nature soon enough.
 
@@ -66,7 +66,7 @@ The example above makes the following variables available:
 - `Path`: The Path constructor
 - `paths`: A reference to the part's paths
 
-<Note>
+<note>
 
 This will all become clear, but if you're curious, the API docs have all the details on [the Part.shorthand() method](/api/part#shorthand)
 

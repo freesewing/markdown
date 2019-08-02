@@ -1,5 +1,6 @@
 ---
 title: Coverlock
+path: /en/docs/sewing/coverlock
 ---
 
 ![A hem on a T-shirt, made with a coverlock machine](coverlock-hem.jpg)

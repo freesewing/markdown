@@ -1,5 +1,6 @@
 ---
 title: Ribbing stretch factor
+path: /en/docs/patterns/hugo/options/ribbingstretchfactor
 pattern: hugo
 option: ribbingStretchFactor
 ---

@@ -1,7 +1,7 @@
 ---
-title: Seat depth
+title: Diepte zitvlak
 ---
 
-The **Seat depth** measurement is the height your trouser waist rises from the surface you are sitting on.
+De afmeting **diepte zitvlak** wordt al zittend gemeten. Het is de afstand tussen de taille van je broek en het oppervlak waar je op zit.
 
-To measure your seat depth, sit straight on a flat chair or table, and measure from hip line down to the chair/table.
+Om de diepte van je zitvlak te maten zit je rechtop een platte stoel of tafel, en meet je van de heuplijn naar beneden tot aan de stoel/tafel.

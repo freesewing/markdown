@@ -1,5 +1,6 @@
 ---
 title: Hips ease
+path: /en/docs/patterns/simon/options/hipsease
 pattern: simon
 option: hipsEase
 ---

@@ -1,7 +1,7 @@
 ---
-title: Natural waist to knee
+title: Natuurlijke taille tot knie
 ---
 
-The **natural waist to knee** is the measurement from your natural waist down towards your knee, measured on the side of your body.
+De maat **natuurlijke taille tot knie** is de afstand van je natuurlijke taille tot aan je knie, gemeten langs de zijkant van je lichaam.
 
-To measure your **natural waist to knee**, locate the height of both your natural waist and your knee, and measure the vertical distance between them. Make sure to measure at the side of your body.
+Om de **natuurlijke taille tot knie** te meten bepaal je de hoogte van zowel je natuurlijke taille als je knie en meet de de verticale afstand tussen de twee. Neem deze maat aan de zijkant van je lichaam.

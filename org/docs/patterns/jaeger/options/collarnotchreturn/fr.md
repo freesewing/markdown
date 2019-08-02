@@ -1,5 +1,6 @@
 ---
 title: Collar notch return
+path: /en/docs/patterns/jaeger/options/collarnotchreturn
 pattern: jaeger
 option: collarNotchReturn
 ---

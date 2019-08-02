@@ -1,5 +1,6 @@
 ---
 title: Across back factor
+path: /en/docs/patterns/jaeger/options/acrossbackfactor
 pattern: jaeger
 option: acrossBackFactor
 ---

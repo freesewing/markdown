@@ -1,5 +1,6 @@
 ---
 title: Pouch
+path: /en/docs/patterns/huey/options/pouch
 pattern: huey
 option: pouch
 ---

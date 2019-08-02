@@ -1,5 +1,6 @@
 ---
 title: Back opening
+path: /en/docs/patterns/cathrin/options/backopening
 pattern: cathrin
 option: backOpening
 ---

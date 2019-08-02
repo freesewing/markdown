@@ -1,5 +1,6 @@
 ---
 title: Sleeve length bonus
+path: /en/docs/patterns/simon/options/sleevelengthbonus
 pattern: simon
 option: sleeveLengthBonus
 ---

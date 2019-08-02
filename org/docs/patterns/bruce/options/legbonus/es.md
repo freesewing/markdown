@@ -1,5 +1,6 @@
 ---
 title: Leg bonus
+path: /en/docs/patterns/bruce/options/legbonus
 pattern: bruce
 option: legBonus
 ---

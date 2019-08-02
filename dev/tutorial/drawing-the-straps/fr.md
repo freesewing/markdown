@@ -85,9 +85,9 @@ paths.seam = new Path()
 
 Avec ceci, notre bavoir ressemble à présent à cela :
 
-<Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
+<example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
-<Note>
+<note>
 
 Nous avons utilisé la méthode `part.attr()` pour styliser notre chemin. Mais étant donné que la classe `fabric` (tissu) est dessinée en noir, cela ne semble pas très différent. Nous allons utiliser d'autres classes plus tard qui rendront son effet plus apparent.
 

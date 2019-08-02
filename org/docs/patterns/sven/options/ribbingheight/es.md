@@ -1,5 +1,6 @@
 ---
 title: Ribbing height
+path: /en/docs/patterns/sven/options/ribbingheight
 pattern: sven
 option: ribbingHeight
 ---

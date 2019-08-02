@@ -1,28 +1,28 @@
 ---
-title: Tutorial
+title: Tutoriel
 order: 400
 ---
 
-Welcome to the FreeSewing tutorial, where you'll learn how to create a made-to-measure sewing pattern, start to finish.
+Bienvenue dans le tutoriel FreeSewing, où vous allez apprendre à créer un patron de couture sur mesure, du début à la fin.
 
-You will be designing a pattern for a baby bib. It's a very simple pattern, but that's the point. Your focus today is on learning FreeSewing and how to translate your designs into code.
+Vous allez concevoir un patron de bavoir pour bébé. C'est un patron très simple, mais c'est le but. Vous allez vous focaliser aujourd'hui sur l'apprentissage de FreeSewing et sur comment traduire vos conceptions en code.
 
-At the end of this tutorial, you will have created this pattern:
+A la fin de ce tutoriel, vous aurez créé ce patron :
 
-<Example pattern="tutorial" part="bib" caption="Your end result" />
+<example pattern="tutorial" part="bib" caption="Your end result" />
 
-Before we can get started, let's make sure you have the required software installed on your computer:
+Avant de démarrer, assurons-nous que vous possédez les logiciels requis installés sur votre ordinateur :
 
-## Prerequisites
+## Prérequis
 
-FreeSewing is a JavaScript library that runs on [Node.js](https://nodejs.org/).
+FreeSewing est une librairie JavaScript qui s'exécute sur [Node.js](https://nodejs.org/).
 
 If you don't have Node.js on your system, follow the link above and install it on your system.
 
-When you're done, you can test whether it works by running:
+Lorsque vous avez terminé, vous pouvez tester si elle fonctionne bien en exécutant :
 
 ```bash
 node -v
 ```
 
-If you get the node version number, you're all set.
+Si vous obtenez le numéro de version de node, tout est bon.

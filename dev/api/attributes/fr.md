@@ -1,14 +1,14 @@
 ---
-title: Attributes
+title: Attributs
 ---
 
-Attributes is an object that holds attributes for a variety of other objects.
+Les attributs correspondent à un objet qui contient les attributs pour une variété d'autres objets.
 
-Attributes are attached to [`Point`](/api/point), [`Path`](/api/path), and [`Snippet`](/api/snippet) objects, as well as the internal [`Svg`](/api/svg) object.
+Les attributs sont liés aux objets [`Point`](/api/point), [`Path`](/api/path), et [`Snippet`](/api/snippet), et aussi à l'objet interne [`Svg`](/api/svg) .
 
-All of these have an instantiated Attributes object in their `attributes` property.
+Tous ceux-ci possèdent un objet Attributs instantié dans leur propriété `attributes`.
 
-An Attributes object exposes the following methods:
+Un objet Attributes expose les méthodes suivantes :
 
 ## add()
 
@@ -16,26 +16,26 @@ An Attributes object exposes the following methods:
 Attributes attributes.add(string key, string value)
 ```
 
-Adds `value` to the attribute identified by `key`.
+Ajoute la valeur `value` à l'attribut identifié par la clé `key`.
 
-Adding multiple values to the same key will result in them being joined together (with a space) when rendering.
+Ajouter de multiples valeurs à la même clé résultera au fait qu'elles seront rassemblées ensemble (avec un espace) lors du rendu.
 
 ### Attributes.add() example
 
 ```js
 let { Path, paths } = part.shorthand();
 
-// This will render as: class="classA classB"
+// Cela va rendre ainsi : class="classA classB"
 paths.demo = new Path();
 paths.demo.attributes.add('class', 'classA');
 paths.demo.attributes.add('class', 'classB');
 
-// This does the same thing:
+// Cela fait la même chose :
 paths.demo = new Path()
   .attr('class', 'classA')
   .attr('class', 'classB');
 
-// This also has the same result:
+// Cela a également le même résultat :
 paths.demo = new Path()
   .attr('class', 'classA classB');
 ```
@@ -46,7 +46,7 @@ paths.demo = new Path()
 Attributes attributes.clone()
 ```
 
-Returns a new Attributes object that is a deep copy of this one.
+Retourne un nouvel objet Attributes qui est une copie profonde de celui-ci.
 
 ## get()
 
@@ -54,9 +54,9 @@ Returns a new Attributes object that is a deep copy of this one.
 string attributes.get(string key)
 ```
 
-Will return the value of attribute stored under `key`, or `false` if it's not set.
+Renvoie la valeur de l'attribut stockée sous la clé `key`, ou la valeur `false` si elle n'est pas définie.
 
-If key has multiple values, they will be joined together in a string, seperated by spaces.
+Si la clé a plusieurs valeurs, elles seront réunies dans une chaîne, séparées par des espaces.
 
 ### Attributes.get() example
 
@@ -68,7 +68,7 @@ paths.demo = new Path()
   .attr('class', 'classB');
 
 let class = paths.demo.attributes.get('class'); 
-// class now holds: "classA classB"
+// class contient maintenant : "classA classB"
 ```
 
 ## getAsArray()
@@ -77,7 +77,7 @@ let class = paths.demo.attributes.get('class');
 array attributes.getAsArray(string key)
 ```
 
-Will return an array with the value of attribute stored under `key`, or `false` if it's not set.
+Retournera un tableau avec la valeur de l'attribut stockée sous la clé `key`, ou la valeur `false` si elle n'est pas définie.
 
 ### Attributes.getAsArray() example
 
@@ -89,7 +89,7 @@ paths.demo = new Path()
   .attr('class', 'classB');
 
 let class = paths.demo.attributes.getAsArray('class'); 
-// class now holds: ["classA", "classB"]
+// class contient maintenant : ["classA", "classB"]
 ```
 
 ## remove()
@@ -98,7 +98,7 @@ let class = paths.demo.attributes.getAsArray('class');
 Attributes attributes.remove(string key)
 ```
 
-Removes the attribute values under key and returns the Attributes object.
+Supprime les valeurs des attributs sous la clé et retourne l'objet Attributes.
 
 ### Attributes.remove() example
 
@@ -112,7 +112,7 @@ paths.demo = new Path()
 let class = paths.example.attributes
   .remove()
   .get('class'); 
-// class now holds: false
+// class contient maintenant : false
 ```
 
 ## set()
@@ -121,11 +121,11 @@ let class = paths.example.attributes
 Attributes attributes.set(string key, string value)
 ```
 
-Sets the attribute identified by `key` to value `value`.
+Définit l'attribut identifié par la clé `key` par la valeur `value`.
 
-<Warning>
+<warning>
 
-This will overwrite any value that's currently set on the attribute identified by `key`.
+Ceci écrasera toute valeur actuellement définie sur l'attribut identifié par la clé `key`.
 
 </Warning>
 
@@ -134,12 +134,12 @@ This will overwrite any value that's currently set on the attribute identified b
 ```js
 let { Path, paths } = part.shorthand();
 
-// This will render as: class="classB"
+// Cela va rendre ainsi : class="classB"
 paths.demo = new Path();
 paths.demo.attributes.set('class', 'classA');
 paths.demo.attributes.set('class', 'classB');
 
-// This does the same thing:
+// Cela fait la même chose :
 paths.demo = new Path()
   .attr('class', 'classA', true)
   .attr('class', 'classB', true);

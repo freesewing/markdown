@@ -1,5 +1,6 @@
 ---
 title: Cuff ease
+path: /en/docs/patterns/brian/options/cuffease
 pattern: brian
 option: cuffEase
 ---

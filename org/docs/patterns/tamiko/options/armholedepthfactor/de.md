@@ -1,5 +1,6 @@
 ---
 title: Armhole depth factor
+path: /en/docs/patterns/tamiko/options/armholedepthfactor
 pattern: tamiko
 option: armholeDepthFactor
 ---

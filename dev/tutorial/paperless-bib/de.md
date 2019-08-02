@@ -34,7 +34,7 @@ While the grid gets added automatically, the dimensions you have to add yourself
 - The `ld` macro adds a linear dimension
 - The `pd` macro adds a path dimension that follows a given path
 
-<Warning>
+<warning>
 
 FIXME: Add links to macro docs
 
@@ -80,7 +80,7 @@ if (paperless) {
 
 There's a lot going on, but it's mostly repetition. Let's look at the end result, and discuss:
 
-<Example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
+<example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
 We used the `hd` macro to add two horizontal dimensions:
 

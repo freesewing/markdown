@@ -1,5 +1,6 @@
 ---
 title: Sleeve length bonus
+path: /en/docs/patterns/huey/options/sleevelengthbonus
 pattern: huey
 option: sleevelengthBonus
 ---

@@ -1,5 +1,6 @@
 ---
 title: Chest ease
+path: /en/docs/patterns/brian/options/chestease
 pattern: brian
 option: chestEase
 ---
