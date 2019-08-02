@@ -1,5 +1,5 @@
 ---
-title: Armhole drop
+title: Diepte armsgat
 path: /en/docs/patterns/huey/options/cuffease
 pattern: huey
 option: armholeDrop
