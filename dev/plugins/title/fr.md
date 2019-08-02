@@ -60,7 +60,7 @@ void macro("title", {
 
 The macro takes a single configuration object with the following properties:
 
-| Property   | Default | Type                | Description                                                                                                                              |
+| Propriété  | Défaut  | Type                | Description                                                                                                                              |
 | ---------- |:-------:| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | `at`       |         | [Point](/api/point) | The point at which to insert the title                                                                                                   |
 | `nr`       |         | String              | The number of the pattern part                                                                                                           |
