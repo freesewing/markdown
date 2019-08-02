@@ -99,7 +99,7 @@ void macro("hd", {
 
 The `hd` macro draws a horizontal dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default             | Type                | Description                                                            |
+| Propriété       | Défaut              | Type                | Description                                                            |
 | --------------- | ------------------- | ------------------- | ---------------------------------------------------------------------- |
 | `from`          |                     | [Point](/api/point) | The startpoint of the dimension                                        |
 | `to`            |                     | [Point](/api/point) | The endpoint of the dimension                                          |
@@ -121,7 +121,7 @@ void macro("vd", {
 
 The `vd` macro draws a vertical dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default           | Type                | Description                                                          |
+| Propriété       | Défaut            | Type                | Description                                                          |
 | --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
 | `from`          |                   | [Point](/api/point) | The startpoint of the dimension                                      |
 | `to`            |                   | [Point](/api/point) | The endpoint of the dimension                                        |
@@ -143,7 +143,7 @@ void macro("ld", {
 
 The `ld` macro draws a linear dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default         | Type                | Description                                                        |
+| Propriété       | Défaut          | Type                | Description                                                        |
 | --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
 | `from`          |                 | [Point](/api/point) | The startpoint of the dimension                                    |
 | `to`            |                 | [Point](/api/point) | The endpoint of the dimension                                      |
@@ -164,7 +164,7 @@ void macro("pd", {
 
 The `ld` macro draws a dimenstion parallel to a [Path](/api/path). It takes a single configuration object with the following properties:
 
-| Property        | Default     | Type              | Description                                                   |
+| Propriété       | Défaut      | Type              | Description                                                   |
 | --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
 | `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
 | `offset`        | 0           | Number            | The offset at which to draw the dimension                     |
