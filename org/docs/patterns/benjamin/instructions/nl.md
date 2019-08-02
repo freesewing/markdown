@@ -37,69 +37,69 @@ Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tus
 
 De kleefbare variant heeft een lijmlaag aan één kant die geactiveerd wordt met de hitte van je strijkijzer. Dit bevestigt de tussenvoering aan de stof, en vanaf dan worden de twee als één stuk behandeld. Kleefbare tussenvoering kan een geweldige optie zijn als je stof de nodige hitte kan verdragen, en je goede kwaliteit gebruikt. Sommige tussenvoeringen zijn van mindere kwaliteit waardoor de lijm loslaat, wat zichtbaar wordt als bubbels op het oppervlak van je vlinderdas. Kwalitatieve tussenvoering en een correcte applicatie zou niet tot deze problemen mogen leiden.
 
-Tussenvoering om in te naaien wordt op zijn plek genaaid voor de stof gebruikt wordt. Je bevestigt de tussenvoering aan de stof door de twee binnen de naadtoeslag aan elkaar te naaien. Als je een naadtoeslag van 6 mm gebruikt naai je de tussenvoering op 3 mm vast. Anything may work as a sew-in interfacing, including an extra layer of the same fabric.
+Tussenvoering om in te naaien wordt op zijn plek genaaid voor de stof gebruikt wordt. Je bevestigt de tussenvoering aan de stof door de twee binnen de naadtoeslag aan elkaar te naaien. Als je een naadtoeslag van 6 mm gebruikt naai je de tussenvoering op 3 mm vast. Eender wat kan dienen als tussenvoering om in te naaien, alsook een extra laag van je stof.
 
-The key part of the interfacing is to give your bow tie the structure you like. You can have a bow tie that stands proud and crisp. Or one that droops a bit at the tips. This is all about your preference.
+Het doel van de tussenvoering is je vlinderdas de structuur te geven die je wil. Je kan kiezen voor een das met veel volume en schwung. Of een die de boel wat meer laat hangen. Dit hangt allemaal af van je persoonlijke voorkeur.
 
-It is good to experiment with the interfacing on a scrap piece of your fabric, specially with the fusible kind. You want ot make sure you get the structure you like before commiting it to your pattern pieces.
+Het is goed om met de tussenvoering te experimenteren op een restje stof, vooral met de kleefbare soort. Je wil zeker zijn dat je de gewenste structuur krijgt voor je alles aan je patroondelen kleeft.
 
-Although the pattern calls for applying interfacing to all parts, if you have thick or stiff fabric, you may be able to only do one side, or no sides at all.
+Hoewel het patroon zegt tussenvoering op alle delen te gebruiken kan je kiezen om dit maar aan één kant (of zelfs geen kant) te doen, afhankelijk van de dikte en structuur van je stof.
 
-### Choosing your grain
+### Kies je draadrichting
 
-This pattern includes a grain line. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Dit patroon heeft een draadrichting. Deze dient vooral voor de tussenvoering. Aangezien elk patroondeel verstevigd wordt met tussenvoering is de draadrichting van de stof zelf niet zo belangrijk. Je kan hier zelfs afwijken van de standaard voor een ander effect.
 
-> If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/en/docs/sewing/fabric-grain).
+> Als dit allemaal heel verwarrend klinkt, stel ik voor dat je de pagina over [Draadrichting](/en/docs/sewing/fabric-grain) eens doorneemt.
 
-### Bow tie adjustment ribbon
+### Vlinderdas aanpassen met een lintje
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Dit patroon kan dienen om een vlinderdas te maken voor een specifieke halsomtrek. Het is ook mogelijk een patroon te maken met een lintje en hardware zodat de vlinderdas aanpasbaar is voor verschillende maten. Dit is handig als niet al je hemden dezelfde halsmaat hebben, of als je soms een hemd met een lossere hals wilt.
 
-These ribbons can be found in the better haberdasheries or can be ordered online.
+Deze lintjes kan je vinden in de betere merceriezaak of online.
 
 ### Seam allowance
 
-Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Aangezien de vlinderdas met de goede kanten tegen elkaar genaaid wordt, moet het hele ding binnenstebuiten gekeerd worden. Het is geen slecht idee om een kleine naadwaarde van 6 mm (1/4 inch) te gebruiken om dit makkelijker te maken.
 
 ## Knippen
 
-Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
+Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je moet uitknippen. Hier zijn twee typische knipvoorbeelden.
 
-**Without adjustment ribbon**
+**Zonder aanpaslintje**
 
-- **Main fabric** 
- - Cut **4 Knot**
- - Cut **2 Collar band** 
+- **Buitenstof** 
+ - Knip **4 Knoop**
+ - Knip **2 Kraagband** 
 - **Tussenvoering** 
- - Cut **4 interfacing knot**
- - Cut **2 interfacing collar band** 
+ - Knip **4 tussenvoering knoop**
+ - Knip **2 tussenvoering kraagband** 
 
 ![A typical Benjamin draft without adjustment ribbon](layout1.svg)
 
-**With adjustment ribbon**
+**Met aanpaslintje**
 
-- **Main fabric** 
- - Cut **1 Knot 1**
- - Cut **1 Knot 2**
- - Cut **2 Knot 3**
+- **Buitenstof** 
+ - Knip **1 Knoop 1**
+ - Knip **1 Knoop 2**
+ - Knip **2 Knoop 3**
 - **Tussenvoering** 
- - Cut **1 interfacing knot 1**
- - Cut **1 interfacing knot 2**
- - Cut **2 interfacing knot 3**
+ - Knip **1 tussenvoering knoop 1**
+ - Knip **1 tussenvoering knoop 2**
+ - Knip **2 tussenvoering knoop 3**
 
 ![A typical Benjamin draft with adjustment ribbon](layout2.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Apply interfacing
+### Stap 1: Bevestig tussenvoering
 
-Apply interfacing to all parts where you feel it's needed.
+Bevestig je tussenvoering aan alle delen waar je het nodig acht.
 
-### Without adjustment ribbon
+### Zonder aanpaslintje
 
-#### Step 2: Sew the knot to the collar band
+#### Stap 2: Naai de knoop aan de kraagband
 
 Put the collar band part on the bow tie knot part, right sides together. Allign the ends of both parts. Now sew across the end to join the parts.
 
@@ -135,7 +135,7 @@ Now all that is left is closing the litle hole we used to turn the bow tie right
 
 Now give it one last press and admire your work.
 
-### With adjustment ribbon
+### Met aanpaslintje
 
 #### Step 2: Attaching the ribbon
 
