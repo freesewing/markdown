@@ -1,5 +1,5 @@
 ---
-title: Hemming
+title: Zomen
 path: /en/docs/sewing/hemming
 ---
 
