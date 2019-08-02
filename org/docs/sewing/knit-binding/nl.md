@@ -51,35 +51,35 @@ Of je nu een boord of een bies gebruikt, je zal de stof een beetje moeten uitrek
 
 Aan een rechte rand kan je gewoon je bies/boord bevestigen. De stof en de bies hebben dezelfde lengte, dus alles komt in orde.
 
-Het meest gebruikelijke scenario waarbij je dit tegenkomt is aan de (korte) mouwen van een t-shirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
+Het meest gebruikelijke scenario waarbij je dit tegenkomt is aan de (korte) mouwen van een t-shirt. Alhoewel de bies rond je arm heen gaat is de naad (op het patroon) plat.
 
-### Uniformly curved: uniform stretch
+### Gelijk gebogen: gelijke stretch
 
 ![Curved seams require stretch](knitbinding2.png)
 
-On a curved seam, like an neck opening, things get a little more complicated. That is because the outer edge and the inner edge of your binding will have a different length.
+Op een gebogen rand zoals een halsopening wordt de situatie een beetje complexer. Dit is omdat de buitenste en binnenste rand van je bies een andere lengte zullen hebben.
 
-**No stretch, and things won't lie flat (aka gape)**
+**Geen rek, en de boel ligt niet mooi plat (gaapt open)**
 
-If you simply sew the binding to the fabric, things will be fine at the outer edge of your binding. But the inner edge is shorter, and your binding fabric will be pushed together. The tension that this creates will make it rise, and your binding will not lie flat against your skin.
+Als je de bies gewoon zo aan de stof naait zal het ok zijn aan de buitenste rand van je bies. Maar de binnenste rand is korter, en de stof van je bies wordt samengedrukt. De spanning die zo gecreëerd wordt zorgt dat de bies niet mooi plat tegen je lichaam aan ligt.
 
-**Stretch it just right, and it will look great**
+**Net genoeg rek is dolle pret**
 
-To fix this issue, you need to stretch your knit binding (and not the fabric) while attaching your binding. If you do it right, the outer edge will be stretched open a bit, while the inner edge will nicely fill out your curve and everything will lie flat.
+Om dit probleem op te lossen moet je je bies (en niet de stof) uitrekken terwijl je de bies bevestigt. Als je dit juist doet wordt de buitenste rand een beetje uitgerokken, terwijl de binnenste rand de curve mooi volgt en alles plat ligt.
 
-**If you stretch too much, things will wrinkle**
+**Van te veel rek krijg je rimpels**
 
-Stretch your binding too much, and it will spring back too far, causing the main fabric to wrinkle.
+Als je de bies te veel uitrekt zal die te ver terug in vorm springen, en zo de stof van je t-shirt doen rimpelen.
 
-### Real life: variable stretch
+### De realiteit: stretch varieert
 
 ![As the curve changes, so should the stretch](knitbinding3.png)
 
-Straight seams exist, and although I've never come across one, maybe uniformly curves seams exists too. But more often than not, the curvature of your seam will vary.
+Rechte naden bestaan, en alhoewel ik er nog geen ben tegengekomen bestaan uitsnijdingen met gelijke curves ook. Maar de curve van een rand zal vaker wel dan niet gevarieerd zijn.
 
-On a typical Tshirt neckline, the curve at the back of your neck is different from the front, and there's probably a somewhat tighter bend behind your shoulder seam.
+Aan een typische t-shirt halslijn is de curve aan de achterkant anders dan vooraan, en is er waarschijnlijk een fellere kromming aan de schoudernaad.
 
-On a slight curve, the difference between the inner and outer edge is not so big, and a little bit of stretch is all you need. But on a tighter curve, the difference between the inner and outer edge of your binding will be more significant. And you'll need more stretch to accomodate for that.
+Aan een zachte curve is het verschil tussen de binnenste en buitenste rand niet zo groot, en heb je maar een beetje stretch nodig. Maar als de curve scherper wordt is het verschil tussen de binnenste en buitenste rand van je bies ook groter. And you'll need more stretch to accomodate for that.
 
 So as you follow your seam, and it curves around necklines, or shoulders, or design features, you will have to adapt the amount of stretch to the situation.
 
