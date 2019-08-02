@@ -1,11 +1,11 @@
 ---
-title: Using macros
+title: Utiliser des macros
 ---
 
-Macros are a way to facilitate pattern design by bundling a bunch of individual actions into a little routine.
+Les macros sont un moyen de faciliter la conception de patron en rassemblant un ensemble d'actions individuelles en un petite routine.
 
-Macros are provided by [plugins](/plugins/). Here are some examples:
+Les macros sont fournies par les [plugins](/plugins/). En voici quelques exemples :
 
 <example pattern="rendertest" options={{ colors: false, circles: snippets: text: widthhd: false }}>
 
-Refer to [the API documentation](/api/part#macro) for details on how to use macros, and the [extending FreeSewing](/extend) documentation for info on how to create your own macros.
+Référez-vous à la [documentation API](/api/part#macro) pour des détails concernant l'utilisation des macros, et la documentation [Étendre FreeSewing](/extend) pour des infos sur comment créer vos propres macros.
