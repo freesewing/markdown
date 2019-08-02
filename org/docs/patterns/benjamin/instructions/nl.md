@@ -1,39 +1,39 @@
 ---
-title: Making Benjamin
+title: Benjamin maken
 ---
 
 ## Wat je nodig hebt
 
-To make Benjamin, you will need the following:
+Om Benjamin te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over pieces of a recent project could work too.
-- About the same amount of interfacing
-- Optionally: Bow tie adjustment ribbon and hardware
+- Ongeveer 0.5 meter geschikte stof ([zie Optionele stoffen](#fabric-options)). Restjes van een recent project kunnen ook dienen.
+- Ongeveer even veel tussenvoering
+- Optioneel: een lintje en hardware om de vlinderdas aanpasbaar te maken
 
-## Notes and tips
+## Tips en opmerkingen
 
-### Precision
+### Precisie
 
-Since a bow tie is a rather small item, precission with sewing is key to a good result. Any slight difference between the upper and lower part of the bow will stand out. To get a great result I found it very helpful to trace the actual seam lines onto the interfacing and follow that while sewing.
+Aangezien een vlinderdas een klein ding is, is het belangrijk om precies te naaien voor een goed resultaat. Een klein verschil tussen de onder- en bovenkant van de strik valt meteen op. Om een goed resultaat te krijgen vond ik het handig de eigenlijke stiklijnen op de tussenvoering te tekenen en die tijdens het naaien te volgen.
 
-### Press wisely
+### Strijk wijs
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Tijdens de constructie zal gevraagd worden je stof te strijken. Wees voorzichtig en gebruik niet te veel hitte op een delicate stof die daar niet tegen kan.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan je zien wat de beste temperatuur is voor de stof die je gebruikt.
 
-### Bow tie fabrics
+### Stoffen voor een vlinderdas
 
-The bow ties you find in the store are typically make out of silk or some imitation silk poly. So it will come as no surprise that those are good options. Any type of fabric that you like the pattern or looks of can become a candidate for a bow tie. The only real limitation is that the bow tie will have to be turned inside out through a tube that is only 2cm across. With some thicker fabrics, this will be a difficult proposition.
+De vlinderdasjes die je in de winkel vindt zijn meestal gemaakt uit zijde of imitatiezijde (vaak polyester). Het is dus niet verrassend dat dit goede opties zijn. Eender welke stof waarvan je het patroon of de textuur mooi vindt kan een potentiële vlinderdas zijn. De enige echte limiet is dat de vlinderdas door een opening van slechts 2 cm gekeerd moet worden. Met sommige zwaardere stoffen kan dit een probleem vormen.
 
-Bow ties are more whimsical than normal ties, so having a fun pattern or loud colour is not as much of a problem as it would be with a regular tie.
+Vlinderdasjes zijn speelser dan stropdassen, dus een leuke print of een felle kleur is niet zo vreemd als bij een gewone das.
 
-Silk and silk imitation is slippery and tricky to work with. This can be compensated for with a fusible interfacing.
+Zijde en imitatiezijde is glad en lastig om mee te werken. Dit kan je compenseren met een kleefbare tussenvoering.
 
-### Interfacing
+### Tussenvoering
 
-Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing comes in two main types; fusible and sew-in.
+Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Interfacing comes in two main types; fusible and sew-in.
 
 The fusible variety has some adhesive attached to one side that is activated with the heat of your iron. This attaches the interfacing to the fabric and the two can then be used as one. Fusible interfacing can be a great option if your fabric allows the heat required, and you use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
 
@@ -70,7 +70,7 @@ Benjamin is ar rather simple pattern, but your options will determine what needs
 - **Main fabric** 
  - Cut **4 Knot**
  - Cut **2 Collar band** 
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **4 interfacing knot**
  - Cut **2 interfacing collar band** 
 
@@ -82,7 +82,7 @@ Benjamin is ar rather simple pattern, but your options will determine what needs
  - Cut **1 Knot 1**
  - Cut **1 Knot 2**
  - Cut **2 Knot 3**
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **1 interfacing knot 1**
  - Cut **1 interfacing knot 2**
  - Cut **2 interfacing knot 3**
