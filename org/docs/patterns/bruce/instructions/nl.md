@@ -139,55 +139,55 @@ Als je een sierstiksel geeft, die dit dan gewoon langs elke naad, steeds met een
 
 ![Join the first side to the fronts](step07.png)
 
-Align the side edge of the first side with the edge make up of the fronts+inset (good sides together as usual) and serge them together.
+Leg de zijrand van de eerste zijkant gelijk met de rand van de voorpanden+inzetstuk (met de goede kanten op elkaar, zoals gewoonlijk) en lock de naad samen.
 
-### Step 8: Join the second side to the fronts
+### Stap 8: Bevestig de tweede zijkant aan de voorpanden
 
 ![Join the second side to the fronts](step08.png)
 
-Do the same for the second side.
+Doe hetzelfde voor de tweede zijkant.
 
-### Step 9: Optional: Topstitch
+### Stap 9: Optioneel: Sierstiksel
 
 ![Boxers with (left) and without topstitching](step06.jpg)
 
-If you've topstitched before, make sure to do the same now for the seams you made in step 7 and 8.
+Als je eerder al een sierstiksel gaf, doe dan nu hetzelfde voor de naden die je gemaakt hebt in stap 7 en 8.
 
-### Step 10: Finish the crotchseam
+### Stap 10: Werk de kruisnaad af
 
 ![Finish the crotchseam](step10.png)
 
-We will now serge the arched opening in the back part to the front parts of the boxers, made up of the fronts and insets.
+We gaan nu de gebogen opening aan de achterkant bevestigen aan de voorkant van de boxershort, bestaande uit de voorpanden en inzetstukken.
 
-The notches on the back piece will help you. There's the center notch, and the other two notches should match up with where the fronts and inset pieces are joined.
+De merktekens op het rugpand zullen je helpen. Er is een merkteken in het midden, en de twee andere merktekens zouden moeten overeenkomen met waar de voorpanden en inzetstukken samenkomen.
 
-> It's easier to start in the middle point and work your way to one side. Then start from the middle again to do the other side.
+> Het is makkelijker om in het midden te beginnen en één kant af te werken. Begin dan opnieuw in het midden om de andere kant af te werken.
 > 
-> Take it slow, and be **very aware** of where your serger blade is cutting into.
+> Neem je tijd, en **kijk heel goed uit** wat het mes van je overlock wegsnijdt.
 
-### Step 11: Hem the first leg
+### Stap 11: Zoom de eerste pijp
 
 ![Hem the first leg](step11.png)
 
-Time to hem the legs. Hem them as you would do any other stretchy knit. Go for a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stich setting.
+Tijd om de pijpen om te zomen. Zoom ze op dezelfde manier als je elke andere elastische gebreide stof zou zomen. Ga voor een elastische steek. Je kan een zigzaksteek of tweelingnaald gebruiken als je geen coverlock of specifieke stretchsteek hebt.
 
-> I feel that hemming is much easier when you pin things in place first. So fold back your hem, and pin it in place. Even better: pin both legs in place and only sew when you're happy with how it looks.
+> Ik vind zomen veel eenvoudiger als je de dingen eerst op de juiste plek speldt. Dus plooi je zoom om, en speld alles op z'n plaats. Nog beter: speld beide pijpen vast en naai pas als je vindt dat het er goed uitziet.
 
-### Step 12: Hem the second leg
+### Stap 12: Zoom de tweede pijp
 
 ![Hem the second leg](step12.png)
 
-You know it makes sense.
+Niet meer dan logisch.
 
-### Step 13: Make your elastic into a loop
+### Stap 13: Maak een lus van je elastiek
 
 ![Make your elastic into a loop](step13.png)
 
-Sew both ends of your elastic together with good sides together.
+Naai de uiteindes van je elastiek samen met de goede kanten op elkaar.
 
-> #### Not sure how much elastic you need?
+> #### Niet zeker hoeveel elastiek je nodig hebt?
 > 
-> Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
+> Wikkel gewoon je elastiek rond je taille op de plek waar het zou zitten, en span aan tot het juist aanvoelt. Duid aan waar dat punt is, voeg 2 cm naadwaarde toe, en daar is je lengte.
 
 ### Step 14: Attach elastic to waist
 
