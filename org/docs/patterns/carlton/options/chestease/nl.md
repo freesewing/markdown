@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/carlton/options/chestease
 pattern: carlton
 option: chestEase
