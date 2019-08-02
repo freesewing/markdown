@@ -1,10 +1,10 @@
 ---
-title: Sleeve length bonus
+title: Bonus mouwlengte
 path: /en/docs/patterns/brian/options/sleevelengthbonus
 pattern: brian
 option: sleeveLengthBonus
 ---
 
-![The sleeve length bonus option on Brian](./sleevelengthbonus.svg)
+![De optie voor mouwlengte bij Brian](./sleevelengthbonus.svg)
 
-This option controls how to lengthen the sleeves.
+Deze optie bepaalt hoe de mouwen verlengd worden.
