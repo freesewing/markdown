@@ -3,21 +3,21 @@ title: Making Shin
 path: /en/docs/patterns/shin
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Shin, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - two eyelets and a drawstring
 
-> #### A serger/overlock is nice, but optional
+> #### Een overlockmachine is handig, maar optioneel
 > 
 > As with all stretch fabrics, a serger/overlock will make your life easier.
 > 
-> If you do not have one of those, don't despair. You don't really need it. You can use another technique for stretch seams, such as a zig-zag stich, twin needle, or elastic thread.
+> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. You can use another technique for stretch seams, such as a zig-zag stich, twin needle, or elastic thread.
 
-## Fabric options
+## Stofkeuze
 
 Swim trunks should be made out of a material with stretch that is suitable for being in the water.
 
@@ -27,13 +27,13 @@ Typically, this falls apart in a few categories:
 - Polyester mixed with PBT (polybutylene terephthalate) is less soft to the touch, but resistant to chlorine and salt water. This is what a lot of competitive swimwear is made from.
 - Neoprene, also known as scuba, is heavier and less tretchy. It's the stuff scuba suits are made from.
 
-## Cutting
+## Knippen
 
 - Cut **2 backs** with good sides together
 - Cut **4 fronts** 2 x 2 with good sides together
 - Cut **1 waistband** 
 
-> #### Caveats
+> #### Opmerkingen
 > 
 > - To save paper, the waistband is not completely printed on the pattern since it's just a long rectangle. So look for the length indicator, and cut out a rectangle of that size.
 > - The hem allowance is double the standard seam allowance.
@@ -120,9 +120,9 @@ It's fine to not sew too close the first time around, and once your elastic is a
 
 ### Step 9: Hem the legs
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
+Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
-> #### Fold only once, to avoid bulk
+> #### Vouw maar een keer om een teveel aan stof te vermijden
 > 
 > Swimwear fabric doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
