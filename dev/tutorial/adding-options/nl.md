@@ -1,5 +1,5 @@
 ---
-title: Adding options
+title: Opties toevoegen
 order: 140
 ---
 
