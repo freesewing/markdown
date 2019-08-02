@@ -1,5 +1,5 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/jaeger/options/lengthbonus
 pattern: jaeger
 option: lengthBonus
