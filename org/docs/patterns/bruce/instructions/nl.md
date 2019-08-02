@@ -83,31 +83,31 @@ Een lastige naad als deze geeft je zin om naar spelden of driegdraad te grijpen,
 
 Begin aan de top van de gebogen naad, de stukken samenleggend zoals getoond, en lock ze langzaam een paar cm samen.
 
-As you move along, manipulate the fabric to make sure both edges stay on top of each other as you feed them through your serger.
+Terwijl je voortgaat manipuleer je de stof zodat de lagen gelijk blijven liggen terwijl je ze door de overlock haalt.
 
-As you manipulate the fabric to get it aligned properly, it's easy to stretch one part more than the other. The notch in the curved edge can help you make sure you're keeping things even.
+Als je de stof zo manipuleert is het makkelijk om één stuk meer uit te rekken dan de andere. Het merkteken op de gebogen rand kan je helpen om te controleren of alles gelijk blijft.
 
-Once you've passed the notch, things will get easier. This would also be a good time to compare the remaining lenght of the curved seams. If one is a bit longer than the other, simply stretch the shorter one until they match up.
+Zodra je voorbij dit merkteken bent wordt alles makkelijker. Dit is ook een goed moment om de lengte van de overgebleven naad te controleren. Als één stuk een beetje langer is dan het andere, rek het korte stuk dan een beetje tot ze even lang zijn.
 
-If the difference is too big however, just leave it. It will get get cut off when we do the crotchseam.
+Als het verschil te groot is, laat het dan gewoon. Het zal afgeknipt worden bij het naaien van de kruisnaad.
 
-> This is probably the hardest seam in the pattern. Take it slow, and you'll be fine.
+> Dit is zo ongeveer de moeilijkste naad in het patroon. Doe rustig aan, en alles komt goed.
 > 
-> #### Or enclose these seams by sandwiching them between the fronts
+> #### Of sluit deze naad in door ze tussen de voorpanden te verstoppen
 > 
-> While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, and then sew your front pieces together with the insets sandwiched inside.
+> Het is een beetje meer werk, maar je kan deze naad wegstoppen als je de inzetstukken eerst aan één van de voorpanden driegt, en dan je voorpanden op elkaar stikt met de inzetstukken ertussen.
 > 
-> Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front.
+> Naai de nepen vooraan apart en keer alles binnenstebuiten, en je hebt een mooi naadloos pakketje vooraan.
 
-### Step 4: Join second inset and fronts
+### Stap 4: Bevestig tweede inzetstuk en voorkanten
 
 ![Join second inset and fronts](step03-d.png)
 
-After you have joined the first inset and the fronts, continue with the second one.
+Nadat je het eerste inzetstuk aan de voorpanden bevestigd hebt, doe je hetzelfde met het tweede.
 
-With the fronts and insets joined together, you are left with 3 parts:
+Als de voorpanden en inzetstukken aan elkaar hangen heb je nog maar drie stukken:
 
-- The joined insets and fronts
+- De inzetstukken en voorpanden, aan elkaar bevestigd
 - The joined sides and back
 - The elastic
 
