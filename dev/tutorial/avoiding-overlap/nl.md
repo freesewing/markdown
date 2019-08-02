@@ -35,9 +35,9 @@ while (points.tipRightBottomStart.x > -1) {
 }
 ```
 
-We roteren alle punten in de `rotateThese`-reeks rond de punten van `edgeLeft`. We're using increments of 1 degree until the `tipRightBottomStart` point is 1mm passed the center of our bib.
+We roteren alle punten in de `rotateThese`-reeks rond de punten van `edgeLeft`. We werken met stappen van 1 graad totdat het punt `tipRightBottomStart` 1 millimeter voorbij het midden van het slabbetje ligt.
 
-While we're add it, let's add a point where the closure's snap should go:
+En nu we toch bezig zijn, kunnen we meteen een punt toevoegen waar de drukknop voor de sluiting terecht moet komen:
 
 ```js
 points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
@@ -45,4 +45,4 @@ points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
 
 <example pattern="tutorial" part="step8" caption="The right part looks a bit wonky now, but we'll get to that" />
 
-Now let's mirror this on the other side, and replace our `neck` and `rect` paths with a new path.
+Dat gaan we spiegelen aan de andere kant en de paden voor `neck` en `rect` vervangen door een nieuw pad.
