@@ -101,67 +101,67 @@ Bevestig je tussenvoering aan alle delen waar je het nodig acht.
 
 #### Stap 2: Naai de knoop aan de kraagband
 
-Put the collar band part on the bow tie knot part, right sides together. Allign the ends of both parts. Now sew across the end to join the parts.
+Leg de kraagband op de knoop, met de goede kanten op elkaar. Leg de uiteindes van beide delen gelijk. Stik langs het uiteinde om de twee delen te verbinden.
 
 ![Sew the collar band to the knot](step12.png)
 
-Do this for each end on both collar bands.
+Doe dit voor beide kraagbanden.
 
-Press open all the seams.
+Strijk alle naden open.
 
-You now have two identical single sided bow ties.
+Je hebt nu twee identieke helften van een vlinderdas.
 
-#### Step 3: Join both sides
+#### Stap 3: Bevestig twee kanten
 
 ![Sew both sides together](step13.png)
 
-Lay both the sides you made on top of each other, right sides together. Sew all along, but leaving an area of 5cm open in the middle of the collar band. Through this opening we will turn the bow tie right side out.
+Leg de beide helften die je gemaakt hebt op elkaar, met de goede kanten samen. Naai rondom, maar laat een stukje van 5 cm open in het midden van de kraagband. Door deze opening gaan we de vlinderdas naar de goede kant keren.
 
-#### Step 4: Turning
+#### Stap 4: Keren
 
 ![Clip seam allowance](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Gebruik dan de achterkant van een grote haaknaald, of een ander lang en smal object, om de alles door de opening naar de juiste kant te keren. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
 
-Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
+Zodra je alles naar de juiste kant gekeerd hebt controleer je of alle hoeken en kantjes volledig naar buiten gedrukt zijn en strijk je alles grondig plat.
 
-#### Step 5: Closing
+#### Stap 5: Sluiten
 
 ![Closing the bow tie](step15.png)
 
-Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Nu moeten we enkel nog de kleine opening waar we de vlinderdas door gekeerd hebben sluiten. Je kan dit met de hand doen en een blinde steek gebruiken. Je kan ook de kraagband net aan de rand doorstikken met de naaimachine. Aangezien de band normaal onder de kraag van je hemd zit zal dit niet zo opvallend zijn.
 
-Now give it one last press and admire your work.
+Strijk nu alles nog eens grondig en bewonder je werk.
 
 ### Met aanpaslintje
 
-#### Step 2: Attaching the ribbon
+#### Stap 2: Lintje bevestigen
 
 ![Sew the ribbon to part 1](step22.png)
 
-The first thing to do is to sew the adjustment ribbon to the shortest of the bow parts. The ribbon should be 290mm long. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+De eerste stap is het lintje aan het kortste strikdeel vastnaaien. Het lintje zou 290 mm lang moeten zijn. Als die niet zo is moet je opletten dat het lintje en het korte strikdeel samen even lang zijn als het lange strikdeel.
 
-Put right sides of the short bow piece and the ribbon together.
+Leg het korte strikdeel en het lintje met de goede kanten op elkaar.
 
-Now sew across the end to join the parts.
+Stik langs het uiteinde om de twee delen te verbinden.
 
-#### Step 3: Join both sides
+#### Stap 3: Bevestig twee kanten
 
 ![Sew both sides together](step23.png)
 
-Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Leg beide delen van de medium strik op elkaar, met de goede kanten tegen elkaar. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
 
 Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
 
-#### Step 4: Turning
+#### Stap 4: Keren
 
 ![Clip seam allowance](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
 
 Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
 
