@@ -3,17 +3,17 @@ title: Making Wahid
 path: /en/docs/patterns/wahid
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Wahid, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - One meter of a suitable fabric ([see Fabric options](#fabric-options))
 - One meter of lining fabric
 - Fusable interfacing
 - Buttons
 
-## Fabric options
+## Stofkeuze
 
 All suiting fabrics are a great choice for your waistcoats. Any fabric shop that's worth your business should have a suiting section. You can just walk in, ask where you can find the fabric for suits, and pick out something you like.
 
@@ -21,7 +21,7 @@ These fabrics are typically wool, but you can also be a bit more creative and go
 
 > You do need a bit of weight though. Denim is fine, some light cotton is not.
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
  - Cut **2 front(s)** with good sides together
@@ -37,7 +37,7 @@ These fabrics are typically wool, but you can also be a bit more creative and go
  - Cut **2 front(s)** with good sides together
  - Cut **2 pocket interfacing(s)**
 
-### Caveats
+### Opmerkingen
 
 - Do not cut out the **front** dart
 - Do not cut out the **back** dart
