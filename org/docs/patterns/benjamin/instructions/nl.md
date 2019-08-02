@@ -74,7 +74,7 @@ Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je
  - Knip **4 tussenvoering knoop**
  - Knip **2 tussenvoering kraagband** 
 
-![A typical Benjamin draft without adjustment ribbon](layout1.svg)
+![Een standaard Benjamin zonder aanpaslintje](layout1.svg)
 
 **Met aanpaslintje**
 
@@ -87,7 +87,7 @@ Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je
  - Knip **1 tussenvoering knoop 2**
  - Knip **2 tussenvoering knoop 3**
 
-![A typical Benjamin draft with adjustment ribbon](layout2.svg)
+![Een standaard Benjamin met aanpaslintje](layout2.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -103,7 +103,7 @@ Bevestig je tussenvoering aan alle delen waar je het nodig acht.
 
 Leg de kraagband op de knoop, met de goede kanten op elkaar. Leg de uiteindes van beide delen gelijk. Stik langs het uiteinde om de twee delen te verbinden.
 
-![Sew the collar band to the knot](step12.png)
+![Stik de kraagband aan de knoop](step12.png)
 
 Doe dit voor beide kraagbanden.
 
@@ -113,13 +113,13 @@ Je hebt nu twee identieke helften van een vlinderdas.
 
 #### Stap 3: Bevestig twee kanten
 
-![Sew both sides together](step13.png)
+![Stik beide kanten aan elkaar](step13.png)
 
 Leg de beide helften die je gemaakt hebt op elkaar, met de goede kanten samen. Naai rondom, maar laat een stukje van 5 cm open in het midden van de kraagband. Door deze opening gaan we de vlinderdas naar de goede kant keren.
 
 #### Stap 4: Keren
 
-![Clip seam allowance](step14.png)
+![Geef knipjes in de naadwaarde](step14.png)
 
 Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
@@ -129,7 +129,7 @@ Zodra je alles naar de juiste kant gekeerd hebt controleer je of alle hoeken en 
 
 #### Stap 5: Sluiten
 
-![Closing the bow tie](step15.png)
+![Sluit de vlinderdas](step15.png)
 
 Nu moeten we enkel nog de kleine opening waar we de vlinderdas door gekeerd hebben sluiten. Je kan dit met de hand doen en een blinde steek gebruiken. Je kan ook de kraagband net aan de rand doorstikken met de naaimachine. Aangezien de band normaal onder de kraag van je hemd zit zal dit niet zo opvallend zijn.
 
@@ -139,7 +139,7 @@ Strijk nu alles nog eens grondig en bewonder je werk.
 
 #### Stap 2: Lintje bevestigen
 
-![Sew the ribbon to part 1](step22.png)
+![Stik het lintje aan deel 1](step22.png)
 
 De eerste stap is het lintje aan het kortste strikdeel vastnaaien. Het lintje zou 290 mm lang moeten zijn. Als die niet zo is moet je opletten dat het lintje en het korte strikdeel samen even lang zijn als het lange strikdeel.
 
@@ -149,38 +149,38 @@ Stik langs het uiteinde om de twee delen te verbinden.
 
 #### Stap 3: Bevestig twee kanten
 
-![Sew both sides together](step23.png)
+![Stik beide kanten aan elkaar](step23.png)
 
-Leg beide delen van de medium strik op elkaar, met de goede kanten tegen elkaar. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Leg beide delen van de medium strik op elkaar, met de goede kanten tegen elkaar. Leg het lange strikdeel bovenop het lintje en het korte strikdeel, ook met de goede kanten op elkaar.
 
-Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
+Naai rondom, maar laat de korte uiteindes open. Door deze openingen zullen we de delen van de vlinderdas keren.
 
 #### Stap 4: Keren
 
-![Clip seam allowance](step14.png)
+![Geef knipjes in de naadwaarde](step14.png)
 
 Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
+Gebruik dan de achterkant van een grote haaknaald, of een ander lang en smal object, om de alles door de opening naar de juiste kant te keren. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
 
-Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
+Zodra je alles naar de juiste kant gekeerd hebt controleer je of alle hoeken en kantjes volledig naar buiten gedrukt zijn en strijk je alles grondig plat.
 
-Do this with both parts.
+Doe dit met beide delen.
 
-#### Step 5: Add hardware
+#### Stap 5: Voeg hardware toe
 
-Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
+Nu is het tijd voor de twee stukjes hardware die de vlinderdas aanpasbaar maken. Het ovaalvormige stuk wordt bevestigd aan het deel zonder aanpaslintje. En het stuk met het t-vormige aanhangsel komt aan het deel met het lintje.
 
-First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+Begin met het deel zonder lintje. Dit is omdat het stuk stof van het deel met lintje door het ovaalvormige stuk moet voor je de hardware bevestigt. Als je het in de andere volgorde doet krijg je het er misschien niet door.
 
-To finish the ends, we're going to fold the fabric in three steps:
+Om de eindjes af te werken gaan we de stof in drie stappen plooien:
 
-![Three steps to fold, one step to sew](step25.png)
+![Drie stappen te plooien, één stap te naaien](step25.png)
 
-First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Eerst plooien we de zijkanten schuin naar binnen. Dan plooien we het uiteinde om met maar een kleine naadwaarde, ongeveer 5 mm. Dan plooien we dit nog een keer om, ongeveer 1 cm. Als laatste schuiven we het ovalen stuk onder deze laatste vouw en stikken we langs het randje.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Rijg nu het lintje door de ovaal en werk op dezelfde manier af.
 
-Hook the T in one of the adjustment holes and your bow tie is done!
+Haak het t-vormige stuk in één van de aanpasgaatjes en je vlinderdas is af!
 
-![Good job!](finished.gif)
+![Mooi werk!](finished.gif)
