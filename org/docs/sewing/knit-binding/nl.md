@@ -3,17 +3,17 @@ title: Jersey biezen
 path: /en/docs/sewing/knit-binding
 ---
 
-## What is knit binding anyway?
+## Wat is een jersey bies zelfs?
 
-Knit binding is a general term for a type of finish (typically) found on the neck or arm opening of Tshirts and other knitwear.
+Een jersey bies is een algemene term voor een afwerking die (vaak) aan de hals- of armopening van t-shirts of andere jersey kledingstukken gebruikt wordt.
 
-There's two varieties of this finish, a knit band, and actual knit binding.
+Er zijn twee varianten van deze afwerking, een jersey boord, en een echte jersey bies.
 
-## Knit band
+## Jersey boord
 
 ![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
 
-Knit band is what you typically find at the neck opening of your Tshirt. It's a strip of fabric that is folded double and attached to the edge of the garment.
+Jersey boord is wat je gewoonlijk vindt aan de halsopening van je t-shirt. It's a strip of fabric that is folded double and attached to the edge of the garment.
 
 This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
 
