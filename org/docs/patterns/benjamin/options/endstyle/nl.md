@@ -1,10 +1,10 @@
 ---
-title: End style
+title: Puntvorm
 pattern: benjamin
-option: endStyle
+option: puntVorm
 ---
 
-Three different tip shapes
+Drie verschillende puntjes
 
 In addition to having four different bow tie styles, each style can be individualized with three different tip options:
 
