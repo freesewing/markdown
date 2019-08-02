@@ -2,11 +2,11 @@
 title: Making Benjamin
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Benjamin, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over pieces of a recent project could work too.
 - About the same amount of interfacing
 - Optionally: Bow tie adjustment ribbon and hardware
@@ -61,7 +61,7 @@ These ribbons can be found in the better haberdasheries or can be ordered online
 
 Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
 
-## Cutting
+## Knippen
 
 Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
 
