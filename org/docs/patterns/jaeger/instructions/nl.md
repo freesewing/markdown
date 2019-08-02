@@ -9,7 +9,7 @@ path: /en/docs/patterns/jaeger
 
 ## Before you start
 
-### What you need
+### Wat je nodig hebt
 
 > ##### Where to get all this stuff
 > 
@@ -38,7 +38,7 @@ To make Jaeger, you will need the following:
 - Sleevehead wadding, with canvas if possible
 - Undercollar fabric
 
-### Fabric options
+### Stofkeuze
 
 Sportscoats are typically made from a heavier wool, often with some texture or pattern in the weave. In general, they are made in *busier* fabrics.
 
@@ -46,7 +46,7 @@ Style purists will argue that sportscoats should never be made out of suiting fa
 
 However, making Jaeger is going to take some time. Do yourself a favour and get something nice for the final project. (because you will be making a muslin, right?)
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
  - Cut **2 fronts** (part 1)
