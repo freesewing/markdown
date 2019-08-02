@@ -3,7 +3,7 @@ title: Making Simon
 path: /en/docs/patterns/simon
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Simon, you will need the following:
 
@@ -11,7 +11,7 @@ To make Simon, you will need the following:
 - Buttons
 - Fusible interfacing for collar and cuffs (and possibly for the front placket)
 
-## Fabric options
+## Stofkeuze
 
 Any fabric shop that is worth your business should have a shirting section. You can just walk in, ask where you can find the shirting, and pick out something you like.
 
@@ -83,7 +83,7 @@ When shopping online, it can be harder to get a good idea of what you're looking
 > 
 > You can expect two ply to last longer, and be more expensive.
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
  - Cut **1 front left**
@@ -109,7 +109,7 @@ When shopping online, it can be harder to get a good idea of what you're looking
 > 
 > When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one.
 
-### Caveats
+### Opmerkingen
 
 - The **front right**, **front left**, and **sleeve** have seams that should be made into flat-felled seams. As such, they have extra seam allowance on those seams. When cutting out these pieces, you **must** include this extra seam allowance.
 - The cuff guard and cuff placket have no seam allowance. That is normal, just cut them out as they are drawn on the pattern.
