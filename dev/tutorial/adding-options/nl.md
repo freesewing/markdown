@@ -31,17 +31,17 @@ Open het config-bestand in `config/index.js` en voeg dit toe bij de opties:
 De betekenis hiervan kan je wel raden:
 
 - We hebben type-percentage als optie toegevoegd
-- Its minimum value is 70%
-- Its maximum value is 90%
-- Its default value is 80%
+- De minimumwaarde is 70 %
+- De maximumwaarde is 90 %
+- De standaardwaarde is 80 %
 
 <note>
 
-There are different types of options, but percentages are the most common ones. They are all documentation [in the API docs](/api/config#options).
+Er zijn verschillende types van opties, maar percentages zijn de meest voorkomende. Ze zijn allemaal gedocumenteerd [in de API-documenten](/api/config#options).
 
 </Note>
 
-Let's do something similar for the width and length of our bib:
+Laten we iets vergelijkbaars doen voor de breedte en lengte van het slabbetje:
 
 ```js
 options: {
@@ -51,17 +51,17 @@ options: {
 }
 ```
 
-- You've added `widthRatio` and `lengthRatio` options
-- You've given all options sensible defauls 
-- You've given all options sensible maximum and minimum boundaries
+- Je hebt nu de opties `widthRatio` en `lengthRatio` toegevoegd
+- Je hebt voor alle opties realistische standaardwaardes ingesteld 
+- Je hebt voor alle opties realistische maximum- en minimumgrenzen ingesteld
 
 <note>
 
-Later, you'll test-drive your pattern to see how it behaves when you adapt the options between their minimum and maximum values. At that time, you can still tweak these values.
+Op een later moment ga je het patroon testen om te zien hoe het zich gedraagt wanneer je de opties aanpast tussen de minimum- en maximumwaardes. Op dat moment kan je de waarden nog altijd aanpassen.
 
 </Note>
 
-Before you close the `config/index.js` file, make sure to update the `optionGroups` entry as follows:
+Let erop voordat je het `config/index.js`-bestand sluit, dat je de `optionGroups`-entry als volgt updatet:
 
 ```js
 optionGroups: {
@@ -71,8 +71,8 @@ optionGroups: {
 
 <note>
 
-The `optionGroups` entry does not do anything for your pattern as such. Instead it signals to the frontend that this is how options should be grouped together and presented to the user.
+De `optionGroups`-entry heeft op zich geen enkele invloed op je patroon. Het geeft enkel aan de frontend aan dat opties op deze manier bij elkaar moeten worden gezet en aan de gebruiker worden getoond.
 
 </Note>
 
-Because you have removed the `box` option, the pattern no longer draws a box. So let's start drawing your bib instead.
+Omdat je de `box`-optie hebt verwijderd, tekent het patroon nu geen kader meer. Laten we dus beginnen met je slabbetje te tekenen.
