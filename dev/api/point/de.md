@@ -37,7 +37,7 @@ If the third parameter is set to `true` it will call `this.attributes.set()` ins
 
 ### Points.attr() example
 
-<example part="point_attr" caption="An example of the Point.attr() method" />
+<Example part="point_attr" caption="An example of the Point.attr() method" />
 
 ```js
 let { Point, points } = part.shorthand();
@@ -57,7 +57,7 @@ Returns de delta along the X-axis between this point and the point you pass it.
 
 ### Points.dx() example
 
-<example part="point_dx" caption="An example of the Point.dx() method" />
+<Example part="point_dx" caption="An example of the Point.dx() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
@@ -82,7 +82,7 @@ Returns de delta along the Y-axis between this point and the point you pass it.
 
 ### Points.dy() example
 
-<example part="point_dy" caption="An example of the Point.dy() method" />
+<Example part="point_dy" caption="An example of the Point.dy() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
@@ -107,7 +107,7 @@ Returns the distance between this point and the point you pass it.
 
 ### Points.dist() example
 
-<example part="point_dist" caption="An example of the Point.dist() method" />
+<Example part="point_dist" caption="An example of the Point.dist() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
@@ -131,7 +131,7 @@ Returns the angle made by a line from this point to the point you pass it.
 
 ### Points.angle() example
 
-<example part="point_angle" caption="An example of the Point.angle() method" />
+<Example part="point_angle" caption="An example of the Point.angle() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -159,7 +159,7 @@ Rotates a point the number of degrees you pass it around the point you pass it.
 
 ### Point.rotate() example
 
-<example part="point_rotate" caption="An example of the Point.rotate() method" />
+<Example part="point_rotate" caption="An example of the Point.rotate() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -186,7 +186,7 @@ If you don't pass it a point, it will mirror around an X-value of zero.
 
 ### Point.flipX() example
 
-<example part="point_flipx" caption="An example of the Point.flipX() method" />
+<Example part="point_flipx" caption="An example of the Point.flipX() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -247,7 +247,7 @@ If you don't pass it a point, it will mirror around a Y-value of zero.
 
 ### Point.flipX() example
 
-<example part="point_flipy" caption="An example of the Point.flipY() method" />
+<Example part="point_flipy" caption="An example of the Point.flipY() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -311,7 +311,7 @@ Returns a point that lies distance in the direction of degrees from this point.
 
 ### Point.shift() example
 
-<example part="point_shift" caption="An example of the Point.shift() method" />
+<Example part="point_shift" caption="An example of the Point.shift() method" />
 
 ```js
 let { Point, points, macro } = part.shorthand();
@@ -340,7 +340,7 @@ Returns a point that lies distance in the direction of target.
 
 ### Point.shiftTowards() example
 
-<example part="point_shifttowards" caption="An example of the Point.shiftTowards() method" />
+<Example part="point_shifttowards" caption="An example of the Point.shiftTowards() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -377,7 +377,7 @@ Returns a point that is shifted towards the target by a fraction of the distance
 
 ### Point.shiftFractionTowards() example
 
-<example part="point_shiftfractiontowards" caption="An example of the Point.shiftFractionTowards() method" />
+<Example part="point_shiftfractiontowards" caption="An example of the Point.shiftFractionTowards() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -420,7 +420,7 @@ Returns a point that is shifted distance beyond target in the direction of targe
 
 ### Point.shiftOutwards() example
 
-<example part="point_shiftoutwards" caption="An example of the Point.shiftOutwards() method" />
+<Example part="point_shiftoutwards" caption="An example of the Point.shiftOutwards() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -458,7 +458,7 @@ In other words, this will:
 
 ### Point.translate() example
 
-<example part="point_translate" caption="An example of the Point.translate() method" />
+<Example part="point_translate" caption="An example of the Point.translate() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
@@ -494,7 +494,7 @@ Returns true is the point has the same coordinates as the one you pass to it.
 
 ### Point.sitsOn() example
 
-<example part="point_sitson" caption="An example of the Point.sitsOn() method" />
+<Example part="point_sitson" caption="An example of the Point.sitsOn() method" />
 
 ```js
 let { Point, points, Snippet, snippets } = part.shorthand();
@@ -528,7 +528,7 @@ The difference between this method and [Point.sitsOn](#pointsitson) is that this
 
 ### Points.sitsRoughlyOn() example
 
-<example part="point_sitsroughlyon" caption="An example of the Point.sitsRoughlyOn() method" />
+<Example part="point_sitsroughlyon" caption="An example of the Point.sitsRoughlyOn() method" />
 
 ```js
 let { Point, points, Snippet, snippets } = part.shorthand();
@@ -556,7 +556,7 @@ Returns a new point with the same coordinates as this point.
 
 ### Points.copy() example
 
-<example part="point_copy" caption="An example of the Point.copy() method" />
+<Example part="point_copy" caption="An example of the Point.copy() method" />
 
 ```js
 let { Point, points, Snippet, snippets } = part.shorthand();
@@ -586,7 +586,7 @@ The `Point.copy()` method will only copy the point's coordinates, whereas this `
 
 ### Point.clone() example
 
-<example part="point_clone" caption="An example of the Point.clone() method" />
+<Example part="point_clone" caption="An example of the Point.clone() method" />
 
 ```js
   let { Point, points, Snippet, snippets } = part.shorthand();

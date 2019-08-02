@@ -146,6 +146,6 @@ macro("scalebox", { at: points.scalebox });
 
 And with that, our pattern is now *complete*:
 
-<example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
+<Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
 We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.

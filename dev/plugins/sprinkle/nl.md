@@ -6,7 +6,7 @@ title: sprinkle
 
 The **sprinkle** plugin provides the `sprinkle` macro:
 
-<example part="plugin_sprinkle" caption="An example of the sprinkle macro" design={false} />
+<Example part="plugin_sprinkle" caption="An example of the sprinkle macro" design={false} />
 
 ```js
 let { Point, points, macro } = part.shorthand();

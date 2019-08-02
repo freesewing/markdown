@@ -1,6 +1,6 @@
-* * *
-
-## title: Settings
+---
+title: Settings
+---
 
 <Note>
 
@@ -211,7 +211,7 @@ Allows you to control the way pattern parts are laid out on the pattern. There a
 
 This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible.
 
-<Note>FIXME: Insert example</note>
+<Note>FIXME: Insert example</Note>
 
 ### layout is false
 
@@ -219,7 +219,7 @@ This will cause all parts to be laid out on top of each other.
 
 It is almost certainly not what you want, but having all parts piled on top of each other in the top left corner can be a good starting point for a custom layout.
 
-<Note>FIXME: Insert example</note>
+<Note>FIXME: Insert example</Note>
 
 ### layout is a layout object
 

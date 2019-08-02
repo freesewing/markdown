@@ -6,7 +6,7 @@ title: round
 
 The **round** plugin provides the `round` macro:
 
-<example part="plugin_round" caption="An example of the round macro" design={false} />
+<Example part="plugin_round" caption="An example of the round macro" design={false} />
 
 ```js
 points.topLeft = new Point(0, 0);

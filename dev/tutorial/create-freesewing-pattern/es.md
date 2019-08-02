@@ -50,9 +50,9 @@ yarn start
 
 Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
 
-<pre><code class="bash:">cd tutorial/example
+```bash
 npm run start
-</code></pre>
+```
 
 Or if you chose to use Yarn as package manager:
 

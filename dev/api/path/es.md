@@ -35,7 +35,7 @@ If the third parameter is set to `true` it will call `this.attributes.set()` ins
 
 ### Path.attr() example
 
-<example part="path_attr" caption="Example of the Path.attr() method" />
+<Example part="path_attr" caption="Example of the Path.attr() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -63,7 +63,7 @@ Closes a path by drawing a straight line from the current position to the path's
 
 ### Path.close() example
 
-<example part="path_close" caption="Example of the Path.close() method" />
+<Example part="path_close" caption="Example of the Path.close() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -91,7 +91,7 @@ Returns a new Path that is a deep copy of this path.
 
 ### Path.clone() example
 
-<example part="path_clone" caption="Example of the Path.clone() method" />
+<Example part="path_clone" caption="Example of the Path.clone() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -123,7 +123,7 @@ Draws a cubic Bezier curve from the current position via two control points to a
 
 ### Path.curve() example
 
-<example part="path_curve" caption="Example of the Path.curve() method" />
+<Example part="path_curve" caption="Example of the Path.curve() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -165,7 +165,7 @@ So the only purpose of this method is to save your some typing.
 
 ### Path.\_curve() example
 
-<example part="path__curve" caption="Example of the Path._curve() method" />
+<Example part="path__curve" caption="Example of the Path._curve() method" />
 
 ```js
   let { Point, points, Path, paths } = part.shorthand();
@@ -206,7 +206,7 @@ So the only purpose of this method is to save your some typing;
 
 ### Path.curve\_() example
 
-<example part="path_curve_" caption="Example of the Path.curve_() method" />
+<Example part="path_curve_" caption="Example of the Path.curve_() method" />
 
 ```js
   let { Point, points, Path, paths } = part.shorthand();
@@ -232,7 +232,7 @@ Breaks a path apart in an array of atomic paths. An atomic path is a path that c
 
 ### Path.divide() example
 
-<example part="path_divide" caption="Example of the Path.divide() method" />
+<Example part="path_divide" caption="Example of the Path.divide() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -281,7 +281,7 @@ Returns the Point object at the edge of the path you specify. Edge must be one o
 
 ### Path.edge() example
 
-<example part="path_edge" caption="Example of the Path.edge() method" />
+<Example part="path_edge" caption="Example of the Path.edge() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -323,7 +323,7 @@ Returns the Point object at the end of the path.
 
 ### Path.end() example
 
-<example part="path_end" caption="Example of the Path.end() method" />
+<Example part="path_end" caption="Example of the Path.end() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -361,7 +361,7 @@ If you do know, use one of the intersection methods in [Utils](/api/utils).
 
 ### Path.intersects() example
 
-<example part="path_intersects" caption="Example of the Path.intersects() method" />
+<Example part="path_intersects" caption="Example of the Path.intersects() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -408,7 +408,7 @@ Returns the Point object(s) where the path intersects with a given X-value.
 
 ### Path.intersectsX() example
 
-<example part="path_intersectsx" caption="Example of the Path.intersectsX() method" />
+<Example part="path_intersectsx" caption="Example of the Path.intersectsX() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -450,7 +450,7 @@ Returns the Point object(s) where the path intersects with a given Y-value.
 
 ### Path.intersectsY() example
 
-<example part="path_intersectsy" caption="Example of the Path.intersectsY() method" />
+<Example part="path_intersectsy" caption="Example of the Path.intersectsY() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -498,7 +498,7 @@ You cannot join a closed path to another path
 
 ### Path.join() example
 
-<example part="path_join" caption="Example of the Path.join() method" />
+<Example part="path_join" caption="Example of the Path.join() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -535,7 +535,7 @@ Returns the length of the path.
 
 ### Path.length() example
 
-<example part="path_length" caption="Example of the Path.length() method" />
+<Example part="path_length" caption="Example of the Path.length() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -577,7 +577,7 @@ Draws a straight line from the current position to a given point.
 
 ### Path.line() example
 
-<example part="path_line" caption="Example of the Path.line() method" />
+<Example part="path_line" caption="Example of the Path.line() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -620,7 +620,7 @@ paths.example = new Path()
 
 ### Path.move() example
 
-<example part="path_move" caption="Example of the Path.move() method" />
+<Example part="path_move" caption="Example of the Path.move() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -642,7 +642,7 @@ Returns a new Path that is offset by distance from the original path.
 
 ### Path.offset() example
 
-<example part="path_offset" caption="Example of the Path.offset() method" />
+<Example part="path_offset" caption="Example of the Path.offset() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -695,7 +695,7 @@ If you want a deep copy, including the attributes, use `Path.clone().reverse()`.
 
 ### Path.reverse() example
 
-<example part="path_reverse" caption="Example of the Path.reverse() method" />
+<Example part="path_reverse" caption="Example of the Path.reverse() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
@@ -735,7 +735,7 @@ Returns a point that lies at distance travelled along the path.
 
 ### Path.shiftAlong() example
 
-<example part="path_shiftalong" caption="Example of the Path.shiftAlong() method" />
+<Example part="path_shiftalong" caption="Example of the Path.shiftAlong() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -776,7 +776,7 @@ Returns a point that lies at fraction of the length of the path travelled along 
 
 ### Path.shiftFractionAlong() example
 
-<example part="path_shiftfractionalong" caption="Example of the Path.shiftFractionAlong() method" />
+<Example part="path_shiftfractionalong" caption="Example of the Path.shiftFractionAlong() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -817,7 +817,7 @@ Returns the Point object at the start of the path.
 
 ### Path.start() example
 
-<example part="path_start" caption="Example of the Path.start() method" />
+<Example part="path_start" caption="Example of the Path.start() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -846,7 +846,7 @@ Splits a path in two halves, on a point along that path that you pass it.
 
 ### Path.split() example
 
-<example part="path_split" caption="Example of the Path.split() method" />
+<Example part="path_split" caption="Example of the Path.split() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
@@ -887,7 +887,7 @@ Returns a path with [a translate transform](https://developer.mozilla.org/en-US/
 
 ### Path.translate() example
 
-<example part="path_translate" caption="Example of the Path.translate() method" />
+<Example part="path_translate" caption="Example of the Path.translate() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -947,7 +947,7 @@ You can see an example of this [in the front part of the Bruce pattern](https://
 
 ### Path.trim() example
 
-<example part="path_trim" caption="Example of the Path.trim() method" />
+<Example part="path_trim" caption="Example of the Path.trim() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();

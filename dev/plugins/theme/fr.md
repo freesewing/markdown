@@ -6,7 +6,7 @@ title: theme
 
 The **theme** plugin provides CSS styling for SVG output:
 
-<example pattern="rendertest" part="test" caption="An example of the styles provided by this plugin" design={false} />
+<Example pattern="rendertest" part="test" caption="An example of the styles provided by this plugin" design={false} />
 
 It uses the [`preRender`](/plugins#prerender) hook to do so.
 

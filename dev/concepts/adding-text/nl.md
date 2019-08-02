@@ -15,7 +15,7 @@ points.anchor = new Point(100, 25)
   .attr("data-text-class", "center");
 ```
 
-<example part="point_attr" caption="Text inserted in a FreeSewing pattern" />
+<Example part="point_attr" caption="Text inserted in a FreeSewing pattern" />
 
 <Note>
 
@@ -39,4 +39,4 @@ paths.example = new Path()
   .attr("data-text-class", "text-xs center");
 ```
 
-<example part="path_attr" caption="Text on a path" />
+<Example part="path_attr" caption="Text on a path" />

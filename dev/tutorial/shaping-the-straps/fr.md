@@ -40,4 +40,4 @@ paths.rect = new Path()
 
 Tout à coup, les choses commencent à prendre la forme d'un bavoir :
 
-<example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />

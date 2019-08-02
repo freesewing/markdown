@@ -85,7 +85,7 @@ paths.seam = new Path()
 
 Avec ceci, notre bavoir ressemble à présent à cela :
 
-<example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
+<Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
 <Note>
 

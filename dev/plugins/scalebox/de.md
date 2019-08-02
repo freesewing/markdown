@@ -6,7 +6,7 @@ title: scalebox
 
 The **scalebox** plugin provides the `scalebox` macro:
 
-<example part="plugin_scalebox" caption="An example of the scalebox" design={false} />
+<Example part="plugin_scalebox" caption="An example of the scalebox" design={false} />
 
 ```js
 let { Point, points, macro } = part.shorthand();

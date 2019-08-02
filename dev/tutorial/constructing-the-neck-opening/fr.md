@@ -89,7 +89,7 @@ A partir de là, nous avons dessiné une courbe de Bézier vers notre point `bot
 
 Lorsque tout est dit et fait, nous avons maintenant un quart de notre encolure :
 
-<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
 Le seul problème étant que nous n'avons aucune garantie que cette ouverture soit de taille correcte.
 

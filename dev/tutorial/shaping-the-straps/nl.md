@@ -40,4 +40,4 @@ paths.rect = new Path()
 
 All of a sudden, things are starting to look like a bib:
 
-<example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />

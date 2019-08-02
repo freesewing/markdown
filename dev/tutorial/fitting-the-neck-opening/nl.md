@@ -41,6 +41,6 @@ If the delta is negative, our path is too short and we increase the tweak factor
 
 We keep on doing this until `Math.abs(delta)` is less than 1. Meaning that we are withing 1mm or our target value.
 
-<example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
+<Example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
 
 Now that we're happy with the length of our quarter neck opening, let's construct the entire neck opening.

@@ -146,6 +146,6 @@ macro("scalebox", { at: points.scalebox });
 
 Et avec ça, notre patron est maintenant *complet* :
 
-<example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
+<Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
 Nous n'avons pas tout à fait terminé cependant. Il y a une chose supplémentaire que l'utilisateur peut demander : un patron *sans papier*.

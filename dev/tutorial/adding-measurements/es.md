@@ -37,4 +37,4 @@ Since it's just one measurements, let's simply enter a value by hand. For exampl
 
 Enter `38` in the box, and click on **Draft your pattern** in the top navigation bar to get back to your draft which for now still looks like this:
 
-<example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
+<Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />

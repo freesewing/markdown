@@ -39,3 +39,10 @@ sed -i 's/example>/Example>/' **/**/**/**/**/*.md
 sed -i 's/example>/Example>/' **/**/**/**/**/**/*.md
 sed -i 's/example>/Example>/' **/**/**/**/**/**/***.md
 
+sed -i 's/<example/<Example/' **/*.md
+sed -i 's/<example/<Example/' **/**/*.md
+sed -i 's/<example/<Example/' **/**/**/*.md
+sed -i 's/<example/<Example/' **/**/**/**/*.md
+sed -i 's/<example/<Example/' **/**/**/**/**/*.md
+sed -i 's/<example/<Example/' **/**/**/**/**/**/*.md
+sed -i 's/<example/<Example/' **/**/**/**/**/**/***.md

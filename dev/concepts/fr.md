@@ -5,7 +5,7 @@ order: 200
 
 This illustration is a good starting point to gain a better understanding of the main FreeSewing building blocks:
 
-<example part="docs_overview" caption="A schematic overview of FreeSewing" />
+<Example part="docs_overview" caption="A schematic overview of FreeSewing" />
 
 As you learn more about FreeSewing, you'll discover that there's more to this picture than meets the eye. So let's get started.
 
@@ -17,7 +17,7 @@ There's no shortage of resources that delve into frontend development and JavaSc
 
 If we look at our image, it can can divided into three areas:
 
-<example part="docs_overview" caption="Your focus today is on the middle part" options={{focus: "Pattern"}} />
+<Example part="docs_overview" caption="Your focus today is on the middle part" options={{focus: "Pattern"}} />
 
 - The left area with the *settings* box
 - The middle area with the *Pattern* box and everything in it
@@ -35,7 +35,7 @@ That part is outside the scope of this text. But if you'd like to learn more abo
 
 ## Points
 
-<example part="docs_overview" caption="Points store coordinates" options={{focus: "Points"}} />
+<Example part="docs_overview" caption="Points store coordinates" options={{focus: "Points"}} />
 
 Developing a pattern with FreeSewing is similar to doing it on paper. But instead of using a pencil and paper, you'll be writing code.
 
@@ -67,7 +67,7 @@ See also:
 
 ## Paths
 
-<example part="docs_overview" caption="Paths are the lines and curves of your pattern" options={{focus: "Paths"}} />
+<Example part="docs_overview" caption="Paths are the lines and curves of your pattern" options={{focus: "Paths"}} />
 
 Paths are the lines and curves that make up your pattern.
 
@@ -101,7 +101,7 @@ See also:
 
 ## Snippets
 
-<example part="docs_overview" caption="Snippets are little embelishments that go on your pattern" options={{focus: "Snippets"}} />
+<Example part="docs_overview" caption="Snippets are little embelishments that go on your pattern" options={{focus: "Snippets"}} />
 
 Snippets are little embellishments you can use and re-use on your pattern. They are typically used for things like logos or buttons.
 
@@ -112,7 +112,7 @@ Each snippet must have:
 
 Since our example image does not have any snippets in it, here's another example of a `button`, `buttonhole`, and `logo` snippet added to a FreeSewing pattern:
 
-<example part="snippet" caption="An example of the use of snippets" />
+<Example part="snippet" caption="An example of the use of snippets" />
 
 See also:
 
@@ -121,7 +121,7 @@ See also:
 
 ## Parts
 
-<example part="docs_overview" caption="Parts divide your pattern into re-usable components" options={{focus: "Part"}} />
+<Example part="docs_overview" caption="Parts divide your pattern into re-usable components" options={{focus: "Part"}} />
 
 Parts are a container for the points, paths, and snippets of (a part of) your pattern. They are also re-usable by other patterns, which makes them a powerful tool to build a pattern library.
 
@@ -135,7 +135,7 @@ See also:
 
 ## Config
 
-<example part="docs_overview" caption="The pattern configuration holds important information about the pattern" options={{focus: "config"}} />
+<Example part="docs_overview" caption="The pattern configuration holds important information about the pattern" options={{focus: "config"}} />
 
 A pattern's [configuration](/config) is created by the pattern designer and details a number of important things about the pattern, like:
 
@@ -149,7 +149,7 @@ See also:
 
 ## Store
 
-<example part="docs_overview" caption="The store provides pattern-wide key/value storage" options={{focus: "store"}} />
+<Example part="docs_overview" caption="The store provides pattern-wide key/value storage" options={{focus: "store"}} />
 
 The store provides key-value storage that is shared across your pattern.
 
@@ -161,7 +161,7 @@ See also:
 
 ## Pattern
 
-<example part="docs_overview" caption="The pattern you create will be a constructor for instances of your pattern" options={{focus: "pattern"}} />
+<Example part="docs_overview" caption="The pattern you create will be a constructor for instances of your pattern" options={{focus: "pattern"}} />
 
 Last but not least, we've arrived at the level of the pattern itself. The pattern is a container that holds all your parts, along with the configuration and the store.
 

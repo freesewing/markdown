@@ -60,4 +60,4 @@ and keep the rest of the path as it was.
 
 The shape our bib is now completed:
 
-<example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
+<Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
