@@ -1,12 +1,12 @@
 ---
-title: Rise
+title: Hoogte
 path: /en/docs/patterns/bruce/options/rise
 pattern: bruce
 option: rise
 ---
 
-![The rise option on Bruce](./rise.svg)
+![De optie voor hoogte bij Bruce](./rise.svg)
 
-This option controls the overal height of the waist.
+Deze optie bepaalt de algemene hoogte van de taille.
 
-> The higher the rise, the higher your waist.
+> Hoe hoger de hoogte, hoe hoger je taille.
