@@ -518,7 +518,7 @@ bool point.sitsRoughlyOn(Point check)
 
 Returns true is the point has roughly the same coordinates as the one you pass to it.
 
-<note>
+<Note>
 
 ###### How rough?
 
@@ -576,7 +576,7 @@ snippets.x = new Snippet("notch", points.A);
 
 Returns a new point with the same coordinates and attributes as this point.
 
-<note>
+<Note>
 
 ###### Copy vs clone
 

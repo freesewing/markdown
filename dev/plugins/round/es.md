@@ -40,7 +40,7 @@ macro("round", {
 });
 ```
 
-<tip>
+<Tip>
 
 The round plugin is part of our [plugin-bundle](/plugins/bundle)
 
@@ -90,7 +90,7 @@ The macro takes a single configuration object with the following properties:
 | `class`  |         | String              | Class(es) to assign to the path created by this macro          |
 
 
-<warning>
+<Warning>
 
 The round macro intended for rounding 90° angles
 

@@ -2,7 +2,7 @@
 
 ## title: Settings
 
-<note>
+<Note>
 
 Settings are what the user passes to your pattern at run-time.
 
@@ -25,7 +25,7 @@ let pattern = new Brian({
 })
 ```
 
-<tip>
+<Tip>
 
 ###### Try our models while developing
 
@@ -39,7 +39,7 @@ We publish the [@freesewing/models](/packages/models) package exactly for this p
 
 The pattern options as specified in the pattern configuration.
 
-<note>
+<Note>
 
 Unlike measurements, options come with defaults.
 
@@ -157,7 +157,7 @@ let pattern = new Brian({
 })
 ```
 
-<note>
+<Note>
 
 ###### For paperless, the minimal margin is 10mm
 
@@ -181,7 +181,7 @@ let pattern = new Brian({
 })
 ```
 
-<warning>
+<Warning>
 
 Do **not** use this for SVGs you want to print.
 
@@ -211,7 +211,7 @@ Allows you to control the way pattern parts are laid out on the pattern. There a
 
 This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible.
 
-<note>FIXME: Insert example</note>
+<Note>FIXME: Insert example</note>
 
 ### layout is false
 
@@ -219,7 +219,7 @@ This will cause all parts to be laid out on top of each other.
 
 It is almost certainly not what you want, but having all parts piled on top of each other in the top left corner can be a good starting point for a custom layout.
 
-<note>FIXME: Insert example</note>
+<Note>FIXME: Insert example</note>
 
 ### layout is a layout object
 

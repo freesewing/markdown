@@ -148,7 +148,7 @@ Path path._curve(Point cp2, Point to)
 
 Draws a cubic Bezier curve from the current position via two control points to a given endpoint. However, the start control point is identical to the start point.
 
-<tip>
+<Tip>
 
 ###### This method exists to save you some typing
 
@@ -189,7 +189,7 @@ Path path.curve_(Point cp1, Point to)
 
 Draws a cubic Bezier curve from the current position via two control points to a given endpoint. However, the end control point is identical to the end point.
 
-<tip>
+<Tip>
 
 ###### This method exists to save you some typing
 
@@ -349,7 +349,7 @@ snippets.end = new Snippet("notch", paths.demo.end());
 
 Returns the Point object(s) where the path intersects with a path you pass it.
 
-<tip>
+<Tip>
 
 ###### Use the intersection methods in Utils whenever possible
 
@@ -490,7 +490,7 @@ Path path.join(path other)
 
 Joins this path with another path.
 
-<warning>
+<Warning>
 
 You cannot join a closed path to another path
 
@@ -600,7 +600,7 @@ Path path.move(Point to)
 
 Moves to a given point without drawing a line.
 
-<tip>
+<Tip>
 
 ###### Always start your path with a move
 
@@ -685,7 +685,7 @@ Path path.reverse()
 
 Returns a path that is the reversed version of this path. As in, start becomes end, and end becomes start.
 
-<note>
+<Note>
 
 The reversed path is a shallow copy. It will in other words not inherit the attributes of the original path.
 
@@ -929,7 +929,7 @@ Returns a new Path that is this path with overlapping parts removed.
 
 This method is typically used when [Path.offset()](#offset) caused some overlap.
 
-<warning>
+<Warning>
 
 ###### Use sparsely or performance will suffer
 

@@ -20,7 +20,7 @@ macro("title", {
 });
 ```
 
-<tip>
+<Tip>
 
 The title plugin is part of our [plugin-bundle](/plugins/bundle)
 

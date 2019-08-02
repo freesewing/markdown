@@ -19,7 +19,7 @@ Ouvrez le fichier de configuration à l'adresse `config/index.js` et mettez à j
 measurements: ["headCircumference"],
 ```
 
-<tip>
+<Tip>
 
 Assurez-vous d'employer les noms de mesures existantes, plutôt que d'inventer les vôtres.
 

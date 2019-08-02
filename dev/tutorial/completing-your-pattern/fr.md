@@ -24,7 +24,7 @@ export default function(part) {
 
 Jusqu'à présent, nous en sommes restés à la zone *// Design pattern here* (concevoir le patron ici), mais maintenant nous allons travailler sur la zone sous-jacente *// Complete?* (compléter ?)
 
-<note>
+<Note>
 
 ###### L'intérêt des patrons (non) complétés
 
@@ -76,7 +76,7 @@ Nous avons ajouté des snippets `snap-male` (pression mâle) et `snap-female` (p
 
 Etant donné que la pression femelle est sur l'envers du tissu, nous l'avons rendue semi-transparente en réglant l'attribut `opacity` (opacité) à `0.5`. Oui, vous pouvez faire ça.
 
-<tip>
+<Tip>
 
 Tous les attributs que vous réglez seront ajoutés à la sortie SVG.
 

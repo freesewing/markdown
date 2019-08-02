@@ -61,7 +61,7 @@ The possiblities are:
 
 See the specific sample methods below for more details.
 
-<tip>
+<Tip>
 
 ###### Anchor your samples
 
@@ -158,7 +158,7 @@ let aaron = new Aaron({
 let svg = aaron.sampleModels(models, "manSize38").render()
 ```
 
-<tip>
+<Tip>
 
 ###### Model focus: Making a comparison
 

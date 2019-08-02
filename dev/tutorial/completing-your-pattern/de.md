@@ -24,7 +24,7 @@ export default function(part) {
 
 So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?*
 
-<note>
+<Note>
 
 ###### The point of (non) complete patterns
 
@@ -76,7 +76,7 @@ We've added a `snap-male` and `snap-female` snippet to the points we had foresee
 
 Because the female snippet is at the back of the fabric, we've made it semi-transparent by setting the `opacity` attribute to `0.5`. Yes, you can do that.
 
-<tip>
+<Tip>
 
 Any attributes you set will be added to the SVG output.
 

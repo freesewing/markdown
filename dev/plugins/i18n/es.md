@@ -10,7 +10,7 @@ The **i18n** plugin provides translation for your pattern:
 
 It uses the [`insertText`](/plugins#inserttext) hook to do so.
 
-<note>
+<Note>
 
 This plugin provides the mechanism for translation, but does not come with translations itself. For this, you can use our [i18n package](/packages/i18n).
 

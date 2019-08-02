@@ -26,7 +26,7 @@ You have the right to have your personal data erased. Go to </account/remove> to
 
 You have the right to request a restriction on the processing of your personal data. Go to </account/restrict> to request we restrict processing of your personal data.
 
-<warning>
+<Warning>
 
 Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
 

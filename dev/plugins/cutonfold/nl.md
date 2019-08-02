@@ -30,7 +30,7 @@ macro("cutonfold", {
 });
 ```
 
-<note>
+<Note>
 
 ###### It's safe to use a corner of your pattern part for this
 
@@ -38,7 +38,7 @@ Since this is typically used on corners, the generated cut-on-fold indicator wil
 
 </Note>
 
-<tip>
+<Tip>
 
 The cutonfold plugin is part of our [plugin-bundle](/plugins/bundle)
 

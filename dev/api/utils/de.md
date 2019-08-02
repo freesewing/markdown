@@ -651,7 +651,7 @@ bool utils.pointOnBeam(
 
 Returns `true` if the point `check` lies on the endless line that goes through `point1` and `point2`. The fourth parameter controls the precision. Lower numbers make the check less precise.
 
-<note>
+<Note>
 
 ###### Tweak precision only when needed
 
@@ -731,7 +731,7 @@ bool utils.pointOnCurve(
 
 Returns `true` if the point `check` lies on a curve described by points `start`, `cp1`, `cp2`, and `end`.
 
-<note>
+<Note>
 
 Keep in mind that calculations with Bezier curves are often aproximations.
 

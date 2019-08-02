@@ -15,7 +15,7 @@ snippets.button = new Snippet('button', new Point(40, 10));
 snippets.buttonhole = new Snippet('buttonhole', new Point(80, 10));
 ```
 
-<tip>
+<Tip>
 
 The buttons plugin is part of our [plugin-bundle](/plugins/bundle)
 

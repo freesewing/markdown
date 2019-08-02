@@ -34,7 +34,7 @@ While the grid gets added automatically, the dimensions you have to add yourself
 - The `ld` macro adds a linear dimension
 - The `pd` macro adds a path dimension that follows a given path
 
-<warning>
+<Warning>
 
 FIXME: Add links to macro docs
 

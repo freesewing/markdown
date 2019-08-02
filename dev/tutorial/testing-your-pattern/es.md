@@ -5,7 +5,7 @@ order: 250
 
 With the basic outline of your pattern ready, now would be a good time to test it to see how well it adapts to different measurements, and the range of options we provided.
 
-<tip>
+<Tip>
 
 ###### No more grading
 
@@ -49,7 +49,7 @@ If we test it, we can see that it works as intended. But there's one thing that 
 
 Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern.
 
-<note>
+<Note>
 
 Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not covered in this tutorial. It is left *as an exercise to the reader*.
 

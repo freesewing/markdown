@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
 
-<tip>
+<Tip>
 
 Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
 

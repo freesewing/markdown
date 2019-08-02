@@ -30,7 +30,7 @@ dependencies: {
 
 An object of `key`-`value` pairs that controls the order in which pattern parts will get drafted.
 
-<tip>
+<Tip>
 
 See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
 
@@ -48,7 +48,7 @@ An object of `key`-`value` pairs of parts. The `value` part will be injected in 
 
 By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
 
-<tip>
+<Tip>
 
 See [Part inheritance](/advanced/inject) for more in-depth information on inject.
 
@@ -75,7 +75,7 @@ parts: [
 
 An array that lists your (additional) pattern parts. The name must be the key the `pattern.parts` object.
 
-<tip>
+<Tip>
 
 ###### This does not need to be an exhaustive list of all parts in your pattern.
 
@@ -94,7 +94,7 @@ measurements: [
 
 An array with the names of the measurements required to draft this pattern.
 
-<note>
+<Note>
 
 ###### Don't just make up names
 
@@ -162,7 +162,7 @@ options: {
 }
 ```
 
-<note>
+<Note>
 
 ###### Percentage options will be divided by 100 when loaded
 

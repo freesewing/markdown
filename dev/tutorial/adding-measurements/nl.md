@@ -19,7 +19,7 @@ Open the config file at `config/index.js` and update the `measurements` array wi
 measurements: ["headCircumference"],
 ```
 
-<tip>
+<Tip>
 
 Make sure to re-use the names of existing measurements, rather than invent your own.
 

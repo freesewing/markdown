@@ -7,7 +7,7 @@ Om Aaron te maken heb je het volgende nodig:
 - [Basis naaimateriaal](/docs/sewing/basic-sewing-supplies)
 - Ongeveer 0,75 meter geschikte stof (zie [optionele stoffen](/docs/patterns/aaron/fabric))
 
-<note>
+<Note>
 
 #### Een overlockmachine is handig, maar optioneel
 

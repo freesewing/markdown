@@ -50,7 +50,7 @@ macro("round", {
 });
 ```
 
-<warning>
+<Warning>
 
 FIXME: Ajouter le lien vers les docs macro/extend
 

@@ -25,7 +25,7 @@ If we look at our image, it can can divided into three areas:
 
 As there's a lot going on in the middle *Pattern* box. Rather than get overwhelmed by trying to wrap your head around the entire thing, you will start with the basic building blocks. Let's get started.
 
-<note>
+<Note>
 
 The left and right parts are all about how to integrate FreeSewing in your *frontend*. In other words, how you'll plug it into your website, or online store, or a mobile application.
 
@@ -48,13 +48,13 @@ Each point must have:
 
 Together, they determine the points' location in the 2-dimensional plane we're drawing on.
 
-<note>
+<Note>
 
 Points are unlikely to confuse you. The only gotcha is [the coordinate system](/concepts/coordinates) whic has a Y-axis that is inverted to what you may intuitively expect.
 
 </Note>
 
-<tip>
+<Tip>
 
 Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of points in it. The corners of the boxes, the location where the text goes, and so on. You can enable *design mode* to reveal all the points, and click on them to bring up their coordinates and other attributes.
 
@@ -86,7 +86,7 @@ Because all but the **move** drawing operations are relative to their operation 
 
 Understanding that each drawing operation builds upon the next one is an important insight.
 
-<tip>
+<Tip>
 
 Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of paths in it. Each box, the arrows, the lines in the React logo, and so on.
 

@@ -61,7 +61,7 @@ macro("pd", {
 });
 ```
 
-<tip>
+<Tip>
 
 The dimension plugin is part of our [plugin-bundle](/plugins/bundle)
 

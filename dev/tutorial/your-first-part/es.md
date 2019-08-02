@@ -43,7 +43,7 @@ Finally, still in the `src/index.js` file, update the draftmethod:
 Pattern.prototype.draftBib = draftBib;
 ```
 
-<tip>
+<Tip>
 
 ###### Always use draftPartname
 

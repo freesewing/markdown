@@ -20,7 +20,7 @@ points.topCp1 = points.bottomCp2.flipY();
 points.topCp2 = points.bottomCp1.flipY();
 ```
 
-<note>
+<Note>
 
 We're using the `Point.flipX()` and `Point.flipY()` methods here. Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
 

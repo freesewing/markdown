@@ -5,7 +5,7 @@ order: 200
 
 Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. Il nous faut juste nous assurer que les points de contrôle de nos courbes aient des proportions similaires. Ce qui signifie, à la moitié entre le début de la courbe et le coin de notre rectangle.
 
-<note>
+<Note>
 
 Pour cela, vous allez employer une nouvelle méthode : `Point.shiftFractionTowards()`. Nous avons déjà utilisé `Point.shift()` et il y a aussi `Point.shiftTowards()` et `Point.shiftOutwards()`. Comme toujours, [les docs API](/api/point) contiennent tous les détails à ce propos.
 

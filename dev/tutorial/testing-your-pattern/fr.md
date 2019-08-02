@@ -5,7 +5,7 @@ order: 250
 
 Avec le contour de base de votre patron prêt, il est maintenant temps de le tester pour voir à quel point il s'adapte bien à différentes mesures, et à l'étendue des options que nous avons fournie.
 
-<tip>
+<Tip>
 
 ###### Plus besoin de gradation
 
@@ -49,7 +49,7 @@ Si nous testons cela, nous pouvons voir que cela fonctionne comme prévu. Mais i
 
 Même si la *longueur totale* de notre bavoir reste la même, la *longueur utile* est raccourcie lorsque le bavoir est élargi. Les utilisateurs ne s'attendent pas à cela, alors c'est une chose que nous devrions corriger dans notre patron.
 
-<note>
+<Note>
 
 Ajuster le patron pour éviter que le `widthRatio` n'influence la *longueur utilisable* de notre bavoir n'est pas explicité dans ce tutoriel. Ce problème est laissé comme *exercice pour le lecteur*.
 

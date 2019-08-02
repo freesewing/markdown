@@ -27,7 +27,7 @@ macro("sprinkle", {
 });
 ```
 
-<tip>
+<Tip>
 
 The sprinkle plugin is part of our [plugin-bundle](/plugins/bundle)
 

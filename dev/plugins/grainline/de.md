@@ -20,7 +20,7 @@ macro("grainline", {
 });
 ```
 
-<tip>
+<Tip>
 
 The grainline plugin is part of our [plugin-bundle](/plugins/bundle)
 

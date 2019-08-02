@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 Le point suivant est très similaire de nouveau, excepté que cette fois nous nous décalons vers la droite (0 degré) de la moitié de la distance en X entre les points `bottom` et `right`.
 
-<tip>
+<Tip>
 
 Points vient avec une ribambelle de ces méthodes. Vous pouvez toutes les trouver dans [les docs API pour Point](/fr/api/point).
 
