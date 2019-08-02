@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/huey/options/chestease
 pattern: huey
 option: chestEase
