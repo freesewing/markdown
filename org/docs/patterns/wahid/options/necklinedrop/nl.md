@@ -1,5 +1,5 @@
 ---
-title: Neckline drop
+title: Diepte halslijn
 pattern: wahid
 path: /en/docs/patterns/wahid/options/necklinedrop
 option: necklineDrop
