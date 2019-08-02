@@ -3,23 +3,23 @@ title: Making Florent
 path: /en/docs/patterns/florent
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Florent, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - About 0.5 meter of lining fabric
 - Tape, a bit more than **head circumference** + **ease** that you used for the pattern
 - A sheet of plastic or something rigid for the brim (1 mm thick or less)
 
-## Fabric options
+## Stofkeuze
 
 For the main fabric of your cap, a thick fabric will shape better, but if you go for a lighter fabric, you can interface it to give it more body.
 
 The lining can be anything, but it is usually something light and nice.
 
-## Cutting
+## Knippen
 
 Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself. Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
 
