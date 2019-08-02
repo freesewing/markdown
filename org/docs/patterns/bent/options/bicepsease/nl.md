@@ -1,7 +1,7 @@
 ---
-title: Biceps ease
+title: Overwijdte biceps
 pattern: bent
 option: bicepsEase
 ---
 
-This option controls the ease at your upper arm/biceps.
+Deze optie bepaalt hoeveel overwijdte je hebt aan je bovenarm/biceps.
