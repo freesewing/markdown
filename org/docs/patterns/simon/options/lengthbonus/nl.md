@@ -1,5 +1,5 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/simon/options/lengthbonus
 pattern: simon
 option: lengthBonus
