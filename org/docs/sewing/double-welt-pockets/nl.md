@@ -165,45 +165,45 @@ Knip je paspelzak open door langs de middelste horizontale lijn te knippen. Stop
 
 ![Flip the welts to the other side and press](step06.png)
 
-Je hebt je paspels aan de goede kant van de stof vastgestikt. Now, we are going to flip them to the back side, through the opening we just cut in the fabric.
+Je hebt je paspels aan de goede kant van de stof vastgestikt. Nu gaan we ze naar de verkeerde kant keren, door de opening die we net in de stof geknipt hebben.
 
-Flip the welts to the back, and press them flat. Take your time to work the fabric into a neat rectangle before you press it down.
+Keer de paspels naar de achterkant, en strijk ze plat. Neem de tijd om de zakopening tot een mooie rechthoek te vormen voor je strijkt.
 
-> Make sure to press the triangular pieces of fabric (at the short edge of your opening) to the side
+> Zorg dat je de kleine driehoekige stukjes stof (aan de zijkant van de zakopening) naar opzij strijkt
 > 
-> You're pressing several layers of fabric. Consider pressing down (or open) the layers individually before pressing them together. This will give a sharper crease, and a neater welt pocket.
+> Je strijkt verschillende lagen stof. Probeer de lagen individueel van elkaar naar beneden (of open) te strijken voor je alles samen strijkt. Dit zorgt voor een scherpere vouw, en een nettere paspelzak.
 
-### Step 7: Sew the pocket opening sides to the welts
+### Stap 7: Stik de zijkant van de zakopening aan de paspels
 
 ![Sew the pocket opening side to the welt on one side](step07a.png) ![And repeat on the other side](step07b.png)
 
-Put your garment down with the good side up, and fold it back on the side of your welt pocket, making sure to keep your welts lying flat.
+Leg je patroondeel neer met de goede kant bovenaan, en vouw het terug tot aan de zijkant van de paspelzak, zorgend dat je paspels plat blijven liggen.
 
-Sew the triangular piece of fabric from the pocket opening to the welts.
+Stik het driehoekige stukje stof van de zakopening vast aan de paspels.
 
-> Make sure that you do not sew into the pocket opening, as this will show the stitches on the front
+> Let op dat je niet in de zakopening stikt, anders zijn de steken zichtbaar aan de goede kant
 
-### Step 8: Sew the bottom pocket bag to the bottom welt
+### Stap 8: Stik het onderste zakdeel aan de onderste paspel
 
 ![Sew the bottom pocket bag to the botom welt](step08.png)
 
-Fold your garment out of the way so you can sew the pocket bag to the lower welt.
+Vouw je stof uit de weg zodat je het zakdeel aan de onderste paspel kan vaststikken.
 
-Also finish the edge of the welt with a zig-zag stitch so the welt stays flat inside the pocket.
+Werk de rand van de paspel af met een zigzagsteek zodat de paspel plat blijft liggen in de zak.
 
-> The pocket bag is show in lining fabric here (green) far clarity. You can also make your pocket bags from other fabric.
+> Het zakdeel wordt hier in (groene) voering gemaakt voor de duidelijkheid. Je kan ook andere stof gebruiken voor je zakdelen.
 
-### Step 9: Optional: Sew facing to top pocket bag
+### Stap 9: Optioneel: Stik het beleg aan het bovenste zakdeel
 
 ![Sew the facing to the top pocket bag](step09.png)
 
-> This step is optional. Attach facing to the top pocket bag if that is want you want to show through the pocket opening.
+> This step is optional. Bevestig een beleg aan het bovenste zakdeel als je wil dat dit is wat je door de zakopening heen ziet.
 
-### Step 10: Sew the top pocket bag to the top welt
+### Stap 10: Stik het bovenste zakdeel aan de bovenste paspel
 
 ![Sew the top pocket bag to the top welt](step10.png)
 
-Fold your garment out the way so you can sew the pocket bag to the top welt.
+Vouw je stof uit de weg zodat je het zakdeel aan de bovenste paspel kan vaststikken.
 
 > If you applied facing to your pocket bag, make sure to place it with the facing towards the welts.
 
