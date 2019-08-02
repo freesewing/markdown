@@ -9,16 +9,16 @@ We have a video series that shows how to make Bruce:
 
 @[youtube](https://www.youtube.com/watch?v=C6cpqEPWRwc&list=PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3)
 
-### What you need
+### Wat je nodig hebt
 
 To make Bruce, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - Enough wide (3cm or wider) elastic to fit around your waist
 - A serger, although you can survive without one
 
-### Fabric options
+### Stofkeuze
 
 You need a stretchy fabric for this pattern. Preferable something that is comfortable and soft to the touch, while allowing the skin to breathe.
 
@@ -26,15 +26,15 @@ I personally think that nothing can beat rayon for this pattern, although you ca
 
 When in doubt, go for rayon.
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
- - Cut **1 back** on the fold
+ - Knip **1 rugpand** aan de stofvouw
  - Cut **2 fronts** on the fold
  - Cut **2 insets**
  - Cut **2 sides**
 
-> #### Caveats
+> #### Opmerkingen
 > 
 > - **back** 
 >     - Extra hem allowance at the leg
