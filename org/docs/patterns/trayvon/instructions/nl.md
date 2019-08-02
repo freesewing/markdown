@@ -3,11 +3,11 @@ title: Making Trayvon
 path: /en/docs/patterns/trayvon
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Trayvon, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - Between 0.5 meter and 1.5 meter of a suitable fabric ([see Fabric options](#fabric-options)), depending on whether you're cutting on bias, on grain, or cross-grain. 
 
 ## Just the tip
@@ -22,7 +22,7 @@ Later in the construction steps, you will be asked to press your fabric. Please 
 
 It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
 
-## Fabric options
+## Stofkeuze
 
 ### Tie fabric
 
@@ -70,7 +70,7 @@ That being said, a lot of ties are cut on bias, as this results in the best drap
 
 > If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/en/docs/sewing/fabric-grain).
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
  - Cut **1 tip**
