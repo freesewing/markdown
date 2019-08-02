@@ -3,34 +3,34 @@ title: Opties toevoegen
 order: 140
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. But there's still a number of choices you have to make:
+Je weet hoe je slabbetje eruit moet zien, en je hebt de afmeting *headCircumference* (hoofdomtrek) om mee te werken. Maar je moet nog een aantal keuzes maken:
 
-- How large should the neck opening be?
-- How wide should the bib be?
-- How long should the bib be?
+- Hoe groot moet de halsopening zijn?
+- Hoe breed moet het slabbetje zijn?
+- Hoe lang moet het slabbetje zijn?
 
-You can make all of these choices for the user and set them in stone, so to speak.
+Je kan al deze keuzes maken voor de gebruiker. Ze zijn dan 'in steen gebeiteld', om het zo maar te noemen.
 
-But since you're designing a pattern in code, it's trivial to make your pattern flexible and let the user decide. All you have to do is add options to your pattern.
+Maar aangezien je een patroon aan het ontwerpen bent in code, is het een kleine moeite om je patroon flexibel te maken en de gebruiker te laten beslissen. Al wat je hoeft te doen, is opties toevoegen aan je patroon.
 
-## Add the neckRatio option
+## De optie neckRatio toevoegen
 
-The first option we're going to add controls the ratio between the neck opening and the head circumference. Let's call it `neckRatio`.
+De eerste optie die we gaan toevoegen bepaalt de verhouding tussen de halsopening en de hoofdomtrek. Laten we het `neckRatio` noemen.
 
-Open the config file at `config/index.js` and add this to the options:
+Open het config-bestand in `config/index.js` en voeg dit toe bij de opties:
 
 ```js
   options: {
-    // Remove this size option
+    // Verwijder deze maatoptie
     //size: { pct: 50, min: 10, max: 100 }
-    // And add the neckRatio options
+    // En voeg de opties neckRatio toe
     neckRatio: { pct: 80, min: 70, max: 90 }, 
   }
 ```
 
-Can you guess what it means?
+De betekenis hiervan kan je wel raden:
 
-- We've added a option of type percentage
+- We hebben type-percentage als optie toegevoegd
 - Its minimum value is 70%
 - Its maximum value is 90%
 - Its default value is 80%
