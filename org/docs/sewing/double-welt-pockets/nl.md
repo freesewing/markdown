@@ -95,77 +95,77 @@ Het beleg is optioneel, maar als je het niet gebruikt zie je het materiaal waar 
 
 ### Binnenzak
 
-De vorm van het zakdeel hangt af van het patroon. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
+De vorm van het zakdeel hangt af van het patroon. Voor de eenvoud gebruik ik een rechthoekig zakdeel met afgeronde hoeken zoals je zou vinden aan de achterzak van een broek.
 
-> There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
+> Er is gewoonlijk een langere en kortere versie van het zakdeel. Dit is omdat één kant vasthangt aan de bovenste paspel, terwijl de andere aan de onderste bevestigd wordt.
 
 ## Construction
 
-### Step 1: Fuse interfacing in place
+### Stap 1: kleef de tussenvoering op z'n plek
 
 ![Fuse interfacing in place](step01.png)
 
-Fuse the pocket interfacing to the bad side of your garment, so that it covers the place where you will make the welt pocket.
+Strijk de strook tussenvoering op de verkeerde kant van de stof, zodat het de plek waar de paspelzak komt bedekt.
 
-> Patterns typically have notches that help you determine the placement of a welt pocket
+> Patronen hebben gewoonlijk merktekens die je helpen de plaats van je paspelzak te bepalen
 
-### Step 2: Mark the welt pocket on the good side of the fabric
+### Stap 2: Markeer de paspelzak op de juiste kant van de stof
 
 ![Mark the welt pocket on the good side of the fabric](step02.png)
 
-Mark the welt pocket as follows:
+Markeer de paspelzak op deze manier:
 
-- Mark the pocket width with the vertical lines. Let these lines extend to help you align the welts later
-- Align the center opening of the pocket with a horizontal line. Let it extend to help you align the welts later
-- Mark two horizontal lines parallel to the center line, at an offset equal to the welt height (0.5cm in our example)
+- Markeer de zakbreedte met verticale lijnen. Laat deze lijnen iets verder doorlopen, dit helpt later om de paspels op de juiste plek te leggen
+- Markeer het midden van de zakopening met een horizontale lijn. Laat ook deze lijn iets verder doorlopen om het je later makkelijker te maken
+- Markeer twee horizontale lijnen, parallel aan de middenlijn, op dezelfde afstand als de paspelhoogte (in ons voorbeeld is dit 0.5 cm)
 
-The part of the horizontal lines parallel to the center line that fall in between the verticle lines is where we'll sew our welts in place. This is illustrated by the red lines.
+Het deel van de twee horizontale lijnen parallel met de middenlijn dat tussen de twee verticale lijnen valt is waar we de paspels vast zullen stikken. Dit is aangeduid met de rode lijnen.
 
-### Step 3: Fold and press the welts
+### Stap 3: Vouw en strijk de paspels
 
 ![Fold and press the welts](step03.png)
 
-Fold the welts parallel with the long side, with the good side out.
+Vouw de paspels parallel met de lange zijde, met de goede kant naar buiten.
 
-Don't fold them in half. Instead make one side 1cm longer than the other.
+Vouw ze niet in de helft. In plaats daarvan maak je één zijde 1 cm langer dan de andere.
 
-Press the fold so that it becomes a sharp crease.
+Strijk deze vouw zodat ze een scherpe plooi wordt.
 
-> By offsetting the edges, the welt edge tapers off, which reduces bulk and visibility on the outside of the garment.
+> Door de randen van de paspel ongelijk te maken verminder je bulk en zichtbaarheid van de paspels aan de buitenkant van het kledingstuk.
 
-### Step 4: Sew welts in place
+### Stap 4: Stik de paspels op hun plaats
 
 ![Sew welts in place](step04.png)
 
-> In the images above, the dashed black line is the center of the welt. The red line shows where to sew, and the green line is a seam that has already been sewn.
+> In de beelden hierboven geeft de zwarte stippellijn het midden van de paspel aan. De rode lijn toont waar gestikt moet worden, en de groene lijn is een naad die al gestikt is.
 
-Place the welt on the good side of your garment with the shorter folded side down, and center it horizontally.
+Plaats de paspel op de goede kant van je stof met de korter geplooide kant naar beneden, en centreer alles horizontaal.
 
-Align the folded side with the center of the welt pocket, and now shift it twice the Welt Height (WH) outwards.
+Leg de geplooide kant op het midden van de zakopening, en schuif het twee keer de Paspelhoogte (PH) naar buiten.
 
-In our example with a Welt Height of 0.5cm, the fold of your welt lies 1cm from the welt pocket center.
+In ons voorbeeld met een Paspelhoogte van 0.5 cm ligt de vouw van je paspel 1 cm van het midden van de zakopening.
 
-Sew your welt in place 0.5cm (WH) from the fold, or in other words, precisely on the line you marked on your garment.
+Stik de paspel vast op 0.5 cm (PH) van de vouw, of met andere woorden, exact op de lijn die je op je patroondeel gemarkeerd hebt.
 
-Make sure to start and stop precisely on the vertical lines that indicate the pocket width.
+Let op dat je exact begint en stopt aan de verticale lijnen die de zakbreedte aangeven.
 
-When you're done, sew the second welt in place. Note that this will be a bit more tricky as you'll have to fold back the first welt, and lay part of your second welt over it.
+Wanneer je dit gedaan hebt stik je de tweede paspel op dezelfde manier vast. Merk op dat dit een beetje lastiger is omdat je de eerste paspel opzij moet plooien, en een stuk van de tweede paspel over de eerste heen leggen.
 
-### Step 5: Cut open your pocket
+### Stap 5: Knip je zak open
 
 ![Cut open your pocket](step05.png)
 
-> In the image, the red line marks how/where to cut open your pocket, and the green line shows the seams.
+> Op de afbeelding geeft de rode lijn aan hoe en waar de zak opengeknipt wordt, en toont de groene lijn de naden.
 
-Cut open your welt pocket by cutting along the center horizontal line. Stop short of the vertical lines that mark the sides of the pocket and cut under 45 degrees to the edge of your line of stitching that holds the welts down.
+Knip je paspelzak open door langs de middelste horizontale lijn te knippen. Stop een stukje voor de verticale lijnen die de zijkanten van de zakopening aangeven en knip in een hoek van 45 graden naar het uiteinde van het stiksel dat de paspels bevestigt.
 
-> Make sure to not cut into your stitches or cut too far. Make it precise.
+> Let op dat je niet door je stiksel knipt, of er voorbij. Ga voor precisiewerk.
 
-### Step 6: Flip the welts to the other side and press
+### Stap 6: draai de paspels naar de andere kant en strijk
 
 ![Flip the welts to the other side and press](step06.png)
 
-You have been sewing your welts to the good side of the fabric. Now, we are going to flip them to the back side, through the opening we just cut in the fabric.
+Je hebt je paspels aan de goede kant van de stof vastgestikt. Now, we are going to flip them to the back side, through the opening we just cut in the fabric.
 
 Flip the welts to the back, and press them flat. Take your time to work the fabric into a neat rectangle before you press it down.
 
