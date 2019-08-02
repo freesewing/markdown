@@ -1,7 +1,7 @@
 ---
-title: Across back factor
+title: Rugwijdte
 pattern: bent
 option: acrossBackFactor
 ---
 
-Controls your across back width as a factor of your shoulder to shoulder measurement
+Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat
