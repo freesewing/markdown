@@ -3,19 +3,19 @@ title: Double welt pockets
 path: /en/docs/sewing/double-welt-pockets
 ---
 
-> ##### Learn welts with David Page Coffin
+> ##### Leer paspelzakken met David Page Coffin
 > 
-> The November 2015 edition of [Seamwork Magazine](https://www.seamwork.com/) has a section called [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt) where David Page Coffin walks you through the construction of welt pockets.
+> In de editie van [Seamwork Magazine](https://www.seamwork.com/) van november 2015 staat een artikel genaamd [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt), waarin David Page Coffin de constructie van een paspelzak uitlegt.
 > 
-> David has written various books on trouser and shirt construction, teaches online sewing classes, and hosts workshops throughout the US, and abroad.
+> David heeft verschillende boeken geschreven over het maken van broeken en hemden, geeft online naailessen en workshops in de VS en het buitenland.
 > 
-> David is a friend of the site, and by all measures much better at explaining this than I am.
+> David is een vriend van deze site, en vooral veel beter geschikt om dit uit te leggen dan ik.
 
 ## Video
 
 > Text a bit dry for you? I try to make videos available as part of the pattern documentation.
 
-The embedded playlist below contains both parts in the [How to: Double welt pockets](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn) series.
+De playlist hieronder bevat de twee delen van de reeks [How to: Double welt pockets](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn).
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn)
 
@@ -23,11 +23,11 @@ The embedded playlist below contains both parts in the [How to: Double welt pock
 
 ### Wat je nodig hebt
 
-To make double welt pockets, you will need:
+Om een dubbele paspelzak te maken heb je dit nodig:
 
 - Basis naaimateriaal
-- The fabric or pattern piece you want to make the pocket in
-- Two fabric strips for the welts
+- De stof of het patroondeel waar je de zak in wil maken
+- Twee stroken stof voor de paspels
 - A strip of interfacing
 - Lining or other suitable fabric for the pocket bag (See fabric and colour options)
 - Facing for the pocket bag, depending on your fabric and colour options
