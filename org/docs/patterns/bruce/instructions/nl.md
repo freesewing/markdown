@@ -1,87 +1,87 @@
 ---
-title: Making Bruce
+title: Bruce maken
 path: /en/docs/patterns/bruce
 ---
 
 ### Video
 
-We have a video series that shows how to make Bruce:
+We hebben een videoreeks die toont hoe je Bruce moet maken:
 
 @[youtube](https://www.youtube.com/watch?v=C6cpqEPWRwc&list=PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3)
 
 ### Wat je nodig hebt
 
-To make Bruce, you will need the following:
+Om Bruce te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- Enough wide (3cm or wider) elastic to fit around your waist
-- A serger, although you can survive without one
+- Ongeveer 1 m geschikte stof ([zie Optionele stoffen](#fabric-options))
+- Genoeg brede (3 cm of breder) elastiek om rond je taille te kunnen
+- Een overlock, alhoewel je kan overleven zonder
 
 ### Stofkeuze
 
-You need a stretchy fabric for this pattern. Preferable something that is comfortable and soft to the touch, while allowing the skin to breathe.
+Je hebt een elastische stof nodig voor dit patroon. Liefst iets dat comfortabel is en zacht aanvoelt, en de huid laat ademen.
 
-I personally think that nothing can beat rayon for this pattern, although you can do with some other knit too, like jersey.
+Ik vind persoonlijk dat niets beter werkt dan rayon (viscosejersey) voor dit patroon, alhoewel je ook een andere vezel kan gebruiken, zolang het maar jersey is.
 
-When in doubt, go for rayon.
+Bij twijfel, kies dan rayon.
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Knip **1 rugpand** aan de stofvouw
- - Cut **2 fronts** on the fold
- - Cut **2 insets**
- - Cut **2 sides**
+ - Knip **2 voorpanden** aan de stofvouw
+ - Knip **2 inzetstukken**
+ - Knip **2 zijkanten**
 
 > #### Opmerkingen
 > 
-> - **back** 
->     - Extra hem allowance at the leg
-> - **front** 
->     - Cut this **twice**
+> - **achterkant** 
+>     - Extra toeslag voor de zoom aan het been
+> - **voorkant** 
+>     - Knip dit **twee keer**
 
-Bruce consist of a back, and two sides, insets and fronts. Below is a typical draft layout:
+Bruce bestaat uit een achterkant, twee zijkanten, inzetstukken en voorkanten. Hier is een typische layout:
 
 ![A typical Bruce draft](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Join back to first side
+### Stap 1: Bevestig rugpand aan eerste zijkant
 
 ![Join back to first side](step01.png)
 
-Align the side of the back (piece 1) with the side (piece 3) making sure to put the good sides together. Since the side (piece 3) is symmetric, you can't go wrong.
+Leg de zijkant (stuk 3) op de rug (stuk 1) aan de zijrand, met de goede kanten op elkaar. Aangezien de zijkant (stuk 3) symmetrisch is kan dit niet fout lopen.
 
-Serge them together, taking into account that the seam allowance is 1cm. So aim the outside needle of your serger 1cm from the edge of your fabric.
+Lock de naad, met een naadwaarde van 1 cm. Mik dus met de buitenste naald van je lockmachine op 1 cm naast de rand van je stof.
 
-> If metric is not your bag, 1 cm is 3/8 inch.
+> Als het metrieke stelsel niet je ding is, 1 cm is 3/8 inch.
 > 
-> Some sergers have a a lever to choose between flat seams, or bundled up seams. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
+> Sommige overlockmachines hebben een hendeltje om te kiezen tussen platte of geplooide naden. Als je van plan bent om sierstiksels te gebruiken (zie stap 6), kies dan zeker voor platte naden.
 
-### Step 2: Join back to second side
+### Stap 2: Bevestig rugpand aan tweede zijkant
 
 ![Join back to second side](step02.png)
 
-Align the other side of the back (piece 1) with the second side (piece 3) making sure to put the good sides together. Since the side (piece 3) is symmetric, you can't go wrong.
+Leg de tweede zijkant (stuk 3) op de rug (stuk 1) aan de zijrand, met de goede kanten op elkaar. Aangezien de zijkant (stuk 3) symmetrisch is kan dit niet fout lopen.
 
-Serge them together, as you did on the other side.
+Lock de naad samen, zoals je aan de andere kant al deed.
 
-> The back and sides are now joined together. Put them aside for a moment as we turn our attention to the other pieces.
+> Het rugpand en de zijkanten zijn nu aan elkaar bevestigd. Leg ze even opzij terwijl we ons focussen op de andere stukken.
 
-### Step 3: Join first inset and fronts
+### Stap 3: Bevestig inzetstukken aan voorkanten
 
 ![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
 
-Joining the inset (piece 4) with the fronts (piece 2) requires you to serge them together across their curvy edges.
+Om het inzetstuk (stuk 4) aan de voorkant (stuk 2) te bevestigen moet je langs de gebogen randen locken.
 
-> Remember that you have two fronts. You have to put them on top of each other and treat it as one double-layered front.
+> Onthou dat je twee voorpanden hebt. Je moet deze bovenop elkaar leggen en als één dubbel gelaagd voorpand verwerken.
 
-Faced with a tricky seam like this, you might reach for your pins or basting thread, but don't. Pinning or basting this will make it harder to sew.
+Een lastige naad als deze geeft je zin om naar spelden of driegdraad te grijpen, maar laat dat. Spelden of driegen maakt dit moeilijker.
 
-Instead, start at the top of the curved seam, aligning the pieces as shown, and slowly serge them together a few cm.
+Begin aan de top van de gebogen naad, de stukken samenleggend zoals getoond, en lock ze langzaam een paar cm samen.
 
 As you move along, manipulate the fabric to make sure both edges stay on top of each other as you feed them through your serger.
 
