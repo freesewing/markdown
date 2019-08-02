@@ -32,7 +32,7 @@ You can make text *italic* or **bold**
 by wrapping it in 1 or 2 asterix respectively:
 ```
 
-## Lists
+## Lists (listes)
 
 To make a list, just do as you would in plain text, making sure to start with a space:
 
