@@ -6,8 +6,8 @@ option: puntVorm
 
 Drie verschillende puntjes
 
-In addition to having four different bow tie styles, each style can be individualized with three different tip options:
+Naast vier verschillende knoopwijzen kan elke stijl individueel gemaakt worden met drie verschillende punten:
 
-- Straight
-- Pointed
-- Round
+- Recht
+- Puntig
+- Rond
