@@ -1,5 +1,5 @@
 ---
-title: Making Bent
+title: Bent maken
 ---
 
 ## Bent is a block, not a pattern
