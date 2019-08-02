@@ -11,7 +11,7 @@ Er zijn twee varianten van deze afwerking, een jersey boord, en een echte jersey
 
 ## Jersey boord
 
-![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
+![Zoals de meeste t-shirts heeft die van dit meisje een jersey boord aan de halsopening.](knit_band.jpg)
 
 Jersey boord is wat je gewoonlijk vindt aan de halsopening van je t-shirt. Het is een strook stof die dubbel geplooid is en aan de rand van het kledingstuk bevestigd.
 
@@ -19,7 +19,7 @@ Dit laat een onafgewerkte rand aan de binnenkant die vaak vastgestikt wordt door
 
 ### Jersey biezen
 
-![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
+![Het grijze onderhemdje en witte t-shirt van dit meisje hebben allebei een jersey bies aan de halslijn.](knit_binding.jpg)
 
 Een echte jersey bies lijkt meer op een klassieke biais, als in, de bies wordt rond de stof geplooid in plaats van een apart stuk te vormen.
 
@@ -47,7 +47,7 @@ Of je nu een boord of een bies gebruikt, je zal de stof een beetje moeten uitrek
 
 ### Rechtdoor is chill
 
-![No stretch required when going straight](knitbinding1.png)
+![Stretch is niet nodig als je rechtdoor gaat](knitbinding1.png)
 
 Aan een rechte rand kan je gewoon je bies/boord bevestigen. De stof en de bies hebben dezelfde lengte, dus alles komt in orde.
 
@@ -55,7 +55,7 @@ Het meest gebruikelijke scenario waarbij je dit tegenkomt is aan de (korte) mouw
 
 ### Gelijk gebogen: gelijke stretch
 
-![Curved seams require stretch](knitbinding2.png)
+![Curves hebben stretch nodig](knitbinding2.png)
 
 Op een gebogen rand zoals een halsopening wordt de situatie een beetje complexer. Dit is omdat de buitenste en binnenste rand van je bies een andere lengte zullen hebben.
 
@@ -73,41 +73,41 @@ Als je de bies te veel uitrekt zal die te ver terug in vorm springen, en zo de s
 
 ### De realiteit: stretch varieert
 
-![As the curve changes, so should the stretch](knitbinding3.png)
+![Als de curve veranderd, moet de hoeveelheid stretch ook veranderen](knitbinding3.png)
 
 Rechte naden bestaan, en alhoewel ik er nog geen ben tegengekomen bestaan uitsnijdingen met gelijke curves ook. Maar de curve van een rand zal vaker wel dan niet gevarieerd zijn.
 
 Aan een typische t-shirt halslijn is de curve aan de achterkant anders dan vooraan, en is er waarschijnlijk een fellere kromming aan de schoudernaad.
 
-Aan een zachte curve is het verschil tussen de binnenste en buitenste rand niet zo groot, en heb je maar een beetje stretch nodig. Maar als de curve scherper wordt is het verschil tussen de binnenste en buitenste rand van je bies ook groter. And you'll need more stretch to accomodate for that.
+Aan een zachte curve is het verschil tussen de binnenste en buitenste rand niet zo groot, en heb je maar een beetje stretch nodig. Maar als de curve scherper wordt is het verschil tussen de binnenste en buitenste rand van je bies ook groter. En dan heb je meer stretch nodig om dat op te vangen.
 
-So as you follow your seam, and it curves around necklines, or shoulders, or design features, you will have to adapt the amount of stretch to the situation.
+Dus als je je naad volgt, en die langs halslijnen, schouders of designelementen loopt, zal je de hoeveelheid stretch aan de situatie moeten aanpassen.
 
-## You cannot calculate the length of your knit binding
+## Je kan de lengte van je bies niet berekenen
 
-I am not saying it is theoretically impossible. But I am saying that it is practically impossible.
+Ik zeg niet dat het theoretisch onmogelijk is. Maar ik zeg wel dat het praktisch onmogelijk is.
 
-The length of your knit binding depends on the amount it needs to be stretched. This depends on the curves you have to follow, and the width of the binding, not to mention the strength of its stretchiness. There's just too many parameters to take into account to calculate your binding length accurately.
+De lengte van je bies hangt af van hoeveel die uitgerokken moet worden. Dit hangt af van de curves die je moet volgen, de breedte van de bies, en daarbovenop hoe elastisch je stof is. Er zijn gewoon te veel parameters in het spel om de lengte accuraat te kunnen berekenen.
 
-### Do not do this
+### Doe dit niet
 
-There are a bunch of tutorials out on the internet that show you how to sew on knit binding. Many of those suggest something like *make the neck binding 90% of the length of the seam you are attaching it to* (the percentage varies).
+Er zijn een hoop tutorials op het internet die je tonen hoe je biezen naait. Veel daarvan suggereren dingen als *maak de halsbies 90% van de omtrek van de halsopening* (het percentage varieert).
 
-This idea is that you cut your binding, join its edges, and then sew it in the opening. That is (in my opionion) no good.
+Het idee is dat je je bies knipt, de uiteindes aan elkaar bevestigt, en alles dan in de opening naait. Dat is (volgens mij) geen goed idee.
 
-An alternative approach to sidestep the length issue is to attach the binding before you close the opening your binding goes in. For example, on a Tshirt you close one shoulder seam, attach binding, then close the second shoulder seam.
+Een alternatief om het lengteprobleem te omzeilen is de bies te bevestigen voor je de opening waar de bies in komt sluit. Bijvoorbeeld, bij een t-shirt zou je één schoudernaad sluiten, de bies vaststikken, en dan de tweede schoudernaad sluiten.
 
-Obviously, that means your shoulder seam will cut through your binding which is a big no no in my book.
+Dit houdt dan in dat de schoudernaad ook door de bies loopt, wat onaanvaardbaar is voor mij.
 
-### Instead, do this
+### Doe gewoon dit
 
-- Cut your binding as long as the seam it needs to be sewn into. Not 90%, but 100%. This way, you know it's going to be too long, and that's what we want.
-- Mark the place you want your binding to be joined (say center back of the neckline) and place your binding 1cm beyond this point.
-- Start sewing your binding about 3cm or so from this point, and go all the way around. While you do so, make sure to adjust the stretch to whatever the curve requires. There's no tricks for this, you'll have to practice until it comes natural to you.
-- When you make your way around and get close in to the point your marked, stop about 3cm before that.
-- Now you're entire binding is attached, apart from a 6cm or so stretch at the back. Pin both edges of your binding good sides together making is exactly as long as needed and sew them together.
-- Sew the remaining 6cm of your binding.
+- Knip je bies even lang als de rand waar hij aan moet. Geen 90%, maar 100%. Op deze manier weet je dat het te lang gaat zijn, en dat willen we.
+- Markeer waar je de naad van je bies wil (bijvoorbeeld, achteraan de halslijn) en leg je bies 1 cm voorbij dit punt.
+- Begin je bies 3 cm voorbij dit punt vast te naaien, en ga helemaal rond. Terwijl je dit doet pas je de hoeveelheid stretch aan de curve aan. Hier zijn geen trucjes voor, je gaat moeten oefenen tot je het aanvoelt.
+- Wanneer je bijna rond bent en in de buurt komt van het punt dat je gemarkeerd hebt, stop je ongeveer 3 cm ervoor.
+- Nu is je hele bies bevestigd, behalve een zestal cm aan de achterkant. Speld de twee uiteindes van je bies met de goede kanten op elkaar, exact zo lang als nodig, en stik vast.
+- Naai de overgebleven 6 cm van je bies.
 
-This way, there is no guessing how long your binding should be, and the binding seam sits where you want it to sit.
+Op deze manier is er geen gegok naar de lengte van je bies, en zit de naad van de bies waar je hem wil.
 
-> For detailed instructions, check [the Aaron documentation](/en/docs/patterns/aaron/)
+> Voor gedetailleerde instructies, kijk eens bij [Aaron](/en/docs/patterns/aaron/)
