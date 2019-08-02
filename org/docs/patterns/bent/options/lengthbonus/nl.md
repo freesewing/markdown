@@ -1,5 +1,5 @@
 ---
-title: Length bonus
+title: Bonus lengte
 pattern: bent
 option: lengthBonus
 ---
