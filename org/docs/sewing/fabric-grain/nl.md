@@ -3,7 +3,7 @@ title: Draadrichting
 path: /en/docs/sewing/fabric-grain
 ---
 
-![The grainline runs parallel to the selvedge](fabric-grain.jpg)
+![De draadrichting loopt parallel met de zelfkant](fabric-grain.jpg)
 
 De draadrichting van een stof wordt bepaald door de richting van de garens in een geweven stof. Beter gezegd, de draadrichting wordt bepaald door de richting van de scheringdraden.
 
@@ -15,6 +15,6 @@ Draadrichting wordt op een patroon aangeduid met een lange pijl. Wanneer je je p
 > 
 > ##### Verwarrend? Denk aan hout
 > 
-> Hout is niet geweven, maar groeit in verschillende lagen, gebaseerd op de seizoenen (groeiringen). De richting van deze lagen is belangrijk voor houtbewerkers. They influence to what extent the wood will deform after cutting it and how it will bend, as well as other parameters.
+> Hout is niet geweven, maar groeit in verschillende lagen, gebaseerd op de seizoenen (groeiringen). De richting van deze lagen is belangrijk voor houtbewerkers. Dit heeft een invloed op hoe hard het hout zal vervormen nadat het gesneden is en hoe het kan plooien, alsook een aantal andere parameters.
 > 
-> Just like a woodworker will take this into account before cutting the wood, you should take grain into account before cutting out your fabric.
+> Net zoals een houtbewerker hieraan zal denken voor hij zijn hout snijdt, moet jij aan de draadrichting denken voor je je stof uitknipt.
