@@ -108,34 +108,34 @@ Nadat je het eerste inzetstuk aan de voorpanden bevestigd hebt, doe je hetzelfde
 Als de voorpanden en inzetstukken aan elkaar hangen heb je nog maar drie stukken:
 
 - De inzetstukken en voorpanden, aan elkaar bevestigd
-- The joined sides and back
-- The elastic
+- De zijkanten en rugpand, aan elkaar bevestigd
+- De elastiek
 
-### Step 5: Close the fronts dart
+### Stap 5: Sluit de neep in de voorpanden
 
 ![Close the fronts dart](step05.png)
 
-Fold the fronts double along the center fronts line, so that the tusks at the bottom line up.
+Vouw de voorpanden in twee langs de middenvoorlijn, zodat de gebogen stukken onderaan gelijk liggen.
 
-Serge the sides of the tusks to close the fronts dart. For best results, start at the top of the seam (where the fabric is folded) and work your way to the bottom.
+Lock de zijkanten van de gebogen delen om de voorste neep te sluiten. Voor het beste resultaat start je bovenaan de naad (waar de stof geplooid is) en ga je zo naar beneden.
 
-> #### Keep that seam away from my ...
+> #### Hou die naad uit de buurt van mijn...
 > 
-> Alternatively, sew the darts on each piece individually so that both seams are folded inside. Arguably, not having an exposed seam in this area is more comfortable for the wearer.
+> Een andere optie is op de neep aan elk voorpand apart te naaien zodat de naden aan de binnenkant zitten. Het is iets meer werk, maar het is het extra comfort meer dan waard.
 
-### Step 6: Optional: Topstitch
+### Stap 6: Optioneel: Sierstiksel
 
 ![Boxers with (left) and without topstitching](step06.jpg)
 
-> This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces. It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
+> Deze stap is optioneel. Sierstiksel voegt een visueel effect toe dat de individuele patroondelen benadrukt. Het is een leuke manier om een effen stof visueel op te breken, maar als je een print gebruikt of verschillende kleuren, laat je het misschien beter.
 
-If you want to topstitch your serged seams for visual effect, you should do so now.
+Als je je gelockte naden wil doorstikken voor visueel effect is het nu het moment.
 
-If you topstitch, simply do it for every seam, making sure to do so with a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stitch setting.
+Als je een sierstiksel geeft, die dit dan gewoon langs elke naad, steeds met een elastische steek. Je kan een zigzagsteek gebruiken of een tweelingnaald als je geen coverlock of specifieke stretchsteek hebt.
 
-> When topstitching the seam that closed the fronts dart, start from the bottom, and let the topstitching run all the way to the top, where the waistband will come. The seam stops halfway through (where the dart ends) but your topstitching should continue.
+> Als je een sierstiksel geeft op de naad van de voorste neep, start dan onderaan en laat het stiksel helemaal tot bovenaan doorlopen, tot waar de tailleband gaat komen. De naad stopt halverwege (waar de neep eindigt), maar je stiksel moet doorlopen.
 
-### Step 7: Join the first side to the fronts
+### Stap 7: Bevestig de eerste zijkant aan de voorpanden
 
 ![Join the first side to the fronts](step07.png)
 
