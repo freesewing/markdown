@@ -17,15 +17,15 @@ This 6-episode series shows you how to make your hoodie start to finish:
 
 @[youtube](https://www.youtube.com/playlist?list=PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO)
 
-## What you need
+## Wat je nodig hebt
 
 To make Hugo, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - Ribbing fabric for the hem and cuffs
 
-## Fabric options
+## Stofkeuze
 
 You may find a dedicated sweatshirt/tracksuit fabric section in your fabric store of choice. If you don't, just head for the knitwear section and look for a thicker comfortable knit fabric.
 
@@ -37,11 +37,11 @@ Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come 
 > 
 > Or if you have given up on class, you could go for fleece.
 
-## Cutting
+## Knippen
 
 - **Main fabric** 
- - Cut **1 front** on the fold
- - Cut **1 back** on the fold
+ - Knip **1 voorpand** aan de stofvouw
+ - Knip **1 rugpand** aan de stofvouw
  - Cut **2 sleeves**, good sides together
  - Cut **1 pocket** on the fold
  - Cut **2 pocket facing(s)**, good sides together
@@ -52,7 +52,7 @@ Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come 
  - Cut **2 cuff(s)**
  - Cut **1 waistband**
 
-### Caveats
+### Opmerkingen
 
 **sleeve**
 
