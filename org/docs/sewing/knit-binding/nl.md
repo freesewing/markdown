@@ -13,45 +13,45 @@ Er zijn twee varianten van deze afwerking, een jersey boord, en een echte jersey
 
 ![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
 
-Jersey boord is wat je gewoonlijk vindt aan de halsopening van je t-shirt. It's a strip of fabric that is folded double and attached to the edge of the garment.
+Jersey boord is wat je gewoonlijk vindt aan de halsopening van je t-shirt. Het is een strook stof die dubbel geplooid is en aan de rand van het kledingstuk bevestigd.
 
-This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
+Dit laat een onafgewerkte rand aan de binnenkant die vaak vastgestikt wordt door rond de boord te stikken, dicht tegen de rand.
 
 ### Jersey biezen
 
 ![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
-Real knit binding acts more like classic bias binding, in that it is wrapped around the fabric, rather than extend from it.
+Een echte jersey bies lijkt meer op een klassieke biais, als in, de bies wordt rond de stof geplooid in plaats van een apart stuk te vormen.
 
-The raw edge of the garment is inserted between the folded knit binding, which is edge-stitched down. This is often done with a coverlock machine, thereby neatly finishing the inside.
+De onafgewerkte rand van het kledingstuk wordt tussen de geplooide bies bevestigd, waarna die op de rand doorgestikt wordt. Dit wordt vaak met een coverlock gedaan, zodat de binnenkant ook netjes afgewerkt is.
 
-> Pictures by [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) and [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
+> Foto's door [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) en [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
 
-### Style vs function
+### Stijl versus functie
 
-A knit band is more common, and is what you typically find on Tshirt necklines. It's the more decorative option.
+Een jersey boord komt vaker voor, en is wat je meestal ziet aan de halslijn van t-shirts. Het is de meer decoratieve optie.
 
-A knit binding is less common, but often used on undershirts (as in, underwear). It's the more functional option.
+Een jersey bies is minder gebruikelijk, maar vaak gebruikt bij onderhemdjes (als in, ondergoed). Het is de meer functionele optie.
 
-> ##### Still confused?
+> ##### Nog steeds verward?
 > 
-> Another way to distinguish them is this: Think about what happens when you decide to widen the knit binding/band.
+> Een andere manier om het onderscheid te maken if zo: denk aan wat er gebeurt als je besluit de bies/boord breder te maken.
 > 
-> On a Tshirt, widening the band at the neck will make the neck opening smaller. If you want a wider band, you will have to cut a larger hole in your Tshirt.
+> Bij een t-shirt zorgt een bredere boord voor een smallere halsopening. Als je een bredere boord wil moet je ook je halsopening groter knippen.
 > 
-> On an undershirt, if you want the knitwear binding at the neck to be wider, it will not make the neck opening smaller. Instead, the binding will simply lay further over the undershirt main fabric.
+> Bij een onderhemd heeft de breedte van de bies geen invloed op de grootte van de opening. De bies zal gewoon verder over de stof heen liggen en breder ogen.
 
-## Why knitwear binding requires stretch
+## Waarom stretch noodzakelijk is
 
-Whether you're using a knit band or a knit binding finish, you are going to have to stretch your binding fabric for good results. That is, assuming you're not sewing a straight seam. Here's why:
+Of je nu een boord of een bies gebruikt, je zal de stof een beetje moeten uitrekken om een goed resultaat te krijgen. Tenzij je een rechte naad stikt. Here's why:
 
-### Straight: life on easy mode
+### Rechtdoor is chill
 
 ![No stretch required when going straight](knitbinding1.png)
 
-On a straight seam, you can simply attach your binding/band. Your fabric and binding have the same length, so everything will be fine.
+Aan een rechte rand kan je gewoon je bies/boord bevestigen. De stof en de bies hebben dezelfde lengte, dus alles komt in orde.
 
-The most likely scenario where you will encounter this is on the (short) sleeves of a Tshirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
+Het meest gebruikelijke scenario waarbij je dit tegenkomt is aan de (korte) mouwen van een t-shirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
 
 ### Uniformly curved: uniform stretch
 
