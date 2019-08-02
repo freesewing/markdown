@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 pattern: bent
 option: chestEase
 ---
