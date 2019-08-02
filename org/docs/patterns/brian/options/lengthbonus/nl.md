@@ -1,5 +1,5 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/brian/options/lengthbonus
 pattern: brian
 option: lengthBonus
