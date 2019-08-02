@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/jaeger/options/chestease
 pattern: jaeger
 option: chestEase
