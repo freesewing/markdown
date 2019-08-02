@@ -1,8 +1,8 @@
 ---
-title: Part inheritance
+title: Héritage de partie
 ---
 
-Part inheritance within your own pattern is handled via the `inject` settings in the [pattern configuration](/config). Here is a simple example:
+L'héritage de partie au sein de votre propre patron est géré via les paramètres `inject` dans la [configuration du patron](/config). Voici un exemple simple :
 
 ```js
 inject: {
@@ -12,14 +12,14 @@ inject: {
 }
 ```
 
-The `front` and `back` parts will be *injected* with the `base` part. As a result, both the `front` and `back` parts will be instantiated with a cloned copy of all the points, paths, and snippets of the `base` part.
+Les parties `devant` et `dos` vont être *injectées* dans la partie `base`. Ainsi, les parties `devant` et `dos` seront instanciées parts avec une copie clonée de tous les points, chemins et les snippets de la partie `base`.
 
-This is a common design pattern where one part builds on another. In our example, we can imagine a T-shirt pattern where the front and back are rather similar, apart from the neckline. So rather than repeating ourselves, we draft a `base` part and inject that in the `front` and `back` parts.
+C'est un patron de conception standard où une partie se construit sur une autre. Dans notre exemple, nous pouvons imaginer un patron de T-shirt où le devant et le dos sont assez similaires, en dehors de l'encolure. Alors plutôt que de nous répéter, nous ébauchons une partie `base` et injectons cela dans les parties `devant` et `dos`.
 
-Using `inject` will cause FreeSewing to always draft the injected part prior to drafting the part it gets injected to. It will, in other words, influece the draft order.
+Utiliser `inject` va faire que FreeSewing ébauchera toujours la partie injectée avant d'ébaucher la partie dans laquelle elle est injectée. Cela va, en d'autres termes, influencer l'ordre d'ébauche.
 
 <note>
 
-For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
+Pour hériter des parties d'autres patrons, merci de vous référer à [l'héritage de patron](/advanced/inheritance).
 
 </Note>
