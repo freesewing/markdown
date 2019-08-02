@@ -21,11 +21,11 @@ The embedded playlist below contains both parts in the [How to: Double welt pock
 
 ## Before you start
 
-### What you need
+### Wat je nodig hebt
 
 To make double welt pockets, you will need:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - The fabric or pattern piece you want to make the pocket in
 - Two fabric strips for the welts
 - A strip of interfacing
@@ -41,7 +41,7 @@ Two values determine the size of your double welt pocket. They are:
 
 > In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
 
-## Cutting
+## Knippen
 
 ### Pocket welts
 
