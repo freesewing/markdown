@@ -33,11 +33,11 @@ Zijde en imitatiezijde is glad en lastig om mee te werken. Dit kan je compensere
 
 ### Tussenvoering
 
-Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Interfacing comes in two main types; fusible and sew-in.
+Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Tussenvoering bestaat in twee hoofdvarianten: kleefbaar en om in te naaien.
 
-The fusible variety has some adhesive attached to one side that is activated with the heat of your iron. This attaches the interfacing to the fabric and the two can then be used as one. Fusible interfacing can be a great option if your fabric allows the heat required, and you use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
+De kleefbare variant heeft een lijmlaag aan één kant die geactiveerd wordt met de hitte van je strijkijzer. Dit bevestigt de tussenvoering aan de stof, en vanaf dan worden de twee als één stuk behandeld. Kleefbare tussenvoering kan een geweldige optie zijn als je stof de nodige hitte kan verdragen, en je goede kwaliteit gebruikt. Sommige tussenvoeringen zijn van mindere kwaliteit waardoor de lijm loslaat, wat zichtbaar wordt als bubbels op het oppervlak van je vlinderdas. Kwalitatieve tussenvoering en een correcte applicatie zou niet tot deze problemen mogen leiden.
 
-Sew-in interfacing is sew into place before the fabric pieces are used. You attach the interfacing to the fabric by sewing the two together inside the seam allowance. If you use a seam allowance of 6mm, you will sew the interfacing at 3mm. Anything may work as a sew-in interfacing, including an extra layer of the same fabric.
+Tussenvoering om in te naaien wordt op zijn plek genaaid voor de stof gebruikt wordt. Je bevestigt de tussenvoering aan de stof door de twee binnen de naadtoeslag aan elkaar te naaien. Als je een naadtoeslag van 6 mm gebruikt naai je de tussenvoering op 3 mm vast. Anything may work as a sew-in interfacing, including an extra layer of the same fabric.
 
 The key part of the interfacing is to give your bow tie the structure you like. You can have a bow tie that stands proud and crisp. Or one that droops a bit at the tips. This is all about your preference.
 
