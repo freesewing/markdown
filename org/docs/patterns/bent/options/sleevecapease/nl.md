@@ -1,10 +1,10 @@
 ---
-title: Sleevecap ease
+title: Extra ruimte mouwkop
 pattern: bent
 option: sleevecapEase
 ---
 
-How much sleevecap ease do you want?
+Hoeveel extra ruimte wil je in de mouwkop?
 
 > #### What's the point?
 > 
