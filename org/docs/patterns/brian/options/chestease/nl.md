@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/brian/options/chestease
 pattern: brian
 option: chestEase
