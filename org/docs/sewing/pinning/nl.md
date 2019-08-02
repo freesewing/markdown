@@ -1,5 +1,5 @@
 ---
-title: Pinning
+title: Spelden
 path: /en/docs/sewing/pinning
 ---
 
@@ -7,12 +7,12 @@ path: /en/docs/sewing/pinning
 
 ![Fabric being pinned into place](fabric-pinning.jpg)
 
-Pinning is used whenever you use sewing pins to hold things in place.
+Spelden wordt gebruikt wanneer je kopspelden gebruikt om dingen op hun plek te houden.
 
-Examples of where pinning is commonly used are:
+Voorbeelden van het gebruik van spelden:
 
-- Pinning a seam in place before sewing it
-- Pinning an ornament, pocket, or other part in place before attaching it
+- Een naad vastspelden voor ze te naaien
+- Een decoratie, zak of ander element op zijn plek spelden voor het te bevestigen
 - Pinning darts or other pattern changes while fitting the garment on a model
 
 Pinning is never permanent, but merely a temporary measure to hold things in place.
