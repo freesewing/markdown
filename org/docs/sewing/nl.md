@@ -1,5 +1,5 @@
 ---
-title: Sewing
+title: Naaien
 ---
 
-Documentation on some of the sewing terminology and techniques used on freesewing.org.
+Documentatie voor een aantal van de naaitermen en -technieken die gebruikt worden op freesewing.org.
