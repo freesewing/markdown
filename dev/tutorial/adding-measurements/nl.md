@@ -1,19 +1,19 @@
 ---
-title: Adding measurements
+title: Afmetingen toevoegen
 order: 130
 ---
 
-FreeSewing is all about *made-to-measure* sewing patterns; We are going to draft our pattern according to the measurements provided to us.
+Bij FreeSewing gaat het allemaal om *op maat gemaakte* naaipatronen; we ontwerpen patronen volgens de afmetingen die de gebruiker invoert.
 
-Which begs the question, which measurements?
+De vraag is dus: welke afmetingen?
 
-It is you, as the pattern designer, who decides which measurements are required to draft your pattern. For our bib, the only measurement we need is the baby's *head circumference*.
+Jij, als patroonontwerper, bepaalt welke afmetingen nodig zijn om jouw patroon te ontwerpen. Voor ons slabbetje is de enige afmeting die we nodig hebben de hoofdomtrek of *head circumference* van de baby.
 
-So let's add it as a required measurement.
+Dus voegen we die toe als vereiste afmeting.
 
-## Add required measurements
+## Vereiste afmetingen toevoegen
 
-Open the config file at `config/index.js` and update the `measurements` array with the name of our required measurement:
+Open het config-bestand in `config/index.js` en update de `measurements`-reeks met de naam van de benodigde afmeting:
 
 ```js
 measurements: ["headCircumference"],
@@ -21,20 +21,20 @@ measurements: ["headCircumference"],
 
 <tip>
 
-Make sure to re-use the names of existing measurements, rather than invent your own.
+Let erop dat je de namen van bestaande afmetingen gebruikt in plaats van er zelf nieuwe te verzinnen.
 
-See our [best practices](/do/names#re-use-measurements) on this topic for details.
+Daarover lees je meer bij de [best practices](/do/names#re-use-measurements) over dit onderwerp.
 
 </Tip>
 
-Now everybody knows your pattern requires the `headCircumference` measurement.
+Nu weet iedereen dat je patroon de afmeting `headCircumference` gebruikt.
 
-This change will also get picked up by the development environment, and you'll now see this screen:
+Ook de developmentomgeving pikt deze verandering op. Je krijgt dus het volgende scherm te zien:
 
-![This screen tells you you are missing some required measurments](./required-measurements.png)
+![Dit scherm laat je weten dat er vereiste afmetingen ontbreken](./required-measurements.png)
 
-Since it's just one measurements, let's simply enter a value by hand. For example `38` as 38cm is a realistic head circumference measurement for a baby.
+Aangezien het maar om één afmeting gaat, kunnen we eenvoudig handmatig een waarde invoegen. Bijvoorbeeld `38`, want 38 centimeter is een realistische hoofdomtrek voor een baby.
 
-Enter `38` in the box, and click on **Draft your pattern** in the top navigation bar to get back to your draft which for now still looks like this:
+Voer `38` in in het kadertje en klik op **Ontwerp je patroon** bovenaan in de navigatie om terug te keren naar je ontwerp, dat er voorlopig nog zo uitziet:
 
 <example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
