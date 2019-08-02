@@ -1,5 +1,5 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/tamiko/options/chestease
 pattern: tamiko
 option: chestEase
