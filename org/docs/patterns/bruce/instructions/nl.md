@@ -43,7 +43,7 @@ Bij twijfel, kies dan rayon.
 
 Bruce bestaat uit een achterkant, twee zijkanten, inzetstukken en voorkanten. Hier is een typische layout:
 
-![A typical Bruce draft](layout.svg)
+![Een typische Bruce](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -51,7 +51,7 @@ Bruce bestaat uit een achterkant, twee zijkanten, inzetstukken en voorkanten. Hi
 
 ### Stap 1: Bevestig rugpand aan eerste zijkant
 
-![Join back to first side](step01.png)
+![Bevestig rugpand aan eerste zijkant](step01.png)
 
 Leg de zijkant (stuk 3) op de rug (stuk 1) aan de zijrand, met de goede kanten op elkaar. Aangezien de zijkant (stuk 3) symmetrisch is kan dit niet fout lopen.
 
@@ -63,7 +63,7 @@ Lock de naad, met een naadwaarde van 1 cm. Mik dus met de buitenste naald van je
 
 ### Stap 2: Bevestig rugpand aan tweede zijkant
 
-![Join back to second side](step02.png)
+![Bevestig rugpand aan tweede zijkant](step02.png)
 
 Leg de tweede zijkant (stuk 3) op de rug (stuk 1) aan de zijrand, met de goede kanten op elkaar. Aangezien de zijkant (stuk 3) symmetrisch is kan dit niet fout lopen.
 
@@ -73,7 +73,7 @@ Lock de naad samen, zoals je aan de andere kant al deed.
 
 ### Stap 3: Bevestig inzetstukken aan voorkanten
 
-![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
+![Begin aan één kant](step03-a.png) ![Leg de stukken samen terwijl je voortgaat](step03-b.png) ![Tot je de andere kant bereikt](step03-c.png)
 
 Om het inzetstuk (stuk 4) aan de voorkant (stuk 2) te bevestigen moet je langs de gebogen randen locken.
 
@@ -101,7 +101,7 @@ Als het verschil te groot is, laat het dan gewoon. Het zal afgeknipt worden bij 
 
 ### Stap 4: Bevestig tweede inzetstuk en voorkanten
 
-![Join second inset and fronts](step03-d.png)
+![Bevestig tweede inzetstuk aan voorpanden](step03-d.png)
 
 Nadat je het eerste inzetstuk aan de voorpanden bevestigd hebt, doe je hetzelfde met het tweede.
 
@@ -113,7 +113,7 @@ Als de voorpanden en inzetstukken aan elkaar hangen heb je nog maar drie stukken
 
 ### Stap 5: Sluit de neep in de voorpanden
 
-![Close the fronts dart](step05.png)
+![Sluit de voorste neep](step05.png)
 
 Vouw de voorpanden in twee langs de middenvoorlijn, zodat de gebogen stukken onderaan gelijk liggen.
 
@@ -125,7 +125,7 @@ Lock de zijkanten van de gebogen delen om de voorste neep te sluiten. Voor het b
 
 ### Stap 6: Optioneel: Sierstiksel
 
-![Boxers with (left) and without topstitching](step06.jpg)
+![Boxershort met (links) en zonder sierstiksel](step06.jpg)
 
 > Deze stap is optioneel. Sierstiksel voegt een visueel effect toe dat de individuele patroondelen benadrukt. Het is een leuke manier om een effen stof visueel op te breken, maar als je een print gebruikt of verschillende kleuren, laat je het misschien beter.
 
@@ -137,25 +137,25 @@ Als je een sierstiksel geeft, die dit dan gewoon langs elke naad, steeds met een
 
 ### Stap 7: Bevestig de eerste zijkant aan de voorpanden
 
-![Join the first side to the fronts](step07.png)
+![Bevestig eerste zijkant aan voorpanden](step07.png)
 
 Leg de zijrand van de eerste zijkant gelijk met de rand van de voorpanden+inzetstuk (met de goede kanten op elkaar, zoals gewoonlijk) en lock de naad samen.
 
 ### Stap 8: Bevestig de tweede zijkant aan de voorpanden
 
-![Join the second side to the fronts](step08.png)
+![Bevestig tweede zijkant aan voorpanden](step08.png)
 
 Doe hetzelfde voor de tweede zijkant.
 
 ### Stap 9: Optioneel: Sierstiksel
 
-![Boxers with (left) and without topstitching](step06.jpg)
+![Boxershort met (links) en zonder sierstiksel](step06.jpg)
 
 Als je eerder al een sierstiksel gaf, doe dan nu hetzelfde voor de naden die je gemaakt hebt in stap 7 en 8.
 
 ### Stap 10: Werk de kruisnaad af
 
-![Finish the crotchseam](step10.png)
+![Werk de kruisnaad af](step10.png)
 
 We gaan nu de gebogen opening aan de achterkant bevestigen aan de voorkant van de boxershort, bestaande uit de voorpanden en inzetstukken.
 
@@ -167,7 +167,7 @@ De merktekens op het rugpand zullen je helpen. Er is een merkteken in het midden
 
 ### Stap 11: Zoom de eerste pijp
 
-![Hem the first leg](step11.png)
+![Zoom de eerste pijp](step11.png)
 
 Tijd om de pijpen om te zomen. Zoom ze op dezelfde manier als je elke andere elastische gebreide stof zou zomen. Ga voor een elastische steek. Je kan een zigzaksteek of tweelingnaald gebruiken als je geen coverlock of specifieke stretchsteek hebt.
 
@@ -175,13 +175,13 @@ Tijd om de pijpen om te zomen. Zoom ze op dezelfde manier als je elke andere ela
 
 ### Stap 12: Zoom de tweede pijp
 
-![Hem the second leg](step12.png)
+![Zoom de tweede pijp](step12.png)
 
 Niet meer dan logisch.
 
 ### Stap 13: Maak een lus van je elastiek
 
-![Make your elastic into a loop](step13.png)
+![Maak een lus van je elastiek](step13.png)
 
 Naai de uiteindes van je elastiek samen met de goede kanten op elkaar.
 
@@ -189,24 +189,24 @@ Naai de uiteindes van je elastiek samen met de goede kanten op elkaar.
 > 
 > Wikkel gewoon je elastiek rond je taille op de plek waar het zou zitten, en span aan tot het juist aanvoelt. Duid aan waar dat punt is, voeg 2 cm naadwaarde toe, en daar is je lengte.
 
-### Step 14: Attach elastic to waist
+### Stap 14: Bevestig elastiek aan de taille
 
-![Attach elastic to waist](step14.png)
+![Bevestig elastiek aan de taille](step14.png)
 
-Attach the elastic to the waist.
+Bevestig de elastiek aan de taille.
 
-Do so good sides together if you're using a flexible stitch or twin needle on a conventional sewing machine.
+Doe dit met de juiste kanten op elkaar als je een stretchsteek of tweelingnaald gebruikt op een gewone naaimachine.
 
-If you're using a coverlock, put the elastic on top of the good side of the fabric.
+Als je een coverlock gebruikt, leg de elastiek bovenop de goede kant van de stof.
 
-> The length of your elastic will probably difffer from the fabric length, as they stretch differently. Pinning will help you achieve an even stretch.
+> De lengte van je elastiek is waarschijnlijk niet hetzelfde als de lengte van je stof, aangezien de twee op een andere manier uitrekken. Een paar spelden helpen om alles gelijk te krijgen.
 > 
-> Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
+> Verdeel zowel je elastiek als de taille van je boxershort in 4 (of 8) gelijke delen. Speld elastiek en stof samen op deze punten.
 > 
-> While sewing, stretch elastic and fabric together between each set of pins, removing the pins as your move on.
+> Terwijl je naait rek je de elastiek en de stof uit tussen de spelden, verwijder de spelden als je ze passeert.
 
-### Step 15: Trim and clean up
+### Stap 15: Knip bij en kuis op
 
-![Yay! You've made it](step15.png)
+![Yay! Je hebt het gehaald](step15.png)
 
-Trim any excess fabric you might have at elastic or hem, and any loose threads.
+Knip eventuele overtollige stukken stof aan de tailleband of zoom bij, en eventuele losse draadjes.
