@@ -1,4 +1,4 @@
 ---
-title: Fabric options
+title: Stofkeuze
 ---
 
