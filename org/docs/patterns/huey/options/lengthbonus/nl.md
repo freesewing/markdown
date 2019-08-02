@@ -1,5 +1,5 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/huey/options/lengthbonus
 pattern: huey
 option: lengthBonus
