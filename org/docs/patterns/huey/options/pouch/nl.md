@@ -1,10 +1,10 @@
 ---
-title: Pouch
+title: Zak
 path: /en/docs/patterns/huey/options/pouch
 pattern: huey
-option: pouch
+option: zak
 ---
 
-![This option controls whether or not to include the front pouch pocket](/img/patterns/huey/options/pouch.png)
+![Deze optie bepaalt of de voorzak al dan niet toegevoegd is](/img/patterns/huey/options/pouch.png)
 
-Do you want front (pouch) pocket or not?
+Wil je een zak (vooraan) of niet?
