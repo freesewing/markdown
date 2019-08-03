@@ -120,20 +120,20 @@ Hier is een typische layout:
 > Volg deze stappen twee keer, een keer voor de binnenste en een keer voor de buitenste kap.
 
 - Leg een middendeel van de kap langs de buitenste rand van een zijkant, met goede kanten op elkaar, en speld vast. Stitch.
-- Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
-- Press the seam allowances, and finish them as in Step 2. Trim the seam allowances.
+- Speld het middendeel op de buitenste rand van de andere zijkant, met goede kanten op elkaar. Stitch.
+- Strijk de naden, en werk ze af op dezelfde manier als in stap 2. Knip de naadwaarde bij.
 
-### Step 7: Join Inside and Outside Hood
+### Stap 7: Bevestig de binnenste kap aan de buitenste kap
 
-- With both hoods inside out, put them on top of each other, good sides together.
-- Align the center panel seams and pin.
-- Stitch along the outer edge of the hood with a 1cm seam allowance. Do not trim the seam allowance.
-- Flip the hood pieces right side out, then press the outer edge flat.
-- Topstitch along the edge of the hood, about 1.5-2 cm from the edge. Ensure that you go beyond the seam allowance, and that it is not caught in this line of stitching. This creates a decorative rim. The enclosed seam allowance helps make the rim a bit poofy.
-- To close the hood, serge together the bottom layers along the neckline. If you do not have a serger, use a zig-zag stitch.
-- (Optional) If you added holes for a drawstring, you can thread the drawstring now.
+- Leg de ene kap over de andere heen, met goede kanten op elkaar.
+- Leg de naden van de middenste panelen op elkaar en speld vast.
+- Stik langs de buitenrand van de kap met 1 cm naadwaarde. Knip de naadwaarde niet bij.
+- Keer de kap naar de goede kant en strijk de buitenrand plat.
+- Stik langs de rand van de kap, ongeveer 1,5 à 2 cm van de rand. Zorg dat je zeker naast de naadwaarde stikt, en dat die niet mee vastgestikt wordt. Dit zorge voor een decoratieve rand. De naadwaarde in de rand geeft alles wat extra volume.
+- Om de kap te sluiten lock je de lagen samen langs de halslijn. Als je geen overlock hebt, gebruik dan een zigzagsteek.
+- (Optioneel) Als je gaten hebt gemaakt voor een koordje kan je dit er nu doorheen halen.
 
-### Step 8: Attach the Hood
+### Stap 8: Bevestig de kap
 
 - Place good sides together on the neck binding piece, then sew a 1cm seam allowance along the short side to make the binding into a circular band.
 - Starting from the back, match the outside of the hood to the right side of the neckline. Align the hood panel to the back of the neckline.
