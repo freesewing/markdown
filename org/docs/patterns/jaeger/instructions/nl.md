@@ -87,7 +87,7 @@ Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets 
 - Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
 - Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Vergeet niet naadwaarde toe te voegen aan zowel het beleg als de voering langs deze naad.**.
 
-![Trace the front facing and lining from the front part](cuttingCaveat.svg)
+![Neem het voorste beleg en de voering over van het voorpand](cuttingCaveat.svg)
 
 ## Constructie
 
@@ -109,7 +109,7 @@ Zodra de voorste nepen dichtgestikt zijn, knip je ze open aan de achterkant. Je 
 
 ### Maak de borstzak
 
-![Apply fusible interfacing to the back of the chest pocket](basteChestPocket.svg)
+![Kleef tussenvoering op de achterkant van de borstzak](basteChestPocket.svg)
 
 #### Bevestig kleefbare tussenvoering
 
@@ -129,7 +129,7 @@ Vertrek vanaf de bovenste lijn van je gedriegde paspelzak, en markeer vanaf de h
 
 > Deze punten zijn merktekens op het voorpand van je patroon.
 
-![Close the chest pocket welt](foldChestPocketWelt.svg)
+![Sluit de paspel van de borstzak](foldChestPocketWelt.svg)
 
 #### Vouw, strijk en stik de zijnaden van de paspel
 
@@ -149,13 +149,13 @@ Drieg een gidslijn aan de onderrand van de paspel om aan te gevel waar de grens 
 
 #### Stik de paspel aan het voorpand
 
-![Attach the chest pocket welt to the front](attachChestPocketWelt.svg)
+![Bevestig de paspel aan het voorpand](attachChestPocketWelt.svg)
 
 Leg de paspel op de goede kant van het voorpand met de plooi naar onder toe gericht, en stik vast aan de onderste gemarkeerde lijn. Zorg ervoor dat je exact begint en eindigt op de lijn die je gedriegd hebt.
 
 #### Stik het borstzakdeel aan het voorpand
 
-![Attach the chest pocket bag to the front](attachChestPocketBag.svg)
+![Bevestig het zakdeel aan het voorpand](attachChestPocketBag.svg)
 
 Leg het zakdeel op het voorpand. Het voorpand met de goede kant omhoog, en het zakdeel met de foute kant omhoog. Zorg dat de langste zijde van het zakdeel op de hoogste kant van de borstzak ligt.
 
@@ -167,7 +167,7 @@ Stik vast langs de bovenste lijn. Denk eraan dat deze lijn korter moet zijn dan 
 
 #### Knip de zakopening, keer en strijk
 
-![Press the chest pocket](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Knip niet tot aan de rand, maar in een hoek van 45° zodat je aan het uiteinde kleine driehoekjes krijgt.
+![Strijk de borstzak](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Knip niet tot aan de rand, maar in een hoek van 45° zodat je aan het uiteinde kleine driehoekjes krijgt.
 
 Keer het zakdeel en de paspel naar de achterkant door ze door het gat te halen dat je net gemaakt hebt.
 
@@ -191,7 +191,7 @@ Drieg de bortzak dicht terwijl je de rest van het jasje maakt.
 
 ### Bereid de voorpanden voor
 
-![Prepare the canvas for the fronts](prepareCanvas.svg)
+![Bereid het haardoek voor voor de voorpanden](prepareCanvas.svg)
 
 Knip het voorpand uit een lichte en soepele haardoek, schuin van draad. Knip het volledige voorpand.
 
@@ -203,7 +203,7 @@ Knip het borststuk uit. Leg het langs de rollijn, en drieg op z'n plek op het vo
 
 #### Drieg haardoek aan de voorpanden
 
-![Pad-stitching, you love that stuff, right?](padAndTape.svg)
+![Pikeren, dat vind je toch geweldig, niet?](padAndTape.svg)
 
 Drieg nu de voorpanden in haardoek en het borststuk aan je voorpand. Denk eraan dat het haardoek geen naadwaarde heeft.
 
@@ -240,7 +240,7 @@ Onthoud:
 
 #### Stik de zijnaden
 
-![Close the sides](closeSides.svg)
+![Sluit de zijnaden](closeSides.svg)
 
 Leg je voorpanden neer met de goede kant omhoog, en je zijpanden erop met de goede kant omlaag.  
 Leg de voor- en zijnaden gelijk, speld ze eventueel samen en stik.
@@ -248,39 +248,39 @@ Leg de voor- en zijnaden gelijk, speld ze eventueel samen en stik.
 Leg dit neer met de goede kant omhoog, en leg je rugpand hierop met de goede kant naar beneden.  
 Leg de rug- en zijnaden gelijk, speld ze eventueel samen en stik.
 
-> Make sure the canvas does not get caught in the seam.
+> Let op dat het haardoek niet mee vastgestikt wordt.
 > 
-> ##### Note for sewing vents
+> ##### Opmerking voor het naaien van splitten
 > 
-> If you have a double vent, this seam will contain the vent.
+> Als je een dubbele split hebt, zitten die in deze naad.
 > 
-> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Stik het deel van de zij- achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
 
-#### Close the back seam
+#### Sluit de achternaad
 
-![Close the back seam](closeBack.svg)
+![Sluit de achternaad](closeBack.svg)
 
-Aling your two half-jackets with the good sides together, and close the back seam.
+Leg de twee halve jasjes met de goede kanten op elkaar en stik de middenachternaad dicht.
 
-> ##### Note for sewing vents
+> ##### Opmerking voor het naaien van splitten
 > 
-> If you have a single vent, this seam will contain the vent.
+> Als je een enkele split hebt, zit die in deze naad.
 > 
-> Sew the downward part of the back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Stik het deel van de achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
 
-#### Close the shoulder seams
+#### Sluit de schoudernaden
 
-![Close the shoulder seams](closeShoulders.svg)
+![Sluit de schoudernaden](closeShoulders.svg)
 
-Align the shoulder seams with good sides together, and sew them together.
+Leg de schouders op elkaar met de goede kanten op elkaar en stik.
 
-> Make sure the canvas does not get caught in the seam.
+> Let op dat het haardoek niet mee vastgestikt wordt.
 > 
-> ##### Align the shoulder notches
+> ##### Leg de schoudermerktekens samen
 > 
-> Make sure to carefully align the shoulders based on the notches. Because of the different shape of the back and front panels on the neck side, the fabric edge looks different. So aligning those edges will not give you what you need.
+> Let op dat je de schoudernaden volgens de merktekens op elkaar legt. Omdat de achter- en voorpanden aan de nek een andere vorm hebben ziet de stofrand er anders uit. Dus enkel de randen gelijk geven is niet wat je nodig hebt.
 > 
-> So make sure to align the notches. It's what they're there for. {.fs-bq}
+> Dus zorg dat je op de merktekens afgaat. Daar dienen ze voor. {.fs-bq}
 > 
 > ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
