@@ -63,7 +63,7 @@ Omdat Hugo's raglanmouw ook een deel van het voor-en achterpand uitmaakt is de m
 
 Hier is een typische layout:
 
-![A typical Hugo draft](layout.svg)
+![Een typisch Hugo patroon](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -149,11 +149,11 @@ Hier is een typische layout:
 
 - Als je boordstof licht of dun is kan je de manchetten en tailleband twee keer zo hoog knippen en dan dubbel plooien.
 - Leg de manchetten en tailleband met de goede kanten op elkaar en stik dan op 1 cm van de korte rand om er gesloten cirkels van te maken.
-- Plooi dubbel langs de lange rand om de manchetten en tailleband te vormen. Sew or serge along the open edges to close.
-- Align the seam on the cuff to the seam on the sleeve. Pin, good sides together.
-- Pin the opposite side.
-- Serge (or zig-zag stitch) the ribbing to the cuff, stretching gently until the ribbing and cuff are the same length. Remove pins before they enter the serger.
-- Trim the bottom edge of the pocket if it extends past the waistband edge.
-- Ensure the ribbing is gathered as uniformly as possible around the waistband.
-- Serge or zig-zag the waistband, again gently stretching untill the ribbing and waistband are the same length. Stitch with the hoodie on top so you can see it gets caught in the seam.
-- Topstitch the lower pocket edges to the body of the shirt to anchor the bottom of the pocket.
+- Plooi dubbel langs de lange rand om de manchetten en tailleband te vormen. Stik of lock langs de open randen om ze te sluiten.
+- Leg de naad van de manchet gelijk met de naad van de mouw. Speld, met de goede kanten samen.
+- Speld de andere kant.
+- Lock (of zigzag) de boordstof aan de mouw. Rek de boordstof zachtjes uit tot de manchet en mouwopening even lang zijn. Verwijder spelden voor ze in de overlock terechtkomen.
+- Knip de onderrand van de zak bij als die langer is dan de onderrand van de trui.
+- Let op dat de tailleband gelijkmatig verdeeld is over de onderrand van de trui.
+- Lock of zigzag de tailleband, en rek deze ook zachtjes uit zodat de boord en trui even lang zijn. Stik met de hoodie bovenaan zodat je kan zien of alle lagen mee in de naad zitten.
+- Stik de onderste randen van de zak aan het voorpand om ze definitief te bevestigen.
