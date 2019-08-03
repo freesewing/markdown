@@ -1,7 +1,7 @@
 ---
 title: Overwijdte borst
 pattern: aaron
-option: chestEase
+option: borstOver
 ---
 
 ![De optie voor overwijdte aan de borst bij Aaron](./chestease.svg)
