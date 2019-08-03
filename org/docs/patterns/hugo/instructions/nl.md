@@ -86,20 +86,20 @@ Hier is een typische layout:
 - De bovenste naadlijn is aangegeven met merktekens op het patroon. De onderrand van de zak ligt naar de halslijn gericht. Leg de randen van de zak gelijk met de merktekens op het patroon. Leg de bovenrand van de zak iets minder dan 1 cm over de naadlijn heen.
 - Stik de bovenste naad van het zakdeel aan het voorpand.
 - Leg het zakdeel over de naad heen zodat de onderrand nu gelijk ligt met de onderrand van het voorpand.
-- Using a long basting stitch (4mm or longer), baste the pocket into place at the waist, with a ½ cm seam allowance. This is optional, but keeps the pocket in place while you work on the rest of the shirt.
+- Gebruik een lange steeklengte (minstens 4 mm) en een smalle naadwaarde (1/2 cm) om de onderrand van de zak op z'n plaats te houden. Dit is optioneel, maar houdt de zak op de juiste plek terwijl je de rest van de trui in elkaar zet.
 
-### Step 3: Attach the Sleeves
+### Stap 3: Bevestig de mouwen
 
-- The side of the sleeve with the pointy edge at top is the back of the sleeve piece. It is also marked by a double notch on the pattern.
-- Match good sides of the sleeve seam to good sides of the front, matching the single notch on front to single notch on the sleeve piece. Stitch the seam. Do this for both sleeve pieces.
-- To finish the seam, you can use one of these methods:
+- De kant van de mouw met de scherpe punt bovenaan is de achterkant van de mouw. Dit is ook aangegeven met een dubbel merkteken op het patroon.
+- Leg de goede kanten van de mouw op de goede kant van het voorpand. Let op dat het merkteken op het voorpand overeenkomt met het merkteken op de mouw. Stik deze naad. Herhaal voor de andere mouw.
+- Om de naad af te werken kan je één van deze methodes gebruiken:
     
- - Use a serger to sew and finish the seam in one step. This is fast and convenient, but produces a less-refined look.
- - If you do not have a serger, or would like a more refined look, sew a seam with a straight stitch on your conventional machine. Press the seam allowances apart on the wrong side. Then, edgestitch along both sides of the seam from the right side. Finally, trim the excess seam allowance. This produces a refined look, but takes longer.
- - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch. Finally, trim the excess seam allowance. This simulates what a serger would do, and is quicker than option (2).
-- Match the good sides of the sleeve to the good sides of the back, matching the double notch on back to the double notch on the sleeve seam. Stitch the seam, then finish the seams as you did for the front.
+ - Gebruik een overlock op de naad in één keer te stikken en af te werken. Dit is snel en makkelijk, maar ziet er minder verfijnd uit.
+ - Als je geen overlock wil, of een iets luxueuzere finish, stik de naad dan met een rechte steek op je gewone naaimachine. Strijk de naadwaarde open aan de verkeerde kant. Stik dan aan de juiste kant net naast de naad, aan beide kanten. Knip de extra naadwaarde voorzichtig weg. Dit ziet er heel netjes uit, maar duurt wat langer.
+ - Een andere optie zonder overlock is de naad met een rechte steek naaien. Daarna werk je de naadwaarde samen af met een zigzagsteek naast de rechte steek. Knip de extra naadwaarde voorzichtig weg. Dit imiteert een overlock, en is sneller dan optie (2).
+- Leg de goede kanten van de mouw op de goede kant van het achterpand. Let op dat het dubbele merkteken op het achterpand overeenkomt met het dubbele merkteken op de mouw. Stik de naad, en werk op dezelfde manier af als op het voorpand.
 
-### Step 4: Close the Sides
+### Stap 4: Sluit de zijnaad
 
 - Match the good sides together along sides and sleeves.
 - Stitch the side seam and the sleeves together in one long seam, starting at the waist and going all the way through to the end of the sleeve. You can stop at the underarm point to change colors for the sleeve, if your design calls for it.
