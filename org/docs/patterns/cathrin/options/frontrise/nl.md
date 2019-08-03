@@ -5,10 +5,10 @@ pattern: cathrin
 option: voorHoogte
 ---
 
-![The front rise option on Cathrin](./frontrise.svg)
+![De optie voor hoogte vooraan bij Cathrin](./frontrise.svg)
 
-How high do you want the corset to rise up at the center front.
+Hoe hoog wil je dat het korset komt aan het midden van de voorkant.
 
-> This rise occurs center front between your breasts. Don't overdo it or the edge of your corset will push into your breasts.
+> Dit stukje verhoogt het middenvoorpand tussen je borsten. Doe hier niet te gek, anders duwt de rand van het korset in je borsten.
 > 
-> Deze optie laat negatieve waarden toe. They will cause the center front to be lowered.
+> Deze optie laat negatieve waarden toe. Die zullen het middenvoorpand verlagen.
