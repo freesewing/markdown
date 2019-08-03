@@ -167,48 +167,48 @@ Stik vast langs de bovenste lijn. Denk eraan dat deze lijn korter moet zijn dan 
 
 #### Knip de zakopening, keer en strijk
 
-![Press the chest pocket](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Don't cut to the edge, but create a trianngular shape there.
+![Press the chest pocket](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Knip niet tot aan de rand, maar in een hoek van 45° zodat je aan het uiteinde kleine driehoekjes krijgt.
 
-Flip the pocket bag and welt to the backside by passing both of them through the opening you just created.
+Keer het zakdeel en de paspel naar de achterkant door ze door het gat te halen dat je net gemaakt hebt.
 
-Get everything to lay nice and flat, and press.
+Leg alles mooi plat en strijk.
 
-Now, bring the welt only to the front and get it to lie nice and flat. Press again from the back.
+Breng nu enkel de paspel naar de voorkant en leg hem mooi plat. Strijk opnieuw langs de achterkant.
 
-> Resist the urge to press this from the front.
+> Het is verleidelijk dit langs de voorkant te strijken, maar beheers jezelf.
 
-#### Finish the chest pocket
+#### Werk de borstzak af
 
-![Finish the chest pocket](finishChestPocket.svg)
+![Werk de borstzak af](finishChestPocket.svg)
 
-On the backside, fold the pocket bag double and sew it to the pocket welt below the existing seamline of the welt.
+Plooi het zakdeel aan de achterkant dubbel en stik het aan de paspel, onder de bestaande naadlijn.
 
-Thread a needle and hand-finish the chest pocket by sewing down the sides of the welt to the front panel (don't let your stitches show on the front).
+Neem naald en draad en werk de borstzak met de hand af door de zijkanten van de paspel onzichtbaar aan het voorpand vast te naaien.
 
-Finally, close the pocket bag by sewing the sides. Do this by placing the front down with the good side up. Then fold over each side and sew the pocket bag. While sewing these sides, make sure to catch those triangular little pieces of the opening. This will reinforce the pocket opening.
+Als laatste sluit je de binnenzak door de zijkanten dicht te stikken. Doe die door het voorpand neer te leggen met de goede kant naar boven. Vouw dan de zijkant naar boven en stik het zakdeel aan de twee kanten. Let op dat je die kleine driehoekjes aan de zakopening mee vastnaait. Dit verstevigt de zakopening.
 
-Baste the chest pocket closed while we contruct the jacket.
+Drieg de bortzak dicht terwijl je de rest van het jasje maakt.
 
-### Prepare the fronts
+### Bereid de voorpanden voor
 
 ![Prepare the canvas for the fronts](prepareCanvas.svg)
 
-Cut out the front canvas piece in a light and supple canvas placed on the bias. Cut out the entire front.
+Knip het voorpand uit een lichte en soepele haardoek, schuin van draad. Knip het volledige voorpand.
 
-Cut out the front dart and close it with a zig-zag stitch, making sure not to let the canvas overlap.
+Knip de voorste neep uit en sluit plat met een zigzagsteek. Let op dat de randen niet overlappen, maar net tegen elkaar komen.
 
-Cut out the chest canvas piece. Align it along the roll line, and baste it in place on front canvas piece.
+Knip het borststuk uit. Leg het langs de rollijn, en drieg op z'n plek op het voorpand in haardoek.
 
-> The chest piece is marked on the front part of your pattern.
+> Het borststuk is aangeduid op het voorpand van je patroon.
 
-#### Baste canvas to the fronts
+#### Drieg haardoek aan de voorpanden
 
 ![Pad-stitching, you love that stuff, right?](padAndTape.svg)
 
-Now baste the front canvas and chest piece to your front. Keep in mind that the canvas has no seam allowance.
+Drieg nu de voorpanden in haardoek en het borststuk aan je voorpand. Denk eraan dat het haardoek geen naadwaarde heeft.
 
-> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later.  
-> You don't want your canvas to get caught in the seams.
+> Drieg het net voorbij de naadlijn zodat je het uit de weg kan plooien wanneer je deze naden stikt.   
+> Je wil niet dat je haardoek mee in de naad zit.
 
 #### Pad-stitch your lapels
 
