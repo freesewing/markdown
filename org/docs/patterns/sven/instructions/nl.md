@@ -25,7 +25,7 @@ Have a look at [the Sven showcases](/showcase/pattern/sven) for inspiration.
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Knip **1 rugpand** aan de stofvouw
  - Knip **1 voorpand** aan de stofvouw
  - Cut **2 sleeves** with good sides together
@@ -40,13 +40,13 @@ The ribbing parts are not included on the pattern because they're just rectangul
 
 Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
 
-Below is a typical draft layout:
+Hier is een typische layout:
 
 ![A typical Sven draft](layout.svg) % include scalebox.html %}
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 ### Step 1: Close shoulder seams
 
