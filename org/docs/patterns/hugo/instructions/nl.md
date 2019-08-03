@@ -39,7 +39,7 @@ Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come 
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Knip **1 voorpand** aan de stofvouw
  - Knip **1 rugpand** aan de stofvouw
  - Cut **2 sleeves**, good sides together
@@ -61,13 +61,13 @@ Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come 
 
 Because Hugo's raglan sleeve also covers a portion of the back and front, the sleeve is the dominant feature of your draft.
 
-Below is a typical draft layout:
+Hier is een typische layout:
 
 ![A typical Hugo draft](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 ### Step 1: Prepare the Pocket
 
