@@ -28,35 +28,35 @@ De onderkant van de klep wordt iets naar binnen gezet, terwijl de bovenkant iets
 - **Buitenstof** 
  - Knip **1 bovenkant** aan de stofvouw (laat dan de naadwaarde aan middenvoor weg) of **2 bovenkant** met naadwaarde middenvoor.
  - Knip **1zijpand** aan de stofvouw, of **2 zijpanden**.
- - Cut **1 brim top** .
- - Cut **1 brim bottom**.
-- **Lining fabric** 
- - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
- - Cut **1 side** on the fold, or **2 side**
+ - Knip **1 bovenklep**.
+ - Knip **1 onderklep**.
+- **Voering** 
+ - Knip **1 bovenkant** aan de stofvouw (laat dan de naadwaarde aan middenvoor weg) of **2 bovenkant** met naadwaarde middenvoor
+ - Knip **1zijpand** aan de stofvouw, of **2 zijpanden**
 - **Plastic** 
- - Cut **1 brim interfacing**. Tape the pattern part to the plastic, don't cut the notches in the plastic, but you can mark it (engrave it, or with permanent marker maybe). You don't really want any sharp edge, so make sure everything is smooth and rounded a bit (especially on the pointy sides)
+ - Knip **1 versteviging klep**. Kleef het patroon op het plastic, maar knip de markeringen niet in. Je kan ze in het plastic krassen of aanduiden met een stift. Je wil geen echte scherpe rand, dus let op dat alles glad en afgerond is (vooral aan de hoeken)
 
-A typical Florent layout looks like this:
+Een typisch Florent patroon ziet er zo uit:
 
 ![A typical Florent layout](/img/patterns/florent/layout.svg)
 
 ## Constructie
 
-### Step 1: Fuse interfacing
+### Stap 1: Bevestig tussenvoering
 
-Depending on your fabric weight you might want to fuse all your main fabric parts No matter the thickness of your fabric, you should consider reinforcing the sides of your brim parts (where the notch mark is). This will help prevent the pointy ends of the plastic part to poke outside of the cap on this area
+Afhankelijk van hoe zwaar je stof is kan het aan te raden zijn al je buitenste stofdelen te verstevigen. Onafhankelijk van de dikte van je stof is het een goed idee om de zijkanten van je klepdelen (waar de markering is) te verstevigen. Dit zal voorkomen dat de hoeken van het plastic deel hier uit de pet gaan steken
 
 ![Protect this area from being pocked through by the plastic brim](step16.svg)
 
-### Step 2: Closing the back dart
+### Stap 2: Achterste neep sluiten
 
-#### Version with top part cut on fold
+#### Versie met bovenkant aan de stofvouw geknipt
 
-You should mark the top of the back dart on the wrong side of the fabric so that you know where to end your seam
+Markeer het eindpunt van de achterste neep op de verkeerde kant van de stof zodat je weet waar je moet stoppen
 
 ![Marking the end of the dart](step01.jpg)
 
-There is several tricks to sewing darts, here is how I do it (I think it is called "balancing the dart"): prepare a bias cut rectangle of the same fabric you are going to stitch and place it underneath the point of your future dart. Stitch the dart starting from the bottom and keep stitching a few stitching after the top dart. Leave a good length of thread to make a knot by hand.
+Er zijn verschillende trucjes om nepen te naaien, hier is het mijne (ik denk dat ze dit "een neep balanceren" noemen): knip een rechthoek van je buitenstof schuin van draad en plaats deze onder de punt van je neep. Stik de neep, van beneden tot de punt, en stik een paar steken voorbij de punt van de neep. Leave a good length of thread to make a knot by hand.
 
 ![Balanced dart](step02.jpg)
 
