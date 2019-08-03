@@ -10,24 +10,24 @@ Om Florent te maken heb je het volgende nodig:
 - Basis naaimateriaal
 - Ongeveer 0.5 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
 - Ongeveer 0.5 meter voering
-- Tape, a bit more than **head circumference** + **ease** that you used for the pattern
-- A sheet of plastic or something rigid for the brim (1 mm thick or less)
+- Band, een beetje meer dan de afmeting van de **hoofdomtrek** + **overwijdte** die je voor het patroon gebruikt hebt
+- Een vel plastic of iets anders plat en stevig voor de klep (1 mm dik of minder)
 
 ## Stofkeuze
 
-For the main fabric of your cap, a thick fabric will shape better, but if you go for a lighter fabric, you can interface it to give it more body.
+Een zwaardere stof behoudt zijn vorm beter als buitenstof van je pet, maar als je een lichtere stof wil gebruiken kan je tussenvoering toevoegen.
 
-The lining can be anything, but it is usually something light and nice.
+De voering kan vanalles zijn, maar is meestal iets licht en aangenaam.
 
 ## Knippen
 
-Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself. Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
+Afhankelijk van hoeveel stof je hebt kan je de boven- en/of zijkanten in twee stukken knippen, vandaar de instructies op het patroon zelf. Opgelet: het patroon heeft een naadwaarde rondom de bovenkant dus laat deze weg als je dit deel aan de stofvouw knipt!
 
-The brim bottom part is inset, while the brim top part is offset so that the seam falls "underneath the brim edge". Keep that in mind when cutting the parts, and mark them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
+De onderkant van de klep wordt iets naar binnen gezet, terwijl de bovenkant iets naar voor gezet wordt en de naad "onder de rand valt". Hou dat in gedachten terwijl je de delen knipt, en markeer dit duidelijk, zodat je niet eindigt met een naad bovenop de klep (ik wil je niet dwingen deze stijlkeuze te maken, maar je gewoon op het verschil wijzen zodat je erop kan letten).
 
 - **Buitenstof** 
- - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
- - Cut **1 side** on the fold, or **2 side**.
+ - Knip **1 bovenkant** aan de stofvouw (laat dan de naadwaarde aan middenvoor weg) of **2 bovenkant** met naadwaarde middenvoor.
+ - Knip **1zijpand** aan de stofvouw, of **2 zijpanden**.
  - Cut **1 brim top** .
  - Cut **1 brim bottom**.
 - **Lining fabric** 
