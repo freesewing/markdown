@@ -6,7 +6,7 @@ title: grainline
 
 The **grainline** plugin provides the `grainline` macro:
 
-<Example part="plugin_grainline" caption="An example of the grainline macro" design={false} />
+<example part="plugin_grainline" caption="An example of the grainline macro" design={false} />
 
 ```js
 let { Point, points, macro } = part.shorthand();
@@ -20,7 +20,7 @@ macro("grainline", {
 });
 ```
 
-<Tip>
+<tip>
 
 The grainline plugin is part of our [plugin-bundle](/plugins/bundle)
 
