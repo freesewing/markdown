@@ -107,41 +107,41 @@ Stik de voorste neep dicht, let op dat de neep bovenaan op de juiste hoogte stop
 
 Zodra de voorste nepen dichtgestikt zijn, knip je ze open aan de achterkant. Je zal niet helemaal tot in de punt kunnen knippen, maar dat is ok. Strijk de nepen open waar ze opengeknipt zijn, en strijk de rest opzij. Strijk alleen op de achterkant. Strijken op de voorkant kan sporen achterlaten op je stof.
 
-### Construct the chest pocket
+### Maak de borstzak
 
 ![Apply fusible interfacing to the back of the chest pocket](basteChestPocket.svg)
 
-#### Apply fusible interfacing
+#### Bevestig kleefbare tussenvoering
 
-Apply a rectangular piece of light fusible interfacing around the chest pocket area so that it extends a few cm in all directions.
+Kleef een rechthoekig stukje tussenvoering aan de verkeerde kant van de plek waar de borstzak komt, iets groter dan de aangegeven zakopening.
 
-> ##### We're not using fusible on the entire front
+> ##### We plakken niet het hele voorpand vol
 > 
-> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible. {.fs-bq}
+> Sportieve jasjes worden meestal gemaakt van iets zwaardere stoffen. Dat, en omdat ik liever haardoek gebruik dan kleefbare tussenvoering, is de reden waarom ik niet het hele voorpand verstevig met kleefbare tussenvoering. {.fs-bq}
 
-#### Baste the chest welt outline, mark top line endpoints
+#### Drieg de omtrek van de bies, markeer de eindpunten van de bovenrand
 
-With the fusible in place, thread a needle and baste around the chest pocket to transfer the markings to the good side of the fabric.
+Als de tussenvoering juist hangt drieg je rondom de borstzak om de markeringen over te zetten op de goede kant van de stof.
 
-This pocket differs from a traditional welt pocket. The welt extends above the pocket opening. This hides the pocket bag without the need for facings. The top part of the opening is also smaller than the welt, allowing you to slip-stitch it closed.
+Deze zak is een beetje verschillend van een klassieke paspelzak. De paspel komt iets voorbij de zakopening. Dit verbergt het binnenste zakdeel zonder dat je een beleg nodig hebt. De bovenrand van de zakopening is ook kleiner dan de paspel, waardoor je hem onzichtbaar met de hand kan vastzetten.
 
-On the top line of your basted welt pocket, mark 0.5cm inwards from the corners of the top line.
+Vertrek vanaf de bovenste lijn van je gedriegde paspelzak, en markeer vanaf de hoeken van deze lijn 0,5 cm naar binnen toe.
 
-> These points are notches on the front part of your pattern.
+> Deze punten zijn merktekens op het voorpand van je patroon.
 
 ![Close the chest pocket welt](foldChestPocketWelt.svg)
 
-#### Fold, press and sew the side seams of the welt
+#### Vouw, strijk en stik de zijnaden van de paspel
 
-Fold the welt double with the good sides together, and close the sides (sew the side seams).
+Vouw de paspel dubbel met de goede kanten op elkaar, en sluit de zijkanten (naai de zijnaden).
 
-#### Trim seam allowance, turn and press
+#### Knip naadwaarde bij, keer en strijk
 
-Trim the seam allowances on the sides and especially limit the seam allowance towards the corner to avoid bulk.
+Knip de naadwaarde aan de zijkant bij, vooran aan de hoekjes, om bulk te voorkomen.
 
-Turn inside out so the good side is out and press.
+Keer naar de goede kant en strijk plat.
 
-> Be careful not to overpress as you'll be pressing from the good side of the fabric.
+> Wees voorzichtig dat je niet te hard strijkt aangezien je aan de goede kant werkt.
 
 #### Baste the bottom line of the welt so you know where to sew
 
