@@ -6,7 +6,7 @@ title: round
 
 The **round** plugin provides the `round` macro:
 
-<Example part="plugin_round" caption="An example of the round macro" design={false} />
+<example part="plugin_round" caption="An example of the round macro" design={false} />
 
 ```js
 points.topLeft = new Point(0, 0);
@@ -40,7 +40,7 @@ macro("round", {
 });
 ```
 
-<Tip>
+<tip>
 
 The round plugin is part of our [plugin-bundle](/plugins/bundle)
 
@@ -90,7 +90,7 @@ The macro takes a single configuration object with the following properties:
 | `class`   |         | String              | Class(es) to assign to the path created by this macro          |
 
 
-<Warning>
+<warning>
 
 The round macro intended for rounding 90° angles
 
