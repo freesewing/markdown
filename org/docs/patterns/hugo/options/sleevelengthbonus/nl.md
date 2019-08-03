@@ -5,4 +5,4 @@ pattern: hugo
 option: mouwLengteBonus
 ---
 
-This allows you to lengthen the sleeves of your hoodie.
+Dit stelt je in staat de mouwen van je hoodie te verlengen.
