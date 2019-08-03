@@ -24,7 +24,7 @@ export default function(part) {
 
 Jusqu'à présent, nous en sommes restés à la zone *// Design pattern here* (concevoir le patron ici), mais maintenant nous allons travailler sur la zone sous-jacente *// Complete?* (compléter ?)
 
-<Note>
+<note>
 
 ###### L'intérêt des patrons (non) complétés
 
@@ -76,7 +76,7 @@ Nous avons ajouté des snippets `snap-male` (pression mâle) et `snap-female` (p
 
 Etant donné que la pression femelle est sur l'envers du tissu, nous l'avons rendue semi-transparente en réglant l'attribut `opacity` (opacité) à `0.5`. Oui, vous pouvez faire ça.
 
-<Tip>
+<tip>
 
 Tous les attributs que vous réglez seront ajoutés à la sortie SVG.
 
@@ -146,6 +146,6 @@ macro("scalebox", { at: points.scalebox });
 
 Et avec ça, notre patron est maintenant *complet* :
 
-<Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
+<example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
 Nous n'avons pas tout à fait terminé cependant. Il y a une chose supplémentaire que l'utilisateur peut demander : un patron *sans papier*.
