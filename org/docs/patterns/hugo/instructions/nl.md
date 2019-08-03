@@ -101,25 +101,25 @@ Hier is een typische layout:
 
 ### Stap 4: Sluit de zijnaad
 
-- Match the good sides together along sides and sleeves.
-- Stitch the side seam and the sleeves together in one long seam, starting at the waist and going all the way through to the end of the sleeve. You can stop at the underarm point to change colors for the sleeve, if your design calls for it.
-- Finish the seam allowances as you did in step 2. If you finish the sleeves with the edgestitch method, you will need to go slow for finishing the sleeve seam, as you will be .sewing in the tunnel..
+- Leg de randen van de mouwen en het voor- en achterpand met goede kanten op elkaar.
+- Stik de zijnaad en de mouwen aan elkaar met één lange naad. Begin aan de taille en ga in één keer door tot aan de pols. Je kan aan de onderarm stoppen om van kleur te veranderen voor de mouw, mocht dat nodig zijn voor je design.
+- Werk de naadwaarde af zoals in stap 2. Als je de mouwen met een sierstiksel afwerkt zal je rustig aan moeten doen, aangezien je in een tunnel aan het naaien bent..
 
-### Step 5: Add a Drawstring to the Hood (Optional)
+### Stap 5: Voeg een koordje toe aan je kap (Optioneel)
 
-- Take one matching set of the Hood Side pieces, that you intend to feature on the outside of the finished hoodie.
-- Mark the place for a hole on each side hood piece, along the rim.
-- The hole should be located about 1.5-2cm from the edge of the fabric. This is to allow for the seam allowance, as well as for the hood
-- The hole should be located above the notch on the hood rim. The notch shows where the sides of the hood overlap at center front , so the cord should exit above that point.
-- You can consider using the buttonhole feature of your sewing machine, if it has one, to sew a buttonhole at this point.
-- Cut open a hole at the points you marked.
-- After the hood is prepared, you can run a cord around the front edge of the hood. Sneaker shoelaces work well for this.
+- Neem een set van de zijkanten van de kap, de twee die je aan de buitenkant van je hoodie wil.
+- Markeer op elke kant een plek voor een gat, langs de rand van de kap.
+- Het gat komt op 1.5 à 2 cm van de rand van de stof. Dit is om genoeg ruimte te laten voor de naadwaarde en de kap zelf
+- Het gat zit boven het merkteken op de rand van de kap. Het merkteken toont waar de kap vooraan overlapt, dus het koord zou daarboven moeten zitten.
+- Als je naaimachine knoopsgaten naait kan je dit gebruiken om een klein knoopsgat te maken op de markering.
+- Knip het gat open op de markering die je gemaakt hebt.
+- Als je de kap verder hebt afgewerkt kan je een koordje door de rand van de kap halen. Sneakerveters werken hier goed voor.
 
-### Step 6: Prepare Inside and Outside Hood
+### Stap 6: Bereid binnen-en buitenkant kap voor
 
-> Follow this set of steps twice, once for the outer hood and again for the inside hood.
+> Volg deze stappen twee keer, een keer voor de binnenste en een keer voor de buitenste kap.
 
-- Run a Center Panel piece around one outer edge of the Hood Side, good sides together, and pin in place. Stitch.
+- Leg een middendeel van de kap langs de buitenste rand van een zijkant, met goede kanten op elkaar, en speld vast. Stitch.
 - Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
 - Press the seam allowances, and finish them as in Step 2. Trim the seam allowances.
 
