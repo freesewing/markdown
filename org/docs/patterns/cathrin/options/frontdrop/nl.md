@@ -1,12 +1,12 @@
 ---
-title: Front drop
+title: Verlaging voorpand
 path: /en/docs/patterns/cathrin/options/frontdrop
 pattern: cathrin
-option: frontDrop
+option: voorLaag
 ---
 
-![The front drop option on Cathrin](./frontdrop.svg)
+![De optie voor verlaging vooraan bij Cathrin](./frontdrop.svg)
 
-This option determines how far the center front will be lowered at the bottom of your corset.
+Deze optie bepaalt hoe ver het midden van de voorkant verlaagd zal worden aan de onderkant van je korset.
 
-> If you lower this too much, sitting might become an issue.
+> Als je dit te veel verlaagt kan het lastig worden om te gaan zitten.
