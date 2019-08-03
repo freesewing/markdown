@@ -143,31 +143,31 @@ Keer naar de goede kant en strijk plat.
 
 > Wees voorzichtig dat je niet te hard strijkt aangezien je aan de goede kant werkt.
 
-#### Baste the bottom line of the welt so you know where to sew
+#### Drieg de onderrand van de paspel zodat je weet waar te naaien
 
-Baste a stitching guide at the bottom of the welt to mark the welt/seam allowance boundary. This will be the line to sew on later.
+Drieg een gidslijn aan de onderrand van de paspel om aan te gevel waar de grens is tussen paspel en naadwaarde. Op deze lijn wordt later gestikt.
 
-#### Sew the welt to the front
+#### Stik de paspel aan het voorpand
 
 ![Attach the chest pocket welt to the front](attachChestPocketWelt.svg)
 
-Place welt down on good side of front with the folded side downwards, and sew to bottom line. Make sure to stop and start exactly at the edge of the line you basted.
+Leg de paspel op de goede kant van het voorpand met de plooi naar onder toe gericht, en stik vast aan de onderste gemarkeerde lijn. Zorg ervoor dat je exact begint en eindigt op de lijn die je gedriegd hebt.
 
-#### Sew the chest pocket bag to the front
+#### Stik het borstzakdeel aan het voorpand
 
 ![Attach the chest pocket bag to the front](attachChestPocketBag.svg)
 
-Place the pocket bag down on the front. The front with good side up, but the pocket bag with bad side up. Make sure to have the longest side of the chest pocket bag on the highest side of the chest pocket.
+Leg het zakdeel op het voorpand. Het voorpand met de goede kant omhoog, en het zakdeel met de foute kant omhoog. Zorg dat de langste zijde van het zakdeel op de hoogste kant van de borstzak ligt.
 
-> Only slanted chest pockets have a higher and lower side.
+> Enkel schuine borstzakken hebben een hoge en een lage kant.
 
-Sew this in place along the top line. Remember this should be shorter than the bottom row of stitches to attach the welt, since you marked 0.5cm inwards from the corners.
+Stik vast langs de bovenste lijn. Denk eraan dat deze lijn korter moet zijn dan de onderste stiklijn om de paspel vast te maken, aangezien je vanaf de hoeken 0,5 cm naar binnen gemarkeerd hebt.
 
-> As the pocket back is typically some slippery fabric, you probably want to pin or baste this in place prior to sewing.
+> Aangezien het zakdeel waarschijnlijk een glad stofje is, is het geen slecht idee dit op z'n plaats te spelden of driegen voor je het stikt.
 
-#### Cut open chest pocket opening, turn, and press
+#### Knip de zakopening, keer en strijk
 
-![Press the chest pocket](pressChestPocket.svg) Now cut open your welt in the middle of both seamlines. Don't cut to the edge, but create a trianngular shape there.
+![Press the chest pocket](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Don't cut to the edge, but create a trianngular shape there.
 
 Flip the pocket bag and welt to the backside by passing both of them through the opening you just created.
 
