@@ -1,7 +1,7 @@
 ---
-title: Cuff ease
+title: Overwijdte manchet
 pattern: bent
-option: cuffEase
+option: polsOver
 ---
 
-The amount of ease at your cuff/wrist.
+De hoeveelheid overwijdte aan je manchet/pols.

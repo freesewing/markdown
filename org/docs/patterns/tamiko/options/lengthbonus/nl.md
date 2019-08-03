@@ -1,8 +1,8 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/tamiko/options/lengthbonus
 pattern: tamiko
-option: lengthBonus
+option: lengteBonus
 ---
 
-How much longer than the default length to make your top.
+Hoeveel langer dan de standaard wil je je top?

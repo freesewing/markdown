@@ -3,22 +3,22 @@ title: Making Tamiko
 path: /en/docs/patterns/tamiko
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Tamiko, you will need the following:
 
-- Basic sewing supplies
-- About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- Basis naaimateriaal
+- Ongeveer 1 m geschikte stof ([zie Optionele stoffen](#fabric-options))
 
-## Fabric options
+## Stofkeuze
 
 This pattern has a lot of unfinished edges, so you need something that does not ravel. And you want to go for something with a nice drape.
 
 Long story short, go for a knitted fabric, or some light scuba or something. No wovens.
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **1 Tamiko top** on the fold
 
 Tamiko is a zero-waste pattern. It's a rectangle that's cut out on the fold. Not more than that. There's only one part to this top, we will simply refer to it at the **Tamiko top**. It needs to be cut on the fold along the bottom.
@@ -31,7 +31,7 @@ Below is a typical Tamiko draft:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 ### Step 1: Finish the armhole seam
 

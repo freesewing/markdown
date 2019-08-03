@@ -110,4 +110,3 @@ Only `GATSBY_LANGUAGE` is required to get the site up and running.
 | `GATSBY_ALGOLIA_SEARCH_KEY` | The Algolia *read only* key for search (under construction) | `9209470ad243eee797156aa2874d886c` |
 | `GATSBY_ALGOLIA_UPDATE_KEY` | The *write* key to update the Algolia search index at build time (under construction) | `ba780a3afe2118062ee08ea4fb54c097` |
 
-

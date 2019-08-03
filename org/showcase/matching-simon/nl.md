@@ -12,7 +12,7 @@ author: ecmtts
 
 ![That fabric is gorgeous](img/showcase/matching-simon/view3.jpg)
 
-![Shoulder slope](/img/showcase/matching-simon/view4.jpg)
+![Schouderhelling](/img/showcase/matching-simon/view4.jpg)
 
 ![View from the back](/img/showcase/matching-simon/view5.jpg)
 

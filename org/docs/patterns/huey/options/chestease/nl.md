@@ -1,8 +1,8 @@
 ---
-title: Chest ease
+title: Overwijdte borst
 path: /en/docs/patterns/huey/options/chestease
 pattern: huey
-option: chestEase
+option: borstOver
 ---
 
-The amount of ease at your chest.
+De hoeveelheid overwijdte aan je borst.

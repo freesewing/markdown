@@ -64,13 +64,13 @@ void macro("scalebox", {
 
 The macro takes a single configuration object with the following properties:
 
-| Property | Default                  | Type                | Description                            |
-| -------- | ------------------------ | ------------------- | -------------------------------------- |
-| `at`     |                          | [Point](/api/point) | The point to anchor the *scale box* on |
-| `lead`   | FreeSewing               | String              | The lead text above the title          |
-| `title`  | *pattern name + version* | String              | The title text                         |
-| `text`   | (\*)                   | String              | The text below the title               |
-| `rotate` | 0                        | Number              | Rotation in degrees                    |
+| Propriété | Défaut                   | Type                | Description                            |
+| --------- | ------------------------ | ------------------- | -------------------------------------- |
+| `at`      |                          | [Point](/api/point) | The point to anchor the *scale box* on |
+| `lead`    | FreeSewing               | String              | The lead text above the title          |
+| `title`   | *pattern name + version* | String              | The title text                         |
+| `text`    | (\*)                   | String              | The text below the title               |
+| `rotate`  | 0                        | Number              | Rotation in degrees                    |
 
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`

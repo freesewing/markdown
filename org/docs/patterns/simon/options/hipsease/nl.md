@@ -1,8 +1,8 @@
 ---
-title: Hips ease
+title: Overwijdte heup
 path: /en/docs/patterns/simon/options/hipsease
 pattern: simon
-option: hipsEase
+option: heupOver
 ---
 
-How much room do you want at the hips?
+Hoeveel ruimte wil je aan je heupen?

@@ -1,9 +1,9 @@
 ---
-title: Length bonus
+title: Bonus lengte
 pattern: bent
-option: lengthBonus
+option: lengteBonus
 ---
 
-This option controls how far the block extend below your hips.
+Deze optie bepaalt hoeveel lager dan je heuplijn het basispatroon komt.
 
-> Note that by default this block is as long as your hip line, which is almost certainly too short for the final garment.
+> Dit basispatroon komt standaard tot aan je heuplijn, wat bijna gegarandeerd te kort zal zijn voor het uiteindelijke kledingstuk.

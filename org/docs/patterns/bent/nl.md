@@ -1,4 +1,4 @@
 ---
-title: Bent body block
+title: Bent basisvorm
 ---
 

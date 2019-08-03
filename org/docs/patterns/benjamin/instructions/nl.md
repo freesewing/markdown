@@ -1,186 +1,186 @@
 ---
-title: Making Benjamin
+title: Benjamin maken
 ---
 
-## What you need
+## Wat je nodig hebt
 
-To make Benjamin, you will need the following:
+Om Benjamin te maken heb je het volgende nodig:
 
-- Basic sewing supplies
-- About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over pieces of a recent project could work too.
-- About the same amount of interfacing
-- Optionally: Bow tie adjustment ribbon and hardware
+- Basis naaimateriaal
+- Ongeveer 0.5 meter geschikte stof ([zie Optionele stoffen](#fabric-options)). Restjes van een recent project kunnen ook dienen.
+- Ongeveer even veel tussenvoering
+- Optioneel: een lintje en hardware om de vlinderdas aanpasbaar te maken
 
-## Notes and tips
+## Tips en opmerkingen
 
-### Precision
+### Precisie
 
-Since a bow tie is a rather small item, precission with sewing is key to a good result. Any slight difference between the upper and lower part of the bow will stand out. To get a great result I found it very helpful to trace the actual seam lines onto the interfacing and follow that while sewing.
+Aangezien een vlinderdas een klein ding is, is het belangrijk om precies te naaien voor een goed resultaat. Een klein verschil tussen de onder- en bovenkant van de strik valt meteen op. Om een goed resultaat te krijgen vond ik het handig de eigenlijke stiklijnen op de tussenvoering te tekenen en die tijdens het naaien te volgen.
 
-### Press wisely
+### Strijk wijs
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Tijdens de constructie zal gevraagd worden je stof te strijken. Wees voorzichtig en gebruik niet te veel hitte op een delicate stof die daar niet tegen kan.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan je zien wat de beste temperatuur is voor de stof die je gebruikt.
 
-### Bow tie fabrics
+### Stoffen voor een vlinderdas
 
-The bow ties you find in the store are typically make out of silk or some imitation silk poly. So it will come as no surprise that those are good options. Any type of fabric that you like the pattern or looks of can become a candidate for a bow tie. The only real limitation is that the bow tie will have to be turned inside out through a tube that is only 2cm across. With some thicker fabrics, this will be a difficult proposition.
+De vlinderdasjes die je in de winkel vindt zijn meestal gemaakt uit zijde of imitatiezijde (vaak polyester). Het is dus niet verrassend dat dit goede opties zijn. Eender welke stof waarvan je het patroon of de textuur mooi vindt kan een potentiële vlinderdas zijn. De enige echte limiet is dat de vlinderdas door een opening van slechts 2 cm gekeerd moet worden. Met sommige zwaardere stoffen kan dit een probleem vormen.
 
-Bow ties are more whimsical than normal ties, so having a fun pattern or loud colour is not as much of a problem as it would be with a regular tie.
+Vlinderdasjes zijn speelser dan stropdassen, dus een leuke print of een felle kleur is niet zo vreemd als bij een gewone das.
 
-Silk and silk imitation is slippery and tricky to work with. This can be compensated for with a fusible interfacing.
+Zijde en imitatiezijde is glad en lastig om mee te werken. Dit kan je compenseren met een kleefbare tussenvoering.
 
-### Interfacing
+### Tussenvoering
 
-Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing comes in two main types; fusible and sew-in.
+Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Tussenvoering bestaat in twee hoofdvarianten: kleefbaar en om in te naaien.
 
-The fusible variety has some adhesive attached to one side that is activated with the heat of your iron. This attaches the interfacing to the fabric and the two can then be used as one. Fusible interfacing can be a great option if your fabric allows the heat required, and you use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
+De kleefbare variant heeft een lijmlaag aan één kant die geactiveerd wordt met de hitte van je strijkijzer. Dit bevestigt de tussenvoering aan de stof, en vanaf dan worden de twee als één stuk behandeld. Kleefbare tussenvoering kan een geweldige optie zijn als je stof de nodige hitte kan verdragen, en je goede kwaliteit gebruikt. Sommige tussenvoeringen zijn van mindere kwaliteit waardoor de lijm loslaat, wat zichtbaar wordt als bubbels op het oppervlak van je vlinderdas. Kwalitatieve tussenvoering en een correcte applicatie zou niet tot deze problemen mogen leiden.
 
-Sew-in interfacing is sew into place before the fabric pieces are used. You attach the interfacing to the fabric by sewing the two together inside the seam allowance. If you use a seam allowance of 6mm, you will sew the interfacing at 3mm. Anything may work as a sew-in interfacing, including an extra layer of the same fabric.
+Tussenvoering om in te naaien wordt op zijn plek genaaid voor de stof gebruikt wordt. Je bevestigt de tussenvoering aan de stof door de twee binnen de naadtoeslag aan elkaar te naaien. Als je een naadtoeslag van 6 mm gebruikt naai je de tussenvoering op 3 mm vast. Eender wat kan dienen als tussenvoering om in te naaien, alsook een extra laag van je stof.
 
-The key part of the interfacing is to give your bow tie the structure you like. You can have a bow tie that stands proud and crisp. Or one that droops a bit at the tips. This is all about your preference.
+Het doel van de tussenvoering is je vlinderdas de structuur te geven die je wil. Je kan kiezen voor een das met veel volume en schwung. Of een die de boel wat meer laat hangen. Dit hangt allemaal af van je persoonlijke voorkeur.
 
-It is good to experiment with the interfacing on a scrap piece of your fabric, specially with the fusible kind. You want ot make sure you get the structure you like before commiting it to your pattern pieces.
+Het is goed om met de tussenvoering te experimenteren op een restje stof, vooral met de kleefbare soort. Je wil zeker zijn dat je de gewenste structuur krijgt voor je alles aan je patroondelen kleeft.
 
-Although the pattern calls for applying interfacing to all parts, if you have thick or stiff fabric, you may be able to only do one side, or no sides at all.
+Hoewel het patroon zegt tussenvoering op alle delen te gebruiken kan je kiezen om dit maar aan één kant (of zelfs geen kant) te doen, afhankelijk van de dikte en structuur van je stof.
 
-### Choosing your grain
+### Kies je draadrichting
 
-This pattern includes a grain line. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Dit patroon heeft een draadrichting. Deze dient vooral voor de tussenvoering. Aangezien elk patroondeel verstevigd wordt met tussenvoering is de draadrichting van de stof zelf niet zo belangrijk. Je kan hier zelfs afwijken van de standaard voor een ander effect.
 
-> If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/en/docs/sewing/fabric-grain).
+> Als dit allemaal heel verwarrend klinkt, stel ik voor dat je de pagina over [Draadrichting](/en/docs/sewing/fabric-grain) eens doorneemt.
 
-### Bow tie adjustment ribbon
+### Vlinderdas aanpassen met een lintje
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Dit patroon kan dienen om een vlinderdas te maken voor een specifieke halsomtrek. Het is ook mogelijk een patroon te maken met een lintje en hardware zodat de vlinderdas aanpasbaar is voor verschillende maten. Dit is handig als niet al je hemden dezelfde halsmaat hebben, of als je soms een hemd met een lossere hals wilt.
 
-These ribbons can be found in the better haberdasheries or can be ordered online.
+Deze lintjes kan je vinden in de betere merceriezaak of online.
 
 ### Seam allowance
 
-Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Aangezien de vlinderdas met de goede kanten tegen elkaar genaaid wordt, moet het hele ding binnenstebuiten gekeerd worden. Het is geen slecht idee om een kleine naadwaarde van 6 mm (1/4 inch) te gebruiken om dit makkelijker te maken.
 
-## Cutting
+## Knippen
 
-Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
+Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je moet uitknippen. Hier zijn twee typische knipvoorbeelden.
 
-**Without adjustment ribbon**
+**Zonder aanpaslintje**
 
-- **Main fabric** 
- - Cut **4 Knot**
- - Cut **2 Collar band** 
-- **Interfacing** 
- - Cut **4 interfacing knot**
- - Cut **2 interfacing collar band** 
+- **Buitenstof** 
+ - Knip **4 Knoop**
+ - Knip **2 Kraagband** 
+- **Tussenvoering** 
+ - Knip **4 tussenvoering knoop**
+ - Knip **2 tussenvoering kraagband** 
 
-![A typical Benjamin draft without adjustment ribbon](layout1.svg)
+![Een standaard Benjamin zonder aanpaslintje](layout1.svg)
 
-**With adjustment ribbon**
+**Met aanpaslintje**
 
-- **Main fabric** 
- - Cut **1 Knot 1**
- - Cut **1 Knot 2**
- - Cut **2 Knot 3**
-- **Interfacing** 
- - Cut **1 interfacing knot 1**
- - Cut **1 interfacing knot 2**
- - Cut **2 interfacing knot 3**
+- **Buitenstof** 
+ - Knip **1 Knoop 1**
+ - Knip **1 Knoop 2**
+ - Knip **2 Knoop 3**
+- **Tussenvoering** 
+ - Knip **1 tussenvoering knoop 1**
+ - Knip **1 tussenvoering knoop 2**
+ - Knip **2 tussenvoering knoop 3**
 
-![A typical Benjamin draft with adjustment ribbon](layout2.svg)
+![Een standaard Benjamin met aanpaslintje](layout2.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Apply interfacing
+### Stap 1: Bevestig tussenvoering
 
-Apply interfacing to all parts where you feel it's needed.
+Bevestig je tussenvoering aan alle delen waar je het nodig acht.
 
-### Without adjustment ribbon
+### Zonder aanpaslintje
 
-#### Step 2: Sew the knot to the collar band
+#### Stap 2: Naai de knoop aan de kraagband
 
-Put the collar band part on the bow tie knot part, right sides together. Allign the ends of both parts. Now sew across the end to join the parts.
+Leg de kraagband op de knoop, met de goede kanten op elkaar. Leg de uiteindes van beide delen gelijk. Stik langs het uiteinde om de twee delen te verbinden.
 
-![Sew the collar band to the knot](step12.png)
+![Stik de kraagband aan de knoop](step12.png)
 
-Do this for each end on both collar bands.
+Doe dit voor beide kraagbanden.
 
-Press open all the seams.
+Strijk alle naden open.
 
-You now have two identical single sided bow ties.
+Je hebt nu twee identieke helften van een vlinderdas.
 
-#### Step 3: Join both sides
+#### Stap 3: Bevestig twee kanten
 
-![Sew both sides together](step13.png)
+![Stik beide kanten aan elkaar](step13.png)
 
-Lay both the sides you made on top of each other, right sides together. Sew all along, but leaving an area of 5cm open in the middle of the collar band. Through this opening we will turn the bow tie right side out.
+Leg de beide helften die je gemaakt hebt op elkaar, met de goede kanten samen. Naai rondom, maar laat een stukje van 5 cm open in het midden van de kraagband. Door deze opening gaan we de vlinderdas naar de goede kant keren.
 
-#### Step 4: Turning
+#### Stap 4: Keren
 
-![Clip seam allowance](step14.png)
+![Geef knipjes in de naadwaarde](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Gebruik dan de achterkant van een grote haaknaald, of een ander lang en smal object, om de alles door de opening naar de juiste kant te keren. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
 
-Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
+Zodra je alles naar de juiste kant gekeerd hebt controleer je of alle hoeken en kantjes volledig naar buiten gedrukt zijn en strijk je alles grondig plat.
 
-#### Step 5: Closing
+#### Stap 5: Sluiten
 
-![Closing the bow tie](step15.png)
+![Sluit de vlinderdas](step15.png)
 
-Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Nu moeten we enkel nog de kleine opening waar we de vlinderdas door gekeerd hebben sluiten. Je kan dit met de hand doen en een blinde steek gebruiken. Je kan ook de kraagband net aan de rand doorstikken met de naaimachine. Aangezien de band normaal onder de kraag van je hemd zit zal dit niet zo opvallend zijn.
 
-Now give it one last press and admire your work.
+Strijk nu alles nog eens grondig en bewonder je werk.
 
-### With adjustment ribbon
+### Met aanpaslintje
 
-#### Step 2: Attaching the ribbon
+#### Stap 2: Lintje bevestigen
 
-![Sew the ribbon to part 1](step22.png)
+![Stik het lintje aan deel 1](step22.png)
 
-The first thing to do is to sew the adjustment ribbon to the shortest of the bow parts. The ribbon should be 290mm long. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+De eerste stap is het lintje aan het kortste strikdeel vastnaaien. Het lintje zou 290 mm lang moeten zijn. Als die niet zo is moet je opletten dat het lintje en het korte strikdeel samen even lang zijn als het lange strikdeel.
 
-Put right sides of the short bow piece and the ribbon together.
+Leg het korte strikdeel en het lintje met de goede kanten op elkaar.
 
-Now sew across the end to join the parts.
+Stik langs het uiteinde om de twee delen te verbinden.
 
-#### Step 3: Join both sides
+#### Stap 3: Bevestig twee kanten
 
-![Sew both sides together](step23.png)
+![Stik beide kanten aan elkaar](step23.png)
 
-Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Leg beide delen van de medium strik op elkaar, met de goede kanten tegen elkaar. Leg het lange strikdeel bovenop het lintje en het korte strikdeel, ook met de goede kanten op elkaar.
 
-Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
+Naai rondom, maar laat de korte uiteindes open. Door deze openingen zullen we de delen van de vlinderdas keren.
 
-#### Step 4: Turning
+#### Stap 4: Keren
 
-![Clip seam allowance](step14.png)
+![Geef knipjes in de naadwaarde](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Knip de naadtoeslag bij waar nodig en geef hier en daar kleine knipjes om de curves gladder te maken.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Gebruik dan de achterkant van een grote haaknaald, of een ander lang en smal object, om de alles door de opening naar de juiste kant te keren. Begin door de twee stukken stof aan het uiteinde van de vlinderdas zachtjes uit elkaar te trekken. Duw dan het uiteinde van de strik tussen de twee stukken stof. Blijf zachtjes duwen terwijl je de rest van de das eroverheen trekt. Dit kan een beetje vervelend zijn. Neem je tijd en werk zachtjes. Te hard duwen is snel gebeurd en heeft scheuren of gesprongen naden tot gevolg.
 
-Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
+Zodra je alles naar de juiste kant gekeerd hebt controleer je of alle hoeken en kantjes volledig naar buiten gedrukt zijn en strijk je alles grondig plat.
 
-Do this with both parts.
+Doe dit met beide delen.
 
-#### Step 5: Add hardware
+#### Stap 5: Voeg hardware toe
 
-Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
+Nu is het tijd voor de twee stukjes hardware die de vlinderdas aanpasbaar maken. Het ovaalvormige stuk wordt bevestigd aan het deel zonder aanpaslintje. En het stuk met het t-vormige aanhangsel komt aan het deel met het lintje.
 
-First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+Begin met het deel zonder lintje. Dit is omdat het stuk stof van het deel met lintje door het ovaalvormige stuk moet voor je de hardware bevestigt. Als je het in de andere volgorde doet krijg je het er misschien niet door.
 
-To finish the ends, we're going to fold the fabric in three steps:
+Om de eindjes af te werken gaan we de stof in drie stappen plooien:
 
-![Three steps to fold, one step to sew](step25.png)
+![Drie stappen te plooien, één stap te naaien](step25.png)
 
-First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Eerst plooien we de zijkanten schuin naar binnen. Dan plooien we het uiteinde om met maar een kleine naadwaarde, ongeveer 5 mm. Dan plooien we dit nog een keer om, ongeveer 1 cm. Als laatste schuiven we het ovalen stuk onder deze laatste vouw en stikken we langs het randje.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Rijg nu het lintje door de ovaal en werk op dezelfde manier af.
 
-Hook the T in one of the adjustment holes and your bow tie is done!
+Haak het t-vormige stuk in één van de aanpasgaatjes en je vlinderdas is af!
 
-![Good job!](finished.gif)
+![Mooi werk!](finished.gif)

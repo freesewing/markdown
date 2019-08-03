@@ -1,9 +1,9 @@
 ---
-title: Advanced guides
+title: Guides avancés
 ---
 
- - [Part dependencies](/advanced/dependencies)
-- [Part inheritance](/advanced/inject)
-- [Pattern inheritance](/advanced/inheritance)
-- [Sharing data between parts](/advanced/store)
-- [Using macros](/advanced/macros)
+ - [Dépendances des parties](/advanced/dependencies)
+- [Héritage de partie](/advanced/inject)
+- [Héritage de patron](/advanced/inheritance)
+- [Partager des données entre des parties](/advanced/store)
+- [Utiliser des macros](/advanced/macros)

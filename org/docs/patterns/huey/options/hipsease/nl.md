@@ -1,8 +1,8 @@
 ---
-title: Hips ease
+title: Overwijdte heup
 path: /en/docs/patterns/huey/options/hipsease
 pattern: huey
-option: hipsEase
+option: heupOver
 ---
 
-The amount of ease at your hips.
+De hoeveelheid overwijdte aan je heupen.

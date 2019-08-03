@@ -1,8 +1,8 @@
 ---
-title: Leg bonus
+title: Bonus beenlengte
 path: /en/docs/patterns/shin/options/legbonus
 pattern: shin
-option: legBonus
+option: beenBonus
 ---
 
-How much do you want to lengthen the legs?
+Hoeveel langer wil je de benen maken?

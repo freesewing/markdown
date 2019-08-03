@@ -1,8 +1,8 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/penelope/options/lengthbonus
 pattern: penelope
-option: lengthBonus
+option: lengteBonus
 ---
 
 How much longer than the default length to make your skirt.

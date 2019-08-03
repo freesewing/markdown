@@ -1,10 +1,10 @@
 ---
-title: Part dependencies
+title: Dépendances des parties
 ---
 
-Part dependencies are set in the [pattern configuration](/config), and control the order in which parts are drawn. FreeSewing will make sure that before drafting a part, it will first draft all its dependencies.
+Les dépendances des parties sont réglées dans la [configuration du patron](/config), et contrôle l'ordre dans lequel les parties sont dessinées. FreeSewing veillera à ébaucher toutes les dépendances d'une partie avant de l'ébaucher en elle-même.
 
-Let's look at an example:
+Regardons un exemple :
 
 ```js
 dependencies: {
@@ -14,18 +14,18 @@ dependencies: {
 }
 ```
 
-This could be from a T-shirt pattern where the `front` and `back` patterns are very similar, so they both are inheriting a `base` part. In addition, the `sleeve` part needs to be drafted after the `front` and `back` part because in `front` and `back` we store the length of the armhole seam in the [store](/api/store) and we need that info to fit the sleevecap to the armhole.
+Cela pourrait provenir d'un patron de T-shirt où les patrons du `devant` et du `dos` sont très similaire, alors ils héritent tous deux d'une partie `base`. De plus, la partie `manche` doit être ebauchée après les parties `devant` et `dos` car nous stockons dans ces deux parties la longueur de la couture d'emmanchure dans la [boutique](/api/store) et nous avons besoin de cette information pour ajuster la tête de manche à l'emmanchure.
 
-Now if a user requests to draft only the `sleeve` part, FreeSewing will still draft:
+Maintenant, si un utilisateur émet la requête de n'ébaucher que la partie `manche`, FreeSewing va tout de même ébaucher :
 
-- First the `base` part
-- Then the `front` and `back` parts
-- Finally the `sleeve` part
+- Tout d'abord la partie `base`
+- Puis les parties `devant` et `dos`
+- Et enfin la partie `manche`
 
-but it will only render the `sleeve` part, as that's the only thing the user requested.
+mais elle va seulement rendre visuellement la partie `manche`, puisque c'est la seule chose demandée par l'utilisateur.
 
 <Note>
 
-For inheriting parts, please refer to [part inheritance](/advanced/inject).
+Pour hériter de parties, merci de vous référer à [Héritage de partie](/advanced/inject).
 
 </Note>

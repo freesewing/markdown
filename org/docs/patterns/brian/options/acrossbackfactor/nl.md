@@ -1,10 +1,10 @@
 ---
-title: Across back factor
+title: Rugwijdte
 path: /en/docs/patterns/brian/options/acrossbackfactor
 pattern: brian
-option: acrossBackFactor
+option: breedteRugFactor
 ---
 
-![The across back option on Brian](./acrossbackfactor.svg)
+![De optie voor de rugwijdte voor Brian](./acrossbackfactor.svg)
 
-Controls your across back width as a factor of your shoulder to shoulder measurement
+Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat

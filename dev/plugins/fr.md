@@ -193,7 +193,7 @@ Remember that:
 - The `insertText` hook will receive a locale and string and you should return a string.
 - All other hooks receive an object. You don't need to return anything, but rather modify the object you receive.
 
-Let's look at an example:
+Regardons un exemple :
 
 ```js
 import myStyle from './style';

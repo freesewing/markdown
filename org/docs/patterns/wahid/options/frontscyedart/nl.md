@@ -9,7 +9,7 @@ This pattern comes with a default 1 cm scye dart (think armhole dart) at the fro
 
 You can increase or decrease the dart to influence the armhole.
 
-> #### What's the point?
+> #### Waarom?
 > 
 > The point of this dart is to make sure the armhole lies flat against your body, rather than gape. Given that there is no sleeve, a gaping armhole is particularly unsightly.
 > 

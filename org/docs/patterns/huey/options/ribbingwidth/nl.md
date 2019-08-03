@@ -1,8 +1,8 @@
 ---
-title: Ribbing width
+title: Breedte boord
 path: /en/docs/patterns/huey/options/ribbingwidth
 pattern: huey
-option: ribbingWidth
+option: boordBreedte
 ---
 
-The width of the ribbing at the hem and cuffs.
+De breedte van de boord aan de zoom en pols.

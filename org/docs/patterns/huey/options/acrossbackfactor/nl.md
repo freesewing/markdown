@@ -1,8 +1,8 @@
 ---
-title: Across back factor
+title: Rugwijdte
 path: /en/docs/patterns/huey/options/acrossbackfactor
 pattern: huey
-option: acrossBackFactor
+option: breedteRugFactor
 ---
 
-Controls your across back width as a factor of your shoulder to shoulder measurement
+Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat

@@ -1,4 +1,4 @@
 ---
-title: Bruce boxer briefs
+title: Bruce boxershort
 ---
 

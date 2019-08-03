@@ -1,7 +1,7 @@
 ---
-title: Cuff ease
+title: Overwijdte manchet
 pattern: simon
-option: cuffEase
+option: polsOver
 ---
 
 Determines how much the cuff is larger than your wrist.

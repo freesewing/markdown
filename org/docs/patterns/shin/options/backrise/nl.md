@@ -1,12 +1,12 @@
 ---
-title: Back rise
+title: Hoogte achter
 path: /en/docs/patterns/shin/options/backrise
 pattern: shin
-option: backRise
+option: achterHoogte
 ---
 
-How much extra rise do you want at the back?
+Hoeveel extra hoogte wil je achteraan?
 
 This factor will raise the waist at the back of your swim trunks only.
 
-> If you want to raise the waist overall, that's what the **rise** option does
+> Als je de taille in het algemeen wil verhogen, dat is wat de **hoogte** optie doet

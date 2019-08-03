@@ -5,4 +5,4 @@ pattern: shin
 option: stretch
 ---
 
-The amount of overal (horizontal) stretch.
+De hoeveelheid algemene (horizontale) stretch.

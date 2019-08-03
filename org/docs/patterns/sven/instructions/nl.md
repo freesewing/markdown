@@ -3,50 +3,50 @@ title: Making Sven
 path: /en/docs/patterns/sven
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Sven, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 1.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - Ribbing fabric for the cuffs and neck opening
 
-> **A serger/overlock is nice, but optional**
+> **Een overlockmachine is handig, maar optioneel**
 > 
-> As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
+> Zoals met alle gebreide en elastische stoffen maakt een overlock het leven eenvoudiger.
 > 
-> If you do not have one of those, don't despair. You don't really need it. Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
+> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. Omdat deze zij- en schoudernaden niet echt uitgerokken worden kan je ze gewoon stikken met een rechte steek of een smalle zigzagsteek.
 
-## Fabric options
+## Stofkeuze
 
 Sven can be any sweatshirt you want it to be. From wovens to knit or even scuba, you can't really go wrong as long as you stick with something that has a bit of weight to it.
 
 Have a look at [the Sven showcases](/showcase/pattern/sven) for inspiration.
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
- - Cut **1 back** on the fold
- - Cut **1 front** on the fold
+- **Buitenstof** 
+ - Knip **1 rugpand** aan de stofvouw
+ - Knip **1 voorpand** aan de stofvouw
  - Cut **2 sleeves** with good sides together
 - **Ribbing fabric** 
  - Cut **1 strip** for the neck opening binding
  - Cut **2 strips** for the cuffs
  - Cut **1 strip** for the hem
 
-### Caveats
+### Opmerkingen
 
 The ribbing parts are not included on the pattern because they're just rectangular. We'll figure it out as we go along.
 
 Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
 
-Below is a typical draft layout:
+Hier is een typische layout:
 
 ![A typical Sven draft](layout.svg) % include scalebox.html %}
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 ### Step 1: Close shoulder seams
 

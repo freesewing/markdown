@@ -3,10 +3,10 @@ title: Jersey
 path: /en/docs/sewing/jersey
 ---
 
-![A piece of grey jersey](knit-fabric.jpg)
+![Een stuk grijze jersey](knit-fabric.jpg)
 
-Jersey is a type of knit fabric. Jersey has a flat and a piled side, and is often used for T-shirts.
+Jersey is een type gebreide stof. Jersey heeft een rechte en een averechte kant, en wordt vaak voor t-shirts gebruikt.
 
-Jersey can also be double-knitted (sometimes called interlock jersey). This produces a thicker fabric with the flat sides on the outside and the piled sites locked in the middle.
+Jersey kan ook dubbel gebreid zijn (en heet soms interlock). Dit zorgt voor een dikkere stof met de rechte kanten aan de buitenkant en de averechte kanten verstopt in het midden.
 
-Jersey has good drape which makes it a popular choice for women's tops and dresses.
+Jersey valt mooi door, waardoor het een populaire keuze is voor damestops en jurken.

@@ -1,7 +1,7 @@
 ---
 title: Overwijdte heup
 pattern: aaron
-option: hipsEase
+option: heupOver
 ---
 
 ![De optie voor overwijdte aan de heupen bij Aaron](./hipsease.svg)

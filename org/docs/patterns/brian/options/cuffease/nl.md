@@ -1,10 +1,10 @@
 ---
-title: Cuff ease
+title: Overwijdte manchet
 path: /en/docs/patterns/brian/options/cuffease
 pattern: brian
-option: cuffEase
+option: polsOver
 ---
 
-![The cuff ease factor on Brian](./cuffease.svg)
+![De factor voor overwijdte pols bij Brian](./cuffease.svg)
 
-This option controls the ease at your wrist.
+Deze optie bepaalt de hoeveelheid overwijdte aan je pols.

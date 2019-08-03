@@ -1,5 +1,5 @@
 ---
-title: Tip width
+title: Breedte punten
 path: /en/docs/patterns/trayvon/options/tipwidth
 pattern: trayvon
 option: tipWidth

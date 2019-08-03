@@ -11,17 +11,17 @@ In this particular case, there's a lot of video material available, but it was o
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
-## What you need
+## Wat je nodig hebt
 
 To make Theodore, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
 - About a meter of lining fabric
 - Fusible interfacing for back pockets and waistband
 - A zipper, button and hook for the fly
 
-## Fabric options
+## Stofkeuze
 
 You have a lot of options here, but keep in mind that these are classic cut trousers. In other words, do not use stretch, denim, pleather of that sort of thing. Safe bets are wool, cotton, or linen, possibly blended with some synthetic.
 
@@ -31,9 +31,9 @@ For **cotton**, go for a heavier weight. Cotton might also be a bit easier on th
 
 Nothing beats **linen** on a hot summer day. It's fun to work with too, but it does wrinkle like a mofo, and even the most neatly made trousers look somewhat messy when made in linen. What I'm saying is, maybe not for your first pair.
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 back(s)** with good sides together
  - Cut **2 front(s)** with good sides together
  - Cut **1 waistband left**
@@ -50,12 +50,12 @@ Nothing beats **linen** on a hot summer day. It's fun to work with too, but it d
  - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
  - Cut **2 back inner pocket bag(s)** 
  - Cut **2 back outer pocket bag(s)** 
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **1 waistband interfacing left**
  - Cut **1 waistband interfacing right**
  - Cut **4 back pocket interfacing(s)**
 
-### Caveats
+### Opmerkingen
 
 - The **front lining** is cut from the **front** part on your draft, down to the line just below the knee
 - Pay attention to the grainline on the **fly piece**, **fly shield**, and **side piece**
@@ -70,7 +70,7 @@ Below is a typical draft layout of Theodore:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 > Many of the steps below are to be repeated for both trouser legs.
 > 

@@ -1,12 +1,12 @@
 ---
-title: Length bonus
+title: Bonus lengte
 path: /en/docs/patterns/huey/options/lengthbonus
 pattern: huey
-option: lengthBonus
+option: lengteBonus
 ---
 
-The amount of extra length at the hem.
+De hoeveelheid extra lengte aan de zoom.
 
-> #### Length bonus is relative to the length of the Brian Body Block
+> #### De extra lengte hangt samen met de lengte van de Brian Basisvorm
 > 
-> This length bonus is in addition to the length of the basic block this pattern is based on. In other words, the default is not zero.
+> Deze extra lengte wordt toegevoegd aan de lengte van de basisvorm waar dit patroon op gebaseerd is. In andere woorden, de standaard is niet nul.

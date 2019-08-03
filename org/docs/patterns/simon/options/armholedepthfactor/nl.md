@@ -1,8 +1,8 @@
 ---
-title: Armhole depth factor
+title: Diepte armsgat factor
 path: /en/docs/patterns/simon/options/armholedepthfactor
 pattern: simon
-option: armholeDepthFactor
+option: armsgatDiepteFactor
 ---
 
-This option controls the depth of the armhole.
+Deze optie bepaalt de diepte van het armsgat.

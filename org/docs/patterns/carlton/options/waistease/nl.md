@@ -1,8 +1,8 @@
 ---
-title: Waist ease
+title: Overwijdte taille
 path: /en/docs/patterns/carlton/options/waistease
 pattern: carlton
-option: waistEase
+option: tailleOver
 ---
 
-The amount of ease at your waist.
+De hoeveelheid overwijdte aan je taille.

@@ -1,8 +1,8 @@
 ---
-title: Head ease
+title: Overwijdte hoofd
 path: /en/docs/patterns/florent/options/headease
 pattern: florent
-option: headEase
+option: hoofdOver
 ---
 
-The amount of ease around your head.
+De hoeveelheid overwijdte rond je hoofd.

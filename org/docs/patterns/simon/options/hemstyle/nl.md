@@ -7,6 +7,6 @@ option: hemStyle
 
 What style of hem line do you want?
 
-- Straight
+- Recht
 - Baseball
 - Slashed

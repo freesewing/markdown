@@ -1,44 +1,44 @@
 ---
-title: Pattern inheritance
+title: Héritage de patron
 ---
 
-If your pattern is based on, or extending, another pattern (some of) your pattern parts will need to be drafted by the parent pattern.
+Si votre patron est basé sur, ou étend un autre patron (certaines) parties de votre patron devront être ébauchées à partir du patron parent.
 
-In such a case, rather than return our own draft method for the part, you should instantiate the parent pattern, and return its part draft method:
+Dans ce cas, plutôt que de retourner notre propre méthode d'ébauche pour la partie, il est préférable d'instancier le patron parent, et de retourner sa méthode d'ébauche :
 
 ```js
 import freesewing from "@freesewing/core";
 import Brian from "@freesewing/brian";
 import plugins from "@freesewing/plugin-bundle";
 import config from "../config";
-// Parts
+// Parties
 import draftBack from "./back";
 
-// Create new design
+// Créer un nouveau modèle
 const Sorcha = new freesewing.Design(config, plugins);
 
-// Attach our own draft method to the prototype
+// Attacher notre propre méthode d'ébauche au prototype
 Sorcha.prototype.draftBack = part => draftBack(part);
 
-// Attach the inherited draft method to the prototype
+// Attacher la méthode d'ébauche héritée au prototype
 Sorcha.prototype.draftBase = function(part) {
-  // Getting the base part from Brian
+  // Obtenir la partie base depuis Brian
   return new Brian(this.settings).draftBase(part);
 };
 ```
 
 <Warning>
 
-Because we're using to the `this` keyword here, you cannot use the arrow notation.
+Puisque nous utilisons le mot clé `this` (ça), vous ne pouvez pas utiliser la notation fléchée.
 
 </Warning>
 
 ## Configuration
 
-The inherited pattern parts will use the configuration of your pattern. You must take care to make sure that your pattern has all the options the parent pattern requires.
+Les parties de patron héritées vont employer la configuration de votre patron. Vous devez vous assurer que votre patron possède toutes les options requises par le patron parent.
 
-For example, if you inherit from a pattern that has a `chestEase` option, you will need to add that option to your own patter, because the inherited parts will depend on it.
+Par exemple, si vous héritez d'un patron qui a l'option `chestEase` (aisance de poitrine), vous devrez ajouter cette option à votre propre patron, car les parties héritées vont dépendre de cette option.
 
-## Dependencies
+## Dépendances
 
-When extending a pattern, you should add it as a peer dependency, rather than a regular dependency. Doing so will avoid that the parent pattern will get bundled with your own pattern.
+Lorsque vous étendez un patron, vous devriez l'ajouter en tant que dépendance pair, plutôt que dépendance normale. Le faire évitera que le patron parent soit rassemblé avec votre propre patron.

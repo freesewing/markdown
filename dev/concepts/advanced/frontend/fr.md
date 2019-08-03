@@ -1,5 +1,5 @@
 ---
-title: Frontend integration
+title: Intégration du frontend
 ---
 
-FIXME: Write documentation for frontend developers
+FIXME: écrire la documentation pour les développeurs du frontend

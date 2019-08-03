@@ -1,12 +1,12 @@
 ---
-title: Trimming
+title: Bijknippen
 path: /en/docs/sewing/trimming
 ---
 
-![Seam allowance being trimmed](trimming.jpg)
+![Naadtoeslag wordt bijgeknipt](trimming.jpg)
 
-Trimming, or to trim, is cutting away excessive SA.
+Bijknippen is het wegknippen van overtollige NT.
 
-Often the goal of trimming is to reduce bulk in the seams of a garment.
+Vaak is het doel van bijknippen het reduceren van bulk in de naden van een kledingstuk.
 
-> Picture by [Heather](http://www.feathersflights.com/2011/02/trimming-and-grading-seams.html)
+> Foto door [Heather](http://www.feathersflights.com/2011/02/trimming-and-grading-seams.html)

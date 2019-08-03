@@ -3,17 +3,17 @@ title: Making Wahid
 path: /en/docs/patterns/wahid
 ---
 
-## What you need
+## Wat je nodig hebt
 
 To make Wahid, you will need the following:
 
-- Basic sewing supplies
+- Basis naaimateriaal
 - One meter of a suitable fabric ([see Fabric options](#fabric-options))
 - One meter of lining fabric
 - Fusable interfacing
 - Buttons
 
-## Fabric options
+## Stofkeuze
 
 All suiting fabrics are a great choice for your waistcoats. Any fabric shop that's worth your business should have a suiting section. You can just walk in, ask where you can find the fabric for suits, and pick out something you like.
 
@@ -21,23 +21,23 @@ These fabrics are typically wool, but you can also be a bit more creative and go
 
 > You do need a bit of weight though. Denim is fine, some light cotton is not.
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 front(s)** with good sides together
  - Cut **2 back(s)** with good sides together
  - Cut **2 front facing(s)** with good sides together
  - Cut **2 pocket welt(s)** with good sides together
  - Cut **2 pocket facing(s)** with good sides together
-- **Lining fabric** 
+- **Voering** 
  - Cut **2 front lining(s)** with good sides together
  - Cut **2 back(s)** with good sides together
  - Cut **2 pocket bag(s)** with good sides together
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **2 front(s)** with good sides together
  - Cut **2 pocket interfacing(s)**
 
-### Caveats
+### Opmerkingen
 
 - Do not cut out the **front** dart
 - Do not cut out the **back** dart
@@ -49,9 +49,9 @@ Wahid is a relatively simply pattern, below is a typical layout:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Fuse interfacing
+### Stap 1: Bevestig tussenvoering
 
 #### Press interfacing to pocket welts
 

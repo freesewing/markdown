@@ -1,8 +1,8 @@
 ---
-title: Sleeve bend
+title: Mouw kromming
 path: /en/docs/patterns/carlton/options/sleevebend
 pattern: carlton
-option: sleeveBend
+option: mouwKromming
 ---
 
-The angle of the sleeve.
+De hoek van de mouw.

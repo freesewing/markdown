@@ -1,10 +1,10 @@
 ---
-title: Sharing data between parts
+title: Partager des données entre des parties
 ---
 
-Sometimes, you'll want to access data from one part into another part. For example, you may store the length of the armhole in your front and back parts, and then read that value when drafting the sleeve so you can verify the sleeve fits the armhole.
+Parfois, vous voudrez accéder aux données d'une partie dans une autre partie. Par exemple, vous pourriez stocker la longueur de l'emmanchure de vos parties devant et dos, puis lire cette valeur lorsque vous ébauchez la manche de façon à pouvoir vérifier que la manche s'ajuste bien à l'emmanchure.
 
-For this, you should use the [Store](/api/store), which is available via the [shorthand](/concepts/shorthand) call:
+Pour cela, vous devriez utiliser le [Store](/api/store) (Boutique), qui est disponible via l'appel au [shorthand](/concepts/shorthand) (raccourci) :
 
 ```js
 export default function(part) {
@@ -24,4 +24,4 @@ export default function(part) {
 }
 ```
 
-In a case like this, the order in which parts are drafted becomes important, so you should reflect that in the [pattern configuration](/config).
+Dans un cas comme celui-là, l'ordre dans lequel les parties sont ébauchées devient important, alors vous devriez le signifier dans la [configuration du patron](/config).

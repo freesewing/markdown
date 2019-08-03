@@ -1,5 +1,5 @@
 ---
-title: Knot width
+title: Breedte knoop
 path: /en/docs/patterns/trayvon/options/knotwidth
 pattern: trayvon
 option: knotWidth

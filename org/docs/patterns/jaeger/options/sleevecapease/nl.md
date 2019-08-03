@@ -1,8 +1,8 @@
 ---
-title: Sleevecap ease
+title: Extra ruimte mouwkop
 path: /en/docs/patterns/jaeger/options/sleevecapease
 pattern: jaeger
-option: sleevecapEase
+option: mouwkopOver
 ---
 
 The ease on the sleevecap.

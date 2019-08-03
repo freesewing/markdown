@@ -1,4 +1,4 @@
 ---
-title: Huey hoodie
+title: Huey Hoodie
 ---
 

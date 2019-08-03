@@ -1,8 +1,8 @@
 ---
-title: Seat ease
+title: Overwijdte zitvlak
 path: /en/docs/patterns/penelope/options/seatease
 pattern: penelope
-option: seatEase
+option: zitvlakOver
 ---
 
-The amount of ease at your seat.
+De hoeveelheid overwijdte aan je zitvlak.

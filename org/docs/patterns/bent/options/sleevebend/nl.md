@@ -1,7 +1,7 @@
 ---
-title: Sleeve bend
+title: Mouw kromming
 pattern: bent
-option: sleeveBend
+option: mouwKromming
 ---
 
-The angle of the sleeve.
+De hoek van de mouw.

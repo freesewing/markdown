@@ -1,16 +1,16 @@
 ---
-title: Sleevecap ease
+title: Extra ruimte mouwkop
 path: /en/docs/patterns/carlita/options/sleevecapease
 pattern: carlita
-option: sleevecapEase
+option: mouwkopOver
 ---
 
-How much sleevecap ease do you want?
+Hoeveel extra ruimte wil je in de mouwkop?
 
-> #### What's the point?
+> #### Waarom?
 > 
-> The amount of sleevecap ease determines how the sleeves rolls from the shouder.
+> De hoeveelheid extra ruimte in de mouwkop bepaalt hoe de mouw over de schouder valt.
 > 
-> More ease makes the sleeve curl into the seam as you would expect from a coat. Less ease makes the sleeve lie flatter.
+> Meer ruimte zorgt voor een ronde mouwkop, zoals je zou zien op een jas. Minder ruimte geeft de mouw een platter aanzicht.
 > 
-> The lighter your fabric, the less sleevecap ease you want.
+> Hoe lichter je stof, hoe minder extra ruimte je wil toevoegen.

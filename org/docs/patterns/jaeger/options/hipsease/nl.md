@@ -1,8 +1,8 @@
 ---
-title: Hips ease
+title: Overwijdte heup
 path: /en/docs/patterns/jaeger/options/hipsease
 pattern: jaeger
-option: hipsEase
+option: heupOver
 ---
 
-The amount of ease at your hips.
+De hoeveelheid overwijdte aan je heupen.

@@ -5,11 +5,11 @@ path: /en/docs/patterns/jaeger
 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
 
 ## Before you start
 
-### What you need
+### Wat je nodig hebt
 
 > ##### Where to get all this stuff
 > 
@@ -38,7 +38,7 @@ To make Jaeger, you will need the following:
 - Sleevehead wadding, with canvas if possible
 - Undercollar fabric
 
-### Fabric options
+### Stofkeuze
 
 Sportscoats are typically made from a heavier wool, often with some texture or pattern in the weave. In general, they are made in *busier* fabrics.
 
@@ -46,9 +46,9 @@ Style purists will argue that sportscoats should never be made out of suiting fa
 
 However, making Jaeger is going to take some time. Do yourself a favour and get something nice for the final project. (because you will be making a muslin, right?)
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 fronts** (part 1)
  - Cut **2 front facings** (look for the facing/lining boundary on the front part)
  - Cut **2 backs** (part 2)
@@ -89,7 +89,7 @@ However, making Jaeger is going to take some time. Do yourself a favour and get 
 
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
-## Construction
+## Constructie
 
 ### Close the front darts
 
@@ -284,4 +284,4 @@ Align the shoulder seams with good sides together, and sew them together.
 > 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
