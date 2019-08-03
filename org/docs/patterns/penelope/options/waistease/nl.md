@@ -1,8 +1,8 @@
 ---
-title: Waist ease
+title: Overwijdte taille
 path: /en/docs/patterns/penelope/options/waistease
 pattern: penelope
-option: waistEase
+option: tailleOver
 ---
 
-The amount of ease at your waist.
+De hoeveelheid overwijdte aan je taille.
