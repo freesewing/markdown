@@ -2,7 +2,7 @@
 title: Overwijdte heup
 path: /en/docs/patterns/simon/options/hipsease
 pattern: simon
-option: hipsEase
+option: heupOver
 ---
 
 Hoeveel ruimte wil je aan je heupen?
