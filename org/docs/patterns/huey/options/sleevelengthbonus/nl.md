@@ -1,8 +1,8 @@
 ---
-title: Sleeve length bonus
+title: Bonus mouwlengte
 path: /en/docs/patterns/huey/options/sleevelengthbonus
 pattern: huey
-option: sleevelengthBonus
+option: mouwlengteBonus
 ---
 
-The amount of extra length at the sleeve.
+De hoeveelheid extra lengte aan de mouw.
