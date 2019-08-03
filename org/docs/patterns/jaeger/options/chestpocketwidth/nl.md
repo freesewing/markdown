@@ -1,8 +1,8 @@
 ---
-title: Chest pocket width
+title: Borstzakbreedte
 path: /en/docs/patterns/jaeger/options/chestpocketwidth
 pattern: jaeger
-option: chestPocketWidth
+option: borstZakBreedte
 ---
 
-The width of the chest pocket, as a factor of your chest circumference.
+De breedte van de borstzak, uitgedrukt als een percentage van je borstomtrek.
