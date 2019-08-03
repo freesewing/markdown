@@ -1,8 +1,8 @@
 ---
-title: Back vent length
+title: Lengte rugsplit
 path: /en/docs/patterns/jaeger/options/backventlength
 pattern: jaeger
-option: backVentLength
+option: rugSplitLengte
 ---
 
-Controls the length of the back vent. Lower numbers result in a shorter vent.
+Bepaalt de lengte van het rugsplit. Lower numbers result in a shorter vent.
