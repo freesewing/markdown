@@ -18,7 +18,7 @@ C'est un patron de conception standard où une partie se construit sur une autre
 
 Utiliser `inject` va faire que FreeSewing ébauchera toujours la partie injectée avant d'ébaucher la partie dans laquelle elle est injectée. Cela va, en d'autres termes, influencer l'ordre d'ébauche.
 
-<Note>
+<note>
 
 Pour hériter des parties d'autres patrons, merci de vous référer à [l'héritage de patron](/advanced/inheritance).
 
