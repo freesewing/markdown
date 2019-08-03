@@ -2,7 +2,7 @@
 title: Overwijdte borst
 path: /en/docs/patterns/jaeger/options/chestease
 pattern: jaeger
-option: chestEase
+option: borstOver
 ---
 
-The amount of ease at your chest.
+De hoeveelheid overwijdte aan je borst.
