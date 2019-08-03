@@ -1,7 +1,7 @@
 ---
 title: Overwijdte biceps
 pattern: bent
-option: bicepsEase
+option: bicepsOver
 ---
 
 Deze optie bepaalt hoeveel overwijdte je hebt aan je bovenarm/biceps.
