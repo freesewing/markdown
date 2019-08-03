@@ -76,7 +76,7 @@ The `postRender` hook is triggered after the SVG is rendered.
 
 Like the `preRender` hook, it receives [the SVG object](/api/svg) as its first parameter.
 
-<note>
+<Note>
 
 The `postRender` hooks is rarely used.
 
@@ -95,7 +95,7 @@ Unlike most hooks that receive an object that you can make changes to, for this 
 
 This hook is typically used for translation, as is the case in [our i18n plugin](/plugins/i18n).
 
-<note>
+<Note>
 
 ###### Understanding the insertText hook
 
@@ -132,7 +132,7 @@ The `preDraft` hook runs just before your pattern is drafted.
 
 Your plugin will receive the Pattern object.
 
-<note>
+<Note>
 
 The `preDraft` hook is rarely used.
 
@@ -144,7 +144,7 @@ The `preDraft` hook runs just after your pattern is drafted.
 
 Your plugin will receive the Pattern object.
 
-<note>
+<Note>
 
 The `postDraft` hook is rarely used.
 
@@ -162,7 +162,7 @@ It is triggered at the very start of either:
 
 Your plugin will receive the Pattern object.
 
-<note>
+<Note>
 
 The `preSample` hook is rarely used.
 
@@ -178,7 +178,7 @@ It is triggered just before the end of either:
 - the [Pattern.sampleMeasurement()](/en/docs/developer/api/pattern/#patternsamplemeasurement) method
 - the [Pattern.sampleModels()](/en/docs/developer/api/pattern/#patternsamplemodels) method
 
-<note>
+<Note>
 
 The `postSample` hook is rarely used.
 
@@ -223,7 +223,7 @@ This is a complete plugin, ready to be published on NPM. It uses two hooks:
 - `preRender` : We add some style and defs to our SVG
 - `insertText` : We transfer all text to UPPERCASE
 
-<note>
+<Note>
 
 ###### Note that we avoid running our hook twice
 
@@ -306,7 +306,7 @@ macro('box', {
 
 Obviously, you can expect to learn how to call a macro in its documentation, rather than have to comb through its code.
 
-<note>
+<Note>
 
 ###### Macros take only 1 argument
 
@@ -345,7 +345,7 @@ const myAaron = new Aaron()
   .use(i18n);
 ```
 
-<tip>
+<Tip>
 
 Plugins that use only hooks are typically run-time plugins
 
@@ -367,7 +367,7 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, plugins);
 ```
 
-<tip>
+<Tip>
 
 Plugins that provide a macro are typically build-time plugins
 

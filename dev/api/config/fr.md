@@ -30,7 +30,7 @@ dependencies: {
 
 Un objet de paires clé-valeur `key`-`value` qui contrôle l'ordre dans lequel les parties de patron vont être ébauchées.
 
-<tip>
+<Tip>
 
 Voir les [Dépendances des parties](/advanced/dependencies) pour des informations plus poussées sur les dépendances.
 
@@ -48,7 +48,7 @@ Un objet de pair clé-valeur `key`-`value` de parties. La partie valeur `value` 
 
 Par *injected* nous entendons plutôt que de commencer par une toute nouvelle partie, vous obtiendrez une partie qui a les points, chemins et snippets de la partie `value`.
 
-<tip>
+<Tip>
 
 Voir l'[Héritage de partie](/advanced/inject) pour des informations plus poussées sur inject.
 
@@ -75,7 +75,7 @@ parts: [
 
 Un tableau qui liste vos parties de patron (additionnelles). Le nom doit être la clé de l'objet `pattern.parts`.
 
-<tip>
+<Tip>
 
 ###### Cela n'a pas être une liste exhaustive de toutes les parties de votre modèle.
 
@@ -94,7 +94,7 @@ measurements: [
 
 Un tableau avec les noms des mesures nécessaires pour ébaucher ce modèle.
 
-<note>
+<Note>
 
 ###### N'inventez pas simplement des noms
 
@@ -162,7 +162,7 @@ options: {
 }
 ```
 
-<note>
+<Note>
 
 ###### Les options de pourcentage seront divisées par 100 lors du chargement
 

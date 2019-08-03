@@ -14,7 +14,7 @@ Put front and back on top of each other with good sides together. Serge the side
 
 Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
 
-<note>
+<Note>
 
 ##### Fold only once, to avoid bulk
 
@@ -24,7 +24,7 @@ Knitwear doesn't ravel, so you can simply fold this over once and sew it down, t
 
 ## Step 3: Sew knit binding to the front
 
-<note>
+<Note>
 
 ##### About knit binding
 
@@ -44,7 +44,7 @@ Either way, the less sharp bends you have, the easier it will be. So start with 
 
 We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
 
-<note>
+<Note>
 
 This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
 
@@ -131,7 +131,7 @@ Fold your binding fabric around the fabric of your A-shirt to the back. This is 
 
 From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
 
-<note>
+<Note>
 
 If you have a coverlock machine, that would be perfect for this seam
 
@@ -139,7 +139,7 @@ If you have a coverlock machine, that would be perfect for this seam
 
 You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
 
-<note>
+<Note>
 
 ##### Beware of the uneven feed
 
@@ -157,7 +157,7 @@ So watch out for this, and if you see it happening, stretch the under layer a bi
 
 On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
 
-<note>
+<Note>
 
 Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
 

@@ -5,7 +5,7 @@ order: 250
 
 Avec le contour de base de votre patron prêt, il est maintenant temps de le tester pour voir à quel point il s'adapte bien à différentes mesures, et à l'étendue des options que nous avons fournie.
 
-<tip>
+<Tip>
 
 ###### Plus besoin de gradation
 
@@ -31,7 +31,18 @@ Cliquez sur n'importe quelle option que nous avons ajoutée au patron, et votre 
 
 L'option `lengthRatio` contrôle la longueur de notre bavoir. La tester confirme qu'elle n'influence que la longueur :
 
-<example caption="Your bib with the lengthRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "lengthratio" } }} />
+<Example 
+  caption="Your bib with the lengthRatio option sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "option", 
+      option: "lengthRatio" 
+    } 
+  }} 
+/>
 
 ### neckRatio
 
@@ -39,7 +50,18 @@ L'option `neckRatio` va déterminer la taille de l'encolure. Pour une même mesu
 
 La tester confirme cela. Nous pouvons également voir que l'encolure devient plus étroite, les attaches seront tournées plus loin pour éviter qu'elles se chevauchent :
 
-<example caption="Your bib with the neckRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "neckratio" } }} />
+<Example 
+  caption="Your bib with the neckRatio option sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "option", 
+      option: "neckRatio" 
+    } 
+  }} 
+/>
 
 ### widthRatio
 
@@ -49,13 +71,24 @@ Si nous testons cela, nous pouvons voir que cela fonctionne comme prévu. Mais i
 
 Même si la *longueur totale* de notre bavoir reste la même, la *longueur utile* est raccourcie lorsque le bavoir est élargi. Les utilisateurs ne s'attendent pas à cela, alors c'est une chose que nous devrions corriger dans notre patron.
 
-<note>
+<Note>
 
 Ajuster le patron pour éviter que le `widthRatio` n'influence la *longueur utilisable* de notre bavoir n'est pas explicité dans ce tutoriel. Ce problème est laissé comme *exercice pour le lecteur*.
 
 </Note>
 
-<example caption="Your bib with the widthRatio option sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "option", option: "widthratio" } }} />
+<Example 
+  caption="Your bib with the widthRatio option sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "option", 
+      option: "widthRatio" 
+    } 
+  }} 
+/>
 
 ## Tester les mesures
 
@@ -63,7 +96,18 @@ Tester une mesure va faire varier cette mesure de 10% de plus ou de moins tout e
 
 Pour notre bavoir, nous employons uniquement une mesure, alors elle influence le patron en entier :
 
-<example caption="Your bib with the head circumference measurement sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "measurement", measurement: "headcircumference" } }} />
+<Example 
+  caption="Your bib with the head circumference measurement sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "measurement", 
+      measurement: "headCircumference" 
+    } 
+  }} 
+/>
 
 ## Tester les modèles
 
@@ -73,7 +117,28 @@ Sur la surface, le résultat ci-dessous est le même que pour notre test de mesu
 
 Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera un aperçu de la façon dont votre patron s'adapte à différentes morphologies.
 
-<example sample caption="Your bib sampled for a range of baby sizes" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { baby1: headcircumference: 340 }, baby2: 350 baby3: 360 baby4: 370 baby5: 380 baby6: 390 baby7: 400 baby8: 410 baby9: 420 } } }} />
+<Example 
+  sample 
+  caption="Your bib sampled for a range of baby sizes" 
+  pattern="tutorial" 
+  part="bib" 
+  settings={{ 
+    sample: { 
+      type: "models", 
+      models: {
+        baby1: { headCircumference: 340 },
+        baby2: { headCircumference: 350 },
+        baby3: { headCircumference: 360 },
+        baby4: { headCircumference: 370 },
+        baby5: { headCircumference: 380 },
+        baby6: { headCircumference: 390 },
+        baby7: { headCircumference: 400 },
+        baby8: { headCircumference: 410 },
+        baby9: { headCircumference: 420 }
+      }
+    } 
+  }} 
+/>
 
 ## Le test de l'homme fourmi
 
@@ -85,6 +150,20 @@ Le but du test de l'homme fourmi est de mettre en évidence les zones de votre p
 
 Les meilleurs patrons passeront le test de l'homme fourmi avec 2 patrons identiques. L'un sera simplement le dixième de l'autre en termes d'échelle.
 
-<example sample caption="Congratulations, your bib passes the antman test" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { ant: headcircumference: 39 }, man: 390 } } }} />
+<Example 
+  sample 
+  caption="Congratulations, your bib passes the antman test" 
+  pattern="tutorial" 
+  part="bib" 
+  settings={{ 
+    sample: { 
+      type: "models", 
+      models: {
+        ant: { headCircumference: 39 },
+        man: { headCircumference: 390 },
+      }
+    } 
+  }} 
+/>
 
 Lorsque vous êtes satisfait de la façon dont votre patron passe les tests, il est temps de le compléter.

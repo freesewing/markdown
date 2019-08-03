@@ -9,7 +9,7 @@ Open a terminal and enter the following command:
 npm init freesewing-pattern@beta
 ```
 
-<note>
+<Note>
 
 The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
 
@@ -28,7 +28,7 @@ This will load a few dependencies, and then ask you the following questions:
 
 After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
 
-<note>
+<Note>
 
 This will take a few minutes because we're loading some software for your development environment.
 
@@ -50,9 +50,9 @@ yarn start
 
 Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
 
-<pre><code class="bash:">cd tutorial/example
+```bash
 npm run start
-</code></pre>
+```
 
 Or if you chose to use Yarn as package manager:
 
@@ -65,7 +65,7 @@ If all goes well, your browser will open and show the following landing page:
 
 ![The FreeSewing development environment](./cfp.png)
 
-<note>
+<Note>
 
 ###### Using Windows?
 

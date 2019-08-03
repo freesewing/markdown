@@ -5,7 +5,7 @@ order: 120
 
 In FreeSewing, coordinates are like text in a book. You start at the top on the left side, and going to the right and downwards means going ahead.
 
-<example part="docs_coords" caption="The SVG coordinate system" />
+<Example part="docs_coords" caption="The SVG coordinate system" />
 
 Which means that on the X-axis, `20` is further to the right than `10`.  
 Likewise, on the Y-axis, `50` is lower than `20`.

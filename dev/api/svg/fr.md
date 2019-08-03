@@ -35,7 +35,7 @@ The style attribute is where plugins will add additional snippets.
 </style>
 ```
 
-<warning>
+<Warning>
 
 ###### Add, but don't overwrite
 
@@ -67,7 +67,7 @@ We don't use this ourselves, but it's here if you need it.
 </scripts>
 ```
 
-<warning>
+<Warning>
 
 ###### Add, but don't overwrite
 
@@ -99,7 +99,7 @@ The defs attribute is where plugins will add additional snippets.
 </defs>
 ```
 
-<warning>
+<Warning>
 
 ###### Add, but don't overwrite
 
@@ -140,7 +140,7 @@ A string that combines the [svg.style](#svgstyle), [svg.script](#svgscript), and
 <g id="fs-container">
 ```
 
-<note>
+<Note>
 
 ###### This does not include the opening SVG tag
 

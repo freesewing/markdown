@@ -123,7 +123,7 @@ Attributes attributes.set(string key, string value)
 
 Définit l'attribut identifié par la clé `key` par la valeur `value`.
 
-<warning>
+<Warning>
 
 Ceci écrasera toute valeur actuellement définie sur l'attribut identifié par la clé `key`.
 

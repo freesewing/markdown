@@ -20,7 +20,7 @@ points.topCp1 = points.bottomCp2.flipY();
 points.topCp2 = points.bottomCp1.flipY();
 ```
 
-<note>
+<Note>
 
 Nous utilisons ici les méthodes `Point.flipX()` et `Point.flipY()`. Peut-être pouvez-vous deviner à quoi elles servent ? Sinon, vérifiez [la documentation API](fr/api/point).
 
@@ -38,4 +38,4 @@ paths.neck = new Path()
   .close();
 ```
 
-<example pattern="tutorial" part="step4" caption="And now you have a complete neck opening" />
+<Example pattern="tutorial" part="step4" caption="And now you have a complete neck opening" />

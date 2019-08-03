@@ -6,7 +6,7 @@ title: scalebox
 
 The **scalebox** plugin provides the `scalebox` macro:
 
-<example part="plugin_scalebox" caption="An example of the scalebox" design={false} />
+<Example part="plugin_scalebox" caption="An example of the scalebox" design={false} />
 
 ```js
 let { Point, points, macro } = part.shorthand();
@@ -18,7 +18,7 @@ macro("scalebox", {
 });
 ```
 
-<note>
+<Note>
 
 ###### Purpose of a scale box
 
@@ -26,7 +26,7 @@ A scalebox allows people to verify the pattern is printed at the correct scale
 
 </Note>
 
-<tip>
+<Tip>
 
 The scalebox plugin is part of our [plugin-bundle](/plugins/bundle)
 

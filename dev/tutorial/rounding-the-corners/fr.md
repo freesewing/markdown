@@ -60,4 +60,4 @@ et gardez le reste du chemin tel qu'il était.
 
 La forme de notre bavoir est maintenant finie :
 
-<example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
+<Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />

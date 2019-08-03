@@ -6,7 +6,7 @@ title: cutonfold
 
 The **cutonfold** plugin provides the `cutonfold` macro:
 
-<example part="plugin_cutonfold" caption="An example of the cutonfold macro" design={false} />
+<Example part="plugin_cutonfold" caption="An example of the cutonfold macro" design={false} />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -30,7 +30,7 @@ macro("cutonfold", {
 });
 ```
 
-<note>
+<Note>
 
 ###### It's safe to use a corner of your pattern part for this
 
@@ -38,7 +38,7 @@ Since this is typically used on corners, the generated cut-on-fold indicator wil
 
 </Note>
 
-<tip>
+<Tip>
 
 The cutonfold plugin is part of our [plugin-bundle](/plugins/bundle)
 
