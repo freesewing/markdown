@@ -210,17 +210,17 @@ Drieg nu de voorpanden in haardoek en het borststuk aan je voorpand. Denk eraan 
 > Drieg het net voorbij de naadlijn zodat je het uit de weg kan plooien wanneer je deze naden stikt.   
 > Je wil niet dat je haardoek mee in de naad zit.
 
-#### Pad-stitch your lapels
+#### Pikeer je revers
 
-Time to feel like a real tailor, and pad-stitch those lapels.
+Tijd om je een echte kleermaker te voelen, en die revers te pikeren zoals ze nog nooit gepikeerd zijn.
 
-Make sure to make the stitches a bit smaller towards the lapel tip, to make sure it lies flat against the chest, curling a bit inward instead of outward.
+Let op dat je de steken een beetje kleiner maakt naar de punt van de revers toe, zodat ze plat tegen de borst liggen, naar binnen krullend in plaats van naar buiten.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/freesewing) and we'll make an attempt to document it.
+> Als je niet zeker bent hoe pikeren werkt, [laat het ons weten](https://gitter.im/freesewing/freesewing) en we zullen een poging doen om het te documenteren.
 
-#### Tape the lapel edge and roll line
+#### Revers contouren en breuklijn
 
-Now we are going to hand-sew tailor tape along the lapel edges of the front, and along the roll line. This will also secure the canvas to the front here and there.
+Nu gaan we met dunne keperband met de hand langs de rand van de revers naaien, alsook langs de breuklijn. This will also secure the canvas to the front here and there.
 
 Keep in mind that:
 
