@@ -1,16 +1,16 @@
 ---
-title: Sleevecap ease
+title: Extra ruimte mouwkop
 path: /en/docs/patterns/simon/options/sleevecapease
 pattern: simon
-option: sleevecapEase
+option: mouwkopOver
 ---
 
-How much sleevecap ease do you want?
+Hoeveel extra ruimte wil je in de mouwkop?
 
-> #### What's the point?
+> #### Waarom?
 > 
-> The amount of sleevecap ease determines how the sleeves rolls from the shouder.
+> De hoeveelheid extra ruimte in de mouwkop bepaalt hoe de mouw over de schouder valt.
 > 
 > More ease makes the sleeve curl into the seam as you see on suit jackets. Less ease makes the sleeve lie flat.
 > 
-> The lighter your fabric, the less sleevecap ease you want.
+> Hoe lichter je stof, hoe minder extra ruimte je wil toevoegen.
