@@ -84,27 +84,27 @@ Opgelet: hier komen een hoop spelden bij kijken.
 
 ![Pins](step03.jpg) ![More pins](step04.jpg)
 
-For the stitching, I tend to start from the center front, do one half, and then start again, back from the center front to do the other half (the **side part** is on top for both stitches). So that, if my machine shifts the lower fabric, it would be a "symmetrical shift" on both sides. Clip the seam allowances where needed, on the curve, you might want to trim the seam allowance of the side part, and notch it, to help the ironing process.
+Om dit te stikken start ik liefst aan het midden van de voorkant, doe dan één helft, en begin opnieuw aan het midden van de voorkant om de andere helft te doen (de **zijkant** ligt telkens bovenaan). Als mijn machine dan de lagen stof toch een beetje verschuift is het tenminste "symmetrisch verschoven". Geef knipjes in de naadwaarde waar nodig, en knip ze eventueel bij, om het strijken makkelijker te maken.
 
 ![The seam allowances are trimmed, clipped and pressed flat open](step05.jpg)
 
-### Step 5: The brim outer seam.
+### Stap 5: Buitenste naad van de klep.
 
-Align the notches and pin the top and bottom parts. Technically, the lower part has a shorter seam length, so you might have to stretch it so that the seam allowances meet. In practice, fabric is usually stretchy enough so that the length difference can be eased. Iron both seam allowance against the **Bottom part**
+Leg de markeringen op elkaar en speld de boven- en onderkant samen. De onderkant heeft een iets kortere naadlengte, dus misschien moet je het een beetje uitrekken zodat de naadwaardes samen liggen. In de praktijk is de meeste stof soepel genoeg om het verschil te verwerken. Stik en strijk de naadwaarde naar de **onderkant** toe
 
-### Step 6: Inserting the plastic part
+### Stap 6: het plastic deel toevoegen
 
-The plastic part is then inserted inside the brim, being careful to keep the seam allowance flat on the **Bottom part**. You then hand stitch the brim closed, keeping the parts in place and well tensioned.
+Het plastic deel wordt dan in de klep geschoven. Let op dat de naadwaarde plat op de **onderkant** van de klep blijft. Daarna naai je de klep dicht met de hand. Let goed op dat alles op zijn plek blijft zitten en mooi opgespannen is.
 
 ![The brim is prepared](step06.jpg)
 
-### Step 7: Stitching the brim to the cap
+### Stap 7: Stik de klep aan de pet
 
-Align the notches and stitch the brim to the cap. Be careful not to stitch onto the plastic. It might be easier if you "free" the arm of your machine
+Leg de markeringen samen en stik de klep vast aan de pet. Let op dat je niet door het plastic stikt. Hier kan het helpen om de "vrije arm" van je machine te gebruiken
 
-### Step 8: Prepare the lining
+### Stap 8: Bereid de voering voor
 
-Basically, repeat the steps 2, 3 and 4 with the lining **top** and **side parts**. This would also be a good time to stitch a label on the **top part** of the lining if you are into this kind of things.
+Herhaal stap 2, 3 en 4 met de **bovenkant** en **zijpanden** van de voering. This would also be a good time to stitch a label on the **top part** of the lining if you are into this kind of things.
 
 ### Step 9: Join lining to main fabric.
 
