@@ -1,8 +1,8 @@
 ---
-title: Sleevecap height factor
+title: Factor hoogte mouwkop
 path: /en/docs/patterns/carlita/options/sleevecapheightfactor
 pattern: carlita
-option: sleevecapHeightFactor
+option: mouwkopHoogteFactor
 ---
 
-This factor controls the height of the sleevecap.
+Deze factor bepaalt de hoogte van de mouwkop.
