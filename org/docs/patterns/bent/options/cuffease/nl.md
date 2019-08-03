@@ -1,7 +1,7 @@
 ---
 title: Overwijdte manchet
 pattern: bent
-option: cuffEase
+option: polsOver
 ---
 
 De hoeveelheid overwijdte aan je manchet/pols.
