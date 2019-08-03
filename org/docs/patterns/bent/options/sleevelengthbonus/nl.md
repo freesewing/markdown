@@ -1,7 +1,7 @@
 ---
 title: Bonus mouwlengte
 pattern: bent
-option: sleevelengthBonus
+option: mouwlengteBonus
 ---
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.
