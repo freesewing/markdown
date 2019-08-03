@@ -10,7 +10,7 @@ Asking you this information every time would be rather tedious, so we need to st
 
 So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
 
-<Note>
+<note>
 
 ##### Are you asking because you don't trust us?
 
@@ -39,7 +39,7 @@ The FreeSewing project is supported financially by [our patrons](/patrons).
 
 Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
 
-<Note>
+<note>
 
 ##### Join the Freesewing Patrons
 
