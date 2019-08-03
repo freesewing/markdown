@@ -85,7 +85,7 @@ When shopping online, it can be harder to get a good idea of what you're looking
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **1 front left**
  - Cut **1 button placket** (only if you opted for a separate button placket)
  - Cut **1 front right**
@@ -121,9 +121,9 @@ Simon is a very versatile pattern, so your draft may differ from the example lay
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Fuse interfacing
+### Stap 1: Bevestig tussenvoering
 
 ![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
 
