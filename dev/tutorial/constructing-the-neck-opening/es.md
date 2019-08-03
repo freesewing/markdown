@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
 
-<Tip>
+<tip>
 
 Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
 
@@ -89,7 +89,7 @@ From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and
 
 When all is said and done, we now have a quarter of our neck opening:
 
-<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
 The only problem is, we have no guarantee whatsoever that this opening is the correct size.
 
