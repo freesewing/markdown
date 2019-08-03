@@ -50,13 +50,13 @@ macro("round", {
 });
 ```
 
-<Warning>
+<warning>
 
 FIXME: Ajouter le lien vers les docs macro/extend
 
 </Warning>
 
-<Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
 Comme pour l'encolure, nous avons seulement dessiné la moitié étant donné que nous pouvons copier les points pour l'autre côté.
 
