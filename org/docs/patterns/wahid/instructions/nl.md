@@ -23,17 +23,17 @@ These fabrics are typically wool, but you can also be a bit more creative and go
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 front(s)** with good sides together
  - Cut **2 back(s)** with good sides together
  - Cut **2 front facing(s)** with good sides together
  - Cut **2 pocket welt(s)** with good sides together
  - Cut **2 pocket facing(s)** with good sides together
-- **Lining fabric** 
+- **Voering** 
  - Cut **2 front lining(s)** with good sides together
  - Cut **2 back(s)** with good sides together
  - Cut **2 pocket bag(s)** with good sides together
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **2 front(s)** with good sides together
  - Cut **2 pocket interfacing(s)**
 
@@ -49,9 +49,9 @@ Wahid is a relatively simply pattern, below is a typical layout:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
-### Step 1: Fuse interfacing
+### Stap 1: Bevestig tussenvoering
 
 #### Press interfacing to pocket welts
 
