@@ -1,7 +1,7 @@
 ---
 title: Extra ruimte mouwkop
 pattern: bent
-option: sleevecapEase
+option: mouwkopOver
 ---
 
 Hoeveel extra ruimte wil je in de mouwkop?
