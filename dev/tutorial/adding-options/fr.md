@@ -35,7 +35,7 @@ Pouvez-vous devinez ce que cela signifie ?
 - Sa valeur maximale est de 90%
 - Sa valeur par défaut est de 80%
 
-<Note>
+<note>
 
 Il y a différents types d'options, mais les pourcentages sont les plus communes. Toute la documentation à ce sujet est dans [la doc API](fr/api/config#options).
 
@@ -55,7 +55,7 @@ options: {
 - Vous avez donné toutes les valeurs par défaut sensibles des options 
 - Vous avez donné toutes les valeurs sensibles pour les minima et les maxima des options
 
-<Note>
+<note>
 
 Plus tard, vous testerez votre patron pour voir comment il se comporte lorsque vous modifierez les options entre leurs valeurs minimales et maximales. A cet instant, vous pouvez encore ajuster ces valeurs.
 
@@ -69,7 +69,7 @@ optionGroups: {
 },
 ```
 
-<Note>
+<note>
 
 L'entrée `optionGroups` ne fait rien pour votre patron en tant que telle. Elle signale au frontend que c'est ainsi que les options devraient être rassemblées et présentées à l'utilisateur.
 
