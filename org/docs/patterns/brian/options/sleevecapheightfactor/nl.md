@@ -2,7 +2,7 @@
 title: Factor hoogte mouwkop
 path: /en/docs/patterns/brian/options/sleevecapheightfactor
 pattern: brian
-option: sleevecapHeightFactor
+option: mouwkopHoogteFactor
 ---
 
 ![De factor voor hoogte mouwkop bij Brian](./sleevecapheightfactor.svg)
