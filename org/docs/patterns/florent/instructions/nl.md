@@ -104,33 +104,33 @@ Leg de markeringen samen en stik de klep vast aan de pet. Let op dat je niet doo
 
 ### Stap 8: Bereid de voering voor
 
-Herhaal stap 2, 3 en 4 met de **bovenkant** en **zijpanden** van de voering. This would also be a good time to stitch a label on the **top part** of the lining if you are into this kind of things.
+Herhaal stap 2, 3 en 4 met de **bovenkant** en **zijpanden** van de voering. Als je een label op de **bovenkant** van de voering wil is dit ook een goed moment om dat te doen.
 
-### Step 9: Join lining to main fabric.
+### Stap 9: Bevestig de voering aan de buitenstof.
 
-Turn the lining outside out and place the main fabric in it (good side against good side). Pin and stitch from one end of the brim to the other end of the brim (leaving the brim seam open).
+Keer de goede kant van de voering naar binnen en plaats de buitenstof in de voering (met goede kanten op elkaar). Speld en stik van één kant van de klep naar de andere (laat het stuk aan de klepnaad open).
 
 ![Preparation for stitching the lining to the cap](step07.jpg)
 
-Don't forget to back tack this stitch quite well since it will get some stretch when we will turn the cap "outside out". Turn the cap outside out, so that the good side is outside. On the Brim area, baste the lining in place and hand stitch it to the brim in a way to hide the other stitches that are already on the seam allowance. ![Joining the lining, finishing by hand](step08.jpg)
+Vergeet niet hier een beetje terug te stikken om het stiksel vast te zetten aangezien hier wel wat aa getrokken wordt bij het keren van de pet. Keer de pet naar de goede kant. Drieg de voering op zijn plek aan de klep en naai ze met de hand vast. Verberg zo meteen ook de andere stiksels die al in de naadwaarde zaten. ![Joining the lining, finishing by hand](step08.jpg)
 
-### Step 10: Top stitching the bottom of the cap
+### Stap 10: Sierstiksel aan de onderkant
 
-It is a good idea to top stitch the bottom seam of the cap so that the lining stays inside. To have a better control I usually baste it first, so that the edge is sharp. ![A nice crisp basted edge](step09.jpg)
+Het is een goed idee om de onderrand van de pet door te stikken zodat de voering aan de binnenkant blijft. Om meer controle te hebben drieg ik dit meestal eerst, zodat de rand netjes is. ![A nice crisp basted edge](step09.jpg)
 
-### Step 11: The tape
+### Stap 11: De band
 
-Form a loop with the tape so that the circumference of the loop matches the measured head circumference of the wearer of the cap. The best result is achieved when you pin the tape while you are wrapping it around the head of the future owner of the cap. Once the loop is closed, you can even double check it and ask if this fit is OK for the wearer.
+Maak een lus van de band zodat de omtrek overeenkomt met de hoofdomtrek van de drager van de pet. Je krijgt het beste resultaat door de band te spelden terwijl je hem rond het hoofd van de drager wikkelt. Zodra je de lus gestikt hebt kan je ook nog eens controleren of hij goed rond het hoofd zit.
 
 ![This tape will keep the cap from stretching](step10.jpg)
 
-Trim the ends of the tape in an arrow shape to keep it from poking out. ![It's all in the smallest details](step11.jpg)
+Knip de uiteindes van de band schuin bij zodat ze niet zichtbaar zijn. ![It's all in the smallest details](step11.jpg)
 
-Divide the tape in two with two pins
+Verdeel de band in twee met spelden
 
 ![Obviously, the cap is symmetrical, so we might as well distribute the tape evenly on both sides](step12.jpg)
 
-Pin the tape in place: The two pins are used to distribute the tape equally on both sides. Place one pin at the back, and the other at the front. Since the brim is held in place it can't be much stretched, so pin the tape in this area "normally" For the remaining part you might need to ease the fabric along the tape. I recommend to hand stitch the tape in place, on both edges of the tape
+Speld de band op de juiste plek: de twee spelden worden gebruikt om de band gelijk te verdelen. Plaats een speld aan de achterkant, en één aan de voorkant. Aangezien de klep verstevigd is kan je deze niet echt meer manipuleren, dus speld de band hier "gewoon" recht vast. Voor de rest kan het zijn dat je wat overtollige buitenstof in de band moet verdelen. I recommend to hand stitch the tape in place, on both edges of the tape
 
 ![Both edges of the tape are slip stitched, and the edge of the cap is top stitched](step13.jpg)
 
