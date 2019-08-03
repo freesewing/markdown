@@ -40,13 +40,13 @@ Typically, this falls apart in a few categories:
 
 Shin is a very simply pattern, and consists of two main parts plus the waistband.
 
-Below is a typical draft layout:
+Hier is een typische layout:
 
 <img src="layout.svg" alt="A typical Shin draft" title="" class="elevation-1" />
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 > ##### Images coming soon
 > 
