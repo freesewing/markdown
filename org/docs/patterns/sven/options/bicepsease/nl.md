@@ -1,5 +1,5 @@
 ---
-title: Biceps ease
+title: Overwijdte biceps
 path: /en/docs/patterns/sven/options/bicepsease
 pattern: sven
 option: bicpesEase
