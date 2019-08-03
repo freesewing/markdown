@@ -2,7 +2,7 @@
 title: Overwijdte heup
 path: /en/docs/patterns/carlton/options/hipsease
 pattern: carlton
-option: hipsEase
+option: heupOver
 ---
 
-The amount of ease at your hips.
+De hoeveelheid overwijdte aan je heupen.
