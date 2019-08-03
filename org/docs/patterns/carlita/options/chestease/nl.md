@@ -2,7 +2,7 @@
 title: Overwijdte borst
 path: /en/docs/patterns/carlita/options/chestease
 pattern: carlita
-option: chestEase
+option: borstOver
 ---
 
-The amount of ease at your chest.
+De hoeveelheid overwijdte aan je borst.
