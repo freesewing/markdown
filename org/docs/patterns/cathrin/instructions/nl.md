@@ -17,6 +17,6 @@ Korsetten moeten gemaakt worden van stof die geen enkele stretch heeft. De stof 
 
 Korsetten zijn makkelijker in elkaar te zetten dan het lijkt, alhoewel je een paar bijzondere materialen en gereedschappen nodig hebt.
 
-Je zal BALEINEN nodig hebben. Historic corsets used whale bone to stiffen corsets. Modern corset makers use steel. You can get steel bones either as flat steel and spiral steel - do research, as different types of corset and different corset makers have their own preferences. Plastic bones are also a cheaper option.
+Je zal BALEINEN nodig hebben. Historische korsetten gebruikten de baleinen van walvissen om korsetten sterker te maken. Moderne korsetmakers gebruiken staal. De walvissen zijn hier heel blij mee. Je kan stalen baleinband plat of als spiraal vinden - doe wat onderzoek, aangezien verschillende soorten korsetten en verschillende korsetmakers hun eigen voorkeuren hebben. Plastic baleinen zijn ook een goedkopere optie.
 
-You can find a good guide to other tools at Foundations Revealed.
+Je kan een goede lijst van andere materialen vinden bij Foundations Revealed.
