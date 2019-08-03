@@ -13,10 +13,10 @@ path: /en/docs/patterns/cathrin
 
 Beginnende korsettenmakers zouden de tutorials van [Sidney Eileen](http://www.sidneyeileen.com) moeten lezen, die verschillende constructiemethodes toont. [Foundations revealed](https://www.foundationsrevealed.com) is een betalende site voor korsettenmakers, met een aantal gratis artikels voor niet-leden.
 
-Corsets must be made from fabric with no stretch at all. The fabric designed for corset making is called coutil. Although coutil is expensive, not much is needed for a corset. Some cheaper alternatives include canvas, denim and cotton ticking. However, these will stretch over time and are not suitable for any garment with a large waist reduction: they are not strong enough. They are good options for testing the pattern to see how it fits on you. For corsets made from silk and cotton and other fancy fabrics, you need to use several layers - the fabric you want to be seen, on top of a layer of coutil or other strength layer, and perhaps also a third layer made out of lining which will sit next to the body.
+Korsetten moeten gemaakt worden van stof die geen enkele stretch heeft. De stof speciaal gemaakt voor korsetten heet coutil. Hoewel coutil duur is, heb je niet veel nodig voor een korset. Een aantal goedkopere alternatieven zijn canvas, denim en meubelstoffen. Deze rekken met de tijd echter uit en zijn niet geschikt voor eender welk kledingstuk dat de taille echt moet versmallen: ze zijn niet sterk genoeg. Het zijn goede opties om het patroon te testen en te zien hoe het je past. Voor korsetten gemaakt van zijde en katoen of andere chique stoffen heb je meerdere lagen nodig- de stof die je zichtbaar wil bovenop een laag coutil of andere sterke laag, en misschien ook een derde laag met een voering die tegen de huid komt.
 
-Corsets are easier than they seem to construct, however they need several specialist items and tools.
+Korsetten zijn makkelijker in elkaar te zetten dan het lijkt, alhoewel je een paar bijzondere materialen en gereedschappen nodig hebt.
 
-You will need BONING. Historic corsets used whale bone to stiffen corsets. Modern corset makers use steel. You can get steel bones either as flat steel and spiral steel - do research, as different types of corset and different corset makers have their own preferences. Plastic bones are also a cheaper option.
+Je zal BALEINEN nodig hebben. Historic corsets used whale bone to stiffen corsets. Modern corset makers use steel. You can get steel bones either as flat steel and spiral steel - do research, as different types of corset and different corset makers have their own preferences. Plastic bones are also a cheaper option.
 
 You can find a good guide to other tools at Foundations Revealed.
