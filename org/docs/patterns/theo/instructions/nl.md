@@ -33,7 +33,7 @@ Nothing beats **linen** on a hot summer day. It's fun to work with too, but it d
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 back(s)** with good sides together
  - Cut **2 front(s)** with good sides together
  - Cut **1 waistband left**
@@ -50,7 +50,7 @@ Nothing beats **linen** on a hot summer day. It's fun to work with too, but it d
  - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
  - Cut **2 back inner pocket bag(s)** 
  - Cut **2 back outer pocket bag(s)** 
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **1 waistband interfacing left**
  - Cut **1 waistband interfacing right**
  - Cut **4 back pocket interfacing(s)**
@@ -70,7 +70,7 @@ Below is a typical draft layout of Theodore:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 > Many of the steps below are to be repeated for both trouser legs.
 > 
