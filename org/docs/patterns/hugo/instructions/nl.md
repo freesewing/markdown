@@ -3,15 +3,15 @@ title: Hugo maken
 path: /en/docs/patterns/hugo
 ---
 
-> #### Documentation under construction
+> #### Documentatie onder constructie
 > 
-> First the good news: There's a video series that shows how to make Hugo from start to finish. Scroll down, it's embedded in this page.
+> We beginnen met het goede nieuws: er is een reeks video's waarin we van begin tot eind tonen hoe je Hugo maakt. Scroll wat naar beneden, het staat op deze pagina.
 > 
-> Now the bad news: The written instructions for Hugo are not complete yet.
+> Nu het slechte nieuws: de geschreven instructies voor Hugo zijn nog niet compleet.
 
 ## Video
 
-Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+Tekst een beetje te droog voor je? Ik probeer video's beschikbaar te maken als deel van de documentatie.
 
 This 6-episode series shows you how to make your hoodie start to finish:
 
