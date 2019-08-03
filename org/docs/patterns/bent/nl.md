@@ -1,4 +1,4 @@
 ---
-title: Bent basispatroon
+title: Bent basisvorm
 ---
 
