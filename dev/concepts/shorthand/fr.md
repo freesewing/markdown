@@ -30,7 +30,7 @@ By using [object destructuring](https://developer.mozilla.org/en-US/docs/Web/Jav
   } = part.shorthand();
 ```
 
-<Note>
+<note>
 
 Many examples throughout our documentation use [shorthand](#using-shorthand) notation.
 
