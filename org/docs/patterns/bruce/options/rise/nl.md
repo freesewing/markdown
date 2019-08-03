@@ -2,7 +2,7 @@
 title: Hoogte
 path: /en/docs/patterns/bruce/options/rise
 pattern: bruce
-option: rise
+option: hoogte
 ---
 
 ![De optie voor hoogte bij Bruce](./rise.svg)
