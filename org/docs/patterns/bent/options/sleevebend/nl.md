@@ -1,7 +1,7 @@
 ---
 title: Mouw kromming
 pattern: bent
-option: sleeveBend
+option: mouwKromming
 ---
 
 De hoek van de mouw.
