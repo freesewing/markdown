@@ -16,17 +16,17 @@ The tip is the most sensitive part of the tie. If you have never made a tie befo
 
 To practice tip-making, execute constructions steps 1 through 4 a couple of times until you get the hang of it.
 
-## Press wisely
+## Strijk wijs
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Tijdens de constructie zal gevraagd worden je stof te strijken. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Het is een goed idee om een paar restjes stof te strijken voor je begint. This will allow you to figure out what is a good heat setting for the fabric you are using.
 
 ## Stofkeuze
 
 ### Tie fabric
 
-The ties you find in the store are typically make out of silk or some imitation silk poly. So it will come as no surprise that those are good options.
+The ties you find in the store are typically make out of silk or some imitation silk poly. Het is dus niet verrassend dat dit goede opties zijn.
 
 In general, you want something with good drape so that you tie hangs nicely. Cutting your tie on bias can help here too.
 
@@ -72,14 +72,14 @@ That being said, a lot of ties are cut on bias, as this results in the best drap
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **1 tip**
  - Cut **1 tail** 
-- **Lining fabric** 
+- **Voering** 
  - Cut **1 lining tip**
  - Cut **1 lining tail** 
  - Cut **1 loop** 
-- **Interfacing** 
+- **Tussenvoering** 
  - Cut **1 interfacing tip**
  - Cut **1 interfacing tail** 
 
@@ -95,7 +95,7 @@ Trayvon a very simply pattern, below is a typical layout:
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
-## Construction
+## Constructie
 
 ### Step 1: Sew the first side of your tie tail
 
