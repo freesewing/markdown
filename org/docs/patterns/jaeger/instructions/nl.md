@@ -15,26 +15,26 @@ path: /en/docs/patterns/jaeger
 > 
 > Jaeger is een leuk en ambitieus project, maar alle nodige materialen vinden kan een beetje een uitdaging zijn.
 > 
-> That is because this kind of project is somewhat more ambitious than the typical home sewing project, and as a result, your local haberdashery is unlikely to stock all of these things.
+> Dit is omdat dit project een beetje hoger gemikt is dan je gemiddelde naaiprojectje, en als gevolg daarvan is de kans klein dat je alles vindt in je lokale mercerie.
 > 
-> If you know where to get them, great. If not, you can get a **Jacket trim pack** from [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in London, they ship to international customers.
+> Als je weet waar dit te vinden, super. Indien niet kan je een **pakket met benodigdheden voor een jasje** bestellen bij [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in Londen, zij verzenden internationaal.
 > 
-> It's a shop for professionals (they're not even open on Saturdays) but they don't require you to be a business to place an order.
+> Het is een winkel voor professionals (ze zijn zelfs niet open op zaterdag) maar je hoeft geen professional te zijn om iets te bestellen.
 > 
-> I have no afiliation with these guys, but it's the only place I know of that will sell you a kit of professional trimmings to make a jacket.
+> Ik heb niets te maken met deze mannen, maar het is de enige plek waar ik van weet die je een set met professioneel materiaal verkopen om een jasje te maken.
 > 
-> If you know of any other place that carries this stuff, please let us know. {.fs-bq}
+> Als je weet hebt van andere plekken die zoiets doen, laat het dan weten. {.fs-bq}
 
-To make Jaeger, you will need the following:
+Om Jaeger te maken heb je het volgende nodig:
 
-- About two and a half meters of a suitable fabric (see [Fabric options](#fabric-options))
-- Lining fabric, optionally different sleeve lining fabric
-- Two larger buttons for the front, and 8 buttons for the sleeves
-- A bit of lightweight fusible interfacing for local enforcement
-- Canvas for the fronts and collar
-- Tailor's tape for the front edges
-- Some domette for interlining
-- Shoulder pads
+- Ongeveer 2,5 meter geschikte stof (zie [Stofkeuzes](#fabric-options))
+- Voering, eventueel een andere stof voor de voering van de mouwen
+- Twee grotere knopen voor de voorkant, en 8 knopen voor de mouwen
+- Een beetje lichtgewicht kleefbare tussenvoering voor lokale versteviging
+- Haardoek voor de voorpanden en kraag
+- Smal keperlint voor de voorste randen
+- Domette voor de tussenvoering
+- Epauletten
 - Sleevehead wadding, with canvas if possible
 - Undercollar fabric
 
