@@ -1,8 +1,8 @@
 ---
-title: Front rise
+title: Hoogte voorpand
 path: /en/docs/patterns/cathrin/options/frontrise
 pattern: cathrin
-option: frontRise
+option: voorHoogte
 ---
 
 ![The front rise option on Cathrin](./frontrise.svg)
