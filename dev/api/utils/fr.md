@@ -27,7 +27,7 @@ Set sort to:
 
 ### Utils.beamIntersectsCircle() example
 
-<Example part="utils_beamintersectscircle" caption="A Utils.beamIntersectsCircle() example" />
+<example part="utils_beamintersectscircle" caption="A Utils.beamIntersectsCircle() example" />
 
 ```js
 let {
@@ -92,7 +92,7 @@ Finds the intersection between an endless line and a given X-value. Returns a [P
 
 ### Utils.beamIntersectsX() example
 
-<Example part="utils_beamintersectsx" caption="A Utils.beamIntersectsX() example" />
+<example part="utils_beamintersectsx" caption="A Utils.beamIntersectsX() example" />
 
 ```js
   let {
@@ -128,7 +128,7 @@ Finds the intersection between an endless line and a given Y-value. Returns a [P
 
 ### Utils.beamIntersectsY() example
 
-<Example part="utils_beamintersectsy" caption="A Utils.beamIntersectsY() example" />
+<example part="utils_beamintersectsy" caption="A Utils.beamIntersectsY() example" />
 
 ```js
 let {
@@ -169,7 +169,7 @@ Finds the intersection between two endless lines (beams). Returns a [Point](#poi
 
 ### Utils.beamIntersect() example
 
-<Example part="utils_beamsintersect" caption="A Utils.beamIntersect() example" />
+<example part="utils_beamsintersect" caption="A Utils.beamIntersect() example" />
 
 ```js
 let {
@@ -219,7 +219,7 @@ Set sort to:
 
 ### Utils.circlesIntersect() example
 
-<Example part="utils_circlesintersect" caption="A Utils.circlesIntersect() example" />
+<example part="utils_circlesintersect" caption="A Utils.circlesIntersect() example" />
 
 ```js
 let { Point, points, Snippet, snippets, utils } = part.shorthand();
@@ -276,7 +276,7 @@ This returns `false` if no intersections are found, a [Point](/en/docs/developer
 
 ### Utils.curveIntersectsX() example
 
-<Example part="utils_curveintersectsx" caption="A Utils.curveIntersectX() example" />
+<example part="utils_curveintersectsx" caption="A Utils.curveIntersectX() example" />
 
 ```js
 let {
@@ -341,7 +341,7 @@ This returns `false` if no intersections are found, a [Point](/en/docs/developer
 
 ### Utils.curveIntersectsY() example
 
-<Example part="utils_curveintersectsy" caption="A Utils.curveIntersectY() example" />
+<example part="utils_curveintersectsy" caption="A Utils.curveIntersectY() example" />
 
 ```js
 let {
@@ -405,7 +405,7 @@ Finds the intersections between two curves described by 4 points each.
 
 ### Utils.curvesIntersect() example
 
-<Example part="utils_curvesintersect" caption="A Utils.curvesIntersect() example" />
+<example part="utils_curvesintersect" caption="A Utils.curvesIntersect() example" />
 
 ```js
 let {
@@ -489,7 +489,7 @@ Set sort to:
 
 ### Utils.lineIntersectsCircle() example
 
-<Example part="utils_lineintersectscircle" caption="A Utils.lineIntersectsCircle() example" />
+<example part="utils_lineintersectscircle" caption="A Utils.lineIntersectsCircle() example" />
 
 ```js
 let {
@@ -560,7 +560,7 @@ Finds the intersection between a line segment from point `from` to point `to` an
 
 ### Utils.lineIntersectsCurve() example
 
-<Example part="utils_lineintersectscurve" caption="A Utils.lineIntersectsCurve() example" />
+<example part="utils_lineintersectscurve" caption="A Utils.lineIntersectsCurve() example" />
 
 ```js
 let {
@@ -611,7 +611,7 @@ Finds the intersection between two line segments. Returns a [Point](#point) obje
 
 ### Utils.linesIntersect() example
 
-<Example part="utils_linesintersect" caption="A Utils.linesIntersect() example" />
+<example part="utils_linesintersect" caption="A Utils.linesIntersect() example" />
 
 ```js
 let {
@@ -651,7 +651,7 @@ bool utils.pointOnBeam(
 
 Returns `true` if the point `check` lies on the endless line that goes through `point1` and `point2`. The fourth parameter controls the precision. Lower numbers make the check less precise.
 
-<Note>
+<note>
 
 ###### Tweak precision only when needed
 
@@ -663,7 +663,7 @@ When that happens, you can lower the precision so you get what you expect.
 
 ### Utils.pointOnBeam() example
 
-<Example part="utils_pointonbeam" caption="A Utils.pointOnBeam() example" />
+<example part="utils_pointonbeam" caption="A Utils.pointOnBeam() example" />
 
 ```js
 let {
@@ -731,7 +731,7 @@ bool utils.pointOnCurve(
 
 Returns `true` if the point `check` lies on a curve described by points `start`, `cp1`, `cp2`, and `end`.
 
-<Note>
+<note>
 
 Keep in mind that calculations with Bezier curves are often aproximations.
 
@@ -739,7 +739,7 @@ Keep in mind that calculations with Bezier curves are often aproximations.
 
 ### Utils.pointOnCurve() example
 
-<Example part="utils_pointoncurve" caption="A Utils.pointOnCurve() example" />
+<example part="utils_pointoncurve" caption="A Utils.pointOnCurve() example" />
 
 ```js
 let {
@@ -801,7 +801,7 @@ The fourth parameter controls the precision. See [pointOnBeam](#utilspointonbeam
 
 ### Utils.pointOnLine() example
 
-<Example part="utils_pointonline" caption="A Utils.pointOnLine() example" />
+<example part="utils_pointonline" caption="A Utils.pointOnLine() example" />
 
 ```js
 let {
