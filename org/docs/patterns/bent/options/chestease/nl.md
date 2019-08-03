@@ -1,7 +1,7 @@
 ---
 title: Overwijdte borst
 pattern: bent
-option: chestEase
+option: borstOver
 ---
 
 De hoeveelheid overwijdte aan je borst.
