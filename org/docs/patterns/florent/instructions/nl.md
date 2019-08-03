@@ -56,31 +56,31 @@ Markeer het eindpunt van de achterste neep op de verkeerde kant van de stof zoda
 
 ![Marking the end of the dart](step01.jpg)
 
-Er zijn verschillende trucjes om nepen te naaien, hier is het mijne (ik denk dat ze dit "een neep balanceren" noemen): knip een rechthoek van je buitenstof schuin van draad en plaats deze onder de punt van je neep. Stik de neep, van beneden tot de punt, en stik een paar steken voorbij de punt van de neep. Leave a good length of thread to make a knot by hand.
+Er zijn verschillende trucjes om nepen te naaien, hier is het mijne (ik denk dat ze dit "een neep balanceren" noemen): knip een rechthoek van je buitenstof schuin van draad en plaats deze onder de punt van je neep. Stik de neep, van beneden tot de punt, en stik een paar steken voorbij de punt van de neep. Laat een paar lange draadjes hangen om ze te kunnen knopen.
 
 ![Balanced dart](step02.jpg)
 
-Where the rectangle of fabric starts, cut the seam allowance that is against this rectangle, up to the seam so that the seam can be ironed flat open before the rectangle. On the area where the dart is stitched with the rectangle, iron both seam allowances on one side, and the folded rectangle on the other side. Layer the edges of the rectangle. The edge against the main fabric is wider, the one above is smaller
+Knip de naadwaarde die tegen het rechthoekige stukje stof ligt open tot aan de naad zodat de naad voor het rechthoekige stukje stof opengestreken kan worden. Op de plek waar de neep samen met het rechthoekige stukje stof gestikt is strijk je de naadwaarde naar 1 kant, en het geplooide rechthoekige stukje stof naar de andere kant. Knip de randen van het rechthoekige stukje stof bij. De rand aan de buitenstof is breder, die daarbovenop smaller
 
-#### Version with the top part cut twice
+#### Versie met bovenkant in twee delen
 
-This dart is more straight forward since the seam is continuous. Simply stitch the seam all the way
+Deze neep is eenvoudiger aangezien de naad doorloopt. Stik de naad gewoon van begin tot einde
 
-#### Ironing the seam
+#### De naad strijken
 
-You might have to notch the seam allowance to press it flat. Use a tailoring Ham or something rounded underneath to help you press the seam open whilst keeping the nice shape you just created.
+Het kan helpen om knipjes in de naadwaarde te geven zodat ze plat ligt. Gebruik een perskussen of iets rond onder je stof om de naad open te strijken en toch de vorm die je net gemaakt hebt te behouden.
 
-#### Top Stitching
+#### Sierstiksel
 
-Depending on the style you want to achieve, you can top stitch all your seams (by machine of by hand). However, the front brim seam will be a bit tricky to do with the machine (but not impossible). Anyway, I put this here and won't remind you about it after each step, but basically, the process would be: Stitch, Iron, Top stitch, Repeat on the next step.
+Afhankelijk van de look die je wil kan je een sierstiksel langs je naden geven (met de machine of zelfs met de hand). De voorste klepnaad zal een beetje lastig zijn met de machine, maar niet onmogelijk. In elk geval zeg ik dit hier en zal ik het niet blijven herhalen, maar als je kiest voor een sierstiksel is dit het proces: Stik, Strijk, Sierstiksel, Herhaal.
 
-### Step 3: Optional: Join both side parts.
+### Stap 3: Optioneel: Bevestig zijpanden aan elkaar.
 
-This applies only if you cut two parts for the side part. It is a straight seam. nothing much to say about that. Iron the seam flat, with the seam allowances open.
+Dit is enkel relevant als je de zijpanden in twee delen geknipt hebt. Het is een rechte naad. Niet veel over te zeggen. Strijk de naadwaarde open.
 
-### Step 4: Join the top to the side
+### Stap 4: Bevestig de bovenkant aan de zijkant
 
-Warning: There will be quite a few pins involved Align the notches and pin the parts together so that this rounded part is held well in place.
+Opgelet: hier komen een hoop spelden bij kijken.
 
 ![Pins](step03.jpg) ![More pins](step04.jpg)
 
