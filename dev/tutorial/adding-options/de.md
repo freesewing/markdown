@@ -35,7 +35,7 @@ Can you guess what it means?
 - Its maximum value is 90%
 - Its default value is 80%
 
-<Note>
+<note>
 
 There are different types of options, but percentages are the most common ones. They are all documentation [in the API docs](/api/config#options).
 
@@ -55,7 +55,7 @@ options: {
 - You've given all options sensible defauls 
 - You've given all options sensible maximum and minimum boundaries
 
-<Note>
+<note>
 
 Later, you'll test-drive your pattern to see how it behaves when you adapt the options between their minimum and maximum values. At that time, you can still tweak these values.
 
@@ -69,7 +69,7 @@ optionGroups: {
 },
 ```
 
-<Note>
+<note>
 
 The `optionGroups` entry does not do anything for your pattern as such. Instead it signals to the frontend that this is how options should be grouped together and presented to the user.
 
