@@ -1,15 +1,15 @@
 ---
-title: Making Florent
+title: Florent maken
 path: /en/docs/patterns/florent
 ---
 
 ## Wat je nodig hebt
 
-To make Florent, you will need the following:
+Om Florent te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- About 0.5 meter of lining fabric
+- Ongeveer 0.5 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+- Ongeveer 0.5 meter voering
 - Tape, a bit more than **head circumference** + **ease** that you used for the pattern
 - A sheet of plastic or something rigid for the brim (1 mm thick or less)
 
@@ -25,7 +25,7 @@ Depending on how much fabric is available, you might want to cut two top and or 
 
 The brim bottom part is inset, while the brim top part is offset so that the seam falls "underneath the brim edge". Keep that in mind when cutting the parts, and mark them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
  - Cut **1 side** on the fold, or **2 side**.
  - Cut **1 brim top** .
@@ -40,7 +40,7 @@ A typical Florent layout looks like this:
 
 ![A typical Florent layout](/img/patterns/florent/layout.svg)
 
-## Construction
+## Constructie
 
 ### Step 1: Fuse interfacing
 
