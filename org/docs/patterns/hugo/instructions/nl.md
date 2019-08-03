@@ -74,18 +74,18 @@ Hier is een typische layout:
 - Leg het Zakbeleg op de randen van de Zak, met goede kanten op elkaar.
 - Stik de belegdelen aan de zak met 1 cm naadwaarde. Stik zowel de lange rand als het kortere randje onderaan de zak.
 - Knip voorzichtig de naadwaarde bij aan de belegdelen.
-- Flip and turn the facing pieces good sides out. Then hand-roll and press the seams.
-- Topstitch or edge-stitch ½ cm along both upper and lower edges on each side of the pocket, to anchor the facing and the seam allowance.
-- Topstitch another line ½ from the inside upper edge of the facing on each side of the pocket. This topstitch line will end at the lower edge stitch line.
-- Trim away the excess facing on the inside of the pocket.
-- Press the edges.
+- Keer de belegdelen naar de goede kant. Rol de naden op hun plaats en strijk ze plat.
+- Stik de zakopening op 1/2 cm van de rand door, zowel langs de boven- en de onderrand, om het beleg en de naadwaarde vast te zetten.
+- Stik de bovenrand nog een keer door, 1/2 cm van het eerste stiksel. Dit stiksel stopt aan het eerste stiksel aan de onderrand.
+- Knip het overtollige beleg aan de binnenkant van de zak weg.
+- Strijk de randen.
 
-### Step 2: Attach the Pocket
+### Stap 2: Bevestig de zak
 
-- Match the Pocket to the front, good sides together.
-- The upper pocket seam line is marked by notches on the pattern. The pocket bottom edge should point towards the neckline. Align the pocket edges horizontally with the notches on the pattern. Overlap the top of the pocket over the seam line by a little less than 1 cm seam allowance.
-- Stitch the top seam of the Pocket to the Shirt Front.
-- Flip the pocket over the seam line so the bottom now lines up with the edge at the waist.
+- Leg de zak op het voorpand, met goede kanten op elkaar.
+- De bovenste naadlijn is aangegeven met merktekens op het patroon. De onderrand van de zak ligt naar de halslijn gericht. Leg de randen van de zak gelijk met de merktekens op het patroon. Leg de bovenrand van de zak iets minder dan 1 cm over de naadlijn heen.
+- Stik de bovenste naad van het zakdeel aan het voorpand.
+- Leg het zakdeel over de naad heen zodat de onderrand nu gelijk ligt met de onderrand van het voorpand.
 - Using a long basting stitch (4mm or longer), baste the pocket into place at the waist, with a ½ cm seam allowance. This is optional, but keeps the pocket in place while you work on the rest of the shirt.
 
 ### Step 3: Attach the Sleeves
