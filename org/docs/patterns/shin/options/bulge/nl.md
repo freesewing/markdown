@@ -1,12 +1,12 @@
 ---
-title: Bulge
+title: Kruisstuk
 path: /en/docs/patterns/shin/options/bulge
 pattern: shin
-option: bulge
+option: kruis
 ---
 
 How much room do you want in the front?
 
 Increasing this will creating more room in the front.
 
-> If it's vertical room you're looking for, that's what the **rise** option does
+> Als je verticaal meer ruimte nodig hebt, dan moet je naar de **hoogte** optie kijken
