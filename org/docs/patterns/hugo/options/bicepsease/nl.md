@@ -1,8 +1,8 @@
 ---
-title: Biceps ease
+title: Overwijdte biceps
 path: /en/docs/patterns/hugo/options/bicepsease
 pattern: hugo
-option: bicepsEase
+option: bicepsOver
 ---
 
 Allows you to tweak the arm ease a bit.
