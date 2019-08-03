@@ -13,7 +13,7 @@ path: /en/docs/patterns/hugo
 
 Tekst een beetje te droog voor je? Ik probeer video's beschikbaar te maken als deel van de documentatie.
 
-This 6-episode series shows you how to make your hoodie start to finish:
+Deze zesdelige reeks toont je van begin tot eind hoe je de hoodie in elkaar zet:
 
 @[youtube](https://www.youtube.com/playlist?list=PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO)
 
