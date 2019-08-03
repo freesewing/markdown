@@ -2,7 +2,7 @@
 title: Overwijdte borst
 path: /en/docs/patterns/hugo/options/chestease
 pattern: hugo
-option: chestEase
+option: borstOver
 ---
 
 Hoeveel ruimte wil je rond je borstkas?
