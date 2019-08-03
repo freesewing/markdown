@@ -1,12 +1,12 @@
 ---
-title: Back vent
+title: Rugsplit
 path: /en/docs/patterns/jaeger/options/backvent
 pattern: jaeger
-option: backVent
+option: rugSplit
 ---
 
-How do you like your back vents?
+Hoe wil je je rugsplit?
 
-- Two back vents (shown on the left)
-- One central back vent (shown in the middle)
-- No back vents (shown on the right)
+- Twee rugsplitten (zoals links)
+- Eén rugsplit in het midden (zoals in het midden)
+- Geen rugsplitten (zoals rechts)
