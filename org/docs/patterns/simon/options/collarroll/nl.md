@@ -7,7 +7,7 @@ option: collarRoll
 
 How much the collar is taller than the collar stand at center back.
 
-> #### What's the point?
+> #### Waarom?
 > 
 > The collar starts upwards from the collar stand and then rolls over downwards. But it still needs to cover the collar stand. For that, it needs to be a bit longer.
 > 
