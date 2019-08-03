@@ -1,8 +1,8 @@
 ---
-title: Biceps ease
+title: Overwijdte biceps
 path: /en/docs/patterns/carlita/options/bicepsease
 pattern: carlita
-option: bicepsEase
+option: bicepsOver
 ---
 
-The amount of ease at your upper arm.
+De hoeveelheid overwijdte aan je bovenarm.
