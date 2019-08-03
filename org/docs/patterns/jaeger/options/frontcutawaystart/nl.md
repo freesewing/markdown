@@ -1,8 +1,8 @@
 ---
-title: Front cutaway start
+title: Start uitsnijding vooraan
 path: /en/docs/patterns/jaeger/options/frontcutawaystart
 pattern: jaeger
-option: frontCutawayStart
+option: voorUitsnijdingStart
 ---
 
-How far below the lower button does the front start to open.
+Hoe ver onder de onderste knoop begint het voorpand te openen.
