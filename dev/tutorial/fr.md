@@ -9,7 +9,7 @@ Vous allez concevoir un patron de bavoir pour bébé. C'est un patron très simp
 
 A la fin de ce tutoriel, vous aurez créé ce patron :
 
-<Example pattern="tutorial" part="bib" caption="Your end result" />
+<example pattern="tutorial" part="bib" caption="Your end result" />
 
 Avant de démarrer, assurons-nous que vous possédez les logiciels requis installés sur votre ordinateur :
 
