@@ -33,33 +33,33 @@ Op het vlak van vezels kan je voor katoen gaan, of kiezen voor een mengeling van
 
 Let ook op de binnenkant van de stof. Sweaterstoffen worden met lusjes op de achterkant of een opgeruwde achterkant verkocht. Als je dat gevoel wil van babykonijntjes op je huid, ga dan voor de opgeruwde versie (in tegenstelling tot wat de term doet vermoeden is dit zacht).
 
-> Je moet geen sweaterstof gebruiken. Other options are available, from fashion-forward neoprene (aka scuba) to a more eyebrow-rising choice like crushed velour (aka velvet).
+> Je moet geen sweaterstof gebruiken. Er zijn andere opties, van überhip neopreen (of scuba) tot totaal onsubtiel crash fluweel.
 > 
-> Or if you have given up on class, you could go for fleece.
+> Of ga voor fleece als je alle pretentie opgegeven hebt.
 
 ## Knippen
 
 - **Buitenstof** 
  - Knip **1 voorpand** aan de stofvouw
  - Knip **1 rugpand** aan de stofvouw
- - Cut **2 sleeves**, good sides together
- - Cut **1 pocket** on the fold
- - Cut **2 pocket facing(s)**, good sides together
- - Cut **4 Hood side(s)**, 2x2 good sides together
- - Cut **2 hood center(s)**, good sides together
- - Cut **1 neck binding**
-- **Ribbing** 
- - Cut **2 cuff(s)**
- - Cut **1 waistband**
+ - Knip **2 mouwen**, goede kanten op elkaar
+ - Knip **1 zakdeel** aan de stofvouw
+ - Knip **2 belegdelen zak**, goede kanten op elkaar
+ - Knip **4 zijkanten kap**, goede kanten op elkaar
+ - Knip **2 midden kap**, goede kanten op elkaar
+ - Knip **1 halsbies**
+- **Boordstof** 
+ - Knip **2 manchetten**
+ - Knip **1 tailleband**
 
 ### Opmerkingen
 
-**sleeve**
+**mouw**
 
-- There's a single notch at the front, and a double notch at the back. These notches match on the front and back parts respectively. **pocket facing** and **hood**
-- Watch out for the grainlines on these parts
+- Er is een enkel merkteken vooraan, en een dubbel merkteken achteraan. Deze merktekens komen overeen met het voor-en achterpand. **zakbeleg** en **kap**
+- Let op de draadrichting van deze delen
 
-Because Hugo's raglan sleeve also covers a portion of the back and front, the sleeve is the dominant feature of your draft.
+Omdat Hugo's raglanmouw ook een deel van het voor-en achterpand uitmaakt is de mouw het dominante onderdeel van je patroon.
 
 Hier is een typische layout:
 
@@ -69,11 +69,11 @@ Hier is een typische layout:
 
 ## Constructie
 
-### Step 1: Prepare the Pocket
+### Stap 1: Bereid de zak voor
 
-- Place the Pocket Facing pieces together with the edges of the Pocket piece, good sides together.
-- Stitch the facing pieces to the pocket with a 1cm seam allowance. Stitch both the long edge, and the shorter edge at the bottom of the pocket.
-- Carefully trim the seam allowance on the facing pieces.
+- Leg het Zakbeleg op de randen van de Zak, met goede kanten op elkaar.
+- Stik de belegdelen aan de zak met 1 cm naadwaarde. Stik zowel de lange rand als het kortere randje onderaan de zak.
+- Knip voorzichtig de naadwaarde bij aan de belegdelen.
 - Flip and turn the facing pieces good sides out. Then hand-roll and press the seams.
 - Topstitch or edge-stitch ½ cm along both upper and lower edges on each side of the pocket, to anchor the facing and the seam allowance.
 - Topstitch another line ½ from the inside upper edge of the facing on each side of the pocket. This topstitch line will end at the lower edge stitch line.
