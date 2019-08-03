@@ -92,9 +92,7 @@ The following variables configure different aspects of our website. Only `GATSBY
 | `GATSBY_BACKEND`            | The location of the data backend                                                      | `http://localhost:3000/`                                                   |
 | `GATSBY_TILER`              | The location of the tiler backend                                                     | `http://localhost:4000/`                                                   |
 | `GATSBY_GITHUB_CLIENT_ID`   | The Github client ID used for Oauth                                                   | `13734754d4aa03f5c70e`                                                     |
-| `GATSBY_GITHUB_CALLBACK`    | The callback location during Oauth flow                                               | `http://localhost:3000/callback/from/github`                               |
 | `GATSBY_GOOGLE_CLIENT_ID`   | The Google client ID used for Oauth                                                   | `730107872143-l1gfa3e0eerads4clqu458pblgpnu54h.apps.googleusercontent.com` |
-| `GATSBY_GOOGLE_CALLBACK`    | The callback location during Oauth flow                                               | `http://localhost:3000/callback/from/google`                               |
 | `GATSBY_ALGOLIA_API_ID`     | The Algolia client ID for search (under construction)                                 | `MA0Y5A2PF0`                                                               |
 | `GATSBY_ALGOLIA_SEARCH_KEY` | The Algolia *read only* key for search (under construction)                           | `9209470ad243eee797156aa2874d886c`                                         |
 | `GATSBY_ALGOLIA_UPDATE_KEY` | The *write* key to update the Algolia search index at build time (under construction) | `ba780a3afe2118062ee08ea4fb54c097`                                         |
