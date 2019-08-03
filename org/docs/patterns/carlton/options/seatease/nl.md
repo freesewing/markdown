@@ -1,8 +1,8 @@
 ---
-title: Seat ease
+title: Overwijdte zitvlak
 path: /en/docs/patterns/carlton/options/seatease
 pattern: carlton
-option: seatEase
+option: zitvlakOver
 ---
 
-The amount of ease at your seat.
+De hoeveelheid overwijdte aan je zitvlak.
