@@ -1,5 +1,5 @@
 ---
-title: Making Hugo
+title: Hugo maken
 path: /en/docs/patterns/hugo
 ---
 
