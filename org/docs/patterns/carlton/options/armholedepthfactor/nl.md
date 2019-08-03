@@ -1,8 +1,8 @@
 ---
-title: Armhole depth factor
+title: Diepte armsgat factor
 path: /en/docs/patterns/carlton/options/armholedepthfactor
 pattern: carlton
-option: armholeDepthFactor
+option: armsgatDiepteFactor
 ---
 
-This controls the depth of the armhole, which in turn influences the sleevecap width.
+Dit controleert de diepte van het armsgat, wat vervolgens de breedte van de mouwkop beïnvloedt.
