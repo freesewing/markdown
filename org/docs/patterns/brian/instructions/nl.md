@@ -4,7 +4,7 @@ title: Brian maken
 
 ## Brian is een basis, geen patroon
 
-Een basispatroon is een basisvorm waar andere patronen op gebaseerd worden. Dit wordt soms ook een paspatroon genoemd, alhoewel puristen zeggen dat dit twee verschillende dingen zijn.
+Een basisvorm is een basispatroon waar andere patronen op gebaseerd worden. Dit wordt soms ook een paspatroon genoemd, alhoewel puristen zeggen dat dit twee verschillende dingen zijn.
 
 Het punt is dat het geen nut heeft om instructies te schrijven over hoe Brian gemaakt wordt.
 
