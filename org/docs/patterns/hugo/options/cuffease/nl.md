@@ -1,8 +1,8 @@
 ---
-title: Cuff ease
+title: Overwijdte manchet
 path: /en/docs/patterns/hugo/options/cuffease
 pattern: hugo
-option: cuffEase
+option: polsOver
 ---
 
 Controls the amount of ease at your wrist.
