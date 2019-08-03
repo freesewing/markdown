@@ -85,27 +85,27 @@ Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets 
 
 - Het borststuk is aangegeven op het patroondeel van het voorpand.
 - Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
-- Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
+- Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Vergeet niet naadwaarde toe te voegen aan zowel het beleg als de voering langs deze naad.**.
 
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
 ## Constructie
 
-### Close the front darts
+### Sluit de voorste nepen
 
-![Close the front darts](closeFrontDarts.svg)
+![Sluit de voorste nepen](closeFrontDarts.svg)
 
-#### Fold double
+#### Vouw dubbel
 
-Fold the front double with the good sides together and pin it down so the fold is neatly in the middle of the front dart.
+Vouw het voorpand dubbel met de goede kanten tegen elkaar en speld het vast zodat de vouw net in het midden van de voorste neep zit.
 
-#### Sew darts
+#### Stik de nepen
 
-Sew the front dart close, taking care to have the dart stop at the correct top end. The bottom is not that important as it will be covered by the pockets. But the top end of the dart will be clearly visible, so please make sure to have it end at the same height at both sides.
+Stik de voorste neep dicht, let op dat de neep bovenaan op de juiste hoogte stopt. De onderkant is niet zo belangrijk aangezien die bedekt wordt door de zakken. Maar het bovenste puntje van de neep blijft zichtbaar, dus zorg dat ze aan beide kanten exact even lang zijn.
 
-#### Cut open and press
+#### Knip open en strijk
 
-Once the front darts are closed, cut open the dart at the back. You won't be able to cut it open all the way to the tip, but that's fine. Press open the darts where they are cut open, and press the rest to the side. Take care to only press from the back. Pressing from the front will likely mark your fabric.
+Zodra de voorste nepen dichtgestikt zijn, knip je ze open aan de achterkant. Je zal niet helemaal tot in de punt kunnen knippen, maar dat is ok. Strijk de nepen open waar ze opengeknipt zijn, en strijk de rest opzij. Strijk alleen op de achterkant. Strijken op de voorkant kan sporen achterlaten op je stof.
 
 ### Construct the chest pocket
 
