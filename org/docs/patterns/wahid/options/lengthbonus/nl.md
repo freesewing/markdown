@@ -2,7 +2,7 @@
 title: Bonus lengte
 path: /en/docs/patterns/wahid/options/lengthbonus
 pattern: wahid
-option: lengthBonus
+option: lengteBonus
 ---
 
 This option allows you to lengthen (or shorten) your waistcoat.
