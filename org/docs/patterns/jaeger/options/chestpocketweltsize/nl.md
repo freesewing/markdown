@@ -1,8 +1,8 @@
 ---
-title: Chest pocket welt size
+title: Afmeting paspel borstzak
 path: /en/docs/patterns/jaeger/options/chestpocketweltsize
 pattern: jaeger
-option: chestPocketWeltSize
+option: borstZakPaspelMaat
 ---
 
-The height of the chest pocket welt.
+De hoogte van de paspel van de borstzak.
