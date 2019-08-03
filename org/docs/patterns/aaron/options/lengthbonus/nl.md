@@ -1,7 +1,7 @@
 ---
 title: Bonus lengte
 pattern: aaron
-option: lengthBonus
+option: lengteBonus
 ---
 
 ![De optie voor bonus lengte bij Aaron](./lengthbonus.svg)
