@@ -1,8 +1,8 @@
 ---
-title: Chest pocket placement
+title: Plaatsting borstzak
 path: /en/docs/patterns/jaeger/options/chestpocketplacement
 pattern: jaeger
-option: chestPocketPlacement
+option: borstZakPlaats
 ---
 
-Location of the chest pocket as a proportion a quarter of your chest circumference. Higher numbers move it more to the side.
+Plaats van de borstzak in verhouding met een kwart van je borstomtrek. Een hoger nummer schuift de zak naar opzij.
