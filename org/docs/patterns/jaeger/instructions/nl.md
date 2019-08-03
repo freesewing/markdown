@@ -5,7 +5,7 @@ path: /en/docs/patterns/jaeger
 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
 
 ## Before you start
 
@@ -48,7 +48,7 @@ However, making Jaeger is going to take some time. Do yourself a favour and get 
 
 ## Knippen
 
-- **Main fabric** 
+- **Buitenstof** 
  - Cut **2 fronts** (part 1)
  - Cut **2 front facings** (look for the facing/lining boundary on the front part)
  - Cut **2 backs** (part 2)
@@ -89,7 +89,7 @@ However, making Jaeger is going to take some time. Do yourself a favour and get 
 
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
-## Construction
+## Constructie
 
 ### Close the front darts
 
@@ -284,4 +284,4 @@ Align the shoulder seams with good sides together, and sew them together.
 > 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
