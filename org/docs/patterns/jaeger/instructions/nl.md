@@ -66,26 +66,26 @@ Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets 
  - Knip **2 zijpanden** (deel 3)
  - Knip **2 bovenmouwen** (deel 4) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
  - Knip **2 ondermouwen** (deel 5) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
- - Cut **2 chest pocket bags** )(part 11)
- - Cut **2 inner pocket welts**
- - Cut **2 inner pocket bags** (part 13)
-- **Canvas** 
- - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
- - Cut **2 chest pieces** on bias. Look for the indication on the front part. Note: Don't include seam allowance
+ - Knip **2 zakdelen borstzak** (deel 11)
+ - Knip **2 biezen binnenzak**
+ - Knip **2 zakdelen binnenzak** (deel 13)
+- **Haardoek** 
+ - Knip **2 voorpanden** schuin van draad (deel 1) Opmerking: voeg geen naadwaarde toe
+ - Knip **2 borststukken** schuin van draad. Kijk naar de markering op het voorpand. Opmerking: voeg geen naadwaarde toe
 - **Stof voor de onderkraag** 
- - Cut **1 undercollar** (part 7)
+ - Knip **1 onderkraag** (deel 7)
 
-> ##### Good sides together, or precise pattern matching?
+> ##### Goede kanten samen, of patronen exact laten doorlopen?
 > 
-> When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together). However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
+> Als je twee stukken nodig hebt van één patroondeel, kan je dit met de [goede kanten van de stof](/en/docs/sewing/good-sides-together) samen knippen. Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
 > 
-> When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one. {.fs-bq}
+> Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips. {.fs-bq}
 
-### Cutting caveats
+### Opletten bij het knippen
 
-- The chest piece is marked on the front.
-- Don't include seam allowance when cutting out canvas, and cut it on bias.
-- The front facing and lining is marked on the front piece. They split the front part in two along the boundary line. You can cut the front part along that line after cutting out the front from the main fabric. The inner pocket extension for the facing is printed separately, and you can tape it back in its place after cutting the patern piece. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
+- Het borststuk is aangegeven op het patroondeel van het voorpand.
+- Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
+- Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
 
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
