@@ -1,7 +1,7 @@
 ---
 title: Factor hoogte mouwkop
 pattern: bent
-option: sleevecapHeightFactor
+option: mouwkopHoogteFactor
 ---
 
 Deze factor bepaalt de hoogte van de mouwkop.
