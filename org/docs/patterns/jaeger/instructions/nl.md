@@ -220,33 +220,33 @@ Let op dat je de steken een beetje kleiner maakt naar de punt van de revers toe,
 
 #### Revers contouren en breuklijn
 
-Nu gaan we met dunne keperband met de hand langs de rand van de revers naaien, alsook langs de breuklijn. This will also secure the canvas to the front here and there.
+Nu gaan we met dunne keperband met de hand langs de rand van de revers naaien, alsook langs de breuklijn. Dit zal ook het haardoek hier en daar aan het voorpand bevestigen.
 
-Keep in mind that:
+Onthoud:
 
-- The tape along the roll line should be placed inside the roll line.
-- The tape along the roll line should be about half a centimeter shorter than the distance it spans. The slight tension this creates helps the lapel roll nicely and contour to your body.
-- The tape along the lapel edge should be placed inside the seam line
+- Het lint langs de breuklijn moet binnen de breuklijn geplaatst worden.
+- Het lint langs de breuklijn moet ongeveer een halve centimeter korter zijn dan de afstand die het moet overbruggen. De lichte spanning op het lint zorgt dat de revers mooi rollen en zich naar je lichaam vormen.
+- Het lint langs de rand van de revers valt binnen de stiklijn
 
-> ##### Don't sew through your fabric
+> ##### Naai niet door je stof
 > 
-> While sewing the tape to your front, avoid pushing your needle all the way through your fabric so that your stitches will show on the front.
+> Probeer je naald niet helemaal door de stof te duwen als je het lint vastnaait, zo vermijd je dat je steken zichtbaar zijn aan de buitenkant.
 > 
-> At the same time, you should not secure the tape only to your canvas either. Instead, you should try to catch a few threads of your fabric on every stitch, so that the tape is secured in place, yet the stitches don't show at the front.
+> Het is echter niet de bedoeling dat je het lint enkel aan het haardoek vastnaait. Je zou moeten proberen een paar draadjes van je buitenstof mee te nemen met elke steek, zodat het lint vastzit maar de steken onzichtbaar zijn aan de buitenkant.
 > 
-> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel. {.fs-bq}
+> Dit is minder problematisch boven het breekpunt van de revers, waar de stof aan de achterkant komt te liggen. {.fs-bq}
 
-### Close the body
+### Sluit de naden
 
-#### Close the side seams
+#### Stik de zijnaden
 
 ![Close the sides](closeSides.svg)
 
-Place your front with the good side up, and your side on it with the good side down.  
-Align the front/side seams, pin them in place if you feel like it, and sew them togther.
+Leg je voorpanden neer met de goede kant omhoog, en je zijpanden erop met de goede kant omlaag.  
+Leg de voor- en zijnaden gelijk, speld ze eventueel samen en stik.
 
-Place this down with the good side up, and place your back on top with the good side down.  
-Align the back/side seams, pin them in place if you feel like it, and sew them togther.
+Leg dit neer met de goede kant omhoog, en leg je rugpand hierop met de goede kant naar beneden.  
+Leg de rug- en zijnaden gelijk, speld ze eventueel samen en stik.
 
 > Make sure the canvas does not get caught in the seam.
 > 
