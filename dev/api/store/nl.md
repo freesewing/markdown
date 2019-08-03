@@ -10,7 +10,7 @@ A single store per pattern is shared by all pattern parts.
 
 A store is typically used to share information between parts. For example the length of the neck opening in one part can be used to calculate the length for the collar in another part.
 
-<Tip>
+<tip>
 
 ###### The store is available as shorthand
 
