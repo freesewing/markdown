@@ -35,44 +35,44 @@ Om Jaeger te maken heb je het volgende nodig:
 - Smal keperlint voor de voorste randen
 - Domette voor de tussenvoering
 - Epauletten
-- Sleevehead wadding, with canvas if possible
-- Undercollar fabric
+- Versteviger voor de mouwkop, indien mogelijk met canvas
+- Stof voor de onderkraag
 
 ### Stofkeuze
 
-Sportscoats are typically made from a heavier wool, often with some texture or pattern in the weave. In general, they are made in *busier* fabrics.
+Dit type jasjes worden vaak gemaakt van een zwaardere wol, meestal met wat textuur of een ingeweven patroon. Over het algemeen worden ze gemaakt in *drukkere* stoffen.
 
-Style purists will argue that sportscoats should never be made out of suiting fabric, as a sportscoat is not a suit jacket. You can tell them go feck off and do whatever you want, it's your jacket.
+Puristen zullen zeggen dat dit jasje nooit uit pakstof gemaakt mag worden, omdat het geen kostuumjasje is. Je kan hen vertellen dat ze hun regels mogen steken waar de zon niet schijnt, het is jouw jasje.
 
-However, making Jaeger is going to take some time. Do yourself a favour and get something nice for the final project. (because you will be making a muslin, right?)
+Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets moois voor je uiteindelijke versie. (want eerst ga je een toile maken, toch?)
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front facings** (look for the facing/lining boundary on the front part)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4)
- - Cut **2 undersleeves** (part 5)
- - Cut **1 collar** (part 6)
- - Cut **1 collarstand** (part 8)
- - Cut **2 pockets** (part 9)
- - Cut **1 chest pocket welt** (part 10)
-- **lining fabric** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front linings** (look for the facing/lining boundary on the front part, and don't forget to attach the inner pocket facing extension)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4) Note: Some people like to use different lining for the sleeves
- - Cut **2 undersleeves** (part 5) Note: Some people like to use different lining for the sleeves
+ - Knip **2 voorpanden** (deel 1)
+ - Knip **2 belegdelen voor** (kijk naar de lijn die het voorpand verdeelt in beleg/voering)
+ - Knip **2 rugpanden** (deel 2)
+ - Knip **2 zijpanden** (deel 3)
+ - Knip **2 bovenmouwen** (deel 4)
+ - Knip **2 ondermouwen** (deel 5)
+ - Knip **1 kraag** (deel 6)
+ - Knip **1 kraagstaander** (deel 8)
+ - Knip **2 zakken** (deel 9)
+ - Knip **1 bies borstzak** (deel 10)
+- **Voering** 
+ - Knip **2 voorpanden** (deel 1)
+ - Knip **2 voorpanden voering** (kijk naar de lijn die het voorpand verdeelt in beleg/voering, en vergeet niet de belegextensie voor de binnenzak toe te voegen)
+ - Knip **2 rugpanden** (deel 2)
+ - Knip **2 zijpanden** (deel 3)
+ - Knip **2 bovenmouwen** (deel 4) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
+ - Knip **2 ondermouwen** (deel 5) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
  - Cut **2 chest pocket bags** )(part 11)
  - Cut **2 inner pocket welts**
  - Cut **2 inner pocket bags** (part 13)
 - **Canvas** 
  - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
  - Cut **2 chest pieces** on bias. Look for the indication on the front part. Note: Don't include seam allowance
-- **Undercollar fabric** 
+- **Stof voor de onderkraag** 
  - Cut **1 undercollar** (part 7)
 
 > ##### Good sides together, or precise pattern matching?
