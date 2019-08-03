@@ -1,8 +1,8 @@
 ---
-title: Sleeve bend
+title: Mouw kromming
 path: /en/docs/patterns/carlita/options/sleevebend
 pattern: carlita
-option: sleeveBend
+option: mouwKromming
 ---
 
-The angle of the sleeve.
+De hoek van de mouw.
