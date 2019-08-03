@@ -99,7 +99,7 @@ De vorm van het zakdeel hangt af van het patroon. Voor de eenvoud gebruik ik een
 
 > Er is gewoonlijk een langere en kortere versie van het zakdeel. Dit is omdat één kant vasthangt aan de bovenste paspel, terwijl de andere aan de onderste bevestigd wordt.
 
-## Construction
+## Constructie
 
 ### Stap 1: kleef de tussenvoering op z'n plek
 
@@ -197,7 +197,7 @@ Werk de rand van de paspel af met een zigzagsteek zodat de paspel plat blijft li
 
 ![Stik het beleg aan het bovenste zakdeel](step09.png)
 
-> This step is optional. Bevestig een beleg aan het bovenste zakdeel als je wil dat dit is wat je door de zakopening heen ziet.
+> Deze stap is optioneel. Bevestig een beleg aan het bovenste zakdeel als je wil dat dit is wat je door de zakopening heen ziet.
 
 ### Stap 10: Stik het bovenste zakdeel aan de bovenste paspel
 
