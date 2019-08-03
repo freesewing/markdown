@@ -1,7 +1,7 @@
 ---
 title: Diepte armsgat
 pattern: aaron
-option: armholeDrop
+option: diepteArmsgat
 ---
 
 ![De diepte van het armsgat bij Aaron](./armholedrop.svg)
