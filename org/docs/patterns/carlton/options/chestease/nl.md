@@ -2,7 +2,7 @@
 title: Overwijdte borst
 path: /en/docs/patterns/carlton/options/chestease
 pattern: carlton
-option: chestEase
+option: borstOver
 ---
 
-The amount of ease at your chest.
+De hoeveelheid overwijdte aan je borst.
