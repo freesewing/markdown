@@ -1,19 +1,19 @@
 ---
-title: Making Jaeger
+title: Jaeger maken
 path: /en/docs/patterns/jaeger
 ---
 
-> ##### Jaeger is currently in beta, documentation is under construction
+> ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}
 
-## Before you start
+## Voor je begint
 
 ### Wat je nodig hebt
 
-> ##### Where to get all this stuff
+> ##### Waar vind ik al dat spul
 > 
-> Making Jaeger is a fun and rewarning project, but getting all the required bits and pieces can be challenging.
+> Jaeger is een leuk en ambitieus project, maar alle nodige materialen vinden kan een beetje een uitdaging zijn.
 > 
 > That is because this kind of project is somewhat more ambitious than the typical home sewing project, and as a result, your local haberdashery is unlikely to stock all of these things.
 > 
@@ -282,6 +282,6 @@ Align the shoulder seams with good sides together, and sew them together.
 > 
 > So make sure to align the notches. It's what they're there for. {.fs-bq}
 > 
-> ##### Jaeger is currently in beta, documentation is under construction
+> ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}
