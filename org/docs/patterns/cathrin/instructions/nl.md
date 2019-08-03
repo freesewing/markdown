@@ -1,17 +1,17 @@
 ---
-title: Making Cathrin
+title: Cathrin maken
 path: /en/docs/patterns/cathrin
 ---
 
-> #### This documentation is incomplete
+> #### Deze documentatie is incompleet
 > 
-> Cathrin is lacking documentation. Essentially, I haven't found the time to write it yet. Probably not helped by the fact that I don't tend to make many corsets.
+> Cathrin mist documentatie. Eerlijk gezegd heb ik nog niet de tijd gevonden dit te schrijven. Het feit dat ik niet veel korsetten maak helpt waarschijnlijk niet.
 > 
-> #### Check the original tutorial
+> #### Bekijk de originele tutorial
 > 
-> This pattern is based on [this tutorial by Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). Cathrin also has [this informative post on making corsets](https://katafalk.wordpress.com/2009/05/03/how-i-sew-corsets/) on her blog, which you'll might find helpful.
+> Dit patroon is gebaseerd op [deze tutorial van Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). Cathrin heeft ook deze [informatieve post over korsetten maken](https://katafalk.wordpress.com/2009/05/03/how-i-sew-corsets/) op haar blog, wat je misschien kan helpen.
 
-Beginner corset makers should read the tutorials written by [Sidney Eileen](http://www.sidneyeileen.com), who demonstrates several different construction methods. [Foundations Revealed](https://www.foundationsrevealed.com) is a paywall site for corset makers,with several exceptional articles free for non members.
+Beginnende korsettenmakers zouden de tutorials van [Sidney Eileen](http://www.sidneyeileen.com) moeten lezen, die verschillende constructiemethodes toont. [Foundations revealed](https://www.foundationsrevealed.com) is een betalende site voor korsettenmakers, met een aantal gratis artikels voor niet-leden.
 
 Corsets must be made from fabric with no stretch at all. The fabric designed for corset making is called coutil. Although coutil is expensive, not much is needed for a corset. Some cheaper alternatives include canvas, denim and cotton ticking. However, these will stretch over time and are not suitable for any garment with a large waist reduction: they are not strong enough. They are good options for testing the pattern to see how it fits on you. For corsets made from silk and cotton and other fancy fabrics, you need to use several layers - the fabric you want to be seen, on top of a layer of coutil or other strength layer, and perhaps also a third layer made out of lining which will sit next to the body.
 
