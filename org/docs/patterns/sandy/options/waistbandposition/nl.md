@@ -1,8 +1,8 @@
 ---
-title: Waistband position
+title: Positie tailleband
 path: /en/docs/patterns/sandy/options/waistbandpostition
 pattern: sandy
-option: waistbandPositionp
+option: taillebandPositie
 ---
 
-Where the waistband sits. 0% makes it sit on the natural waist, 100% makes it sit on the hips.
+Waar de tailleband zit. 0% zet de tailleband aan de natuurlijke taille, 100% plaatst hem op de heupen.
