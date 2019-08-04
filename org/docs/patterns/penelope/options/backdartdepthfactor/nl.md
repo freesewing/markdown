@@ -1,8 +1,8 @@
 ---
-title: Back dart depth factor
+title: Factor lengte neep rug
 path: /en/docs/patterns/penelope/options/backdartdepthfactor
 pattern: penelope
-option: backdartdepthfactor
+option: rugneeplengtefactor
 ---
 
-The depth of the back dart as a percentage of the Waist to Hip measurement
+De lengte van de neep in de rug als een percentage van de afstand tussen taille en heup
