@@ -1,8 +1,8 @@
 ---
-title: Waistband
+title: Tailleband
 path: /en/docs/patterns/penelope/options/waistband
 pattern: penelope
-option: waistband
+option: tailleband
 ---
 
-Do you want a waistband or not?
+Wil je een tailleband of niet?
