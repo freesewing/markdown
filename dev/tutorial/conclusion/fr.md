@@ -30,7 +30,7 @@ Maintenant que vous avez appris comment réaliser un patron, pourquoi ne pas vou
 
 Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/freesewing) et nous vous donnerons un coup de main.
 
-<note>
+<Note>
 
 ###### Dites-nous comment nous pourrions améliorer ce tutoriel
 

@@ -24,7 +24,7 @@ export GATSBY_LANGUAGE=en
 npm run develop
 ```
 
-<note>
+<Note>
 
 We're using the `--recurse-submodules` option to fetch the [markdown](/repos/markdown) submodule in one go. However, this is only available in newer versions of git.
 
@@ -32,7 +32,7 @@ If after cloning the `markdown` directory is empty, please check [these alternat
 
 </Note>
 
-<note>
+<Note>
 
 We're setting the GATSBY_LANGUAGE environment variable here because it's required. For more details, see **Environment variables** below.
 
@@ -40,7 +40,7 @@ We're setting the GATSBY_LANGUAGE environment variable here because it's require
 
 Gatsby will build your site and make it avaialable on http://localhost:8000.
 
-<tip>
+<Tip>
 
 There's also very useful GraphQL playground on http://localhost:8000/**\_graphql
 
@@ -75,7 +75,7 @@ If you don't setup/configure Oauth, everything will work, except Oath (duh).
 
 Algolia handles the search on the website.
 
-<warning>
+<Warning>
 
 This feature is not yet implemented.
 

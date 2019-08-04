@@ -43,6 +43,6 @@ Dans le même temps, ajoutons un point où le bouton pression devrait se trouver
 points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
 ```
 
-<example pattern="tutorial" part="step8" caption="The right part looks a bit wonky now, but we'll get to that" />
+<Example pattern="tutorial" part="step8" caption="The right part looks a bit wonky now, but we'll get to that" />
 
 Maintenant, effectuons l'image miroir de l'autre côté, et remplaçons nos chemins `neck` et `rect` par un nouveau chemin.

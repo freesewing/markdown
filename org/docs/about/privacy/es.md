@@ -20,7 +20,7 @@ For clarity, we've broken this up in three different types of roles:
 
 These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
 
-<note>
+<Note>
 
 #### Visitor data
 
@@ -37,7 +37,7 @@ This data is stored for anybody who visits our website or connects to our backen
 
 </Note>
 
-<note>
+<Note>
 
 #### Profile data
 
@@ -58,7 +58,7 @@ This data is stored for anybody with an account on our website.
 
 </Note>
 
-<note>
+<Note>
 
 #### Model data
 

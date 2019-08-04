@@ -35,7 +35,7 @@ De betekenis hiervan kan je wel raden:
 - De maximumwaarde is 90 %
 - De standaardwaarde is 80 %
 
-<note>
+<Note>
 
 Er zijn verschillende types van opties, maar percentages zijn de meest voorkomende. Ze zijn allemaal gedocumenteerd [in de API-documenten](/api/config#options).
 
@@ -55,7 +55,7 @@ options: {
 - Je hebt voor alle opties realistische standaardwaardes ingesteld 
 - Je hebt voor alle opties realistische maximum- en minimumgrenzen ingesteld
 
-<note>
+<Note>
 
 Op een later moment ga je het patroon testen om te zien hoe het zich gedraagt wanneer je de opties aanpast tussen de minimum- en maximumwaardes. Op dat moment kan je de waarden nog altijd aanpassen.
 
@@ -69,7 +69,7 @@ optionGroups: {
 },
 ```
 
-<note>
+<Note>
 
 De `optionGroups`-entry heeft op zich geen enkele invloed op je patroon. Het geeft enkel aan de frontend aan dat opties op deze manier bij elkaar moeten worden gezet en aan de gebruiker worden getoond.
 

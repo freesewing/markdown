@@ -34,7 +34,7 @@ Tandis que la grille est ajoutée automatiquement, vous aurez à ajouter les dim
 - La macro `ld` qui ajoute une mesure linéaire
 - La macro `pd` qui ajoute une mesure de chemin suivant ce même chemin
 
-<warning>
+<Warning>
 
 FIXME: Ajouter les liens à la doc
 
@@ -80,7 +80,7 @@ if (paperless) {
 
 Beaucoup de choses se passent, mais elles sont répétitives. Voyons un peu le résultat final, et discutons-en :
 
-<example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
+<Example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
 Nous avons utilisé la macro `hd` pour ajouter deux mesures horizontales :
 

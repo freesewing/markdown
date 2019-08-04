@@ -6,7 +6,7 @@ title: Knippen
 - Knip **1 voorpand** aan de stofvouw
 - Knip **3 stroken** voor de biezen aan de halsopening en armsgaten
 
-<warning>
+<Warning>
 
 #### Opmerkingen
 

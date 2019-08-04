@@ -6,6 +6,6 @@ Les macros sont un moyen de faciliter la conception de patron en rassemblant un 
 
 Les macros sont fournies par les [plugins](/plugins/). En voici quelques exemples :
 
-<example pattern="rendertest" options={{ colors: false, circles: snippets: text: widthhd: false }}>
+<Example pattern="rendertest" options={{ colors: false, circles: snippets: text: widthhd: false }}>
 
 Référez-vous à la [documentation API](/api/part#macro) pour des détails concernant l'utilisation des macros, et la documentation [Étendre FreeSewing](/extend) pour des infos sur comment créer vos propres macros.

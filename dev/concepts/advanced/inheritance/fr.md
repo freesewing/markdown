@@ -27,7 +27,7 @@ Sorcha.prototype.draftBase = function(part) {
 };
 ```
 
-<warning>
+<Warning>
 
 Puisque nous utilisons le mot clé `this` (ça), vous ne pouvez pas utiliser la notation fléchée.
 

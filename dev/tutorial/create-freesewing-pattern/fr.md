@@ -9,7 +9,7 @@ Ouvrez un terminal et entrez la commande suivante :
 npm init freesewing-pattern@beta
 ```
 
-<note>
+<Note>
 
 Le suffixe `@beta` est requis tant que FreeSewing 2.0 est en beta.
 
@@ -29,7 +29,7 @@ Cela va charger quelques dépendances, puis vous demander les questions suivante
     
     Après avoir répondu à toutes ces questions, le modèle par défaut sera copié, après quoi toutes les dépendances seront installées.
     
-    <note>
+    <Note>
     
     Cela prendra quelques minutes car nous chargeons des logiciels pour votre environnement de développement.
     
@@ -66,7 +66,7 @@ npm run start
     
     ![L'environnement de développement FreeSewing](./cfp.png)
     
-    <note>
+    <Note>
     
     ###### Vous utilisez Windows ?
     

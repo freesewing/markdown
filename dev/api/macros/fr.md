@@ -4,7 +4,7 @@ title: Macros
 
 Toutes les macros prennent un unique objet comme configuration. L'objet de configuration est documenté sur cette page pour toutes les macros disponibles.
 
-<tip>
+<Tip>
 
 Pour plus d'informations sur une macro spécifique et des exemples, suivez le lien vers le plugin qui fournit la macro.
 
@@ -23,7 +23,7 @@ Ajoute un indicateur *Coupé au pli* à votre patron.
 | `grainline` | `false` | Boolean             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
 
 
-<note>
+<Note>
 
 La macro `cutonfold` est fournie par le [plugin cutonfold](/plugins/cutonfold).
 
@@ -39,7 +39,7 @@ Adds a *grainline* indicator to your pattern.
 | `to`      |        | [Point](/api/point) | The endpoint of the *grainline* indicator   |
 
 
-<note>
+<Note>
 
 The `grainline` macro is provided by the [grainline plugin](/plugins/grainline).
 
@@ -59,7 +59,7 @@ Adds a *horizontal dimension* to your pattern.
 | `noEndMarker`   | `false`             | Boolean             | Whether to not draw an end marker                                      |
 
 
-<note>
+<Note>
 
 The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -79,7 +79,7 @@ Adds a *linear dimension* to your pattern.
 | `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
 
 
-<note>
+<Note>
 
 The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -98,7 +98,7 @@ Adds a *path dimension* to your pattern.
 | `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
 
 
-<note>
+<Note>
 
 The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -119,7 +119,7 @@ Rounds a corner. Note that this is only intended for 90 degree corners.
 | `class`   |         | String              | Class(es) to assign to the path created by this macro          |
 
 
-<note>
+<Note>
 
 The `round` macro is provided by the [round plugin](/plugins/round).
 
@@ -140,7 +140,7 @@ Adds a *scale box* to your pattern.
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`
 
-<note>
+<Note>
 
 The `round` macro is provided by the [round plugin](/plugins/round).
 
@@ -156,7 +156,7 @@ Bulk-adds snippets to your pattern.
 | `on`      | `[]`   | Array of strings | An array with *the names* of points to add the snippet on |
 
 
-<note>
+<Note>
 
 The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
 
@@ -177,7 +177,7 @@ Bulk-adds snippets to your pattern.
 | `scale`    |    1    | Number              | An optional scaling factor                                                                                                               |
 
 
-<note>
+<Note>
 
 The `title` macro is provided by the [title plugin](/plugins/title).
 
@@ -197,7 +197,7 @@ Adds a *vertical dimension* to your pattern.
 | `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
 
 
-<note>
+<Note>
 
 The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
 

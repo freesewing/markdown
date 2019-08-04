@@ -19,7 +19,7 @@ Open het config-bestand in `config/index.js` en update de `measurements`-reeks m
 measurements: ["headCircumference"],
 ```
 
-<tip>
+<Tip>
 
 Let erop dat je de namen van bestaande afmetingen gebruikt in plaats van er zelf nieuwe te verzinnen.
 
@@ -37,4 +37,4 @@ Aangezien het maar om één afmeting gaat, kunnen we eenvoudig handmatig een waa
 
 Voer `38` in in het kadertje en klik op **Ontwerp je patroon** bovenaan in de navigatie om terug te keren naar je ontwerp, dat er voorlopig nog zo uitziet:
 
-<example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
+<Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />

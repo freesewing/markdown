@@ -9,7 +9,7 @@ You will be designing a pattern for a baby bib. It's a very simple pattern, but 
 
 At the end of this tutorial, you will have created this pattern:
 
-<example pattern="tutorial" part="bib" caption="Your end result" />
+<Example pattern="tutorial" part="bib" caption="Your end result" />
 
 Before we can get started, let's make sure you have the required software installed on your computer:
 
