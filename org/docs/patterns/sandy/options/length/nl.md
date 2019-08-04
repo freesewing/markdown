@@ -1,8 +1,8 @@
 ---
-title: Skirt length
+title: Roklengte
 path: /en/docs/patterns/sandy/options/length
 pattern: sandy
-option: length
+option: lengte
 ---
 
-The length of the skirt.
+De lengte van de rok.
