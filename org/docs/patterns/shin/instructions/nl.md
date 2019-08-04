@@ -1,37 +1,37 @@
 ---
-title: Making Shin
+title: Shin maken
 path: /en/docs/patterns/shin
 ---
 
 ## Wat je nodig hebt
 
-To make Shin, you will need the following:
+Om Shin te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- two eyelets and a drawstring
+- Ongeveer 0,75 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+- Twee vetergaatjes en een koordje
 
 > #### Een overlockmachine is handig, maar optioneel
 > 
-> As with all stretch fabrics, a serger/overlock will make your life easier.
+> Zoals met alle gebreide en elastische stoffen maakt een overlock het leven eenvoudiger.
 > 
-> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. You can use another technique for stretch seams, such as a zig-zag stich, twin needle, or elastic thread.
+> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. Je kan een andere techniek gebruiken voor het naaien van elastische naden, zoals een zigzagsteek, tweelingnaald of elastisch garen.
 
 ## Stofkeuze
 
-Swim trunks should be made out of a material with stretch that is suitable for being in the water.
+Een zwembroek zou gemaakt moeten worden uit elastisch materiaal dat tegen zout of chloor kan.
 
-Typically, this falls apart in a few categories:
+Gewoonlijk valt dit onder te verdelen in een aantal categorieën:
 
-- Nylon mixed with elastene, spandex, or lycra is soft and stretchy. This is what most casual swimwear is made from.
-- Polyester mixed with PBT (polybutylene terephthalate) is less soft to the touch, but resistant to chlorine and salt water. This is what a lot of competitive swimwear is made from.
-- Neoprene, also known as scuba, is heavier and less tretchy. It's the stuff scuba suits are made from.
+- Nylon gemengd met elasthaan, spandex of lycra is zacht en elastisch. Dit wordt voor de meeste commerciële zwemkledij gebruikt.
+- Polyester gemengd met PBT (polybutyleen terephthalaat) is minder zacht, maar bestand tegen chloor en zout water. Dit wordt vaak voor competitiebadpakken gebruikt.
+- Neopreen, ook gekend als scuba, is zwaarder en minder elastisch. Hier worden duikpakken van gemaakt.
 
 ## Knippen
 
-- Cut **2 backs** with good sides together
-- Cut **4 fronts** 2 x 2 with good sides together
-- Cut **1 waistband** 
+- Knip **2 rugpanden** met de goede kanten op elkaar
+- Knip **4 voorpanden** 2 x 2 met de goede kanten op elkaar
+- Knip **1 tailleband** 
 
 > #### Opmerkingen
 > 
