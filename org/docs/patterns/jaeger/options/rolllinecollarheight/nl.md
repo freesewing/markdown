@@ -1,8 +1,8 @@
 ---
-title: Roll line collar height
+title: Hoogte breuklijn kraag
 path: /en/docs/patterns/jaeger/options/rolllinecollarheight
 pattern: jaeger
-option: rollLineCollarHeight
+option: breukLijnKraagHoogte
 ---
 
-The amount by which the roll line hugs the neck.
+Hoe hoog de breuklijn van de kraag in de nek valt.
