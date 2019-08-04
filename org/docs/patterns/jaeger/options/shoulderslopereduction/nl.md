@@ -1,8 +1,8 @@
 ---
-title: Shoulder slope reduction
+title: Reductie schouderhelling
 path: /en/docs/patterns/jaeger/options/shoulderslopereduction
 pattern: jaeger
-option: shoulderSlopeReduction
+option: schouderHellingReductie
 ---
 
-The amount by which the shoulder slope is reduced to allow for shoulder padding.
+Hoeveel de schouderhelling verminderd wordt om ruimte te maken voor epauletten.
