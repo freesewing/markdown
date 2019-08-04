@@ -58,49 +58,49 @@ Leg je twee rugpanden op elkaar met de goede kanten samen, en stik langs de midd
 
 ### Stap 2: Voornaad
 
-**Sew the front seam**
+**Naai de voornaad**
 
-Put two of your fronts on top of each other with the good sides together, and sew them together allong the center front seam.
+Leg je twee voorpanden bovenop elkaar met de goede kanten samen, en stik de middenvoornaad.
 
-Repeat with the two other fronts so you have two identical sets.
+Herhaal met de twee andere voorpanden zodat je twee identieke sets hebt.
 
-**Baste fronts togehter**
+**Drieg de voorpanden samen**
 
-We have 4 fronts because we'll have a double layer at the front of our swim trunks.
+We hebben 4 voorpanden omdat we een dubbele laag hebben aan de voorkant van onze zwembroek.
 
-Since swimwear fabric tends to be slippery, it's a good idea to baste your fronts together to make it easier to work with them in the next steps.
+Omdat badpakstof wel eens glad durft te zijn is het een goed idee om je voorpanden aan elkaar te driegen zodat het makkelijker is ze te verwerken.
 
-So place your fronts on top of each other, with good sides out, and sew them together with some large basting stitches in the seam allowance.
+Dus leg je voorpanden op elkaar, met de verkeerde kanten samen, en drieg ze met grote steken binnen de naadwaarde aan elkaar.
 
-### Step 3: Join the sides
+### Stap 3: Naai de zijnaden
 
-Place your back down with the good side up, and place your double front layer on top. Sew fronts and back together at the side seams.
+Leg je rugpand neer met de goede kant bovenaan, en leg je dubbele voorpand hier bovenop. Stik de voor-en rugpanden vast aan de zijnaden.
 
-### Step 4: Sew the cross seams
+### Stap 4: Stik de kruisnaad
 
-Keep your swim trunks with the good side inwards (the back at least, the front has good side on both sides) and sew the crossseam to create the leg openings.
+Keer de goede kant van je zwembroek naar binnen (de achterkant toch, de voorkant heeft aan elke kant een goede kant) en stik de kruisnaad om pijpen te maken.
 
-### Step 5: Place eyelets for the draw string
+### Stap 5: Plaats vetergaatjes voor het koord
 
-Mark the middle of your waistband length. Fold the waistband double, and mark the middle of the width (do not take the seam allowance into account).
+Markeer het midden van de lengte van je tailleband. Vouw de tailleband dubbel, en markeer het midden van de breedte (hou geen rekening met de naadwaarde).
 
-A bit to the left and right of this, you can add two eyelets to pass a drawstring through. This will avoid an embarassing situation when you go for that big dive and now suddenly find your swim trunks on your ankles.
+Installeer twee vetergaten links en rechts van deze markering. Dit voorkomt het soort gênante situatie waarbij je voor die indrukwekkende duik gaat en opeens merkt dat je zwembroek op je enkels hangt.
 
-> ##### It's best to add some reinforcement
+> ##### Verstevigen is een goed idee
 > 
-> As swimwear fabric is slippery and thin, you might want to add some reinforcement behind these eyelets. A leftover piece of denim will do just fine.
+> Aangezien badpakstof dun en glad is, is het geen slecht idee om een beetje versteviging achter de vetergaatjes toe te voegen. Een restje jeans werkt perfect.
 
-### Step 6: Prepare the elastic
+### Stap 6: Bereid de elastiek voor
 
-There's no magic formula for the length of your elastic. So you wrap it around your waist and pull it tight until you get a good fit.
+Er is geen magische formule voor de lengte van je elastiek. Dus wikkel het rond je taille en trek het aan tot je vindt dat het goed past.
 
-Mark this length, cut the elastic, and join the two ends together.
+Markeer deze lengte, knip de elastiek en naai de uiteindes aan elkaar.
 
-### Step 7: Join the waistband
+### Stap 7: Naai de tailleband
 
-Fold the waistband in half with good sides together and line of the (short) edges. Sew them together.
+Plooi de tailleband in twee met goede kanten op elkaar en leg de (korte) randen samen. Stik.
 
-### Step 8: Attach the waistband
+### Stap 8: Bevestig de tailleband
 
 Fold your waistband double along the length with good sides out, and place the elastic inside. Make sure to align the place where the elastic is joined with the place the waistband is joined.
 
