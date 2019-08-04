@@ -1,10 +1,10 @@
 ---
-title: Seamless full circle
+title: Naadloze volledige cirkel
 path: /en/docs/patterns/sandy/options/seamlessfullcircle
 pattern: sandy
-option: seamlessFullCircle
+option: naadloosVolCirkel
 ---
 
-Select 'yes' for a seamless circle, which is cut on a double fold. Since it has no openings, you'll need an elastic waistband.
+Kies 'ja' voor een naadloze cirkel, die aan een dubbele stofvouw geknipt wordt. Aangezien er geen opening is voor een rits heb je een elastische tailleband nodig.
 
-> This produces a full circle ignoring the *Circle percent* option.
+> Dit maakt een volledige cirkel en negeert de optie voor *Cirkelpercentage*.
