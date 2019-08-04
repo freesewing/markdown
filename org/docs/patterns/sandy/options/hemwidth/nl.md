@@ -1,8 +1,8 @@
 ---
-title: Hem width
+title: Breedte zoom
 path: /en/docs/patterns/sandy/options/hemwidth
 pattern: sandy
-option: hemWidth
+option: zoomBreedte
 ---
 
-The width of the hem.
+De breedte van de zoom.
