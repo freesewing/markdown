@@ -1,8 +1,8 @@
 ---
-title: Extra waist
+title: Extra stof taille
 path: /en/docs/patterns/sandy/options/extrawaist
 pattern: sandy
-option: extraWaist
+option: extraTaille
 ---
 
-The percent by which the top of the skirt is longer than the bottom of the waistband. Give a value higher than 0 to pleat the skirt.
+Met hoeveel procent de bovenrand van de rok langer is dan de onderrand van de tailleband. Geef een waarde hoger dan 0 om plooien in de rok te maken.
