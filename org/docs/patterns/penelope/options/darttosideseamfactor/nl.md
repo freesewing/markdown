@@ -5,4 +5,4 @@ pattern: penelope
 option: neepaanzijnaadfactor
 ---
 
-Shifts the intake from the darts to the side seam and vice versa.
+Verplaatst de neep meer naar de zijnaad, of er juist verder vandaan.
