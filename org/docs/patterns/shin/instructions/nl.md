@@ -35,10 +35,10 @@ Gewoonlijk valt dit onder te verdelen in een aantal categorieën:
 
 > #### Opmerkingen
 > 
-> - To save paper, the waistband is not completely printed on the pattern since it's just a long rectangle. So look for the length indicator, and cut out a rectangle of that size.
-> - The hem allowance is double the standard seam allowance.
+> - Om minder papier te verbruiken wordt de tailleband niet helemaal geprint, aangezien het gewoon een lange rechthoek is. Dus kijk uit voor de aangegeven lengte en knip een rechthoek van dat formaat.
+> - De zoomwaarde is twee keer de standaard naadwaarde.
 
-Shin is a very simply pattern, and consists of two main parts plus the waistband.
+Shin is een heel eenvoudig patroon, en bestaat uit twee hoofddelen plus een tailleband.
 
 Hier is een typische layout:
 
@@ -48,15 +48,15 @@ Hier is een typische layout:
 
 ## Constructie
 
-> ##### Images coming soon
+> ##### Prentjes zijn onderweg
 > 
-> These instructions are a work in progress, and we haven't created the illustrations yet. They will be added soon.
+> Deze instructies zijn een work in progress, en we hebben de illustraties nog niet gemaakt. We voegen ze binnenkort toe.
 
-### Step 1: Join the backs
+### Stap 1: Achternaad
 
-Put your two backs on top of each other with the good sides together, and sew them together allong the center back seam.
+Leg je twee rugpanden op elkaar met de goede kanten samen, en stik langs de middenachternaad.
 
-### Step 2: Join the fronts
+### Stap 2: Voornaad
 
 **Sew the front seam**
 
