@@ -1,8 +1,8 @@
 ---
-title: Front pocket deptj
+title: Diepte voorzak
 path: /en/docs/patterns/jaeger/options/frontpocketdepth
 pattern: jaeger
-option: frontPocketDepth
+option: voorZakDiepte
 ---
 
-The depth of the front pockets, as a factor of the space between your waist and hem.
+De diepte van de voorzakken, als een factor van de ruimte tussen taille en zoom.

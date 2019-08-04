@@ -5,7 +5,7 @@ order: 200
 
 Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. Il nous faut juste nous assurer que les points de contrôle de nos courbes aient des proportions similaires. Ce qui signifie, à la moitié entre le début de la courbe et le coin de notre rectangle.
 
-<Note>
+<note>
 
 Pour cela, vous allez employer une nouvelle méthode : `Point.shiftFractionTowards()`. Nous avons déjà utilisé `Point.shift()` et il y a aussi `Point.shiftTowards()` et `Point.shiftOutwards()`. Comme toujours, [les docs API](/api/point) contiennent tous les détails à ce propos.
 
@@ -40,4 +40,4 @@ paths.rect = new Path()
 
 Tout à coup, les choses commencent à prendre la forme d'un bavoir :
 
-<Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />

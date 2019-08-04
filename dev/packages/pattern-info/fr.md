@@ -4,7 +4,7 @@ title: "@freesewing/pattern-info"
 
 This provides information about FreeSewing patterns.
 
-<Warning>
+<warning>
 
 FIXME: Documentation is missing
 

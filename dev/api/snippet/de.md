@@ -37,7 +37,7 @@ If the third parameter is set to `true` it will call [`Attributes.set()`](./attr
 
 ### Snippet.attr() example
 
-<Example part="snippet_attr" caption="An example of the Snippet.attr() method" />
+<example part="snippet_attr" caption="An example of the Snippet.attr() method" />
 
 ```js
 let { Point, points, Snippet, snippets } = part.shorthand();
@@ -58,7 +58,7 @@ Snippet snippet.clone()
 
 Returns a new Snippets object that is a deep copy of this one.
 
-<Example part="snippet_clone" caption="An example of the Snippet.clone() method" />
+<example part="snippet_clone" caption="An example of the Snippet.clone() method" />
 
 ```js
 let { Point, points, Snippet, snippets } = part.shorthand();

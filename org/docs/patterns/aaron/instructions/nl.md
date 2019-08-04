@@ -14,7 +14,7 @@ Leg het voorpand op het rugpand met de juiste kanten tegen elkaar. Overlock de z
 
 Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
-<Note>
+<note>
 
 ##### Vouw maar een keer om een teveel aan stof te vermijden
 
@@ -24,7 +24,7 @@ Gebreide stoffen rafelen niet, dus je kan dit gewoon één keer omplooien en vas
 
 ## Stap 3: Stik de halsbies aan de voorkant
 
-<Note>
+<note>
 
 ##### Over jersey biezen
 
@@ -44,7 +44,7 @@ Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met ee
 
 We gaan de armsgaten en nekopening afwerken met een [jersey bies](/en/docs/sewing/knit-binding) (Pas op: geen jersey band. Er is een verschil, en dat wordt [hier](/en/docs/sewing/knit-binding) uitgelegd).
 
-<Note>
+<note>
 
 Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Geen zorgen, als je er een paar maakt ben je een pro voor je het weet.
 
@@ -131,7 +131,7 @@ Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de b
 
 Stik langs de goede kant van de stof langs je bies, langs de aanzetnaad (en zo ver mogelijk van de rand), zorg zeker dat je het stuk bies dat je naar achter geplooid hebt mee vaststikt.
 
-<Note>
+<note>
 
 Als je een coverlock hebt is dit ook een perfect moment om die te gebruiken
 
@@ -139,7 +139,7 @@ Als je een coverlock hebt is dit ook een perfect moment om die te gebruiken
 
 Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er nog iets anders om voor uit te kijken.
 
-<Note>
+<note>
 
 ##### Let op voor ongelijk transport
 
@@ -157,7 +157,7 @@ Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje
 
 Keer je hemdje naar de verkeerde kant en knip de bies bij om alles netjes af te werken.
 
-<Note>
+<note>
 
 Doe dit voorzichtig zodat je niet per ongeluk een gat in je hemdje knipt. Ik spreek uit ervaring.
 

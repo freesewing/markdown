@@ -2,7 +2,7 @@
 title: FreeSewing revenue pledge
 ---
 
-<Note>
+<note>
 
 I — Joost De Cock, maintainer of the FreeSewing project — hereby pledge that all FreeSewing revenue will be donated to [Doctors Without Borders (MSF)](http://www.msf.org/).
 
@@ -64,7 +64,7 @@ So I am happy to make this pledge.
 
 In practice, all revenue received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
 
-<Note>
+<note>
 
 If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
 

@@ -5,4 +5,4 @@ pattern: hugo
 option: polsOver
 ---
 
-Controls the amount of ease at your wrist.
+Bepaalt de hoeveelheid overwijdte aan je pols.

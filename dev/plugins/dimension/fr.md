@@ -11,7 +11,7 @@ The **dimension** plugin provides the following [macros](/plugins#macros):
 - [ld](#ld) : Adds a linear dimension
 - [pd](#pd) : Adds a dimension along a path
 
-<Example part="plugin_dimension" caption="An example of the different dimensinon macros" design={false} />
+<example part="plugin_dimension" caption="An example of the different dimensinon macros" design={false} />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
@@ -61,7 +61,7 @@ macro("pd", {
 });
 ```
 
-<Tip>
+<tip>
 
 The dimension plugin is part of our [plugin-bundle](/plugins/bundle)
 

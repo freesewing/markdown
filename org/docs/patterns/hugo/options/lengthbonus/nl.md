@@ -5,4 +5,4 @@ pattern: hugo
 option: lengteBonus
 ---
 
-This allows you to lengthen the body of your hoodie.
+Dit stelt je in staat je hoodie te verlengen.

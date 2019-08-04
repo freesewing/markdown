@@ -23,7 +23,7 @@ This way you can extend a menswear pattern and have it drafted with the high bus
 
 It's used by our [Carlita](/packages/carlita) pattern, which extends the menswear [Carlton](/packages/carlton) pattern.
 
-<Tip>
+<tip>
 
 To learn more about extending a pattern, see [Pattern inheritance](/advanced/inheritance)
 

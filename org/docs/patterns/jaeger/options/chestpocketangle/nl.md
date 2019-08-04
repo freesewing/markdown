@@ -1,8 +1,8 @@
 ---
-title: Chest pocket angle
+title: Hoek borstzak
 path: /en/docs/patterns/jaeger/options/chestpocketangle
 pattern: jaeger
-option: chestPocketAngle
+option: borstZakHoek
 ---
 
-The angle under which the chest pocket is placed.
+De hoek van de borstzak.

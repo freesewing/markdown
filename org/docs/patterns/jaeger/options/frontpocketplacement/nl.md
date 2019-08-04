@@ -1,8 +1,8 @@
 ---
-title: Front pocket placement
+title: Plaatsing voorzak
 path: /en/docs/patterns/jaeger/options/frontpocketplacement
 pattern: jaeger
-option: frontPocketPlacement
+option: voorZakPlaats
 ---
 
-Location of the front pocket as a proportion a quarter of your chest circumference. Higher numbers move it more to the side.
+Plaats van de voorzak in verhouding met een kwart van je borstomtrek. Een hoger nummer schuift de zak naar opzij.

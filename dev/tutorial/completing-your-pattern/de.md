@@ -24,7 +24,7 @@ export default function(part) {
 
 So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?*
 
-<Note>
+<note>
 
 ###### The point of (non) complete patterns
 
@@ -76,7 +76,7 @@ We've added a `snap-male` and `snap-female` snippet to the points we had foresee
 
 Because the female snippet is at the back of the fabric, we've made it semi-transparent by setting the `opacity` attribute to `0.5`. Yes, you can do that.
 
-<Tip>
+<tip>
 
 Any attributes you set will be added to the SVG output.
 
@@ -146,6 +146,6 @@ macro("scalebox", { at: points.scalebox });
 
 And with that, our pattern is now *complete*:
 
-<Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
+<example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
 We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.

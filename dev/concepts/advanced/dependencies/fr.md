@@ -24,7 +24,7 @@ Maintenant, si un utilisateur émet la requête de n'ébaucher que la partie `ma
 
 mais elle va seulement rendre visuellement la partie `manche`, puisque c'est la seule chose demandée par l'utilisateur.
 
-<Note>
+<note>
 
 Pour hériter de parties, merci de vous référer à [Héritage de partie](/advanced/inject).
 

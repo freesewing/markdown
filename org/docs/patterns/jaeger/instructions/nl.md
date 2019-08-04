@@ -1,287 +1,287 @@
 ---
-title: Making Jaeger
+title: Jaeger maken
 path: /en/docs/patterns/jaeger
 ---
 
-> ##### Jaeger is currently in beta, documentation is under construction
+> ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}
 
-## Before you start
+## Voor je begint
 
 ### Wat je nodig hebt
 
-> ##### Where to get all this stuff
+> ##### Waar vind ik al dat spul
 > 
-> Making Jaeger is a fun and rewarning project, but getting all the required bits and pieces can be challenging.
+> Jaeger is een leuk en ambitieus project, maar alle nodige materialen vinden kan een beetje een uitdaging zijn.
 > 
-> That is because this kind of project is somewhat more ambitious than the typical home sewing project, and as a result, your local haberdashery is unlikely to stock all of these things.
+> Dit is omdat dit project een beetje hoger gemikt is dan je gemiddelde naaiprojectje, en als gevolg daarvan is de kans klein dat je alles vindt in je lokale mercerie.
 > 
-> If you know where to get them, great. If not, you can get a **Jacket trim pack** from [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in London, they ship to international customers.
+> Als je weet waar dit te vinden, super. Indien niet kan je een **pakket met benodigdheden voor een jasje** bestellen bij [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in Londen, zij verzenden internationaal.
 > 
-> It's a shop for professionals (they're not even open on Saturdays) but they don't require you to be a business to place an order.
+> Het is een winkel voor professionals (ze zijn zelfs niet open op zaterdag) maar je hoeft geen professional te zijn om iets te bestellen.
 > 
-> I have no afiliation with these guys, but it's the only place I know of that will sell you a kit of professional trimmings to make a jacket.
+> Ik heb niets te maken met deze mannen, maar het is de enige plek waar ik van weet die je een set met professioneel materiaal verkopen om een jasje te maken.
 > 
-> If you know of any other place that carries this stuff, please let us know. {.fs-bq}
+> Als je weet hebt van andere plekken die zoiets doen, laat het dan weten. {.fs-bq}
 
-To make Jaeger, you will need the following:
+Om Jaeger te maken heb je het volgende nodig:
 
-- About two and a half meters of a suitable fabric (see [Fabric options](#fabric-options))
-- Lining fabric, optionally different sleeve lining fabric
-- Two larger buttons for the front, and 8 buttons for the sleeves
-- A bit of lightweight fusible interfacing for local enforcement
-- Canvas for the fronts and collar
-- Tailor's tape for the front edges
-- Some domette for interlining
-- Shoulder pads
-- Sleevehead wadding, with canvas if possible
-- Undercollar fabric
+- Ongeveer 2,5 meter geschikte stof (zie [Stofkeuzes](#fabric-options))
+- Voering, eventueel een andere stof voor de voering van de mouwen
+- Twee grotere knopen voor de voorkant, en 8 knopen voor de mouwen
+- Een beetje lichtgewicht kleefbare tussenvoering voor lokale versteviging
+- Haardoek voor de voorpanden en kraag
+- Smal keperlint voor de voorste randen
+- Domette voor de tussenvoering
+- Epauletten
+- Versteviger voor de mouwkop, indien mogelijk met canvas
+- Stof voor de onderkraag
 
 ### Stofkeuze
 
-Sportscoats are typically made from a heavier wool, often with some texture or pattern in the weave. In general, they are made in *busier* fabrics.
+Dit type jasjes worden vaak gemaakt van een zwaardere wol, meestal met wat textuur of een ingeweven patroon. Over het algemeen worden ze gemaakt in *drukkere* stoffen.
 
-Style purists will argue that sportscoats should never be made out of suiting fabric, as a sportscoat is not a suit jacket. You can tell them go feck off and do whatever you want, it's your jacket.
+Puristen zullen zeggen dat dit jasje nooit uit pakstof gemaakt mag worden, omdat het geen kostuumjasje is. Je kan hen vertellen dat ze hun regels mogen steken waar de zon niet schijnt, het is jouw jasje.
 
-However, making Jaeger is going to take some time. Do yourself a favour and get something nice for the final project. (because you will be making a muslin, right?)
+Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets moois voor je uiteindelijke versie. (want eerst ga je een toile maken, toch?)
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front facings** (look for the facing/lining boundary on the front part)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4)
- - Cut **2 undersleeves** (part 5)
- - Cut **1 collar** (part 6)
- - Cut **1 collarstand** (part 8)
- - Cut **2 pockets** (part 9)
- - Cut **1 chest pocket welt** (part 10)
-- **lining fabric** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front linings** (look for the facing/lining boundary on the front part, and don't forget to attach the inner pocket facing extension)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4) Note: Some people like to use different lining for the sleeves
- - Cut **2 undersleeves** (part 5) Note: Some people like to use different lining for the sleeves
- - Cut **2 chest pocket bags** )(part 11)
- - Cut **2 inner pocket welts**
- - Cut **2 inner pocket bags** (part 13)
-- **Canvas** 
- - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
- - Cut **2 chest pieces** on bias. Look for the indication on the front part. Note: Don't include seam allowance
-- **Undercollar fabric** 
- - Cut **1 undercollar** (part 7)
+ - Knip **2 voorpanden** (deel 1)
+ - Knip **2 belegdelen voor** (kijk naar de lijn die het voorpand verdeelt in beleg/voering)
+ - Knip **2 rugpanden** (deel 2)
+ - Knip **2 zijpanden** (deel 3)
+ - Knip **2 bovenmouwen** (deel 4)
+ - Knip **2 ondermouwen** (deel 5)
+ - Knip **1 kraag** (deel 6)
+ - Knip **1 kraagstaander** (deel 8)
+ - Knip **2 zakken** (deel 9)
+ - Knip **1 bies borstzak** (deel 10)
+- **Voering** 
+ - Knip **2 voorpanden** (deel 1)
+ - Knip **2 voorpanden voering** (kijk naar de lijn die het voorpand verdeelt in beleg/voering, en vergeet niet de belegextensie voor de binnenzak toe te voegen)
+ - Knip **2 rugpanden** (deel 2)
+ - Knip **2 zijpanden** (deel 3)
+ - Knip **2 bovenmouwen** (deel 4) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
+ - Knip **2 ondermouwen** (deel 5) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
+ - Knip **2 zakdelen borstzak** (deel 11)
+ - Knip **2 biezen binnenzak**
+ - Knip **2 zakdelen binnenzak** (deel 13)
+- **Haardoek** 
+ - Knip **2 voorpanden** schuin van draad (deel 1) Opmerking: voeg geen naadwaarde toe
+ - Knip **2 borststukken** schuin van draad. Kijk naar de markering op het voorpand. Opmerking: voeg geen naadwaarde toe
+- **Stof voor de onderkraag** 
+ - Knip **1 onderkraag** (deel 7)
 
-> ##### Good sides together, or precise pattern matching?
+> ##### Goede kanten samen, of patronen exact laten doorlopen?
 > 
-> When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together). However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
+> Als je twee stukken nodig hebt van één patroondeel, kan je dit met de [goede kanten van de stof](/en/docs/sewing/good-sides-together) samen knippen. Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
 > 
-> When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one. {.fs-bq}
+> Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips. {.fs-bq}
 
-### Cutting caveats
+### Opletten bij het knippen
 
-- The chest piece is marked on the front.
-- Don't include seam allowance when cutting out canvas, and cut it on bias.
-- The front facing and lining is marked on the front piece. They split the front part in two along the boundary line. You can cut the front part along that line after cutting out the front from the main fabric. The inner pocket extension for the facing is printed separately, and you can tape it back in its place after cutting the patern piece. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
+- Het borststuk is aangegeven op het patroondeel van het voorpand.
+- Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
+- Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Vergeet niet naadwaarde toe te voegen aan zowel het beleg als de voering langs deze naad.**.
 
-![Trace the front facing and lining from the front part](cuttingCaveat.svg)
+![Neem het voorste beleg en de voering over van het voorpand](cuttingCaveat.svg)
 
 ## Constructie
 
-### Close the front darts
+### Sluit de voorste nepen
 
-![Close the front darts](closeFrontDarts.svg)
+![Sluit de voorste nepen](closeFrontDarts.svg)
 
-#### Fold double
+#### Vouw dubbel
 
-Fold the front double with the good sides together and pin it down so the fold is neatly in the middle of the front dart.
+Vouw het voorpand dubbel met de goede kanten tegen elkaar en speld het vast zodat de vouw net in het midden van de voorste neep zit.
 
-#### Sew darts
+#### Stik de nepen
 
-Sew the front dart close, taking care to have the dart stop at the correct top end. The bottom is not that important as it will be covered by the pockets. But the top end of the dart will be clearly visible, so please make sure to have it end at the same height at both sides.
+Stik de voorste neep dicht, let op dat de neep bovenaan op de juiste hoogte stopt. De onderkant is niet zo belangrijk aangezien die bedekt wordt door de zakken. Maar het bovenste puntje van de neep blijft zichtbaar, dus zorg dat ze aan beide kanten exact even lang zijn.
 
-#### Cut open and press
+#### Knip open en strijk
 
-Once the front darts are closed, cut open the dart at the back. You won't be able to cut it open all the way to the tip, but that's fine. Press open the darts where they are cut open, and press the rest to the side. Take care to only press from the back. Pressing from the front will likely mark your fabric.
+Zodra de voorste nepen dichtgestikt zijn, knip je ze open aan de achterkant. Je zal niet helemaal tot in de punt kunnen knippen, maar dat is ok. Strijk de nepen open waar ze opengeknipt zijn, en strijk de rest opzij. Strijk alleen op de achterkant. Strijken op de voorkant kan sporen achterlaten op je stof.
 
-### Construct the chest pocket
+### Maak de borstzak
 
-![Apply fusible interfacing to the back of the chest pocket](basteChestPocket.svg)
+![Kleef tussenvoering op de achterkant van de borstzak](basteChestPocket.svg)
 
-#### Apply fusible interfacing
+#### Bevestig kleefbare tussenvoering
 
-Apply a rectangular piece of light fusible interfacing around the chest pocket area so that it extends a few cm in all directions.
+Kleef een rechthoekig stukje tussenvoering aan de verkeerde kant van de plek waar de borstzak komt, iets groter dan de aangegeven zakopening.
 
-> ##### We're not using fusible on the entire front
+> ##### We plakken niet het hele voorpand vol
 > 
-> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible. {.fs-bq}
+> Sportieve jasjes worden meestal gemaakt van iets zwaardere stoffen. Dat, en omdat ik liever haardoek gebruik dan kleefbare tussenvoering, is de reden waarom ik niet het hele voorpand verstevig met kleefbare tussenvoering. {.fs-bq}
 
-#### Baste the chest welt outline, mark top line endpoints
+#### Drieg de omtrek van de bies, markeer de eindpunten van de bovenrand
 
-With the fusible in place, thread a needle and baste around the chest pocket to transfer the markings to the good side of the fabric.
+Als de tussenvoering juist hangt drieg je rondom de borstzak om de markeringen over te zetten op de goede kant van de stof.
 
-This pocket differs from a traditional welt pocket. The welt extends above the pocket opening. This hides the pocket bag without the need for facings. The top part of the opening is also smaller than the welt, allowing you to slip-stitch it closed.
+Deze zak is een beetje verschillend van een klassieke paspelzak. De paspel komt iets voorbij de zakopening. Dit verbergt het binnenste zakdeel zonder dat je een beleg nodig hebt. De bovenrand van de zakopening is ook kleiner dan de paspel, waardoor je hem onzichtbaar met de hand kan vastzetten.
 
-On the top line of your basted welt pocket, mark 0.5cm inwards from the corners of the top line.
+Vertrek vanaf de bovenste lijn van je gedriegde paspelzak, en markeer vanaf de hoeken van deze lijn 0,5 cm naar binnen toe.
 
-> These points are notches on the front part of your pattern.
+> Deze punten zijn merktekens op het voorpand van je patroon.
 
-![Close the chest pocket welt](foldChestPocketWelt.svg)
+![Sluit de paspel van de borstzak](foldChestPocketWelt.svg)
 
-#### Fold, press and sew the side seams of the welt
+#### Vouw, strijk en stik de zijnaden van de paspel
 
-Fold the welt double with the good sides together, and close the sides (sew the side seams).
+Vouw de paspel dubbel met de goede kanten op elkaar, en sluit de zijkanten (naai de zijnaden).
 
-#### Trim seam allowance, turn and press
+#### Knip naadwaarde bij, keer en strijk
 
-Trim the seam allowances on the sides and especially limit the seam allowance towards the corner to avoid bulk.
+Knip de naadwaarde aan de zijkant bij, vooran aan de hoekjes, om bulk te voorkomen.
 
-Turn inside out so the good side is out and press.
+Keer naar de goede kant en strijk plat.
 
-> Be careful not to overpress as you'll be pressing from the good side of the fabric.
+> Wees voorzichtig dat je niet te hard strijkt aangezien je aan de goede kant werkt.
 
-#### Baste the bottom line of the welt so you know where to sew
+#### Drieg de onderrand van de paspel zodat je weet waar te naaien
 
-Baste a stitching guide at the bottom of the welt to mark the welt/seam allowance boundary. This will be the line to sew on later.
+Drieg een gidslijn aan de onderrand van de paspel om aan te gevel waar de grens is tussen paspel en naadwaarde. Op deze lijn wordt later gestikt.
 
-#### Sew the welt to the front
+#### Stik de paspel aan het voorpand
 
-![Attach the chest pocket welt to the front](attachChestPocketWelt.svg)
+![Bevestig de paspel aan het voorpand](attachChestPocketWelt.svg)
 
-Place welt down on good side of front with the folded side downwards, and sew to bottom line. Make sure to stop and start exactly at the edge of the line you basted.
+Leg de paspel op de goede kant van het voorpand met de plooi naar onder toe gericht, en stik vast aan de onderste gemarkeerde lijn. Zorg ervoor dat je exact begint en eindigt op de lijn die je gedriegd hebt.
 
-#### Sew the chest pocket bag to the front
+#### Stik het borstzakdeel aan het voorpand
 
-![Attach the chest pocket bag to the front](attachChestPocketBag.svg)
+![Bevestig het zakdeel aan het voorpand](attachChestPocketBag.svg)
 
-Place the pocket bag down on the front. The front with good side up, but the pocket bag with bad side up. Make sure to have the longest side of the chest pocket bag on the highest side of the chest pocket.
+Leg het zakdeel op het voorpand. Het voorpand met de goede kant omhoog, en het zakdeel met de foute kant omhoog. Zorg dat de langste zijde van het zakdeel op de hoogste kant van de borstzak ligt.
 
-> Only slanted chest pockets have a higher and lower side.
+> Enkel schuine borstzakken hebben een hoge en een lage kant.
 
-Sew this in place along the top line. Remember this should be shorter than the bottom row of stitches to attach the welt, since you marked 0.5cm inwards from the corners.
+Stik vast langs de bovenste lijn. Denk eraan dat deze lijn korter moet zijn dan de onderste stiklijn om de paspel vast te maken, aangezien je vanaf de hoeken 0,5 cm naar binnen gemarkeerd hebt.
 
-> As the pocket back is typically some slippery fabric, you probably want to pin or baste this in place prior to sewing.
+> Aangezien het zakdeel waarschijnlijk een glad stofje is, is het geen slecht idee dit op z'n plaats te spelden of driegen voor je het stikt.
 
-#### Cut open chest pocket opening, turn, and press
+#### Knip de zakopening, keer en strijk
 
-![Press the chest pocket](pressChestPocket.svg) Now cut open your welt in the middle of both seamlines. Don't cut to the edge, but create a trianngular shape there.
+![Strijk de borstzak](pressChestPocket.svg) Knip nu je zakopening open tussen de twee stiklijnen. Knip niet tot aan de rand, maar in een hoek van 45° zodat je aan het uiteinde kleine driehoekjes krijgt.
 
-Flip the pocket bag and welt to the backside by passing both of them through the opening you just created.
+Keer het zakdeel en de paspel naar de achterkant door ze door het gat te halen dat je net gemaakt hebt.
 
-Get everything to lay nice and flat, and press.
+Leg alles mooi plat en strijk.
 
-Now, bring the welt only to the front and get it to lie nice and flat. Press again from the back.
+Breng nu enkel de paspel naar de voorkant en leg hem mooi plat. Strijk opnieuw langs de achterkant.
 
-> Resist the urge to press this from the front.
+> Het is verleidelijk dit langs de voorkant te strijken, maar beheers jezelf.
 
-#### Finish the chest pocket
+#### Werk de borstzak af
 
-![Finish the chest pocket](finishChestPocket.svg)
+![Werk de borstzak af](finishChestPocket.svg)
 
-On the backside, fold the pocket bag double and sew it to the pocket welt below the existing seamline of the welt.
+Plooi het zakdeel aan de achterkant dubbel en stik het aan de paspel, onder de bestaande naadlijn.
 
-Thread a needle and hand-finish the chest pocket by sewing down the sides of the welt to the front panel (don't let your stitches show on the front).
+Neem naald en draad en werk de borstzak met de hand af door de zijkanten van de paspel onzichtbaar aan het voorpand vast te naaien.
 
-Finally, close the pocket bag by sewing the sides. Do this by placing the front down with the good side up. Then fold over each side and sew the pocket bag. While sewing these sides, make sure to catch those triangular little pieces of the opening. This will reinforce the pocket opening.
+Als laatste sluit je de binnenzak door de zijkanten dicht te stikken. Doe die door het voorpand neer te leggen met de goede kant naar boven. Vouw dan de zijkant naar boven en stik het zakdeel aan de twee kanten. Let op dat je die kleine driehoekjes aan de zakopening mee vastnaait. Dit verstevigt de zakopening.
 
-Baste the chest pocket closed while we contruct the jacket.
+Drieg de bortzak dicht terwijl je de rest van het jasje maakt.
 
-### Prepare the fronts
+### Bereid de voorpanden voor
 
-![Prepare the canvas for the fronts](prepareCanvas.svg)
+![Bereid het haardoek voor voor de voorpanden](prepareCanvas.svg)
 
-Cut out the front canvas piece in a light and supple canvas placed on the bias. Cut out the entire front.
+Knip het voorpand uit een lichte en soepele haardoek, schuin van draad. Knip het volledige voorpand.
 
-Cut out the front dart and close it with a zig-zag stitch, making sure not to let the canvas overlap.
+Knip de voorste neep uit en sluit plat met een zigzagsteek. Let op dat de randen niet overlappen, maar net tegen elkaar komen.
 
-Cut out the chest canvas piece. Align it along the roll line, and baste it in place on front canvas piece.
+Knip het borststuk uit. Leg het langs de rollijn, en drieg op z'n plek op het voorpand in haardoek.
 
-> The chest piece is marked on the front part of your pattern.
+> Het borststuk is aangeduid op het voorpand van je patroon.
 
-#### Baste canvas to the fronts
+#### Drieg haardoek aan de voorpanden
 
-![Pad-stitching, you love that stuff, right?](padAndTape.svg)
+![Pikeren, dat vind je toch geweldig, niet?](padAndTape.svg)
 
-Now baste the front canvas and chest piece to your front. Keep in mind that the canvas has no seam allowance.
+Drieg nu de voorpanden in haardoek en het borststuk aan je voorpand. Denk eraan dat het haardoek geen naadwaarde heeft.
 
-> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later.  
-> You don't want your canvas to get caught in the seams.
+> Drieg het net voorbij de naadlijn zodat je het uit de weg kan plooien wanneer je deze naden stikt.   
+> Je wil niet dat je haardoek mee in de naad zit.
 
-#### Pad-stitch your lapels
+#### Pikeer je revers
 
-Time to feel like a real tailor, and pad-stitch those lapels.
+Tijd om je een echte kleermaker te voelen, en die revers te pikeren zoals ze nog nooit gepikeerd zijn.
 
-Make sure to make the stitches a bit smaller towards the lapel tip, to make sure it lies flat against the chest, curling a bit inward instead of outward.
+Let op dat je de steken een beetje kleiner maakt naar de punt van de revers toe, zodat ze plat tegen de borst liggen, naar binnen krullend in plaats van naar buiten.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/freesewing) and we'll make an attempt to document it.
+> Als je niet zeker bent hoe pikeren werkt, [laat het ons weten](https://gitter.im/freesewing/freesewing) en we zullen een poging doen om het te documenteren.
 
-#### Tape the lapel edge and roll line
+#### Revers contouren en breuklijn
 
-Now we are going to hand-sew tailor tape along the lapel edges of the front, and along the roll line. This will also secure the canvas to the front here and there.
+Nu gaan we met dunne keperband met de hand langs de rand van de revers naaien, alsook langs de breuklijn. Dit zal ook het haardoek hier en daar aan het voorpand bevestigen.
 
-Keep in mind that:
+Onthoud:
 
-- The tape along the roll line should be placed inside the roll line.
-- The tape along the roll line should be about half a centimeter shorter than the distance it spans. The slight tension this creates helps the lapel roll nicely and contour to your body.
-- The tape along the lapel edge should be placed inside the seam line
+- Het lint langs de breuklijn moet binnen de breuklijn geplaatst worden.
+- Het lint langs de breuklijn moet ongeveer een halve centimeter korter zijn dan de afstand die het moet overbruggen. De lichte spanning op het lint zorgt dat de revers mooi rollen en zich naar je lichaam vormen.
+- Het lint langs de rand van de revers valt binnen de stiklijn
 
-> ##### Don't sew through your fabric
+> ##### Naai niet door je stof
 > 
-> While sewing the tape to your front, avoid pushing your needle all the way through your fabric so that your stitches will show on the front.
+> Probeer je naald niet helemaal door de stof te duwen als je het lint vastnaait, zo vermijd je dat je steken zichtbaar zijn aan de buitenkant.
 > 
-> At the same time, you should not secure the tape only to your canvas either. Instead, you should try to catch a few threads of your fabric on every stitch, so that the tape is secured in place, yet the stitches don't show at the front.
+> Het is echter niet de bedoeling dat je het lint enkel aan het haardoek vastnaait. Je zou moeten proberen een paar draadjes van je buitenstof mee te nemen met elke steek, zodat het lint vastzit maar de steken onzichtbaar zijn aan de buitenkant.
 > 
-> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel. {.fs-bq}
+> Dit is minder problematisch boven het breekpunt van de revers, waar de stof aan de achterkant komt te liggen. {.fs-bq}
 
-### Close the body
+### Sluit de naden
 
-#### Close the side seams
+#### Stik de zijnaden
 
-![Close the sides](closeSides.svg)
+![Sluit de zijnaden](closeSides.svg)
 
-Place your front with the good side up, and your side on it with the good side down.  
-Align the front/side seams, pin them in place if you feel like it, and sew them togther.
+Leg je voorpanden neer met de goede kant omhoog, en je zijpanden erop met de goede kant omlaag.  
+Leg de voor- en zijnaden gelijk, speld ze eventueel samen en stik.
 
-Place this down with the good side up, and place your back on top with the good side down.  
-Align the back/side seams, pin them in place if you feel like it, and sew them togther.
+Leg dit neer met de goede kant omhoog, en leg je rugpand hierop met de goede kant naar beneden.  
+Leg de rug- en zijnaden gelijk, speld ze eventueel samen en stik.
 
-> Make sure the canvas does not get caught in the seam.
+> Let op dat het haardoek niet mee vastgestikt wordt.
 > 
-> ##### Note for sewing vents
+> ##### Opmerking voor het naaien van splitten
 > 
-> If you have a double vent, this seam will contain the vent.
+> Als je een dubbele split hebt, zitten die in deze naad.
 > 
-> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Stik het deel van de zij- achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
 
-#### Close the back seam
+#### Sluit de achternaad
 
-![Close the back seam](closeBack.svg)
+![Sluit de achternaad](closeBack.svg)
 
-Aling your two half-jackets with the good sides together, and close the back seam.
+Leg de twee halve jasjes met de goede kanten op elkaar en stik de middenachternaad dicht.
 
-> ##### Note for sewing vents
+> ##### Opmerking voor het naaien van splitten
 > 
-> If you have a single vent, this seam will contain the vent.
+> Als je een enkele split hebt, zit die in deze naad.
 > 
-> Sew the downward part of the back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Stik het deel van de achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
 
-#### Close the shoulder seams
+#### Sluit de schoudernaden
 
-![Close the shoulder seams](closeShoulders.svg)
+![Sluit de schoudernaden](closeShoulders.svg)
 
-Align the shoulder seams with good sides together, and sew them together.
+Leg de schouders op elkaar met de goede kanten op elkaar en stik.
 
-> Make sure the canvas does not get caught in the seam.
+> Let op dat het haardoek niet mee vastgestikt wordt.
 > 
-> ##### Align the shoulder notches
+> ##### Leg de schoudermerktekens samen
 > 
-> Make sure to carefully align the shoulders based on the notches. Because of the different shape of the back and front panels on the neck side, the fabric edge looks different. So aligning those edges will not give you what you need.
+> Let op dat je de schoudernaden volgens de merktekens op elkaar legt. Omdat de achter- en voorpanden aan de nek een andere vorm hebben ziet de stofrand er anders uit. Dus enkel de randen gelijk geven is niet wat je nodig hebt.
 > 
-> So make sure to align the notches. It's what they're there for. {.fs-bq}
+> Dus zorg dat je op de merktekens afgaat. Daar dienen ze voor. {.fs-bq}
 > 
-> ##### Jaeger is currently in beta, documentation is under construction
+> ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}

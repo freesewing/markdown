@@ -1,8 +1,8 @@
 ---
-title: Front cutaway angle
+title: Hoek uitsnijding vooraan
 path: /en/docs/patterns/jaeger/options/frontcutawayangle
 pattern: jaeger
-option: frontCutawayAngle
+option: voorUitsnijdingHoek
 ---
 
-The angle by which the front opens up below the lower button.
+De hoek waaronder het voorpand opent onder de laagste knoop.

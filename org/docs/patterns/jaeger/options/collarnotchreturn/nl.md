@@ -5,4 +5,4 @@ pattern: jaeger
 option: collarNotchReturn
 ---
 
-Controls the length of the upper notch side. 100% = same as notch depth.
+Bepaalt de lengte van het bovenste been van de inkeping. 100% = identiek aan diepte inkeping.

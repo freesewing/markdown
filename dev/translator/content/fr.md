@@ -10,7 +10,7 @@ Here's what you need to know to get started:
 - Crowdin link: https://crowdin.com/project/fs-markdown
 - Request an invite: https://gitter.im/freesewing/freesewing
 
-<Tip>
+<tip>
 
 When translating content, please give priority to the content of freesewing.org, before tackling developer documentation for freesewing.dev. In other words, do the `org` folder first.
 

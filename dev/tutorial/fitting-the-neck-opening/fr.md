@@ -41,6 +41,6 @@ Si le delta est négatif, notre chemin est trop court et nous devrions augmenter
 
 Nous continuons de faire ceci jusqu'à ce que `Math.abs(delta)` devienne inférieur à 1. Cela signifie que nous sommes à 1 mm près de notre valeur cible.
 
-<Example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
+<example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
 
 Maintenant nous sommes satisfaits de la longueur du quart de notre encolure, construisons à présent l'encolure complète.

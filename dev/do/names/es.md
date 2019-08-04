@@ -6,7 +6,7 @@ title: Re-use names
 
 When designing patterns, re-use the measurements that are already in use as much as possible. Nobody wins when every pattern requires its own set of measurements, or names certain measurements differently.
 
-<Tip>
+<tip>
 
 ###### See our models packages for standard measurement names
 

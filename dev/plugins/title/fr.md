@@ -6,7 +6,7 @@ title: title
 
 The **title** plugin provides the `title` macro:
 
-<Example part="plugin_title" caption="An example of the title macro" design={false} />
+<example part="plugin_title" caption="An example of the title macro" design={false} />
 
 ```js
 let { Point, points, macro } = part.shorthand();
@@ -20,7 +20,7 @@ macro("title", {
 });
 ```
 
-<Tip>
+<tip>
 
 The title plugin is part of our [plugin-bundle](/plugins/bundle)
 

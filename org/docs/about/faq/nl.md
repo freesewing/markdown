@@ -10,7 +10,7 @@ Jou elke keer opnieuw om deze informatie vragen gaat snel vervelen, dus willen w
 
 Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig is, zou dat hopeloos onpraktisch zijn.
 
-<Note>
+<note>
 
 ##### Vraag je dit misschien omdat je ons niet vertrouwt?
 
@@ -39,7 +39,7 @@ Het freesewing project wordt financieel ondersteund door [onze mecenassen](/patr
 
 Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine maandelijkse bijdrage te leveren om FreeSewing gaande te houden.
 
-<Note>
+<note>
 
 ##### Word een FreeSewing mecenas
 

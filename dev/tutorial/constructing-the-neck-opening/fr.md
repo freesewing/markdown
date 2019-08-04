@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 Le point suivant est très similaire de nouveau, excepté que cette fois nous nous décalons vers la droite (0 degré) de la moitié de la distance en X entre les points `bottom` et `right`.
 
-<Tip>
+<tip>
 
 Points vient avec une ribambelle de ces méthodes. Vous pouvez toutes les trouver dans [les docs API pour Point](/fr/api/point).
 
@@ -89,7 +89,7 @@ A partir de là, nous avons dessiné une courbe de Bézier vers notre point `bot
 
 Lorsque tout est dit et fait, nous avons maintenant un quart de notre encolure :
 
-<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
 Le seul problème étant que nous n'avons aucune garantie que cette ouverture soit de taille correcte.
 
