@@ -1,8 +1,8 @@
 ---
-title: Back vent
+title: Rugsplit
 path: /en/docs/patterns/penelope/options/backvent
 pattern: penelope
-option: backVent
+option: rugSplit
 ---
 
-Do you want a vent at the back or not?
+Wil je een split achteraan of niet?

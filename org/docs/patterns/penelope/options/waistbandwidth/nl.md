@@ -1,8 +1,8 @@
 ---
-title: Waistband width
+title: Breedte tailleband
 path: /en/docs/patterns/penelope/options/waistbandwidth
 pattern: penelope
-option: waistbandWidth
+option: taillebandBreedte
 ---
 
-The width of the waistband you want on your skirt.
+De breedte van de tailleband die je aan je rok wil.

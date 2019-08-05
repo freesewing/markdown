@@ -1,13 +1,13 @@
 ---
-title: Zipper placement
+title: Plaatsing rits
 path: /en/docs/patterns/penelope/options/zipperlocation
 pattern: penelope
-option: zipperlocation
+option: ritslocatie
 ---
 
-Where do you want to place the zipper in your skirt?
+Waar wil je de rits in je rok?
 
-- In the side seam
-- In the back seam
+- In de zijnaad
+- In de middenrugnaad
     
-    Default is to place the zipper in the back seam.
+    Standaard zit de rits in de middenrugnaad.

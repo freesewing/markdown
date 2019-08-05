@@ -5,4 +5,4 @@ pattern: jaeger
 option: lengteBonus
 ---
 
-The amount to lengthen the body of your jacket.
+Hoeveel je je jasje wil verlengen.
