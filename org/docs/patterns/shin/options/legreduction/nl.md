@@ -1,12 +1,12 @@
 ---
-title: Leg reduction
+title: Been reductie
 path: /en/docs/patterns/shin/options/legreduction
 pattern: shin
-option: legReduction
+option: beenReductie
 ---
 
-The amount to further reduce the stretch at the (upper) legs.
+Hoeveel smaller de (boven)benen moeten worden.
 
 > #### Waarom?
 > 
-> This option makes the legs fit more snugly than the rest of your swimming trunks to avoid gaping.
+> Deze optie maakt de pijpen strakker dan de rest van je zwembroek om te voorkomen dat ze openstaan.
