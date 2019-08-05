@@ -120,13 +120,13 @@ De `path.offset()`-methode maakt het onnodig om naadwaarde toe te voegen, aangez
 
 Merk op dat we hier opnieuw eigenschappen (attributen) gebruiken om het uitzicht van de lijn te veranderen en er tekst aan toe te voegen. Dat staat verder uitgelegd in [Tekst toevoegen](/concepts/adding-text).
 
-## Scalebox and title
+## Schaalkader en titel
 
-Two more macros and we're done.
+Nog twee macro's en we zijn klaar.
 
-The `title` macro adds a title to our part. It's not that big a deal here since we only have one part in our pattern. But patterns typically have many different parts, some of them which might look rather similar. That's why you should number your parts and give them a name.
+De `title`-macro voegt een titel toe aan elk onderdeel. In dit geval doet dat er weinig toe, want het patroon bestaat uit maar één deel. Maar de meeste patronen bestaan uit veel verschillende onderdelen die soms erg op elkaar lijken. Dan is het handig om al je patroondelen een nummer en een naam te geven.
 
-The `title` macro can help you with that:
+Dat is precies wat de `title`-macro doet:
 
 ```js
 points.title = points.bottom.shift(-90, 45);
@@ -137,15 +137,15 @@ macro("title", {
 });
 ```
 
-The `scalebox` macro prints a box of an exact size. It is used by people who print the pattern to make sure their print is correctly scaled.
+De `scalebox`-matro print een schaalkader af van een exacte grootte. Dat is nuttig voor mensen die het patroon afdrukken om zeker te zijn dat het patroon op de juiste schaal geprint is.
 
 ```js
 points.scalebox = points.title.shift(-90, 55);
 macro("scalebox", { at: points.scalebox });
 ```
 
-And with that, our pattern is now *complete*:
+En daarmee is het patroon *complete*.
 
 <example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
-We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.
+We zijn nog niet helemaal klaar. Er is nog één ding waar de gebruiker om kan vragen: een *paperless* patroon.
