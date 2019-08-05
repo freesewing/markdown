@@ -42,7 +42,7 @@ Shin is een heel eenvoudig patroon, en bestaat uit twee hoofddelen plus een tail
 
 Hier is een typische layout:
 
-<img src="layout.svg" alt="A typical Shin draft" title="" class="elevation-1" />
+<img src="layout.svg" alt="Een typisch Shin patroon" title="" class="elevation-1" />
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -90,11 +90,11 @@ Installeer twee vetergaten links en rechts van deze markering. Dit voorkomt het 
 > 
 > Aangezien badpakstof dun en glad is, is het geen slecht idee om een beetje versteviging achter de vetergaatjes toe te voegen. Een restje jeans werkt perfect.
 
-### Stap 6: Bereid de elastiek voor
+### Stap 6: Bereid het elastiek voor
 
 Er is geen magische formule voor de lengte van je elastiek. Dus wikkel het rond je taille en trek het aan tot je vindt dat het goed past.
 
-Markeer deze lengte, knip de elastiek en naai de uiteindes aan elkaar.
+Markeer deze lengte, knip het elastiek en naai de uiteindes aan elkaar.
 
 ### Stap 7: Naai de tailleband
 
@@ -102,32 +102,32 @@ Plooi de tailleband in twee met goede kanten op elkaar en leg de (korte) randen 
 
 ### Stap 8: Bevestig de tailleband
 
-Fold your waistband double along the length with good sides out, and place the elastic inside. Make sure to align the place where the elastic is joined with the place the waistband is joined.
+Vouw je tailleband dubbel langs de lengte met de goede kant naar buiten, en schuif het elastiek ertussen. Zorg dat je de naad van het elastiek gelijk legt met de naad in de tailleband.
 
-Align the back of your swim trunks with the place where you joined the waistband, align the edge of the waistband with the edge of the back, and pin them together. (make certain that you pin it to the bad side of the back.
+Leg de naad van de tailleband gelijk met de middenachternaad van de zwembroek. Leg de rand van de tailleband gelijk met de rand van het achterpand en speld samen. (Let op dat je met de goede kanten op elkaar werkt).
 
-> ##### Mind your eyelets
+> ##### Let op je vetergaten
 > 
-> If you've made eyelets in your waistband, double check that they are placed towards the outside, not the inside of your waistband.
+> Als je vetergaatjes in je tailleband gemaakt hebt, check dan of ze zeker op de buitenkant van je tailleband staan, en niet aan de binnenkant.
 
-Find the front of the waistband (easy if there's eyelets, if not just fold it double) and align that with the front seam. Pin this in place too.
+Zoek het middenvoor van de tailleband (makkelijk als je vetergaatjes maakte, indien niet plooi je de tailleband in twee) en leg dit gelijk met de naad middenvoor. Speld dit ook op z'n plaats.
 
-Now make your way around the swim trunks waist, pinning the waistband in place.
+Speld nu de tailleband langs de hele taille van de zwembroek.
 
-Then, sew the waistband to the swim trunks, as close to the the elastic as you can, but don't sew into the elastic.
+Stik de tailleband dan aan de zwembroek, zo dicht bij het elastiek als je kan, maar stik niet door het elastiek.
 
-It's fine to not sew too close the first time around, and once your elastic is attached and encased, make a second round to sew it a bit more snugly.
+Het is ok om de eerste keer niet te dichtbij te stikken, en voor een tweede ronde te gaan zodra je tailleband met elastiek vasthangen en de lagen minder kunnen verschuiven.
 
-### Step 9: Hem the legs
+### Stap 9: Zoom de pijpen
 
 Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
 > #### Vouw maar een keer om een teveel aan stof te vermijden
 > 
-> Swimwear fabric doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
+> Badpakstof rafelt niet, dus je kan dit gewoon één keer omplooien en vaststikken, en daarna de rand netjes bijknippen.
 
-### Step 10: Thread a draw string around the waist
+### Stap 10: Haal een koordje door de tailleband
 
-Thread a drawstring through one eyelet, around the waist, and out of the other eyelet.
+Haal een koordje door één vetergat, rondom te tailleband, en uit het andere vetergat.
 
-![That's it, you're done 👍finished.gif)
+Ziezo, je bent klaar!
