@@ -106,7 +106,7 @@ Maar voor een volgende keer, wanneer je wél de optie van naadwaarde nodig hebt:
 
 Je kan `if (sa)` hier nog altijd toevoegen. De naadwaarde is dan nul, want nul is *falsy*.
 
-We won't be adding seam allowance, but we will be doing something that is essentially the same. Rather than draw an outline outside our bib to indicate the seam allowance, we'll draw one within our bib to mark the bias tape:
+We voegen hier dus geen naadwaarde toe, maar we doen iets dat op hetzelfde neerkomt. In plaats van een extra lijn toe te voegen aan de buitenkant van het slabbetje om de naadwaarde aan te geven, tekenen we een lijn aan de binnenkant om de rand van het biaislint aan te geven:
 
 ```js
 paths.bias = paths.seam
@@ -116,9 +116,9 @@ paths.bias = paths.seam
   .attr("data-text-class", "center fill-various");
 ```
 
-The `path.offset()` method makes it trivial to add seam allowance, since it will contruct a path parallel at the distance you pass it. 9 times out of 10, you'll be using it as `path.offset(sa)`.
+De `path.offset()`-methode maakt het onnodig om naadwaarde toe te voegen, aangezien het een parallel pad toevoegt op de afstand die je instelt. Negen van de tien keer ga je dat gebruiken als `path.offset(sa)`.
 
-Note that we're also using the attributes again, to change the look of the line, and add text to it, as explained in [Adding text](/concepts/adding-text).
+Merk op dat we hier opnieuw eigenschappen (attributen) gebruiken om het uitzicht van de lijn te veranderen en er tekst aan toe te voegen. Dat staat verder uitgelegd in [Tekst toevoegen](/concepts/adding-text).
 
 ## Scalebox and title
 
