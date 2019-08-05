@@ -3,12 +3,12 @@ title: Conclusion
 order: 280
 ---
 
-Congratulations, you have created your first pattern. And while it's arguably rather simple, you have learned a bunch of things along the way. Let's list some of the things you've learned:
+Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvoudig patroon, maar je hebt er wel veel bij geleerd. Even opsommen:
 
-- You have learned how to [setup your development environment](/tutorial/create-freesewing-pattern) with `npm init freesewing-pattern`
-- You learned how to [add parts](/tutorial/your-first-part), [measurements](/tutorial/adding-measurements), and [options](http://localhost:8000/tutorial/adding-options) to your pattern's configuration file
-- You learned what [a good boilerplate is to start with a new part](/tutorial/part-structure)
-- You've learned [how to add points and draw paths](/tutorial/constructing-the-neck-opening)
+- Je hebt geleerd om [je eigen developmentomgeving te bouwen](/tutorial/create-freesewing-pattern) met `npm init freesewing-pattern`
+- Je hebt geleerd om [onderdelen](/tutorial/your-first-part), [afmetingen](/tutorial/adding-measurements) en [opties](http://localhost:8000/tutorial/adding-options) toe te voegen aan het configuratiebestand van je patroon
+- Je hebt geleerd wat [een goede boilerplate is om met een nieuw patroondeel te beginnen](/tutorial/part-structure)
+- Je hebt geleerd om [punten toe te voegen en paden te tekenen](/tutorial/constructing-the-neck-opening)
 - You learned how you can make changes in a loop to [adapt the neckopening](/tutorial/fitting-the-neck-opening) or [rotate the straps](/tutorial/avoiding-overlap) until they were just right
 - You learned about [macros and how to use them](/tutorial/creating-the-closure)
 - You learned different methods to manipulate [points](/api/point) and [paths](/api/path)
