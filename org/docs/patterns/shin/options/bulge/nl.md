@@ -5,8 +5,8 @@ pattern: shin
 option: kruis
 ---
 
-How much room do you want in the front?
+Hoeveel ruimte wil je vooraan?
 
-Increasing this will creating more room in the front.
+Dit vergroten zal meer ruimte maken aan de voorkant.
 
 > Als je verticaal meer ruimte nodig hebt, dan moet je naar de **hoogte** optie kijken
