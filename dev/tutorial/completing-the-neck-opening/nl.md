@@ -1,11 +1,11 @@
 ---
-title: Completing the neck opening
+title: De halsopening afwerken
 order: 180
 ---
 
-As the neck opening is symmetrical, there's no need to re-calculate the points on the other side. You can just flip them over, so to speak. And that's exactly what you'll do:
+Aangezien de halsopening symmetrisch is, hoeven we de punten aan de andere kant niet opnieuw te berekenen. Je kan ze gewoon omdraaien. Dat is dus precies wat we gaan doen:
 
-First create some new points:
+Eerst creëer je een aantal nieuwe punten:
 
 ```js
 points.rightCp2 = points.rightCp1.flipY();
@@ -22,11 +22,11 @@ points.topCp2 = points.bottomCp1.flipY();
 
 <note>
 
-We're using the `Point.flipX()` and `Point.flipY()` methods here. Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
+We gebruiken hier de methodes `Point.flipX()` en `Point.flip7()`. Je kan misschien wel raden wat ze doen. Anders kan je het nalezen in de [API-documentatie](/api/point).
 
 </Note>
 
-Then, update your path:
+Vervolgens update je het pad:
 
 ```js
 paths.neck = new Path()
