@@ -9,26 +9,26 @@ Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvo
 - Je hebt geleerd om [onderdelen](/tutorial/your-first-part), [afmetingen](/tutorial/adding-measurements) en [opties](http://localhost:8000/tutorial/adding-options) toe te voegen aan het configuratiebestand van je patroon
 - Je hebt geleerd wat [een goede boilerplate is om met een nieuw patroondeel te beginnen](/tutorial/part-structure)
 - Je hebt geleerd om [punten toe te voegen en paden te tekenen](/tutorial/constructing-the-neck-opening)
-- You learned how you can make changes in a loop to [adapt the neckopening](/tutorial/fitting-the-neck-opening) or [rotate the straps](/tutorial/avoiding-overlap) until they were just right
-- You learned about [macros and how to use them](/tutorial/creating-the-closure)
-- You learned different methods to manipulate [points](/api/point) and [paths](/api/path)
-- You learned about using [attributes](/api/attributes) to influence the appearance of points and paths
-- Your learned about what it means to draft [a complete pattern](/tutorial/completing-your-pattern)
-- Your learned about [snippets and how to add them](/tutorial/completing-your-pattern#adding-snippets)
-- You learned [how to offset a path](/tutorial/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
-- You learned how to create a [paperless pattern](/tutorial/paperless-bib) by adding dimensions
+- Je hebt geleerd om herhaaldelijke aanpassingen te doen om [de halsopening aan te passen](/tutorial/fitting-the-neck-opening) of [de koordjes te roteren](/tutorial/avoiding-overlap) tot ze precies goed waren
+- Je hebt geleerd [wat macro's zijn en hoe je ze gebruikt](/tutorial/creating-the-closure)
+- Je hebt verschillende methodes geleerd om [punten](/api/point) en [paden](/api/path) te manipuleren
+- Je hebt geleerd hoe je met [attributen](/api/attributes) het uitzicht van punten en paden kan veranderen
+- Je hebt geleerd wat het betekent om een [compleet patroon](/tutorial/completing-your-pattern) te ontwerpen
+- Je hebt geleerd [wat snippets zijn en hoe je ze toevoegt](/tutorial/completing-your-pattern#adding-snippets)
+- Je hebt geleerd [hoe je een pad verdubbelt](/tutorial/completing-your-pattern#seam-allowance) om naadwaarde toe te voegen of, in ons geval, een lijn voor de toevoeging van biaislint aan te geven
+- Je hebt geleerd hoe je een [papierloos patroon](/tutorial/paperless-bib) maakt door dimensies toe te voegen
 
-## More reading material
+## Meer leesmateriaal
 
-- If you haven't done so already, read through [the basic concepts of FreeSewing](/concepts)
-- Bookmark [the FreeSewing API docs](/api), they are your reference every time you're not entirely certain how something works
-- Have a look at [our best practices](/do) that will help you make the best possible patterns
+- Als je dat nog niet gedaan hebt, kan je hier [de basisconcepten van FreeSewing](/concepts) nalezen
+- Sla de [FreeSewing API-documenten](/api) op bij je favorieten; je kan ze gebruiken als referentie telkens wanneer je niet zeker weet hoe iets werkt
+- Neem onze [best practices](/do) door; ze helpen je om de best mogelijke patronen te ontwerpen
 
-## What to do next
+## En wat nu?
 
-Now that you have learned how to create a pattern, why don't you make one?
+Je hebt nu geleerd hoe je een patroon ontwerpt. Tijd om je kennis in praktijk om te zetten!
 
-Think about what it is you would like to create, and just do it. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/freesewing) and we'll help you out.
+Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of je hebt hulp of advies nodig, dan kan je terecht in onze [chatroom](https://gitter.im/freesewing/freesewing). We helpen je graag.
 
 <note>
 
