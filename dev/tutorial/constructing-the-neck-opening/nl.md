@@ -1,5 +1,5 @@
 ---
-title: Constructing the neck opening
+title: De halsopening uitwerken
 order: 160
 ---
 
