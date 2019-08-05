@@ -32,10 +32,10 @@ Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of
 
 <note>
 
-###### Tell us how we can improve this tutorial
+###### Laat ons weten hoe we deze instructies kunnen verbeteren
 
-You could do as a real favor by letting us know what you loved or hated about this tutorial.
+Je zou ons een plezier doen door te laten weten wat je goed of slecht vond aan deze instructies.
 
-Where there areas that were not clear? Did we dwell too long on one topic, or rushed through another one too quickly? You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+Was er iets onduidelijk? Deden we te lang over één onderwerp of zijn we te snel over iets anders heengegaan? Met jouw feedback kunnen we FreeSewing verder verbeteren. Dus hou je niet in en [laat ons weten wat je denkt](https://gitter.im/freesewing/freesewing).
 
 </Note>
