@@ -3,11 +3,11 @@ title: De halsopening uitwerken
 order: 160
 ---
 
-Your goal is to construct a slightly oval neck opening that has a circumference that is the `headCircumference` measurements multiplied by the `neckRatio` option.
+Wat je nodig hebt, is een licht ovale halsopening met een doorsnee die overeenkomt met de hoofdomtrek `headCircumference`, vermenigvuldigd met de optie `neckRatio`.
 
-That might involve some trial and error. But since the neck opening will be symetric both horizontal and vertical, you only need to construct one quadrant.
+Het zou kunnen dat je dit een paar keer moet proberen voordat het goed zit. Maar aangezien de halsopening zowel horizontaal als verticaal symmetrisch is, moet je maar één kwadrant opbouwen.
 
-We'll be adding some points to our pattern to do just that. But we want to have access to our measurements and options to do so. For this, you first update the shorthand call to indicate you also want access to `measurements` and `options`:
+Om dat te doen, voegen we een paar punten toe aan het patroon. Eerst moeten we toegang krijgen tot de afmetingen en opties. Daarvoor moet je eerst de shorthand call updaten om aan te geven dat je toegang wil tot `measurements` en `options`:
 
 ```js
 let {
@@ -20,7 +20,7 @@ let {
 } = part.shorthand();
 ```
 
-Great. Now let's get to work:
+Top. Nu kunnen we beginnen:
 
 ```js
 // Design pattern here
@@ -37,25 +37,25 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-You've added some points to your part, and drawn your first path. Let's look at each line in detail:
+Je hebt een aantal punten toegevoegd aan je patroondeel en je eerste pad getekend. Even kijken naar elke lijn in detail:
 
 ```js
 points.right = new Point(measurements.headCircumference / 10, 0);
 ```
 
-- We're adding a point named `right` to `points` which holds our part's points
-- We're using the Point constructor, which takes two arguments: The points X and Y values
-- The X value is `measurements.headCircumference / 10`
-- The Y value is `0`
+- We voegen een punt met de naam `right` toe aan `points`, waar alle punten van het patroondeel opgeslagen zitten
+- We gebruiken de Point constructor, die twee dingen nodig heeft: de waarden voor punten X en Y
+- De waarde voor X is `measurements.headCircumference / 10`
+- De waarde voor Y is `0`
 
-The `bottom` part is very similar, so let's skip to the next line:
+Het deel voor `bottom` is bijna identiek, dus laten we verdergaan met de volgende regel:
 
 ```js
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
 ```
 
-- We're adding a point named `rightCp1`, which will become the *control point* of the right part
+- We voegen een punt toe met de naam `rightCp1`, dat het controlepunt of *control point* wordt voor het rechterdeel
 - Instead of using the Point constructor, we're calling the `Point.shift()` method on an existing point
 - It takes two arguments: The angle to shift towards, and the distance
 - You can see that we're shifting 90 degrees (that means up) but the distance uses another method
@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
 
-<Tip>
+<tip>
 
 Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
 
@@ -89,7 +89,7 @@ From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and
 
 When all is said and done, we now have a quarter of our neck opening:
 
-<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
 The only problem is, we have no guarantee whatsoever that this opening is the correct size.
 
