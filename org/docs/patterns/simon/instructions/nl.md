@@ -135,96 +135,96 @@ Strijk de tussenvoering op de slechte kant van twee van de manchetstukken.
 
 > Als je stof geen slechte kant heeft maakt het niet uit aan welke twee stukken je de tussenvoering kleeft.
 > 
-> Het is echter een leuk detail om de binnenkant van je manchet van een andere stof te maken. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
+> Het is echter een leuk detail om de binnenkant van je manchet van een andere stof te maken. In dat geval moet je zeker zijn dat je de tussenvoering aan het stuk kleeft dat je als buitenkant wil gebruiken.
 > 
-> Depending on what cuff you have chosen, the shape of the cuff will be different.
+> De vorm van je manchet zal anders zijn, afhankelijk van welke soort je gekozen hebt.
 > 
-> In the first illustration, you can see both a round barrel cuff and a French cuff as example.
+> In de eerste illustratie zie je zowel een klassieke afgeronde manchet en een franse manchet als voorbeeld.
 > 
-> Going forward, the round barrel cuff will be used in the illustrations, but the process is the same for the other cuffs.
+> Vanaf nu gebruiken we de klassieke manchet in de illustraties, maar het proces is hetzelfde voor de andere soorten manchetten.
 
-#### Press interfacing to collar and undercollar, and collar stand
+#### Kleef tussenvoering aan kraag en onderkraag, en kraagstaander
 
-To make your collar, you need to cut one undercollar, one collar, and two collar stands. All of this both in fabric and interfacing.
+Om je kraag te maken heb je één onderkraag, één kraag en twee kraagstaanders nodig. Dit alles zowel in stof als in tussenvoering.
 
-For each piece, press the interfacing piece to the bad side.
+Strijk de tussenvoering tegen de slechte kant van elk deel.
 
-### Step 2: Prepare the cuffs
+### Stap 2: bereid de manchetten voor
 
-#### Sew cuff together
+#### Stik de manchet aan elkaar
 
 ![Sew the cuffs together](2a.png)
 
-Place both parts of your cuff (one with interfacing, one without) together with the good sides, and sew them together at the standard seam allowance.
+Leg beide delen van je manchet (één met tussenvoering, één zonder) op elkaar met de goede kanten samen, en stik ze samen met de standaard naadwaarde.
 
-> **Make sure to**
+> **Let op**
 > 
-> - Do not sew together the side that we will attach to the sleeve later
-> - Stop at the seam allowance distance from the edge on the sleeve side
+> - Laat de kant die later aan de mouw bevestigd wordt open
+> - Stop aan de naadwaarde van de rand die aan de mouw bevestigd wordt
 
-#### Trim seam allowance
+#### Knip naadwaarde bij
 
 ![Trim the seam allowance](2b.png)
 
-Before we are going to flip your cuff over, we need to trim back the seam allowance to remove bulk.
+Voor we de manchet keren is het belangrijk de naadwaarde bij te knippen om wat volume te verwijderen.
 
-#### Press back seam allowance
+#### Strijk de naadwaarde terug
 
-![Press back seam allowance](2c.png)
+![Strijk de naadwaarde terug](2c.png)
 
-Fold back the seam allowance on the sleeve side, and press it down.
+Plooi de naadwaarde aan de kant van de mouw naar binnen, en strijk.
 
-> If you sewed too far along the edge earlier, you will have to unpick a few stitches.
+> Als je eerder iets te ver langs de rand gestikt hebt ga je nu een paar steken moeten lostornen.
 
-#### Turn cuff around and press
+#### Keer manchet en strijk
 
 ![Turn the cuff around and press](2d.png)
 
-Flip your cuff with the good sides out, and give it a good press.
+Keer je manchet met de goede kant naar buiten, en strijk grondig.
 
-> When pressing your cuffs, make sure to role the seam a bit to the backside of the cuff to guarantee that the inner fabric of the cuff is not visible.
+> Let op dat je de naad van de manchet een beetje naar de binnenkant rolt tijdens het strijken zodat ze niet zichtbaar is langs de buitenkant.
 
-You can now put your cuffs aside, we'll attach them later.
+Je mag je manchetten nu opzij leggen, we komen hier later op terug.
 
-### Step 3: Prepare the collar
+### Stap 3: Bereid de kraag voor
 
-#### Sew collar and undercollar together
+#### Stik de kraag en onderkraag samen
 
 ![Sew collarand undercollar together](3a.png)
 
-Place both collar parts together with the good sides, and sew them together at the standard seam allowance.
+Leg de twee kraagdelen op elkaar met goede kanten samen en stik ze vast met de standaard naadwaarde.
 
-#### Trim seam allowance
+#### Knip naadwaarde bij
 
 ![Trim the seam allowance](3b.png)
 
-Before we are going to flip your collar over, we need to trim back the seam allowance to remove bulk.
+Voor we de kraag gaan keren is het belangrijk de naadwaarde bij te knippen om wat volume te verwijderen.
 
-#### Turn collar and press
+#### Keer kraag en strijk
 
 ![Turn the collar and press](3c.png)
 
-Flip your collar with the good sides out, get those tips as pointy as possible, and give it a good press.
+Keer de goede kanten van je kraag naar buiten, maak de puntjes zo scherp mogelijk, en strijk grondig.
 
-> When pressing your collar, remember that the undercollar is a bit more narrow.
+> Denk er bij het strijken aan dat de onderkraag een beetje smaller is dan de bovenkraag.
 > 
-> When you align the non-sewn sides, this will cause the seam to roll towards the backside of the collar to guarantee that the inner fabric of the collar is not visible.
+> Wanneer je de niet-gestikte randen op elkaar legt zorgt dit dat de naad naar de onderkant van de kraag rolt zodat deze niet zichtbaar is aan de goede kant.
 
-#### Top-stitch collar
+#### Stik de kraag door
 
 ![Top-stitch the collar](3d.png)
 
-Top-stitch along the edge of the collar. This locks down the seam allowance and makes for a crisp look.
+Geef een sierstiksel langs de rand van de kraag. Dit houdt de naadwaarde op z'n plaats en zorgt dat alles er scherp uitziet.
 
-> How far you top-stitch from the edge is a style choice. It's often a bit less than the standard seam allowance. Have a look at some existing shirts to get an idea.
+> Hoe ver je van de rand stikt is een stijlkeuze. Het is meestal een beetje minder dan de standaard naadwaarde. Kijk eens naar een paar bestaande hemden om een idee te krijgen.
 
-### Step 4: Join collar and collar stand
+### Stap 4: Bevestig kraag aan kraagstaander
 
-#### Place collar between collar stands and baste in place
+#### Leg de kraag tussen de kraagstaanders en drieg vast
 
-![Place collar between collar stands and baste in place](4a.png)
+![Leg de kraag tussen de kraagstaanders en drieg vast](4a.png)
 
-Mark the middle point of your collar and your collar stands with a pin. The middle point of each collar stand is actually slightly off-center since one end is longer than the other. Instead, find the middle point between the two notches.
+Geef het middelpunt van je kraag en kraagstaanders aan met een speld. The middle point of each collar stand is actually slightly off-center since one end is longer than the other. Instead, find the middle point between the two notches.
 
 First place a collar stand with the good side up, then your collar with the undercollar facing up (and the non-sewn side at the top), and finally the second collar stand with the good side down.
 
@@ -260,7 +260,7 @@ Fold back the seam allowance of your collar stand on the non-sewn side and press
 
 #### Turn collar stand and press
 
-![Turn collar and press](4c.png)
+![Keer kraag en strijk](4c.png)
 
 Flip your collar stand with the good sides out, and give it a good press. Make sure to keep the seam allowance on the collar stand folded inwards.
 
