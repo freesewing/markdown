@@ -111,11 +111,11 @@ Als je online winkelt is het soms moeilijker om te weten wat je juist koopt. Als
 
 ### Opmerkingen
 
-- The **front right**, **front left**, and **sleeve** have seams that should be made into flat-felled seams. As such, they have extra seam allowance on those seams. When cutting out these pieces, you **must** include this extra seam allowance.
-- The cuff guard and cuff placket have no seam allowance. That is normal, just cut them out as they are drawn on the pattern.
-- Do not cut out the darts in the **back** piece. You should mark them, but not cut them out.
+- Het **rechtervoorpand**, **linkervoorpand** en de **mouw** hebben naden die afgewerkt worden met een platte naad. Zodoende hebben deze naden extra naadwaarde. Let op dat je deze naadwaarde **zeker**toevoegt als je deze stukken uitknipt.
+- The cuff guard and cuff placket have no seam allowance. Dat is normaal, knip ze gewoon uit zoals ze op je patroon staan.
+- Knip de nepen in het **rugpand** niet uit. Je moet ze markeren, maar niet uitknippen.
 
-Simon is a very versatile pattern, so your draft may differ from the example layout below:
+Simon is een heel veelzijdig patroon, dus jouw versie kan verschillen van het voorbeeld hier:
 
 ![A typical Simon draft](layout.svg)
 
@@ -127,15 +127,15 @@ Simon is a very versatile pattern, so your draft may differ from the example lay
 
 ![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
 
-#### Press interfacing to cuffs
+#### Kleef tussenvoering aan manchetten
 
-To make two cuffs, you have cut out your cuff piece four times in fabric, and twice in interfacing.
+Om twee manchetten te maken heb je je patroondeel vier keer uit stof geknipt, en twee keer uit tussenvoering.
 
-For each cuff, press the interfacing piece to the bad side of the cuff piece.
+Strijk de tussenvoering op de slechte kant van twee van de manchetstukken.
 
-> If the inside and outside of your cuff are the same fabric, it does not matter what cuff piece you press it to.
+> Als je stof geen slechte kant heeft maakt het niet uit aan welke twee stukken je de tussenvoering kleeft.
 > 
-> However, a popular style detail is to have a different fabric for the inside of the cuff. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
+> Het is echter een leuk detail om de binnenkant van je manchet van een andere stof te maken. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
 > 
 > Depending on what cuff you have chosen, the shape of the cuff will be different.
 > 
