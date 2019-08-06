@@ -1,43 +1,43 @@
 ---
-title: Making Simon
+title: Simon maken
 path: /en/docs/patterns/simon
 ---
 
 ## Wat je nodig hebt
 
-To make Simon, you will need the following:
+Om Simon te maken heb je het volgende nodig:
 
-- About two meters of a suitable fabric (see [Fabric options](#fabric-options)
-- Buttons
-- Fusible interfacing for collar and cuffs (and possibly for the front placket)
+- Ongeveer 2 meter geschikte stof (zie [Stofkeuzes](#fabric-options))
+- Knopen
+- Kleefbare tussenvoering voor de kraag en manchetten (en mogelijk voor het knopenpat)
 
 ## Stofkeuze
 
-Any fabric shop that is worth your business should have a shirting section. You can just walk in, ask where you can find the shirting, and pick out something you like.
+Elke stoffenwinkel die je tijd waard is zou een afdeling hemdstoffen moeten hebben. Je kan binnenwandelen, vragen waar de hemdstoffen zijn, en iets kiezen dat je mooi vindt.
 
-Most of what you'll find there will be cotton, or a blend of cotton. But you're free to go for another fiber too.
+Meestal zullen dit katoenen stoffen zijn, of een mengeling van katoen en iets anders. Maar ga gerust voor een andere vezel.
 
-When shopping online, it can be harder to get a good idea of what you're looking at. In the absence of touch, it's good to know a thing or two about the different weaves of fabrics. The weave is how the fabric was woven, and this determines not only how the fabric looks, but also how it will feel and drape.
+Als je online winkelt is het soms moeilijker om te weten wat je juist koopt. Als je de stoffen niet kan aanraken helpt het om iets te weten over verschillende weefsels. Het weefsel slaat of hoe de stof geweven is, en dit bepaalt niet alleen hoe ze eruit ziet, maar ook hoe ze zal voelen en vallen.
 
-> Without wanting to start an encyclopedia of fabrics here, here are some terms you may come across when shopping for shirt fabric online.
+> Ik heb niet meteen de ambitie om hier een stoffenencyclopedie te starten, maar hier zijn een aantal termen die je kan tegenkomen als je online hemdstoffen koopt.
 > 
-> **Broadcloth or poplin**
+> **Laken of popeline**
 > 
-> Broadcloth is the way to go for that white shirt for your job interview or wedding.
+> Laken is dé keuze voor dat ene witte hemd voor je sollicitatiegesprek, of huwelijk.
 > 
-> Broadcloth (frequently referred to as poplin) is a simple weave and results in a flat plain fabric that will give you that crisp formal look.
+> Laken (soms ook popeline genoemd) is een eenvoudig weefsel dat een gladde effen stof produceert, wat voor die kraaknette formele look zorgt.
 > 
-> It's typically a lighter fabric and in light colours can tend to be a bit transparent.
+> Het is vaak een lichtere stof en kan een beetje transparant zijn, vooral als het een lichte kleur is.
 > 
-> **Twill**
+> **Keper**
 > 
-> You can recognize twill fabrics by their characteristic diagonal texture from the weave.
+> Je herkent keperstoffen aan hun typische diagonale textuur.
 > 
-> It drapes more easily than broadcloth, wrinkles less and when it does, is easier to iron.
+> Het valt een beetje soepeler dan laken, kreukt minder en is makkelijker te strijken.
 > 
-> The flip side of the coin is that it won't give you that starchy crisp vibe that broadcloth can.
+> Het nadeel is wel dat het er nooit zo glad en gesteven zal uitzien als laken.
 > 
-> **Pinpoint**
+> **Oxford**
 > 
 > Pinpoint is the work horse of shirt fabrics. Typically they produce a heavier and thicker . and thus more durable . fabric.
 > 
@@ -103,11 +103,11 @@ When shopping online, it can be harder to get a good idea of what you're looking
  - Cut **1 collar**
  - Cut **1 undercollar**
  - Cut **2 collar stand(s)**
- - Cut **2 cuff(s)**
+ - Knip **2 manchetten**
 
-> When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together). However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
+> Als je twee stukken nodig hebt van één patroondeel, kan je dit met de [goede kanten van de stof](/en/docs/sewing/good-sides-together) samen knippen. Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
 > 
-> When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one.
+> Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips.
 
 ### Opmerkingen
 
