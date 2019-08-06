@@ -248,23 +248,23 @@ Wanneer je één kant gedaan hebt kan je opnieuw beginnen vanaf de speld in het 
 
 Stik langs de rand van je kraagstaander, met de standaard naadwaarde.
 
-> Make sure to stop 2cm before the edge (twice the standard seam allowance) as we'll be folding the seam allowance over in the next step, and we need to leave the collar stands separated enough to slide the shirt in between them later.
+> Let op dat je 2 cm voor de rand stopt (twee keer de standaard naadwaarde) aangezien we de naadwaarde omplooien in de volgende stap, en we de kraagstaander nog open genoeg moeten laten om het hemd ertussen te krijgen.
 
-#### Fold back and press the collar stand seam allowance
+#### Plooi en strijk de naadwaarde van de kraagstaander
 
-Fold back the seam allowance of your collar stand on the non-sewn side and press it down.
+Plooi de naadwaarde van de bovenste kraagstaander om en strijk.
 
-> In the center part, pressing down the seam allowance will be easy. But towards the tips of your collar, doing so will be tricky without pressing folds in your collar.
+> In het midden zal het makkelijk zijn om de naadwaarde te strijken. Maar naar de punten toe zal dit moeilijk worden zonder plooien in je kraag te strijken.
 > 
-> Press is as best as you can without making folds in your collar. We'll press this again after flipping the collar out.
+> Strijk zo goed als je kan zonder plooien te maken. We strijken dit opnieuw zodra de kraagstaander gekeerd is.
 
-#### Turn collar stand and press
+#### Keer de kraagstaander en strijk
 
 ![Keer kraag en strijk](4c.png)
 
-Flip your collar stand with the good sides out, and give it a good press. Make sure to keep the seam allowance on the collar stand folded inwards.
+Keer de goede kanten van je kraagstaander naar buiten en strijk grondig. Let op dat de naadwaarde van de kraagstaander naar binnen gekeerd blijft.
 
-You can now put your collar aside, we'll attach it later.
+Je kan je kraag nu opzij leggen, we komen hier later op terug.
 
 ### Step 5: Optional: Sew in your label
 
