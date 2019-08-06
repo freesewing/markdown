@@ -39,33 +39,33 @@ Als je online winkelt is het soms moeilijker om te weten wat je juist koopt. Als
 > 
 > **Oxford**
 > 
-> Pinpoint is the work horse of shirt fabrics. Typically they produce a heavier and thicker . and thus more durable . fabric.
+> Oxford is een echte muilezel onder de hemdstoffen. De stof is meestal iets zwaarder en dikker, en dus ook duurzamer.
 > 
-> Pinpoint is a less formal look than broadcloth or twill, but more formal than oxford. This, combined with its durability, make it a great choice for your everyday work shirt.
+> Oxford is minder formeel dan laken of keper. Dit, samen met de duurzaamheid, maken het een goede keuze voor je dagelijkse werkhemden.
 > 
 > **Chambray**
 > 
-> Chambray is simple weave, similar to broadcloth. It is different because it uses a much heavier yarn, and typically different colours for the weft and width.
+> Chambray heeft een eenvoudige platbinding, gelijkaardig aan laken. Het verschilt omdat het een veel zwaarder garen gebruikt, en meestal verschillende kleuren voor de schering en inslag.
 > 
-> The result is a much more textured fabric, both in touch as appearance where the different colours create a densely speckled two-coloured fabric.
+> Het resultaat is een stof met veel meer textuur, zowel qua aanvoelen als het tweekleurige effect van het weefsel.
 > 
 > **Denim**
 > 
-> Denim needs no introduction. It's the stuff your jeans are made from.
+> Denim heeft geen introductie nodig. Het is het spul waar je jeans van gemaakt is.
 > 
-> Technically a twill fabric (look for the signature diagonal texture) denim is produced in much lighter weights than the ones your jeans are made from. Those are the ones you can use for a shirt.
+> Gewoonlijk een keperstof (kijk uit voor de typische diagonale textuur) die soms ook in een veel lichtere versie dan die van je jeans gemaakt wordt. Dat zijn de soorten die je voor een hemd kan gebruiken.
 > 
-> **Flannel**
+> **Flanel**
 > 
-> From Curt Cobain to the hipsters at your local coffee shop, they all swear by flannel shirts.
+> Van Kurt Cobain tot de hipsters in je lokale koffiebar, ze zweren allemaal bij (geruite) flanellen hemden.
 > 
-> Warmer than any other option here, flannel comes typically in brushed cotton though you might find it with added wool for extra warmth.
+> Dit is de warmste van alle opties hier, en wordt meestal gemaakt van opgeruwd katoen. Soms vind je ook wollen versies. 
 > 
-> **Linen**
+> **Linnen**
 > 
-> Linen wrinkles like a mofo, but you can't beat it for safari looks.
+> Linnen kreukt als je ernaar wijst, maar het is een perfecte kandidaat voor safari looks.
 > 
-> The reason you associate it with adventures in tropical climates is that linen breaths like nothing else and will keep you coolest of all.
+> De reden waarom je deze stof associeert met avonturen in de tropen is dat linnen ongelooflijk goed ademt en je huidje koel zal houden.
 > 
 > **Thread count**
 > 
