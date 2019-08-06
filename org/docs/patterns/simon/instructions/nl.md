@@ -67,42 +67,42 @@ Als je online winkelt is het soms moeilijker om te weten wat je juist koopt. Als
 > 
 > De reden waarom je deze stof associeert met avonturen in de tropen is dat linnen ongelooflijk goed ademt en je huidje koel zal houden.
 > 
-> **Thread count**
+> **Draaddichtheid**
 > 
-> A higher thread count means a smoother (and more expensive) fabric.
+> Een hogere draaddichtheid betekent een gladdere (en duurdere) stof.
 > 
-> Thread count is expressed in numbers, like 60s, 80s, 100s and so on to 300s and more.
+> Draaddichtheid wordt in nummers uitgedrukt, zoals 60, 80, 100 enzovoort tot 300 en meer.
 > 
-> There's a catch though. Numbers above 100s are typically made my twisting two yarns together. Like a 160s thread count means that two 80s yarns were twisted together for the thread.
+> Er zit wel een addertje onder het gras. Draaddichtheid boven de 100 wordt meestal verkregen door twee garens samen te twijnen. Bijvoorbeeld: een draaddichtheid van 160 betekent dat twee garens van 80 samen verwerkt werden tot één garen.
 > 
-> **Single ply or Two ply**
+> **Eendraads of tweedraads**
 > 
-> If a thread is made up of two yarns (see thread count above) we call that Two ply.
+> Als een draad gemaakt is van twee garens (zie Draaddichtheid hierboven) noemen we dat tweedraads.
 > 
-> If the yarn is made up of a single thread, it's call Single ply.
+> Als de draad gemaakt is van een enkel garen wordt dat eendraads genoemd.
 > 
-> You can expect two ply to last longer, and be more expensive.
+> Zoals te verwachten is tweedraads duurzamer, en duurder.
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **1 front left**
- - Cut **1 button placket** (only if you opted for a separate button placket)
- - Cut **1 front right**
- - Cut **1 buttonhole placket** (only if you opted for a separate buttonhole placket)
- - Cut **1 back**
- - Cut **1 collar**
- - Cut **1 undercollar**
- - Cut **2 yoke(s)** or **4 yokes** if you've chosen a split yoke
- - Cut **2 sleeve(s)**
- - Cut **2 collar stand(s)**
- - Cut **2 sleeve placket underlap(s)**
- - Cut **2 sleeve placket overlap(s)**
- - Cut **4 cuff(s)**
-- **Fusible interfacing** 
- - Cut **1 collar**
- - Cut **1 undercollar**
- - Cut **2 collar stand(s)**
+ - Knip **1 linkervoorpand**
+ - Knip **1 knopenpat** (enkel als je voor een apart knopenpat koos)
+ - Knip **1 rechtervoorpand**
+ - Knip **1 knoopsgatenpat** (enkel als je voor een apart knoopsgatenpat koos)
+ - Knip **1 rugpand**
+ - Knip **1 kraag**
+ - Knip **1 onderkraag**
+ - Knip **2 schouderpassen** of **4 schouderpassen** als je voor een gesplitste schouderpas koos
+ - Knip **2 mouwen**
+ - Knip**2 kraagstaanders**
+ - Knip **2 onderkant mouwsplit**
+ - Knip **2 overlap mouwsplit**
+ - Knip **4 manchetten**
+- **Kleefbare tussenvoering** 
+ - Knip **1 kraag**
+ - Knip **1 onderkraag**
+ - Knip**2 kraagstaanders**
  - Knip **2 manchetten**
 
 > Als je twee stukken nodig hebt van één patroondeel, kan je dit met de [goede kanten van de stof](/en/docs/sewing/good-sides-together) samen knippen. Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
