@@ -224,29 +224,29 @@ Geef een sierstiksel langs de rand van de kraag. Dit houdt de naadwaarde op z'n 
 
 ![Leg de kraag tussen de kraagstaanders en drieg vast](4a.png)
 
-Geef het middelpunt van je kraag en kraagstaanders aan met een speld. The middle point of each collar stand is actually slightly off-center since one end is longer than the other. Instead, find the middle point between the two notches.
+Geef het middelpunt van je kraag en kraagstaanders aan met een speld. Het middelpunt van elke kraagstaander is eigenlijk net niet in het midden, aangezien één kant langer is dan de andere. Zoek dus naar het middelpunt tussen de twee merktekens.
 
-First place a collar stand with the good side up, then your collar with the undercollar facing up (and the non-sewn side at the top), and finally the second collar stand with the good side down.
+Leg eerst een kraagstaander met de goede kant omhoog, dan je kraag met de onderkraag naar omhoog (en de ongestikte rand bovenaan), en uiteindelijk de tweede kraagstaander met de goede kant naar beneden.
 
-You collar should sit between your two collar stands, and the middles (where you placed your pin) should be aligned.
+Je kraag zou tussen je twee kraagstaanders moeten zitten, en de middelpunten (waar je je speld geplaatst hebt) moeten overeenkomen.
 
-> The way things look will depend a little bit on your collar choices, but in general your collar is going to bend downward, and your collar stand will bend upward.
+> Hoe dit eruitziet hangt wat al van je keuzes, maar over het algemeen zal je kraag naar beneden buigen, en je kraagstaander naar boven.
 > 
-> To align this all, we are going to baste this together, rather than pin it. Your collar is an important part of your shirt, so it's worth basting this.
+> Om dit allemaal mooi gelijk te krijgen gaan we het driegen, in plaats van te spelden. Je kraag is een belangrijk deel van je hemd, dus het is de moeite om dit te driegen.
 
-First, replace the pins marking the middle with a pin that pins all parts together.
+Vervang eerst de spelden die de middelpunten markeren door één speld die alle lagen samenhoudt.
 
-Now, start basting from this pin and work your way to the corner of the collar, making sure to align both edges of the fabric.
+Begin nu vanaf deze speld te driegen en werk zo in de richting van de hoek van de kraag. Zorg dat je de randen van de stof netjes gelijk legt.
 
-When you reach the corner of your collar, keep going and baste the end of both collar stands together.
+Blijf driegen als je aan de hoek van je kraag komt, en drieg de uiteindes van de kraagstaanders samen.
 
-When you've done one side, start from your pin in the middle again and do this other side. When you're done basting, you can take out the pin.
+Wanneer je één kant gedaan hebt kan je opnieuw beginnen vanaf de speld in het midden en de andere kant doen. Zodra je klaar bent met driegen kan je de speld verwijderen.
 
-#### Sew your collar to the collar stands
+#### Stik je kraag aan de kraagstaanders
 
-![Sew your collar to the collar stands](4b.png)
+![Stik je kraag aan de kraagstaanders](4b.png)
 
-Sew along the edge of your collar stand, respecting the standard seam allowance.
+Stik langs de rand van je kraagstaander, met de standaard naadwaarde.
 
 > Make sure to stop 2cm before the edge (twice the standard seam allowance) as we'll be folding the seam allowance over in the next step, and we need to leave the collar stands separated enough to slide the shirt in between them later.
 
