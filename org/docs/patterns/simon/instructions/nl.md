@@ -274,35 +274,35 @@ De volgende stap is het vastnaaien van de schouderpas. Maar deze schouderpas is 
 
 Kies een schouderpas, en je kan het label in het midden vastnaaien (aan de goede kant).
 
-### Step 6: Join the yokes to the back
+### Stap 6: Bevestig de schouderpassen aan het rugpand
 
 ![Join the yokes to the back](6a.png) ![Press the yoke](6a.png)
 
-Place one yoke with the good side up. On top of that, place your back with the good side up, aligning the seam where it needs to be attached to the yoke.
+Leg één schouderpas met de goede kant omhoog. Leg hier het rugpand op, met de goede kant naar boven, en leg de aanzetnaad van de schouderpas gelijk.
 
-Finally, place your second yoke on top of the back, but with the good side down.
+Leg hier dan de tweede schouderpas bovenop, met de goede kant naar beneden.
 
-You back should now be sandwiched between the good sides of your two yokes.
+Je rugpand zit nu tussen de goede kanten van je twee schouderpassen.
 
-If that's the case, sew them in place along the back/yoke seam, making sure to respect the seam allowance.
+Als dat zo is, stik dan door de drie lagen van aanzetnaad. Let op dat je de juiste naadwarde respecteert.
 
-> If you added a label in step 1, make sure to put the yoke with your label at the bad side of your back.
+> Let op dat de schouderpas met het label aan de verkeerde kant van je rugpand zit, mocht je een label hebben toegevoegd.
 
-When you're done, don't forget to give it a good press to make the seam lie flat.
+Vergeet niet deze naad goed te strijken zodat hij plat ligt.
 
-### Step 7: Edge-stitch the yoke
+### Stap 7: Stik de schouderpas door
 
 ![Edge-stitch the yoke](7.png)
 
-With your yokes attached to the back, we are going to edge-stitch along the seam we just made, on the yoke side.
+Als je schouderpassen aan het rugpand bevestigd zijn gaan we ze doorstikken langs de aanzetnaad, aan de kant van de schouderpas.
 
-> Fold the inner yoke out of the way. Our edge stitching will catch outer yoke, back and all the seam allowances, but not the inner yoke.
+> Vouw de binnenste schouderpas uit de weg. Het stiksel gaat door de buitenste schouderpas en alle naadwaarde, maar niet door de binnenste schouderpas.
 
-Just sew right next to the seam joining the outer yoke to the back.
+Stik net naast de aanzetnaad.
 
-> Edge-stitching is like top-stitching, but right next to the seam
+> Doorstikken is als een sierstiksel, maar heel dicht bij de rand
 
-### Step 8: Close the back darts
+### Stap 8: Sluit de achterste nepen
 
 ![Fold the back with good sides together to close the darts](8a.png) ![Sew the darts](8b.png) ![Press darts towards the side seams](8c.png)
 
