@@ -266,13 +266,13 @@ Keer de goede kanten van je kraagstaander naar buiten en strijk grondig. Let op 
 
 Je kan je kraag nu opzij leggen, we komen hier later op terug.
 
-### Step 5: Optional: Sew in your label
+### Stap 5: Optioneel: Bevestig je label
 
 ![Sew in your label](5.png)
 
-Our next step is to attach the yoke. But the yoke is a great place to put your label. So if you'd like to do that, we might as well start with that.
+De volgende stap is het vastnaaien van de schouderpas. Maar deze schouderpas is een ideale plek om een label te hangen. Dus als je dat graag wil doen, doen we het best nu.
 
-Pick one yoke, and you can sew your label on it in the center (on the good side).
+Kies een schouderpas, en je kan het label in het midden vastnaaien (aan de goede kant).
 
 ### Step 6: Join the yokes to the back
 
