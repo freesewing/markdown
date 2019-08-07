@@ -448,41 +448,41 @@ Leg het rugpand neer met de goede kant omhoog, maar let op dat je de binnenste s
 
 Leg de voorpanden op het rugpand, met de goede kanten naar beneden. Speld de voorpanden aan de schouderpas langs de schoudernaad, met de goede kanten samen.
 
-#### Roll, roll, roll your shirt, pin down and sew your seam
+#### Rol hemden, geen zakken
 
 ![Roll your shift up between the yokes](11c.png)
 
-Roll up your back and fronts starting at the hem. Roll them into a neat sausage upwards until you can see the entire turned down yoke.
+Rol je achterpand en voorpanden op, beginnend aan de zoom. Rol alles in een strakke worst naar boven tot je de volledige binnenste schouderpas kan zien.
 
-Now, you can flip the inner yoke over your rolled sausage to align the shoulder seams with the other yoke and fronts.
+Nu kan je die schouderpas over het opgerolde hemd leggen om de schoudernaden gelijk te leggen met de buitenste schouderpas.
 
-Pin them in place, and then sew the shoulder seams, making sure to keep your sausage (or burrito stuffing) out of the way so it doesn't get caught in the seam.
+Speld de naden vast en stik de schoudernaden. Let op dat je de hemdworst (of burritovulling) uit de weg houdt zodat ze niet in de naad terechtkomt.
 
 ![Match the notches](11e.png)
 
-> Made sure to align the actual seam line. Due to the uneven angles at the neck opening, the fabric edge is often longer on one side than on the other.
+> Let op dat je de eigenlijke stiklijn gelijk legt. Door de hoeken van de halsopening kan het zijn dat de rand van de stof aan één kant langer is dan aan de andere.
 > 
-> However, the seamlines are the same lenght, so make sure to match them carfully using the notches.
+> De stiklijnen zijn echter even lang, dus zorg dat je deze mooi gelijk legt, met hulp van de merktekens.
 
-#### Flip it inside out through the neck opening
+#### Keer het binnenstebuiten door de halsopening
 
-When you've sewn both shoulder seams, reach in through the neck opening, and pull out the back and front parts to inside-out your burrito.
+Wanneer je de twee schoudernaden gestikt hebt haal je de voorpanden en het achterpand naar buiten door de halsopening van je burrito.
 
-#### Press the shoulder seams
+#### Strijk de schoudernaden
 
-![Press the shoulder seams](11d.png)
+![Strijk de schoudernaden](11d.png)
 
-You did all this work, so now make sure you make it look super sharp by giving it a good press. Make sure that the seam allowance between your yokes lies nice and flat for that.
+Dit was veel werk, dus zorg ook dat het er superscherp uitziet door het flink te strijken. Zorg dat de naadwaarde tussen je schouderpassen mooi plat ligt.
 
-### Step 12: Edge-stitch the shoulder seams of the yoke
+### Stap 12: Stik de schoudernaden van de schouderpas door
 
 ![Edge-stitch the shoulder seams of the yoke](12.png)
 
-Just as we've edge-stitched the bottom seam of the yoke in Step 3, we're going to edge-stitch the yoke at the shoulder seams too.
+We gaan de schouderpas ook aan de schoudernaden doorstikken, net zoals we met de aanzetnaad van het rugpand in Stap 3 gedaan hebben.
 
-Since you've just pressed these shoulder seams, everything should lie nice and flat, and you just need to run a stitch right next to the seam.
+Aangezien je deze schoudernaden gestreken hebt zou alles mooi plat moeten liggen, en moet je gewoon recht naast de naad stikken.
 
-> Make sure to edge-stitch on the yoke part, where you will catch all the seam allowance, and not on the front part.
+> Zorg dat je op de schouderpas doorstikt, waar je alle naadwaarde mee vastzet, en niet op het voorpand.
 
 ### Step 13: Construct the sleeve placket
 
