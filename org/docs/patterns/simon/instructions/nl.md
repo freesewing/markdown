@@ -306,61 +306,61 @@ Stik net naast de aanzetnaad.
 
 ![Fold the back with good sides together to close the darts](8a.png) ![Sew the darts](8b.png) ![Press darts towards the side seams](8c.png)
 
-> Depending on your measurements, your pattern might not have back darts at all. In that case, proceed to the next step.
+> Afhankelijk van je maten heeft je patroon wel of geen nepen. Indien geen nepen, ga dan voort met de volgende stap.
 
-Your pattern may or may not have back darts. If it has them, you should close them now.
+Je patroon heeft misschien nepen in het rugpand. Als er nepen zijn, zou je ze nu moeten sluiten.
 
-Place your back down with the good side up, and fold it back from the side seam so the fold runs from the top to the bottom of your dart.
+Leg je rugpand met de goede kant omhoog, en plooi het langs de zijkant om zodat de vouw van de bovenste naar de onderste punt van de neep loopt.
 
-Do the same for the other dart, so that both sides are folded back.
+Doe hetzelfde voor de andere neep, zodat beide kanten teruggeplooid zijn.
 
-Feel free to gently press in this crease, it will help you to neatly sew the darts.
+Het is ok om deze vouw lichtjes te strijken, dat helpt om de nepen accuraat te stikken.
 
-Sew across the line marking the dart to close the darts. Be careful to make sure the top and bottom of your darts are precisely where they need to be. If one dart sits higher than the other, it will look bad.
+Stik langs de lijn die de nepen aangeeft om ze te sluiten. Probeer op te letten dat de bovenste en onderste punten exact zijn waar ze moeten zijn. Als één neep hoger zit dan de andere ziet het er niet uit.
 
-When you're done, don't forget to give it a good press. Press the extra fabric of the dart towards the side seams.
+Vergeet niet grondig te strijken! Strijk de stof van de neep naar de zijnaden.
 
-### Step 9: Prepare the button placket
+### Stap 9: Bereid het knopenpat voor
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to [Fold the button placket](#fold-the-button-placket).
+> Als je een aangeknipt knopenpat gekozen heb kan je de eerste twee substapjes overslaan en verdergaan met [Plooi het knopenpat](#fold-the-button-placket).
 
-#### Sew on the button placket
+#### Stik het knopenpat vast
 
-![Sew on the button placket](9a.png)
+![Stik het knopenpat vast](9a.png)
 
-If you have chosen a separate button placket, sew it to the Front Right piece.
+Als je een apart knopenpat gekozen hebt stik je het nu vast aan het rechtervoorpand.
 
-Place the Front Right (piece 1) down with the good side up, and place the Button Placket (piece 1b) on top of it with the good side down, making sure to align the seam.
+Leg het rechtervoorpand (deel 1) neer met de goede kant omhoog, en leg het knopenpat (deel 1b) erop met de goede kant naar beneden. Leg de randen netjes gelijk.
 
-Sew it in place with the default seam allowance.
+Stik vast met de standaard naadwaarde.
 
-#### Press seam allowance to placket side
+#### Strijk de naadwaarde in de richting van het knopenpat
 
-Place your front with the good side down, and press the seam allowance to the button placket side.
+Leg je voorpand met de goede kant naar beneden, en strijk de naadwaarde naar het knopenpat toe.
 
-#### Fold the button placket
+#### Ploor het knopenpat
 
-![Fold the button placket](9b.png)
+![Ploor het knopenpat](9b.png)
 
-Now, fold over the button placket on the first fold line, and press this fold in place.
+Plooi nu het knopenpat aan de eerste vouwlijn, en strijk deze vouw.
 
-Then, fold the placket over again, making sure to have the fabric extend just beyond the seam that joins your placket to the front.
+Plooi het knopenpat opnieuw om, en let op dat de stof tot net voorbij de aanzetnaad aan het voorpand komt zodat deze bedekt is.
 
-When you're happy, press the folded placket.
+Als je daarmee blij bent, strijk dan het geplooide knopenpat.
 
-#### Sew down the folded placket
+#### Stik het geplooide knopenpat
 
-![Sew down the folded placket](9c.png)
+![Stik het geplooide knopenpat](9c.png)
 
-> This is the classic approach. If you have chosen the seamless Button placket style, you don't have to do this.
+> Dit is de klassieke aanpak. Als je voor het naadloze knopenpat gekozen heb moet je dit niet doen.
 > 
-> Rather than sew the placket down, simply leave it folded. The folds will be secured in place when we attach the buttons later.
+> In plaats van het knopenpat door te stikken, laat je het gewoon geplooid. De plooien worden op hun plaats gehouden wanneer we later de knopen aannaaien.
 
-From the good side of your shirt, sew down the folded placket by stitching in the ditch.
+Stik het geplooide knopenpat vast door langs de goede kant van je hemd in de naad te stikken.
 
-To do so, sew exactly on top of your earlier seam. Since you folded the fabric of your placket a bit passed this seam, it will get caught at the back, fixing your folded placket in place, and locking the seam allowance inside.
+Om dit te doen stik je exact bovenop je eerdere naad. Aangezien je het knopenpat een beetje verder dan deze naad geplooid hebt wordt het nu aan de achterkant vastgestikt. Op deze manier blijft je knopenpat zitten en blijft de naadwaarde mooi binnenin.
 
-### Step 10: Prepare the buttonhole placket
+### Stap 10: Bereid het knoopsgatenpat voor
 
 > If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to Understanding a classic buttonhole placket.
 
@@ -372,9 +372,9 @@ If you have chosen a separate buttonhole placket, sew it to the Front Left piece
 
 Place the Front Left (piece 2) down with the good side up, and place the Buttonhole Placket (piece 2b) on top of it with the good side down, making sure to align the seam.
 
-Sew it in place with the default seam allowance.
+Stik vast met de standaard naadwaarde.
 
-When you're done, don't forget to give it a good press. Press the seam allowance towards the placket side.
+Vergeet niet grondig te strijken! Press the seam allowance towards the placket side.
 
 #### Press seam allowance to the placket side
 
