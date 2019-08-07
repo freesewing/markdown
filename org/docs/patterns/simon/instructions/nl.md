@@ -338,9 +338,9 @@ Stik vast met de standaard naadwaarde.
 
 Leg je voorpand met de goede kant naar beneden, en strijk de naadwaarde naar het knopenpat toe.
 
-#### Ploor het knopenpat
+#### Plooi het knopenpat
 
-![Ploor het knopenpat](9b.png)
+![Plooi het knopenpat](9b.png)
 
 Plooi nu het knopenpat aan de eerste vouwlijn, en strijk deze vouw.
 
@@ -362,91 +362,91 @@ Om dit te doen stik je exact bovenop je eerdere naad. Aangezien je het knopenpat
 
 ### Stap 10: Bereid het knoopsgatenpat voor
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to Understanding a classic buttonhole placket.
+> Als je een aangeknipt knoopsgatenpat gekozen heb kan je de eerste twee substapjes overslaan en verdergaan met Hoe werkt een klassiek knopenpat.
 
-#### Sew on the buttonhole placket
+#### Stik het knoopsgatenpat vast
 
 ![Sew on the butonhole placket](10a.png)
 
-If you have chosen a separate buttonhole placket, sew it to the Front Left piece.
+Als je een apart knoopsgatenpat gekozen hebt stik je het nu vast aan het linkervoorpand.
 
-Place the Front Left (piece 2) down with the good side up, and place the Buttonhole Placket (piece 2b) on top of it with the good side down, making sure to align the seam.
+Leg het linkervoorpand (deel 2) neer met de goede kant omhoog, en leg het knoopsgatenpat (deel 2b) erop met de goede kant naar beneden. Leg de randen netjes gelijk.
 
 Stik vast met de standaard naadwaarde.
 
-Vergeet niet grondig te strijken! Press the seam allowance towards the placket side.
+Vergeet niet grondig te strijken! Strijk de naadwaarde in de richting van het knoopsgatenpat.
 
-#### Press seam allowance to the placket side
+#### Strijk de naadwaarde in de richting van het knoopsgatenpat
 
-Place your front with the good side down, and press the seam allowance to the buttonhole placket side.
+Leg je voorpand met de goede kant naar beneden, en strijk de naadwaarde naar het knoopsgatenpat toe.
 
-#### Understanding a classic buttonhole placket
+#### Hoe werkt een klassiek knopenpat
 
-> If you have chosen a seamless placket, you should follow the steps of the button placket, as the construction is identical.
+> Als je een naadloos knopenpat gekozen hebt moet je de stappen voor het knopenpat volgen, aangezien de constructie identiek is.
 > 
-> The steps below are for a classic buttonhole placket.
+> De stappen hieronder zijn voor een klassiek knopenpat.
 
-![Understanding a classic buttonhole placket](10b.png)
+![Hoe werkt een klassiek knopenpat](10b.png)
 
-Your placket has a bunch of lines on it, so let's first clarify what they are:
+Er staan een hoop lijnen op het knopenpat, dus laat ons eerst eens kijken wat die betekenen:
 
-- The buttonhole line has long dashes with buttonholes on it. It marks where the buttonholes should go
-- The two fold lines have long dashes and sit at an equal distance right and left of the buttonhole line
-- The two+two sew lines are dotted lines that sit at an equal distance of each fold line
+- De knoopsgatenlijn heeft is een lange stippellijn met knoopsgaten op. Ze geeft aan waar de knoopsgaten moeten komen
+- De twee vouwlijnen zijn lange stippellijnen en zitten op gelijke afstand rechts en links van de knoopsgatenlijn
+- De twee+twee stiklijnen zijn stippellijntjes die op gelijke afstand van elke vouwlijn zitten
 
-#### Trim back seam allowance
+#### Knip naadwaarde bij
 
-> If you have chosen a grown-on placket, this does not apply.
+> Als je een aangesneden knopenpat gekozen hebt is dit niet van toepassing.
 
-![Trim back seam allowance](10c.png)
+![Knip naadwaarde bij](10c.png)
 
-The seam allowance of where you sewed your buttonhole placket to your front should fit inside your folded placket.
+De naadwaarde van de aanzetnaad van het knoopsgatenpat zou in je geplooide knoopsgatenpat moeten passen.
 
-For that, trim back the seam allowance so that it doesn't extend beyond the first fold line on the placket.
+Om dat te verkrijgen knip je de naadwaarde bij zodat ze niet verder komt dan de eerste vouwlijn op het knoopsgatenpat.
 
-#### Fold the buttonhole placket
+#### Plooi het knoopsgatenpat
 
-![Fold the buttonhole placket](10d.png) ![Fold the buttonhole placket again](10e.png)
+![Plooi het knoopsgatenpat](10d.png) ![Fold the buttonhole placket again](10e.png)
 
-Fold the placket on the first fold line. Press the fold in place.
+Plooi het knoopsgatenpat langs de eerste vouwlijn. Strijk de vouw.
 
-Then, fold the part you just folded again, this time on the second fold line. Press this fold in place too.
+Plooi dan het deel dat je net plooide nog een keer, nu op de tweede vouwlijn. Strijk deze vouw ook.
 
-> When your placket is folded and pressed, place a few pins along the length of your placket to keep things from shifting around
+> Als je knoopsgatenpat geplooid en gestreken is helpen een paar spelden wel eens om te voorkomen dat dingen gaan verschuiven
 
-#### Sew the buttonhole placket
+#### Stik het geplooide knoopsgatenpat
 
 ![Sew on the first line](10f.png) ![Sew on the second line](10g.png)
 
-Sew on the first sew line, closest to the edge.
+Stik op de eerste stiklijn, het dichtst bij de rand.
 
-Then, flip your shirt over so that the good side is up, and your placket is up too. Then sew on the second sew line.
+Draai dan je hemd om zodat de goede kant naar boven ligt, en je knoopsgatenpat ook. Stik dan op de tweede stiklijn.
 
-> These two lines of top-stitching will always be visible, so make sure to keep it neat
+> Deze twee rijen stiksel gaan altijd zichtbaar zijn, dus hou het netjes
 
-#### Press the buttonhole placket
+#### Strijk het knoopsgatenpat
 
-![Press the buttonhole placket](10h.png)
+![Strijk het knoopsgatenpat](10h.png)
 
-Congratulations, you made a classic buttonhole placket.
+Gefeliciteerd, je hebt een klassiek knopenpat gemaakt.
 
-Now press that baby. You know you want to.
+Strijk het nu naar de verdoemenis. You know you want to.
 
-### Step 11: Close the shoulder seams
+### Stap 11: Sluit de schoudernaden
 
-> **Let's stuff a burrito**
+> **Laten we een burrito maken**
 > 
-> We are going to close the shoulder seams with a technique that is commonly know as the **burrito method**.
+> We gaan de schoudernaad sluiten met een techniek die ook wel de **burritomethode** genoemd wordt.
 > 
-> If you are familiar with the burrito method, you already know what to do. If not, read on for a clever way to neatly close your shirt's shoulder seams while locking all the unfinished edges out of sight.
+> Als dit je bekend in de oren klinkt weet je al wat te doen. Indien niet, lees dan even verder voor een slimme manier om de schoudernaden van je hemd te stikken en tegelijk alle naadwaarde weg te stoppen.
 
-#### Pin the fronts to the outside yoke
+#### Speld de voorpanden aan de buitenste schouderpas
 
-![Pin the fronts to the outside yoke](11a.png) ![Pin the fronts to the outside yoke](11b.png)
+![Speld de voorpanden aan de buitenste schouderpas](11a.png) ![Speld de voorpanden aan de buitenste schouderpas](11b.png)
 
-Place your back down with the good side up, but be careful to fold the inner yoke downward (as illustrated by the dotted line.
+Leg het rugpand neer met de goede kant omhoog, maar let op dat je de binnenste schouderpas naar beneden plooit (zoals aangeduid met de stippellijn).
 
-Place your fronts on your back, with the good sides down. Pin fronts to the yoke at the shoulder seam, good sides together.
+Leg de voorpanden op het rugpand, met de goede kanten naar beneden. Speld de voorpanden aan de schouderpas langs de schoudernaad, met de goede kanten samen.
 
 #### Roll, roll, roll your shirt, pin down and sew your seam
 
