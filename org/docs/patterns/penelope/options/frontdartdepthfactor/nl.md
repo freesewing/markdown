@@ -1,8 +1,8 @@
 ---
-title: Front dart depth factor
+title: Factor lengte neep vooraan
 path: /en/docs/patterns/penelope/options/frontdartdepthfactor
 pattern: penelope
-option: frontdartdepthfactor
+option: voorneeplengtefactor
 ---
 
-The depth of the front dart as a percentage of the Waist to Hip measurement
+De lengte van de neep in het voorpand als een percentage van de afstand tussen taille en heup

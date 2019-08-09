@@ -5,4 +5,4 @@ pattern: jaeger
 option: mouwKromming
 ---
 
-The bend at the elbow of your sleeve.
+De buiging aan de elleboog van je mouw.

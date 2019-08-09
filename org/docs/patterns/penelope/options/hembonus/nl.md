@@ -1,8 +1,8 @@
 ---
-title: Hem bonus
+title: Bonus zoom
 path: /en/docs/patterns/penelope/options/hembonus
 pattern: penelope
-option: hemBonus
+option: zoomBonus
 ---
 
-This option allows for additional width at the hem.
+Deze optie staat je toe de zoom breder te maken.

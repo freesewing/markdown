@@ -1,4 +1,4 @@
 ---
-title: Shin swim trunks
+title: Shin zwembroek
 ---
 

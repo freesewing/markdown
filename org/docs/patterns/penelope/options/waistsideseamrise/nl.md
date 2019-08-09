@@ -1,8 +1,8 @@
 ---
-title: Waist side seam rise
+title: Hoogte taille zijnaad
 path: /en/docs/patterns/penelope/options/waistsideseamrise
 pattern: penelope
-option: waistsideseamrise
+option: taillezijnaadhoogte
 ---
 
-The amount to raise the waist at the side seam.
+Hoe hoog de taille moet zijn aan de zijnaad.

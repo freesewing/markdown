@@ -1,8 +1,8 @@
 ---
-title: Number of darts
+title: Aantal nepen
 path: /en/docs/patterns/penelope/options/nrofdarts
 pattern: penelope
-option: nrofdarts
+option: aantalnepen
 ---
 
-The number of darts per skirt panel.
+Het aantal nepen per rokpand.

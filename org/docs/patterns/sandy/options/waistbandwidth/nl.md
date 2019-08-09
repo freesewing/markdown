@@ -1,8 +1,8 @@
 ---
-title: Waistband width
+title: Breedte tailleband
 path: /en/docs/patterns/sandy/options/waistbandwidth
 pattern: sandy
-option: waistbandWidth
+option: taillebandBreedte
 ---
 
-The width of the waistband
+De breedte van de tailleband

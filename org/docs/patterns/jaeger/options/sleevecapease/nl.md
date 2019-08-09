@@ -5,4 +5,4 @@ pattern: jaeger
 option: mouwkopOver
 ---
 
-The ease on the sleevecap.
+De extra stof in de mouwkop.

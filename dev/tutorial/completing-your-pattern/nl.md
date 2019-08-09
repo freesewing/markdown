@@ -1,14 +1,14 @@
 ---
-title: Completing your pattern
+title: Je patroon vervolledigen
 order: 260
 ---
 
-When we started out, we said a good part boilerplate looks like this:
+Helemaal in het begin hebben we gezegd dat een goede boilerplate voor onderdelen er zo uitziet:
 
 ```js
 export default function(part) {
   let { Point, points, Path, paths } = part.shorthand();
-  // Design pattern here
+  // Ontwerp je patroon hier
 
   // Complete?
   if (complete) {
@@ -22,21 +22,21 @@ export default function(part) {
 }
 ```
 
-So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?*
+Tot nu toe hebben we ons beperkt tot het onderdeel *// Design pattern here*. Nu gaan we verder met het stuk onder *// Complete?*.
 
 <Note>
 
-###### The point of (non) complete patterns
+###### Het nut van (niet-)complete patronen
 
-Users can set the `complete` setting to `false`. When that's the case, you should draft a base outline of the pattern, rather than a fully detailed pattern.i
+Gebruikers kunnen de instelling `complete` als `false` opgeven. Als dat het geval is, moet je een basisversie van het patroon ontwerpen in plaats van een volledig gedetailleerd patroon.
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
 </Note>
 
-The `complete` setting is `true` by default, but the user can change it. To access the setting, we merely have to tell `part.shorthand()` that we'd like to access it.
+De instelling `complete` staat standaard op `true`, maar de gebruiker kan dat veranderen. Je krijgt toegang tot deze instelling via `part.shorthand()`.
 
-While we're at it, also add `snippets` and `Snippet`, like this:
+Als we toch bezig zijn, kunnen we ook `snippets` en `Snippet` toevoegen:
 
 ```js
 let {
@@ -55,7 +55,7 @@ let {
 
 ## Adding snippets
 
-Snippets are little re-useable things to embellish your pattern with. Things like buttons or buttonholes, a logo, or snaps:
+Snippets zijn kleine, herbruikbare dingen die je aan je patroon toevoegt, zoals knopen en knoopsgaten, een logo of een markering voor drukknopen:
 
 ```js
 // Complete?
@@ -72,17 +72,17 @@ if (complete) {
 }
 ```
 
-We've added a `snap-male` and `snap-female` snippet to the points we had foreseen for that.
+Je hebt nu een snippet toegevoegd voor beide delen van een drukknoop, `snap-male` en `snap-female`, op de punten die we daarvoor voorzien hadden.
 
-Because the female snippet is at the back of the fabric, we've made it semi-transparent by setting the `opacity` attribute to `0.5`. Yes, you can do that.
+Omdat het 'vrouwtje' van de drukknoop aan de achterkant van de stof zit, maak je het halftransparant door de eigenschap `opacity` in te stellen op `0.5`. Jep, dat kan.
 
 <Tip>
 
-Any attributes you set will be added to the SVG output.
+Alle eigenschappen die je instelt, worden toegevoegd aan de SVG-output.
 
 </Tip>
 
-Since we're adding snippets, let's throw a logo on there to:
+Nu we toch snippets aan het maken zijn, kunnen we ook een logo toevoegen:
 
 ```js
 points.logo = new Point(0, 0);
@@ -91,22 +91,22 @@ snippets.logo = new Snippet("logo", points.logo);
 
 ## Seam allowance
 
-Just like users can choose whether they want a complete pattern or not, they can choose whether they want to include seam allowance on the pattern or not.
+Net zoals ze de keuze hebben tussen een compleet patroon of een vereenvoudigd, kunnen gebruikers ook kiezen of ze naadwaarde willen toevoegen aan het patroon of niet.
 
-This is why we have this condition:
+Daarvoor dient deze voorwaarde:
 
 ```js
 if (sa) {
 }
 ```
 
-Our bib does not use seam allowance. Instead we'll finish it with bias tape. So you can simply remove that condition.
+Ons slabbetje heeft geen naadwaarde omdat we het afwerken met biaislint. Je kan de voorwaarde in dit geval dus gewoon weglaten.
 
-However, for future refefence, `sa` is a variable that you can get from `part.shorthand()` just like `complete`. But instead of `true` or `false` it will hold the amount if seam allowance in mm.
+Maar voor een volgende keer, wanneer je wél de optie van naadwaarde nodig hebt: `sa` (kort voor 'seam allowance' of naadwaarde) is een variabele die je instelt in `part.shorthand()`, net zoals `complete`. In plaats van `true` of `false` voeg je hier de naadwaarde toe in millimeter.
 
-Note that you can still do `if (sa)` because zero is *falsy*.
+Je kan `if (sa)` hier nog altijd toevoegen. De naadwaarde is dan nul, want nul is *falsy*.
 
-We won't be adding seam allowance, but we will be doing something that is essentially the same. Rather than draw an outline outside our bib to indicate the seam allowance, we'll draw one within our bib to mark the bias tape:
+We voegen hier dus geen naadwaarde toe, maar we doen iets dat op hetzelfde neerkomt. In plaats van een extra lijn toe te voegen aan de buitenkant van het slabbetje om de naadwaarde aan te geven, tekenen we een lijn aan de binnenkant om de rand van het biaislint aan te geven:
 
 ```js
 paths.bias = paths.seam
@@ -116,17 +116,17 @@ paths.bias = paths.seam
   .attr("data-text-class", "center fill-various");
 ```
 
-The `path.offset()` method makes it trivial to add seam allowance, since it will contruct a path parallel at the distance you pass it. 9 times out of 10, you'll be using it as `path.offset(sa)`.
+De `path.offset()`-methode maakt het onnodig om naadwaarde toe te voegen, aangezien het een parallel pad toevoegt op de afstand die je instelt. Negen van de tien keer ga je dat gebruiken als `path.offset(sa)`.
 
-Note that we're also using the attributes again, to change the look of the line, and add text to it, as explained in [Adding text](/concepts/adding-text).
+Merk op dat we hier opnieuw eigenschappen (attributen) gebruiken om het uitzicht van de lijn te veranderen en er tekst aan toe te voegen. Dat staat verder uitgelegd in [Tekst toevoegen](/concepts/adding-text).
 
-## Scalebox and title
+## Schaalkader en titel
 
-Two more macros and we're done.
+Nog twee macro's en we zijn klaar.
 
-The `title` macro adds a title to our part. It's not that big a deal here since we only have one part in our pattern. But patterns typically have many different parts, some of them which might look rather similar. That's why you should number your parts and give them a name.
+De `title`-macro voegt een titel toe aan elk onderdeel. In dit geval doet dat er weinig toe, want het patroon bestaat uit maar één deel. Maar de meeste patronen bestaan uit veel verschillende onderdelen die soms erg op elkaar lijken. Dan is het handig om al je patroondelen een nummer en een naam te geven.
 
-The `title` macro can help you with that:
+Dat is precies wat de `title`-macro doet:
 
 ```js
 points.title = points.bottom.shift(-90, 45);
@@ -137,15 +137,15 @@ macro("title", {
 });
 ```
 
-The `scalebox` macro prints a box of an exact size. It is used by people who print the pattern to make sure their print is correctly scaled.
+De `scalebox`-matro print een schaalkader af van een exacte grootte. Dat is nuttig voor mensen die het patroon afdrukken om zeker te zijn dat het patroon op de juiste schaal geprint is.
 
 ```js
 points.scalebox = points.title.shift(-90, 55);
 macro("scalebox", { at: points.scalebox });
 ```
 
-And with that, our pattern is now *complete*:
+En daarmee is het patroon *complete*.
 
 <Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
-We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.
+We zijn nog niet helemaal klaar. Er is nog één ding waar de gebruiker om kan vragen: een *paperless* patroon.

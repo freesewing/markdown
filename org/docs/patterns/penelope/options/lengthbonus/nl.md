@@ -5,6 +5,6 @@ pattern: penelope
 option: lengteBonus
 ---
 
-How much longer than the default length to make your skirt.
+Hoeveel langer dan de standaardlengte wil je je rok maken?
 
-> This option allows negative values, which will shorten the skirt.
+> Deze optie laat negatieve waarden toe, deze maken de rok korter.

@@ -1,8 +1,8 @@
 ---
-title: Hips reduction ratio back
+title: Ratio reductie heupen rug
 path: /en/docs/patterns/jaeger/options/hipreductionratioback
 pattern: jaeger
-option: hipsReductionRatioBack
+option: heupReductieRatioRug
 ---
 
-Proportion of the hips to be reduced in back panel shaping. Will also impact side panel shaping.
+Verhouding waarmee de heupen gereduceerd worden in de vorm van het rugpand. Dit heeft ook invloed op de vorm van het zijpand.
