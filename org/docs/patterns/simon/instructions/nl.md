@@ -112,7 +112,7 @@ Als je online winkelt is het soms moeilijker om te weten wat je juist koopt. Als
 ### Opmerkingen
 
 - Het **rechtervoorpand**, **linkervoorpand** en de **mouw** hebben naden die afgewerkt worden met een platte naad. Zodoende hebben deze naden extra naadwaarde. Let op dat je deze naadwaarde **zeker**toevoegt als je deze stukken uitknipt.
-- The cuff guard and cuff placket have no seam allowance. Dat is normaal, knip ze gewoon uit zoals ze op je patroon staan.
+- De mouwsplitreep en mouwsplitbies hebben geen naadwaarde. Dat is normaal, knip ze gewoon uit zoals ze op je patroon staan.
 - Knip de nepen in het **rugpand** niet uit. Je moet ze markeren, maar niet uitknippen.
 
 Simon is een heel veelzijdig patroon, dus jouw versie kan verschillen van het voorbeeld hier:
@@ -531,35 +531,35 @@ Het idee is dat de mouwsplitbies de onafgewerkte rand verbergt, en meteen ook de
 
 Als dit er voor jou goed uitziet, speld het dan maar vast.
 
-#### Sew the sleeve placket
+#### Stik de mouwsplitbies
 
-![Sew the sleeve placket](13g.png)
+![Stik de mouwsplitbies](13g.png)
 
-Start at the edge of the sleeve (the bottom of the sleeve placket) and edge-stitch along the edge upwards.
+Begin aan de rand van de mouw (de onderkant van de mouwsplitbies) en stik langs de rand naar boven.
 
-Go around the tip, and come down again on the other side (the fold side) until you have passed the point where your guard ends.
+Ga rond de punt, en langs de andere (geplooide) kant weer naar beneden tot net voorbij het einde van de mouwsplitreep.
 
-Then, sew horizontal to the other side of the placket to finish.
+Stik dan in een horizontale lijn over de mouwsplitbies om af te werken.
 
-> I have included an extra illustration here that only shows the outline of the placket. You can see that the end of the guard is caught in our stitching of the placket, and is thus neatly tucked away.
+> Ik heb hier een extra illustratie gemaakt die enkel de omlijning van de mouwsplitbies toont. Je ziet dat het einde van de mouwsplitreep vastzit in het stiksel van de mouwsplitbies, en dus netjes weggewerkt wordt.
 
-### Step 14: Set in sleeves
+### Stap 14: Zet de mouwen in
 
-#### Remember, this is a flat-felled seam
+#### Belangrijk! Dit is een platte naad
 
 ![Aligning the fabric for a flat-felled seam](14c.png)
 
-> **Careful with the extra seam allowance for the flat-felled seam** There is extra seam allowance on the sleeve to allow for the creation of the flat-felled seam.
+> **Let op met de extra naadwaarde voor de platte naad**. Er is extra naadwaarde aan de mouw om de platte naad te kunnen maken.
 > 
-> As such, be careful to not align the fabric edge, but align the seam so that the sleeve sits out 1cm.
+> Zorg dus dat je niet de rand van de stof gelijk legt, maar leg de stiklijnen zo op elkaar dat de mouw een extra centimeter uitsteekt.
 
-#### Pin shirt in place
+#### Speld het hemd op z'n plek
 
-![Pin shirt in place](14a.png)
+![Speld het hemd op z'n plek](14a.png)
 
-Spread your shirt open so that both fronts and back lie flat with their good sides up.
+Leg je hemd open zodat de voor- en achterkanten plat liggen met de goede kanten omhoog.
 
-Now place your sleeve on top with the good side down, matching the notch at the top of the sleeve with the shoulder seam.
+Leg nu je mouw bovenop met de goede kant naar beneden, en leg het merkteken aan de bovenkant van de mouw gelijk met de schoudernaad.
 
 > Be careful, your sleeve is not symmetric, so be sure to have the double notch (and cuff guard) on the back side, and the single notch on the front side.
 > 
