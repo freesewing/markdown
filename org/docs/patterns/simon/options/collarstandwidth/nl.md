@@ -1,10 +1,10 @@
 ---
-title: Collarstand width
+title: Hoogte staander
 path: /en/docs/patterns/simon/options/collarstanwidth
 pattern: simon
-option: collarstandWidth
+option: staanderHoogte
 ---
 
-The height of your collar stand.
+De hoogte van je kraagstaander.
 
-> This is the main parameter to change the overall height of your collar. This defaults to a modern relatively slim collar, but you can crank it up all the way to Karl Lagerfeld style.
+> Dit is de belangrijkste parameter om de algemene hoogte van je kraag aan te passen. De standaard is een moderne en relatief smalle kraag, maar je kan helemaal los gaan richting Karl Lagerfeld.
