@@ -721,43 +721,43 @@ Zorg dat je de standaard naadwaarde in het oog houdt en - belangrijk - plooien v
 
 Als je blij bent met hoe je kraag gedriegd is, wordt het tijd om het ding definitief vast te stikken.
 
-We're going to start at center-back and sew all the way around the collar stand.
+We beginnen aan de middenrug, en gaan helemaal rond de kraagstaander stikken.
 
-#### Sew along the collar edge
+#### Stik langs de rand van de kraag
 
-![Sew along the collar edge](19d.png)
+![Stik langs de rand van de kraag](19d.png)
 
-To give more body to your collar, and firmly secure it in place we're going to sew along the top edge of the collar stand.
+Om wat meer body aan je kraag te geven en hem stevig vast te zetten gaan we langs de bovenrand van de kraagstaander stikken.
 
-Sew about half the seam allowance from your earlier edge-stitching. Make sure to stop a few cm before the end of the collar.
+Stik op ongeveer de helft van de naadwaarde van je eerdere stiksel. Stop een paar cm voor het einde van de kraag.
 
-> You need to stop a few cm before the end of the collar (note: the end of the collar, not the end of the collar stand) so that this seam is entirely covered when the collar is folded down.
+> Je moet een paar cm voor het einde van de kraag stoppen (opgelet: het einde van de kraag, niet het einde van de kraagstaander) zodat dit stiksel helemaal bedekt is wanneer de kraag naar beneden geplooid ligt.
 
-#### Press the collar
+#### Strijk de kraag
 
-![Press the collar](19.png)
+![Strijk de kraag](19.png)
 
-Now that your collar is attached, give it a good press.
+Nu je kraag vasthangt mag je hem nog eens goed strijken.
 
-### Step 20: Hem your shirt
+### Stap 20: Zoom je hemd
 
 ![Fold over and press](20a.png) ![FOld over again, and press again](20b.png) ![Sew the hem](20c.png)
 
-Time to finish the hem (that's the part you tuck in your trousers).
+Tijd om de zoom af te werken (dat is het stuk dat je in je broek stopt).
 
-Fold up half of the hem allowance and press down. Then, fold up again and press again.
+Plooi de helft van de zoomtoeslag naar boven en strijk. Plooi de zoom een tweede keer om en strijk opnieuw.
 
-Now, sew along upper edge to finish the hem.
+Stik nu langs de bovenrand om de zoom af te werken.
 
-### Step 21: Create buttonholes
+### Stap 21: Maak knoopsgaten
 
-If you haven't done so initially, mark all the places you should have buttonholes.
+Markeer alle plekken waar knoopsgaten nodig zijn, mocht je dit nog niet gedaan hebben.
 
-They sit along the front closure and at your cuffs.
+Ze zitten aan de sluiting vooraan en aan je manchetten.
 
-When you've marked them, make buttonholes there.
+Zodra je ze aangeduid hebt kan je knoopsgaten maken.
 
-### Step 22: Attach buttons
+### Stap 22: Naai knopen aan
 
 Pin your shirt closed to transfer the place of the buttonholes to the button sides.
 
