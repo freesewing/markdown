@@ -599,37 +599,37 @@ De langere naadwaarde moet bovenop de kortere (standaard) naadwaarde liggen.
 
 Zodra je dat bepaald hebt kan je de naadwaarde strijken.
 
-#### Fold under extra seam allowance
+#### Plooi de extra naadwaarde weg
 
-![Fold under extra seam allowance](15b.png)
+![Plooi de extra naadwaarde weg](15b.png)
 
-Now, fold the extra seam allowance for the flat-felled seam under the standard seam allowance.
+Plooi nu de extra naadwaarde voor de platte naad onder de standaard naadwaarde.
 
-You can use pins to hold this in place, but it's simpler to just press it.
+Je kan spelden gebruiken om dit op z'n plek te houden, maar gewoon strijken is makkelijker.
 
-> This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
+> Dit zal redelijk eenvoudig zijn aan de rechte stukken van de naad, maar een beetje lastiger aan de afgeronde stukken. Neem je tijd, en indien nodig kan je kleine knipjes in de extra naadwaarde geven zodat ze de curves mooier kan volgen.
 
-#### Sew the flat-felled seam
+#### Stik de platte naad
 
-Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
+Stik nu, langs de slechte kant van de stof, de naadwaarde door, net aan de rand waar ze onder de andere naadwaarde plooit.
 
-Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Hier is het belangrijk om op gelijke afstand van de naad te stikken. Als je een speciaal voetje voor je naaimachine hebt, kan dit helpen. Indien niet, wees dan gewoon voorzichtig.
 
-> It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
+> Het is belangrijker om op gelijke afstand van de naad te blijven dan om exact op de rand van de plooi te stikken. In een ideale wereld zit die plooi al op een gelijke afstand, maar als dit niet zo is, zorg dan gewoon dat je stiksel tenminste gelijk is. Zelfs al betekent dit dat je een beetje van de geplooide rand afwijkt.
 
-#### Press the flat-felled seam
+#### Strijk de platte naad
 
-When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
+Als je hiermee klaar bent strijk je de platte naad van de goede kant zodat ze mooi plat ligt.
 
-### Step 16: Close the side/sleeve seams
+### Stap 16: Sluit de zij- en mouwnaden
 
 ![Close the side/sleeve seams](16a.png) ![Remember, this is a flat-felles seam](16b.png)
 
-Place your shirt with the good sides together, and sew the side and sleeve seams to close the shirt.
+Leg je hemd met de goede kanten op elkaar, en stik de zij- en mouwnaden om het hemd te sluiten.
 
-> There is extra seam allowance on the sleeve and front sides to allow for the creation of the flat-felled seam. As such, be careful to not align the fabric edge, but align the seam so that the extra seam allowance sits out 1cm.
+> Er is extra naadwaarde aan de mouw en de voorpanden om een platte naad te maken. Zorg dus dat je niet de rand van de stof gelijk legt, maar leg de stiklijnen zo op elkaar dat de extra naadwaarde een centimeter uitsteekt.
 
-### Step 17: Flat-fell the side/sleeve seams
+### Stap 17: Platte naad aan de zij- en mouwnaden
 
 #### Strijk naadwaarde naar één kant
 
@@ -641,37 +641,37 @@ De langere naadwaarde moet bovenop de kortere (standaard) naadwaarde liggen.
 
 Zodra je dat bepaald hebt kan je de naadwaarde strijken.
 
-#### Fold under extra seam allowance
+#### Plooi de extra naadwaarde weg
 
-![Fold under extra seam allowance](15b.png)
+![Plooi de extra naadwaarde weg](15b.png)
 
-Now, fold the extra seam allowance for the flat-felled seam under the standard seam allowance.
+Plooi nu de extra naadwaarde voor de platte naad onder de standaard naadwaarde.
 
-You can use pins to hold this in place, but it's simpler to just press it.
+Je kan spelden gebruiken om dit op z'n plek te houden, maar gewoon strijken is makkelijker.
 
-> This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
+> Dit zal redelijk eenvoudig zijn aan de rechte stukken van de naad, maar een beetje lastiger aan de afgeronde stukken. Neem je tijd, en indien nodig kan je kleine knipjes in de extra naadwaarde geven zodat ze de curves mooier kan volgen.
 
-#### Sew the flat-felled seam
+#### Stik de platte naad
 
-Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
+Stik nu, langs de slechte kant van de stof, de naadwaarde door, net aan de rand waar ze onder de andere naadwaarde plooit.
 
-Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Hier is het belangrijk om op gelijke afstand van de naad te stikken. Als je een speciaal voetje voor je naaimachine hebt, kan dit helpen. Indien niet, wees dan gewoon voorzichtig.
 
-> It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
+> Het is belangrijker om op gelijke afstand van de naad te blijven dan om exact op de rand van de plooi te stikken. In een ideale wereld zit die plooi al op een gelijke afstand, maar als dit niet zo is, zorg dan gewoon dat je stiksel tenminste gelijk is. Zelfs al betekent dit dat je een beetje van de geplooide rand afwijkt.
 
-#### Press the flat-felled seam
+#### Strijk de platte naad
 
-When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
+Als je hiermee klaar bent strijk je de platte naad van de goede kant zodat ze mooi plat ligt.
 
-### Step 18: Attach cuffs to sleeves
+### Stap 18: Bevestig de manchetten aan de mouwen
 
-#### Pin cuff in place
+#### Speld de manchet op z'n plaats
 
-![Pin cuff in place](18a.png)
+![Speld de manchet op z'n plaats](18a.png)
 
-You need to insert the sleeve between the two layers of your cuff, making sure that that good side of the fabric sits against the side of your cuff that has the interfacing applied to it.
+Je moet de mouw tussen de twee lagen van de manchet schuiven, en let op dat de goede kant van de stof aan de kant van de manchet zit die tussenvoering heeft.
 
-You will need to pin this in place, because depending on how long your sleeve placket is, it might be hard or even impossible to get this to lie flat.
+Je zal dit moeten spelden, want afhankelijk van hoe lang je mouwsplit is, is dit moeilijk of zelfs onmogelijk om plat te leggen.
 
 Also note that your sleeve edge will be longer than your cuff (how much longer depends on the sleeve drape). You need to make one or a few folds in your sleeve to accommodate for this.
 
