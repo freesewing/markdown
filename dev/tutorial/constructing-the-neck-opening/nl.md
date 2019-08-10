@@ -83,14 +83,14 @@ paths.neck = new Path()
 - Dat volgen we op met een `Path.move()`-call die één punt als argument gebruikt
 - En dan is er een `Path.curve()`-call die drie punten als argumenten gebruikt
 
-If you've read about [FreeSewing's basic concepts](/concepts) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
+Als je de [basisconcepten van FreeSewing](/concepts) gelezen hebt, weet je dat paden altijd beginnen met een `move()`-operatie. In dit geval hebben we onze `right`-punten verplaatst.
 
-From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and `bottomCp2` as control points.
+Van daar hebben we een Béziercurve getekend naar het `bottom`-punt door `rightCp1` en `bottomCp2` als controlepunten te gebruiken.
 
-When all is said and done, we now have a quarter of our neck opening:
+Als dat allemaal gebeurd is, hebben we nu een kwart van de halsopening:
 
 <example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
-The only problem is, we have no guarantee whatsoever that this opening is the correct size.
+Eén probleem: we hebben geen enkele garantie dat deze opening de juiste afmeting heeft.
 
-Rather than hope it is the correct size, you'll make sure it is next.
+We gaan niet gewoon hopen dat hij de juiste grootte heeft. In de volgende stap zorgen we ervoor dat de afmeting klopt.
