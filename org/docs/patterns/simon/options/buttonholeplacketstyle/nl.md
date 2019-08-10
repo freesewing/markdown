@@ -1,8 +1,8 @@
 ---
-title: Buttonhole placket style
+title: Stijl knoopsgatenpat
 path: /en/docs/patterns/simon/options/buttonholeplacketstyle
 pattern: simon
-option: buttonholePlacketStyle
+option: knoopsgatPatStijl
 ---
 
 Do you want classic buttonhole placket, or a seamless one (sometimes called French style)?
