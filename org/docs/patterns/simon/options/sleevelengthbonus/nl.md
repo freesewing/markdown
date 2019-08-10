@@ -5,4 +5,4 @@ pattern: simon
 option: mouwLengteBonus
 ---
 
-How much extra length do you want for your sleeves?
+Hoeveel extra langte wil je aan je mouwen?
