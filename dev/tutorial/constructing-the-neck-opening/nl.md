@@ -44,7 +44,7 @@ points.right = new Point(measurements.headCircumference / 10, 0);
 ```
 
 - We voegen een punt met de naam `right` toe aan `points`, waar alle punten van het patroondeel opgeslagen zitten
-- We gebruiken de Point constructor, die twee dingen nodig heeft: de waarden voor punten X en Y
+- We gebruiken de Point constructor, die twee argumenten nodig heeft: de waarden voor punten X en Y
 - De waarde voor X is `measurements.headCircumference / 10`
 - De waarde voor Y is `0`
 
@@ -56,21 +56,21 @@ points.rightCp1 = points.right
 ```
 
 - We voegen een punt toe met de naam `rightCp1`, dat het controlepunt of *control point* wordt voor het rechterdeel
-- Instead of using the Point constructor, we're calling the `Point.shift()` method on an existing point
-- It takes two arguments: The angle to shift towards, and the distance
-- You can see that we're shifting 90 degrees (that means up) but the distance uses another method
-- The `Point.dy()` method returns the delta along the Y axis between the point you call it on and the point you pass it
-- We shift half of the Y-delta
+- In plaats van de Point constructor te gebruiken, passen we de `Point.shift()`-methode toe op een bestaand punt
+- De Point constructor vereist twee argumenten: de hoek waarin je het punt verschuift, en de afstand
+- Zoals je ziet, verschuiven we het punt 90 graden, naar boven dus, maar voor de afstand hebben we een andere methode nodig
+- De `Point.dy()`-methode plaatst de delta terug de Y-as tussen het punt waarop je het afroept, en het punt waarheen je het beweegt
+- We verschuiven de helft van de Y-delta
 
-The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
+Het volgende punt is weer heel gelijkaardig, behalve dat we het deze keer naar rechts verschuiven (0 graden) voor de helft van de X-delta tussen de punten `bottom` en `right`.
 
 <tip>
 
-Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
+Er bestaan een hele hoop van dit soort methodes voor punten. Je vindt ze allemaal terug in [de Point API-documentatie](/api/point).
 
 </Tip>
 
-The next line introduces you to something new: Paths:
+De volgende regel komt met 'paden' op de proppen. Die zijn nieuw:
 
 ```js
 paths.neck = new Path()
@@ -78,10 +78,10 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-- We're adding a path named `neck` to `paths` which holds our part's paths
-- We're using the Path constructor, which takes no arguments
-- We're following up with a `Path.move()` call that takes one Point as argument
-- Then, there's a `Path.curve()` call that takes 3 points as arguments
+- We voegen een pad toe met de naam `neck` aan `paths`, waar alle paden van ons patroondeel opgeslagen zitten
+- We gebruiken de Path constructor, die geen argumenten nodig heeft
+- Dat volgen we op met een `Path.move()`-call die één punt als argument gebruikt
+- En dan is er een `Path.curve()`-call die drie punten als argumenten gebruikt
 
 If you've read about [FreeSewing's basic concepts](/concepts) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
 
