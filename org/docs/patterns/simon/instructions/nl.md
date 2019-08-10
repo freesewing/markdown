@@ -496,40 +496,40 @@ Aangezien je deze schoudernaden gestreken hebt zou alles mooi plat moeten liggen
 
 > Als je bij het uitknippen van je patroondelen het mouwsplit nog niet ingeknipt had volgens de aangegeven lijn, moet je dat eerst doen.
 
-- Fold over the cuff guard, and press down this seam.
-- Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
-- Fold it twice on the lines so that the unfinished seam is tucked inwards.
-- Make your folds so that the upper folds sits ever so slightly further than the seam you already made.
-- Press everything down, and then edge-stitch the cuff guard in place.
+- Plooi de mouwsplitreep om, en strijk deze naad.
+- Leg je mouw met de goede kant naar boven, en haal de mouwsplitreep door de knip in de mouw.
+- Plooi twee keer op de aangegeven lijnen zodat de naadwaarde ingepakt zit.
+- Leg je plooien zo zodat de geplooide rand iets over de naad heen ligt.
+- Strijk alles goed plat, en stik de mouwsplitreep door aan de zijkant, door alle lagen heen.
 
-#### Fold and press the placket
+#### Plooi en strijk de mouwsplitbies
 
-![Fold and press the placket](13d.png)
+![Plooi en strijk de mouwsplitbies](13d.png)
 
-Origami time! We're going to fold the sleeve placket overlap using the marked fold lines as our guide. This will be a lot easier if you press between each fold.
+Tijd voor origami! We gaan de mouwsplitbies plooien, met de aangegeven vouwlijnen als gids. Dit is veel makkelijker als je elke plooi strijkt voor je de volgende maakt.
 
-- First, fold the outer edges of the placket inwards.
-- Next, fold the entire thing double.
-- Then, fold down both tips into a nice pointy shape.
-- Now give it a final good press.
+- Plooi eerst de buitenste randen van de mouwsplitbies naar binnen.
+- Plooi dan het hele spel dubbel.
+- Plooi daarna de twee hoekjes tot een mooie punt.
+- Strijk alles nog eens grondig.
 
 @[youtube](kgd5eubxShM)
 
-> Here's [a very short YouTube video of me folding the placket](https://www.youtube.com/watch?v=kgd5eubxShM).
+> Hier is [een heel kort filmpje van mij die een mouwsplitbies plooit](https://www.youtube.com/watch?v=kgd5eubxShM).
 
-#### Pin placket in place
+#### Speld de mouwsplitbies
 
-![Slide placket in position](13e.png) ![Pin placket in place](13f.png)
+![Slide placket in position](13e.png) ![Speld de mouwsplitbies](13f.png)
 
-Place your sleeve down with the good side up. The guard we have sewn in earlier sits against the other unfinished fabric edge of where you cut into your sleeve.
+Leg je mouw neer met de goede kant naar omhoog. De mouwsplitreep die we eerder gemaakt hebben zit tegen de andere onafgewerkte rand van de knip die we in onze mouw gemaakt hebben.
 
-Place your placket around that edge, one side above it, one underneath.
+Leg je mouwsplitbies rond die onafgewerkte rand, één kant erbovenop, één kant eronder.
 
-You need to slide the placket onto your sleeve until the middle of it (the tip) aligns with the cut in your sleeve.
+Je moet de mouwsplitbies over de mouw heen schuiven tot het midden (het puntje) overeenkomt met de knip in je mouw.
 
-The idea is that the placket closes up the unfinished edge, but also covers the guard of the other edge.
+Het idee is dat de mouwsplitbies de onafgewerkte rand verbergt, en meteen ook de mouwsplitreep bedekt.
 
-When you've got it where you want it, pin the placket down.
+Als dit er voor jou goed uitziet, speld het dan maar vast.
 
 #### Sew the sleeve placket
 
