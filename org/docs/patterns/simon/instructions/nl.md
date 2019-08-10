@@ -561,43 +561,43 @@ Leg je hemd open zodat de voor- en achterkanten plat liggen met de goede kanten 
 
 Leg nu je mouw bovenop met de goede kant naar beneden, en leg het merkteken aan de bovenkant van de mouw gelijk met de schoudernaad.
 
-> Be careful, your sleeve is not symmetric, so be sure to have the double notch (and cuff guard) on the back side, and the single notch on the front side.
+> Let op: je mouw is niet symmetrisch, dus zorg dat de het dubbele merkteken (en de kant met het mouwsplit) aan de rug legt, en het enkele merkteken aan het voorpand.
 > 
-> Also note that the double notches on the back of your sleeve do not have corresponding notches on the back. That's because it should match op with the seam where your yoke joins the back.
+> Hou ook in gedachten dat het dubbele merkteken aan de achterkant van de mouwkop geen overeenkomstige merktekens heeft op het rugpand. Dit is omdat het zou moeten overeenkomen met de naad van de schouderpas en het rugpand.
 
-You now need to pin the sleeve to the armhole. To do so, make sure to:
+Je moet nu de mouw in het armsgat spelden. Om dit te doen, let dan op dat:
 
-- Match the start and end of the sleevehead to the start and end of the armhole
-- Match the notches on the sleevehead to the notches on the back and fronts
-- Distribute the sleevecap ease between the notches as shown
+- Het begin en het einde van de mouwkop overeenkomen met het begin en het einde van het armsgat
+- De merktekens op de mouwkop overeenkomen met die op de voorpanden en het rugpand
+- De extra stof in de mouwkop tussen de merktekens verdeeld wordt, zoals getoond
 
-#### Distribute sleavecap ease
+#### Verdeel extra stof in de mouwkop
 
 ![Distribute the sleevecap ease](14b.png)
 
-The default sleevecap ease for this pattern is 0.5cm. If you have sleevecap ease, you need to distribute that extra length evenly between the notches as shown.
+De standaard hoeveelheid extra stof in de mouwkop van dit patroon is 0.5 cm. Als je extra stof in de mouwkop hebt moet je die extra lengte gelijk verdelen tussen de merktekens, zoals getoond.
 
-> If you are unsure what sleevecap ease is, have a look at the [documentation for the sleevecap ease pattern option](/en/docs/patterns/simon/options#sleevecapEase).
+> Als je niet zeker bent wat deze extra stof is, bekijk dan even de [documentatie voor de optie voor extra stof in de mouwkop](/en/docs/patterns/simon/options#sleevecapEase).
 
-#### Sew sleeve in armhole
+#### Stik mouw in armsgat
 
-When you've got your sleeve neatly pinned in your armhole, sew it in place. Be careful to avoid any pleats in the part between the notches where you need to ease in the sleevecap ease.
+Wanneer je je mouw netjes in het armsgat gespeld hebt, kan je ze vaststikken. Let op dat je geen plooien maakt in het stuk tussen de merktekens waar je de extra stof moet verdelen.
 
-> Needless to say, but I'll say it anyway: Repeat this step for the other sleeve.
+> Het zou niet nodig moeten zijn, maar ik ga het toch doen: Herhaal deze stap voor de andere mouw.
 
-### Step 15: Flat-fell armhole seam
+### Stap 15: Platte armsgatnaad
 
-#### Press seam allowance to one side
+#### Strijk naadwaarde naar één kant
 
 ![Press seam allowance to once side](15a.png)
 
-Lay down your freshly sewn sleeve seam with the good side down
+Leg je versgestikte mouwnaad neer met de goede kant naar beneden
 
-We are going to press the seam allowance to one side. To do so, identify the seam allowance that is wider (for the flat-felled seam).
+We gaan de naadwaarde naar één kant strijken. Om dit te doen kijk je aan welke kant de naadwaarde breder is (voor de platte naad).
 
-The longer seam allowance needs to lie on top of the shorter (standard seam allowance).
+De langere naadwaarde moet bovenop de kortere (standaard) naadwaarde liggen.
 
-Once you have verified that, press down the seam allowance.
+Zodra je dat bepaald hebt kan je de naadwaarde strijken.
 
 #### Fold under extra seam allowance
 
@@ -631,15 +631,15 @@ Place your shirt with the good sides together, and sew the side and sleeve seams
 
 ### Step 17: Flat-fell the side/sleeve seams
 
-#### Press seam allowance to one side
+#### Strijk naadwaarde naar één kant
 
 ![Press the seam allowance to one side](15a.png)
 
-We are going to press the seam allowance to one side. To do so, identify the seam allowance that is wider (for the flat-felled seam).
+We gaan de naadwaarde naar één kant strijken. Om dit te doen kijk je aan welke kant de naadwaarde breder is (voor de platte naad).
 
-The longer seam allowance needs to lie on top of the shorter (standard seam allowance).
+De langere naadwaarde moet bovenop de kortere (standaard) naadwaarde liggen.
 
-Once you have verified that, press down the seam allowance.
+Zodra je dat bepaald hebt kan je de naadwaarde strijken.
 
 #### Fold under extra seam allowance
 
