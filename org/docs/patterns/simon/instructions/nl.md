@@ -673,53 +673,53 @@ Je moet de mouw tussen de twee lagen van de manchet schuiven, en let op dat de g
 
 Je zal dit moeten spelden, want afhankelijk van hoe lang je mouwsplit is, is dit moeilijk of zelfs onmogelijk om plat te leggen.
 
-Also note that your sleeve edge will be longer than your cuff (how much longer depends on the sleeve drape). You need to make one or a few folds in your sleeve to accommodate for this.
+Merk ook op dat de rand van je mouw langer is dan je manchet (hoeveel langer hangt af van het volume van de mouw). Je zal één of meerdere plooien moeten maken om dit verschil weg te werken.
 
-> Your pattern contains helplines on the sleeve to help you place to folds.
+> Het patroon heeft hulplijnen op de mouw om de plooien de plaatsen.
 > 
-> Take your time to pin everything carefully in place. We are going to edge-stitch this later, so it's important that front and back of your cuff align nicely.
+> Neem je tijd om alles nauwkeurig te spelden. We gaan dit later smal doorstikken, dus het is belangrijk dat de voor- en achterkant van de manchet mooi overeenkomen.
 
-#### Edge-stitch cuffs to sleeves
+#### Stik de manchetten smal door
 
-![Edge-stitch cuffs to sleeves](18b.png)
+![Stik de manchetten smal door](18b.png)
 
-Once everything is pinned in place, edge stitch along the edge of your cuff to attach it to your sleeve.
+Zodra alles vastgespeld is kan je de rand van de manchet smal doorstikken om ze aan je mouw te bevestigen.
 
-It's important to catch both outer and inner layer of your cuff on the edge.
+Het is belangrijk dat je zowel de buitenste als de binnenste laag van de manchet mee vaststikt.
 
-> Make sure to edge-stitch from the outer layer side (the good side of your sleeve) and keep it parallel with your cuff edge.
+> Zorg dat je langs de goede kant doorstikt, en hou het stiksel parallel met de rand van je manchet.
 
-When you're done, give your cuffs a good press.
+Strijk alles nog eens grondig als je dit gedaan hebt.
 
-#### Top-stitch the cuffs
+#### Sierstiksel op de manchetten
 
-![Top-stitch the cuffs](18c.png)
+![Sierstiksel op de manchetten](18c.png)
 
-> Make sure to press your cuffs before you do this.
+> Let op dat je je manchetten strijkt voor je dit doet.
 
-Top-stitch around your cuff at a distance from the edge that is a bit less than your seam allowance. Go all the way around your cuff.
+Stik rond je manchet op een afstand van de rand die een beetje kleiner is dan je naadwaarde. Ga helemaal rond je manchet.
 
-### Step 19: Attach the collar
+### Stap 19: Bevestig de kraag
 
-#### Baste collar in place
+#### Drieg de kraag vast
 
-![Baste collar in place](19a.png)
+![Drieg de kraag vast](19a.png)
 
-This is an important seam, so we are going to baste this in place to make sure it sits exactly right before we sew it.
+Dit is een belangrijke naad, en daarom driegen we alles vast zodat we zeker zijn dat het helemaal juist is voor we het naaien.
 
-Start at the center back, and place the seam allowance of your back part between your two collar stands. Work your way around one side, and then do the other.
+Begin aan de middenrug, en schuif de naadwaarde van het rugpand tussen je kraagstaanders. Ga verder langs één kant, en doe dan de andere.
 
-Make sure to respect the standard seam allowance and - important - avoid any wrinkles.
+Zorg dat je de standaard naadwaarde in het oog houdt en - belangrijk - plooien vermijdt.
 
-> While your collar stand is relatively straight, we are going to sew it to what is essentially a hole in your shirt.
+> Ook al is je kraagstaander, redelijk recht, hij wordt bevestigd aan wat in feite een gat in je hemd is.
 > 
-> That's a bit tricky, so take extra care at those parts that are most curved: where the back joins the fronts.
+> Dat is een beetje lastig, dus wees extra nauwkeurig aan de delen die het meest gebogen zijn: aan de schoudernaden.
 
-#### Edge-stitch collar in place
+#### Stik de kraag smal door
 
-![Edge-stitch collar in place](19b.png) ![Edge-stitch collar in place](19c.png)
+![Stik de kraag smal door](19b.png) ![Stik de kraag smal door](19c.png)
 
-When you're happy with how you've basted your collar in place, it's time to sew that thing down.
+Als je blij bent met hoe je kraag gedriegd is, wordt het tijd om het ding definitief vast te stikken.
 
 We're going to start at center-back and sew all the way around the collar stand.
 
