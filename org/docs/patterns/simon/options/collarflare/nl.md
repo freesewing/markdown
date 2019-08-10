@@ -1,10 +1,10 @@
 ---
-title: Collar flare
+title: Spreiding kraag
 path: /en/docs/patterns/simon/options/collarflare
 pattern: simon
-option: collarFlare
+option: kraagSpreid
 ---
 
-How much the collar flares out (at the collar edge side), rather than being straight.
+Hoeveel de kraag verbreedt (aan de rand van de kraag) in plaats van recht te zijn.
 
-> This influences the length of your collar tips.
+> Dit heeft invloed op de lengte van de punten van je kraag.
