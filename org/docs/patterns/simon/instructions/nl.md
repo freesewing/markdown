@@ -484,17 +484,17 @@ Aangezien je deze schoudernaden gestreken hebt zou alles mooi plat moeten liggen
 
 > Zorg dat je op de schouderpas doorstikt, waar je alle naadwaarde mee vastzet, en niet op het voorpand.
 
-### Step 13: Construct the sleeve placket
+### Stap 13: Maak het mouwsplit
 
-#### Sew in the cuff guard
+#### Stik de mouwsplitreep
 
-![Sew in the cuff guard](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
+![Stik de mouwsplitreep](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
 
-- Place your sleeve with the good side down, and your cuff guard on top, also with the good side down.
-- Align the edge of your cuff guard (aka sleeve placket underlap) with the cut in your sleeve, on the side shortest to the side seam.
-- Now sew along the fold line marked on the cuff guard, closest to the edge.
+- Leg je mouw met de goede kant naar beneden, en de mouwsplitreep bovenop, ook met de goede kant naar beneden.
+- Leg de rand van de mouwsplitreep (de onderlap van het mouwsplit) gelijk met de knip in de mouw, aan de kant het dichtst bij de zijnaad.
+- Stik nu op de vouwlijn die op de mouwsplitreep aangeduid is, het dichtst bij de rand.
 
-> If during cutting out your pattern pieces you had not cut into your sleeve on the line where the sleeve placket needs to be put in, you need to do that first.
+> Als je bij het uitknippen van je patroondelen het mouwsplit nog niet ingeknipt had volgens de aangegeven lijn, moet je dat eerst doen.
 
 - Fold over the cuff guard, and press down this seam.
 - Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
