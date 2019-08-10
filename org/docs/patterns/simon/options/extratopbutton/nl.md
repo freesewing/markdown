@@ -11,8 +11,8 @@ Wil je een extra knoop tussen de bovenste knoop vooraan en de knoop aan de kraag
 > 
 > Deze extra knoop zorgt dat je je kraag kan losmaken terwijl je hemd toch relatief gesloten blijft.
 > 
-> Het is een extra knoop die je kan gebruiken als je er na het werk op café nog steeds goed wil uitzien, met je bovenste knoop en je das los. The extra button is also great if you are wearing your shirt under an overgarment with the top button undone. For example, under a sweater.
+> Het is een extra knoop die je kan gebruiken als je er na het werk op café nog steeds goed wil uitzien, met je bovenste knoop en je das los. De extra knoop is ook geweldig als je je hemd onder een ander kledingstuk draagt met de bovenste knoop los. Onder een trui bijvoorbeeld.
 > 
-> Do not include the top button if you want a more casual look.
+> Laat deze knoop weg als je een eerder casual uitzicht wil.
 > 
-> This extra button is added to the number of buttons on the front. It does not replace another button.
+> Deze extra knoop wordt toegevoegd aan het aantal knopen vooraan. Hij vervangt geen andere knoop.
