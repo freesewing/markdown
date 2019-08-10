@@ -1,13 +1,13 @@
 ---
-title: Creating the closure
+title: De sluiting ontwerpen
 order: 210
 ---
 
-Things are starting to look good, but we can't fit the bib over the baby's head like this. So we must create a closure. We'll let the straps overlap at the end, and put in a snap.
+Het begint er goed uit te zien, maar op deze manier krijgen we het slabbetje niet over baby's hoofdje. We hebben een sluiting nodig. We gaan de koordjes aan het uiteinde laten overlappen en er een drukknoop op zetten.
 
-To round the straps, we'll use something new: **a macro**.
+Om de koordjes rond te laten eindigen, gebruiken we iets nieuws: **een macro**.
 
-Macros are little helpers that automate things that would otherwise get rather tedious. There are macros to add titles to your pattern, or grainline indicators, a scalebox, and there's a macro to round corners. The `round` macro.
+Macro's zijn kleine helpers die dingen automatiseren die anders heel snel heel saai zouden worden. Er zijn macro's om titels toe te voegen aan je patroon, of aanwijzingen van de stofrichting, een schaalkader, ... en er is dus ook een macro om hoeken af te ronden. De `round`-macro.
 
 Before we can use it, we have to update our `part.shorthand()` call to indicate that we'd also like to make use of macros. Simple add `macro` at the end:
 
@@ -50,13 +50,13 @@ macro("round", {
 });
 ```
 
-<Warning>
+<warning>
 
 FIXME: Add link to macro/extend docs
 
 </Warning>
 
-<Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
 Like our neck opening, we've only drawn half since we can simply copy the points to the other side.
 
