@@ -1,8 +1,8 @@
 ---
-title: Button placket width
+title: Breedte knopenpat
 path: /en/docs/patterns/simon/options/buttonplacketwidth
 pattern: simon
-option: buttonPlacketWidth
+option: knoopPatBreedte
 ---
 
-The width of your button placket.
+De breedte van het knopenpat.
