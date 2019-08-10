@@ -1,8 +1,8 @@
 ---
-title: Buttons
+title: Knopen
 path: /en/docs/patterns/simon/options/buttons
 pattern: simon
-option: buttons
+option: knopen
 ---
 
-The number of buttons on your shirt. Excluding cuff buttons, and the optional extra top button.
+Hoeveel knopen je hemd heeft. Knopen aan de manchetten worden niet meegeteld, een optionele extra knoop bovenaan ook niet.
