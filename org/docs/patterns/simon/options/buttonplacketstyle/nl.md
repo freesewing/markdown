@@ -1,12 +1,12 @@
 ---
-title: Button placket style
+title: Stijl knopenpat
 path: /en/docs/patterns/simon/options/buttonplacketstyle
 pattern: simon
-option: buttonPlacketStyle
+option: knoopPatStijl
 ---
 
-Do you want the button placket to be sewn in place (classic style), or folded back and held in place by the buttons (seamless style)?
+Wil je dat het knopenpat vastgenaaid wordt (klassieke stijl), of omgeplooid en op zijn plaats gehouden met knopen (naadloze stijl)?
 
-> Seamless is less work, and it looks great.
+> Naadloos is minder werk, en ziet er geweldig uit.
 > 
-> As seamless is only possible on a **cut-on** on placket, this option is ignored if you chose **seperate** as your button placket type.
+> Aangezien naadloos enkel mogelijk is bij een **aangeknipt** knoopsgatenpat wordt deze optie genegeerd and je voor een **apart** knoopsgatenpat gekozen hebt.
