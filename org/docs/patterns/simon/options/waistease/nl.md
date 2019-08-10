@@ -5,4 +5,4 @@ pattern: simon
 option: tailleOver
 ---
 
-How much room do you want at the waist?
+Hoeveel ruimte wil je aan je taille?
