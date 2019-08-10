@@ -1,17 +1,17 @@
 ---
-title: Extra top button
+title: Extra knoop bovenaan
 path: /en/docs/patterns/simon/options/extratopbutton
 pattern: simon
-option: extraTopButton
+option: extraBovenKnoop
 ---
 
-Do you want an extra button between the top front button and collar stand button?
+Wil je een extra knoop tussen de bovenste knoop vooraan en de knoop aan de kraagstaander?
 
-> #### Why an extra button?
+> #### Waarom een extra knoop?
 > 
-> This extra button allows you to undo your collar button with your shirt staying relatively closed.
+> Deze extra knoop zorgt dat je je kraag kan losmaken terwijl je hemd toch relatief gesloten blijft.
 > 
-> It's an extra button you'll want if you plan to still look good in the bar after your work day with your top button undone and your tie somewhat loose. The extra button is also great if you are wearing your shirt under an overgarment with the top button undone. For example, under a sweater.
+> Het is een extra knoop die je kan gebruiken als je er na het werk op café nog steeds goed wil uitzien, met je bovenste knoop en je das los. The extra button is also great if you are wearing your shirt under an overgarment with the top button undone. For example, under a sweater.
 > 
 > Do not include the top button if you want a more casual look.
 > 
