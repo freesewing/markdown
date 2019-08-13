@@ -2,7 +2,7 @@
 title: Normes communautaires
 ---
 Merci de faire partie de la communauté freesewing. 
-En vous engageant avec nous, où en vous engageant avec d'autres, merci de garder en tête les règles simples qui suivent : 
+En vous engageant avec nous, où en vous engageant avec d'autres, merci de garder en tête les règles simples qui suivent: 
 
 ## Soyez gentils
 Nous ne pouvons accepter des commentaires qui sont soit injurieux en eux-même ou clairement injurieux envers les autres. 
@@ -28,12 +28,4 @@ Les commentaires qui sont diffamatoires, illégaux, ou qui incluent des infracti
 Prendre la place d'autres personnes ou utiliser de faux comptes n'est également pas à faire.
   
 Nous supprimerons ces types de commentaires et seront susceptibles de bannir les utilisateurs qui continueront d'enfreindre ces règles.
-
-<Note>
-
-Pour de plus amples informations sur nos valeurs, merci de bien vouloir consulter 
-notre [Code de Conduite](https://fr.freesewing.dev/contributor/code-of-conduct) 
-qui s'applique à tous les responsables et les contributeurs de freesewing.
-
-<Note>
 
