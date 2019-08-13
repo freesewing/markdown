@@ -11,6 +11,6 @@ Hoeveel extra ruimte wil je in de mouwkop?
 > 
 > De hoeveelheid extra ruimte in de mouwkop bepaalt hoe de mouw over de schouder valt.
 > 
-> More ease makes the sleeve curl into the seam as you see on suit jackets. Less ease makes the sleeve lie flat.
+> Meer ruimte zorgt voor een ronde mouwkop, zoals je zou zien op een jas. Minder ruimte geeft de mouw een platter aanzicht.
 > 
 > Hoe lichter je stof, hoe minder extra ruimte je wil toevoegen.

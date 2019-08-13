@@ -5,10 +5,10 @@ pattern: simon
 option: lengteBonus
 ---
 
-How much shirt do you want to be able to tuck in your trousers?
+Hoeveel hemd wil je in je broek kunnen proppen?
 
 > #### Waarom?
 > 
-> When bending over backwards at the job, you still want to look good. Keeping your shirt tucked neatly in your trousers is why you need this extra length. Nobody needs to know about that Justin Bieber tattoo on your lower back.
+> Al hielenlikkend op het werk wil je er nog steeds goed uitzien natuurlijk. Deze extra lengte heb je nodig om je hemd netjes in je broek te houden. Niemand hoeft iets te weten over die Justin Bieber-tattoo op je onderrug.
 > 
-> If you want a more casual shirt to wear over your trousers, you will want to lower this.
+> Als je een casual hemd wil dat je niet instopt verlaag je deze waarde best.

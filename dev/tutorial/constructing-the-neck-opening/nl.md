@@ -3,11 +3,11 @@ title: De halsopening uitwerken
 order: 160
 ---
 
-Your goal is to construct a slightly oval neck opening that has a circumference that is the `headCircumference` measurements multiplied by the `neckRatio` option.
+Wat je nodig hebt, is een licht ovale halsopening met een doorsnee die overeenkomt met de hoofdomtrek `headCircumference`, vermenigvuldigd met de optie `neckRatio`.
 
-That might involve some trial and error. But since the neck opening will be symetric both horizontal and vertical, you only need to construct one quadrant.
+Het zou kunnen dat je dit een paar keer moet proberen voordat het goed zit. Maar aangezien de halsopening zowel horizontaal als verticaal symmetrisch is, moet je maar één kwadrant opbouwen.
 
-We'll be adding some points to our pattern to do just that. But we want to have access to our measurements and options to do so. For this, you first update the shorthand call to indicate you also want access to `measurements` and `options`:
+Om dat te doen, voegen we een paar punten toe aan het patroon. Eerst moeten we toegang krijgen tot de afmetingen en opties. Daarvoor moet je eerst de shorthand call updaten om aan te geven dat je toegang wil tot `measurements` en `options`:
 
 ```js
 let {
@@ -20,7 +20,7 @@ let {
 } = part.shorthand();
 ```
 
-Great. Now let's get to work:
+Top. Nu kunnen we beginnen:
 
 ```js
 // Design pattern here
@@ -37,40 +37,40 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-You've added some points to your part, and drawn your first path. Let's look at each line in detail:
+Je hebt een aantal punten toegevoegd aan je patroondeel en je eerste pad getekend. Even kijken naar elke lijn in detail:
 
 ```js
 points.right = new Point(measurements.headCircumference / 10, 0);
 ```
 
-- We're adding a point named `right` to `points` which holds our part's points
-- We're using the Point constructor, which takes two arguments: The points X and Y values
-- The X value is `measurements.headCircumference / 10`
-- The Y value is `0`
+- We voegen een punt met de naam `right` toe aan `points`, waar alle punten van het patroondeel opgeslagen zitten
+- We gebruiken de Point constructor, die twee argumenten nodig heeft: de waarden voor punten X en Y
+- De waarde voor X is `measurements.headCircumference / 10`
+- De waarde voor Y is `0`
 
-The `bottom` part is very similar, so let's skip to the next line:
+Het deel voor `bottom` is bijna identiek, dus laten we verdergaan met de volgende regel:
 
 ```js
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
 ```
 
-- We're adding a point named `rightCp1`, which will become the *control point* of the right part
-- Instead of using the Point constructor, we're calling the `Point.shift()` method on an existing point
-- It takes two arguments: The angle to shift towards, and the distance
-- You can see that we're shifting 90 degrees (that means up) but the distance uses another method
-- The `Point.dy()` method returns the delta along the Y axis between the point you call it on and the point you pass it
-- We shift half of the Y-delta
+- We voegen een punt toe met de naam `rightCp1`, dat het controlepunt of *control point* wordt voor het rechterdeel
+- In plaats van de Point constructor te gebruiken, passen we de `Point.shift()`-methode toe op een bestaand punt
+- De Point constructor vereist twee argumenten: de hoek waarin je het punt verschuift, en de afstand
+- Zoals je ziet, verschuiven we het punt 90 graden, naar boven dus, maar voor de afstand hebben we een andere methode nodig
+- De `Point.dy()`-methode plaatst de delta terug de Y-as tussen het punt waarop je het afroept, en het punt waarheen je het beweegt
+- We verschuiven de helft van de Y-delta
 
-The next point is very similar again, except that this time we're shifting to the right (0 degrees) for half of the X-delta between points `bottom` and `right`.
+Het volgende punt is weer heel gelijkaardig, behalve dat we het deze keer naar rechts verschuiven (0 graden) voor de helft van de X-delta tussen de punten `bottom` en `right`.
 
-<Tip>
+<tip>
 
-Points come with a bunch of these methods. You can find them all in [the Point API docs](/api/point).
+Er bestaan een hele hoop van dit soort methodes voor punten. Je vindt ze allemaal terug in [de Point API-documentatie](/api/point).
 
 </Tip>
 
-The next line introduces you to something new: Paths:
+De volgende regel komt met 'paden' op de proppen. Die zijn nieuw:
 
 ```js
 paths.neck = new Path()
@@ -78,19 +78,19 @@ paths.neck = new Path()
   .curve(points.rightCp1, points.bottomCp2, points.bottom)
 ```
 
-- We're adding a path named `neck` to `paths` which holds our part's paths
-- We're using the Path constructor, which takes no arguments
-- We're following up with a `Path.move()` call that takes one Point as argument
-- Then, there's a `Path.curve()` call that takes 3 points as arguments
+- We voegen een pad toe met de naam `neck` aan `paths`, waar alle paden van ons patroondeel opgeslagen zitten
+- We gebruiken de Path constructor, die geen argumenten nodig heeft
+- Dat volgen we op met een `Path.move()`-call die één punt als argument gebruikt
+- En dan is er een `Path.curve()`-call die drie punten als argumenten gebruikt
 
-If you've read about [FreeSewing's basic concepts](/concepts) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
+Als je de [basisconcepten van FreeSewing](/concepts) gelezen hebt, weet je dat paden altijd beginnen met een `move()`-operatie. In dit geval hebben we onze `right`-punten verplaatst.
 
-From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and `bottomCp2` as control points.
+Van daar hebben we een Béziercurve getekend naar het `bottom`-punt door `rightCp1` en `bottomCp2` als controlepunten te gebruiken.
 
-When all is said and done, we now have a quarter of our neck opening:
+Als dat allemaal gebeurd is, hebben we nu een kwart van de halsopening:
 
-<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
-The only problem is, we have no guarantee whatsoever that this opening is the correct size.
+Eén probleem: we hebben geen enkele garantie dat deze opening de juiste afmeting heeft.
 
-Rather than hope it is the correct size, you'll make sure it is next.
+We gaan niet gewoon hopen dat hij de juiste grootte heeft. In de volgende stap zorgen we ervoor dat de afmeting klopt.

@@ -1,15 +1,15 @@
 ---
-title: Cuff style
+title: Stijl Manchet
 path: /en/docs/patterns/simon/options/cuffstyle
 pattern: simon
-option: cuffStyle
+option: manchetStijl
 ---
 
-What style of cuff do you want?
+Wat voor manchet wil je?
 
-- Rounded barrel cuff
+- Afgeronde klassieke manchet
 - Chamfer barrel cuff
-- Straight barrel cuff
-- Rounded French cuff
+- Rechte klassieke manchet
+- Afgeronde Franse manchet
 - Chamfer French cuff
-- Straight French cuff
+- Rechte Franse manchet

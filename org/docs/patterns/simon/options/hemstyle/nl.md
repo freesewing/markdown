@@ -1,11 +1,11 @@
 ---
-title: Hem style
+title: Vorm zoom
 path: /en/docs/patterns/simon/options/hemstyle
 pattern: simon
-option: hemStyle
+option: zoomVorm
 ---
 
-What style of hem line do you want?
+Wat voor zoom wil je?
 
 - Recht
 - Baseball

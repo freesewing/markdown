@@ -1,10 +1,10 @@
 ---
-title: Cuff button rows
+title: Rijen knopen op manchet
 path: /en/docs/patterns/simon/options/cuffbuttonrows
 pattern: simon
-option: cuffButtonRows
+option: manchetKnoopRij
 ---
 
-Do you want a single button on your barrelcuff, or two?
+Wil je een enkele knoop op je manchet, of twee?
 
-> This does only apply to barrelcuffs. So if you picked a French cuff as cuff style this will be ignored.
+> Dit is alleen van toepassing om de klassieke manhet. Dus als je een Franse manchet gekozen hebt wordt dit genegeerd.

@@ -1,8 +1,8 @@
 ---
-title: Sleeve placket width
+title: Breedte mouwsplit
 path: /en/docs/patterns/simon/options/sleeveplacketwidth
 pattern: simon
-option: sleevePlacketWidth
+option: mouwSplitBreedte
 ---
 
-How wide do you want the sleeve placket to be?
+Hoe breed wil je dat het mouwsplit is?
