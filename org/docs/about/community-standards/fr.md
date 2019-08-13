@@ -23,9 +23,3 @@ It is fine to post links to relevant information on other websites, but Spam and
 Comments that are defamatory, unlawful or include copyright infringements are also against the rules. Impersonating other people or using fake accounts is also not done.
 
 We will delete these types of comments and may ban users who keep on disregarding these rules.
-
-<note>
-
-For a more detailed insight of our values, please consult our [code of conduct](https://freesewing.dev/contributor/code-of-conduct) which applies to all freesewing maintainers and contributors.
-
-</Note>
