@@ -28,10 +28,10 @@ Impersonating other people or using fake accounts is also not done.
   
 We will delete these types of comments and may ban users who keep on disregarding these rules.
 
-<Note>
+<Tip>
 
 For a more detailed insight of our values, please consult 
 our [code of conduct](https://freesewing.dev/contributor/code-of-conduct) 
 which applies to all freesewing maintainers and contributors.
 
-</Note>
+</Tip>

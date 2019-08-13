@@ -29,11 +29,11 @@ Prendre la place d'autres personnes ou utiliser de faux comptes n'est également
   
 Nous supprimerons ces types de commentaires et seront susceptibles de bannir les utilisateurs qui continueront d'enfreindre ces règles.
 
-<Tip>
+<Note>
 
 Pour de plus amples informations sur nos valeurs, merci de bien vouloir consulter 
 notre [Code de Conduite](https://fr.freesewing.dev/contributor/code-of-conduct) 
 qui s'applique à tous les responsables et les contributeurs de freesewing.
 
-<Tip>
+<Note>
 
