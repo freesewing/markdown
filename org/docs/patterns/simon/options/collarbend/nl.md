@@ -1,10 +1,10 @@
 ---
-title: Collar bend
+title: Kromming kraag
 path: /en/docs/patterns/simon/options/collarbend
 pattern: simon
-option: collarBend
+option: kraagBoog
 ---
 
-How much the collar bends (on the collar stand side), rather than being straight.
+In hoeverre de kraag (aan de kant van de kraagstaander) gebogen is in plaats van recht.
 
-> This influences how the collar lies against the collar stand.
+> Dit beïnvloedt hoe de kraag tegen de kraagstaander ligt.

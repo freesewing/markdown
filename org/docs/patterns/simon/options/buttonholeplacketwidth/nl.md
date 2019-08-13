@@ -1,8 +1,8 @@
 ---
-title: Buttonhole placket width
+title: Breedte knoopsgatenpat
 path: /en/docs/patterns/simon/options/buttonholeplacketwidth
 pattern: simon
-option: buttonholePlacketWidth
+option: knoopsgatPatBreedte
 ---
 
-The width of your buttonhole placket.
+De breedte van het knoopsgatenpat.

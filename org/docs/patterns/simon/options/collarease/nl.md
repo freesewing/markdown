@@ -2,11 +2,11 @@
 title: Overwijdte kraag
 path: /en/docs/patterns/simon/options/collarease
 pattern: simon
-option: collarEase
+option: kraagWijdte
 ---
 
-How much ease do you want for your collar?
+Hoeveel overwijdte heeft je kraag?
 
-If you feel that a collar is suffocating, you can give yourself a bit more ease and it will sit more loose around your neck. You could also lower the ease for a tighter fit.
+Als je het gevoel krijgt dat een kraag je verstikt kan je jezelf een beetje meer ruimte geven, en zal de kraag losser rond je nek zitten. Je kan de hoeveelheid overwijdte ook verkleinen voor een strakkere kraag.
 
-> You should probably not go below 1.5cm if you want to keep the ability to button your collar stand button.
+> Misschien best niet lager dan 1.5 cm gaan als je nog in staat wil zijn je bovenste knoop te sluiten.

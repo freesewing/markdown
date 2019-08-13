@@ -1,10 +1,10 @@
 ---
-title: Yoke dart
+title: Neep schouderpas
 path: /en/docs/patterns/simon/options/yokedart
 pattern: simon
-option: yokeDart
+option: schouderpasNeep
 ---
 
-Controls the dart at the bottom side of the yoke.
+Controleert de neep aan de zijkant onderaan de schouderpas.
 
-> Note that this dart is to compensate for a rounded back, not for sloping shoulders.
+> Bedenk dat deze neep compenseert voor een ronde rug, niet voor afhangende schouders.

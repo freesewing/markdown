@@ -1,15 +1,15 @@
 ---
-title: Creating the closure
+title: De sluiting ontwerpen
 order: 210
 ---
 
-Things are starting to look good, but we can't fit the bib over the baby's head like this. So we must create a closure. We'll let the straps overlap at the end, and put in a snap.
+Het begint er goed uit te zien, maar op deze manier krijgen we het slabbetje niet over baby's hoofdje. We hebben een sluiting nodig. We gaan de koordjes aan het uiteinde laten overlappen en er een drukknoop op zetten.
 
-To round the straps, we'll use something new: **a macro**.
+Om de koordjes rond te laten eindigen, gebruiken we iets nieuws: **een macro**.
 
-Macros are little helpers that automate things that would otherwise get rather tedious. There are macros to add titles to your pattern, or grainline indicators, a scalebox, and there's a macro to round corners. The `round` macro.
+Macro's zijn kleine helpers die dingen automatiseren die anders heel snel heel saai zouden worden. Er zijn macro's om titels toe te voegen aan je patroon, of aanwijzingen van de stofrichting, een schaalkader, ... en er is dus ook een macro om hoeken af te ronden: de `round`-macro.
 
-Before we can use it, we have to update our `part.shorthand()` call to indicate that we'd also like to make use of macros. Simple add `macro` at the end:
+Voordat we die kunnen gebruiken, moeten we onze `part.shorthand()`-call updaten om aan te geven dat we ook graag macro's willen gebruiken. Voeg gewoon `macro` toe op het einde:
 
 ```js
 let {
@@ -23,9 +23,9 @@ let {
 } = part.shorthand();
 ```
 
-We need a half circle here, but the `round` macro works on 90° angles, so you'll use it twice.
+We hebben hier een halve cirkel nodig. De `round`-macro werkt met hoeken van 90 graden, dus je gebruikt hem hier twee keer.
 
-As such, let's add some points to guide the macro, and then put it to work:
+We voegen een paar punten toe om de macro te begeleiden, en dan zetten we hem aan het werk:
 
 ```js
 let strap = points.edgeTop.dy(points.top);
@@ -50,14 +50,14 @@ macro("round", {
 });
 ```
 
-<Warning>
+<warning>
 
-FIXME: Add link to macro/extend docs
+FIXME: link toevoegen naar macro/extend docs
 
 </Warning>
 
-<Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
-Like our neck opening, we've only drawn half since we can simply copy the points to the other side.
+Net zoals bij de halsopening hebben we hier maar de helft getekend. We kunnen de punten gewoon kopiëren naar de andere kant.
 
-However, doing so would make both straps overlap. Which doesn't work for a pattern as it would make it impossible to cut it out of a single piece of fabric. So let's deal with the overlap next.
+Probleem: als we dat doen, overlappen de koordjes. En dat werkt niet voor een naaipatroon, want dan krijg je het niet uit één stuk stof geknipt. Dus moeten we de overlapping oplossen.

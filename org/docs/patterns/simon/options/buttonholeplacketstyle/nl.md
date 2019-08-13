@@ -1,18 +1,18 @@
 ---
-title: Buttonhole placket style
+title: Stijl knoopsgatenpat
 path: /en/docs/patterns/simon/options/buttonholeplacketstyle
 pattern: simon
-option: buttonholePlacketStyle
+option: knoopsgatPatStijl
 ---
 
-Do you want classic buttonhole placket, or a seamless one (sometimes called French style)?
+Wil je een klassiek knoopsgatenpat, of een naadloos (soms ook Frans knoopsgatenpat genoemd)?
 
-> #### Why pick seamless?
+> #### Waarom naadloos?
 > 
-> It's less work and it looks great.
+> Het is minder werk en ziet er geweldig uit.
 > 
-> #### Why pick classic?
+> #### Waarom klassiek?
 > 
-> Because you're a classic kinda person, and that's what you want.
+> Omdat je een klassiek type bent, en dat is wat je wil.
 > 
-> As seamless is only possible on a grown on placket, this option is ignored if you chose sewn on as your buttonhole placket type.
+> Aangezien naadloos enkel mogelijk is bij een aangeknipt knoopsgatenpat wordt deze optie genegeerd and je voor een apart knoopsgatenpat gekozen hebt.
