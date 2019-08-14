@@ -142,23 +142,23 @@ Knip als laatste je voering bij zodat ze 0.5 cm korter is dan re rand van het vo
 
 ![Fold back and sew front pocket slant](step06.png)
 
-Fold back your lining and front piece along the pocket slant line (and thus along the trimmed edge of the pocket bag. Pin this down and press.
+Plooi de voering en het voorpand om langs de lijn van de steekzak (en dus langs de bijgeknipte rand van het zakdeel). Speld dit vast en strijk.
 
-You are going to sew along the pocket slant, but make sure to flip everything over first so you can sew from the good side.
+Je gaat langs de zakopening stikken, maar keer alles eerst om zodat je van de goede kant kan stikken.
 
-Topstitch a 0.5 cm from the fold, making sure to keep it parallel and not stretch your fabric.
+Stik door op 0.5 cm van de plooi. Hou het parallel en rek je stof niet uit.
 
-> This topstitching will always be on show, so make sure to match the thread color and make it pretty.
+> Dit stiksel is altijd zichtbaar, dus zorg dat de draadkleur bij je stof past en maak het mooi.
 > 
-> To prevent your pockets from bagging out, you can place a piece of non-stretching ribbon in between the fold. When stitching, you will also catch this ribbon, preventing the pocket to bag out.
+> Om te voorkomen dat je zakken uitrekken kan je een stuk niet-elastisch lint tussen de vouw stoppen. Wanneer je stikt wordt dit lint mee vastgemaakt, en zorgt het dat de zak niet uitrekt.
 
-### Step 7: Finish edge inside front pocket
+### Stap 7: werk de rand aan de binnenkant van de voorzak af
 
 ![Finish the edge inside the front pocket](step07.png)
 
-Fold away the main part of the front piece, so you can place the lining, pocket bag and folded edge of the front piece flat.
+Plooi het grootste deel van het voorpand weg, zodat je de voering, zakdeel en geplooide rand van het voorpand plat kan leggen.
 
-Zig-zag the edge of the folded-back front piece to finish it and secure it to the pocket back and lining.
+Zigzag de rand van het weggeplooide deel van het voorpand om het af te werken en vast te maken aan het zakdeel en de voering.
 
 ### Step 8: Press side pocket
 
