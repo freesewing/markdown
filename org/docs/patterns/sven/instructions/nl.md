@@ -1,15 +1,15 @@
 ---
-title: Making Sven
+title: Sven maken
 path: /en/docs/patterns/sven
 ---
 
 ## Wat je nodig hebt
 
-To make Sven, you will need the following:
+Om Sven te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 1.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- Ribbing fabric for the cuffs and neck opening
+- Ongeveer 1.75 meter geschikte stof ([zie Optionele stoffen](#fabric-options))
+- Boordstof voor de manchetten en halsopening
 
 > **Een overlockmachine is handig, maar optioneel**
 > 
@@ -19,26 +19,26 @@ To make Sven, you will need the following:
 
 ## Stofkeuze
 
-Sven can be any sweatshirt you want it to be. From wovens to knit or even scuba, you can't really go wrong as long as you stick with something that has a bit of weight to it.
+Sven kan de gedaante van eender welke sweater aannemen. Van geweven stoffen tot jersey of zelfs scuba, je kan niet missen zolang je iets kiest dat een beetje gewicht heeft.
 
-Have a look at [the Sven showcases](/showcase/pattern/sven) for inspiration.
+Kijk eens naar [de Sven showcases](/showcase/pattern/sven) voor inspiratie.
 
 ## Knippen
 
 - **Buitenstof** 
  - Knip **1 rugpand** aan de stofvouw
  - Knip **1 voorpand** aan de stofvouw
- - Cut **2 sleeves** with good sides together
-- **Ribbing fabric** 
- - Cut **1 strip** for the neck opening binding
- - Cut **2 strips** for the cuffs
- - Cut **1 strip** for the hem
+ - Knip **2 mouwen**, goede kanten op elkaar
+- **Boordstof** 
+ - Knip **1 strook** voor de bies aan de halsopening
+ - Knip **2 stroken** voor de manchetten
+ - Knip **1 strook** voor de zoom
 
 ### Opmerkingen
 
-The ribbing parts are not included on the pattern because they're just rectangular. We'll figure it out as we go along.
+De delen in boordstof staan niet mee op het patroon omdat het gewoon rechthoeken zijn. We zoeken later wel uit hoe groot ze juist moeten zijn.
 
-Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
+Sven is een heel simpel patroon, en bestaat uit drie hoofddelen plus een aantal stroken voor de hals, manchetten en zoom.
 
 Hier is een typische layout:
 
@@ -48,16 +48,16 @@ Hier is een typische layout:
 
 ## Constructie
 
-### Step 1: Close shoulder seams
+### Stap 1: Sluit de schoudernaden
 
-- Place the back and front on top of each other with the good sides toghether.
-- Align the shoulder seam, and sew/serge it at the standard seam allowance.
-- Repeat for the other shoulder seam.
+- Leg het voorpand op het rugpand met de juiste kanten tegen elkaar.
+- Leg de schoudernaad gelijk, en stik/lock de naad op de standaard naadwaarde.
+- Herhaal voor de tweede schoudernaad.
 
-### Step 2: Set in the sleeves
+### Stap 2: Zet de mouwen in
 
-- Place your now attached front and back with the good side up. 
-- Place a sleeve on top if it with the good side down
+- Leg je aan elkaar bevestigde voor- en achterpand neer met de goede kant naar boven. 
+- Leg een mouw bovenop met de goede kant naar beneden
 - Align the top of the sleevecap with the shoulder seam, your sleeve should lie over your front/back extending to the other shoulder seam
 - Pin sleeve in place along the entire armhole. There's a bit of sleevecap ease, which means that the sleevehead is slightly longer than the armhole. Ease this in the top part of the sleeve head while pinning.
 - Sew/serge your pinned sleeve in place
