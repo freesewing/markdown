@@ -2,7 +2,7 @@
 title: Schouderhelling
 path: /en/docs/patterns/tamiko/options/shoulderslope
 pattern: tamiko
-option: shoulderSlope
+option: schouderHelling
 ---
 
-This controls the slope of the shoulder seam.
+Dit geeft controle over de helling van de schoudernaad.
