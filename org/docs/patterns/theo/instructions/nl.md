@@ -47,19 +47,19 @@ Niets beter dan **linen** op een hete zomerdag. Het is ook fijn om mee te werken
  - Knip **1 voering tailleband links**
  - Knip **1 voering tailleband rechts**
  - Knip **1 gulpbeleg**
- - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
- - Cut **2 back inner pocket bag(s)** 
- - Cut **2 back outer pocket bag(s)** 
+ - Knip **4 zakdelen voor** 2x2 met goede kanten op elkaar (**zie opmerkingen**)
+ - Knip **2 binnenste achterzakken** 
+ - Knip **2 buitenste achterzakken** 
 - **Tussenvoering** 
- - Cut **1 waistband interfacing left**
- - Cut **1 waistband interfacing right**
- - Cut **4 back pocket interfacing(s)**
+ - Knip **1 tussenvoering tailleband links**
+ - Knip **1 tussenvoering tailleband rechts**
+ - Knip **4 tussenvoering achterzak**
 
 ### Opmerkingen
 
-- The **front lining** is cut from the **front** part on your draft, down to the line just below the knee
-- Pay attention to the grainline on the **fly piece**, **fly shield**, and **side piece**
-- There are two variations of the front pocket bag. You need to cut out two of each: 
+- De **voering voorpand** wordt geknipt van het **voorpand** van het patroon, tot aan de lijn net onder de knie
+- Let op de draadrichting van het **gulpdeel**, **gulpbeleg**, en **belegdeel voorzak**
+- Er zijn twee versies van het voorste zakdeel. You need to cut out two of each: 
  - Cut two of the complete piece
  - Cut two with only extending up to the dashed line at the left
 - The **back inner pocket bag** and **back outer pocket bag** are very similar. Make sure to mark them correctly so you don't confuse them.
