@@ -98,47 +98,47 @@ Gebruik een kleine steeklengte, en laat je stiksel helemaal tot het einde van de
 
 ![Press the back darts to the side](step02.png)
 
-Press your back darts flat, folding the seam allowance to the side of your trousers.
+Strijk de nepen plat, en leg de naadwaarde naar de zijkant van je broek.
 
-### Step 3: Construct the back pockets
+### Stap 3: Maak de achterzakken
 
-Construct the double welt pockets at the back of your trousers, including the pocket bag.
+Maak de dubbele paspelzakken aan de achterkant van je broek, inclusief de broekzak.
 
-> **Double welt pockets**
+> **Dubbele paspelzak**
 > 
-> Constructing a double welt pocket is a technique that is used is different garments. That is why I have branched it off into its own documentation page.
+> Het maken van een dubbele paspelzak is een techniek die in verschillende kledingstukken gebruikt wordt. Daarom heb ik er een aparte pagina met documentatie voor gemaakt.
 > 
-> There's both written documentation and a video series that shows you how to do it, so even if you've never made welt pockets before, you'll be fine.
+> Er is zowel geschreven documentatie en een reeks video's die je tonen hoe dit werkt, dus zelfs als je nog nooit paspelzakken gemaakt hebt komt het wel in orde.
 > 
-> [To the welt pockets documentation](/en/docs/sewing/double-welt-pockets)
+> [Naar de documentatie over paspelzakken!](/en/docs/sewing/double-welt-pockets)
 
-### Step 4: Optional: Trim your lining with pinking shears
+### Stap 4: Optioneel: Knip je voering bij met een kartelschaar
 
 ![Trim your lining with pinking shears](step04.png)
 
-If you are going to line your trousers (it's optional), you'll need to finish the edge of your lining. To do so, trim the edge of the lining with pinking shears.
+Als je je broek gaat voeren (dit is optioneel), moet je de rand van je voering afwerken. Om dit te doen knip je de rand van de voering bij met een kartelschaar.
 
-Note that you only need to do this for those edges of your lining that are not caught in a seam. In other words, only the bottom edge of your lining.
+Let op dat je dit alleen doet voor de delen van je voering die niet vastzitten in een naad. In andere woorden, enkel de onderrand van je voering.
 
-> If you don't have pinking shears, you can apply another finish like a zig-zag stitch, or use a serger. However, pinking shears are best for this scenario because they don't add any bulk, which is important because we want to avoid the edge of the lining making a bump in your trousers.
+> Als je geen kartelschaar hebt kan je een andere methode gebruiken, zoals een zigzag- of overlocksteek. Kartelscharen zijn hier echter de beste optie omdat ze geen extra bulk toevoegen, wat belangrijk is als we willen vermijden dat de onderrand van de voering zichtbaar is door de stof van je broek.
 
-### Step 5: Trim pieces for front pocket slant
+### Stap 5: Knip delen voor voorste steekzakken bij
 
 ![Trim pieces for front pocket slant](step05.png)
 
-Align your front, lining and pocket bag on top of each other. Front and pocket back with their good side down, lining with the good side up.
+Leg je voorpand, voering en zakdeel bovenop elkaar. Voorpand en zakdeel met de goede kanten naar beneden, voering met de goede kant omhoog.
 
-Pin them together to make sure they don't move. Do so away from the pocket slant to not hinder yourself later.
+Speld ze samen om te zorgen dat niets verschuift. Doe dit weg van de schuine rand van de zak zodat de spelden niet in de weg zitten.
 
-Trim back the pocket bag (it should lie on top) exactly on the pocket slant line (marked on the pattern).
+Knip het zakdeel (dat bovenaan ligt) exact op de lijn van de steekzak (aangegeven op het patroon) bij.
 
-Now trim back the front piece (it should lie on the bottom) 3cm outwards from the slant line, parallel to it.
+Knip nu het voorpand (ligt onderaan) 3 cm voorbij en parallel met de schuine lijn bij.
 
-Finally, trim back your lining so that it stops 0.5 cm short of reaching the edge of your front.
+Knip als laatste je voering bij zodat ze 0.5 cm korter is dan re rand van het voorpand.
 
-> The lining is trimmed a bit shorter so that when it is folded back, it does not show. But it's really not all that important to get it exactly 0.5 cm shorter.
+> De voering wordt een beetje korter geknipt zodat ze niet zichtbaar is als ze teruggeplooid wordt. Maar het is niet zo belangrijk om ze exact 0.5 cm korter te krijgen.
 
-### Step 6: Fold back and sew front pocket slant
+### Stap 6: Plooi de voorste zakopening en stik
 
 ![Fold back and sew front pocket slant](step06.png)
 
