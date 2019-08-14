@@ -59,12 +59,12 @@ Niets beter dan **linen** op een hete zomerdag. Het is ook fijn om mee te werken
 
 - De **voering voorpand** wordt geknipt van het **voorpand** van het patroon, tot aan de lijn net onder de knie
 - Let op de draadrichting van het **gulpdeel**, **gulpbeleg**, en **belegdeel voorzak**
-- Er zijn twee versies van het voorste zakdeel. You need to cut out two of each: 
- - Cut two of the complete piece
- - Cut two with only extending up to the dashed line at the left
-- The **back inner pocket bag** and **back outer pocket bag** are very similar. Make sure to mark them correctly so you don't confuse them.
+- Er zijn twee versies van het voorste zakdeel. Je moet twee van elk knippen: 
+ - Knip twee van het complete deel
+ - Knip twee tot aan de stippellijn aan de linkerkant
+- De **binnenste achterzak** en **buitenste achterzak** lijken erg op elkaar. Zorg dat je ze correct markeert zodat je ze niet verwart.
 
-Below is a typical draft layout of Theodore:
+Hier is een typisch Theodore patroon:
 
 ![A typical Theodore draft](layout.svg)
 
@@ -72,29 +72,29 @@ Below is a typical draft layout of Theodore:
 
 ## Constructie
 
-> Many of the steps below are to be repeated for both trouser legs.
+> Veel van de stappen hieronder worden herhaald voor beide broekspijpen.
 > 
-> That is not always mentioned because life is short and continuously writing *Do not forget to do this for both trouser legs* gets tired really soon.
+> Dit wordt niet altijd vermeld want het leven is kort en constant *herhaal dit voor de tweede broekspijp* schrijven wordt snel saai.
 
-### Step 1: Baste the pleat lines
+### Stap 1: Drieg de plooilijnen
 
 ![Baste the pleat lines](step00.png)
 
-First thing to do is to baste over the pleat line of your trouser legs. Do it on both front and back pieces for both legs.
+Het eerst dat je doet is over de plooilijn van je broekspijpen driegen. Doe dit op zowel voor- als achterpanden van beide broekspijpen.
 
-### Step 2: Close the back darts and press
+### Stap 2: Sluit de nepen achteraan en strijk
 
-### Close the back darts
+### Sluit de achterste nepen
 
-![Close the back darts](step01.png)
+![Sluit de achterste nepen](step01.png)
 
-Fold piece 1 (back) double so that the notches of the dart on the waistband are aligned, and a sharp crease runs to the notch at the dart end. Feel free to briefly iron the crease, this will make it easier to sew the dart accurately.
+Plooi deel 1 (achterpand) dubbel zodat de merktekens van de neep aan de tailleband gelijk liggen, en een scherpe plooi naar het merkteken aan het einde van de neep loopt. Strijk deze plooi gerust lichtjes, dit maakt het makkelijker om de neep accuraat te stikken.
 
-Close the dart by sewing from the waistband down to the end of the dart.
+Sluit de neep door van de taillerand naar het einde van de neep te stikken.
 
-Use a small stitch length, and let your stitch run completely to the end (and of) the dart, then backtrack making sure to veer into the seam allowance.
+Gebruik een kleine steeklengte, en laat je stiksel helemaal tot het einde van de neep (en eraf) lopen. Stik daarna een eindje terug, let op dat je enkel in de naadwaarde stikt.
 
-#### Press back darts to the side
+#### Strijk de nepen naar de zijkant
 
 ![Press the back darts to the side](step02.png)
 
