@@ -1,18 +1,18 @@
 ---
-title: Making Tamiko
+title: Tamiko maken
 path: /en/docs/patterns/tamiko
 ---
 
 ## Wat je nodig hebt
 
-To make Tamiko, you will need the following:
+Om Tamiko te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
 - Ongeveer 1 m geschikte stof ([zie Optionele stoffen](#fabric-options))
 
 ## Stofkeuze
 
-This pattern has a lot of unfinished edges, so you need something that does not ravel. And you want to go for something with a nice drape.
+Dit patroon heeft veel onafgewerkte randen, dus je hebt iets nodig dat niet uitrafelt. Je kiest ook best iets dat soepel valt.
 
 Long story short, go for a knitted fabric, or some light scuba or something. No wovens.
 
