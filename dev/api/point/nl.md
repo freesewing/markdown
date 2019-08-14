@@ -75,24 +75,24 @@ macro("hd", {
 ## dy()
 
 ```js
-float point.dy(Point point)
+float point.dy(Point punt)
 ```
 
-Returns de delta along the Y-axis between this point and the point you pass it.
+Geeft het verschil over de Y-as tussen dit punt en het punt dat je vermeld.
 
-### Points.dy() example
+### Points.dy() voorbeeld
 
 <example part="point_dy" caption="An example of the Point.dy() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
 
-points.from = new Point(10, 10);
-points.to = new Point(90, 40);
+points.vanaf = new Point(10, 10);
+points.tot = new Point(90, 40);
 
 macro("vd", {
-  from: points.to,
-  to: points.from,
+  from: points.tot,
+  to: points.vanaf,
   x: 50
 });
 ```
@@ -100,24 +100,24 @@ macro("vd", {
 ## dist()
 
 ```js
-float point.dist(Point point)
+float point.dist(Point punt)
 ```
 
-Returns the distance between this point and the point you pass it.
+Geeft de afstand tussen dit punt en het punt dat je vermeld.
 
-### Points.dist() example
+### Points.dist() voorbeeld
 
 <example part="point_dist" caption="An example of the Point.dist() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
 
-points.from = new Point(10, 10);
-points.to = new Point(90, 40);
+points.vanaf = new Point(10, 10);
+points.tot = new Point(90, 40);
 
 macro("ld", {
-  from: points.from,
-  to: points.to
+  from: points.vanaf,
+  to: points.tot
 });
 ```
 
