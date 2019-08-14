@@ -1,52 +1,52 @@
 ---
-title: Making Theodore
+title: Theodore maken
 path: /en/docs/patterns/theodore
 ---
 
 ## Video
 
-Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+Tekst een beetje te droog voor je? Ik probeer video's beschikbaar te maken als deel van de documentatie.
 
-In this particular case, there's a lot of video material available, but it was originally recorded for a previous version of this pattern. Still, good stuff.
+In dit geval is er een hoop videomateriaal beschikbaar, maar dit is origineel opgenomen voor een eerdere versie van dit patroon. Nog steeds relevant wel.
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
 ## Wat je nodig hebt
 
-To make Theodore, you will need the following:
+Om Theodore te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- About a meter of lining fabric
-- Fusible interfacing for back pockets and waistband
-- A zipper, button and hook for the fly
+- Ongeveer 2 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+- Ongeveer een meter voering
+- Kleefbare tussenvoering voor de achterzakken en tailleband
+- Een rits, knoop en broekhaak voor de gulp
 
 ## Stofkeuze
 
-You have a lot of options here, but keep in mind that these are classic cut trousers. In other words, do not use stretch, denim, pleather of that sort of thing. Safe bets are wool, cotton, or linen, possibly blended with some synthetic.
+Je hebt hier veel opties, maar hou in je achterhoofd dat dit een klassiek model van broek is. In andere woorden, gebruik geen stretchstof, denim, nepleer of andere onzin. Veilige opties zijn wol, katoen of linnen, eventueel gemengd met iets synthetisch.
 
-For **wool**, look in the suiting section of your fabric store. If this is your first pair, some wool-poly blend is most likely going to be more budget-friendly. But don't let price alone guide you, buying some cheap whimsical fabric is the best way to come up with a shitty looking pair of trousers, and get frustrated in the process.
+Als je **wol** wil, kijk dan in de afdeling met pakstoffen van je stoffenwinkel. Voor een eerste paar is een wol-polyestermix een budgetvriendelijke optie. Maar focus niet te hard op de prijs, een goedkoop stofje is de beste manier om met een mottige broek en een hoop frustraties te eindigen.
 
-For **cotton**, go for a heavier weight. Cotton might also be a bit easier on the beginner than wool. If unsure what to use, ask for chino in the fabric store and simply pick a colour you like.
+Als je **katoen** wil, kies dan een zwaardere stof. Katoen is ook wat makkelijker voor een beginner dan wol. Als je niet zeker bent over wat te gebruiken, vraag dan om chino stof in de stoffenwinkel en kies een kleurtje.
 
-Nothing beats **linen** on a hot summer day. It's fun to work with too, but it does wrinkle like a mofo, and even the most neatly made trousers look somewhat messy when made in linen. What I'm saying is, maybe not for your first pair.
+Niets beter dan **linen** op een hete zomerdag. Het is ook fijn om mee te werken, maar kreukt als de pest, en zelfs de best genaaide broeken zien er een beetje rommelig uit in linnen. Wat ik wil zeggen is: misschien niet voor je eerste paar.
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **2 back(s)** with good sides together
- - Cut **2 front(s)** with good sides together
- - Cut **1 waistband left**
- - Cut **1 waistband right**
- - Cut **2 fly piece(s)** with good sides together
- - Cut **2 side piece(s)** with good sides together
- - Cut **4 back pocket facing(s)** 
- - Cut **8 belt loop(s)** 
-- **Lining** 
- - Cut **2 front lining(s)** with good sides together
- - Cut **1 waistband lining left**
- - Cut **1 waistband lining right**
- - Cut **1 fly shield**
+ - Knip **2 achterpanden** met de goede kanten op elkaar
+ - Knip **2 voorpanden** met de goede kanten op elkaar
+ - Knip **1 linker tailleband**
+ - Knip **1 rechter tailleband**
+ - Knip **2 gulp delen** met de goede kanten op elkaar
+ - Knip **2 belegdelen voorzak** met de goede kanten op elkaar
+ - Knip **4 belegdelen achterzak** 
+ - Knip **8 riemlusjes** 
+- **Voering** 
+ - Knip **2 voering voorpand** met de goede kanten op elkaar
+ - Knip **1 voering tailleband links**
+ - Knip **1 voering tailleband rechts**
+ - Knip **1 gulpbeleg**
  - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
  - Cut **2 back inner pocket bag(s)** 
  - Cut **2 back outer pocket bag(s)** 
