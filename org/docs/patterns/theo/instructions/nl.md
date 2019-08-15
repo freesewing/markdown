@@ -174,43 +174,43 @@ Wanneer je klaar bent leg je het voorpand, de voering en het zakdeel plat, en st
 
 ![Attach side piece to pocket bag](step09.png)
 
-Place the other half of the pocket bag with the good side down, and align the side piece on it with the good side up.
+Leg de andere helft van het zakdeel met de goede kant naar beneden, en leg het belegdeel voorzak bovenop met de goede kant omhoog.
 
-Sew a zig-zag stitch along the edge of the side piece to finish it and attach it to the pocket bag.
+Zigzag langs de rand van het belegdeel voorzak om het af te werken en tegelijk aan het zakdeel te bevestigen.
 
-### Step 10: Close the pocket bag
+### Stap 10: Sluit het zakdeel
 
 ![Close the pocket bag](step10.png)
 
-Place the front piece, lining and pocket bag with the pocket bag up.
+Leg het voorpand, de voering en het zakdeel met het zakdeel naar boven.
 
-Align the second pocket bag with the attached side piece facing down.
+Leg het tweede zakdeel met het bevestigde beleg bovenop, met het beleg naar beneden.
 
-Pin all pieces together making sure to stay about the bottom curve of the pocket bag.
+Speld alle delen samen, en let op dat de onderrand van het zakdeel gelijk ligt.
 
-When everything is pinned together, fold away the front piece and lining, and close the bottom curve of the pocket bag.
+Plooi wanneer alles samengespeld is het voorpand en de voering opzij en sluit de onderrand van het zakdeel.
 
-> Sew to bottom curve of the pocket bag up until the point where it reached the side piece
+> Stik de onderrand van het zakdeel tot aan het punt waar het belegdeel begint
 > 
-> You can finish the pocket bag in a number of ways, including:
+> Je kan het zakdeel op verschillende manieren afwerken, zoals:
 > 
-> - Serge the sides together
-> - Finish the edge with bias tape
-> - Sew the sides together and finish the edge with a zig-zag stitch
+> - Lock de randen samen
+> - Werk de randen af met biaislint
+> - Stik samen en werk de rand af met een zigzagsteek
 
-### Step 11: Press the front pocket
+### Stap 11: Strijk de steekzak
 
 ![Press the front pocket](step11.png)
 
-Put everything flat with the front piece at the bottom, and give it a good press.
+Leg alles plat met het voorpand onderaan, en strijk het grondig.
 
-### Step 12: Pin front pocket in place
+### Stap 12: Speld de voorzak vast
 
 ![Pin the front pocket in place](step12.png)
 
-Pin the pocket down to the front piece along the slant and the edges of the pocket bag. This will prevent it from shifting around while we continue to work on our trousers.
+Speld de zak aan het voorpand langs de zakopening en de randen van het zakdeel. Dit voorkomt dat dingen verschuiven terwijl we aan de rest van onze broek werken.
 
-### Step 13: Finish the side edges
+### Stap 13: Werk de zijranden af
 
 ![Finish the side edges](step13.png)
 
