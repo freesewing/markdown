@@ -214,55 +214,55 @@ Stik de punt en staart aan elkaar aan de niet-puntige kant.
 
 We gaan nu de lus (deel 7) van de das maken.
 
-Fold the fabric as shown in the illustration. You need to end up with a narrow strip of fabric that has its ends tucked to the inside.
+Plooi de stof zoals op de illustratie. Je moet eindigen met een smalle strook stof waarvan de uiteindes naar binnen geplooid zijn.
 
-Make sure to have one edge a little bit shorter. This will be the back side.
+Zorg dat één kant een beetje korter is. Dit wordt de achterkant.
 
-While folding, reach for your iron and give it a good press so things stay in place. Also press the final loop before sewing it.
+Strijk alles goed terwijl je plooit zodat het op z'n plaats blijft. Strijk het lusje ook nog eens voor je het naait.
 
-> Careful when pressing, remember the pressing advice I gave earlier
+> Voorzichtig met strijken, denk aan het strijkadvies van eerder
 
-When you're happy with how you folded and pressed your loop, hand-sew along the edge with a slipstitch to keep things in place.
+Als je blij bent met hoe je lusje geplooid en gestreken is, naai het dan langs de rand dicht met een onzichtbare steek om de dingen op hun plek te houden.
 
-### Step 12: Assemble your tie
+### Stap 12: Stel je das samen
 
 ![Assemble your tie](step12.png)
 
-Time to start putting things together. Place your tie on a flat surface, good side down, lining up.
+Tijd om alles samen te brengen. Leg je das op een plat oppervlak, goede kant naar beneden en voering naar boven.
 
-Now take your tie interfacing, and place it in your tie with the seam allowance in the middle facing upwards. Make sure to slide it between your fabric and lining on each side, all the way to the tip.
+Neem nu je tussenvoering en leg ze in je das met de naadwaarde in het midden naar boven. Zorg dat je ze aan elke kant tussen je buitenstof en voering schuift, helemaal tot in de puntjes.
 
-### Step 13: Fold and press your tie
+### Stap 13: Plooi en strijk je das
 
 ![Fold and press your tie](step13.png)
 
-With your tie interfacing inserted in your tie fabric, fold over one side of the fabric over the interfacing.
+Als de tussenvoering in je das zit, plooi dan een kant van de stof over de tussenvoering.
 
-You want to fold it snugly around the interfacing, but without moving the interfacing, which should stay in the middle.
+Probeer de stof strak rond de tussenvoering te plooien, maar zonder deze te bewegen. De tussenvoering moet in het midden blijven.
 
-When you're done, press your fold. Because of the tie interfacing, you're not pressing a sharp crease here, the main point is to shape the fabric to be more eager to stay folder around the interfacing.
+Wanneer je klaar bent strijk je deze plooi. Door de tussenvoering strijk je hier geen scherpe vouw in, het punt is om de stof een beetje in vorm te krijgen zodat ze mooier rond de tussenvoering blijft liggen.
 
-> As we are not pressing a sharp crease here, but more shaping the fabric, a steam iron works best.
+> Aangezien we geen scherpe vouw strijken maar eerder de stof vormgeven werkt een stoomstrijkijzer hier het best.
 
-When you have completed one side, fold back the other side, and steam again.
+Als je één kant afgewerkt hebt, plooi dan de andere kant ook om, en stoom opnieuw.
 
-Finally, fold back the top layer along the middle of your tie, and press in place. This time, you are making a sharp crease along the middle of the tie.
+Plooi uiteindelijk de bovenste laag langs het midden van je das, en strijk. Deze keer maak je wel een scherpe plooi langs het midden van de das.
 
-> To clarify the difference between the two last folds, I have included a dark line in the image that marks the edge of the fabric, or fold.
+> Om het verschil tussen de laatste twee plooien duidelijk te maken heb ik een donkere lijn aan de tekening toegevoegd die de rand van de stof of vouw aangeeft.
 > 
-> As you can see, the first time we merely fold the fabric back, and it extends passed the center of the tie.
+> Zoals je kan zien plooien we eerst enkel de stof terug, en komt de rand voorbij het midden van de das.
 > 
-> The second time, we fold it back again in the middle, the place where we'll sew it in place.
+> De tweede keer plooien we de stof terug in het midden, waar ze later vastgenaaid wordt.
 
-### Step 14: Prepare the loop
+### Stap 14: Bereid de lus voor
 
 ![Prepare the loop](step14.png)
 
-Fold your loop so the tail of your tie can pass through it with some room.
+Plooi je lus zo dat de punt van je das erdoor kan met wat bewegingsruimte.
 
-Mark the point where the loop ends join, and sew them together.
+Markeer het punt waarop de lus samenkomt, en stik samen.
 
-Finally, press your loop open so the seam sits in the middle, and the ends point to one side.
+Strijk je lus dan open zodat de naad in het midden zit en de uiteindes naar één kant.
 
 ### Step 15: Slip stitch tie, and insert loop
 
