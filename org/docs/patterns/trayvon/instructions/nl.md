@@ -1,36 +1,36 @@
 ---
-title: Making Trayvon
+title: Trayvon maken
 path: /en/docs/patterns/trayvon
 ---
 
 ## Wat je nodig hebt
 
-To make Trayvon, you will need the following:
+Om Trayvon te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- Between 0.5 meter and 1.5 meter of a suitable fabric ([see Fabric options](#fabric-options)), depending on whether you're cutting on bias, on grain, or cross-grain. 
+- Tussen 0.5 en 1.5 meter geschikte stof ([zie Stofkeuze](#fabric-options)), afhankelijk van hoe je knipt: schuin van draad, recht van draad of haaks op de draadrichting. 
 
 ## Just the tip
 
-The tip is the most sensitive part of the tie. If you have never made a tie before, I would advise you to make a few tie tips in scrap fabric before taking scissors and needles to your nice tie fabric.
+De punt is het fijnste stukje van een das. Als je nog nooit een das gemaakt hebt zou ik je aanraden een paar punten te maken in restjes stof voor je schaar en naald in je mooie stof zet.
 
-To practice tip-making, execute constructions steps 1 through 4 a couple of times until you get the hang of it.
+Om dit te oefenen voer je stap 1 tot 4 een paar keer uit tot je het beet hebt.
 
 ## Strijk wijs
 
-Tijdens de constructie zal gevraagd worden je stof te strijken. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Tijdens de constructie zal gevraagd worden je stof te strijken. Wees voorzichtig en gebruik niet te veel hitte op een delicate stof die daar niet tegen kan.
 
-Het is een goed idee om een paar restjes stof te strijken voor je begint. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan je zien wat de beste temperatuur is voor de stof die je gebruikt.
 
 ## Stofkeuze
 
-### Tie fabric
+### Stof voor een das
 
-The ties you find in the store are typically make out of silk or some imitation silk poly. Het is dus niet verrassend dat dit goede opties zijn.
+De dassen die je in de winkel vindt zijn meestal gemaakt van zijde of polyester imitatiezijde. Het is dus niet verrassend dat dit goede opties zijn.
 
-In general, you want something with good drape so that you tie hangs nicely. Cutting your tie on bias can help here too.
+Over het algemeen wil je iets dat goed valt zodat je das mooi hangt. Je das schuin van draad knippen kan ook helpen.
 
-Personally, I like using different fabrics for ties. Things like denim or corduroy make great ties, while being a bit different from the run-of-the-mill store-bought tie.
+Ik gebruik zelf graag verschillende stoffen voor dassen. Things like denim or corduroy make great ties, while being a bit different from the run-of-the-mill store-bought tie.
 
 Additionally, silk and silk imitation is slippery and tricky to work with. If this your first tie, consider an alternative fabric that is more forgiving.
 
