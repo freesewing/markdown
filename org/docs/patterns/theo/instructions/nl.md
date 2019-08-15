@@ -66,7 +66,7 @@ Niets beter dan **linen** op een hete zomerdag. Het is ook fijn om mee te werken
 
 Hier is een typisch Theodore patroon:
 
-![A typical Theodore draft](layout.svg)
+![Een typisch Theodore patroon](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -78,7 +78,7 @@ Hier is een typisch Theodore patroon:
 
 ### Stap 1: Drieg de plooilijnen
 
-![Baste the pleat lines](step00.png)
+![Drieg de plooilijnen](step00.png)
 
 Het eerst dat je doet is over de plooilijn van je broekspijpen driegen. Doe dit op zowel voor- als achterpanden van beide broekspijpen.
 
@@ -96,7 +96,7 @@ Gebruik een kleine steeklengte, en laat je stiksel helemaal tot het einde van de
 
 #### Strijk de nepen naar de zijkant
 
-![Press the back darts to the side](step02.png)
+![Strijk de achterste nepen naar de zijkant](step02.png)
 
 Strijk de nepen plat, en leg de naadwaarde naar de zijkant van je broek.
 
@@ -114,7 +114,7 @@ Maak de dubbele paspelzakken aan de achterkant van je broek, inclusief de broekz
 
 ### Stap 4: Optioneel: Knip je voering bij met een kartelschaar
 
-![Trim your lining with pinking shears](step04.png)
+![Knip je voering bij met een kartelschaat](step04.png)
 
 Als je je broek gaat voeren (dit is optioneel), moet je de rand van je voering afwerken. Om dit te doen knip je de rand van de voering bij met een kartelschaar.
 
@@ -124,7 +124,7 @@ Let op dat je dit alleen doet voor de delen van je voering die niet vastzitten i
 
 ### Stap 5: Knip delen voor voorste steekzakken bij
 
-![Trim pieces for front pocket slant](step05.png)
+![Knip delen voor voorste steekzakken bij](step05.png)
 
 Leg je voorpand, voering en zakdeel bovenop elkaar. Voorpand en zakdeel met de goede kanten naar beneden, voering met de goede kant omhoog.
 
@@ -140,7 +140,7 @@ Knip als laatste je voering bij zodat ze 0.5 cm korter is dan re rand van het vo
 
 ### Stap 6: Plooi de voorste zakopening en stik
 
-![Fold back and sew front pocket slant](step06.png)
+![Plooi de voorste zakopening en stik](step06.png)
 
 Plooi de voering en het voorpand om langs de lijn van de steekzak (en dus langs de bijgeknipte rand van het zakdeel). Speld dit vast en strijk.
 
@@ -154,7 +154,7 @@ Stik door op 0.5 cm van de plooi. Hou het parallel en rek je stof niet uit.
 
 ### Stap 7: werk de rand aan de binnenkant van de voorzak af
 
-![Finish the edge inside the front pocket](step07.png)
+![Werk de rand binnenin de voorzak af](step07.png)
 
 Plooi het grootste deel van het voorpand weg, zodat je de voering, zakdeel en geplooide rand van het voorpand plat kan leggen.
 
@@ -162,7 +162,7 @@ Zigzag de rand van het weggeplooide deel van het voorpand om het af te werken en
 
 ### Stap 8: Strijk de steekzak
 
-![Press side pocket](step08.png)
+![Strijk de steekzak](step08.png)
 
 Wanneer je klaar bent leg je het voorpand, de voering en het zakdeel plat, en strijk je het eens grondig.
 
@@ -172,7 +172,7 @@ Wanneer je klaar bent leg je het voorpand, de voering en het zakdeel plat, en st
 
 ### Stap 9: Bevestig belegdeel voorzak aan zakdeel
 
-![Attach side piece to pocket bag](step09.png)
+![Bevestig belegdeel steekzak aan zakdeel](step09.png)
 
 Leg de andere helft van het zakdeel met de goede kant naar beneden, en leg het belegdeel voorzak bovenop met de goede kant omhoog.
 
@@ -180,7 +180,7 @@ Zigzag langs de rand van het belegdeel voorzak om het af te werken en tegelijk a
 
 ### Stap 10: Sluit het zakdeel
 
-![Close the pocket bag](step10.png)
+![Sluit het zakdeel](step10.png)
 
 Leg het voorpand, de voering en het zakdeel met het zakdeel naar boven.
 
@@ -200,19 +200,19 @@ Plooi wanneer alles samengespeld is het voorpand en de voering opzij en sluit de
 
 ### Stap 11: Strijk de steekzak
 
-![Press the front pocket](step11.png)
+![Strijk de steekzak](step11.png)
 
 Leg alles plat met het voorpand onderaan, en strijk het grondig.
 
 ### Stap 12: Speld de voorzak vast
 
-![Pin the front pocket in place](step12.png)
+![Speld de steekzak vast](step12.png)
 
 Speld de zak aan het voorpand langs de zakopening en de randen van het zakdeel. Dit voorkomt dat dingen verschuiven terwijl we aan de rest van onze broek werken.
 
 ### Stap 13: Werk de zijranden af
 
-![Finish the side edges](step13.png)
+![Werk de zijranden af](step13.png)
 
 Voor we de zijnaden stikken, werken we de randen af met een zigzagsteek langs de rand van je voor- en zijpanden. Let op dat je binnen de naadwaarde blijft.
 
@@ -220,7 +220,7 @@ Voor we de zijnaden stikken, werken we de randen af met een zigzagsteek langs de
 
 ### Stap 14: Stik de zijnaden
 
-![Sew the side seams](step14.png)
+![Stik de zijnaden](step14.png)
 
 Leg het voor- en achterpand van elke broekspijp op elkaar, met de goede kanten op elkaar.
 
@@ -232,7 +232,7 @@ Stik de naad, van de tailleband tot onderaan de broekspijp.
 
 ### Stap 15: Strijk de naadwaarde open
 
-![Press open seam allowance](step14.png)
+![Strijk de naadwaarde open](step14.png)
 
 Strijk de naadwaarde langs de zijnaad open. Doe dit langs de verkeerde kant, en herhaal nog eens langs de goede kant van de stof.
 
@@ -242,7 +242,7 @@ Neem je tijd, en gebruik genoeg hitte, maar niet te veel. Gebruik stoom of sproe
 
 ### Stap 16: stik het gulpbeleg aan het gulpdeel
 
-![Sew fly shield to fly piece](step16.png)
+![Stik het gulpbeleg aan het gulpdeel](step16.png)
 
 Leg het gulpdeel op het gulpbeleg met de goede kanten op elkaar, en leg de rand gelijk met de grootste curve.
 
@@ -252,7 +252,7 @@ Stik langs de gebogen rand op de standaard naadwaarde van 1 cm om de twee stukke
 
 ### Stap 17: Strijk het gulpbeleg
 
-![Press the fly shield](step17.png)
+![Strijk het gulpbeleg](step17.png)
 
 > Voor je dit deel platstrijkt rol je de naad een beetje naar binnen zodat de voering naar de onderkant gekeerd wordt, en ongeveer 2 mm van de rand ligt. Dit voorkomt dat de voering aan de rand zichtbaar is.
 
@@ -260,7 +260,7 @@ Als je het gulpdeel en gulpbeleg vastgestikt hebt keer je alles naar de goede ka
 
 ### Stap 18: Speld de rits aan het rechtervoorpand
 
-![Pin zip to right front piece](step18.png)
+![Speld de rits aan het rechtervoorpand](step18.png)
 
 > Stap 18 tot 21 leiden allemaal naar een enkel stiksel dat de rits aan het voorpand bevestigt, en tegelijk het gulpdeel en gulpbeleg vastmaakt.
 > 
@@ -281,7 +281,7 @@ Speld de rits vast met een paar spelden haaks op de rits (zoals getoond). In and
 
 ### Stap 19: Speld gulpbeleg aan rits
 
-![Pin zip to right front piece](step19.png)
+![Speld de rits aan het rechtervoorpand](step19.png)
 
 Neem het gulpbeleg/gulpdeel dat je in stap 16 en 17 samengestikt hebt en leg het neer met de stof naar beneden en de voering naar boven.
 
@@ -295,7 +295,7 @@ Speld deze laag vast met een paar spelden haaks op de rits (zoals getoond in het
 
 ### Stap 20: Speld het gulpbeleg vast langs de rits
 
-![Pin fly shield in place along zip](step20.png)
+![Speld het gulpbeleg vast langs de rits](step20.png)
 
 Leg de voering weer op z'n plek, en speld nu alle lagen samen langs de rits.
 
@@ -303,7 +303,7 @@ Wanneer je dit gedaan hebt kan je je eerdere spelden verwijderen.
 
 ### Stap 21: Plooi het gulpbeleg om en speld het neer
 
-<img src="step21a.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" /> <img src="step21b.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" />
+<img src="step21a.png" alt="Plooi het gulpbeleg om en speld het neer" title="" class="fs-row2" /> <img src="step21b.png" alt="Plooi het gulpbeleg om en speld het neer" title="" class="fs-row2" />
 
 Draai alles om zodat het gulpbeleg onderaan ligt.
 
@@ -313,7 +313,7 @@ Speld dit vast, en verwijder je eerdere spelden.
 
 ### Stap 22: Stik de gulp vast langs de rits
 
-![Sew fly in place along zip](step22.png)
+![Stik de gulp vast langs de rits](step22.png)
 
 Nu kan je langs het geplooide gulpdeel stikken. Dit zet het voorpand, de rits, het gulpbeleg en het gulpdeel in één keer vast.
 
@@ -321,13 +321,13 @@ Nu kan je langs het geplooide gulpdeel stikken. Dit zet het voorpand, de rits, h
 
 ### Stap 23: Plooi de gulp om en strijk
 
-![Fold back fly and press](step23.png)
+![Plooi de gulp om en strijk](step23.png)
 
 Wanneer je klaar bent, plooi de gulp dan om zodat ze van het voorpand wegligt, en strijk grondig van de verkeerde kant. En strijk nog eens zachtjes van de voorkant.
 
 ### Stap 24: Stik biaislint aan het tweede gulpdeel en strijk
 
-![Apply bias tape to the edge with the large curve of your second fly piece](step24.png)
+![Stik bieslint aan de rand met de grootste curve van je tweede gulpdeel](step24.png)
 
 Stik bieslint aan de rand met de grootste curve van je tweede gulpdeel.
 
@@ -337,7 +337,7 @@ Strijk de afgewerkte rand plat wanneer je klaar bent.
 
 ### Stap 25: Speld en stik het gulpdeel aan de kruisnaad
 
-![Pin and sew fly piece to crotch seam](step25.png)
+![Speld en stik het gulpdeel aan de kruisnaad](step25.png)
 
 Leg de linkerbroekpijp met de goede kant omhoog. Leg het tweede gulpdeel bovenop met de goede kant naar beneden, en leg de onafgewerkte rand samen met de kruisnaad.
 
@@ -349,7 +349,7 @@ Strijk de afgewerkte rand plat wanneer je klaar bent.
 
 ### Stap 26: Keer het gulpdeel naar achter en strijk de naad
 
-![Roll the fly piece to the back, and press the seam](step26.png)
+![Keer het gulpdeel naar achter en strijk de naad](step26.png)
 
 Plooi het gulpdeel naar de verkeerde kant. Rol de naad een beetje verder naar achter voor je dit strijkt zodat deze niet meer zichtbaar is langs de goede kant.
 
@@ -359,7 +359,7 @@ Strijk eens goed langs de achterkant.
 
 ### Stap 27: Speld en stik de rits aan het gulpdeel
 
-<img src="step27a.png" alt="Place both legs on top of eachother" title="" class="fs-row3" /> <img src="step27b.png" alt="Pin the zip along the edge" title="" class="fs-row3" /> <img src="step27c.png" alt="Sew in place" title="" class="fs-row3" />
+<img src="step27a.png" alt="Leg beide voorpanden op elkaar" title="" class="fs-row3" /> <img src="step27b.png" alt="Speld de rits langs de rand" title="" class="fs-row3" /> <img src="step27c.png" alt="Stik vast" title="" class="fs-row3" />
 
 Leg de rechterbroekspijp neer met de goede kant omhoog. Leg de linkerbroekspijp bovenop met de goede kant naar beneden.
 
@@ -379,13 +379,13 @@ Stik uiteindelijk langs de rits met je ritsvoet om ze vast te maken aan het gulp
 
 ### Stap 28: Zigzag de rand van de rits aan het gulpdeel
 
-![Zig-zag the zip edge to the fly piece](step28.png)
+![Zigzag de rand van de rits aan het gulpdeel](step28.png)
 
 Zigzag langs de rand van de rits om ze vast te maken aan het gulpdeel.
 
 ### Stap 29: Bevestig de gulpdelen met een trens
 
-![Bar-tack both fly pieces together](step29.png)
+![Bevestig de gulpdelen met een trens](step29.png)
 
 Leg de twee gulpdelen samen, en leg de voorpanden uit de weg.
 
@@ -395,7 +395,7 @@ Gebruik een trens om ze aan elkaar te bevestigen, aan de onderkant van de rits. 
 
 ### Stap 30: Sluit de kruisnaad
 
-<img src="step30a.png" alt="Join crotch seam" title="" class="fs-row2" /> <img src="step30b.png" alt="Join crotch seam" title="" class="fs-row2" />
+<img src="step30a.png" alt="Sluit de kruisnaad" title="" class="fs-row2" /> <img src="step30b.png" alt="Sluit de kruisnaad" title="" class="fs-row2" />
 
 Leg beide voorpanden met goede kanten naar boven. Ze zijn nu verbonden met de gulp.
 
@@ -411,7 +411,7 @@ Stik de kruisnaad, beginnend aan het punt waar de zijnaden kruisen, en tot aan j
 
 ### Stap 31: Speld de gulp dicht en drieg de curve
 
-![Pin fly closed and baste fly curve](step31.png)
+![Speld de gulp dicht en drieg de curve](step31.png)
 
 Sluit de gulp, en speld de voorpanden zo neer dat de gulp netjes opzij ligt.
 
@@ -423,7 +423,7 @@ Ga in een curve naar boven tot aan de rand van het gulpbeleg, en ga dan parallel
 
 ### Stap 32: Stik de curve van de gulp door
 
-![Topstitch your fly curve](step32.png)
+![Stik door de curve van de gulp](step32.png)
 
 Stik nu de gulp door, en gebruik je driegsteek als een gids.
 
@@ -431,7 +431,7 @@ Wanneer je dit doet stik je het voorpand, het gulpdeel, het zakdeel en de voerin
 
 ### Stap 33: Speld de binnenbeennaad samen
 
-![Pin together the inner leg seam](step33.png)
+![Speld de binnenbeennaad samen](step33.png)
 
 Sluit de broekspijpen met de goede kanten samen, en speld de binnenbeennaad samen. Start aan de kruisnaad en ga van daar naar beneden langs elke pijp.
 
@@ -439,19 +439,19 @@ Doe dit voor beide broekspijpen.
 
 ### Stap 34: Stik de binnenbeennaden
 
-![Sew the inner leg seams](step34.png)
+![Stik de binnenbeennaden](step34.png)
 
 Stik de binnenbeennaden die je net gespeld hebt aan beide broekspijpen. Zorg dat je de naadwaarde respecteert.
 
 ### Stap 35: Strijk de naadwaarde van de binnenbeennaad open
 
-![Press open seam allowance of the inner leg seam](step35.png)
+![Strijk de naadwaarde van de binnenbeennaad open](step35.png)
 
 Leg je broekspijp binnenstebuiten op je strijkplank, en strijk de naadwaarde van de binnenbeennaad open.
 
 ### Stap 36: Stik de kruisnaad
 
-![Close the cross-seam](step36.png)
+![Stik de kruisnaad](step36.png)
 
 We gaan nu de kruisnaad sluiten, van de onderkant van de gulp tussen je benen, langs je kont tot aan de middenrug waar later de tailleband komt.
 
@@ -471,7 +471,7 @@ Als dit gedaan is strijk je de naadwaarde open.
 
 ### Stap 37: Strijk de plooi in de broekspijp
 
-![Press the leg crease in place](step37.png)
+![Strijk de plooi in de broekspijp](step37.png)
 
 Keer je broek naar de goede kant, en leg voorzichtig één broekspijp op de strijkplank zodat ze plat ligt en gevouwen op de plooilijn die je eerder gedriegd hebt.
 
@@ -487,7 +487,7 @@ Afhankelijk van je stof kan je plooi langer blijven, maar uiteindelijk kan je ni
 
 ### Stap 38: Strijk tussenvoering aan tailleband
 
-![Fuse interfacing to waistband](step38.png)
+![Strijk tussenvoering aan tailleband](step38.png)
 
 Strijk de tussenvoering voor de tailleband (deel 3) aan de tailleband (deel 4).
 
@@ -495,7 +495,7 @@ Leg de tussenvoering in het midden van de tailleband, en let op dat ze netjes re
 
 ### Stap 9: Sluit de tailleband en de voering van de tailleband
 
-![Close waistband and waistband lining](step39.png)
+![Sluit de tailleband en de voering van de tailleband](step39.png)
 
 Maak de tailleband (delen 4a en 4b) door beide delen met de goede kanten op elkaar te stikken.
 
@@ -503,7 +503,7 @@ Maak de voering van de tailleband (delen 5a en 5b) door beide delen met de goede
 
 ### Stap 40: Stik de tailleband aan de voering van de tailleband
 
-![Sew waistband to waistband lining](step40.png)
+![Stik de tailleband aan de voering van de tailleband](step40.png)
 
 Leg je tailleband op de voering van de tailleband, met de goede kanten op elkaar, zodat de tussenvoering van de tailleband naar boven ligt.
 
@@ -515,7 +515,7 @@ Aan één kant van de tailleband eindig je met een curve en ga je dan verticaal 
 
 ### Stap 41: Rol de stof rond de rand van de tussenvoering en strijk de tailleband
 
-![Roll fabric around interfacing edge and press waistband](step41.png)
+![Rol de stof rond de rand van de tussenvoering en strijk de tailleband](step41.png)
 
 Zorg voor je de tailleband strijkt dat de stof over de rand van de tussenvoering rolt.
 
@@ -525,7 +525,7 @@ Dit zorgt dat onze voeringstof nooit zichtbaar is aan de voorkant van je broek.
 
 ### Stap 42: Speld de tailleband aan de broek
 
-![Pin waistband to trousers](step42.png)
+![Speld de tailleband aan de broek](step42.png)
 
 Speld de rand van je tailleband (de kant waar je de voering niet aan stikte) aan de bovenrand van je broek, met de goede kanten samen.
 
@@ -535,7 +535,7 @@ Stop de rand van de gulp in de kant van de tailleband met de afgeronde hoek. Aan
 
 ### Stap 43: Stik de tailleband aan de broek
 
-![Sew waistband to trousers](step43.png)
+![Stik de tailleband aan de broek](step43.png)
 
 Nu de tailleband aan de bovenrand van de broek gespeld is, kan je deze vaststikken.
 
@@ -543,13 +543,13 @@ Stik zo dicht mogelijk bij de rand aan de kant met de afgeronde hoek. Aan de and
 
 ### Stap 44: Strijk de tailleband
 
-![Press waistband](step44.png)
+![Strijk de tailleband](step44.png)
 
 Strijk deze nieuwe naad eens goed. Strijk de naad niet open, maar naar boven, zodat de hele naadwaarde in de tailleband zit.
 
 ### Stap 45: Bereid de riemlusjes voor
 
-![Prepare the belt loops](step45.png)
+![Bereid de riemlusjes voor](step45.png)
 
 De riemlusjes zijn een deel van je broek waar je creatief mee kan omspringen. Er zijn een hoop manieren op riemlusjes te maken, om nog maar te zwijgen van waar je ze plaatst.
 
@@ -571,7 +571,7 @@ Vind het patroondeel voor de riemlus, een klein rechthoekig stuk stof. Hiervan z
 
 ### Stap 46: Bevestig de riemlussen: Onderkant
 
-![Attach the bottom of the belt loops](step46.png)
+![Bevestig de onderkant van de riemlusjes](step46.png)
 
 Bevestig de onderkant van de riemlussen aan je broek. Leg ze ongeveer 1.5 cm onder je tailleband, afhankelijk van hoe breed de tailleband is.
 
@@ -587,7 +587,7 @@ Zigzag dan de rand van de riemlus aan de broek.
 
 ### Stap 47: Beleg tailleband
 
-![Waistband facing](step47.png)
+![Beleg tailleband](step47.png)
 
 Het beleg van de tailleband moet uitgeknipt worden en aan je tailleband vastgemaakt.
 
@@ -597,7 +597,7 @@ Dit is een stuk makkelijker te begrijpen als je naar de video hierover kijkt:
 
 ### Stap 48: Knip naadwaarde tailleband bij
 
-![Trim waistband seam allowance](step48.png)
+![Knip naadwaarde tailleband bij](step48.png)
 
 Voor we de tailleband afwerken gaan we de naadwaarde wat bijknippen.
 
@@ -609,7 +609,7 @@ Voor we de tailleband afwerken gaan we de naadwaarde wat bijknippen.
 
 ### Stap 49: Strijk en drieg de voering van de tailleband
 
-![Press and baste the waistband lining](step49.png)
+![Strijk en drieg de voering van de tailleband](step49.png)
 
 De voering van de tailleband wordt langs de voorkant van de broek vastgestikt, bovenop de naad tussen de tailleband en de broek (zogenaamd *door de naad stikken*).
 
@@ -627,13 +627,13 @@ Als je blij bent met hoe het eruitziet, drieg de voering dan vast naast de naar 
 
 ### Stap 50: Stik de voering van de tailleband vast
 
-![Sew the waistband lining in place](step50.png)
+![Stik de voering van de tailleband vast](step50.png)
 
 Nadat je de voering van de tailleband gedriegd hebt, stik ze dan vast langs de goede kant, exact in de naad tussen de tailleband en de broek.
 
 ### Stap 51: Bevestig de riemlusjes: Bovenaan
 
-![Attach the top of the belt loops](step51.png)
+![Bevestig de bovenkant van de riemlusjes](step51.png)
 
 Nu je tailleband en voering echt vastzitten is het tijd om de bovenkant van de riemlusjes vast te maken.
 
@@ -645,7 +645,7 @@ Stik ze vast zoals je aan de onderkant deed. Dat wil zeggen, zet ze vast met een
 
 ### Stap 52: Werk de onderrand van de broekspijpen af
 
-![Finish the edge of the legs](step52.png)
+![Werk de onderrand van de broekspijpen af](step52.png)
 
 Werk de onafgewerkte rand van de broekspijpen af met een zigzagsteek of overlock voor we de broek omzomen.
 
@@ -653,7 +653,7 @@ Werk de onafgewerkte rand van de broekspijpen af met een zigzagsteek of overlock
 
 ### Stap 53: (Optioneel) Naai een broekstootband
 
-![Optionally sew in a hem ribbon](step53.png)
+![Naai een optionele broekstootband](step53.png)
 
 > Een broekstootbandje is een lint dat aan de binnenkant van je broekzoom zit. Op de plek waar je zoom omgeplooid is krijgt de stof heel wat te verduren door tegen schoenen en andere dingen aan te schuren.
 > 
@@ -665,7 +665,7 @@ Leg de broekstootband zoals getoond in de illustratie, en let op dat ze een paar
 
 ### Stap 54: Strijk de zoom
 
-![Press the hem](step54.png)
+![Strijk de zoom](step54.png)
 
 Plooi de broekspijpen om aan de zoomlijn, en strijk de zoom.
 
@@ -673,14 +673,14 @@ Plooi de broekspijpen om aan de zoomlijn, en strijk de zoom.
 
 ### Stap 55: Zoom de broekspijpen
 
-![Hem the legs](step55.png)
+![Zoom de broekspijpen](step55.png)
 
 Als de zoom netjes gestreken is, naai het teruggeplooide deel dan vast aan de binnenkant van je broek.
 
-> Omzomen wordt met de hand gedaan omdat het belangrijk is dat de steken niet zichtbaar zijn aan de goede kant. So when hand-sewing the hem, don't push your needle through the fabric, but just catch a few threads so your stitches don't show on the front
+> Omzomen wordt met de hand gedaan omdat het belangrijk is dat de steken niet zichtbaar zijn aan de goede kant. Dus duw je naald niet door de stof wanneer je de zoom naait, maar pik een paar draadjes van de stof op zodat je steken niet zichtbaar zijn aan de goede kant
 > 
-> While there are machine alternatives, they aren't as neat (blind hem stitch) or probably not accessible to the home-sewer (industrial blind hem machine).
+> Er bestaan manieren om dit met de naaimachine te dien, maar deze zijn niet zo netjes (blindzoomsteek), of niet toegankelijk voor gewone stervelingen (industriele blindzoommachine).
 
-### Step 56: Trim, clean up, and press
+### Stap 56: Knip bij, ruim op en strijk
 
-Trim any loose threads or basting that remains, and give your trousers a good final press.
+Knip alle losse draadjes of driegdraadjes die overblijven bij, en strijk je broek nog eens grondig.
