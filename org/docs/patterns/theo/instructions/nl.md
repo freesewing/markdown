@@ -585,45 +585,45 @@ Zigzag dan de rand van de riemlus aan de broek.
 > 
 > Zorg dat er zeker lusjes aan de middenrug zitten, en niet te dicht bij elkaar aan middenboor (zodat er ruimte is voor een gesp).
 
-### Step 47: Waistband facing
+### Stap 47: Beleg tailleband
 
 ![Waistband facing](step47.png)
 
-The waistband facing needs to be cut out and attached to your waistband.
+Het beleg van de tailleband moet uitgeknipt worden en aan je tailleband vastgemaakt.
 
-This will be a lot simpler to understand if you have a look at the relevant video:
+Dit is een stuk makkelijker te begrijpen als je naar de video hierover kijkt:
 
 @[youtube](https://www.youtube.com/embed/8dLOuOtb18U?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
-### Step 48: Trim waistband seam allowance
+### Stap 48: Knip naadwaarde tailleband bij
 
 ![Trim waistband seam allowance](step48.png)
 
-Before we finalize the waistband, we're going to trim back some of its seam allowance.
+Voor we de tailleband afwerken gaan we de naadwaarde wat bijknippen.
 
-> **About seam allowance grading** When trimming back different layers of seam allowance, always try to cut them at different lengths so that the bulk is reduced in incremental steps.
+> **Over het bijknippen van naden** Als je verschillende lagen naadwaarde bijknipt, probeer de lagen dan op verschillende lengtes te knippen zodat de bulk geleidelijk aan vermindert.
 > 
-> The layer that lies closest to the good side of the garment should be the longest, so trim back from there.
+> De laag die het dichtst bij de goede kant van het kledingstuk ligt moet het langst zijn, dus begin daar.
 > 
-> Doing so will make it less likely that the outline of the seam allowance is visible from the good side.
+> Dit maakt het minder waarschijnlijk dat de rand van de naadwaarde zichtbaar is langs de goede kant.
 
-### Step 49: Press and baste the waistband lining
+### Stap 49: Strijk en drieg de voering van de tailleband
 
 ![Press and baste the waistband lining](step49.png)
 
-The waistband lining will be sewn from the front of the trousers on top of the seam that joins the waistband to the trousers (so called *stitch in the ditch*).
+De voering van de tailleband wordt langs de voorkant van de broek vastgestikt, bovenop de naad tussen de tailleband en de broek (zogenaamd *door de naad stikken*).
 
-Doing so will catch the lining and secure it in place. However, since we'll be sewing this from the good side, the lining will lie beneath all other layers, and we won't see what we're doing.
+Dit stikt de voering vast. Maar, omdat we dit langs de goede kant stikken ligt de voering onder alle andere lagen en zien we niet wat we doen.
 
-That is why, to make sure it all lies clean and flat, we will first press and baste the lining.
+Daarom moeten we de voering eerst strijken en driegen zodat alles netjes plat ligt.
 
-The lining will extend downward from the top, and it needs to be folded back up under itself, so that it will get caught by the seam when we sew it in place later.
+De voering komt naar beneden van bovenaan, en moet terug onder zichzelf geplooid worden zodat het vastzit in de naad als we die later stikken.
 
-To make sure things look pretty, the distance between the top of our waistband and the (folded back) bottom edge of our lining should be constant. You can mark an even distance from the top of your trousers, and then pin back the lining at this line. Last but not least, press that fold in your lining.
+Om te zorgen dat alles er mooi uitziet moet de afstand tussen de bovenrand van de tailleband en de (omgeplooide) onderrand van de voering evenwijdig zijn. Je kan een gelijke afstand van de bovenrand markeren, en dan de voering op deze lijn terugspelden. Strijk dan deze plooi in je voering.
 
-When you're happy with how it looks, baste the lining in place just next to the seam joining the waistband and trousers.
+Als je blij bent met hoe het eruitziet, drieg de voering dan vast naast de naar die de tailleband en broek verbindt.
 
-> It's best to baste next to the seam, and not actually in the seam. This will make it a lot easier to remove your basting when after we've sewn in the last step.
+> Het is best om naast de naad te driegen, en niet echt in de naad. Dit maakt het makkelijker om je driegsteken te verwijderen nadat we de naad doorgestikt hebben.
 
 ### Step 50: Sew the waistband lining in place
 
