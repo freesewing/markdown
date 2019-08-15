@@ -361,19 +361,19 @@ Strijk eens goed langs de achterkant.
 
 <img src="step27a.png" alt="Place both legs on top of eachother" title="" class="fs-row3" /> <img src="step27b.png" alt="Pin the zip along the edge" title="" class="fs-row3" /> <img src="step27c.png" alt="Sew in place" title="" class="fs-row3" />
 
-Leg de rechterbroekspijp neer met de goede kant omhoog. Place the leg on top of it with the good side down.
+Leg de rechterbroekspijp neer met de goede kant omhoog. Leg de linkerbroekspijp bovenop met de goede kant naar beneden.
 
-With the crotch seams aligned, pin the zip along the edge of the fly piece with the good side of the zip down.
+Leg de kruisnaden gelijk en speld de rits langs de rand van het gulpdeel met de goede kant van de rits naar beneden.
 
-Make sure to pin the fly only to the fly piece. Not to any other layers underneath.
+Zorg dat je de rits enkel aan het gulpdeel speldt. Vermijd alle andere lagen.
 
-> I find it's easier to pin the zip through all layers, and then when it's secure in place add extra pins that pin it to the fly piece only. When that's done, you can remove the pins that go through all layers.
+> Ik vind het makkelijker om de rits door alle lagen te spelden, en wanneer ze stevig vastzit extra spelden toe te voegen om ze enkel aan het gulpdeel te spelden. Als dat gebeurd is kan je de spelden die door alle lagen gaan verwijderen.
 
-Last but not least, sew along the zip with your zipper foot to attach it to the fly piece.
+Stik uiteindelijk langs de rits met je ritsvoet om ze vast te maken aan het gulpdeel.
 
-> When aligning the zip, make sure to take the following into account:
+> Let op het volgende terwijl je de rits goedlegt:
 > 
-> - The zip should be placed with the good side down
+> - De rits ligt met de goede kant naar beneden
 > - The zip should sit a bit back from the edge of your fly piece
 > - Make sure to align the top of the zip with the other zip half on the right leg
 
