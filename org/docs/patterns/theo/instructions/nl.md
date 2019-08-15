@@ -557,33 +557,33 @@ Los daarvan is dit de standaard manier om een riemlusje te maken:
 
 Vind het patroondeel voor de riemlus, een klein rechthoekig stuk stof. Hiervan zou je er 8 moeten hebben, en dit worden je riemlusjes. Voor elke lus volg je deze stappen:
 
-- Zig-zag (or serge) along the longest edges of the rectangle
-- Fold one side back along the length, and press
-- Fold the other side back, along the length, and press
-- Hand sew along the back of the belt loop so that the folded sides stay in place, but the stitches do not show at the front
-- Give it a final good press when you're done
+- Zigzag (of lock) langs de lange randen van de rechthoek
+- Plooi één kant terug in de lengte, en strijk
+- Plooi de andere kant terug, in de lengte, en strijk
+- Naai met de hand langs de achterkant van het lusje zodat de geplooide randen op hun plek blijven, maar de steken vooraan niet zichtbaar zijn
+- Strijk nog eens goed als je klaar bent
 
-> While the width of your belt loops is not all that important, it does matter to make sure they are all the same width.
+> De exacte breedte van je lusjes is niet zo belangrijk, maar het is wel belangrijk dat ze allemaal even breed zijn.
 > 
-> To make it easier to have a consistent width, you can fold your belt loops around a strip of cardboard, thick paper, or plastic of the desired belt loop width.
+> Om het makkelijker te maken de breedte consequent te houden kan je het lusje rond een strook karton of dik papier van de gewenste breedte plooien.
 > 
-> This strip can also help you with the hand sewing. Keep it in your belt loop and it will prevent your needle from piercing through all layers and your thread won't show at the front.
+> Deze strook kan je ook helpen bij het naaien. Houd het strookje in je riemlus, dit helpt voorkomen dat je naald door de voorste stoflaag gaat en de steken zichtbaar worden.
 
-### Step 46: Attach the belt loops: Bottom
+### Stap 46: Bevestig de riemlussen: Onderkant
 
 ![Attach the bottom of the belt loops](step46.png)
 
-Attach the bottom of the belt loops to your trousers. Place them about 1.5 cm below your waistband, depending on your waistband width.
+Bevestig de onderkant van de riemlussen aan je broek. Leg ze ongeveer 1.5 cm onder je tailleband, afhankelijk van hoe breed de tailleband is.
 
-Place the good side of the belt loop down on the good side of the trousers (good sides together) and secure with a bar tack or narrow zig-zag.
+Leg de goede kant van de riemlus op de goede kant van de broek (goede kanten samen) en stik vast met een trens of smalle zigzag.
 
-Then, zig zag the edge of the belt loop to the trousers.
+Zigzag dan de rand van de riemlus aan de broek.
 
-> It is important to get the waistband lining out of the way while doing this. Make sure to attach the belt loops only to your trousers, and not to the waistband lining.
+> Het is belangrijk dat je de voering van de tailleband uit de weg houdt terwijl je dit doet. Zorg dat je de riemlusjes enkel aan je broek vastmaakt, en niet aan de voering van de tailleband.
 > 
-> You have 8 belt loops, so you need to distribute them around your waistband. Have a look at an existing pair if you are uncertain how to do this.
+> Je hebt 8 riemlusjes, dus die moet je verdelen rond je tailleband. Kijk naar een bestaande broek als je niet zeker bent van waar ze moeten komen.
 > 
-> Make sure to place belt hoops close to the center back, and not too close to each other at the front (for belt buckles).
+> Zorg dat er zeker lusjes aan de middenrug zitten, en niet te dicht bij elkaar aan middenboor (zodat er ruimte is voor een gesp).
 
 ### Step 47: Waistband facing
 
