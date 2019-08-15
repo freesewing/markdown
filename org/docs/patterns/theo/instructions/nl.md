@@ -214,37 +214,37 @@ Speld de zak aan het voorpand langs de zakopening en de randen van het zakdeel. 
 
 ![Finish the side edges](step13.png)
 
-Before we are going to sew the side seams, finish the side edges by serging or running a zig-zag stitch along the sides of your front and back pieces, making sure to stay within the foreseen seam allowance.
+Voor we de zijnaden stikken, werken we de randen af met een zigzagsteek langs de rand van je voor- en zijpanden. Let op dat je binnen de naadwaarde blijft.
 
-> Make sure to include the lining and pocket bag edges, as this will prevent things from shifting around when we sew the side seams.
+> Zorg dat je de voering en randen van het zakdeel mee vastmaakt, dit zorgt ervoor dat niets verschuift terwijl we de zijnaden stikken.
 
-### Step 14: Sew the side seams
+### Stap 14: Stik de zijnaden
 
 ![Sew the side seams](step14.png)
 
-Place the front and back of each leg on top of each other, with the good sides together.
+Leg het voor- en achterpand van elke broekspijp op elkaar, met de goede kanten op elkaar.
 
-Align the side seam, more precisely the side seam on the outside, where there is no crotch curve.
+Leg de zijnaad gelijk, de zijnaad aan de buitenkant om precies te zijn, waar er geen kruiscurve is.
 
-> You can pin the pieces together to make sure things stay in place while sewing this lengthy seam
+> Je kan de delen samenspelden om te zorgen dat alles op z'n plaats blijft bij het stikken van deze lange naad
 
-Sew the seam, starting from the waistband along the entire side of your trousers.
+Stik de naad, van de tailleband tot onderaan de broekspijp.
 
-### Step 15: Press open seam allowance
+### Stap 15: Strijk de naadwaarde open
 
 ![Press open seam allowance](step14.png)
 
-Press open the seam allowance along the side seams. Do so from the back, and repeat from the good side of the fabric.
+Strijk de naadwaarde langs de zijnaad open. Doe dit langs de verkeerde kant, en herhaal nog eens langs de goede kant van de stof.
 
-Take your time, making sure to use enough heat, but not too much. Use steam or spray on water for best effect.
+Neem je tijd, en gebruik genoeg hitte, maar niet te veel. Gebruik stoom of sproei wat water voor het beste effect.
 
-> A nice flat side seam looks great, so take your time to get it right.
+> Een mooi platte zijnaad ziet er geweldig uit, dus neem je tijd om het goed te krijgen.
 
-### Step 16: Sew fly shield to fly piece
+### Stap 16: stik het gulpbeleg aan het gulpdeel
 
 ![Sew fly shield to fly piece](step16.png)
 
-Place your fly piece on the fly shield with the good sides together, and align the edge with the biggest curve.
+Leg het gulpdeel op het gulpbeleg met de goede kanten op elkaar, en leg de rand gelijk met de grootste curve.
 
 Sew along the curved edge, taking account the standard 1cm seam allowance, to join the two pieces together.
 
