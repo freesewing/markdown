@@ -403,7 +403,7 @@ Zorg dat de gulp netjes weggeplooid is, en speld beide voorpanden samen onder de
 
 Plooi de voorpanden met goede kanten samen, en speld de kruisnaad dicht.
 
-You'll need to get the fly shields out of the way, so if you've pinned through all layers before, remove that pin now, making sure to replace it with a horizontal pin. This will tell you how far to sew.
+Je zal de gulpdelen uit de weg moeten leggen, dus als je eerder door alle lagen heen hebt gespeld, verwijder deze speld dan en vervang ze door een horizontale speld. Dit zal aangeven hoe ver je moet naaien.
 
 Sew the crotch seam, starting at the cross-seam point, and going up to your horizontal pin.
 
