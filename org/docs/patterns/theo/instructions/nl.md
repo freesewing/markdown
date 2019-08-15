@@ -405,87 +405,87 @@ Plooi de voorpanden met goede kanten samen, en speld de kruisnaad dicht.
 
 Je zal de gulpdelen uit de weg moeten leggen, dus als je eerder door alle lagen heen hebt gespeld, verwijder deze speld dan en vervang ze door een horizontale speld. Dit zal aangeven hoe ver je moet naaien.
 
-Sew the crotch seam, starting at the cross-seam point, and going up to your horizontal pin.
+Stik de kruisnaad, beginnend aan het punt waar de zijnaden kruisen, en tot aan je horizontale speld.
 
-> I find this step hard to explain, and hard to illustrate. I hope it will make sense when you're looking at your fly. If not, check the video instructions.
+> Deze stap is moeilijk uit te leggen, en lastig te illustreren. Ik hoop dat het duidelijk is als je naar je gulp kijkt. Indien niet, kijk naar de videoinstructies.
 
-### Step 31: Pin fly closed and baste fly curve
+### Stap 31: Speld de gulp dicht en drieg de curve
 
 ![Pin fly closed and baste fly curve](step31.png)
 
-Close the fly, and pin the fronts together making sure the fly is neatly tucked away.
+Sluit de gulp, en speld de voorpanden zo neer dat de gulp netjes opzij ligt.
 
-We will be topstitching the fly curve next, and it's a good idea to baste it first.
+We gaan nu de curve van de gulp doorstikken, en het is een goed idee om dit eerst te driegen.
 
-You should start a bit above your earlier bar tack, and make sure you catch only the fly shield of the left leg.
+Je start een stukje boven je eerdere trens, en zorgt dat je enkel het gulpbeleg aan het linkervoorpand vaststikt.
 
-Curve upwards toward the edge of the fly shield, and then proceed in parallel with the zip.
+Ga in een curve naar boven tot aan de rand van het gulpbeleg, en ga dan parallel met de rits verder.
 
-### Step 32: Topstitch the fly curve
+### Stap 32: Stik de curve van de gulp door
 
 ![Topstitch your fly curve](step32.png)
 
-Now topstitch your fly curve, using your basting as a guide.
+Stik nu de gulp door, en gebruik je driegsteek als een gids.
 
-When doing so, you will be locking your front, fly piece, pocket bag and lining all together.
+Wanneer je dit doet stik je het voorpand, het gulpdeel, het zakdeel en de voering allemaal samen vast.
 
-### Step 33: Pin together the inner leg seam
+### Stap 33: Speld de binnenbeennaad samen
 
 ![Pin together the inner leg seam](step33.png)
 
-Close the legs with the good sides together, and pin together the inner leg seam. Start at the cross seam point and work your way to the bottom of the legs.
+Sluit de broekspijpen met de goede kanten samen, en speld de binnenbeennaad samen. Start aan de kruisnaad en ga van daar naar beneden langs elke pijp.
 
-Make sure to do this for both legs.
+Doe dit voor beide broekspijpen.
 
-### Step 34: Sew the inner leg seams
+### Stap 34: Stik de binnenbeennaden
 
 ![Sew the inner leg seams](step34.png)
 
-On both legs, sew the inner leg seams that you just pinned. Make sure to respect the seam allowance.
+Stik de binnenbeennaden die je net gespeld hebt aan beide broekspijpen. Zorg dat je de naadwaarde respecteert.
 
-### Step 35: Press open seam allowance of the inner leg seam
+### Stap 35: Strijk de naadwaarde van de binnenbeennaad open
 
 ![Press open seam allowance of the inner leg seam](step35.png)
 
-Place your leg inside-out on your ironing board, and press open the seam allowance of the inner leg seam.
+Leg je broekspijp binnenstebuiten op je strijkplank, en strijk de naadwaarde van de binnenbeennaad open.
 
-### Step 36: Close the cross-seam
+### Stap 36: Stik de kruisnaad
 
 ![Close the cross-seam](step36.png)
 
-We are now going to close the cross-seam, from the bottom of your fly between your legs, up your bum to the center back of where you'll add the waistband later.
+We gaan nu de kruisnaad sluiten, van de onderkant van de gulp tussen je benen, langs je kont tot aan de middenrug waar later de tailleband komt.
 
-To do so, turn on of the legs inside out, so that that good side of the fabric is turned inside, and the bad side and lining sits on the outside.
+Om dit te doen keer je één van de benen binnenstebuiten, zodat de goede kant van de stof naar binnen zit, en de slechte kant en voering aan de buitenkant.
 
-The other leg should not be turned inside-out, but should just have its good side on the outside.
+Het andere been mag niet binnenstebuiten zitten, maar gewoon met de goede kant naar buiten.
 
-Now, put the leg that has the good side out (the normal leg) into the leg that has the bad side out (the inside-out leg).
+Stop nu de gewone broekspijp (met de goede kant naar buiten) in de andere broekspijp (die binnenstebuiten zit).
 
-This way, the good sides of both legs will sit against each other, and this is how you should sew the cross seam.
+Op deze manier zitten de goede kanten van de broekspijpen tegen elkaar, en op deze manier zou je de kruisnaad moeten stikken.
 
-> Be careful that your leg is not twisted inside the other leg. When in doubt, turn the inside-out leg outside-out again after you've pinned the cross-seam to make sure it's all ok.
+> Let op dat je ene broekspijp niet gedraaid zit in de andere. Als je twijfelt, keer het binnenstebuiten been dan terug naar de buitenkant nadat je de naad gespeld hebt om zeker te zijn dat alles ok is.
 
-Pin the cross-seam in place, and then sew it close, starting at the side of the fly, and making sure to respect the seam allowance.
+Speld de kruisnaad vast en stik hem dan dicht, beginnend aan de kant van de gulp, en met de standaard naadwaarde.
 
-When done, press the seam allowance open.
+Als dit gedaan is strijk je de naadwaarde open.
 
-### Step 37: Press the leg crease in place
+### Stap 37: Strijk de plooi in de broekspijp
 
 ![Press the leg crease in place](step37.png)
 
-Turn your trousers good side out, and carefully place one leg on your ironing board so that it lies flat and folds exactly on the crease line your basted earlier.
+Keer je broek naar de goede kant, en leg voorzichtig één broekspijp op de strijkplank zodat ze plat ligt en gevouwen op de plooilijn die je eerder gedriegd hebt.
 
-When it's looking good, press the crease lines in your leg, front a back. Repeat for the other leg.
+Als dit er goed uit ziet, strijk je de plooien in je broekspijp, aan de voor- en achterkant. Herhaal voor de andere broekspijp.
 
-Give it a firm press because you want the pleats to still be there after you wash your trousers (so you can see where to press them again).
+Strijk het grondig, je wil namelijk dat deze plooien zichtbaar blijven na het wassen (zodat je ze er weer in kan strijken).
 
-> In the industry, chemicals are applied along the crease line before it is pressed together. Some tailors use some sort of wooden hammer and anvil to bang the fibers in a permanent crease.
+> In de kledingindustrie gebruikt men chemische stoffen langs de vouwlijn voor ze gestreken wordt. Sommige kleermakers gebruiken een houten hamer en aambeeld om de vezels in een permanente plooi te timmeren.
 
-Depending on your fabric, your crease might last longer, but ultimately, you can't expect to have a crease that can withstand a few washes without being reapplied.
+Afhankelijk van je stof kan je plooi langer blijven, maar uiteindelijk kan je niet verwachten dat een plooi langer dan een paar wasbeurten meegaat.
 
-> Maybe this goes without saying, but there's also another option: Do not press the crease. This give your trousers a more informal look.
+> Misschien is dit extreem logisch, maar er is nog een andere optie: laat de plooi gewoon weg. Dit geeft je broek een minder formele look.
 
-### Step 38: Fuse interfacing to waistband
+### Stap 38: Strijk tussenvoering aan tailleband
 
 ![Fuse interfacing to waistband](step38.png)
 
