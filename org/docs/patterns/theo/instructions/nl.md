@@ -246,44 +246,44 @@ Neem je tijd, en gebruik genoeg hitte, maar niet te veel. Gebruik stoom of sproe
 
 Leg het gulpdeel op het gulpbeleg met de goede kanten op elkaar, en leg de rand gelijk met de grootste curve.
 
-Sew along the curved edge, taking account the standard 1cm seam allowance, to join the two pieces together.
+Stik langs de gebogen rand op de standaard naadwaarde van 1 cm om de twee stukken aan elkaar te bevestigen.
 
-> If your lining has any stretch in it at all, try to stretch it out a bit while you sew the curve. This will make it easier to get the lining to lie flat without wrinkles later on.
+> Als je voering een beetje stretch heeft, rek de voering dan wat uit terwijl je de curve stikt. Dit maakt het makkelijker om de voering plat te laten liggen zonder plooien.
 
-### Step 17: Press the fly shield
+### Stap 17: Strijk het gulpbeleg
 
 ![Press the fly shield](step17.png)
 
-> Before pressing down your fly piece, make sure to roll the seam a little bit so that your trouser lining fabric sits a bit further, and the lining starts only about 2mm from the edge. This will prevent the lining from peeking out at the edge.
+> Voor je dit deel platstrijkt rol je de naad een beetje naar binnen zodat de voering naar de onderkant gekeerd wordt, en ongeveer 2 mm van de rand ligt. Dit voorkomt dat de voering aan de rand zichtbaar is.
 
-After you have sewed fly piece and fly shield together, turn them inside out and press the seam you just made.
+Als je het gulpdeel en gulpbeleg vastgestikt hebt keer je alles naar de goede kant en strijk je de naad plat.
 
-### Step 18: Pin zip to right front piece
+### Stap 18: Speld de rits aan het rechtervoorpand
 
 ![Pin zip to right front piece](step18.png)
 
-> Steps 18 to 21 all lead up to a single row of stitching that will sew your zip to the front, while attaching the fly piece and fly shield in one go.
+> Stap 18 tot 21 leiden allemaal naar een enkel stiksel dat de rits aan het voorpand bevestigt, en tegelijk het gulpdeel en gulpbeleg vastmaakt.
 > 
-> This is the hardest seam to do in the entire construction process, so I'm taking my time to explain and illustrate this before you start sewing.
+> Dit is de moeilijkste naad in het hele proces, dus ik ga mijn tijd nemen om alles uit te leggen en te illustreren voor je begint te naaien.
 
-Place your front piece for the right leg with the good side up. So that lining and front pocket bag sit underneath and lie flat.
+Leg het voorpand van de rechterbroekspijp met de goede kant omhoog. Zorg dat de voering en het zakdeel onderaan liggen, en mooi plat.
 
-Take your zip and open it (unzip it). Now turn it over so that it sits with the good side down. In other words, with the zipper puller down.
+Neem je rits en open ze. Keer ze nu om zodat ze met de goede kant naar beneden ligt. In andere woorden, met de trekker naar beneden.
 
-Align your zip with the crotch seam as shown in the illustration. Take the following into account:
+Leg je rits gelijk met de kruisnaad zoals in de illustratie. Hou het volgende in gedachten:
 
-- The end of your zip should sit at the top of your trousers where your waistband will start. However, make sure to remember that there is seam allowance there, so don't align it with the top of the front piece, but subtract 1cm seam allowance.
-- Align the zip with the crotch seam. Do not mind the edge of the zip, as they come in different widths. Instead, make sure that you can sew next to the teeth of the zip within the seam allowance of the front piece.
+- Het einde van je rits zou aan de bovenrand van je broek moeten zitten, waar je tailleband begint. Denk er wel aan dat daar nog naadwaarde zit, dus leg het einde niet exact samen met de rand, maar 1 cm lager.
+- Leg de rits gelijk met de kruisnaad. Let niet op de rand van de rits, aangezien deze in verschillende breedtes bestaan. Zorg in de plaats dat je naast de tandjes van de rits kan stikken en binnen de naadwaarde van het voorpand blijven.
 
-Pin the zip in place with a few pins perpendicular to your zip (as shown). In other words, don't pin along the zip, but across the zip.
+Speld de rits vast met een paar spelden haaks op de rits (zoals getoond). In andere woorden, speld niet langs de rits, maar door de rits.
 
-> If you're unsure about the placement of your zip, put it as close to the edge as possible. Doing so will only mean your zip is tucked away a bit further under the fly, so that it certainly is not on show.
+> Als je niet zeker bent over de plaatsing van je rits, leg ze dan zo dicht mogelijk tegen de rand. Dit zorgt dat je rits iets verder in de gulp zit, zodat ze zeker niet zichtbaar is.
 
-### Step 19: Pin fly shield to zip
+### Stap 19: Speld gulpbeleg aan rits
 
 ![Pin zip to right front piece](step19.png)
 
-Take the fly shield/fly piece that you assembled in step 16 & 17, and place it with the fabric facing downward, and the lining upward.
+Neem het gulpbeleg/gulpdeel dat je in stap 16 en 17 samengestikt hebt en leg het neer met de stof naar beneden en de voering naar boven.
 
 Flip aside the top lining layer, and align the slightly curved edge of the fabric (where it is not sewn to the lining) with the edge of the fabric of your front piece.
 
