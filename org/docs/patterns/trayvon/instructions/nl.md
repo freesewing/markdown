@@ -62,34 +62,34 @@ Hoewel je een alternatief kan zoeken, zoals een wollen stof of flanel, recycleer
 
 ![One fabric, different grains, different ties. Don't worry about rules, make what you like](tie-grain.png)
 
-This pattern does not include a grain line. The grain line is typically printed on the pattern to show you how to place your pattern on your fabric, relative to the fabric's grain.
+Dit patroon heeft geen draadrichting. Normaal gezien wordt de draadrichting op het patroon geprint om je te tonen hoe je het patroon op de stof moet leggen, afhankelijk van de draadrichting.
 
-For a tie, how you do this is not so much a rule as it is a personal choice. As such, there is no grain line printed on the pattern. You can do what you want.
+Voor een das is dit niet echt een regel, eerder een persoonlijke keuze. Daarom staat er geen draadrichting op het patroon. Je kan doen wat je wil.
 
-That being said, a lot of ties are cut on bias, as this results in the best drape. If you are unsure what to do, consider cutting your tie on bias.
+Dit gezegd zijnde zijn veel dassen schuin van draad geknipt, aangezien dit het mooiste valt. Als je niet zeker bent wat te doen, knip je das dan misschien schuin van draad.
 
-> If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/en/docs/sewing/fabric-grain).
+> Als dit allemaal erg verwarrend vindt kan ik je aanraden onze pagina over [Draadrichting](/en/docs/sewing/fabric-grain) eens te bekijken.
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **1 tip**
- - Cut **1 tail** 
+ - Knip **1 punt**
+ - Knip **1 staart** 
 - **Voering** 
- - Cut **1 lining tip**
- - Cut **1 lining tail** 
- - Cut **1 loop** 
+ - Knip **1 voering punt**
+ - Knip **1 voering staart** 
+ - Knip **1 lus** 
 - **Tussenvoering** 
- - Cut **1 interfacing tip**
- - Cut **1 interfacing tail** 
+ - Knip **1 tussenvoering punt**
+ - Knip **1 tussenvoering staart** 
 
-### Caveat
+### Opmerkingen
 
-- There is no seam allowance on the **interfacing** parts and the **loop**
-- The **lining** **tip** and **tail** have only seam allowance at the tip
-- The **fabric** **tip** and **tail** have only seam allowance at the tip and center
+- Er is geen naadwaarde aan de delen in **tussenvoering** en de **lus**
+- De **voering punt** en **voering staart** hebben enkel aan het uiteinde naadwaarde
+- De **punt** en **staart** hebben enkel naadwaarde aan de uiteindes en het midden
 
-Trayvon a very simply pattern, below is a typical layout:
+Trayvon een heel eenvoudig patroon, hieronder is een typische lay-out:
 
 ![A typical Trayvon layout](layout.svg)
 
@@ -97,13 +97,13 @@ Trayvon a very simply pattern, below is a typical layout:
 
 ## Constructie
 
-### Step 1: Sew the first side of your tie tail
+### Stap 1: Stik de eerste kant van je staart
 
 ![Sew the first side of the tie tail](step01.png)
 
-Align the lining tail (piece 6) on top of the fabric tail (piece 4), good sides together
+Leg de voering staart (deel 6) bovenop de stof staart (deel 4), met de goede kanten op elkaar
 
-Shift the lining tail along a side running up the tail until the notch on the lining tail matches the notch on the fabric tail.
+Schuif de voering staart langs een kant naar boven aan de staart tot het merkteken op de voering overeenkomt met dat op de stof.
 
 Sew in place, starting precisely at the matched notch, along the edge. Make sure to backtack on both sides.
 
