@@ -264,32 +264,32 @@ Markeer het punt waarop de lus samenkomt, en stik samen.
 
 Strijk je lus dan open zodat de naad in het midden zit en de uiteindes naar één kant.
 
-### Step 15: Slip stitch tie, and insert loop
+### Stap 15: Blinde zoomsteek, en bevestig de lus
 
 ![Slip-stitch tie, and insert loop](step15.png)
 
-Use a slip stitch to hand sew your tie all along the length of the back.
+Gebruik een blinde zoomsteek om met de hand helemaal langs de achterkant van je das te naaien.
 
-> Your slip stitch should only catch the tie fabric on the back. Refrain from running it through the tie interfacing.
+> De blinde zoomsteek gaat alleen door de stof aan de achterkant. Probeer de steken niet door de tussenvoering te halen.
 > 
-> Be careful for is you run the stitch too deep, it might show on the front, and ruin your tie.
+> Wees ook voorzichtig: als de steken te diep gaan zie je ze aan de voorkant, en verpest je de das.
 
-Make sure to slide in your loop, somewhere around 1/5th of the tie length, starting from the tip.
+Stop je lus tussen de lagen, ongeveer op 1/5 van de lengte van de das, beginnend aan de punt.
 
-Use your slip stitch to secure the loop in place on the center seam; we'll fix the edges of the loop in the next step.
+Gebruik de blinde zoomsteek om de lus vast te maken aan de middennaad; in de volgende stap maken we de randjes van de lus vast.
 
-### Step 16: Secure the loop edges
+### Stap 16: Maak de randen van de lus vast
 
 ![Secure the loop edges](step16.png)
 
-Hand sew the edges of the loop to your tie, so it stays in place nicely.
+Naai de randen van de lus met de hand vast aan je das, zodat ze mooi op de juiste plek blijft.
 
-Make sure to sew only the bottom layer of the loop, so the stitches don't show on the loop.
+Naai enkel door de onderste laag van de lus, zodat de steken niet zichtbaar zijn.
 
-And, once again, be careful not to run your stitches through your tie. Be shallow.
+En, wederom, let op dat de steken niet door je hele das gaan. Je mag eens oppervlakkig doen.
 
-### Step 17: Trim and clean up
+### Stap 17: Knip bij en kuis op
 
 ![Trim and clean up](step17.png)
 
-Trim any loose threads you might have.
+Knip alle losse draadjes die er nog hangen af.
