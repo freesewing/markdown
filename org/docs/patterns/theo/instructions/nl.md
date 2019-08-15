@@ -519,43 +519,43 @@ Aan één kant van de tailleband eindig je met een curve en ga je dan verticaal 
 
 Zorg voor je de tailleband strijkt dat de stof over de rand van de tussenvoering rolt.
 
-Remember that in the previous step your sewed 3mm from the interfacing edge? You need to make the fold around the edge of the interfacing so that the actual seam sits 3mm more inwards.
+Weet je nog dat je in de vorige stap 3 mm van de rand van de tussenvoering stikte? Je moet de stof rond de rand van de tussenvoering plooien zodat de eigenlijke naad 3 mm verder naar binnen zit.
 
-This will make sure that our lining fabric is never on display from the front of your trousers.
+Dit zorgt dat onze voeringstof nooit zichtbaar is aan de voorkant van je broek.
 
-### Step 42: Pin waistband to trousers
+### Stap 42: Speld de tailleband aan de broek
 
 ![Pin waistband to trousers](step42.png)
 
-Pin the edge of your waistband (the side you did not sew the lining to) to the top of your trousers, good sides together.
+Speld de rand van je tailleband (de kant waar je de voering niet aan stikte) aan de bovenrand van je broek, met de goede kanten samen.
 
-Tuck the edge of your fly into the end of the waistband with the curved corner. On the other end of the waistband, it will be longer. In other words, your waistband will overlap here.
+Stop de rand van de gulp in de kant van de tailleband met de afgeronde hoek. Aan de andere kant van de tailleband zal dit langer zijn. In andere woorden, hier zal je tailleband overlappen.
 
-> Be careful to match the vertical alignment of the waistband at the zip. With the zip closed, both sides of the waistband should sit at an equal height. This is easy to miss if you don't check it.
+> Let op dat de rits en de tailleband verticaal doorlopen. Beide kanten van de tailleband zouden even hoog moeten komen met de rits gesloten. Dit is makkelijk over het hoofd gezien als je het niet nakijkt.
 
-### Step 43: Sew waistband to trousers
+### Stap 43: Stik de tailleband aan de broek
 
 ![Sew waistband to trousers](step43.png)
 
-Now that the waistband is pinned to top of your trousers, sew it in place.
+Nu de tailleband aan de bovenrand van de broek gespeld is, kan je deze vaststikken.
 
-On the side with the curved corner, get as close to the edge as possible. On the other side, stop when you reach the edge of your fly.
+Stik zo dicht mogelijk bij de rand aan de kant met de afgeronde hoek. Aan de andere kant stop je bij de rand van je gulp.
 
-### Step 44: Press waistband
+### Stap 44: Strijk de tailleband
 
 ![Press waistband](step44.png)
 
-Give your newly sewn seam a good press. Do not press the seam open, instead press it towards the top (put both trousers and waistband seam allowance in the waistband).
+Strijk deze nieuwe naad eens goed. Strijk de naad niet open, maar naar boven, zodat de hele naadwaarde in de tailleband zit.
 
-### Step 45: Prepare the belt loops
+### Stap 45: Bereid de riemlusjes voor
 
 ![Prepare the belt loops](step45.png)
 
-The belt loops are a part of your trousers where you can let your creativity run free. There's load of different ways to make and shape belt loops, not to mention that where you place them is also up to you.
+De riemlusjes zijn een deel van je broek waar je creatief mee kan omspringen. Er zijn een hoop manieren op riemlusjes te maken, om nog maar te zwijgen van waar je ze plaatst.
 
-That being said, here's what to do to make a standard belt loop:
+Los daarvan is dit de standaard manier om een riemlusje te maken:
 
-Find the belt loop pattern part, a small rectangular piece of fabric. There should be 8 of them, and these will become your belt loops. For each of them, take these steps:
+Vind het patroondeel voor de riemlus, een klein rechthoekig stuk stof. Hiervan zou je er 8 moeten hebben, en dit worden je riemlusjes. Voor elke lus volg je deze stappen:
 
 - Zig-zag (or serge) along the longest edges of the rectangle
 - Fold one side back along the length, and press
