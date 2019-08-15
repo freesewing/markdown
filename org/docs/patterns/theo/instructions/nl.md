@@ -160,17 +160,17 @@ Plooi het grootste deel van het voorpand weg, zodat je de voering, zakdeel en ge
 
 Zigzag de rand van het weggeplooide deel van het voorpand om het af te werken en vast te maken aan het zakdeel en de voering.
 
-### Step 8: Press side pocket
+### Stap 8: Strijk de steekzak
 
 ![Press side pocket](step08.png)
 
-When you're done, place front piece, lining and pocket bag flat, and give it a good press.
+Wanneer je klaar bent leg je het voorpand, de voering en het zakdeel plat, en strijk je het eens grondig.
 
-> This might be a good time to remind you that every step up to this point had to be done for both legs.
+> Dit is misschien een goed moment om je nog eens te vertellen dat alle stappen tot nu toe gelden voor de twee broekspijpen.
 > 
-> It's just a friendly reminder, the next steps need to be done for both legs too.
+> Gewoon zodat je eraan denkt, de volgende stappen moeten trouwens ook twee keer gedaan worden.
 
-### Step 9: Attach side piece to pocket bag
+### Stap 9: Bevestig belegdeel voorzak aan zakdeel
 
 ![Attach side piece to pocket bag](step09.png)
 
