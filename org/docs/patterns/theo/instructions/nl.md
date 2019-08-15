@@ -489,35 +489,35 @@ Afhankelijk van je stof kan je plooi langer blijven, maar uiteindelijk kan je ni
 
 ![Fuse interfacing to waistband](step38.png)
 
-Fuse the waistband interfacing (Piece 3) to the waistband (Piece 4).
+Strijk de tussenvoering voor de tailleband (deel 3) aan de tailleband (deel 4).
 
-Align the interfacing in the middle of the waistband, and make sure to keep it nicely aligned as you fuse it in place with your iron.
+Leg de tussenvoering in het midden van de tailleband, en let op dat ze netjes recht blijft liggen terwijl je ze vaststrijkt.
 
-### Step 39: Close waistband and waistband lining
+### Stap 9: Sluit de tailleband en de voering van de tailleband
 
 ![Close waistband and waistband lining](step39.png)
 
-Join the waistband (Pieces 4a and 4b) by sewing both pieces good sides together.
+Maak de tailleband (delen 4a en 4b) door beide delen met de goede kanten op elkaar te stikken.
 
-Join the waistband lining (Pieces 5a and 5b) by sewing both pieces good sides together.
+Maak de voering van de tailleband (delen 5a en 5b) door beide delen met de goede kanten op elkaar te stikken.
 
-### Step 40: Sew waistband to waistband lining
+### Stap 40: Stik de tailleband aan de voering van de tailleband
 
 ![Sew waistband to waistband lining](step40.png)
 
-Place your waistband on the waistband lining, good sides together, so that the waistband interfacing is facing upwards.
+Leg je tailleband op de voering van de tailleband, met de goede kanten op elkaar, zodat de tussenvoering van de tailleband naar boven ligt.
 
-Align the edge, and pin them together.
+Leg de rand gelijk, en speld ze samen.
 
-> We are going to sew along the edge of the interfacing, but we will sew about 3mm or 1/8 inch from the actual interfacing edge. This will prevent the lining from being visible from the front later.
+> We gaan langs de rand van de tussenvoering stikken, maar ongeveer 3 mm of 1/8 inch van de eigenlijke rand. Dit voorkomt dat de voering aan de voorkant zichtbaar is.
 
-On one side of the waistband, end with a curve and then go down vertically along the edge of the waistband interfacing. Check the illustration to make sure you do it on the correct side.
+Aan één kant van de tailleband eindig je met een curve en ga je dan verticaal naar beneden langs de rand van de tussenvoering. Kijk naar de illustratie om zeker te zijn dat je dit aan de juiste kant doet.
 
-### Step 41: Roll fabric around interfacing edge and press waistband
+### Stap 41: Rol de stof rond de rand van de tussenvoering en strijk de tailleband
 
 ![Roll fabric around interfacing edge and press waistband](step41.png)
 
-Before pressing the waistband, make sure to roll over the fabric around the edge of the interfacing.
+Zorg voor je de tailleband strijkt dat de stof over de rand van de tussenvoering rolt.
 
 Remember that in the previous step your sewed 3mm from the interfacing edge? You need to make the fold around the edge of the interfacing so that the actual seam sits 3mm more inwards.
 
