@@ -285,83 +285,83 @@ Speld de rits vast met een paar spelden haaks op de rits (zoals getoond). In and
 
 Neem het gulpbeleg/gulpdeel dat je in stap 16 en 17 samengestikt hebt en leg het neer met de stof naar beneden en de voering naar boven.
 
-Flip aside the top lining layer, and align the slightly curved edge of the fabric (where it is not sewn to the lining) with the edge of the fabric of your front piece.
+Leg de bovenste laag voering opzij, en leg de rand van de stof met de lichte curve (waar het niet aan de voering bevestigd is) gelijk met de rand van de stof van het voorpand.
 
-> For clarity, what side of the fly shield that should be facing up is shown in the top part of the illustration, at a smaller scale.
+> Voor de duidelijkheid, de kant van het gulpbeleg die omhoog moet liggen is getoond in het bovenste deel van de illustratie, op een kleinere schaal.
 
-Pin this layer in place with a few pins perpendicular to your zip (as shown in red). Make sure you catch all layers underneath, including the zip. This way, you can remove your pins from the step before (shown in green) when done.
+Speld deze laag vast met een paar spelden haaks op de rits (zoals getoond in het rood). Zorg dat je alle lagen mee vastspeldt, ook de rits. Zo kan je de spelden van de vorige stap (getoond in het groen) verwijderen als je klaar bent.
 
-> If you're comfortable holding all this in place, you can let the lining fall back and pin everything together as shown in the next step. That's somewhat faster, but more prone to errors as things can shift around easier.
+> Als je zeker genoeg bent dat je alles op z'n plaats kan houden kan je de voering terug laten vallen en alles samenspelden zoals in de volgende stap. Dit is een beetje sneller, maar je maakt sneller fouten omdat dingen snel kunnen verschuiven.
 
-### Step 20: Pin fly shield in place along zip
+### Stap 20: Speld het gulpbeleg vast langs de rits
 
 ![Pin fly shield in place along zip](step20.png)
 
-Let the lining fall back in place, and now pin all layers together along the zip.
+Leg de voering weer op z'n plek, en speld nu alle lagen samen langs de rits.
 
-When you are done, remove your earlier perpendicular pins.
+Wanneer je dit gedaan hebt kan je je eerdere spelden verwijderen.
 
-### Step 21: Fold over fly shield and pin down
+### Stap 21: Plooi het gulpbeleg om en speld het neer
 
 <img src="step21a.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" /> <img src="step21b.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" />
 
-Flip everything over so that your fly shield lies at the bottom.
+Draai alles om zodat het gulpbeleg onderaan ligt.
 
-Fold the lining of the fly shield around the fly, front piece and fly piece, making sure to double-fold it so the raw edge is hidden inside.
+Plooi de voering van het gulpbeleg rond de gulp, het voorpand en het gulpdeel, zodat de onafgewerkte rand aan de binnenkant zit.
 
-Pin this down, and remove your previous pins.
+Speld dit vast, en verwijder je eerdere spelden.
 
-### Step 22: Sew fly in place along zip
+### Stap 22: Stik de gulp vast langs de rits
 
 ![Sew fly in place along zip](step22.png)
 
-Now you can sew along the double folded fly piece. This will fix the front, zip, fly shield and fly piece all in place.
+Nu kan je langs het geplooide gulpdeel stikken. Dit zet het voorpand, de rits, het gulpbeleg en het gulpdeel in één keer vast.
 
-> You will be sewing along your zip, so make sure to install your zipper foot for this.
+> Je stikt langs je rits, dus gebruik je ritsvoet hiervoor.
 
-### Step 23: Fold back fly and press
+### Stap 23: Plooi de gulp om en strijk
 
 ![Fold back fly and press](step23.png)
 
-When you're done, fold back the fly so that it extends from the front piece, and give it a thorough press from the back. And a gentle press from the front.
+Wanneer je klaar bent, plooi de gulp dan om zodat ze van het voorpand wegligt, en strijk grondig van de verkeerde kant. En strijk nog eens zachtjes van de voorkant.
 
-### Step 24: Apply bias tape to second fly piece and press
+### Stap 24: Stik biaislint aan het tweede gulpdeel en strijk
 
 ![Apply bias tape to the edge with the large curve of your second fly piece](step24.png)
 
-Apply bias tape to the edge with the large curve of your second fly piece.
+Stik bieslint aan de rand met de grootste curve van je tweede gulpdeel.
 
-Press the finished edge flat when you're done.
+Strijk de afgewerkte rand plat wanneer je klaar bent.
 
-> Bias tape is a way to finish a seam. If you are not sure what it is or how to apply it, let me know.
+> Biaislint is een manier om een rand af te werken. Als je niet zeker bent wat het is of hoe je het gebruikt, laat het me dan weten.
 
-### Step 25: Pin and sew fly piece to crotch seam
+### Stap 25: Speld en stik het gulpdeel aan de kruisnaad
 
 ![Pin and sew fly piece to crotch seam](step25.png)
 
-Place the left leg with the good side up. Place the second fly piece on top with the good side down, aligning the unfinished seam with the crotch seam.
+Leg de linkerbroekpijp met de goede kant omhoog. Leg het tweede gulpdeel bovenop met de goede kant naar beneden, en leg de onafgewerkte rand samen met de kruisnaad.
 
-Pin the fly piece in place, then sew it in place along the crotch seam.
+Speld het gulpdeel vast, en stik het dan vast langs de kruisnaad.
 
-> When you sew this in place, make sure to catch the front lining.
+> Let op dat je de voering mee vaststikt bij het stikken van deze naad.
 
-Press the finished edge flat when you're done.
+Strijk de afgewerkte rand plat wanneer je klaar bent.
 
-### Step 26: Roll the fly piece to the back, and press the seam
+### Stap 26: Keer het gulpdeel naar achter en strijk de naad
 
 ![Roll the fly piece to the back, and press the seam](step26.png)
 
-Fold the fly piece to the back. Before you press, make sure to roll the seam a bit backwards so that the front of the trousers sits a little further than the fly piece.
+Plooi het gulpdeel naar de verkeerde kant. Rol de naad een beetje verder naar achter voor je dit strijkt zodat deze niet meer zichtbaar is langs de goede kant.
 
-This way, the seam or fly piece will not show from the front.
+Op deze manier zal de naad of het gulpbeleg onzichtbaar zijn aan de voorkant.
 
-Give it a good press from the back.
+Strijk eens goed langs de achterkant.
 
-### Step 27: Pin and sew zip to fly piece
+### Stap 27: Speld en stik de rits aan het gulpdeel
 
 <img src="step27a.png" alt="Place both legs on top of eachother" title="" class="fs-row3" /> <img src="step27b.png" alt="Pin the zip along the edge" title="" class="fs-row3" /> <img src="step27c.png" alt="Sew in place" title="" class="fs-row3" />
 
-Place the right leg down with the good side up. Place the leg on top of it with the good side down.
+Leg de rechterbroekspijp neer met de goede kant omhoog. Place the leg on top of it with the good side down.
 
 With the crotch seams aligned, pin the zip along the edge of the fly piece with the good side of the zip down.
 
