@@ -625,59 +625,59 @@ Als je blij bent met hoe het eruitziet, drieg de voering dan vast naast de naar 
 
 > Het is best om naast de naad te driegen, en niet echt in de naad. Dit maakt het makkelijker om je driegsteken te verwijderen nadat we de naad doorgestikt hebben.
 
-### Step 50: Sew the waistband lining in place
+### Stap 50: Stik de voering van de tailleband vast
 
 ![Sew the waistband lining in place](step50.png)
 
-After you basted the waistband lining, sew it in place from the good side, exactly in the seam between the waistband and trousers.
+Nadat je de voering van de tailleband gedriegd hebt, stik ze dan vast langs de goede kant, exact in de naad tussen de tailleband en de broek.
 
-### Step 51: Attach the belt loops: Top
+### Stap 51: Bevestig de riemlusjes: Bovenaan
 
 ![Attach the top of the belt loops](step51.png)
 
-With your waistband and lining properly secured, it's time to attach the top of the belt loops.
+Nu je tailleband en voering echt vastzitten is het tijd om de bovenkant van de riemlusjes vast te maken.
 
-Sew them in place just as you did at the bottom. That is, use a bar tack or close zig-zag to attach them, then zig-zag over the end to secure it.
+Stik ze vast zoals je aan de onderkant deed. Dat wil zeggen, zet ze vast met een trens of smalle zigzag, en zigzag dan over het uiteinde om ze af te werken.
 
-> Don't sew through the top of the belt loops. You'll have to work the foot of your sewing machine under the belt loop so you only sew the piece that is folded back.
+> Stik niet door de bovenkant van de riemlusjes. Je zal de voet van je naaimachine onder het riemlusje moeten krijgen zodat je alleen door het teruggeplooide stuk stikt.
 > 
-> Feel free to trim back the length of your belt loops after you bar tack and before you zig-zag the end of them, as they might be too long.
+> Knip de lengte van je riemlusjes gerust bij nadat je ze bevestigt, ze kunnen namelijk wat te lang zijn.
 
-### Step 52: Finish the edge of the legs
+### Stap 52: Werk de onderrand van de broekspijpen af
 
 ![Finish the edge of the legs](step52.png)
 
-Before we hem the trousers, finish the raw edge of the legs with a zig-zag stitch or serger.
+Werk de onafgewerkte rand van de broekspijpen af met een zigzagsteek of overlock voor we de broek omzomen.
 
-> This would also be a good time to try on your trousers and mark exactly how long you want them to be after they are hemmed.
+> Dit is ook een goed moment om je broek te passen en te markeren hoe lang je wil dat ze is na het omzomen.
 
-### Step 53: (Optional) Sew in a hem ribbon
+### Stap 53: (Optioneel) Naai een broekstootband
 
 ![Optionally sew in a hem ribbon](step53.png)
 
-> The hem ribbon is a ribbon that sits on the inside of your trouser hem. At the place your hem folds back, the fabric has to take a lot of abuse from bumping into shoes and other things.
+> Een broekstootbandje is een lint dat aan de binnenkant van je broekzoom zit. Op de plek waar je zoom omgeplooid is krijgt de stof heel wat te verduren door tegen schoenen en andere dingen aan te schuren.
 > 
-> Placing a ribbon inside the hem protects your fabric to some extent, and it is a neat finish.
+> Een broekstootband beschermt je stof in zekere mate, en is een nette afwerking.
 
-Mark the hemline on your trousers (good side out).
+Markeer de zoomlijn op je broek (met de goede kant naar buiten).
 
-Place the ribbon as shown in the illustration making sure that it extends a few mm above the hemline. Sew it in place all the way around the leg, making sure to sew close but not on the hemline.
+Leg de broekstootband zoals getoond in de illustratie, en let op dat ze een paar mm boven de zoomrand ligt. Stik vast rondom de broekspijp, en let op dat je dichtbij maar niet op de zoomlijn stikt.
 
-### Step 54: Press the hem
+### Stap 54: Strijk de zoom
 
 ![Press the hem](step54.png)
 
-Fold back the trouser legs at the hemline, and press the hem.
+Plooi de broekspijpen om aan de zoomlijn, en strijk de zoom.
 
-> If you've sewn in a hem ribbon, the ribbon will extend a few mm below the hem line, thereby protecting the fabric at the hem.
+> Als je een broekstootband gebruikt hebt zal het lint een paar mm voorbij de zoomlijn liggen, en zo de stof aan de zoom beschermen.
 
-### Step 55: Hem the legs
+### Stap 55: Zoom de broekspijpen
 
 ![Hem the legs](step55.png)
 
-With the hem neatly pressed, simply hand-sew the folded back part to the inside of your trousers.
+Als de zoom netjes gestreken is, naai het teruggeplooide deel dan vast aan de binnenkant van je broek.
 
-> Hemming is done by hand because it's important that the stitches don't show on the front. So when hand-sewing the hem, don't push your needle through the fabric, but just catch a few threads so your stitches don't show on the front
+> Omzomen wordt met de hand gedaan omdat het belangrijk is dat de steken niet zichtbaar zijn aan de goede kant. So when hand-sewing the hem, don't push your needle through the fabric, but just catch a few threads so your stitches don't show on the front
 > 
 > While there are machine alternatives, they aren't as neat (blind hem stitch) or probably not accessible to the home-sewer (industrial blind hem machine).
 
