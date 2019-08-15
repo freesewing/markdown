@@ -374,34 +374,34 @@ Stik uiteindelijk langs de rits met je ritsvoet om ze vast te maken aan het gulp
 > Let op het volgende terwijl je de rits goedlegt:
 > 
 > - De rits ligt met de goede kant naar beneden
-> - The zip should sit a bit back from the edge of your fly piece
-> - Make sure to align the top of the zip with the other zip half on the right leg
+> - De rits ligt een beetje verder dan de rand van je gulpdeel
+> - Leg de bovenkant van de rits gelijk met de andere helft van de rits aan de rechterbroekspijp
 
-### Step 28: Zig-zag the zip edge to the fly piece
+### Stap 28: Zigzag de rand van de rits aan het gulpdeel
 
 ![Zig-zag the zip edge to the fly piece](step28.png)
 
-With the fly in place, run a zig-zag stitch along the edge of the zip to secure it to the fly piece.
+Zigzag langs de rand van de rits om ze vast te maken aan het gulpdeel.
 
-### Step 29: Bar-tack both fly pieces together
+### Stap 29: Bevestig de gulpdelen met een trens
 
 ![Bar-tack both fly pieces together](step29.png)
 
-Place both fly pieces together, and move the front pieces out of the way.
+Leg de twee gulpdelen samen, en leg de voorpanden uit de weg.
 
-Use a bar-tack to join them together at the bottom of the zip. Sew on both edges of the zip, and get as close to the zip as you can.
+Gebruik een trens om ze aan elkaar te bevestigen, aan de onderkant van de rits. Stik aan beide kanten van de rits, en zo dicht bij de rits als je kan.
 
-> If your zip is too long, you can trim it below the bar-tacks.
+> Als je rits te lang is kan je ze onder de trensen bijknippen.
 
-### Step 30: Join crotch seam
+### Stap 30: Sluit de kruisnaad
 
 <img src="step30a.png" alt="Join crotch seam" title="" class="fs-row2" /> <img src="step30b.png" alt="Join crotch seam" title="" class="fs-row2" />
 
-Place both fronts with the good sides up. They are now joined by the fly.
+Leg beide voorpanden met goede kanten naar boven. Ze zijn nu verbonden met de gulp.
 
-Make sure the fly is neatly tucked under, and pin together both fronts at the bottom of the fly, where you bar-tacked earlier. Make sure the pin is aligned to the fold of your front.
+Zorg dat de gulp netjes weggeplooid is, en speld beide voorpanden samen onder de rits, waar je eerder trensen maakte. Zorg dat de speld samenligt met de plooi van je voorpand.
 
-Fold the fronts with the good sides together, and pin them together along the crotch.
+Plooi de voorpanden met goede kanten samen, en speld de kruisnaad dicht.
 
 You'll need to get the fly shields out of the way, so if you've pinned through all layers before, remove that pin now, making sure to replace it with a horizontal pin. This will tell you how far to sew.
 
