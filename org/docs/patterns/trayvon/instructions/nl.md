@@ -60,7 +60,7 @@ Hoewel je een alternatief kan zoeken, zoals een wollen stof of flanel, recycleer
 
 ### Kies je draadrichting
 
-![One fabric, different grains, different ties. Don't worry about rules, make what you like](tie-grain.png)
+![Eén stof, verschillende draadrichtingen, verschillende dassen. Maak je geen zorgen over de regels en maak wat je wil](tie-grain.png)
 
 Dit patroon heeft geen draadrichting. Normaal gezien wordt de draadrichting op het patroon geprint om je te tonen hoe je het patroon op de stof moet leggen, afhankelijk van de draadrichting.
 
@@ -91,7 +91,7 @@ Dit gezegd zijnde zijn veel dassen schuin van draad geknipt, aangezien dit het m
 
 Trayvon een heel eenvoudig patroon, hieronder is een typische lay-out:
 
-![A typical Trayvon layout](layout.svg)
+![Een typische Trayvon layout](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
@@ -99,7 +99,7 @@ Trayvon een heel eenvoudig patroon, hieronder is een typische lay-out:
 
 ### Stap 1: Stik de eerste kant van je staart
 
-![Sew the first side of the tie tail](step01.png)
+![Stik de eerste kant van je staart](step01.png)
 
 Leg de voering staart (deel 6) bovenop de stof staart (deel 4), met de goede kanten op elkaar
 
@@ -111,7 +111,7 @@ Twee merktekens zitten nu op dezelfde plek vast.
 
 ### Stap 2: Stik de tweede kant van je staart
 
-![Sew the second side of your tie tail](step02.png)
+![Stik de tweede kant van je staart](step02.png)
 
 Schuif de staart in stof zo dat het tweede merkteken overeenkomt met het merkteken op de voering (de plaats waar je eerste naad begon).
 
@@ -123,7 +123,7 @@ Nu zitten de drie merktekens op dezelfde plek vast.
 
 ### Stap 3: Werk de staart af
 
-![Finish the tie tail](step03.png)
+![Werk de staart af](step03.png)
 
 Plooi je das open zodat de twee naden die je in stap 1 en 2 maakte bovenop elkaar liggen. Probeer dit precies te plooien; de geplooide randen zouden een rechte hoek moeten vormen.
 
@@ -131,7 +131,7 @@ Stik het punt waar de drie merktekens en de twee naden samenkomen vast aan de ge
 
 ### Stap 4: Keer de das binnenstebuiten en inspecteer je werk
 
-![Turn the tail inside-out and inspect your work](step04.png)
+![Keer de das binnenstebuiten en inspecteer je werk](step04.png)
 
 Knip al je draadjes bij en keer daarna je das voorzichtig naar de juiste kant.
 
@@ -145,7 +145,7 @@ Als je dit allemaal kon, kan je het opnieuw doen voor de punt van je das.
 
 ### Stap5: Stik de eerste kant van je punt
 
-![Sew the first side of your tie tip](step01.png)
+![Stik de eerste kant van je punt](step01.png)
 
 Leg de voering punt (deel 5) bovenop de stof punt (deel 3), met de goede kanten op elkaar
 
@@ -157,7 +157,7 @@ Twee merktekens zitten nu op dezelfde plek vast.
 
 ### Stap 6: Stik de tweede kant van je punt
 
-![Sew the second side of your tie tip](step02.png)
+![Stik de tweede kant van je punt](step02.png)
 
 Schuif de stof punt zo dat het tweede merkteken overeenkomt met het merkteken op de voering (de plaats waar je eerste naad begon).
 
@@ -169,7 +169,7 @@ Nu zitten de drie merktekens op dezelfde plek vast.
 
 ### Stap 7: Werk de punt af
 
-![Finish the tie tip](step03.png)
+![Werk de punt af](step03.png)
 
 Plooi je das open zodat de twee naden die je in stap 5 en 6 maakte bovenop elkaar liggen. Probeer dit precies te plooien; de geplooide randen zouden een rechte hoek moeten vormen.
 
@@ -177,7 +177,7 @@ Stik het punt waar de drie merktekens en de twee naden samenkomen vast aan de ge
 
 ### Stap 8: Keer de punt binnenstebuiten en inspecteer je werk
 
-![Turn the tip inside-out and inspect your work](step04.png)
+![Keer de das binnenstebuiten en inspecteer je werk](step04.png)
 
 Knip al je draadjes bij en keer daarna je das voorzichtig naar de juiste kant.
 
@@ -189,7 +189,7 @@ De naad waar de buitenstof van de das aan de voering vastzit zit niet aan de ran
 
 ### Stap 9: Bevestig de tussenvoering
 
-![Join the tie interfacing](step09.png)
+![Bevestig de tussenvoering](step09.png)
 
 Bevestig tussenvoering punt (deel 1) aan tussenvoering staart (deel 2) aan elkaar aan de niet-puntige kant. Let op dat de merktekens overeenkomen.
 
@@ -202,15 +202,15 @@ Bevestig tussenvoering punt (deel 1) aan tussenvoering staart (deel 2) aan elkaa
 
 ### Stap 10: Bevestig de stof van de das
 
-![Join the tie fabric](step10.png)
+![Bevestig de stof van de das](step10.png)
 
 > Als de tussenvoering vastgenaaid is, ligt de lengte van de das ook vast. Meet de das van punt tot punt, en let op dat je de stofdelen op de correcte lengte aan elkaar zet.
 
 Stik de punt en staart aan elkaar aan de niet-puntige kant.
 
-### Stap 11: maak je lusje
+### Stap 11: maak je lus
 
-![Make your tie loop](step11.png)
+![Maak je lus](step11.png)
 
 We gaan nu de lus (deel 7) van de das maken.
 
@@ -226,7 +226,7 @@ Als je blij bent met hoe je lusje geplooid en gestreken is, naai het dan langs d
 
 ### Stap 12: Stel je das samen
 
-![Assemble your tie](step12.png)
+![Stel je das samen](step12.png)
 
 Tijd om alles samen te brengen. Leg je das op een plat oppervlak, goede kant naar beneden en voering naar boven.
 
@@ -234,7 +234,7 @@ Neem nu je tussenvoering en leg ze in je das met de naadwaarde in het midden naa
 
 ### Stap 13: Plooi en strijk je das
 
-![Fold and press your tie](step13.png)
+![Plooi en strijk je das](step13.png)
 
 Als de tussenvoering in je das zit, plooi dan een kant van de stof over de tussenvoering.
 
@@ -256,7 +256,7 @@ Plooi uiteindelijk de bovenste laag langs het midden van je das, en strijk. Deze
 
 ### Stap 14: Bereid de lus voor
 
-![Prepare the loop](step14.png)
+![Bereid de lus voor](step14.png)
 
 Plooi je lus zo dat de punt van je das erdoor kan met wat bewegingsruimte.
 
@@ -266,7 +266,7 @@ Strijk je lus dan open zodat de naad in het midden zit en de uiteindes naar éé
 
 ### Stap 15: Blinde zoomsteek, en bevestig de lus
 
-![Slip-stitch tie, and insert loop](step15.png)
+![Blinde zoomsteek, en bevestig de lus](step15.png)
 
 Gebruik een blinde zoomsteek om met de hand helemaal langs de achterkant van je das te naaien.
 
@@ -280,7 +280,7 @@ Gebruik de blinde zoomsteek om de lus vast te maken aan de middennaad; in de vol
 
 ### Stap 16: Maak de randen van de lus vast
 
-![Secure the loop edges](step16.png)
+![Maak de randen van de lus vast](step16.png)
 
 Naai de randen van de lus met de hand vast aan je das, zodat ze mooi op de juiste plek blijft.
 
@@ -290,6 +290,6 @@ En, wederom, let op dat de steken niet door je hele das gaan. Je mag eens opperv
 
 ### Stap 17: Knip bij en kuis op
 
-![Trim and clean up](step17.png)
+![Knip bij en kuis op](step17.png)
 
 Knip alle losse draadjes die er nog hangen af.
