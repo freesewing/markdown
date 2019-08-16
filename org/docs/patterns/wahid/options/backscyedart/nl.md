@@ -1,11 +1,11 @@
 ---
-title: Back scye dart
+title: Achterste armsgat neep
 path: /en/docs/patterns/wahid/options/backscyedart
 pattern: wahid
 option: backScyeDart
 ---
 
-This pattern comes with a default 0.5 cm scye dart (think armhole dart) on the back. You can increase or decrease the dart to influence the armhole.
+Dit patroon komt met een standaard neepje van 0.5 cm in het armsgat aan de rug. Je kan deze neep groter of kleiner maken om het armsgat te beïnvloeden.
 
 > #### Waarom?
 > 
