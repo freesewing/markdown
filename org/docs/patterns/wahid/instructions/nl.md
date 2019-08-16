@@ -1,21 +1,21 @@
 ---
-title: Making Wahid
+title: Wahid maken
 path: /en/docs/patterns/wahid
 ---
 
 ## Wat je nodig hebt
 
-To make Wahid, you will need the following:
+Om Wahid te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- One meter of a suitable fabric ([see Fabric options](#fabric-options))
-- One meter of lining fabric
-- Fusable interfacing
-- Buttons
+- Een meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+- Een meter voering
+- Kleefbare tussenvoering
+- Knopen
 
 ## Stofkeuze
 
-All suiting fabrics are a great choice for your waistcoats. Any fabric shop that's worth your business should have a suiting section. You can just walk in, ask where you can find the fabric for suits, and pick out something you like.
+Alle pakstoffen zijn een goede keuze voor je gilets. Elke stoffenwinkel die de moeite is zou een afdeling met pakstoffen moeten hebben. You can just walk in, ask where you can find the fabric for suits, and pick out something you like.
 
 These fabrics are typically wool, but you can also be a bit more creative and go for something else.
 
@@ -24,17 +24,17 @@ These fabrics are typically wool, but you can also be a bit more creative and go
 ## Knippen
 
 - **Buitenstof** 
- - Cut **2 front(s)** with good sides together
- - Cut **2 back(s)** with good sides together
+ - Knip **2 voorpanden** met de goede kanten op elkaar
+ - Knip **2 achterpanden** met de goede kanten op elkaar
  - Cut **2 front facing(s)** with good sides together
  - Cut **2 pocket welt(s)** with good sides together
  - Cut **2 pocket facing(s)** with good sides together
 - **Voering** 
- - Cut **2 front lining(s)** with good sides together
- - Cut **2 back(s)** with good sides together
+ - Knip **2 voering voorpand** met de goede kanten op elkaar
+ - Knip **2 achterpanden** met de goede kanten op elkaar
  - Cut **2 pocket bag(s)** with good sides together
 - **Tussenvoering** 
- - Cut **2 front(s)** with good sides together
+ - Knip **2 voorpanden** met de goede kanten op elkaar
  - Cut **2 pocket interfacing(s)**
 
 ### Opmerkingen
@@ -85,9 +85,9 @@ Press the interfacing in place.
 
 Place your front facing and lining with good sides together. Pin the edges of the facing/lining boundary in place.
 
-Sew them together.
+Stik.
 
-#### Press open seam allowance
+#### Strijk de naadwaarde open
 
 Press open the seam allowance between facing and lining.
 
@@ -213,9 +213,9 @@ Fold your front over vertically at the edge of your pocket to reveal that little
 
 Sew this triangle down by sewing right next to the fold, and pocket edge.
 
-#### Close the pocket bag
+#### Sluit het zakdeel
 
-![Close the pocket bag](05l.png)
+![Sluit het zakdeel](05l.png)
 
 Sew your pocket facing to the pocket bag to finish your pocket.
 
