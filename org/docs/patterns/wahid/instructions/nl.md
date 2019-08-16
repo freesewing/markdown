@@ -137,37 +137,37 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ![Markeer waar je zak moet komen](05a.png)
     
-    Your front pattern piece has a helpline on it to show where the welt pocket should go. It's two half rectangles that got joined together when you closed the dart to form the shape of your welt pocket.
+    Je voorpand heeft een hulplijn om aan te geven waar de paspelzak moet komen. Het zijn twee halve rechthoeken die samenkwamen wanneer je de neep sloot, en samen de vorm van je paspelzak hebben.
     
-    If you haven't marked the four corners of that rectangle yet, you should do so now.
+    Als je de vier hoeken van die rechthoek nog niet aangeduid hebt, zou je dat nu moeten doen.
     
-    > The pocket sits under a slight angle on your pattern. Going forward, in the illustrations, I will draw the pocket straight as that makes things easier.
+    > De zak zit een beetje schuin op je patroon. Vanaf nu teken ik de zak recht op de illustraties, omdat dat iets makkelijker is.
     
-    #### Attach pocket welt and pocket facing
+    #### Bevestig paspel en beleg zak
     
-    <img src="05c.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" /> <img src="05d.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" />
+    <img src="05c.png" alt="Bevestig paspel en beleg zak" title="" class="fs-row2" /> <img src="05d.png" alt="Bevestig paspel en beleg zak" title="" class="fs-row2" />
     
-    Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
+    Leg je voorpand neer met de goede kant naar omhoog. We gaan de paspel aan de onderste lijn van de zakmarkering bevestigen, en het beleg aan de bovenste lijn.
     
-    > If you've never made a welt pocket before, it can be a bit counterintuitive to attach the pocket on the outside of the garment. Pocket should be on the inside, right?
+    > Als je nog nooit een paspelzak gemaakt hebt kan het een beetje vreemd lijken om de zak aan de buitenkant van het kledingstuk te bevestigen. Zakken zitten toch aan de binnenkant?
     > 
-    > Relax, the pocket will end up on the inside
+    > Rustig blijven, de zak komt uiteindelijk aan de binnenkant terecht
     
-    Both your pocket welt and your pocket facing have a help line on them. That line needs to line up with the long edges of your pocket.
+    Zowel je paspel als je beleg zak hebben een hulplijn. Deze lijn moet overeenkomen met de lange randen van je zakmarkering.
     
-    Place the pocket welt at the bottom, and the pocket facing on the top, both with their good side down.
+    Leg de paspel onderaan, en het beleg zak bovenaan, beide met de goede kanten naar beneden.
     
-    Carefully align their helpline on the pocket outline. They should now sit side by side, and just bump into each other at the middle of your pocket.
+    Leg de hulplijnen voorzichtig op de zakmarkering. Ze liggen nu naast elkaar, en raken elkaar maar net in het midden van de zakopening.
     
-    Now sew along the helpline which marks the long edge of your pocket.
+    Stik nu langs de hulplijnen die de lange rand van je zakopening aangeeft.
     
-    > It is important that the lines you sew now form the long edges of a perfect rectangle. This will determine the shape of your pocket, so if you make one line longer than the other, or if they are not parallel or mis-aligned, you pocket will look bad.
+    > Het is belangrijk dat de lijnen die je nu stikt een perfecte rechthoek vormen. Dit bepaalt de vorm van je zak, dus als de ene lijn langer is dan de andere, of ze zijn niet parallel of zitten op de verkeerde plek zal je zak er niet mooi uitzien.
     
-    #### Cut open the pocket
+    #### Knip de zak open
     
-    ![Cut open the pocket](05c.png)
+    ![Knip de zak open](05c.png)
     
-    Time to carefully cut open the pocket. Start in the middle of the pocket, and cut towards along the longest edges towards the side.
+    Tijd om de zak voorzichtig open te knippen. Begin in het midden van de zakopening, en knip langs de lange randen naar de zijkant.
     
     At the edges of your pocket you need to stop cutting open the center and instead cut towards the end of your line of stitches under 45 degrees.
     
