@@ -103,39 +103,39 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Sluit de voorste nepen
     
-    Fold your front (and the interfacing fused to it) with good sides together, and sew the front dart.
+    Plooi je voorpand (en de tussenvoering die eraan kleeft) met de goede kanten op elkaar, en stik de voorste neep.
     
-    ### Step 4: Press all darts
+    ### Stap 4: Strijk alle nepen
     
     ![Press all darts](04a.png)
     
-    #### Press the front darts
+    #### Strijk de voorste nepen
     
-    Once cut open, press the front darts open.
+    Knip de nepen open en strijk ze dan open.
     
-    #### Press the back darts
+    #### Strijk de achterste nepen
     
-    If you cut open the back darts, press them open. If not, press them to the side.
+    Knip de nepen open en strijk ze dan open. Indien je ze niet openknipt, strijk ze dan opzij.
     
     > Vergeet niet hetzelfde te doen voor de voering
     
-    ### Step 5: Construct the pockets
+    ### Stap 5: Maak de zakken
     
-    #### Attach the pocket bag to the pocket welt
+    #### Bevestig het zakdeel aan de paspel
     
-    ![Attach the pocket bag to the pocket welt](05a.png)
+    ![Bevestig het zakdeel aan de paspel](05a.png)
     
-    Place your pocket bag down with the good side up, and your pocket welt on top of it with the good side down.
+    Leg je zakdeel neer met de goede kant omhoog, en je paspel bovenop met de goede kant neer beneden.
     
-    Align the straight side of the bag with the side of the welt that has no interfacing, and sew them together at the standard seam allowance.
+    Leg de rechte kant van het zakdeel gelijk met de kant van de paspel die geen tussenvoering heeft, en stik ze samen met de standaard naadwaarde.
     
-    #### Press seam open
+    #### Strijk de naad open
     
-    When you are done, press open this seam.
+    Strijk deze naad open wanneer je klaar bent.
     
-    #### Mark where your pocket needs to go
+    #### Markeer waar je zak moet komen
     
-    ![Mark where your pocket needs to go](05a.png)
+    ![Markeer waar je zak moet komen](05a.png)
     
     Your front pattern piece has a helpline on it to show where the welt pocket should go. It's two half rectangles that got joined together when you closed the dart to form the shape of your welt pocket.
     
