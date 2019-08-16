@@ -5,4 +5,4 @@ pattern: wahid
 option: heupOver
 ---
 
-How much room do you want at your hips?
+Hoeveel ruimte wil je aan je heupen?
