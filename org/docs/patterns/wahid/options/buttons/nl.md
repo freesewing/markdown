@@ -1,8 +1,8 @@
 ---
-title: Buttons
+title: Knopen
 path: /en/docs/patterns/wahid/options/buttons
 pattern: wahid
-option: buttons
+option: knopen
 ---
 
-How many buttons do you want?
+Hoeveel knopen wil je?
