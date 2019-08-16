@@ -169,45 +169,45 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     Tijd om de zak voorzichtig open te knippen. Begin in het midden van de zakopening, en knip langs de lange randen naar de zijkant.
     
-    At the edges of your pocket you need to stop cutting open the center and instead cut towards the end of your line of stitches under 45 degrees.
+    Aan de zijranden van de zakopening moet je stoppen met in het midden te knippen en in de plaats naar de eindpunten van je gestikte lijnen, in een hoek van 45 graden.
     
-    > This small triangle you are cutting at the end is important. Make sure to aim carefully as you should cut right up to the end of your stitches, without cutting into the stitches.
+    > Dit kleine driehoekje dat je zo aan het einde krijgt is belangrijk. Wees voorzichtig en knip tot vlak voor je steken, zonder in het stiksel te knoppen.
     
-    #### Press open the seam allowance
+    #### Strijk de naadwaarde open
     
-    ![Press open the seam allowance](05c.png)
+    ![Strijk de naadwaarde open](05c.png)
     
-    Press open the seam allowance along the long edges of your pocket.
+    Strijk de naadwaarde aan de lange kanten van je zakopening open.
     
-    #### Bring the pocket facing to the back and press
+    #### Keer het zakbeleg naar de achterkant en strijk
     
-    ![Bring the pocket facing to the back and press](05g.png)
+    ![Keer het zakbeleg naar de achterkant en strijk](05g.png)
     
-    Flip the pocket facing to the back side and press it down.
+    Keer het zakbeleg naar de achterkant van de stof en strijk plat.
     
-    #### Press down the triangles at the short sides
+    #### Strijk de driehoekjes aan de korte kanten plat
     
-    ![Press down the triangles at the short sides](05h.png)
+    ![Strijk de driehoekjes aan de korte kanten plat](05h.png)
     
-    Move your pocket facing out of the way to reveal those little traingles at the side of your pocket.
+    Leg je zakbeleg uit de weg om die kleine driehoekjes aan het uiteinde van de zakopening zichtbaar te maken.
     
-    Fold them back making sure you to keep your pocket opening a clean rectangle, and press them down.
+    Plooi ze terug, en let op dat je zakopening een mooie rechthoek blijft, en strijk ze plat.
     
-    #### Bring the pocket welt to the back, fold and press
+    #### Keer de paspel naar de achterkant, plooi en strijk
     
     <img src="05i.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" /> <img src="05j.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" />
     
-    Flip the pocket welt with the attache pocket back tot he back side.
+    Keer de paspel met het bevestigde zakdeel naar de achterkant van de stof.
     
-    Fold your welt down at the point where it reaches the top of the pocket. The welt should cover the entire pocket opening.
+    Plooi je paspel om aan het punt waar hij de bovenrand van de zakopening raakt. De paspel zou de hele zakopening moeten bedekken.
     
-    > The illustration shows this from the back as it's easier to see what is going on this way. However, you should check from the front to make sure your welt pocket looks good.
+    > De illustratie toont dit langs de achterkant aangezien het zo duidelijker is wat er allemaal gebeurt. Kijk sowieso ook even naar de voorkant om te zien of je paspelzak er mooi uitziet.
     
-    #### Sew down the pocket triangles
+    #### Stik de driehoekjes vast
     
-    ![Sew down the pocket triangles](05k.png)
+    ![Stik de driehoekjes vast](05k.png)
     
-    Put your front down with the good side up and make sure the pocket facing and welt lie flat.
+    Leg je voorpand neer met de goede kant omhoog en zorg dat het zakbeleg en de paspel plat liggen.
     
     Fold your front over vertically at the edge of your pocket to reveal that little triangle at the short side of your pocket opening.
     
