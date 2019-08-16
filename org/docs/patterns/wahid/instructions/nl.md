@@ -107,7 +107,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 4: Strijk alle nepen
     
-    ![Press all darts](04a.png)
+    ![Strijk alle nepen](04a.png)
     
     #### Strijk de voorste nepen
     
@@ -195,7 +195,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Keer de paspel naar de achterkant, plooi en strijk
     
-    <img src="05i.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" /> <img src="05j.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" />
+    <img src="05i.png" alt="Keer de paspel naar de achterkant, plooi en strijk" title="" class="fs-row2" /> <img src="05j.png" alt="Keer de paspel naar de achterkant, plooi en strijk" title="" class="fs-row2" />
     
     Keer de paspel met het bevestigde zakdeel naar de achterkant van de stof.
     
@@ -229,7 +229,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 6: Middenrugnaad
     
-    ![Sew and press the center back seam](06a.png)
+    ![Stik en strijk de middenachternaad](06a.png)
     
     Leg je twee rugpanden met de goede kanten op elkaar en stik de middenrugnaad.
     
@@ -239,7 +239,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 7: Bevestig rugpand aan voorpanden
     
-    ![Join back to fronts](07a.png)
+    ![Bevestig rugpand aan voorpanden](07a.png)
     
     Leg je rugpand met de goede kant omhoog en leg je voorpanden bovenop met de goede kant omlaag. Leg de zijnaden gelijk, speld en stik.
     
@@ -247,7 +247,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 8: Bevestig de schouders aan elkaar
     
-    ![Join the shoulders](08a.png)
+    ![Bevestig de schouders aan elkaar](08a.png)
     
     Leg de schoudernaden gelijk, stik ze, en strijk de naadwaarde open.
     
@@ -257,13 +257,13 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Schuif de voering in het gilet
     
-    ![Slide lining into the waistcoat](09a.png)
+    ![Schuif de voering in het gilet](09a.png)
     
     Leg je voering in je gilet, met de goede kanten op elkaar. In andere woorden, je gilet ligt met de goede kant naar binnen en de verkeerde kant naar buiten. De voering heeft de verkeerde kant naar binnen en de goede kant naar buiten.
     
     #### Speld de voering aan de stof
     
-    ![Pin linng to fabric](09b.png)
+    ![Speld de voering aan de stof](09b.png)
     
     Leg de voering gelijk met de rand van de stof, en speld vast.
     
@@ -271,7 +271,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Stik voering aan de stof
     
-    ![Sew linng to fabric](09c.png)
+    ![Stik voering aan de stof](09c.png)
     
     Als je voering netjes vastgespeld is, stik je de voering en de buitenstof samen.
     
@@ -279,7 +279,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Keer het gilet en strijk de randen
     
-    ![Turn waistcoat and press edgess](09d.png)
+    ![Keer het gilet en strijk de randen](09d.png)
     
     Keer je gilet naar de goede kant door de opening die je aan de zoom liet.
     
@@ -301,7 +301,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Naai de voering aan de stof
     
-    ![Hand-sew teh lining to the farbric](10c.png)
+    ![Naai de voering aan de stof](10c.png)
     
     Gebruik een blinde steek om de voering rond het hele armsgat aan de buitenstof te naaien.
     
@@ -313,7 +313,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 12: Maak de knoopsgaten
     
-    ![Make the buttonholes](12a.png)
+    ![Maak de knoopsgaten](12a.png)
     
     Markeer de knoopsgaten op je gilet, als je dit nog niet gedaan hebt.
     
@@ -321,7 +321,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 13: Naai knopen aan
     
-    ![Attach the buttons](13a.png)
+    ![Naai de knopen aan](13a.png)
     
     Speld je gilet dicht en markeer de plaats van je knoopsgaten op de kant waar de knopen moeten komen.
     
@@ -331,7 +331,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     ### Stap 14: Optioneel: Pit de randen door
     
-    ![You can optionally pick-stitch the edges of your waistcoat](14a.png)
+    ![Je kan optioneel een doorpitsteek gebruiken aan de randen van je gilet](14a.png)
     
     Als je wil kan je een doorpitsteek rond de randen van je gilet gebruiken.
     
