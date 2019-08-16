@@ -209,87 +209,87 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     Leg je voorpand neer met de goede kant omhoog en zorg dat het zakbeleg en de paspel plat liggen.
     
-    Fold your front over vertically at the edge of your pocket to reveal that little triangle at the short side of your pocket opening.
+    Plooi je voorpand verticaal opzij aan de rand van je zak zodat het kleine driehoekje aan het uiteinde van de zakopening zichtbaar wordt.
     
-    Sew this triangle down by sewing right next to the fold, and pocket edge.
+    Stik deze driehoek vast door vlak naast de plooi en rand van de zak te naaien.
     
     #### Sluit het zakdeel
     
     ![Sluit het zakdeel](05l.png)
     
-    Sew your pocket facing to the pocket bag to finish your pocket.
+    Stik je zakbeleg aan het zakdeel om je zak af te maken.
     
-    > This should go without saying, but be careful not to sew your pocket bag to the front of your waistcoat.
+    > Dit zou duidelijk moeten zijn, maar let op dat je je zakdeel niet aan je voorpand vastmaakt.
     
-    #### Press your completed pocket
+    #### Strijk je afgewerkte zak
     
-    ![Press your completed pocket](05m.png)
+    ![Strijk je afgewerkte zak](05m.png)
     
-    When you're done, give your pocket a good final press.
+    Strijk alles nog eens grondig als je klaar bent.
     
-    ### Step 6: Center back seam
+    ### Stap 6: Middenrugnaad
     
     ![Sew and press the center back seam](06a.png)
     
-    Put your two back pieces with their good side together and sew the center back seam.
+    Leg je twee rugpanden met de goede kanten op elkaar en stik de middenrugnaad.
     
-    When you're done, press open this seam.
+    Strijk deze naad open wanneer je klaar bent.
     
     > Vergeet niet hetzelfde te doen voor de voering
     
-    ### Step 7: Join back to fronts
+    ### Stap 7: Bevestig rugpand aan voorpanden
     
     ![Join back to fronts](07a.png)
     
-    Put your back down with the good side up and put your fronts on it with the good side down. Align the side seams, pin and sew.
+    Leg je rugpand met de goede kant omhoog en leg je voorpanden bovenop met de goede kant omlaag. Leg de zijnaden gelijk, speld en stik.
     
-    When you're done, press open these seams.
+    Strijk deze naden open wanneer je klaar bent.
     
-    ### Step 8: Join the shoulders
+    ### Stap 8: Bevestig de schouders aan elkaar
     
     ![Join the shoulders](08a.png)
     
-    Align the shoulder seams, sew them, and press open the seam allowance.
+    Leg de schoudernaden gelijk, stik ze, en strijk de naadwaarde open.
     
     > Vergeet niet hetzelfde te doen voor de voering
     
-    ### Step 9: Insert the lining
+    ### Stap 9: Bevestig de voering
     
-    #### Slide lining into the wasitcoat
+    #### Schuif de voering in het gilet
     
     ![Slide lining into the waistcoat](09a.png)
     
-    Place your lining in your waistcoat, good sides together. In other words, the waistcoat should have the good side in and bad side out. The lining should have the bad side in and good side out.
+    Leg je voering in je gilet, met de goede kanten op elkaar. In andere woorden, je gilet ligt met de goede kant naar binnen en de verkeerde kant naar buiten. De voering heeft de verkeerde kant naar binnen en de goede kant naar buiten.
     
-    #### Pin lining to fabric
+    #### Speld de voering aan de stof
     
     ![Pin linng to fabric](09b.png)
     
-    Align the lining with the fabric edge, and pin it in place.
+    Leg de voering gelijk met de rand van de stof, en speld vast.
     
-    Start at center back, and follow the neckline down the front closure. Work your way around the hem, but leave about a 15cm gat at the center back.
+    Begin aan de middenrug, en volg de halslijn tot aan de sluiting vooraan. Ga rond de zoom, maar laat een stuk van 15 cm open onder aan de middenrug.
     
-    #### Sew lining to fabric
+    #### Stik voering aan de stof
     
     ![Sew linng to fabric](09c.png)
     
-    With your lining pinned neatly in place, sew lining and fabric together.
+    Als je voering netjes vastgespeld is, stik je de voering en de buitenstof samen.
     
-    Do not forget to leave that 15cm gap at the center back.
+    Vergeet niet die 15 cm aan de middenrug open te laten.
     
-    #### Turn waistcoat and press edges
+    #### Keer het gilet en strijk de randen
     
     ![Turn waistcoat and press edgess](09d.png)
     
-    Reach through the gap you left open at the hem, and turn your waistcoat.
+    Keer je gilet naar de goede kant door de opening die je aan de zoom liet.
     
-    Press the edges you've just sewn, making sure to roll the fabric a bit so that the lining is always hidden.
+    Strijk de randen die je net gestikt hebt, en let op dat je de stof een beetje omrolt zodat de voering altijd verborgen is.
     
-    ### Step 10: Finish the armholes
+    ### Stap 10: Werk de armsgaten af
     
-    #### Pin back the fabric seam allowance
+    #### Speld de naadwaarde van de stof om
     
-    ![Pin back the fabric seam allowance](10a.png)
+    ![Speld de naadwaarde van de stof om](10a.png)
     
     All along the armhole, pin back the seam allowance of your waistcoat fabric. While doing so, keep your lining out of the way.
     
