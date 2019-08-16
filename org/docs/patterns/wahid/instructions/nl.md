@@ -63,45 +63,45 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     Strijk de tussenvoering aan de verkeerde kant van elke paspel.
     
-    #### Press interfacing to fronts
+    #### Strijk de tussenvoering aan de voorpanden
     
     ![Press interfacing to pocket fronts](01b.png)
     
-    Place your front with the good side down, and your interfacing on top.
+    Leg je voorpanden met de goede kant naar beneden, en je tussenvoering bovenop.
     
-    Press the interfacing in place.
+    Strijk de tussenvoering vast.
     
-    > **Take your time**
+    > **Neem je tijd**
     > 
-    > Don't just iron this on to get it over with, you want to really press that interfacing onto your fabric so that it fuses well.
+    > Strijk dit niet gewoon even om ermee klaar te zijn, je moet de tussenvoering echt op de stof persen zodat ze goed vastkleeft.
     > 
-    > Place your iron down and lean on it for 10 seconds or so before you move on to the next spot to repeat the process.
+    > Zet je strijkijzer neer en zet er 10 seconden lang druk op voor je opschuift naar het volgende stukje.
     
-    ### Step 2: Join front facing and lining
+    ### Stap 2: Bevestig het beleg aan de voering
     
-    #### Sew facing to lining
+    #### Stik beleg aan voering
     
-    ![Sew facing to lining](02a.png)
+    ![Stik beleg aan voering](02a.png)
     
-    Place your front facing and lining with good sides together. Pin the edges of the facing/lining boundary in place.
+    Leg je beleg voorpand en voering met de goede kanten op elkaar. Speld de randen van de naad tussen beleg en voering vast.
     
     Stik.
     
     #### Strijk de naadwaarde open
     
-    Press open the seam allowance between facing and lining.
+    Strijk de naadwaarde tussen beleg en voering open.
     
-    ### Step 3: Close all darts
+    ### Stap 3: Sluit alle nepen
     
     ![Close all darts](03a.png)
     
     #### Close back darts
     
-    Fold your back with good sides together, and sew the back dart.
+    Plooi je rugpand met de goede kanten op elkaar, en stik de achterste neep.
     
-    > Don't forget to do the same for the lining
+    > Vergeet niet hetzelfde te doen voor de voering
     
-    #### Close front darts
+    #### Sluit de voorste nepen
     
     Fold your front (and the interfacing fused to it) with good sides together, and sew the front dart.
     
@@ -117,7 +117,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     If you cut open the back darts, press them open. If not, press them to the side.
     
-    > Don't forget to do the same for the lining
+    > Vergeet niet hetzelfde te doen voor de voering
     
     ### Step 5: Construct the pockets
     
@@ -235,7 +235,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     When you're done, press open this seam.
     
-    > Don't forget to do the same for the lining
+    > Vergeet niet hetzelfde te doen voor de voering
     
     ### Step 7: Join back to fronts
     
@@ -251,7 +251,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     Align the shoulder seams, sew them, and press open the seam allowance.
     
-    > Don't forget to do the same for the lining
+    > Vergeet niet hetzelfde te doen voor de voering
     
     ### Step 9: Insert the lining
     
