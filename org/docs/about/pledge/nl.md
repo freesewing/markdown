@@ -43,17 +43,17 @@ En daarom gaat al het geld dat FreeSewing binnenbrengt naar een goed doel. It ma
 
 Hier wringt het schoentje: mensen geven minder zodra ze weten dat het geld uiteindelijk naar een goed doel gaat. Ik wou dat het niet zo was, maar ja.
 
-So we're presenting [our subscription options](/patrons/join) like you would see on a for-profit site. It seems more intuitive this way, and also just works better.
+Daarom presenteren we onze [abonnementsopties](/patrons/join) zoals je op een winstmakende site zou zien. Deze manier lijkt intuïtiever, en werkt ook beter.
 
-Yes, everything is free, and the money doesn't actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn't mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+Ja, alles is gratis, en het geld gaat niet echt naar de rekening van de server (omdat ik die uit eigen zak betaal, om bovenstaande redenen). Maar dat betekent niet dat deze bijdragen niet cruciaal zijn voor het welzijn van het project, of tenminste de man achter de schermen (ik dus).
 
-## What charity does the money go to?
+## Welk goed doel krijgt het geld?
 
-There's a lot of misery in the world. As I watch the news, I often feel my faith in humanity slipping.
+Er is veel miserie in de wereld. Als ik naar het nieuws kijk voel ik soms hoe mijn geloof in de mensheid verloren geraakt.
 
-Some of the most vulnerable people on this planet seem largely abandoned by rich countries and supra-national organisations.
+Sommige van de meest kwetsbare mensen op deze planeet lijken grotendeels in de steek gelaten door rijke landen en supranationale organisaties.
 
-Yet somehow, in some of those worst places to be a human being, there is still a banner flying that provides hope, and help. It's not the flag of the United Nations, nor is it the star spangled banner, or the blue and gold of the European Union.
+Maar toch bestaat er een vlag die voor hoop en hulp staat, zelfs op de ergste plekken waar je maar een mens kan zijn. Het is niet de vlag van de Verenigde Naties, of de stars and stripes, of het blauw en goud van de Europese Unie.
 
 The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
 
