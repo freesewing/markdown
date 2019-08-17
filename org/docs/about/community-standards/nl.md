@@ -16,10 +16,10 @@ In het kort wil dit zeggen: geen racisme, xenofobie, oproepen tot geweld, discri
 
 Post gerust commentaren die over het onderwerp gaan, maar probeer adverteren (van je zaak, blog of website) te vermijden.
 
-It is fine to post links to relevant information on other websites, but Spam and other off-topic items will be removed.
+Het is ok om links naar relevante informatie op andere websites te posten, maar spam en irrelevante commentaren worden verwijderd.
 
-## Don't get us in trouble
+## Hou ons uit de problemen
 
-Comments that are defamatory, unlawful or include copyright infringements are also against the rules. Impersonating other people or using fake accounts is also not done.
+Commentaren die lasterlijk, onwettelijk of een inbreuk op copyright zijn mogen ook niet volgens onze regels. Zich voordoen als een ander persoon of nep accounts gebruiken is ook niet ok.
 
-We will delete these types of comments and may ban users who keep on disregarding these rules.
+Dit soort commentaren worden verwijderd, en accounts die deze regels blijven negeren ook.
