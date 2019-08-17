@@ -55,17 +55,17 @@ Sommige van de meest kwetsbare mensen op deze planeet lijken grotendeels in de s
 
 Maar toch bestaat er een vlag die voor hoop en hulp staat, zelfs op de ergste plekken waar je maar een mens kan zijn. Het is niet de vlag van de Verenigde Naties, of de stars and stripes, of het blauw en goud van de Europese Unie.
 
-The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
+Het enige dat me eraan doet denken dat de mensheid deze mensen nog niet helemaal vergeten is, is de vlag van Médecins Sans Frontières/ Artsen Zonder Grenzen, die onzeker wappert in de ruïnes van hun gebombardeerde ziekenhuizen.
 
-I can't think of a single symbol that reminds us that not everything is lost, and there's still good people out there.  
-I can't think of a single organisation more deserving of our support.
+Ik kan geen ander symbool bedenken dat ons eraan herinnert dat niet alles verloren is, en dat er nog steeds goede mensen bestaan.  
+Ik kan geen andere organisatie bedenken die onze steun meer verdient.
 
-So I am happy to make this pledge.
+Dus ik maak deze belofte met plezier.
 
-In practice, all revenue received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
+Puur praktisch: alle inkomsten die de afgelopen 12 maanden zijn binnengekomen worden één keer per jaar overgedragen aan AZG, op 10 december.
 
 <note>
 
-If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
+Als je FreeSewing graag wil steunen kan je je [hier abonneren](/patrons/join)
 
 </Note>
