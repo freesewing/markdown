@@ -20,6 +20,6 @@ Al onze naaipatronen worden op maar gemaakt. Er worden geen patronen geschaald o
 
 ## FreeSewing is een platform
 
-A platform is something on which you build things, and that's what we'd like to see.
+Een platform is iets waarop gebouwd kan worden, en dat willen we graag zien.
 
-You might be here for our patterns, but we also provid the tools and documentation for designers to add their own patterns. Please refer to [freesewing.dev](https://freesewing.dev) for all details.
+Je bent hier misschien voor onze patronen, maar we stellen de gereedschappen en documentatie om je eigen patronen toe te voegen ter beschikking. Kijk gerust naar [freesewing.dev](https://freesewing.dev) voor alle details.
