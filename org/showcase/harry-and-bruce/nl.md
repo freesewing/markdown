@@ -1,11 +1,11 @@
 ---
 date: 2016-06-27
-title: Harry relaxes in the bruce boxers made for him by Lauren
+title: Harry ontspant in de Bruce boxers die Lauren voor hem maakte
 img: showcase.jpg
-caption: Dayum that boy is sexy!
+caption: Fwiet-fwieuw!
 patterns:
   - bruce
 author: Lauren Digby
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BHKdxGgh0y0/) of [ladysewalot](http://ladysewalot.blogspot.com/).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BHKdxGgh0y0/) van [ladysewalot](http://ladysewalot.blogspot.com/).
