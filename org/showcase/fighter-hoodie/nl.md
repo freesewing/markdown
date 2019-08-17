@@ -1,23 +1,23 @@
 ---
 date: 2017-11-20
-title: "The fighter hoodie: Hugo with a zip"
+title: "Een gevechtshoodie: Hugo met een rits"
 img: showcase.jpg
-caption: "Anne's husband Sigvard is a trainer at <a target='_BLANK' href='http://fighter.org/'>the local kick boxing club</a>. Hence the name <em>fighter hoodie</em>"
+caption: "Anne's echtgenoot Sigvard is een trainer bij <a target='_BLANK' href='http://fighter.org/'>de lokale kickboksclub</a>. Vandaar de naam <em>gevechtshoodie</em>"
 patterns:
   - hugo
-author: Topstithed
+author: Topstitched
 ---
 
-![Another view](/img/showcase/fighter-hoodie/1.jpg)
+![Een andere kant](/img/showcase/fighter-hoodie/1.jpg)
 
-![Another view](/img/showcase/fighter-hoodie/2.jpg)
+![Een andere kant](/img/showcase/fighter-hoodie/2.jpg)
 
-![Another view](/img/showcase/fighter-hoodie/3.jpg)
+![Een andere kant](/img/showcase/fighter-hoodie/3.jpg)
 
-![Another view](/img/showcase/fighter-hoodie/4.jpg)
+![Een andere kant](/img/showcase/fighter-hoodie/4.jpg)
 
-> #### See the original on [@Topstitched](/users/Topstitched)'s blog
+> #### Zie het origineel op de blog van [@Topstitched](/users/Topstitched)
 > 
-> These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) blog post on [topstitched.net](http://www.topstitched.net/).
+> Deze foto's zijn van de blogpost [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) op [topstitched.net](http://www.topstitched.net/).
 > 
-> They are reposted here with permission.
+> Ze werden hier gepost met toestemming.
