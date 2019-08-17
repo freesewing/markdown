@@ -1,8 +1,8 @@
 ---
 date: 2018-02-05
-title: A Wahid Waistcoat with bound buttonholes
+title: Een Wahid gilet met paspel knoopsgaten
 img: showcase.jpg
-caption: Believe it or not, this is only his third sewing project ever.
+caption: Geloof het of niet, maar dit is pas zijn derde naaiproject ooit.
 patterns:
   - wahid
 author: funloveadventure
@@ -14,7 +14,7 @@ author: funloveadventure
 
 ![](4.jpg)
 
-> ##### See the originals on the Instragram feed of funloveadventure
+> ##### Zie het origineel in de Instagram feed van funloveadventure
 > 
 > These images are from [the Instagram feed](https://www.instagram.com/funloveadventure/) of FIXME. They are published here with permission.
 > 
