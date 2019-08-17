@@ -1,8 +1,8 @@
 ---
 date: 2017-01-17
-title: Corduroy trousers for Gus, by Fabricated
+title: Corduroy broek voor Gus, door Fabricated
 img: showcase.jpg
-caption: Gus in his brown corduroys
+caption: Gus in zijn bruine ribfluweel
 patterns:
   - theodore
 author: 'Kate Davies'
