@@ -1,17 +1,17 @@
 ---
 date: 2017-11-13
-title: A grey Huey by Anneke Caramin
+title: Een grijze Huey van Anneke Caramin
 img: showcase.jpg
-caption: "Anneke seen here wearing Huey, while simultaniously smashing the patriarchy by refusing to smile."
+caption: "Anneke wordt hier gespot met een Huey, en verplettert tegelijk het patriarchaat door niet te lachen."
 patterns:
   - huey
 author: AnnekeCaramin
 ---
 
-![View of the inside](/img/showcase/anneke-huey/facing.jpg)
+![Zicht op de binnenkant](/img/showcase/anneke-huey/facing.jpg)
 
-> #### See the original on Anneke's blog
+> #### Zie het origineel op de blog van Anneke
 > 
-> This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) on [annekecaramin.com](http://www.annekecaramin.com/).
+> Deze post [verscheen eerst](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) op [annekecaramin.com](http://www.annekecaramin.com/).
 > 
-> It is reposted here with permission.
+> Hij werd hier gepost met toestemming.
