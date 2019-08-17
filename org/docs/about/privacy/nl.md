@@ -1,12 +1,12 @@
 ---
-title: Privacy notice
+title: Privacy melding
 ---
 
-**Last update**: 23 May 2018
+**Laatste update**: 23 mei 2018
 
-## About
+## Inhoud
 
-This privacy notice describes the personal data we store. It outlines why we need the data, how long we keep it, and whether we share it with any third-parties.
+Deze privacy melding beschrijft de persoonlijke gegevens die we opslaan. We geven aan waarom we de gegevens nodig hebben, hoe lang we ze bijhouden en of ze met derden gedeeld worden.
 
 We are confident it will demonstrate our commitment to privacy.
 
@@ -20,7 +20,7 @@ For clarity, we've broken this up in three different types of roles:
 
 These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
 
-<Note>
+<note>
 
 #### Visitor data
 
@@ -37,7 +37,7 @@ This data is stored for anybody who visits our website or connects to our backen
 
 </Note>
 
-<Note>
+<note>
 
 #### Profile data
 
@@ -58,7 +58,7 @@ This data is stored for anybody with an account on our website.
 
 </Note>
 
-<Note>
+<note>
 
 #### Model data
 
