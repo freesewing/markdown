@@ -1,8 +1,8 @@
 ---
 date: 2018-01-21
-title: Bleach dyed Bruce by Reanna
+title: Gebleekte Bruce door Reanna
 img: showcase.jpg
-caption: "These are made of black tshirt fabric she bleach dyed myself, using desert plants for the design."
+caption: "Dit is gemaakt uit zwarte t-shirtstof die geverfd werd met bleekwater. Voor het ontwerp werden woestijnplanten gebruikt."
 patterns:
   - bruce
 author: 'Alderrr'
