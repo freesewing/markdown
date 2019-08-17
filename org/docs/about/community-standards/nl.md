@@ -2,19 +2,19 @@
 title: Community standards
 ---
 
-Thank you for being part of the freesewing community. When you engage with us, or when you engage with others, please remember the following simple rules:
+Bedankt om deel uit te maken van de freesewing gemeenschap. Wanneer je met ons of met anderen hier omgaat, onthou dan alstublieft de volgende eenvoudige regels:
 
-## Be nice
+## Wees lief
 
-We cannot accept comments that are either offensive in themselves or clearly offensive to others.
+We kunnen geen commentaren accepteren die op zich beledigend zijn, of duidelijk beledigend naar anderen toe.
 
-We ask you to avoid obscenities and other insulting language, to show respect for fellow users, public figures and the fundamental principles we hopefully all share.
+We vragen je om obsceniteiten en andere beledigende taal te vermijden en respect te tonen voor andere gebruikers, publieke figuren en de fundamentele principes die we hopelijk allemaal delen.
 
-Without wanting to be exhaustive, that means no racism, xenophobia, calls to violence, discrimination based on religion, ethnic origin, gender, age, body shape, language, &hellip;.
+In het kort wil dit zeggen: geen racisme, xenofobie, oproepen tot geweld, discriminatie gebaseerd op religie, etnische origine, geslacht, leeftijd, lichaamsbouw, taal, &hellip;.
 
-## Don't spam
+## Geen spam
 
-We encourage you to post comments that stick to the subject and would appreciate it if you refrain from posting advertisements (for your businesses, blogs or websites, etc).
+Post gerust commentaren die over het onderwerp gaan, maar probeer adverteren (van je zaak, blog of website) te vermijden.
 
 It is fine to post links to relevant information on other websites, but Spam and other off-topic items will be removed.
 
