@@ -1,10 +1,10 @@
 ---
 date: 2018-10-07
-title: A hacked Hugo Hoodie by Karin
+title: Een Hugo hack door Karin
 img: hugo.jpg
-caption: "Some work on fit and sleeves, but a great end result."
+caption: "Wat werk aan de pasvorm en de mouwen, maar een geweldig eindresultaat."
 patterns:
   - hugo
 ---
 
-Karin has more details of this make [on her blog](https://www.karinkay.nl/freesewing-hugo-hoodie/).
+Karin heeft meer details over dit stuk [op haar blog](https://www.karinkay.nl/freesewing-hugo-hoodie/).
