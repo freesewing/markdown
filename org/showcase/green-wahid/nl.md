@@ -1,8 +1,8 @@
 ---
 date: 2016-08-16
-title: A green Wahid waistcoat by Rose
+title: Een groene Wahid gilet door Rose
 img: showcase.jpg
-caption: "That's some A-grade unselfish sewing we've got here"
+caption: "Dat is een stukje eersteklas onzelfzuchtig naaiwerk hier"
 patterns:
   - wahid
 author: Rose H
