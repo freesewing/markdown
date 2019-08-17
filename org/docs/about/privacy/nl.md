@@ -100,23 +100,23 @@ Ook al hebben we niet de intentie je persoonlijke gegevens op eender welke manie
 
 Als we wettelijk verplicht zijn, of als we vinden dat het de minst erge optie is, zullen we persoonlijke gegevens vrijgeven.
 
-Tot nu toe hebben we nog nooit een verzoek gekregen van eender welke wetshandhaving om informatie over een gebruiker vrij te geven. We have also not disclosed any personal information for any other reason.
+Tot nu toe hebben we nog nooit een verzoek gekregen van eender welke wetshandhaving om informatie over een gebruiker vrij te geven. We hebben ook geen enkele persoonlijke informatie vrijgegeven voor eender welke andere reden.
 
-### Use by minors under the age of 16
+### Gebruik door minderjarigen jonger dan 16
 
-You need to be at least 16 years old to use freesewing.
+Je moet minstens 16 jaar oud zijn om freesewing te gebruiken.
 
-### Data Controller and Contact information
+### Data Controller en contactinformatie
 
-For questions about this privacy notice, you can contact Joost De Cock at joost@decock.org.
+Voor vragen over de privacy melding kan je Joost De Cock contacteren via joost@decock.org.
 
-### Changes and Updates to this Policy
+### Wijzigingen en Updates aan dit Beleid
 
-This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
+Dit beleid kan af en toe een update krijgen. Dit zal aangegeven worden in de **Laatste update** gegevens bovenaan dit document.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
+Een vollediger overzicht van de geschiedenis van dit document is [te vinden op Github](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
 
-## See also
+## Zie ook
 
-- [Your rights](/docs/about/rights)
-- [Your consent](/account/consent)
+- [Je rechten](/docs/about/rights)
+- [Je toestemming](/account/consent)
