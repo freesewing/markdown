@@ -67,40 +67,40 @@ Deze gegevens worden opgeslagen voor iedereen met een account op onze website.
  - Of het model borsten heeft of niet
  - Optioneel: een avatar voor het model
 - **Waarom hebben we dit nodig?** 
- - We need the body measurements to draft made-to-measure sewing patterns
- - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
- - The model avatar only serves to help you differentiate between your different models
+ - We hebben de lichaamsmaten nodig om naaipatronen op maat te maken
+ - We gebruiken de informatie over het al dan niet borsten hebben van een model enkel om relevante maten te tonen bij het configureren van het model
+ - De avatar van het model dient enkel om je te helpen het onderscheid te maken tussen verschillende modellen
 - **Hoe lang houden we dit bij?** 
- - We keep model data up to 12 months after your last login, or until you remove it.
+ - We houden modelgegevens bij tot 12 maanden na je laatste login, of tot je ze zelf verwijdert.
 - **Wordt dit gedeeld?** 
- - We never share personal model data
- - We publish an open data set of measurements, containing fully anonymized data.
+ - We delen nooit persoonlijke modelgegevens
+ - We publiceren een open gegevensset van afmetingen, met volledig anonieme gegevens.
 
-This data is stored for anybody with an account on our website which contains one or more models.
+Deze gegevens worden opgeslagen voor iedereen met een account op onze website die één of meerdere modellen bevat.
 
 </Note>
 
-## Part 2: Other topics
+## Deel 2: Andere onderwerpen
 
-### Full disclosure
+### Voor de duidelijkheid
 
-If we learn of a security systems breach, we will inform both you and the authorities.
+Als we op de hoogte zijn van een inbreuk op ons beveiligingssysteem, zullen zowel jij als de autoriteiten op de hoogte gebracht worden.
 
-If you believe your personal data has been compromised, please contact joost@decock.org.
+Als je denkt dat je persoonlijke gegevens niet langer veilig zijn, contacteer dan joost@decock.org.
 
-### Service Providers
+### Diensten/service
 
-Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
+Onze hostingprovider beheert onze backend systemen voor ons. Dit omvat hosting, opslag en back-up.
 
-While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
+Alhoewel dit betekent dat ze je gegevens verwerken (in de strikte zin van het woord), wil het niet zeggen dat ze toegang nodig hebben tot informatie over jou. Aangezien we profielgegevens versleutelen is het voor hen bovendien niet interessant toegang te krijgen tot deze gegevens, ook al zouden ze dat willen.
 
-### Law enforcement
+### De letter van de wet
 
-While we have no intention of sharing any of your personal data, we are not above the law.
+Ook al hebben we niet de intentie je persoonlijke gegevens op eender welke manier te delen, staan we niet boven de wet.
 
-If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
+Als we wettelijk verplicht zijn, of als we vinden dat het de minst erge optie is, zullen we persoonlijke gegevens vrijgeven.
 
-So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
+Tot nu toe hebben we nog nooit een verzoek gekregen van eender welke wetshandhaving om informatie over een gebruiker vrij te geven. We have also not disclosed any personal information for any other reason.
 
 ### Use by minors under the age of 16
 
