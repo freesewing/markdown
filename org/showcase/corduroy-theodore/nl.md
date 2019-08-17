@@ -8,4 +8,4 @@ patterns:
 author: 'Kate Davies'
 ---
 
-This picture is from the [fabricated.com](http://fabrickated.com/) blog. You should read [the entire post](http://fabrickated.com/2017/01/21/manswap-7-finishing-the-brown-corduroy-trousers/).
+Deze foto komt van de [fabricated.com](http://fabrickated.com/) blog. Je zou de [hele post](http://fabrickated.com/2017/01/21/manswap-7-finishing-the-brown-corduroy-trousers/) moeten lezen.
