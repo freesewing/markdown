@@ -1,5 +1,5 @@
 ---
-title: Community standards
+title: Huisreglement
 ---
 
 Bedankt om deel uit te maken van de freesewing gemeenschap. Wanneer je met ons of met anderen hier omgaat, onthou dan alstublieft de volgende eenvoudige regels:
