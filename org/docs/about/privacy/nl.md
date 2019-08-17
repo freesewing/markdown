@@ -8,32 +8,32 @@ title: Privacy melding
 
 Deze privacy melding beschrijft de persoonlijke gegevens die we opslaan. We geven aan waarom we de gegevens nodig hebben, hoe lang we ze bijhouden en of ze met derden gedeeld worden.
 
-We are confident it will demonstrate our commitment to privacy.
+We hebben er vertrouwen in dat ons engagement voor privacy aangetoond zal worden.
 
-## Part 1: How we use your personal data
+## Deel 1: Hoe we je persoonlijke gegevens gebruiken
 
-For clarity, we've broken this up in three different types of roles:
+Voor de duidelijkheid hebben we dit in drie verschillende rollen gesplitst:
 
-- For visitors, we store [visitor data](#visitor-data)
-- For users, we store [profile data](#profile-data)
-- For users with one or more models, we store [model data](#model-data)
+- Voor bezoekers houden we [bezoekersgegevens](#visitor-data) bij
+- Voor gebruikers houden we [profielgegevens](#profile-data) bij
+- Voor gebruikers met één of meerdere modellen houden we [modelgegevens](#model-data) bij
 
-These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
+Deze rollen zijn cumulatief. Als je een gebruiker bent, ben je ook een bezoeker. En als je een gebruiker bent met één of meer modellen ben je ook een gebruiker, en een bezoeker.
 
 <note>
 
-#### Visitor data
+#### Bezoekersgegevens
 
-- **What personal data do we store?** 
- - Your IP address
-- **Why do we need it?** 
- - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
-- **How long do we keep it?** 
- - We keep these logs for 6 months.
-- **Do we share it?** 
- - No, never.
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Je IP adres
+- **Waarom hebben we dit nodig?** 
+ - Je IP adres wordt gelogd op onze backend systemen. We gebruiken deze logs en de informatie erin enkel om problemen te bepalen.
+- **Hoe lang houden we dit bij?** 
+ - Deze logs worden 6 maanden bewaard.
+- **Wordt dit gedeeld?** 
+ - Nee, nooit.
 
-This data is stored for anybody who visits our website or connects to our backend APIs.
+Deze data wordt opgeslagen voor iedereen die onze website bezoekt of verbinding maakt met onze backend API's.
 
 </Note>
 
@@ -41,20 +41,20 @@ This data is stored for anybody who visits our website or connects to our backen
 
 #### Profile data
 
-- **What personal data do we store?** 
- - Your E-mail address
- - Your username and password
- - Optional: A profile picture, bio, and your social media accounts
-- **Why do we need it?** 
- - To authenticate you
- - To be able to contact you when required
- - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
-- **How long do we keep it?** 
- - We keep profile data up to 12 months after your last login, or until you remove it.
-- **Do we share it?** 
- - No, never.
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Je e-mailadres
+ - Je gebruikersnaam en wachtwoord
+ - Optioneel: een profielfoto, bio en je social media accounts
+- **Waarom hebben we dit nodig?** 
+ - Om je te verifiëren
+ - Om je te kunnen contacteren indien nodig
+ - Optioneel: we hebben geen foto of social media accounts nodig, maar deze helpen een online gemeenschap op te bouwen
+- **Hoe lang houden we dit bij?** 
+ - We houden profielgegevens bij tot 12 maanden na je laatste login, of tot je ze zelf verwijdert.
+- **Wordt dit gedeeld?** 
+ - Nee, nooit.
 
-This data is stored for anybody with an account on our website.
+Deze gegevens worden opgeslagen voor iedereen met een account op onze website.
 
 </Note>
 
@@ -62,17 +62,17 @@ This data is stored for anybody with an account on our website.
 
 #### Model data
 
-- **What personal data do we store?** 
- - Body measurements
- - Whether the model has breasts or not
- - Optional: An avatar for the model
-- **Why do we need it?** 
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Lichaamsmaten
+ - Of het model borsten heeft of niet
+ - Optioneel: een avatar voor het model
+- **Waarom hebben we dit nodig?** 
  - We need the body measurements to draft made-to-measure sewing patterns
  - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
  - The model avatar only serves to help you differentiate between your different models
-- **How long do we keep it?** 
+- **Hoe lang houden we dit bij?** 
  - We keep model data up to 12 months after your last login, or until you remove it.
-- **Do we share it?** 
+- **Wordt dit gedeeld?** 
  - We never share personal model data
  - We publish an open data set of measurements, containing fully anonymized data.
 
