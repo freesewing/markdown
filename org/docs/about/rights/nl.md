@@ -20,28 +20,28 @@ Je hebt het recht om je persoonlijke gegevens te corrigeren, of aan te vullen al
 
 ## The right to erasure
 
-Je hebt het recht om je persoonlijke gegevens te wissen. Go to </account/remove> to remove all your data.
+Je hebt het recht om je persoonlijke gegevens te wissen. Ga naar [account/remove](/account/remove) om al je gegevens te verwijderen.
 
 ## The right to restrict processing
 
-You have the right to request a restriction on the processing of your personal data. Go to </account/restrict> to request we restrict processing of your personal data.
+Je hebt het recht een restrictie aan te vragen voor het verwerken van je persoonlijke gegevens. Ga naar [account/restrict](/account/restrict) om te vragen de verwerking van je persoonlijke gegevens te beperken.
 
 <warning>
 
-Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
+Je aanvraag zal meteen in werking gesteld worden en kan enkel ongedaan gemaakt worden door [ons te contacteren](/contact) om de restrictie op te heffen.
 
 </Warning>
 
 ## The right to data portability
 
-You have the right to obtain and reuse your personal data for your own purposes or across different services. Go to </account/export> to export your data.
+Je hebt het recht om je persoonlijke gegevens te verkrijgen en opnieuw te gebruiken, voor eigen gebruik of bij verschillende diensten. Ga naar [account/export](/account/export) om je gegevens te exporteren.
 
 ## The right to object
 
-You have the right to object to your personal data being used for scientific research. Go to </account/consent> and object in the **model data** section to do so.
+Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetenschappelijk onderzoek. Ga naar [account/consent](/account/consent) en geef je bezwaar aan bij de **modelgegevens**.
 
-> The right to object is broader, but this is how it applies to freesewing.
+> Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij freesewing.
 
 ## Rights in relation to automated decision making and profiling
 
-This right does not apply to FreeSewing as we do not use automated decision making or profiling.
+Dit recht is niet van toepassing voor FreeSewing, aangezien we geen geautomatiseerde besluitvorming of profilering gebruiken.
