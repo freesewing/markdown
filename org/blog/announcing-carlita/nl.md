@@ -29,33 +29,33 @@ Om dat accuraat te doen heb je voor Carlita drie extra maten nodig, naast de mat
 - De [bustewijdte](/docs/measurements/#bustSpan)
 - [Hoog schouder punt tot buste](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+We gebruiken de omtrek van de hoge buste om de jas te tekenen, en doen dan een aanpassing voor volle buste aan de prinsessennaad gebaseerd op je (volle) borstomtrek, bustewijdte en HSP tot buste.
 
-### All of the pockets, but we had to move some of them
+### Alle zakken, al hebben we ze wat moeten verplaatsen
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+De toevoeging van de prinsessennaad maakte de plaatsing van de voorzak een beetje moeilijk, dus we hebben hem lichtjes verplaatst en verticaal gezet, in plaats van op een lichte diagonaal zoals bij Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+Op deze manier kan de zak geïntegreerd worden in de prinsessennaad, ergens onder je borsten.
 
-### One extra option: The princess seam smooth factor
+### Eén extra optie: De prinsessennaad ronding factor
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita heeft ook een extra optie die Carlton niet heeft, de ietwat uitgebreid genaamde [prinsessennaad ronding factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Dit controleert hoe scherp de prinsessennaad terug naar binnen keert na het extra volume aan de buste te hebben toegevoegd.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Een foto zegt meer dan duizend woorden, dus hier is de optie aangeduid op het relevante patroondeel:
 
 ![The effect of the option as shown by our sampler service](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Zoals je kan zien controleert deze optie hoe fel de prinsessennaad terug naar je taille keert nadat ze over het volste deel van de buste gegaan is.
 
-A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
+Een lage factor zorgt voor een meer aansluitende jas, maar ook voor een fellere curve en een naad die moeilijker te naaien is.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Een hogere ronding factor maakt dit minder fel zodat de overgang naar het lagere deel van de naad zachter verloopt. Dit maakt de jas iets minder aansluitend onder de buste, en de naad makkelijker te naaien.
 
-## A reminder about made-to-measure patterns
+## Een herinnering over patronen op maat
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Dit is geen nieuws voor regelmatige bezoekers van deze website, maar als je hier nieuw bent is het de moeite om dit nog eens te horen:
 
 > This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
 
