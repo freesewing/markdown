@@ -1,14 +1,14 @@
 ---
 date: 2018-08-13
-title: Sloppy Theodore trousers
+title: Losse Theodore broek
 img: showcase.jpg
-caption: "Theodore Trousers"
+caption: "Theodore Broek"
 patterns:
   - theodore
 author: cabi
 ---
 
-This is a adaption of the Theodore pattern. I left out the zipper and the buttons. Instead of this I filled the waistband with a elastic.
+Dit is een aangepaste versie van het Theodore patroon. Ik liet de rits en knopen weg. In plaats daarvan stopte ik elastiek in de tailleband.
 
 The intention of this trousers were to have a nice sloppy trousers at home. But with the linen fabric and its colour the trousers still hold the classic chic of the pattern. Now I wear them at work and funsies.
 
