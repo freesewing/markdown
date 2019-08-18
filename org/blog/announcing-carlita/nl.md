@@ -1,15 +1,15 @@
 ---
 date: 2018-01-26
-title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+title: "We presenteren Carlita, de damesversie van onze Carlton jas."
+linktitle: "We Presenteren de Carlita Jas"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Beeld je naast hem in, met een matchende jas."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Deze is voor de dames - en ik heb het niet (alleen) over die foto van hartenbreker Benedict Cumberbatch bovenaan deze post.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Ik heb het namelijk over de publicatie van ons laatste patroon: de [Carlita jas](/patterns/carlita), waarvan de betaversie vanaf vandaag beschikbaar is.
 
 Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
 
