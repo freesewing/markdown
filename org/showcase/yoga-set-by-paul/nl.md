@@ -1,8 +1,8 @@
 ---
 date: 2018-09-29
-title: Yoga Outfit by Paul
+title: Yoga Outfit door Paul
 img: showcase.jpg
-caption: "Aaron and Bruce yoga set with stripes by Paul (up-side-down)"
+caption: "Aaron en Bruce yoga set met strepen door Paul (ondersteboven)"
 patterns:
   - aaron
   - bruce
