@@ -1,11 +1,11 @@
 ---
 date: 2017-04-03
-title: Joost does Simon
+title: Joost doet Simon
 img: showcase.jpg
-caption: A Simon shirt by Joost
+caption: Een Simon hemd door Joost
 patterns:
   - simon
 author: joost
 ---
 
-A Simon shirt with red contrasting buttons.
+Een Simon hemd met rode, contrasterende knopen.
