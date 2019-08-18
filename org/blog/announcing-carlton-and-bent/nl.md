@@ -1,13 +1,13 @@
 ---
 date: 2017-12-20
-title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
-linktitle: "Announcing the Carlton Coat and Bent Body Block"
+title: "We presenteren Carlton, ofwel de Sherlock Holmes jas, en de Bent Basisvorm"
+linktitle: "We Presenteren de Carlton Jas en de Bent Basisvorm"
 img: coat.jpg
-caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
+caption: "Ook jij kan deze jas dragen. De pet moet je ergens anders zoeken. Voorlopig toch."
 author: joost
 ---
 
-Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Goed nieuws vrienden, we helpen de cosplayers uit de nood. Zij die als Sherlock Holmes cosplayen toch. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
 
 My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
 
