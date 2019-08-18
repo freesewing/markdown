@@ -31,23 +31,23 @@ De jas heeft twee opgestikte zakken vooraan, twee borstzakken met paspel en twee
 
 ![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+Ik maakte mijn jas net op tijd af voor een trip naar Keulen om mijn goede vriend en kleermaker [Sebastian Hoofs te bezoeken](http://sebastian-hoofs.de/massschneider/). Het was daar kouder dan zou mogen, maar de jas hield me lekker warm. Niet verrassend aangezien hij is gemaakt van een zware wol die ik tijdens de zomer vond bij [Bacci in Firenze](http://www.baccitessuti.it/en/index.html), en ik ook nog eens de extra moeite nam om een french terry tussenvoering toe te voegen (ik heb het echt niet graag koud).
 
 ![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Stamp het patriarchaat de grond in met de kracht van zakken
 
-Ladies take note: Carlita \--- a female version of Carlton \--- is currently on the drawing board.
+Dames, opgelet: Carlita - een damesversie van Carlton - staat hoog op de agenda.
 
-Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
+Initieel waren we van plan de heren- en damesversie tegelijk uit te brengen, maar de jas aanpassen bleek iets moeilijker dan verwacht door, wel, door borsten.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+Ik heb ook het gevoel dat ik iets te veel hooi op mijn vork heb hangen, dus ik hoop dat het uitbrengen van Carlton een beetje tijd/ruimte creëert om Carlita te (binnenkort) te laten volgen. Hoe dan ook heb ik Anneke beloofd dat we een damesversie zouden maken, en aangezien ze nu een [freesewing Captain](/patrons) is wil ik die belofte zeker houden.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Oh, en over die titel: als Carlita klaar is zal ze net evenveel zakken hebben als Carlton.
 
-## Also, this: Introducing the Bent Body Block
+## Ook dit nog: We presenteren de Bent Basisvorm
 
-We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
+Eigenlijk komen er vandaag twee patronen uit. Naast de Carlton jas is er ook de [Bent Basisvorm](/patterns/bent).
 
 Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
 
