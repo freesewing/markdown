@@ -11,23 +11,23 @@ Deze is voor de dames - en ik heb het niet (alleen) over die foto van hartenbrek
 
 Ik heb het namelijk over de publicatie van ons laatste patroon: de [Carlita jas](/patterns/carlita), waarvan de betaversie vanaf vandaag beschikbaar is.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita is - ja raadt het nooit - de damensversie van onze Carlton jas, die een recreatie is van de iconische Sherlock Holmes jas, gedragen door BC in de BBC-serie.
 
-## How did we do it?
+## Hoe hebben we dit gedaan?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Voor details over het ontstaan van dit project verwijs ik je door naar de post [waarmee we Carlton aankondigden](/blog/announcing-carlton-and-bent/). Hier zou ik het liefst focussen op de specifieke dingen die we gedaan hebben om van dit herenpatroon een damesversie te maken.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+We wilden zo dicht mogelijk bij het origineel blijven, dus al wat we deden was dingen aanpassen om één uitdaging aan te gaan: passen voor iemand met borsten.
 
-### Princess, meet your seam
+### Prinses, ontmoet je naad
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+We hebben een extra prinsessennaad toegevoegd aan het voorpand van de jas, en op deze manier ruimte voor de buste gemaakt.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Om dat accuraat te doen heb je voor Carlita drie extra maten nodig, naast de maten die je al nodig had voor Carlton. Dit zijn:
 
-- The [high bust](/docs/measurements/#highBust)
-- The [bust span](/docs/measurements/#bustSpan)
-- The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+- De [hoge buste](/docs/measurements/#highBust)
+- De [bustewijdte](/docs/measurements/#bustSpan)
+- [Hoog schouder punt tot buste](/docs/measurements/#highPointShoulderToBust)
 
 We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
 
