@@ -7,21 +7,21 @@ caption: "Ook jij kan deze jas dragen. De pet moet je ergens anders zoeken. Voor
 author: joost
 ---
 
-Goed nieuws vrienden, we helpen de cosplayers uit de nood. Zij die als Sherlock Holmes cosplayen toch. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Goed nieuws vrienden, we helpen de cosplayers uit de nood. Zij die als Sherlock Holmes cosplayen toch. Ons nieuwste patroon, de [Carlton jas](/patterns/carlton), is exact wat de dokter je zou voorschrijven als de dokter om één of andere reden wil dat je erbij loopt als iedereen z'n favoriete detective.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Mijn geheugen laat me een beetje in de steek als het gaat om het begin van dit project. Waarschijnlijk had het te maken met mij die aan het klagen was over de kou en hoe ik een warme winterjas miste, maar buiten dat ben ik niet zo zeker.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Wat ik wel nog weet is dat [Anneke](http://www.annekecaramin.com/) en ik op een gegeven moment beslisten dat we de Sherlock Holmes kas wilden namaken. Om precies te zijn, de jas die Benedict Cumberbatch draagt in de BBC-serie over Sherlock Holmes.
 
 ![That coat though](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+De jas is om duidelijke redenen populair bij cosplayers, maar is op zich gewoon een heel mooie jas, en andere dappere zielen zoals [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) waagden zich er al aan.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Ik moet toegeven dat ik niet wist dat Melissa deze jas gemaakt had tot de mijne af was. Bovendien vermeldt haar blogpost dat ze instructies gebruikte uit een Livejournal post die niet langer beschikbaar is.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke en ik hebben dat niet gedaan en gewoon een patroon gebaseerd op screenshots van het tv-programma. Zo hardcore zijn we wel.
 
-### About the coat
+### Over de jas
 
 Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
 
