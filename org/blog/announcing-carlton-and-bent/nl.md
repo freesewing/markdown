@@ -13,7 +13,7 @@ Mijn geheugen laat me een beetje in de steek als het gaat om het begin van dit p
 
 Wat ik wel nog weet is dat [Anneke](http://www.annekecaramin.com/) en ik op een gegeven moment beslisten dat we de Sherlock Holmes kas wilden namaken. Om precies te zijn, de jas die Benedict Cumberbatch draagt in de BBC-serie over Sherlock Holmes.
 
-![That coat though](bc.jpg)
+![Die jas he](bc.jpg)
 
 De jas is om duidelijke redenen populair bij cosplayers, maar is op zich gewoon een heel mooie jas, en andere dappere zielen zoals [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) waagden zich er al aan.
 
@@ -25,15 +25,15 @@ Anneke en ik hebben dat niet gedaan en gewoon een patroon gebaseerd op screensho
 
 Carlton is een lange double-breasted overjas die teruggrijpt naar de traditionele uniformjassen voor ruiters waar de achterkant van de jas niet gesplitst is, maar wijde plooien heeft die over de rug van het paard kunnen liggen. Of, iets waarschijnlijker, achter je openwaaien terwijl je rondparadeert.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Voorzicht van Carlton op de auteur](front.jpg) ![Achterzicht van Carlton op de auteur](back.jpg)
 
 De jas heeft twee opgestikte zakken vooraan, twee borstzakken met paspel en twee binnenzakken. Zes zakken in totaal, dus meer dan genoeg ruimte voor al je spullen.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Borstzakken en opgestikte zakken aan de buitenkant](pockets.jpg) ![Binnenzakken aan de binnenkant](innerpocket.jpg)
 
 Ik maakte mijn jas net op tijd af voor een trip naar Keulen om mijn goede vriend en kleermaker [Sebastian Hoofs te bezoeken](http://sebastian-hoofs.de/massschneider/). Het was daar kouder dan zou mogen, maar de jas hield me lekker warm. Niet verrassend aangezien hij is gemaakt van een zware wol die ik tijdens de zomer vond bij [Bacci in Firenze](http://www.baccitessuti.it/en/index.html), en ik ook nog eens de extra moeite nam om een french terry tussenvoering toe te voegen (ik heb het echt niet graag koud).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Ik heb wordt niet betaald door Bacci, maar ben wel fan van goede stoffenwinkels](bacci.jpg) ![Je kan de french terry tussenvoering zien waar ik de mouwvoering naar achter gelegd heb](interlining.jpg)
 
 ### Stamp het patriarchaat de grond in met de kracht van zakken
 
@@ -49,10 +49,10 @@ Oh, en over die titel: als Carlita klaar is zal ze net evenveel zakken hebben al
 
 Eigenlijk komen er vandaag twee patronen uit. Naast de Carlton jas is er ook de [Bent Basisvorm](/patterns/bent).
 
-Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
+Bent is een variatie op onze [Brian Basisvorm](/patterns/bent), met een tweedelige mouw. Eigenlijk is het een basis voor patronen voor heren jasjes en -jassen.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+Ik ontwierp Bent initieel als een basis voor het [zebrajasje dat ik voor de Refashioners maakte in 2017](/blog/the-refashioners-2017/), dus dat jasjespatroon kan je in de komende maanden ook verwachten.
 
-Carlton is also based on Bent, so we're giving you both today.
+Carlton is ook op Brent gebaseerd, dus vandaag krijg je ze allebei.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Heel fijne feestdagen gewenst, als dat je ding is. En veel plezier met maken!
