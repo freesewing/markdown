@@ -1,19 +1,18 @@
 ---
 date: 2017-08-20
-title: Mark wears a simon shirt made by his wife
+title: Mark draagt een Simon hemd, gemaakt door zijn vrouw
 img: showcase.jpg
-caption: "Good tie action too"
+caption: "Goeie das ook"
 patterns:
   - simon
 author: swissarmywife
 ---
 
-![Another view](2.jpg)
+![Een andere kant](2.jpg)
 
-![And a back view](3.jpg)
+![En de achterkant](3.jpg)
 
-> ##### Check the original in the Instagram feed of swissarmywife
+> ##### Bekijk het origineel in de Instagram feed van swissarmywife
 > 
-> This picture is from [the Instagram feed](https://www.instagram.com/p/BYAX07OFEPL/)  
-> of [swissarmywife](https://mnel2.wordpress.com/).  
-> It's posted here with permission.
+> Deze foto komt uit de [Instagram feed](https://www.instagram.com/p/BYAX07OFEPL/) van [swissarmywife](https://mnel2.wordpress.com/).   
+> Ze is hier gepost met toestemming.
