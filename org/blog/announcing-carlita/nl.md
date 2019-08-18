@@ -45,7 +45,7 @@ Dit controleert hoe scherp de prinsessennaad terug naar binnen keert na het extr
 
 Een foto zegt meer dan duizend woorden, dus hier is de optie aangeduid op het relevante patroondeel:
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![Het effect van de optie zoals getoond door onze sample service](smooth.png)
 
 Zoals je kan zien controleert deze optie hoe fel de prinsessennaad terug naar je taille keert nadat ze over het volste deel van de buste gegaan is.
 
@@ -57,16 +57,16 @@ Een hogere ronding factor maakt dit minder fel zodat de overgang naar het lagere
 
 Dit is geen nieuws voor regelmatige bezoekers van deze website, maar als je hier nieuw bent is het de moeite om dit nog eens te horen:
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Deze jas is niet getekend met een bepaalde cupmaat in het achterhoofd. In plaats daarvan past het patroon zich aan jouw borst aan, gebaseerd op jouw afmetingen.
 
-## Ladies, we need your feedback
+## Dames, laat van je horen
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Dit is ons eerste damespatroon met een aanpassende buste. Het is dus nieuw terrein voor ons, en ik wil graag weten hoe dit patroon zich aanpast aan een variëteit in lichaamsvormen en cupmaten.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Als je van plan bent om deze jas te maken, of een toile, deel dan alsjeblieft je ervaring en aarzel niet ons te contacteren mocht je een probleem tegenkomen.
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Het is mijn bedoeling meer damespatronen te ontwerpen, dus als er pasproblemen zijn hoor ik daar liever vroeger dan later over.
 
 ## Shout-out
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Als laatste wil ik graag [Anneke](http://www.annekecaramin.com/) bedanken voor haar hulp tijdens dit project en het tolereren van mijn eindeloze tirades over mijn haat/liefde relatie met borsten.
