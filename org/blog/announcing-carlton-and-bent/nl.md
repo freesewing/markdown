@@ -23,11 +23,11 @@ Anneke en ik hebben dat niet gedaan en gewoon een patroon gebaseerd op screensho
 
 ### Over de jas
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton is een lange double-breasted overjas die teruggrijpt naar de traditionele uniformjassen voor ruiters waar de achterkant van de jas niet gesplitst is, maar wijde plooien heeft die over de rug van het paard kunnen liggen. Of, iets waarschijnlijker, achter je openwaaien terwijl je rondparadeert.
 
 ![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+De jas heeft twee opgestikte zakken vooraan, twee borstzakken met paspel en twee binnenzakken. Zes zakken in totaal, dus meer dan genoeg ruimte voor al je spullen.
 
 ![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
 
