@@ -1,8 +1,5 @@
 ---
 title: Kruisstuk
-path: /en/docs/patterns/bruce/options/bulge
-pattern: bruce
-option: kruis
 ---
 
 ![De optie voor kruisstuk bij Bruce](./bulge.svg)
