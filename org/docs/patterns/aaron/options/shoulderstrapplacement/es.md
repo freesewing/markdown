@@ -1,7 +1,5 @@
 ---
 title: Shoulder strap placement
-pattern: aaron
-option: shoulderStrapPlacement
 ---
 
 ![The shoulder strap placement option on Aaron](./shoulderstrapplacement.svg)
