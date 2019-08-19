@@ -1,7 +1,5 @@
 ---
 title: Stijl strik
-pattern: benjamin
-option: strikStijl
 ---
 
 Vier verschillende stijlen van vlinderdas!

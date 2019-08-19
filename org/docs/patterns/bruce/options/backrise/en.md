@@ -1,7 +1,5 @@
 ---
 title: Back rise
-pattern: bruce
-option: backRise
 ---
 ![The back rise option on Bruce](./backrise.svg)
 

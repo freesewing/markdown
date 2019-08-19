@@ -1,7 +1,5 @@
 ---
 title: Lengte strik
-pattern: benjamin
-option: strikLengte
 ---
 
 Brede en smalle strikken

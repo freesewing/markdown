@@ -1,8 +1,6 @@
 ---
 title: Hoogte achter
 path: /en/docs/patterns/theodore/options/backrise
-pattern: theodore
-option: achterHoogte
 ---
 
 This raises the waist of your trousers at the back.

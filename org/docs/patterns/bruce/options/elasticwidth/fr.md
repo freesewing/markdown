@@ -1,8 +1,6 @@
 ---
 title: Elastic width
 path: /en/docs/patterns/bruce/options/elasticwidth
-pattern: bruce
-option: elasticWidth
 ---
 
 ![The elastic width option on Bruce](./elasticwidth.svg)

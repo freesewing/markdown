@@ -1,8 +1,6 @@
 ---
 title: Barrel cuff narrow button
 path: /en/docs/patterns/simon/options/barrelcuffnarrowbutton
-pattern: simon
-option: barrelCuffNarrowButton
 ---
 
 

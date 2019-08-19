@@ -1,8 +1,6 @@
 ---
 title: Bonus mouwlengte
 path: /en/docs/patterns/carlton/options/sleevelengthbonus
-pattern: carlton
-option: mouwLengteBonus
 ---
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.

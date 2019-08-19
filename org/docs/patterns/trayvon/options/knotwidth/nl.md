@@ -1,8 +1,6 @@
 ---
 title: Breedte knoop
 path: /en/docs/patterns/trayvon/options/knotwidth
-pattern: trayvon
-option: knotWidth
 ---
 
 The knot width is the width in the middle of the tie, where you make the knot.

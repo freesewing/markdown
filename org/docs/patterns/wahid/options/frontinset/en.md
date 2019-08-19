@@ -1,7 +1,5 @@
 ---
 title: Front inset
-pattern: wahid
-option: frontInset
 ---
 
 How far do you want your waistcoat armhole to curve inwards on the front?

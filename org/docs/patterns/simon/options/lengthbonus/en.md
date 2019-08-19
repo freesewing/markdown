@@ -1,7 +1,5 @@
 ---
 title: Length bonus
-pattern: simon
-option: lengthBonus
 ---
 
 How much shirt do you want to be able to tuck in your trousers?

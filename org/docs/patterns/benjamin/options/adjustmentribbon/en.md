@@ -1,7 +1,5 @@
 ---
 title: Adjustment ribbon
-pattern: benjamin
-option: adjustmentRibbon
 ---
 
 Traditional or adjustable?

@@ -1,7 +1,5 @@
 ---
 title: Button placket type
-pattern: simon
-option: buttonPlacketType
 ---
 
 Do you want the button placket to be part of the right front pattern part (cut-on), or rather an individual part that you sew on (seperate)?

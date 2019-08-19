@@ -1,7 +1,5 @@
 ---
 title: Front rise
-pattern: cathrin
-option: frontRise
 ---
 ![The front rise option on Cathrin](./frontrise.svg)
 

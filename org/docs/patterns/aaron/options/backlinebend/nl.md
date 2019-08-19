@@ -1,7 +1,5 @@
 ---
 title: Vorm armsgat achteraan
-pattern: aaron
-option: achterBuiging
 ---
 
 ![De vorm van het armsgat op de rug van Aaron](./backlinebend.svg)

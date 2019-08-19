@@ -1,7 +1,5 @@
 ---
 title: Collar gap
-pattern: simon
-option: collarGap
 ---
 
 Distance the collar sits apart when closed.

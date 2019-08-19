@@ -1,7 +1,5 @@
 ---
 title: Tip width
-pattern: benjamin
-option: tipWidth
 ---
 
 Bow ties Wide and Narrow

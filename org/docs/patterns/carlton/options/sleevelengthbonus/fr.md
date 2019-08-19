@@ -1,8 +1,6 @@
 ---
 title: Sleeve length bonus
 path: /en/docs/patterns/carlton/options/sleevelengthbonus
-pattern: carlton
-option: sleeveLengthBonus
 ---
 
 The amount to extend the sleeve beyond the length of the sleeve in the base block.

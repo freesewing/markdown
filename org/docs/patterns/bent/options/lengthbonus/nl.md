@@ -1,7 +1,5 @@
 ---
 title: Bonus lengte
-pattern: bent
-option: lengteBonus
 ---
 
 Deze optie bepaalt hoeveel lager dan je heuplijn het basispatroon komt.

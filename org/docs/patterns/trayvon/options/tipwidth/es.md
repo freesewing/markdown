@@ -1,8 +1,6 @@
 ---
 title: Tip width
 path: /en/docs/patterns/trayvon/options/tipwidth
-pattern: trayvon
-option: tipWidth
 ---
 
 The tip width is the width at the tip of the tie.

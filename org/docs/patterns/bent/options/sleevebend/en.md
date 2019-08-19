@@ -1,7 +1,5 @@
 ---
 title: Sleeve bend
-pattern: bent
-option: sleeveBend
 ---
 
-The angle of the sleeve.
+The angle by which the sleeve bends at the elbow.

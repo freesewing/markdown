@@ -1,8 +1,6 @@
 ---
 title: Sleevecap ease
 path: /en/docs/patterns/simon/options/sleevecapease
-pattern: simon
-option: sleevecapEase
 ---
 
 How much sleevecap ease do you want?

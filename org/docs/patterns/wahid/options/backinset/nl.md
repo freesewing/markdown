@@ -1,8 +1,6 @@
 ---
 title: Back inset
 path: /en/docs/patterns/wahid/options/backinset
-pattern: wahid
-option: backInset
 ---
 
 How far do you want your waistcoat armhole to curve inwards on the back side?

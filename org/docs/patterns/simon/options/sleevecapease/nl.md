@@ -1,8 +1,6 @@
 ---
 title: Extra ruimte mouwkop
 path: /en/docs/patterns/simon/options/sleevecapease
-pattern: simon
-option: mouwkopOver
 ---
 
 Hoeveel extra ruimte wil je in de mouwkop?

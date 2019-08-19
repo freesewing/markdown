@@ -1,8 +1,6 @@
 ---
 title: Breedte heupen
 path: /en/docs/patterns/simon/options/hipflare
-pattern: simon
-option: heupBreedte
 ---
 
 Dit voegt extra ruimte toe onder je heupen.

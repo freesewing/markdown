@@ -1,7 +1,5 @@
 ---
 title: Sleevecap ease
-pattern: simon
-option: sleevecapEase
 ---
 
 How much sleevecap ease do you want?

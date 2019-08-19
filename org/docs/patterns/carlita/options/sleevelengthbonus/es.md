@@ -1,8 +1,6 @@
 ---
 title: Sleeve length bonus
 path: /en/docs/patterns/carlita/options/sleevelengthbonus
-pattern: carlita
-option: sleeveLengthBonus
 ---
 
 The amount to extend the sleeve beyond the length of the sleeve in the base block.

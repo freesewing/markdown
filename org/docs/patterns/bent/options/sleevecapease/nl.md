@@ -1,7 +1,5 @@
 ---
 title: Extra ruimte mouwkop
-pattern: bent
-option: mouwkopOver
 ---
 
 Hoeveel extra ruimte wil je in de mouwkop?

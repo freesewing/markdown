@@ -1,7 +1,5 @@
 ---
 title: Waist reduction
-pattern: cathrin
-option: waistReduction
 ---
 ![The waist reduction option on Cathrin](./waistreduction.svg)
 

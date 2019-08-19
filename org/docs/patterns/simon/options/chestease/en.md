@@ -1,7 +1,5 @@
 ---
 title: Chest ease
-pattern: simon
-option: chestEase
 ---
 
 How much room do you want at the chest?

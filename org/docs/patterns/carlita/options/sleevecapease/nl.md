@@ -1,8 +1,6 @@
 ---
 title: Extra ruimte mouwkop
 path: /en/docs/patterns/carlita/options/sleevecapease
-pattern: carlita
-option: mouwkopOver
 ---
 
 Hoeveel extra ruimte wil je in de mouwkop?

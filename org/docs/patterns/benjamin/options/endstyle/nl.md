@@ -1,7 +1,5 @@
 ---
 title: Puntvorm
-pattern: benjamin
-option: puntVorm
 ---
 
 Drie verschillende puntjes

@@ -1,7 +1,5 @@
 ---
 title: Back drop
-pattern: cathrin
-option: backDrop
 ---
 ![The back drop option on Cathrin](./backdrop.svg)
 

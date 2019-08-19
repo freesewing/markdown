@@ -1,8 +1,6 @@
 ---
 title: Extra ruimte mouwkop
 path: /en/docs/patterns/carlton/options/sleevecapease
-pattern: carlton
-option: mouwkopOver
 ---
 
 Hoeveel extra ruimte wil je in de mouwkop?

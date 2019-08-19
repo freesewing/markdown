@@ -1,7 +1,5 @@
 ---
 title: Stretch
-pattern: aaron
-option: stretchFactor
 ---
 
 ![De optie voor de stretch factor van Aaron](./stretchfactor.svg)

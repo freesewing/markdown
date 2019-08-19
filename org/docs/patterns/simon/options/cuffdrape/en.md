@@ -1,7 +1,5 @@
 ---
 title: Cuff drape
-pattern: simon
-option: cuffDrape
 ---
 
 

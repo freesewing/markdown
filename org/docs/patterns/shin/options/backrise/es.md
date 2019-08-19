@@ -1,8 +1,6 @@
 ---
 title: Back rise
 path: /en/docs/patterns/shin/options/backrise
-pattern: shin
-option: backRise
 ---
 
 How much extra rise do you want at the back?

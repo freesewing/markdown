@@ -1,7 +1,5 @@
 ---
 title: Overwijdte manchet
-pattern: simon
-option: polsOver
 ---
 
 Bepaalt hoeveel groter de manchet is dan je pols.

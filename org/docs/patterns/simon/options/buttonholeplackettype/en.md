@@ -1,7 +1,5 @@
 ---
 title: Buttonhole placket type
-pattern: simon
-option: buttonholePlacketType
 ---
 
 Do you want the buttonhole placket to be part of the left front pattern part (cut-on), or rather an individual part that you sew on (seperate)?

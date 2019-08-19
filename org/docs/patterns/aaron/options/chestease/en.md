@@ -1,7 +1,5 @@
 ---
 title: Chest ease
-pattern: aaron
-option: chestEase
 ---
 ![The chest ease option on Aaron](./chestease.svg)
 

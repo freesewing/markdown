@@ -1,7 +1,5 @@
 ---
 title: Bow style
-pattern: benjamin
-option: bowStyle
 ---
 Four different bow tie styles!
 

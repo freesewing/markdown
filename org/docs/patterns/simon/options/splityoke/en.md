@@ -1,7 +1,5 @@
 ---
 title: Split yoke
-pattern: simon
-option: splitYoke
 ---
 
 Do you want a split yoke?
