@@ -1,25 +1,30 @@
 ---
-title: Community standards
+title: Normes communautaires
 ---
+Merci de faire partie de la communauté freesewing. 
+En vous engageant avec nous, où en vous engageant avec d'autres, merci de garder en tête les règles simples qui suivent: 
 
-Thank you for being part of the freesewing community. When you engage with us, or when you engage with others, please remember the following simple rules:
+## Soyez gentils
+Nous ne pouvons accepter des commentaires qui sont soit injurieux en eux-même ou clairement injurieux envers les autres. 
 
-## Be nice
+Nous vous demandons d'éviter d'utiliser un language obscène ou insultant, 
+de montrer du respect envers les autres utilisateurs, 
+les figures publiques ou les principes fondamentaux que nous partageons tous avec un peu d'espoir.
 
-We cannot accept comments that are either offensive in themselves or clearly offensive to others.
+Sans vouloir être exhaustif, cela implique pas de racisme, de xénophobie, d'appel à la violence, 
+ou de discrimination basée sur la religion, l'origine éthnique, le genre, l'âge, 
+les formes du corps, la langue. 
 
-We ask you to avoid obscenities and other insulting language, to show respect for fellow users, public figures and the fundamental principles we hopefully all share.
+## Ne spammez pas
+Nous vous encourageons à publier des commentaires qui reste dans le sujet et nous apprécierons si 
+vous vous abstenez de publier des messages à caractère publicitaire 
+(pour votre entreprise, blog ou site web, etc). 
 
-Without wanting to be exhaustive, that means no racism, xenophobia, calls to violence, discrimination based on religion, ethnic origin, gender, age, body shape, language, &hellip;.
+Il est acceptable de publier des liens vers de l'information pertinente ou d'autres sites, 
+mais le Spam et autres éléments hors-sujet seront supprimés.
 
-## Don't spam
-
-We encourage you to post comments that stick to the subject and would appreciate it if you refrain from posting advertisements (for your businesses, blogs or websites, etc).
-
-It is fine to post links to relevant information on other websites, but Spam and other off-topic items will be removed.
-
-## Don't get us in trouble
-
-Comments that are defamatory, unlawful or include copyright infringements are also against the rules. Impersonating other people or using fake accounts is also not done.
-
-We will delete these types of comments and may ban users who keep on disregarding these rules.
+## Ne nous mettez pas dans le pétrin 
+Les commentaires qui sont diffamatoires, illégaux, ou qui incluent des infractions aux droits d'auteur sont également contre les règles. 
+Prendre la place d'autres personnes ou utiliser de faux comptes n'est également pas à faire.
+  
+Nous supprimerons ces types de commentaires et seront susceptibles de bannir les utilisateurs qui continueront d'enfreindre ces règles.
