@@ -1,8 +1,5 @@
 ---
 title: Bonus mouwlengte
-path: /en/docs/patterns/carlita/options/sleevelengthbonus
-pattern: carlita
-option: mouwLengteBonus
 ---
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.
