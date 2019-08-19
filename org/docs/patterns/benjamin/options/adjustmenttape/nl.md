@@ -1,7 +1,5 @@
 ---
 title: Aanpas band
-pattern: benjamin
-option: aanpasBand
 ---
 
 Traditioneel of aanpasbaar?
