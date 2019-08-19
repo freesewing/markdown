@@ -1,7 +1,5 @@
 ---
 title: Breedte punten
-pattern: benjamin
-option: tipWidth
 ---
 
 Brede en smalle strikken
