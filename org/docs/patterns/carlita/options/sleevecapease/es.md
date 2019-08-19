@@ -1,8 +1,5 @@
 ---
 title: Sleevecap ease
-path: /en/docs/patterns/carlita/options/sleevecapease
-pattern: carlita
-option: sleevecapEase
 ---
 
 How much sleevecap ease do you want?
