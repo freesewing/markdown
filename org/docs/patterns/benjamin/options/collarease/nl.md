@@ -1,7 +1,5 @@
 ---
 title: Overwijdte kraag
-pattern: benjamin
-option: collarEase
 ---
 
 Hoeveel overwijdte heeft je kraag?
