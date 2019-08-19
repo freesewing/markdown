@@ -1,7 +1,5 @@
 ---
 title: Back armhole shape
-pattern: aaron
-option: backlineBend
 ---
 
 ![The back armhole shape option on Aaron](./backlinebend.svg)
