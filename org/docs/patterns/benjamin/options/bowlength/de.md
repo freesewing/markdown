@@ -1,7 +1,5 @@
 ---
 title: Bow length
-pattern: benjamin
-option: bowLength
 ---
 
 Bow ties Wide and Narrow
