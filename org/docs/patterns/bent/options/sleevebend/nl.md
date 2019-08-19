@@ -1,7 +1,5 @@
 ---
 title: Mouw kromming
-pattern: bent
-option: mouwKromming
 ---
 
-De hoek van de mouw.
+The angle by which the sleeve bends at the elbow.
