@@ -1,21 +1,21 @@
 ---
-title: Your first part
+title: Votre première partie
 order: 120
 ---
 
-Much like garments themselves, patterns are made up of *parts*.
+Comme les vêtements eux-mêmes, les patrons sont composés de *parties*.
 
-Most patterns will have multiple parts. A sleeve, a back part, the collar, and so on. Our patterns is very simply, and only has one part: the bib.
+La plupart des patrons auront plusieurs parties. Une manche, une partie arrière, le col, etc. Notre patron est des plus simples, et ne comporte qu'une seule partie : le bavoir.
 
-The pattern that's been created for us also just has one part to get you started. It's called **box** and it draws a box. If you click on the **Draft your pattern** button in your browser, you'll get to see it:
+Le patron qui vient d'être créé pour nous a aussi une unique partie pour vous faire démarrer. Il est appelé **box** et il dessine une boîte. Si vous cliquez sur le bouton **Ébaucher votre patron** dans votre navigateur, vous allez la voir :
 
 ![The default pattern with its box part](./step1.png)
 
-Since we only need one part, we'll rename this *box* part, and call it *bib*.
+Puisque nous n'avons besoin que d'une seule partie, nous renommerons cette partie *box*, et l'appellerons *bib* (pour bavoir).
 
-## Rename the box part to bib
+## Renommez la partie box en bib
 
-First, update the configuration file in `config/index.js`. Update the **parts** array with `bib`, rather than `box`:
+Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Update the **parts** array with `bib`, rather than `box`:
 
 ```js
 parts: ["bib"],
@@ -43,7 +43,7 @@ Finally, still in the `src/index.js` file, update the draftmethod:
 Pattern.prototype.draftBib = draftBib;
 ```
 
-<Tip>
+<tip>
 
 ###### Always use draftPartname
 
@@ -57,6 +57,6 @@ In our case, we have a part named `bib` so we're using `draftBib()` as the metho
 
 Congratulations, your pattern now has a `bib` part, rather than a `box` part. It still looks the same though:
 
-<Example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
+<example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
 
 This `bib` part is where we'll do some real work. But first, we have some more configuration to do.
