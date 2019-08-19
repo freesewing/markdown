@@ -1,6 +1,5 @@
 ---
 title: Leg bonus
-path: /en/docs/patterns/bruce/options/legbonus
 ---
 
 ![The leg bonus option on Bruce](./legbonus.svg)

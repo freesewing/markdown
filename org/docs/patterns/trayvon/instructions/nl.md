@@ -1,294 +1,294 @@
 ---
-title: Making Trayvon
-path: /en/docs/patterns/trayvon
+title: Trayvon maken
 ---
 
 ## Wat je nodig hebt
 
-To make Trayvon, you will need the following:
+Om Trayvon te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- Between 0.5 meter and 1.5 meter of a suitable fabric ([see Fabric options](#fabric-options)), depending on whether you're cutting on bias, on grain, or cross-grain. 
+- Tussen 0.5 en 1.5 meter geschikte stof ([zie Stofkeuze](#fabric-options)), afhankelijk van hoe je knipt: schuin van draad, recht van draad of haaks op de draadrichting. 
 
-## Just the tip
+## Een klein puntje maar
 
-The tip is the most sensitive part of the tie. If you have never made a tie before, I would advise you to make a few tie tips in scrap fabric before taking scissors and needles to your nice tie fabric.
+De punt is het fijnste stukje van een das. Als je nog nooit een das gemaakt hebt zou ik je aanraden een paar punten te maken in restjes stof voor je schaar en naald in je mooie stof zet.
 
-To practice tip-making, execute constructions steps 1 through 4 a couple of times until you get the hang of it.
+Om dit te oefenen voer je stap 1 tot 4 een paar keer uit tot je het beet hebt.
 
 ## Strijk wijs
 
-Tijdens de constructie zal gevraagd worden je stof te strijken. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Tijdens de constructie zal gevraagd worden je stof te strijken. Wees voorzichtig en gebruik niet te veel hitte op een delicate stof die daar niet tegen kan.
 
-Het is een goed idee om een paar restjes stof te strijken voor je begint. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan je zien wat de beste temperatuur is voor de stof die je gebruikt.
 
 ## Stofkeuze
 
-### Tie fabric
+### Stof voor een das
 
-The ties you find in the store are typically make out of silk or some imitation silk poly. Het is dus niet verrassend dat dit goede opties zijn.
+De dassen die je in de winkel vindt zijn meestal gemaakt van zijde of polyester imitatiezijde. Het is dus niet verrassend dat dit goede opties zijn.
 
-In general, you want something with good drape so that you tie hangs nicely. Cutting your tie on bias can help here too.
+Over het algemeen wil je iets dat goed valt zodat je das mooi hangt. Je das schuin van draad knippen kan ook helpen.
 
-Personally, I like using different fabrics for ties. Things like denim or corduroy make great ties, while being a bit different from the run-of-the-mill store-bought tie.
+Ik gebruik zelf graag verschillende stoffen voor dassen. Dingen als denim of ribfluweel maken geweldige dassen, en zijn ook een beetje anders dan de gemiddelde das uit de winkel.
 
-Additionally, silk and silk imitation is slippery and tricky to work with. If this your first tie, consider an alternative fabric that is more forgiving.
+Daarbij is zijde en imitatiezijde glad en lastig om mee te werken. Als dit je eerste das ooit is, overweeg dan een alternatieve stof die zich beter gedraagt.
 
-Just make sure you pick a fabric that does not stretch or lose its shape easily. You want your tie to look sharp, not saggy.
+Zorg vooral dat je een stof kiest die niet snel uitrekt of z'n vorm verliest. Je wil dat je das er scherp uitziet, niet slapjes.
 
-### Tie lining
+### Voering van een das
 
-The lining of the tie is the bit that is used at the tip to cover up the back. If you are not sure what I mean, look at the back of the tip of an existing tie. See that rectangular patch of fabric you can see there? That is the tie lining.
+De voering van de das is het stukje dat aan de punt gebruikt wordt om de achterkant te bedekken. Als je niet zeker weet wat ik bedoel, kijk dan naar de achterkant van de punt van een bestaande das. Zie je dat rechthoekige stukje stof daar? Dat is de voering van de das.
 
-Your tie lining will add an extra fabric inside a part of your tie. So it is important to avoid bulk. Go for something thin, even when using a thicker tie fabric.
+De voering van je das voegt een extra stof toe aan een deel van de das. Het is dus belangrijk dat dit niet te dik wordt. Kies iets duns, ook als je een zwaardere stof gebruikt.
 
-Make sure your lining drapes at least as good as your tie fabric, so that it doesn't interfere with the drape of your tie.
+Zorg dat je voering minstens even goed valt als de stof van je das, zodat ze geen invloed heeft op hoe de das valt.
 
-When in doubt, go for imitation silk. Do make sure to pick something that is a nice match, or contrast, with your tie fabric.
+Bij twijfel, ga dan voor imitatie zijde. Let wel op dat je iets kiest dat ofwel bij je buitenstof past, of er mooi mee contrasteert.
 
-### Tie interfacing
+### De tussenvoering
 
-Your tie interfacing is the skeleton of your tie. It is the part that sits in the middle and that you will only see while constructing your tie.
+De tussenvoering is het skelet van je das. Het is het deel dat in het midden zit en alleen zichtbaar is terwijl je je das maakt.
 
-Tie interfacing can be notoriously hard to get. The best tie interfacing is soft, fuzzy woven lambswool, but I have yet to walk into a fabric store that carries this.
+Tussenvoering voor dassen is onwaarschijnlijk lastig te vinden. De beste optie is een zachte, pluizige geweven lamswol, maar ik moet nog een stoffenwinkel tegenkomen die dat verkoopt.
 
-While you can get by with an alternative, like some wool fabric, or flannel, I typically re-use the interfacing from an old tie.
+Hoewel je een alternatief kan zoeken, zoals een wollen stof of flanel, recycleer ik meestal de tussenvoering van een oude das.
 
-> As long as you keep your tie away from scissors and bondage fanatics, your tie interfacing will effortlessly outlast your tie. So look in your wardrobe (or the charity shop/thrift store) for that old tie with the stain on it, and take it apart to salvage the tie interfacing.
+> Zolang je je das weghoudt van scharen en bondage fanatici zal de tussenvoering met gemak de das overleven. Dus kijk eens in je kleerkast (of een kringwinkel) of je geen oude das met een vlek op vindt, en haal ze uit elkaar om de tussenvoering een tweede leven te geven.
 > 
-> As long as the tie you want to make is not wider or longer than the one you are recycling, you have your tie interfacing right there.
+> Zolang de das die je wil maken niet langer of breder is dan degene die je gaat recycleren, heb je daar je tussenvoering.
 
-### Choosing your tie grain
+### Kies je draadrichting
 
-![One fabric, different grains, different ties. Don't worry about rules, make what you like](tie-grain.png)
+![Eén stof, verschillende draadrichtingen, verschillende dassen. Maak je geen zorgen over de regels en maak wat je wil](tie-grain.png)
 
-This pattern does not include a grain line. The grain line is typically printed on the pattern to show you how to place your pattern on your fabric, relative to the fabric's grain.
+Dit patroon heeft geen draadrichting. Normaal gezien wordt de draadrichting op het patroon geprint om je te tonen hoe je het patroon op de stof moet leggen, afhankelijk van de draadrichting.
 
-For a tie, how you do this is not so much a rule as it is a personal choice. As such, there is no grain line printed on the pattern. You can do what you want.
+Voor een das is dit niet echt een regel, eerder een persoonlijke keuze. Daarom staat er geen draadrichting op het patroon. Je kan doen wat je wil.
 
-That being said, a lot of ties are cut on bias, as this results in the best drape. If you are unsure what to do, consider cutting your tie on bias.
+Dit gezegd zijnde zijn veel dassen schuin van draad geknipt, aangezien dit het mooiste valt. Als je niet zeker bent wat te doen, knip je das dan misschien schuin van draad.
 
-> If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/en/docs/sewing/fabric-grain).
+> Als dit allemaal erg verwarrend vindt kan ik je aanraden onze pagina over [Draadrichting](/en/docs/sewing/fabric-grain) eens te bekijken.
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **1 tip**
- - Cut **1 tail** 
+ - Knip **1 punt**
+ - Knip **1 staart** 
 - **Voering** 
- - Cut **1 lining tip**
- - Cut **1 lining tail** 
- - Cut **1 loop** 
+ - Knip **1 voering punt**
+ - Knip **1 voering staart** 
+ - Knip **1 lus** 
 - **Tussenvoering** 
- - Cut **1 interfacing tip**
- - Cut **1 interfacing tail** 
+ - Knip **1 tussenvoering punt**
+ - Knip **1 tussenvoering staart** 
 
-### Caveat
+### Opmerkingen
 
-- There is no seam allowance on the **interfacing** parts and the **loop**
-- The **lining** **tip** and **tail** have only seam allowance at the tip
-- The **fabric** **tip** and **tail** have only seam allowance at the tip and center
+- Er is geen naadwaarde aan de delen in **tussenvoering** en de **lus**
+- De **voering punt** en **voering staart** hebben enkel aan het uiteinde naadwaarde
+- De **punt** en **staart** hebben enkel naadwaarde aan de uiteindes en het midden
 
-Trayvon a very simply pattern, below is a typical layout:
+Trayvon een heel eenvoudig patroon, hieronder is een typische lay-out:
 
-![A typical Trayvon layout](layout.svg)
+![Een typische Trayvon layout](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Constructie
 
-### Step 1: Sew the first side of your tie tail
+### Stap 1: Stik de eerste kant van je staart
 
-![Sew the first side of the tie tail](step01.png)
+![Stik de eerste kant van je staart](step01.png)
 
-Align the lining tail (piece 6) on top of the fabric tail (piece 4), good sides together
+Leg de voering staart (deel 6) bovenop de stof staart (deel 4), met de goede kanten op elkaar
 
-Shift the lining tail along a side running up the tail until the notch on the lining tail matches the notch on the fabric tail.
+Schuif de voering staart langs een van de schuine randen van de staart tot het merkteken op de voering overeenkomt met dat op de stof.
 
-Sew in place, starting precisely at the matched notch, along the edge. Make sure to backtack on both sides.
+Begin exact aan dit merkteken, en stik vast langs de rand. Zorg dat je aan beide kanten terugstikt.
 
-Two notches are now fixed the same spot.
+Twee merktekens zitten nu op dezelfde plek vast.
 
-### Step 2: Sew the second side of your tie tail
+### Stap 2: Stik de tweede kant van je staart
 
-![Sew the second side of your tie tail](step02.png)
+![Stik de tweede kant van je staart](step02.png)
 
-Shift the fabric tail so that the second notch lines up with the notch on the lining tail (the place where your first seam started).
+Schuif de staart in stof zo dat het tweede merkteken overeenkomt met het merkteken op de voering (de plaats waar je eerste naad begon).
 
-This will require you to fold a bit of the tie fabric out of the way, under the seam you make in step one.
+Hier ga je een stukje van je buitenstof uit de weg moeten vouwen, onder de naad uit stap 1.
 
-Sew in place, starting precisely at the matched notch, making sure to get a straight angle with your seam from step 1.
+Begin exact aan het merkteken en stik vast. Let op dat je een rechte hoek vormt met de naad uit stap 1.
 
-Now, all three notches are fixed the same spot.
+Nu zitten de drie merktekens op dezelfde plek vast.
 
-### Step 3: Finish the tie tail
+### Stap 3: Werk de staart af
 
-![Finish the tie tail](step03.png)
+![Werk de staart af](step03.png)
 
-Fold your tie open so that the two seams you made in step 1 and 2 lie on top of each other. Take care to fold it precisely; the folded edges should make a straight angle.
+Plooi je das open zodat de twee naden die je in stap 1 en 2 maakte bovenop elkaar liggen. Probeer dit precies te plooien; de geplooide randen zouden een rechte hoek moeten vormen.
 
-Sew the point where the three notches and your two seams converge to the folded edge of the Fabric tip (part 4, on the left in the image).
+Stik het punt waar de drie merktekens en de twee naden samenkomen vast aan de geplooide rand van de punt in buitenstof (deel 4, links op de afbeelding).
 
-### Step 4: Turn the tail inside-out and inspect your work
+### Stap 4: Keer de das binnenstebuiten en inspecteer je werk
 
-![Turn the tail inside-out and inspect your work](step04.png)
+![Keer de das binnenstebuiten en inspecteer je werk](step04.png)
 
-After you've trimmed all threads, carefully flip your tail inside-out (technically you are flipping it outside-out as it is inside out now).
+Knip al je draadjes bij en keer daarna je das voorzichtig naar de juiste kant.
 
-If needed, you can gently push out the tip with a ruler.
+Indien nodig kan je de punt zachtjes naar buiten duwen met een lat (of een grote breinaald).
 
-Your tail should look like the picture, with a sharp point and straight edges.
+Je staart zou op de tekening moeten lijken, met een scherpe punt en rechte randen.
 
-The seam where the tie fabric meets the tie lining does not sit at the edge of the tie but it sits a bit back, staying out of sight.
+De naad waar de buitenstof van de das aan de voering vastzit zit niet aan de rand van de das maar een beetje naar achter, uit het zicht.
 
-If you managed to do all of this, you can do it again for the tip of your tie.
+Als je dit allemaal kon, kan je het opnieuw doen voor de punt van je das.
 
-### Step 5: Sew the first side of your tie tip
+### Stap5: Stik de eerste kant van je punt
 
-![Sew the first side of your tie tip](step01.png)
+![Stik de eerste kant van je punt](step01.png)
 
-Align the lining tip (piece 5) on top of the fabric tip (piece 3), good sides together
+Leg de voering punt (deel 5) bovenop de stof punt (deel 3), met de goede kanten op elkaar
 
-Shift the lining tip along a side running up the tip until the notch on the lining tip matches the notch on the fabric tip.
+Schuid de voering punt langs een van de schuine randen van de punt tot het merkteken op de voering overeenkomt met dat op de stof.
 
-Sew in place, starting precisely at the matched notch, along the edge. Make sure to backtack on both sides.
+Begin exact aan dit merkteken, en stik vast langs de rand. Zorg dat je aan beide kanten terugstikt.
 
-Two notches are now fixed the same spot.
+Twee merktekens zitten nu op dezelfde plek vast.
 
-### Step 6: Sew the second side of your tie tip
+### Stap 6: Stik de tweede kant van je punt
 
-![Sew the second side of your tie tip](step02.png)
+![Stik de tweede kant van je punt](step02.png)
 
-Shift the fabric tip so that the second notch lines up with the notch on the lining tip (the place where your first seam started).
+Schuif de stof punt zo dat het tweede merkteken overeenkomt met het merkteken op de voering (de plaats waar je eerste naad begon).
 
-This will require you to fold a bit of the tie fabric out of the way, under the seam you make in step five.
+Hier ga je een stukje van je buitenstof uit de weg moeten vouwen, onder de naad uit stap 1.
 
-Sew in place, starting precisely at the matched notch, making sure to get a straight angle with your seam from step 5.
+Begin exact aan het merkteken en stik vast. Let op dat je een rechte hoek vormt met de naad uit stap 5.
 
-Now, all three notches are fixed the same spot.
+Nu zitten de drie merktekens op dezelfde plek vast.
 
-### Step 7: Finish the tie tip
+### Stap 7: Werk de punt af
 
-![Finish the tie tip](step03.png)
+![Werk de punt af](step03.png)
 
-Fold your tie open so that the two seams you made in step 5 and 6 lie on top of each other. Take care to fold it precisely; the folded edges should make a straight angle.
+Plooi je das open zodat de twee naden die je in stap 5 en 6 maakte bovenop elkaar liggen. Probeer dit precies te plooien; de geplooide randen zouden een rechte hoek moeten vormen.
 
-Sew the point where the three notches and your two seams converge to the folded edge of the Fabric tip (part 3, on the left in the image).
+Stik het punt waar de drie merktekens en de twee naden samenkomen vast aan de geplooide rand van de punt in buitenstof (deel 3, links op de afbeelding).
 
-### Step 8: Turn the tip inside-out and inspect your work
+### Stap 8: Keer de punt binnenstebuiten en inspecteer je werk
 
-![Turn the tip inside-out and inspect your work](step04.png)
+![Keer de das binnenstebuiten en inspecteer je werk](step04.png)
 
-After you've trimmed all threads, carefully flip your tip inside-out (technically you are flipping it outside-out as it is inside out now).
+Knip al je draadjes bij en keer daarna je das voorzichtig naar de juiste kant.
 
-If needed, you can gently push out the tip with a ruler.
+Indien nodig kan je de punt zachtjes naar buiten duwen met een lat (of een grote breinaald).
 
-Your tip should look like the picture, with a sharp point and straight edges.
+Je punt zou op de tekening moeten lijken, met een scherpe punt en rechte randen.
 
-The seam where the tie fabric meets the tie lining does not sit at the edge of the tie but it sits a bit back, staying out of sight.
+De naad waar de buitenstof van de das aan de voering vastzit zit niet aan de rand van de das maar een beetje naar achter, uit het zicht.
 
-### Step 9: Join the tie interfacing
+### Stap 9: Bevestig de tussenvoering
 
-![Join the tie interfacing](step09.png)
+![Bevestig de tussenvoering](step09.png)
 
-Join Interfacing tip (piece 1) and Interfacing tail (piece 2) together on the non-pointy side, matching the notch.
+Bevestig tussenvoering punt (deel 1) aan tussenvoering staart (deel 2) aan elkaar aan de niet-puntige kant. Let op dat de merktekens overeenkomen.
 
-> **Or don't** To be honest, I never join the interfacing. I just leave both halves unattached.
+> **Of niet**   
+> Om eerlijk te zijn stik ik de tussenvoering nooit aan elkaar. Ik laat de twee helften gewoon los.
 > 
-> This way, you can never get the length of your tie wrong, and you can just slide the interfacing parts over each other. In addition, it creates less bulk in the middle, and it's less work.
+> Op deze manier kan de lengte van je das nooit fout zijn, en kan je de stukken tussenvoering gewoon over elkaar heen schuiven. Daarnaast zorgt het voor minder bulk in het midden en is het minder werk.
 > 
-> So you can just skip this step, it's what I do.
+> Je kan deze stap dus gewoon overslaan, dat doe ik ook.
 
-### Step 10: Join the tie fabric
+### Stap 10: Bevestig de stof van de das
 
-![Join the tie fabric](step10.png)
+![Bevestig de stof van de das](step10.png)
 
-> With the interfacing sewn together, the length of our tie is now determined. Measure the tie tip to tip, and make sure that you join the fabric pieces at the correct length.
+> Als de tussenvoering vastgenaaid is, ligt de lengte van de das ook vast. Meet de das van punt tot punt, en let op dat je de stofdelen op de correcte lengte aan elkaar zet.
 
-Join the tip and tail fabric together on the non-pointy side.
+Stik de punt en staart aan elkaar aan de niet-puntige kant.
 
-### Step 11: Make your tie loop
+### Stap 11: maak je lus
 
-![Make your tie loop](step11.png)
+![Maak je lus](step11.png)
 
-We are going to construct the Loop (piece 7) of our tie now.
+We gaan nu de lus (deel 7) van de das maken.
 
-Fold the fabric as shown in the illustration. You need to end up with a narrow strip of fabric that has its ends tucked to the inside.
+Plooi de stof zoals op de illustratie. Je moet eindigen met een smalle strook stof waarvan de uiteindes naar binnen geplooid zijn.
 
-Make sure to have one edge a little bit shorter. This will be the back side.
+Zorg dat één kant een beetje korter is. Dit wordt de achterkant.
 
-While folding, reach for your iron and give it a good press so things stay in place. Also press the final loop before sewing it.
+Strijk alles goed terwijl je plooit zodat het op z'n plaats blijft. Strijk het lusje ook nog eens voor je het naait.
 
-> Careful when pressing, remember the pressing advice I gave earlier
+> Voorzichtig met strijken, denk aan het strijkadvies van eerder
 
-When you're happy with how you folded and pressed your loop, hand-sew along the edge with a slipstitch to keep things in place.
+Als je blij bent met hoe je lusje geplooid en gestreken is, naai het dan langs de rand dicht met een onzichtbare steek om de dingen op hun plek te houden.
 
-### Step 12: Assemble your tie
+### Stap 12: Stel je das samen
 
-![Assemble your tie](step12.png)
+![Stel je das samen](step12.png)
 
-Time to start putting things together. Place your tie on a flat surface, good side down, lining up.
+Tijd om alles samen te brengen. Leg je das op een plat oppervlak, goede kant naar beneden en voering naar boven.
 
-Now take your tie interfacing, and place it in your tie with the seam allowance in the middle facing upwards. Make sure to slide it between your fabric and lining on each side, all the way to the tip.
+Neem nu je tussenvoering en leg ze in je das met de naadwaarde in het midden naar boven. Zorg dat je ze aan elke kant tussen je buitenstof en voering schuift, helemaal tot in de puntjes.
 
-### Step 13: Fold and press your tie
+### Stap 13: Plooi en strijk je das
 
-![Fold and press your tie](step13.png)
+![Plooi en strijk je das](step13.png)
 
-With your tie interfacing inserted in your tie fabric, fold over one side of the fabric over the interfacing.
+Als de tussenvoering in je das zit, plooi dan een kant van de stof over de tussenvoering.
 
-You want to fold it snugly around the interfacing, but without moving the interfacing, which should stay in the middle.
+Probeer de stof strak rond de tussenvoering te plooien, maar zonder deze te bewegen. De tussenvoering moet in het midden blijven.
 
-When you're done, press your fold. Because of the tie interfacing, you're not pressing a sharp crease here, the main point is to shape the fabric to be more eager to stay folder around the interfacing.
+Wanneer je klaar bent strijk je deze plooi. Door de tussenvoering strijk je hier geen scherpe vouw in, het punt is om de stof een beetje in vorm te krijgen zodat ze mooier rond de tussenvoering blijft liggen.
 
-> As we are not pressing a sharp crease here, but more shaping the fabric, a steam iron works best.
+> Aangezien we geen scherpe vouw strijken maar eerder de stof vormgeven werkt een stoomstrijkijzer hier het best.
 
-When you have completed one side, fold back the other side, and steam again.
+Als je één kant afgewerkt hebt, plooi dan de andere kant ook om, en stoom opnieuw.
 
-Finally, fold back the top layer along the middle of your tie, and press in place. This time, you are making a sharp crease along the middle of the tie.
+Plooi uiteindelijk de bovenste laag langs het midden van je das, en strijk. Deze keer maak je wel een scherpe plooi langs het midden van de das.
 
-> To clarify the difference between the two last folds, I have included a dark line in the image that marks the edge of the fabric, or fold.
+> Om het verschil tussen de laatste twee plooien duidelijk te maken heb ik een donkere lijn aan de tekening toegevoegd die de rand van de stof of vouw aangeeft.
 > 
-> As you can see, the first time we merely fold the fabric back, and it extends passed the center of the tie.
+> Zoals je kan zien plooien we eerst enkel de stof terug, en komt de rand voorbij het midden van de das.
 > 
-> The second time, we fold it back again in the middle, the place where we'll sew it in place.
+> De tweede keer plooien we de stof terug in het midden, waar ze later vastgenaaid wordt.
 
-### Step 14: Prepare the loop
+### Stap 14: Bereid de lus voor
 
-![Prepare the loop](step14.png)
+![Bereid de lus voor](step14.png)
 
-Fold your loop so the tail of your tie can pass through it with some room.
+Plooi je lus zo dat de punt van je das erdoor kan met wat bewegingsruimte.
 
-Mark the point where the loop ends join, and sew them together.
+Markeer het punt waarop de lus samenkomt, en stik samen.
 
-Finally, press your loop open so the seam sits in the middle, and the ends point to one side.
+Strijk je lus dan open zodat de naad in het midden zit en de uiteindes naar één kant.
 
-### Step 15: Slip stitch tie, and insert loop
+### Stap 15: Blinde zoomsteek, en bevestig de lus
 
-![Slip-stitch tie, and insert loop](step15.png)
+![Blinde zoomsteek, en bevestig de lus](step15.png)
 
-Use a slip stitch to hand sew your tie all along the length of the back.
+Gebruik een blinde zoomsteek om met de hand helemaal langs de achterkant van je das te naaien.
 
-> Your slip stitch should only catch the tie fabric on the back. Refrain from running it through the tie interfacing.
+> De blinde zoomsteek gaat alleen door de stof aan de achterkant. Probeer de steken niet door de tussenvoering te halen.
 > 
-> Be careful for is you run the stitch too deep, it might show on the front, and ruin your tie.
+> Wees ook voorzichtig: als de steken te diep gaan zie je ze aan de voorkant, en verpest je de das.
 
-Make sure to slide in your loop, somewhere around 1/5th of the tie length, starting from the tip.
+Stop je lus tussen de lagen, ongeveer op 1/5 van de lengte van de das, beginnend aan de punt.
 
-Use your slip stitch to secure the loop in place on the center seam; we'll fix the edges of the loop in the next step.
+Gebruik de blinde zoomsteek om de lus vast te maken aan de middennaad; in de volgende stap maken we de randjes van de lus vast.
 
-### Step 16: Secure the loop edges
+### Stap 16: Maak de randen van de lus vast
 
-![Secure the loop edges](step16.png)
+![Maak de randen van de lus vast](step16.png)
 
-Hand sew the edges of the loop to your tie, so it stays in place nicely.
+Naai de randen van de lus met de hand vast aan je das, zodat ze mooi op de juiste plek blijft.
 
-Make sure to sew only the bottom layer of the loop, so the stitches don't show on the loop.
+Naai enkel door de onderste laag van de lus, zodat de steken niet zichtbaar zijn.
 
-And, once again, be careful not to run your stitches through your tie. Be shallow.
+En, wederom, let op dat de steken niet door je hele das gaan. Je mag eens oppervlakkig doen.
 
-### Step 17: Trim and clean up
+### Stap 17: Knip bij en kuis op
 
-![Trim and clean up](step17.png)
+![Knip bij en kuis op](step17.png)
 
-Trim any loose threads you might have.
+Knip alle losse draadjes die er nog hangen af.

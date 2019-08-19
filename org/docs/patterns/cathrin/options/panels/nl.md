@@ -1,6 +1,5 @@
 ---
 title: Panelen
-path: /en/docs/patterns/cathrin/options/panels
 ---
 
 ![De opties voor panelen bij Cathrin](./panels.svg)

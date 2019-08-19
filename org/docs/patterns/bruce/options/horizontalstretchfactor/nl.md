@@ -1,6 +1,5 @@
 ---
 title: Factor horizontale stretch
-path: /en/docs/patterns/bruce/options/horizontalstretchfactor
 ---
 
 ![De optie voor horizontale stretch factor bij Bruce](./horizontalstretchfactor.svg)

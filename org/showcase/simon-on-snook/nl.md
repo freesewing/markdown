@@ -1,17 +1,17 @@
 ---
 date: 2017-11-25
-title: A Simon shirt by Kris for her Snook
+title: Een Simon hemd van Kris voor haar Snook
 img: showcase.jpg
-caption: "If your partner's name was Snook, you'd call him snook too."
+caption: "Als jouw partner Snook heette zou je hem ook zo noemen."
 patterns:
   - simon
 author: web_goddess
 ---
 
-![View of the back](/img/showcase/simon-on-snook/high_back.jpg)
+![Zicht op de achterkant](/img/showcase/simon-on-snook/high_back.jpg)
 
-> #### See the original on [@web_goddess](/users/web_goddess)'s blog
+> #### Zie het origineel op de blog van [@web_goddess](/users/web_goddess)
 > 
-> This picture is from [this blog post](https://www.web-goddess.org/archive/18117) on [web-goddess.org](https://www.web-goddess.org/).
+> Deze foto is van [deze blogpost](https://www.web-goddess.org/archive/18117) op [web-goddess.org](https://www.web-goddess.org/).
 > 
-> It is reposted here with permission.
+> Hij werd hier gepost met toestemming.

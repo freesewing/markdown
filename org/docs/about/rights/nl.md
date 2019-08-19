@@ -1,54 +1,47 @@
 ---
-title: Your rights
+title: Je rechten
 ---
 
-Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
+Freesewing past de algemene verordening inzake gegevensbescherming (GDPR) van de Europese Unie (EU) toe.
 
-EU citizen or not, for us these are your rights:
+EU-burger of niet, voor ons zijn dit je rechten:
 
 ## The right to be informed
 
-You have the right to be informed about the collection and use of your personal data.
-Read [our privacy notice](/docs/about/privacy) to inform yourself.
+Je hebt het recht om geïnformeerd te worden over het verzamelen en gebruik van je persoonlijke gegevens. Lees [onze privacy melding](/docs/about/privacy) om jezelf te informeren.
 
 ## The right of access
 
-You have the right to access your personal data.
-Go to [/account](/account) to do so.
+Je hebt het recht om toegang te krijgen tot je persoonlijke gegevens. Ga naar [account](/account) om dit te doen.
 
 ## The right to rectification
 
-You have the right to rectify your personal data, or complete it if it is incomplete.
-Go to [/account](/account) to do so.
+Je hebt het recht om je persoonlijke gegevens te corrigeren, of aan te vullen als ze onvolledig zijn. Ga naar [account](/account) om dit te doen.
 
 ## The right to erasure
 
-You have the right to have your personal data erased.
-Go to [/account/remove](/account/remove) to remove all your data.  
+Je hebt het recht om je persoonlijke gegevens te wissen. Ga naar [account/remove](/account/remove) om al je gegevens te verwijderen.
 
 ## The right to restrict processing
 
-You have the right to request a restriction on the processing of your personal data.
-Go to [/account/restrict](/account/restrict) to request we restrict processing of your personal data.  
+Je hebt het recht een restrictie aan te vragen voor het verwerken van je persoonlijke gegevens. Ga naar [account/restrict](/account/restrict) om te vragen de verwerking van je persoonlijke gegevens te beperken.
 
-<Warning>
+<warning>
 
-Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
+Je aanvraag zal meteen in werking gesteld worden en kan enkel ongedaan gemaakt worden door [ons te contacteren](/contact) om de restrictie op te heffen.
 
 </Warning>
 
 ## The right to data portability
 
-You have the right to obtain and reuse your personal data for your own purposes or across different services.
-Go to [/account/export](/account/export) to export your data.
+Je hebt het recht om je persoonlijke gegevens te verkrijgen en opnieuw te gebruiken, voor eigen gebruik of bij verschillende diensten. Ga naar [account/export](/account/export) om je gegevens te exporteren.
 
 ## The right to object
 
-You have the right to object to your personal data being used for scientific research.
-Go to [/account/consent](/account/consent) and object in the **model data** section to do so.
+Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetenschappelijk onderzoek. Ga naar [account/consent](/account/consent) en geef je bezwaar aan bij de **modelgegevens**.
 
-> The right to object is broader, but this is how it applies to freesewing.
+> Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij freesewing.
 
 ## Rights in relation to automated decision making and profiling
 
-This right does not apply to FreeSewing as we do not use automated decision making or profiling.
+Dit recht is niet van toepassing voor FreeSewing, aangezien we geen geautomatiseerde besluitvorming of profilering gebruiken.

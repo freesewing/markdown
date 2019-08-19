@@ -1,6 +1,5 @@
 ---
 title: Cuff style
-path: /en/docs/patterns/simon/options/cuffstyle
 ---
 
 What style of cuff do you want?

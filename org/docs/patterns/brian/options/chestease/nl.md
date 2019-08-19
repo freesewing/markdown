@@ -1,6 +1,5 @@
 ---
 title: Overwijdte borst
-path: /en/docs/patterns/brian/options/chestease
 ---
 
 ![De factor voor overwijdte borst bij Brian](./chestease.svg)

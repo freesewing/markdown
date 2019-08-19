@@ -1,48 +1,47 @@
 ---
-title: Making Tamiko
-path: /en/docs/patterns/tamiko
+title: Tamiko maken
 ---
 
 ## Wat je nodig hebt
 
-To make Tamiko, you will need the following:
+Om Tamiko te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
 - Ongeveer 1 m geschikte stof ([zie Optionele stoffen](#fabric-options))
 
 ## Stofkeuze
 
-This pattern has a lot of unfinished edges, so you need something that does not ravel. And you want to go for something with a nice drape.
+Dit patroon heeft veel onafgewerkte randen, dus je hebt iets nodig dat niet uitrafelt. Je kiest ook best iets dat soepel valt.
 
-Long story short, go for a knitted fabric, or some light scuba or something. No wovens.
+Om een lang verhaal kort te maken: kies voor een jersey, of een lichte scuba of zo. Geen geweven stoffen.
 
 ## Knippen
 
 - **Buitenstof** 
- - Cut **1 Tamiko top** on the fold
+ - Knip **1 Tamiko top** aan de stofvouw
 
-Tamiko is a zero-waste pattern. It's a rectangle that's cut out on the fold. Not more than that. There's only one part to this top, we will simply refer to it at the **Tamiko top**. It needs to be cut on the fold along the bottom.
+Tamiko is een top die geen stof verspilt. Het is een rechthoek die aan de stofvouw geknipt wordt. Niet meer dan dat. Deze top heeft maar één patroondeel, dat we simpelweg **Tamiko top** zullen noemen. Het moet aan de stofvouw geknipt worden langs de onderrand.
 
-> Cut out the armhole, but leave seam allowance
+> Knip het armsgat uit, maar laat naadwaarde over
 
-Below is a typical Tamiko draft:
+Hier is een typisch Tamiko patroon:
 
-![A typical Tamiko draft](layout.svg)
+![Een typisch Tamiko patroon](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Constructie
 
-### Step 1: Finish the armhole seam
+### Stap 1: werk het armsgat af
 
-![Finsh the armhole seam](step03.png)
+![Werk het armsgat af](step03.png)
 
-Finish the armhole seam with a narrow hem.
+Werk het armsgat af met een smalle zoom.
 
-### Step 2: Finish the top
+### Stap 2: Maak de top af
 
-![Sew the three seamlines that are marked on your draft](step04.png)
+![Stik de drie naadlijnen die op je patroon aangegeven staan](step04.png)
 
-> As your top is folded, it's a good idea to pin both halves together. This way, your top can't shift around while we finish it.
+> Het is een goed idee om de twee helften samen te spelden terwijl je de top plooit. Zo kan de boel niet verschuiven terwijl we alles afwerken.
 
-Sew the three seamlines that are marked on your draft.
+Stik de drie naadlijnen die op je patroon aangegeven staan.

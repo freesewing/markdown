@@ -1,6 +1,5 @@
 ---
 title: Rise
-path: /en/docs/patterns/bruce/options/rise
 ---
 
 ![The rise option on Bruce](./rise.svg)

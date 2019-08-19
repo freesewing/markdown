@@ -1,6 +1,5 @@
 ---
 title: Hoogte heup
-path: /en/docs/patterns/cathrin/options/hiprise
 ---
 
 ![De optie voor heuphoogte bij Cathrin](./hiprise.svg)

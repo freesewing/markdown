@@ -1,11 +1,11 @@
 ---
 date: 2016-12-06
-title: Just look how happy JV is with his Simon shirt
+title: Kijk gewoon hoe blij JV is met zijn Simon hemd
 img: showcase.jpg
-caption: "That's one dapper gentleman"
+caption: "Dat is nogal een gentleman"
 patterns:
   - simon
 author: 'JV Hampton-VanSant'
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BNsGBSVho4u/) of [JV Hampton-VanSant](http://jvhvs.com/).
+Deze foto komt van [de Instagram feed](https://www.instagram.com/p/BNsGBSVho4u/) van [JV Hampton-VanSant](http://jvhvs.com/).

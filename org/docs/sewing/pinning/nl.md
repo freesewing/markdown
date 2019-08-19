@@ -1,6 +1,5 @@
 ---
 title: Spelden
-path: /en/docs/sewing/pinning
 ---
 
 ![Kopspelden maken deel uit van de basisbenodigdheden](sewing-pins.jpg)

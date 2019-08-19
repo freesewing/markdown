@@ -1,6 +1,5 @@
 ---
 title: Overwijdte heup
-path: /en/docs/patterns/wahid/options/hipsease
 ---
 
-How much room do you want at your hips?
+Hoeveel ruimte wil je aan je heupen?

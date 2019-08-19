@@ -1,6 +1,5 @@
 ---
 title: Breedte elastiek
-path: /en/docs/patterns/bruce/options/elasticwidth
 ---
 
 ![De optie voor breedte elastiek bij Bruce](./elasticwidth.svg)

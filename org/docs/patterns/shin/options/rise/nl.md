@@ -1,6 +1,5 @@
 ---
 title: Hoogte
-path: /en/docs/patterns/shin/options/rise
 ---
 
 Deze optie bepaalt de algemene hoogte van de taille.

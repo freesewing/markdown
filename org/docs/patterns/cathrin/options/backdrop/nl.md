@@ -1,6 +1,5 @@
 ---
 title: Verlaging rug
-path: /en/docs/patterns/cathrin/options/backdrop
 ---
 
 ![De optie voor verlaging rug bij Cathrin](./backdrop.svg)

@@ -1,6 +1,5 @@
 ---
 title: Hoogte achter
-path: /en/docs/patterns/bruce/options/backrise
 ---
 
 ![De optie voor hoogte achter bij Bruce](./backrise.svg)

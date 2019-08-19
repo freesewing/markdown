@@ -1,6 +1,5 @@
 ---
 title: Basis naaimateriaal
-path: /en/docs/sewing/basic-sewing-supplies
 ---
 
 > Over wat je exact kan verstaan onder 'basismateriaal' wordt wel eens gedebatteerd. Sommige mensen hebben graag meer spullen, anderen zeggen dat zelfs een naaimachine optioneel is als je met de hand kan naaien.

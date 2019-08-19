@@ -1,6 +1,5 @@
 ---
 title: Rugwijdte
-path: /en/docs/patterns/brian/options/acrossbackfactor
 ---
 
 ![De optie voor de rugwijdte voor Brian](./acrossbackfactor.svg)

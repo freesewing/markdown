@@ -1,16 +1,16 @@
 ---
 date: 2018-11-18
-title: Sandy by Karin
+title: Sandy door Karin
 img: showcase.jpg
 patterns:
   - sandy
 author: karinkay
 ---
 
-After [her previous showcase of Hugo](/en/showcase/hugo-by-karin) , Karin is back with another freesewing make: this Sandy skirt.
+Na haar [eerdere showcase van Hugo](/en/showcase/hugo-by-karin) is Karin terug met een ander freesewing patroon: deze Sandy rok.
 
-![Another view](view2.jpg)
+![Een andere kant](view2.jpg)
 
-![A view of the lining](view3.jpg)
+![De voering](view3.jpg)
 
-More details [on Karin's blog](https://www.karinkay.nl/sandy-een-gratis-patroon-voor-een-cirkelrok-op-maat/) (in Dutch);
+Meer details [op de blog van Karin](https://www.karinkay.nl/sandy-een-gratis-patroon-voor-een-cirkelrok-op-maat/) (in het Nederlands).

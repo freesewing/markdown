@@ -1,72 +1,72 @@
 ---
 date: 2018-01-26
-title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+title: "We presenteren Carlita, de damesversie van onze Carlton jas."
+linktitle: "We Presenteren de Carlita Jas"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Beeld je naast hem in, met een matchende jas."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Deze is voor de dames - en ik heb het niet (alleen) over die foto van hartenbreker Benedict Cumberbatch bovenaan deze post.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Ik heb het namelijk over de publicatie van ons laatste patroon: de [Carlita jas](/patterns/carlita), waarvan de betaversie vanaf vandaag beschikbaar is.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita is - ja raadt het nooit - de damensversie van onze Carlton jas, die een recreatie is van de iconische Sherlock Holmes jas, gedragen door BC in de BBC-serie.
 
-## How did we do it?
+## Hoe hebben we dit gedaan?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Voor details over het ontstaan van dit project verwijs ik je door naar de post [waarmee we Carlton aankondigden](/blog/announcing-carlton-and-bent/). Hier zou ik het liefst focussen op de specifieke dingen die we gedaan hebben om van dit herenpatroon een damesversie te maken.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+We wilden zo dicht mogelijk bij het origineel blijven, dus al wat we deden was dingen aanpassen om één uitdaging aan te gaan: passen voor iemand met borsten.
 
-### Princess, meet your seam
+### Prinses, ontmoet je naad
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+We hebben een extra prinsessennaad toegevoegd aan het voorpand van de jas, en op deze manier ruimte voor de buste gemaakt.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Om dat accuraat te doen heb je voor Carlita drie extra maten nodig, naast de maten die je al nodig had voor Carlton. Dit zijn:
 
-- The [high bust](/docs/measurements/#highBust)
-- The [bust span](/docs/measurements/#bustSpan)
-- The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+- De [hoge buste](/docs/measurements/#highBust)
+- De [bustewijdte](/docs/measurements/#bustSpan)
+- [Hoog schouder punt tot buste](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+We gebruiken de omtrek van de hoge buste om de jas te tekenen, en doen dan een aanpassing voor volle buste aan de prinsessennaad gebaseerd op je (volle) borstomtrek, bustewijdte en HSP tot buste.
 
-### All of the pockets, but we had to move some of them
+### Alle zakken, al hebben we ze wat moeten verplaatsen
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+De toevoeging van de prinsessennaad maakte de plaatsing van de voorzak een beetje moeilijk, dus we hebben hem lichtjes verplaatst en verticaal gezet, in plaats van op een lichte diagonaal zoals bij Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+Op deze manier kan de zak geïntegreerd worden in de prinsessennaad, ergens onder je borsten.
 
-### One extra option: The princess seam smooth factor
+### Eén extra optie: De prinsessennaad ronding factor
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita heeft ook een extra optie die Carlton niet heeft, de ietwat uitgebreid genaamde [prinsessennaad ronding factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Dit controleert hoe scherp de prinsessennaad terug naar binnen keert na het extra volume aan de buste te hebben toegevoegd.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Een foto zegt meer dan duizend woorden, dus hier is de optie aangeduid op het relevante patroondeel:
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![Het effect van de optie zoals getoond door onze sample service](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Zoals je kan zien controleert deze optie hoe fel de prinsessennaad terug naar je taille keert nadat ze over het volste deel van de buste gegaan is.
 
-A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
+Een lage factor zorgt voor een meer aansluitende jas, maar ook voor een fellere curve en een naad die moeilijker te naaien is.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Een hogere ronding factor maakt dit minder fel zodat de overgang naar het lagere deel van de naad zachter verloopt. Dit maakt de jas iets minder aansluitend onder de buste, en de naad makkelijker te naaien.
 
-## A reminder about made-to-measure patterns
+## Een herinnering over patronen op maat
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Dit is geen nieuws voor regelmatige bezoekers van deze website, maar als je hier nieuw bent is het de moeite om dit nog eens te horen:
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Deze jas is niet getekend met een bepaalde cupmaat in het achterhoofd. In plaats daarvan past het patroon zich aan jouw borst aan, gebaseerd op jouw afmetingen.
 
-## Ladies, we need your feedback
+## Dames, laat van je horen
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Dit is ons eerste damespatroon met een aanpassende buste. Het is dus nieuw terrein voor ons, en ik wil graag weten hoe dit patroon zich aanpast aan een variëteit in lichaamsvormen en cupmaten.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Als je van plan bent om deze jas te maken, of een toile, deel dan alsjeblieft je ervaring en aarzel niet ons te contacteren mocht je een probleem tegenkomen.
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Het is mijn bedoeling meer damespatronen te ontwerpen, dus als er pasproblemen zijn hoor ik daar liever vroeger dan later over.
 
 ## Shout-out
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Als laatste wil ik graag [Anneke](http://www.annekecaramin.com/) bedanken voor haar hulp tijdens dit project en het tolereren van mijn eindeloze tirades over mijn haat/liefde relatie met borsten.

@@ -1,6 +1,5 @@
 ---
 title: Bonus lengte
-path: /en/docs/patterns/huey/options/lengthbonus
 ---
 
 De hoeveelheid extra lengte aan de zoom.

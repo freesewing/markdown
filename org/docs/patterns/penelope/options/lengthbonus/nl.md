@@ -1,6 +1,5 @@
 ---
 title: Bonus lengte
-path: /en/docs/patterns/penelope/options/lengthbonus
 ---
 
 Hoeveel langer dan de standaardlengte wil je je rok maken?

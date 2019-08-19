@@ -1,6 +1,5 @@
 ---
-title: Waistband width
-path: /en/docs/patterns/theodore/options/waistbandwidth
+title: Breedte tailleband
 ---
 
-The width of the waistband you want on the trousers.
+De breedte van de tailleband die je aan je broek wil.

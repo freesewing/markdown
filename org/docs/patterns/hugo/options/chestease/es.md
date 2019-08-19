@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/hugo/options/chestease
 ---
 
 How much room do you want at the chest?

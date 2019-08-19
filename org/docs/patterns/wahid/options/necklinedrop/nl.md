@@ -1,8 +1,7 @@
 ---
 title: Diepte halslijn
-path: /en/docs/patterns/wahid/options/necklinedrop
 ---
 
-This options allows you to lower your neckline below the defalt.
+Deze optie staat je toe je halslijn lager te maken dan de standaard.
 
-> This option also allows negative values, they will raise the neckline higher than the default.
+> De optie staat ook negatieve waarden toe, deze zullen de halslijn hoger maken dan de standaard.

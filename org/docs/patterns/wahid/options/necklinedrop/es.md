@@ -1,6 +1,5 @@
 ---
 title: Neckline drop
-path: /en/docs/patterns/wahid/options/necklinedrop
 ---
 
 This options allows you to lower your neckline below the defalt.

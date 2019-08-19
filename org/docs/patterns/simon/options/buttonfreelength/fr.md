@@ -1,6 +1,5 @@
 ---
 title: Button-free length
-path: /en/docs/patterns/simon/options/buttonfreelength
 ---
 
 How much before your waistband do you want your last button to sit?

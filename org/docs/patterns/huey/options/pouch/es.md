@@ -1,6 +1,5 @@
 ---
 title: Pouch
-path: /en/docs/patterns/huey/options/pouch
 ---
 
 ![This option controls whether or not to include the front pouch pocket](/img/patterns/huey/options/pouch.png)

@@ -1,6 +1,5 @@
 ---
 title: Opening rug
-path: /en/docs/patterns/cathrin/options/backopening
 ---
 
 ![De optie voor rugopening bij Cathrin](./backopening.svg)

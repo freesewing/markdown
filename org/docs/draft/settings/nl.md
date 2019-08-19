@@ -1,13 +1,13 @@
 ---
-title: Settings
+title: Instellingen
 ---
 
-When you [draft a pattern](/draft) you can not only configure the pattern through its options. The following so-called *draft settings* can also be changed:
+Wanneer je een [patroon tekent](/draft) kan je het niet enkel via de opties aanpassen aan jouw eisen. De volgende zogenaamde *tekeninstellingen* kunnen ook aangepast worden:
 
-- [Contents](/docs/draft-settings/only)
+- [Inhoud](/docs/draft-settings/only)
 - [Detail](/docs/draft-settings/complete)
-- [Language](/docs/draft-settings/locale)
-- [Margin](/docs/draft-settings/margin)
-- [Paperless](/docs/draft-settings/paperless)
-- [Seam allowance](/docs/draft-settings/sa)
-- [Units](/docs/draft-settings/units)
+- [Taal](/docs/draft-settings/locale)
+- [Marge](/docs/draft-settings/margin)
+- [Papierloos](/docs/draft-settings/paperless)
+- [Naadtoeslag](/docs/draft-settings/sa)
+- [Eenheden](/docs/draft-settings/units)

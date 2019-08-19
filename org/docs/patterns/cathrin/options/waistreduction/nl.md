@@ -1,6 +1,5 @@
 ---
 title: Reductie taille
-path: /en/docs/patterns/cathrin/options/waistreduction
 ---
 
 ![De optie voor reductie taille bij Cathrin](./waistreduction.svg)

@@ -1,6 +1,5 @@
 ---
 title: Overwijdte manchet
-path: /en/docs/patterns/sven/options/cuffease
 ---
 
-How much room do you want at your wrist?
+Hoeveel ruimte wil je aan je pols?

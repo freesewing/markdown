@@ -1,122 +1,122 @@
 ---
-title: Privacy notice
+title: Privacy melding
 ---
 
-**Last update**: 23 May 2018
+**Laatste update**: 23 mei 2018
 
-## About
+## Inhoud
 
-This privacy notice describes the personal data we store. It outlines why we need the data, how long we keep it, and whether we share it with any third-parties.
+Deze privacy melding beschrijft de persoonlijke gegevens die we opslaan. We geven aan waarom we de gegevens nodig hebben, hoe lang we ze bijhouden en of ze met derden gedeeld worden.
 
-We are confident it will demonstrate our commitment to privacy.
+We hebben er vertrouwen in dat ons engagement voor privacy aangetoond zal worden.
 
-## Part 1: How we use your personal data
+## Deel 1: Hoe we je persoonlijke gegevens gebruiken
 
-For clarity, we've broken this up in three different types of roles:
+Voor de duidelijkheid hebben we dit in drie verschillende rollen gesplitst:
 
-- For visitors, we store [visitor data](#visitor-data)
-- For users, we store [profile data](#profile-data)
-- For users with one or more models, we store [model data](#model-data)
+- Voor bezoekers houden we [bezoekersgegevens](#visitor-data) bij
+- Voor gebruikers houden we [profielgegevens](#profile-data) bij
+- Voor gebruikers met één of meerdere modellen houden we [modelgegevens](#model-data) bij
 
-These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
+Deze rollen zijn cumulatief. Als je een gebruiker bent, ben je ook een bezoeker. En als je een gebruiker bent met één of meer modellen ben je ook een gebruiker, en een bezoeker.
 
-<Note>
+<note>
 
-#### Visitor data
+#### Bezoekersgegevens
 
-- **What personal data do we store?** 
- - Your IP address
-- **Why do we need it?** 
- - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
-- **How long do we keep it?** 
- - We keep these logs for 6 months.
-- **Do we share it?** 
- - No, never.
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Je IP adres
+- **Waarom hebben we dit nodig?** 
+ - Je IP adres wordt gelogd op onze backend systemen. We gebruiken deze logs en de informatie erin enkel om problemen te bepalen.
+- **Hoe lang houden we dit bij?** 
+ - Deze logs worden 6 maanden bewaard.
+- **Wordt dit gedeeld?** 
+ - Nee, nooit.
 
-This data is stored for anybody who visits our website or connects to our backend APIs.
+Deze data wordt opgeslagen voor iedereen die onze website bezoekt of verbinding maakt met onze backend API's.
 
 </Note>
 
-<Note>
+<note>
 
 #### Profile data
 
-- **What personal data do we store?** 
- - Your E-mail address
- - Your username and password
- - Optional: A profile picture, bio, and your social media accounts
-- **Why do we need it?** 
- - To authenticate you
- - To be able to contact you when required
- - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
-- **How long do we keep it?** 
- - We keep profile data up to 12 months after your last login, or until you remove it.
-- **Do we share it?** 
- - No, never.
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Je e-mailadres
+ - Je gebruikersnaam en wachtwoord
+ - Optioneel: een profielfoto, bio en je social media accounts
+- **Waarom hebben we dit nodig?** 
+ - Om je te verifiëren
+ - Om je te kunnen contacteren indien nodig
+ - Optioneel: we hebben geen foto of social media accounts nodig, maar deze helpen een online gemeenschap op te bouwen
+- **Hoe lang houden we dit bij?** 
+ - We houden profielgegevens bij tot 12 maanden na je laatste login, of tot je ze zelf verwijdert.
+- **Wordt dit gedeeld?** 
+ - Nee, nooit.
 
-This data is stored for anybody with an account on our website.
+Deze gegevens worden opgeslagen voor iedereen met een account op onze website.
 
 </Note>
 
-<Note>
+<note>
 
 #### Model data
 
-- **What personal data do we store?** 
- - Body measurements
- - Whether the model has breasts or not
- - Optional: An avatar for the model
-- **Why do we need it?** 
- - We need the body measurements to draft made-to-measure sewing patterns
- - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
- - The model avatar only serves to help you differentiate between your different models
-- **How long do we keep it?** 
- - We keep model data up to 12 months after your last login, or until you remove it.
-- **Do we share it?** 
- - We never share personal model data
- - We publish an open data set of measurements, containing fully anonymized data.
+- **Welke persoonlijke gegevens bewaren we?** 
+ - Lichaamsmaten
+ - Of het model borsten heeft of niet
+ - Optioneel: een avatar voor het model
+- **Waarom hebben we dit nodig?** 
+ - We hebben de lichaamsmaten nodig om naaipatronen op maat te maken
+ - We gebruiken de informatie over het al dan niet borsten hebben van een model enkel om relevante maten te tonen bij het configureren van het model
+ - De avatar van het model dient enkel om je te helpen het onderscheid te maken tussen verschillende modellen
+- **Hoe lang houden we dit bij?** 
+ - We houden modelgegevens bij tot 12 maanden na je laatste login, of tot je ze zelf verwijdert.
+- **Wordt dit gedeeld?** 
+ - We delen nooit persoonlijke modelgegevens
+ - We publiceren een open gegevensset van afmetingen, met volledig anonieme gegevens.
 
-This data is stored for anybody with an account on our website which contains one or more models.
+Deze gegevens worden opgeslagen voor iedereen met een account op onze website die één of meerdere modellen bevat.
 
 </Note>
 
-## Part 2: Other topics
+## Deel 2: Andere onderwerpen
 
-### Full disclosure
+### Voor de duidelijkheid
 
-If we learn of a security systems breach, we will inform both you and the authorities.
+Als we op de hoogte zijn van een inbreuk op ons beveiligingssysteem, zullen zowel jij als de autoriteiten op de hoogte gebracht worden.
 
-If you believe your personal data has been compromised, please contact joost@decock.org.
+Als je denkt dat je persoonlijke gegevens niet langer veilig zijn, contacteer dan joost@decock.org.
 
-### Service Providers
+### Diensten/service
 
-Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
+Onze hostingprovider beheert onze backend systemen voor ons. Dit omvat hosting, opslag en back-up.
 
-While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
+Alhoewel dit betekent dat ze je gegevens verwerken (in de strikte zin van het woord), wil het niet zeggen dat ze toegang nodig hebben tot informatie over jou. Aangezien we profielgegevens versleutelen is het voor hen bovendien niet interessant toegang te krijgen tot deze gegevens, ook al zouden ze dat willen.
 
-### Law enforcement
+### De letter van de wet
 
-While we have no intention of sharing any of your personal data, we are not above the law.
+Ook al hebben we niet de intentie je persoonlijke gegevens op eender welke manier te delen, staan we niet boven de wet.
 
-If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
+Als we wettelijk verplicht zijn, of als we vinden dat het de minst erge optie is, zullen we persoonlijke gegevens vrijgeven.
 
-So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
+Tot nu toe hebben we nog nooit een verzoek gekregen van eender welke wetshandhaving om informatie over een gebruiker vrij te geven. We hebben ook geen enkele persoonlijke informatie vrijgegeven voor eender welke andere reden.
 
-### Use by minors under the age of 16
+### Gebruik door minderjarigen jonger dan 16
 
-You need to be at least 16 years old to use freesewing.
+Je moet minstens 16 jaar oud zijn om freesewing te gebruiken.
 
-### Data Controller and Contact information
+### Data Controller en contactinformatie
 
-For questions about this privacy notice, you can contact Joost De Cock at joost@decock.org.
+Voor vragen over de privacy melding kan je Joost De Cock contacteren via joost@decock.org.
 
-### Changes and Updates to this Policy
+### Wijzigingen en Updates aan dit Beleid
 
-This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
+Dit beleid kan af en toe een update krijgen. Dit zal aangegeven worden in de **Laatste update** gegevens bovenaan dit document.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
+Een vollediger overzicht van de geschiedenis van dit document is [te vinden op Github](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
 
-## See also
+## Zie ook
 
-- [Your rights](/docs/about/rights)
-- [Your consent](/account/consent)
+- [Je rechten](/docs/about/rights)
+- [Je toestemming](/account/consent)

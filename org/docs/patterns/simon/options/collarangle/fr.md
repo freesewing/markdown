@@ -1,6 +1,5 @@
 ---
 title: Collar angle
-path: /en/docs/patterns/simon/options/collarangle
 ---
 
 The number of degrees between the collar edge and the grainline.

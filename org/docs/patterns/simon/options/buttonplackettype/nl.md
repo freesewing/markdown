@@ -1,6 +1,5 @@
 ---
 title: Soort knopenpat
-path: /en/docs/patterns/simon/options/buttonplackettype
 ---
 
 Wil je dat het knoopsgatenpat deel is van het rechtervoorpand (aangeknipt), of liever een individueel stuk dat je kan aannaaien (apart)?

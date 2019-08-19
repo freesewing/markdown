@@ -1,6 +1,5 @@
 ---
 title: Kruisstuk
-path: /en/docs/patterns/shin/options/bulge
 ---
 
 Hoeveel ruimte wil je vooraan?

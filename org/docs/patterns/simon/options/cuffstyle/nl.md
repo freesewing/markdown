@@ -1,6 +1,5 @@
 ---
 title: Stijl Manchet
-path: /en/docs/patterns/simon/options/cuffstyle
 ---
 
 Wat voor manchet wil je?

@@ -1,11 +1,11 @@
 ---
 date: 2018-12-18
-title: Sven by Claire
+title: Sven door Claire
 img: showcase.jpg
-caption: Not sure what's the most adorable here. The sweater or the girl.
+caption: Niet zeker wat hier het lieflijkst is. De trui of het meisje.
 patterns:
   - sven
 author: HoopesParkStudios
 ---
 
-Claire made this Sven in a red/black striped jersey and added what we can only assume is her spirit animal.
+Claire maakte deze Sven in een rood/zwart gestreepte jersey en voegde zo te zien haar spirit animak toe.

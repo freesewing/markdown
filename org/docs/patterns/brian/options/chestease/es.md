@@ -1,6 +1,5 @@
 ---
 title: Chest ease
-path: /en/docs/patterns/brian/options/chestease
 ---
 
 ![The chest ease factor on Brian](./chestease.svg)

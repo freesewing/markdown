@@ -1,17 +1,17 @@
 ---
 date: 2017-12-11
-title: A test of Florent to see if the pattern works for others, by Wouter.vdub
+title: Een testversie van Florent om te zien of het patroon voor anderen werkt, door Wouter.vdub
 img: showcase.jpg
-caption: "Turned out really well for a toile"
+caption: "Heel goed gelukt voor een toile"
 patterns:
   - florent
 author: wouter.vdub
 ---
 
-![View of the back ](/img/showcase/florent-by-wouter-vdub/high_back.jpg) ![View of the front](/img/showcase/florent-by-wouter-vdub/high_front.jpg)
+![Zicht op de achterkant ](/img/showcase/florent-by-wouter-vdub/high_back.jpg) ![Zicht op de voorkant](/img/showcase/florent-by-wouter-vdub/high_front.jpg)
 
-Wouter writes:
+Wouter schrijft:
 
-> This was made as a toile, and although precision was used, some aspects could have been improved by using hand stitching, instead of machine stitching.
+> Dit was gemaakt als een toile, en alhoewel ik precies werkte hadden sommige stukken beter gekund door ze met de hand te doen in plaats van met de machine.
 > 
-> Also, the pattern was printed with the standard `ease` of 1cm, and that was taken in at the back seam after the pieces were cut out.
+> Het patroon was ook geprint met de standaard `overwijdte` van 1 cm, en die werd in de achternaad weer ingenomen nadat de stukken uitgeknipt waren.

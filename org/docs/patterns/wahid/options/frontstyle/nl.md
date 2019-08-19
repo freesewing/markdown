@@ -1,6 +1,5 @@
 ---
-title: Front style
-path: /en/docs/patterns/wahid/options/frontstyle
+title: Stijl voorpand
 ---
 
-Do you want a classic straight neckline, or a curved neckline?
+Wil je een klassieke rechte halslijn, of een afgeronde hals?

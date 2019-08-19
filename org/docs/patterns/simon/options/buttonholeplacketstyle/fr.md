@@ -1,6 +1,5 @@
 ---
 title: Buttonhole placket style
-path: /en/docs/patterns/simon/options/buttonholeplacketstyle
 ---
 
 Do you want classic buttonhole placket, or a seamless one (sometimes called French style)?

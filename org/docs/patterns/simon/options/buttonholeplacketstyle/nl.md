@@ -1,6 +1,5 @@
 ---
 title: Stijl knoopsgatenpat
-path: /en/docs/patterns/simon/options/buttonholeplacketstyle
 ---
 
 Wil je een klassiek knoopsgatenpat, of een naadloos (soms ook Frans knoopsgatenpat genoemd)?

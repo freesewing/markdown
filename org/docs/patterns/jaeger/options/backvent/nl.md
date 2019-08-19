@@ -1,6 +1,5 @@
 ---
 title: Rugsplit
-path: /en/docs/patterns/jaeger/options/backvent
 ---
 
 Hoe wil je je rugsplit?

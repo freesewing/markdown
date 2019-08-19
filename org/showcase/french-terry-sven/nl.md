@@ -1,13 +1,13 @@
 ---
 date: 2017-10-10
-title: The Sven sweater in a French Terry with little to no stretch
+title: De Sven sweater in een French terry met weinig tot geen stretch
 img: showcase.jpg
-caption: "The model is totally walking away with it though."
+caption: "Het model komt er helemaal mee weg."
 patterns:
   - sven
 author: Nadesmakes
 ---
 
-This post is [originally appeared](https://www.instagram.com/p/BaBqKDtDelP/) on [the Instagram feed of nadesmakes](https://www.instagram.com/nadesmakes/).
+Deze post [verscheen eerst](https://www.instagram.com/p/BaBqKDtDelP/) op de [Instagram feed van nadesmakes](https://www.instagram.com/nadesmakes/).
 
-It is reposted here with permission.
+Hij werd hier gepost met toestemming.

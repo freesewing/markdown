@@ -1,6 +1,5 @@
 ---
 title: Leg stretch
-path: /en/docs/patterns/bruce/options/legstretch
 ---
 
 ![The leg stretch option on Bruce](./legstretch.svg)

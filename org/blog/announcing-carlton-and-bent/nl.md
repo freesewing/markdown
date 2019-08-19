@@ -1,58 +1,58 @@
 ---
 date: 2017-12-20
-title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
-linktitle: "Announcing the Carlton Coat and Bent Body Block"
+title: "We presenteren Carlton, ofwel de Sherlock Holmes jas, en de Bent Basisvorm"
+linktitle: "We Presenteren de Carlton Jas en de Bent Basisvorm"
 img: coat.jpg
-caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
+caption: "Ook jij kan deze jas dragen. De pet moet je ergens anders zoeken. Voorlopig toch."
 author: joost
 ---
 
-Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Goed nieuws vrienden, we helpen de cosplayers uit de nood. Zij die als Sherlock Holmes cosplayen toch. Ons nieuwste patroon, de [Carlton jas](/patterns/carlton), is exact wat de dokter je zou voorschrijven als de dokter om één of andere reden wil dat je erbij loopt als iedereen z'n favoriete detective.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Mijn geheugen laat me een beetje in de steek als het gaat om het begin van dit project. Waarschijnlijk had het te maken met mij die aan het klagen was over de kou en hoe ik een warme winterjas miste, maar buiten dat ben ik niet zo zeker.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Wat ik wel nog weet is dat [Anneke](http://www.annekecaramin.com/) en ik op een gegeven moment beslisten dat we de Sherlock Holmes kas wilden namaken. Om precies te zijn, de jas die Benedict Cumberbatch draagt in de BBC-serie over Sherlock Holmes.
 
-![That coat though](bc.jpg)
+![Die jas he](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+De jas is om duidelijke redenen populair bij cosplayers, maar is op zich gewoon een heel mooie jas, en andere dappere zielen zoals [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) waagden zich er al aan.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Ik moet toegeven dat ik niet wist dat Melissa deze jas gemaakt had tot de mijne af was. Bovendien vermeldt haar blogpost dat ze instructies gebruikte uit een Livejournal post die niet langer beschikbaar is.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke en ik hebben dat niet gedaan en gewoon een patroon gebaseerd op screenshots van het tv-programma. Zo hardcore zijn we wel.
 
-### About the coat
+### Over de jas
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton is een lange double-breasted overjas die teruggrijpt naar de traditionele uniformjassen voor ruiters waar de achterkant van de jas niet gesplitst is, maar wijde plooien heeft die over de rug van het paard kunnen liggen. Of, iets waarschijnlijker, achter je openwaaien terwijl je rondparadeert.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Voorzicht van Carlton op de auteur](front.jpg) ![Achterzicht van Carlton op de auteur](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+De jas heeft twee opgestikte zakken vooraan, twee borstzakken met paspel en twee binnenzakken. Zes zakken in totaal, dus meer dan genoeg ruimte voor al je spullen.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Borstzakken en opgestikte zakken aan de buitenkant](pockets.jpg) ![Binnenzakken aan de binnenkant](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+Ik maakte mijn jas net op tijd af voor een trip naar Keulen om mijn goede vriend en kleermaker [Sebastian Hoofs te bezoeken](http://sebastian-hoofs.de/massschneider/). Het was daar kouder dan zou mogen, maar de jas hield me lekker warm. Niet verrassend aangezien hij is gemaakt van een zware wol die ik tijdens de zomer vond bij [Bacci in Firenze](http://www.baccitessuti.it/en/index.html), en ik ook nog eens de extra moeite nam om een french terry tussenvoering toe te voegen (ik heb het echt niet graag koud).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Ik heb wordt niet betaald door Bacci, maar ben wel fan van goede stoffenwinkels](bacci.jpg) ![Je kan de french terry tussenvoering zien waar ik de mouwvoering naar achter gelegd heb](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Stamp het patriarchaat de grond in met de kracht van zakken
 
-Ladies take note: Carlita \--- a female version of Carlton \--- is currently on the drawing board.
+Dames, opgelet: Carlita - een damesversie van Carlton - staat hoog op de agenda.
 
-Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
+Initieel waren we van plan de heren- en damesversie tegelijk uit te brengen, maar de jas aanpassen bleek iets moeilijker dan verwacht door, wel, door borsten.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+Ik heb ook het gevoel dat ik iets te veel hooi op mijn vork heb hangen, dus ik hoop dat het uitbrengen van Carlton een beetje tijd/ruimte creëert om Carlita te (binnenkort) te laten volgen. Hoe dan ook heb ik Anneke beloofd dat we een damesversie zouden maken, en aangezien ze nu een [freesewing Captain](/patrons) is wil ik die belofte zeker houden.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Oh, en over die titel: als Carlita klaar is zal ze net evenveel zakken hebben als Carlton.
 
-## Also, this: Introducing the Bent Body Block
+## Ook dit nog: We presenteren de Bent Basisvorm
 
-We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
+Eigenlijk komen er vandaag twee patronen uit. Naast de Carlton jas is er ook de [Bent Basisvorm](/patterns/bent).
 
-Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
+Bent is een variatie op onze [Brian Basisvorm](/patterns/bent), met een tweedelige mouw. Eigenlijk is het een basis voor patronen voor heren jasjes en -jassen.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+Ik ontwierp Bent initieel als een basis voor het [zebrajasje dat ik voor de Refashioners maakte in 2017](/blog/the-refashioners-2017/), dus dat jasjespatroon kan je in de komende maanden ook verwachten.
 
-Carlton is also based on Bent, so we're giving you both today.
+Carlton is ook op Brent gebaseerd, dus vandaag krijg je ze allebei.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Heel fijne feestdagen gewenst, als dat je ding is. En veel plezier met maken!

@@ -1,6 +1,5 @@
 ---
 title: Leg reduction
-path: /en/docs/patterns/shin/options/legreduction
 ---
 
 The amount to further reduce the stretch at the (upper) legs.

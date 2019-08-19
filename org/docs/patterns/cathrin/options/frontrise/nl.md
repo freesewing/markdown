@@ -1,6 +1,5 @@
 ---
 title: Hoogte voorpand
-path: /en/docs/patterns/cathrin/options/frontrise
 ---
 
 ![De optie voor hoogte vooraan bij Cathrin](./frontrise.svg)

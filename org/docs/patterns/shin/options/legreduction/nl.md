@@ -1,6 +1,5 @@
 ---
 title: Been reductie
-path: /en/docs/patterns/shin/options/legreduction
 ---
 
 Hoeveel smaller de (boven)benen moeten worden.

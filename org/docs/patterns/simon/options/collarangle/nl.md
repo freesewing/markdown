@@ -1,6 +1,5 @@
 ---
 title: Hoek kraag
-path: /en/docs/patterns/simon/options/collarangle
 ---
 
 Hoeveel graden tussen de rand van de kraag en de draadrichting.

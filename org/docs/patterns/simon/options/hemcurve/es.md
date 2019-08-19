@@ -1,6 +1,5 @@
 ---
 title: Hem curve
-path: /en/docs/patterns/simon/options/hemcurve
 ---
 
 How much do you want the hem to curve upwards?

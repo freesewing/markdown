@@ -1,30 +1,25 @@
 ---
-title: Community standards
+title: Huisreglement
 ---
-Thank you for being part of the freesewing community. 
-When you engage with us, or when you engage with others, please remember the following simple rules: 
 
-## Be nice
-We cannot accept comments that are either offensive in themselves or clearly offensive to others. 
+Bedankt om deel uit te maken van de freesewing gemeenschap. Wanneer je met ons of met anderen hier omgaat, onthou dan alstublieft de volgende eenvoudige regels:
 
-We ask you to avoid obscenities and other insulting language, 
-to show respect for fellow users, 
-public figures and the fundamental principles we hopefully all share.
+## Wees lief
 
-Without wanting to be exhaustive, that means no racism, xenophobia, calls to violence, 
-discrimination based on religion, ethnic origin, gender, 
-age, body shape, language, &hellip;. 
+We kunnen geen commentaren accepteren die op zich beledigend zijn, of duidelijk beledigend naar anderen toe.
 
-## Don't spam
-We encourage you to post comments that stick to the subject and would appreciate it 
-if you refrain from posting advertisements 
-(for your businesses, blogs or websites, etc). 
+We vragen je om obsceniteiten en andere beledigende taal te vermijden en respect te tonen voor andere gebruikers, publieke figuren en de fundamentele principes die we hopelijk allemaal delen.
 
-It is fine to post links to relevant information on other websites, but Spam and other off-topic items will be removed.
+In het kort wil dit zeggen: geen racisme, xenofobie, oproepen tot geweld, discriminatie gebaseerd op religie, etnische origine, geslacht, leeftijd, lichaamsbouw, taal, &hellip;.
 
-## Don't get us in trouble 
-Comments that are defamatory, unlawful or include copyright infringements are also against the rules. 
-Impersonating other people or using fake accounts is also not done.
-  
-We will delete these types of comments and may ban users who keep on disregarding these rules.
+## Geen spam
 
+Post gerust commentaren die over het onderwerp gaan, maar probeer adverteren (van je zaak, blog of website) te vermijden.
+
+Het is ok om links naar relevante informatie op andere websites te posten, maar spam en irrelevante commentaren worden verwijderd.
+
+## Hou ons uit de problemen
+
+Commentaren die lasterlijk, onwettelijk of een inbreuk op copyright zijn mogen ook niet volgens onze regels. Zich voordoen als een ander persoon of nep accounts gebruiken is ook niet ok.
+
+Dit soort commentaren worden verwijderd, en accounts die deze regels blijven negeren ook.

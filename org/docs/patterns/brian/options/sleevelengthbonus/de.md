@@ -1,6 +1,5 @@
 ---
 title: Sleeve length bonus
-path: /en/docs/patterns/brian/options/sleevelengthbonus
 ---
 
 ![The sleeve length bonus option on Brian](./sleevelengthbonus.svg)

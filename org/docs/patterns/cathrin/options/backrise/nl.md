@@ -1,6 +1,5 @@
 ---
 title: Hoogte achter
-path: /en/docs/patterns/cathrin/options/backrise
 ---
 
 ![De optie voor rughoogte bij Cathrin](./backrise.svg)

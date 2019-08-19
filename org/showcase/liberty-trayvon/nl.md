@@ -1,15 +1,15 @@
 ---
 date: 2017-09-29
-title: "A Trayvon tie in a Liberty silk by Victoria"
+title: "Een Trayvon das in Liberty zijde door Victoria"
 img: showcase.jpg
-caption: Beautiful fabric, and a greatly made tie
+caption: Prachtige stof, en een goed gemaakte das
 patterns:
   - trayvon
 author: 'Victoria Evitts'
 ---
 
-My husband travelled to Ireland 🇮🇪 for a weekend (62hrs travelling for 60hrs on the ground 🙀) to attend his brother's wedding 👏 My contribution was this beautiful @libertylondon silk tie and pocket square made specifically for the big day. I was there in spirit.
+Mijn echtgenoot reisde voor één weekend naar Ierland 🇮🇪(62 uur reizen om 60 uur ter plaatse te zijn 🙀) om naar het huwelijk van zijn broer te gaan 👏 Mijn bijdrage was deze mooie pochet en das in @libertylondonsilk, speciaal gemaakt voor de grote dag. Ik was in gedachten aanwezig.
 
-> ##### See the original on Instagram
+> ##### Zie het origineel op Instagram
 > 
-> [This picture](https://www.instagram.com/p/BZR3pyCHLjm/) is from the Instagram feed of [e2_clothing](https://www.instagram.com/e2_clothing/).
+> [Deze afbeelding](https://www.instagram.com/p/BZR3pyCHLjm/) is afkomstig uit de Instagram feed van [e2_clothing](https://www.instagram.com/e2_clothing/).

@@ -1,6 +1,5 @@
 ---
-title: Ribbing height
-path: /en/docs/patterns/sven/options/ribbingheight
+title: Hoogte boord
 ---
 
-The height of the ribbing at the hem/cuffs.
+De hoogte van de boord aan de zoom/manchetten.

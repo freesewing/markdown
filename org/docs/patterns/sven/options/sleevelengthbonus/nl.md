@@ -1,6 +1,5 @@
 ---
 title: Bonus mouwlengte
-path: /en/docs/patterns/sven/options/sleevelengthbonus
 ---
 
-This option will lengthen the sleeves of your sweatshirt.
+Deze optie zal de mouwen van je sweater verlengen.

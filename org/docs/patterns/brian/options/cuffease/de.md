@@ -1,6 +1,5 @@
 ---
 title: Cuff ease
-path: /en/docs/patterns/brian/options/cuffease
 ---
 
 ![The cuff ease factor on Brian](./cuffease.svg)

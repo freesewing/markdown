@@ -1,6 +1,5 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/brian/options/lengthbonus
 ---
 
 ![The length bonus option on Brian](./lengthbonus.svg)

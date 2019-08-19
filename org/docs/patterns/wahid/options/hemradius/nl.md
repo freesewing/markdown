@@ -1,6 +1,5 @@
 ---
-title: Hem radius
-path: /en/docs/patterns/wahid/options/hemradius
+title: Straal zoom
 ---
 
-Determines the radius of the hem if you opted for a rounded hem.
+Bepaalt de straal van de zoom, als je voor een ronde zoom koos.

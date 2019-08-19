@@ -1,6 +1,5 @@
 ---
 title: Verlaging voorpand
-path: /en/docs/patterns/cathrin/options/frontdrop
 ---
 
 ![De optie voor verlaging vooraan bij Cathrin](./frontdrop.svg)

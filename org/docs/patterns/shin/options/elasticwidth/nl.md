@@ -1,6 +1,5 @@
 ---
 title: Breedte elastiek
-path: /en/docs/patterns/shin/options/elasticwidth
 ---
 
 > #### Waarom?

@@ -1,6 +1,5 @@
 ---
 title: Back scye dart
-path: /en/docs/patterns/wahid/options/backscyedart
 ---
 
 This pattern comes with a default 0.5 cm scye dart (think armhole dart) on the back. You can increase or decrease the dart to influence the armhole.

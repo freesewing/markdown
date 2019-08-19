@@ -1,6 +1,5 @@
 ---
 title: Collarstand width
-path: /en/docs/patterns/simon/options/collarstanwidth
 ---
 
 The height of your collar stand.

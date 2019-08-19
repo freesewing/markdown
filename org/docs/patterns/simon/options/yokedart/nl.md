@@ -1,6 +1,5 @@
 ---
 title: Neep schouderpas
-path: /en/docs/patterns/simon/options/yokedart
 ---
 
 Controleert de neep aan de zijkant onderaan de schouderpas.

@@ -1,6 +1,5 @@
 ---
 title: Collar roll
-path: /en/docs/patterns/simon/options/collarroll
 ---
 
 How much the collar is taller than the collar stand at center back.

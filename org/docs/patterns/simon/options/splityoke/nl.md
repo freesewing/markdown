@@ -1,6 +1,5 @@
 ---
 title: Tweedelige schouderpas
-path: /en/docs/patterns/simon/options/splityoke
 ---
 
 Wil je een tweedelige schouderpas?

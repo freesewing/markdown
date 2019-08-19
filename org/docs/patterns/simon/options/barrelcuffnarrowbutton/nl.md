@@ -1,6 +1,5 @@
 ---
 title: Klassieke manchet smalle knoop
-path: /en/docs/patterns/simon/options/barrelcuffnarrowbutton
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: Bulge
-path: /en/docs/patterns/shin/options/bulge
 ---
 
 How much room do you want in the front?

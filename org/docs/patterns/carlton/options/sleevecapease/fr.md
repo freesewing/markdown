@@ -1,6 +1,5 @@
 ---
 title: Sleevecap ease
-path: /en/docs/patterns/carlton/options/sleevecapease
 ---
 
 How much sleevecap ease do you want?

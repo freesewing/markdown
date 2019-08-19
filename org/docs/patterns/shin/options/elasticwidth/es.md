@@ -1,6 +1,5 @@
 ---
 title: Elastic width
-path: /en/docs/patterns/shin/options/elasticwidth
 ---
 
 > #### What's the point?

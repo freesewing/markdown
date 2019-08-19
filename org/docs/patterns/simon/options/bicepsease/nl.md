@@ -1,6 +1,5 @@
 ---
 title: Overwijdte biceps
-path: /en/docs/patterns/simon/options/bicepsease
 ---
 
 Hoeveel wijder dan je bovenarmomtrek wil je dat de mouw is?

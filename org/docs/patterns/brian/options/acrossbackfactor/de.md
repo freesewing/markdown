@@ -1,6 +1,5 @@
 ---
 title: Across back factor
-path: /en/docs/patterns/brian/options/acrossbackfactor
 ---
 
 ![The across back option on Brian](./acrossbackfactor.svg)

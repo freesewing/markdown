@@ -57,7 +57,7 @@ Dit patroon kan dienen om een vlinderdas te maken voor een specifieke halsomtrek
 
 Deze lintjes kan je vinden in de betere merceriezaak of online.
 
-### Seam allowance
+### Naadtoeslag
 
 Aangezien de vlinderdas met de goede kanten tegen elkaar genaaid wordt, moet het hele ding binnenstebuiten gekeerd worden. Het is geen slecht idee om een kleine naadwaarde van 6 mm (1/4 inch) te gebruiken om dit makkelijker te maken.
 
@@ -89,7 +89,7 @@ Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je
 
 ![Een standaard Benjamin met aanpaslintje](layout2.svg)
 
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 
 ## Constructie
 

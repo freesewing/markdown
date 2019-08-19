@@ -1,6 +1,5 @@
 ---
 title: Curve zoom
-path: /en/docs/patterns/simon/options/hemcurve
 ---
 
 Hoeveel wil je dat de zoom naar boven buigt?

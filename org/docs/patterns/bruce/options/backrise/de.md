@@ -1,6 +1,5 @@
 ---
 title: Back rise
-path: /en/docs/patterns/bruce/options/backrise
 ---
 
 ![The back rise option on Bruce](./backrise.svg)

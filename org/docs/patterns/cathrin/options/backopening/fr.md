@@ -1,6 +1,5 @@
 ---
 title: Back opening
-path: /en/docs/patterns/cathrin/options/backopening
 ---
 
 ![The back opening option on Cathrin](./backopening.svg)

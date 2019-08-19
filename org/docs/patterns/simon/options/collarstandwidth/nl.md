@@ -1,6 +1,5 @@
 ---
 title: Hoogte staander
-path: /en/docs/patterns/simon/options/collarstanwidth
 ---
 
 De hoogte van je kraagstaander.

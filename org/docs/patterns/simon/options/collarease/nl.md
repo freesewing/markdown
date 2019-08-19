@@ -1,6 +1,5 @@
 ---
 title: Overwijdte kraag
-path: /en/docs/patterns/simon/options/collarease
 ---
 
 Hoeveel overwijdte heeft je kraag?

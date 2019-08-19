@@ -1,6 +1,5 @@
 ---
-title: Ribbing
-path: /en/docs/patterns/sven/options/ribbing
+title: Boordstof
 ---
 
-Do you want ribbing at the hem/cuffs or not?
+Wil je boordstof aan de zoom/manchetten of niet?

@@ -1,17 +1,17 @@
 ---
 date: 2017-11-19
-title: A Bulbasaur Huey Hoodie Hack
+title: Een Bulbasaur Huey Hoodie Hack
 img: showcase.jpg
-caption: Bulbasaurs are strong AND cute
+caption: Bulbasaurs zijn sterk EN schattig
 patterns:
   - huey
 author: user29
 ---
 
-![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/1.jpg) ![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/2.jpg) ![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/3.jpg) ![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/4.jpg) ![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/5.jpg) ![Bulbasaurs are strong AND cute](/img/showcase/bulbasaur-huey/6.jpg)
+![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/1.jpg) ![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/2.jpg) ![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/3.jpg) ![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/4.jpg) ![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/5.jpg) ![Bulbasaurs zijn sterk EN schattig](/img/showcase/bulbasaur-huey/6.jpg)
 
-> #### See the original on Frankie's blog
+> #### Zie het origineel op de blog van Frankie
 > 
-> These picture are from the [Bulbasaur Costume for Children In Need](http://knitwits-owls.blogspot.be/2017/11/bulbasaur-costume-for-children-in-need.html) blog post on [knitwits-owls.blogspot.com](http://knitwits-owls.blogspot.be).
+> Deze foto's komen uit de post over het [Bulbasaur Costume for Children in Need](http://knitwits-owls.blogspot.be/2017/11/bulbasaur-costume-for-children-in-need.html) op [knitwits-owls.blogspot.com](http://knitwits-owls.blogspot.be).
 > 
-> They are reposted here with permission.
+> Ze werden hier gepost met toestemming.

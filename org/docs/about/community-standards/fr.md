@@ -28,4 +28,3 @@ Les commentaires qui sont diffamatoires, illégaux, ou qui incluent des infracti
 Prendre la place d'autres personnes ou utiliser de faux comptes n'est également pas à faire.
   
 Nous supprimerons ces types de commentaires et seront susceptibles de bannir les utilisateurs qui continueront d'enfreindre ces règles.
-

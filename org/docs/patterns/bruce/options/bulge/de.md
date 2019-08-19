@@ -1,6 +1,5 @@
 ---
 title: Bulge
-path: /en/docs/patterns/bruce/options/bulge
 ---
 
 ![The bulge option on Bruce](./bulge.svg)
