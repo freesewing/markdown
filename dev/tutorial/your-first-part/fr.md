@@ -9,7 +9,7 @@ La plupart des patrons auront plusieurs parties. Une manche, une partie arrière
 
 Le patron qui vient d'être créé pour nous a aussi une unique partie pour vous faire démarrer. Il est appelé **box** et il dessine une boîte. Si vous cliquez sur le bouton **Ébaucher votre patron** dans votre navigateur, vous allez la voir :
 
-![The default pattern with its box part](./step1.png)
+![Le patron par défaut avec sa partie box](./step1.png)
 
 Puisque nous n'avons besoin que d'une seule partie, nous renommerons cette partie *box*, et l'appellerons *bib* (pour bavoir).
 
@@ -59,4 +59,4 @@ Félicitations, votre modèle a maintenant une partie `bib`, au lieu d'une parti
 
 <example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
 
-This `bib` part is where we'll do some real work. But first, we have some more configuration to do.
+Cette partie `bib` est là où nous allons effectuer un travail plus sérieux. Mais tout d'abord, nous avons encore un peu de configuration à faire.
