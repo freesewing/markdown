@@ -1,7 +1,5 @@
 ---
 title: Locatie schouderband
-pattern: aaron
-option: locatieSchouderBand
 ---
 
 ![De optie voor de locatie van de schouderband bij Aaron](./shoulderstrapplacement.svg)
