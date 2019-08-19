@@ -1,5 +1,11 @@
 ---
 title: Neep armsgat voor
+<<<<<<< HEAD
+=======
+path: /en/docs/patterns/wahid/options/frontscyedart
+pattern: wahid
+option: frontScyeDart
+>>>>>>> 38aae05b7aa516fe17118873ecc57fea03a87916
 ---
 
 Dit patroon komt met een standaard neepje van 1 cm in het armsgat aan het voorpand.
