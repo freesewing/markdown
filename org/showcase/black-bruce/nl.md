@@ -1,21 +1,21 @@
 ---
 date: 2017-09-13
-title: "Black boxers by Judy"
+title: "Zwarte boxershort door Judy"
 img: showcase.jpg
-caption: "Seems the husband was not willing to model these"
+caption: "Het lijkt erop dat de echtgenoot geen zin had model te spelen"
 patterns:
   - bruce
 author: 'Judy Williment-Ross'
 ---
 
-Judy wrote:
+Judy schreef:
 
-> Since my husband is inexplicably reluctant to let me photograph him in his undies for the internet I took them to work and asked one of the very obliging blokes we keep hanging around to model for me!
+> Aangezien mijn echtgenoot het om één of andere reden niet ziet zitten dat ik hem in zijn ondergoed fotografeer voor het internet heb ik de onderbroek meegenomen naar mijn werk en één van de brave jongens die daar rondhangen gevraagd model te zijn!
 > 
-> These are the [#bruceboxers](https://www.instagram.com/explore/tags/bruceboxers/) from [@freesewing_org](https://www.instagram.com/freesewing_org/) made from a merino/nylon/lycra from [@wearethefabricstore](https://www.instagram.com/wearethefabricstore/) in Dunedin.
+> Dit zijn de [#bruceboxers](https://www.instagram.com/explore/tags/bruceboxers/) van [@freesewing_org](https://www.instagram.com/freesewing_org/) gemaakt uit een merino/nylon/lycra van [@wearethefabricstore](https://www.instagram.com/wearethefabricstore/) in Dunedin.
 > 
-> David loves them - reckons these are the best undies he's ever had, so major awesome-wife points for me! (They fit him much better than the dummy)
+> David is er wild van - vindt het de beste onderbroek die hij ooit gehad heeft, dus extra bonuspunten voor mij! (Ze passen hem veel beter dan de pop)
 > 
-> ##### Check the original in judywillimentross's Instagram feed
+> ##### Bekijk het origineel in de Instagram feed van judywillimentross
 > 
-> This picture is from [the Instagram feed](https://www.instagram.com/p/BZAT_btB_dq/) of [judywillimentross](https://www.instagram.com/judywillimentross/), aka [Judy336](/users/qdzpx).
+> Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BZAT_btB_dq/) van [judywillimentross](https://www.instagram.com/judywillimentross/), aka [Judy336](/users/qdzpx).

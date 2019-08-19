@@ -1,8 +1,8 @@
 ---
-title: Flare
+title: Waaier
 path: /en/docs/patterns/tamiko/options/flare
 pattern: tamiko
-option: flare
+option: waaier
 ---
 
-The angle by which the garment flares out from your chest downwards.
+De mate waarin het kledingstuk van je borst naar beneden uitwaaiert.

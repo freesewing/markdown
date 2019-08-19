@@ -1,8 +1,8 @@
 ---
 date: 2018-01-02
-title: Outfit - Simon, Theodore & Wahid by Paul
+title: Outfit - Simon, Theodore & Wahid door Paul
 img: showcase.jpg
-caption: "Outfit - Simon, Theodore & Wahid by Paul"
+caption: "Outfit - Simon, Theodore & Wahid door Paul"
 patterns:
   - simon
   - wahid
@@ -10,4 +10,4 @@ patterns:
 author: Tiger751023
 ---
 
-![Outfit by Paul](/img/showcase/outfit-wahid-theodore-simon-by-paul/high_back.jpg)
+![Outfit door Paul](/img/showcase/outfit-wahid-theodore-simon-by-paul/high_back.jpg)

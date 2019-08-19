@@ -1,8 +1,8 @@
 ---
 date: 2013-02-16
-title: Brown greyish linnen Theodore trousers by joostdecock
+title: Bruingrijze linnen Theodore broek door joostdecock
 img: showcase.jpg
-caption: These are great in summer
+caption: Deze broek is geweldig in de zomer
 patterns:
   - theodore
 author: joost

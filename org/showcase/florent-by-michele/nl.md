@@ -1,8 +1,8 @@
 ---
 date: 2017-12-12
-title: Florent by Michele Nel
+title: Florent door Michele Nel
 img: showcase.jpg
-caption: "A green Florent by Michele Nel"
+caption: "Een groene Florent door Michele Nel"
 patterns:
   - florent
 author: swissarmywife

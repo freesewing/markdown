@@ -5,6 +5,6 @@ pattern: wahid
 option: lengteBonus
 ---
 
-This option allows you to lengthen (or shorten) your waistcoat.
+Deze optie staat je toe je gilet te verlengen of verkorten.
 
-> By default, your waistcoat sits 1.5cm below your hips
+> Het gilet zit standaard 1.5 cm onder je heupen

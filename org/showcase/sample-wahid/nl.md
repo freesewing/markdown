@@ -1,8 +1,8 @@
 ---
 date: 2016-05-02
-title: A blue/greenish Wahid waistcoat by joostdecock
+title: Een blauwgrijze Wahid gilet door joostdecock
 img: showcase.jpg
-caption: I made this as a sample when designing the pattern. The default neckline has been lowered since.
+caption: Ik maakte dit als voorbeeld bij het ontwerpen van het patroon. De standaard halslijn is sindsdien verlaagd.
 patterns:
   - wahid
 author: joost

@@ -5,4 +5,4 @@ pattern: sven
 option: polsOver
 ---
 
-How much room do you want at your wrist?
+Hoeveel ruimte wil je aan je pols?

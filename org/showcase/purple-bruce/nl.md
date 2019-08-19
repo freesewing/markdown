@@ -1,11 +1,11 @@
 ---
 date: 2016-08-23
-title: "Purple boxers by zephine_malvimavie"
+title: "Paarse boxershort door zephine_malvimavie"
 img: showcase.jpg
-caption: "These are slightly shortened in comparison to the original pattern"
+caption: "Deze zijn een beetje korter dan het originele patroon"
 patterns:
   - bruce
-author: Laetitia B
+author: Latitia B
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) of [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) van [zephine_malvimavie](https://instagram.com/zephine_malvimavie).

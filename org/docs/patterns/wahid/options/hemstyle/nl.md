@@ -1,8 +1,8 @@
 ---
-title: Hem style
+title: Vorm zoom
 path: /en/docs/patterns/wahid/options/hemstyle
 pattern: wahid
-option: hemStyle
+option: zoomVorm
 ---
 
-Do you want a classic hemline, or a rounded hemline?
+Wil je een klassieke zoomlijn, of een afgeronde zoom?

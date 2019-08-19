@@ -1,8 +1,8 @@
 ---
 date: 2015-04-13
-title: Blue cotton Theo trousers by joostdecock
+title: Blauw katoenen Theo broek door joostdecock
 img: showcase.jpg
-caption: Gosh we were so young back then
+caption: Wat waren we toen jong
 patterns:
   - theo
 author: joost

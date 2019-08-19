@@ -1,19 +1,19 @@
 ---
 date: 2018-10-18
-title: A Bruce three-pack
+title: Een Bruce trio
 img: showcase.jpg
-caption: "Theo made three of these from leftover jersey."
+caption: "Theo maakte er zo drie uit overgebleven jersey."
 patterns:
   - bruce
 author: Ferdi
 ---
 
-Felix made three of these, and he writes:
+Felix maakte drie boxershorts, en schrijft:
 
-> I just finished a three-pack* of Bruce underpants. I used some jersey leftovers and tried some elastic stitches on my sewing machine, not all seams were perfect - but now I know which settings are the best.
+> Ik heb net een trio van Bruce boxershorts gemaakt. Ik gebruikte een paar restjes jersey en probeerde een paar elastische steken op mijn naaimachine. Niet alle naden zijn perfect, maar nu weet ik welke instellingen het best werken.
 > 
-> They fit excellent!
+> Ze passen perfect!
 
-Here's a picture of the back:
+Hier is een foto van de achterkant:
 
-![Back image](back.jpg)
+![Foto achterkant](back.jpg)

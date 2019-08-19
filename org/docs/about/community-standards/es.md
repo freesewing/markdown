@@ -27,4 +27,3 @@ Comments that are defamatory, unlawful or include copyright infringements are al
 Impersonating other people or using fake accounts is also not done.
   
 We will delete these types of comments and may ban users who keep on disregarding these rules.
-

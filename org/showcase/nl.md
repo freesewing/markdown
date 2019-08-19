@@ -1,4 +1,4 @@
 ---
-title: Showcase
+title: Voorbeelden
 ---
 

@@ -1,21 +1,21 @@
 ---
 date: 2017-10-09
-title: A blue Simon shirt by feelingmyoats
+title: Een blauw Simon hemd door feelingmyoats
 img: showcase.jpg
-caption: "That's some quality posing right there."
+caption: "Wat een pose!"
 patterns:
   - simon
 author: K
 ---
 
-![View of the front](/img/showcase/blue-simon/front.jpg)
+![Zicht op de voorkant](/img/showcase/blue-simon/front.jpg)
 
-![View of the back](/img/showcase/blue-simon/back.jpg)
+![Zicht op de achterkant](/img/showcase/blue-simon/back.jpg)
 
-> #### See the original on Instagram
+> #### Zie het origineel op Instagram
 > 
-> This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
+> Deze post [verscheen eerst](https://www.instagram.com/p/BZ6X2CkjZor/) op de [Instagram feed van feelinmyoats](https://www.instagram.com/feelinmyoats/).
 > 
-> It is reposted here with permission.
+> Hij werd hier gepost met toestemming.
 
 FIXME: Who is this user?

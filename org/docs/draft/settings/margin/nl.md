@@ -2,4 +2,4 @@
 title: Margin
 ---
 
-This controls the margin around pattern parts. The default margin is 2mm, but you can change it.
+Bepaalt de marge rond patroondelen. De standaard marge is 2 mm, maar je kan dit wijzigen.

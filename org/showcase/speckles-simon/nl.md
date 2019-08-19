@@ -1,17 +1,17 @@
 ---
 date: 2018-03-05
-title: A speckled simon by Allie for her husband
+title: Een gespikkelde Simon door Allie voor haar man
 img: showcase.jpg
-caption: "That constrasting buttonhole packet is a great touch."
+caption: "Dat contrasterende knoopsgatenpat is een mooi accent."
 patterns:
   - simon
 author: Allie
 ---
 
-Allie writes:
+Allie schrijft:
 
-> Have you heard of freesewing.org? It’s pretty much the greatest thing ever!
+> Heb je al gehoord van freesewing.org? Het is zo ongeveer het beste ding ooit!
 
-This image and the quote above are from [the Aspiring Seamstress blog](https://theaspiringseamstress.wordpress.com/2018/03/01/freesewing-org-simon/) It is published here with permission.
+De foto en quote hierboven komen van de blog [the Aspiring Seamstress](https://theaspiringseamstress.wordpress.com/2018/03/01/freesewing-org-simon/). Ze zijn hier gepost met toestemming.
 
-Follow the link above for a review of the pattern.
+Volg de link hierboven voor een review van het patroon.

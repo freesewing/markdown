@@ -1,6 +1,6 @@
 ---
 date: 2017-02-12
-title: An era-appropriate Sven
+title: Een Sven van deze tijd
 img: showcase.jpg
 caption: hashtag resist
 patterns:

@@ -2,7 +2,7 @@
 title: Overwijdte biceps
 path: /en/docs/patterns/sven/options/bicepsease
 pattern: sven
-option: bicpesEase
+option: bicepsOver
 ---
 
-How much room do you want at your upper arm?
+Hoeveel ruimte wil je aan je bovenarm?

@@ -27,8 +27,8 @@ Je kan ons ook bereiken op sociale media, en uiteraard kan je ons ook volgen of 
 
 Stuur een email naar [Joost](mailto:joost@decock.org?subject=Freesewing) of [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
 
-<Note>
+<note>
 
-This option does not scale very well, so you might want to consider the other options first.
+Als iedereen deze optie kiest loopt het snel spaak. Kies dus waar mogelijk één van de bovenstaande opties.
 
 </Note>

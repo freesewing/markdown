@@ -1,8 +1,8 @@
 ---
-title: Ribbing stretch factor
+title: Stretchfactor Boord
 path: /en/docs/patterns/sven/options/ribbingstretchfactor
 pattern: sven
-option: ribbingStretchFactor
+option: boordStretchFactor
 ---
 
-The amount of stretch we should foresee for the ribbing at the hem/cuffs.
+De hoeveelheid stretch die we zouden moeten voorzien voor de boordstof aan de zoom/manchetten.

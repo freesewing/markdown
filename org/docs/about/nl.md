@@ -1,25 +1,25 @@
 ---
-title: About FreeSewing
+title: Over FreeSewing
 ---
 
-FreeSewing is an open source platform for made-to-measure sewing patterns. Our aim is to become the *WikiPedia of sewing patterns*.
+FreeSewing is een open source platform voor naaipatronen op maat. Ons doel is de *Wikipedia voor naaipatronen* te worden.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation, and make that information globally available.
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken.
 
-On the surface, freesewing.org might seem like just another website with sewing patterns. But there's a lot more going on.
+Op het eerste gezicht lijkt freesewing.org misschien op eender welke website met naaipatronen. Maar er is veel meer aan de hand.
 
-## FreeSewing is an open source project
+## FreeSewing is een open source project
 
-All of our code, including our sewing patterns, is freely [available on GitHub](https://github.com/freesewing).
+Al onze code, inclusief onze naaipatronen, is [vrij beschikbaar op GitHub](https://github.com/freesewing).
 
-There is no company behind FreeSewing. This is possible due to the hard work of our contributors, and the financial support of [our patrons](/patrons).
+Er zit geen bedrijf achter FreeSewing. Dit alles is mogelijk dankzij het harde werk van onze medewerkers, en de financiële steun van [onze abonnees](/patrons).
 
-## FreeSewing provides made-to-measure sewing patterns
+## FreeSewing maakt naaipatronen op maat
 
-All of our sewing patterns are made-to-measure. We don't scale or grade patterns. Instead, we draft the pattern to your measurements. That happens in real-time, in your browser.
+Al onze naaipatronen worden op maar gemaakt. Er worden geen patronen geschaald of gegradeerd. In plaats daarvan maken we het patroon volgens jouw maten. Dat gebeurt in real-time, in je browser.
 
-## FreeSewing is a platform
+## FreeSewing is een platform
 
-A platform is something on which you build things, and that's what we'd like to see.
+Een platform is iets waarop gebouwd kan worden, en dat willen we graag zien.
 
-You might be here for our patterns, but we also provid the tools and documentation for designers to add their own patterns. Please refer to [freesewing.dev](https://freesewing.dev) for all details.
+Je bent hier misschien voor onze patronen, maar we stellen de gereedschappen en documentatie om je eigen patronen toe te voegen ter beschikking. Kijk gerust naar [freesewing.dev](https://freesewing.dev) voor alle details.

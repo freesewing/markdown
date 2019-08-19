@@ -1,15 +1,15 @@
 ---
 date: 2018-09-21
-title: A Florent flat cap by Wim
+title: Een Florent pet door Wim
 img: showcase.jpg
-caption: "Florent flat cap"
+caption: "Florent pet"
 patterns:
   - florent
 author: wim2
 ---
 
-Here's Wim with a Florent flap cap.
+Hier is Wim met een Florent pet.
 
-![Another picture from this Florent](/img/showcase/florent-by-wim/2.jpg)
+![Nog een foto van deze Florent](/img/showcase/florent-by-wim/2.jpg)
 
-![Another picture from this Florent](/img/showcase/florent-by-wim/3.jpg)
+![Nog een foto van deze Florent](/img/showcase/florent-by-wim/3.jpg)

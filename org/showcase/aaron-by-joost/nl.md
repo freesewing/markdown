@@ -1,11 +1,11 @@
 ---
 date: 2017-03-23
-title: Joost does Aaron
+title: Joost doet Aaron
 img: showcase.jpg
-caption: An Aaron A-shirt by Joost
+caption: Een Aaron hemdje door Joost
 patterns:
   - aaron
 author: joost
 ---
 
-Here's an Aaron top I whipped up. I wear this under my shirts, and I'm rather pleased with it.
+Hier is een Aaron hemdje dat ik in elkaar geflanst heb. Ik draag dit onder mijn hemden, en ben er best blij mee.

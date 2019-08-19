@@ -1,6 +1,6 @@
 ---
 date: 2016-08-19
-title: Boxers for Sjoerd, by Irene
+title: Boxershort voor Sjoerd, door Irene
 img: showcase.jpg
 caption: Arrr!
 patterns:
@@ -8,4 +8,4 @@ patterns:
 author: 'Irene Portz'
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BJS0jaThfh1/) of [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJS0jaThfh1/) van [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).

@@ -5,4 +5,4 @@ pattern: sven
 option: mouwLengteBonus
 ---
 
-This option will lengthen the sleeves of your sweatshirt.
+Deze optie zal de mouwen van je sweater verlengen.

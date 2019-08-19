@@ -1,8 +1,8 @@
 ---
 date: 2017-03-28
-title: Joost does Simon
+title: Joost doet Simon
 img: showcase.jpg
-caption: A Simon shirt by Joost
+caption: Een Simon hemd door Joost
 patterns:
   - simon
 author: joost
