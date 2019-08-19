@@ -4,7 +4,7 @@ title: Macros
 
 Toutes les macros prennent un unique objet comme configuration. L'objet de configuration est documenté sur cette page pour toutes les macros disponibles.
 
-<Tip>
+<tip>
 
 Pour plus d'informations sur une macro spécifique et des exemples, suivez le lien vers le plugin qui fournit la macro.
 
@@ -23,7 +23,7 @@ Ajoute un indicateur *Coupé au pli* à votre patron.
 | `grainline` | `false` | Boolean             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
 
 
-<Note>
+<note>
 
 La macro `cutonfold` est fournie par le [plugin cutonfold](/plugins/cutonfold).
 
@@ -31,35 +31,35 @@ La macro `cutonfold` est fournie par le [plugin cutonfold](/plugins/cutonfold).
 
 ## grainline
 
-Adds a *grainline* indicator to your pattern.
+Ajoute un indicateur *Coupé au pli* à votre patron.
 
-| Propriété | Défaut | Type                | Description                                 |
-| --------- | ------ | ------------------- | ------------------------------------------- |
-| `from`    |        | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`      |        | [Point](/api/point) | The endpoint of the *grainline* indicator   |
+| Propriété | Défaut | Type                | Description                                             |
+| --------- | ------ | ------------------- | ------------------------------------------------------- |
+| `from`    |        | [Point](/api/point) | Le point de départ de l'indicateur *ligne de droit-fil* |
+| `to`      |        | [Point](/api/point) | Le point final de l'indicateur *ligne de droit-fil*     |
 
 
-<Note>
+<note>
 
-The `grainline` macro is provided by the [grainline plugin](/plugins/grainline).
+La macro `grainline` (ligne de droit-fil) est fournie par le [plugin grainline](/plugins/grainline).
 
 </Note>
 
 ## hd
 
-Adds a *horizontal dimension* to your pattern.
+Ajoute une *dimension horizontale* à votre patron.
 
-| Propriété       | Défaut              | Type                | Description                                                            |
-| --------------- | ------------------- | ------------------- | ---------------------------------------------------------------------- |
-| `from`          |                     | [Point](/api/point) | The startpoint of the dimension                                        |
-| `to`            |                     | [Point](/api/point) | The endpoint of the dimension                                          |
-| `y`             |                     | Number              | The Y-value at which to draw the dimension                             |
-| `text`          | Horizontal distance | Number              | The text to go on the dimension if not the from-to horizontal distance |
-| `noStartMarker` | `false`             | Boolean             | Whether to not draw a start marker                                     |
-| `noEndMarker`   | `false`             | Boolean             | Whether to not draw an end marker                                      |
+| Propriété       | Défaut               | Type                | Description                                                            |
+| --------------- | -------------------- | ------------------- | ---------------------------------------------------------------------- |
+| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                     |
+| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                         |
+| `y`             |                      | Number              | La valeur en Y où dessiner la dimension                                |
+| `text`          | Distance horizontale | Number              | The text to go on the dimension if not the from-to horizontal distance |
+| `noStartMarker` | `false`              | Boolean             | Whether to not draw a start marker                                     |
+| `noEndMarker`   | `false`              | Boolean             | Whether to not draw an end marker                                      |
 
 
-<Note>
+<note>
 
 The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -71,15 +71,15 @@ Adds a *linear dimension* to your pattern.
 
 | Propriété       | Défaut          | Type                | Description                                                        |
 | --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
-| `from`          |                 | [Point](/api/point) | The startpoint of the dimension                                    |
-| `to`            |                 | [Point](/api/point) | The endpoint of the dimension                                      |
+| `from`          |                 | [Point](/api/point) | Le point de départ de la dimension                                 |
+| `to`            |                 | [Point](/api/point) | Le point final de la dimension                                     |
 | `d`             | 0               | Number              | The offset at which to draw the dimension                          |
 | `text`          | Linear distance | Number              | The text to go on the dimension if not the from-to linear distance |
 | `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
 | `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
 
 
-<Note>
+<note>
 
 The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -98,7 +98,7 @@ Adds a *path dimension* to your pattern.
 | `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
 
 
-<Note>
+<note>
 
 The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
 
@@ -119,7 +119,7 @@ Rounds a corner. Note that this is only intended for 90 degree corners.
 | `class`   |         | String              | Class(es) to assign to the path created by this macro          |
 
 
-<Note>
+<note>
 
 The `round` macro is provided by the [round plugin](/plugins/round).
 
@@ -140,7 +140,7 @@ Adds a *scale box* to your pattern.
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`
 
-<Note>
+<note>
 
 The `round` macro is provided by the [round plugin](/plugins/round).
 
@@ -156,7 +156,7 @@ Bulk-adds snippets to your pattern.
 | `on`      | `[]`   | Array of strings | An array with *the names* of points to add the snippet on |
 
 
-<Note>
+<note>
 
 The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
 
@@ -177,7 +177,7 @@ Bulk-adds snippets to your pattern.
 | `scale`    |    1    | Number              | An optional scaling factor                                                                                                               |
 
 
-<Note>
+<note>
 
 The `title` macro is provided by the [title plugin](/plugins/title).
 
@@ -189,15 +189,15 @@ Adds a *vertical dimension* to your pattern.
 
 | Propriété       | Défaut            | Type                | Description                                                          |
 | --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
-| `from`          |                   | [Point](/api/point) | The startpoint of the dimension                                      |
-| `to`            |                   | [Point](/api/point) | The endpoint of the dimension                                        |
+| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                   |
+| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                       |
 | `x`             |                   | Number              | The X-value at which to draw the dimension                           |
 | `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
 | `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
 | `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
 
 
-<Note>
+<note>
 
 The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
 
