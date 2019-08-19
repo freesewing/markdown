@@ -1,7 +1,5 @@
 ---
 title: Diepte halslijn
-pattern: aaron
-option: necklineDrop
 ---
 
 ![De optie voor de diepte van de halslijn bij Aaron](./necklinedrop.svg)
