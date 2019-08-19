@@ -1,7 +1,5 @@
 ---
 title: Aanpaslintje
-pattern: benjamin
-option: aanpasLintje
 ---
 
 Traditioneel of aanpasbaar?
