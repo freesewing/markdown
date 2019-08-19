@@ -15,47 +15,47 @@ Puisque nous n'avons besoin que d'une seule partie, nous renommerons cette parti
 
 ## Renommez la partie box en bib
 
-Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Update the **parts** array with `bib`, rather than `box`:
+Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Mettez à jour le tableau **parts** avec `bib`, plutôt que `box`:
 
 ```js
 parts: ["bib"],
 ```
 
-When that's done, rename the `src/box.js` file into `src/bib.js`.
+Lorsque c'est fait, remplacez le nom du fichier `src/box.js` par `src/bib.js`.
 
-Then, in the `src/index.js` file, change the import accordingly:
+Puis, dans le fichier `src/index.js`, changez l'import de façon correspondante :
 
 ```js
-// Change this line
+// Changez cette ligne
 //import draftBox from "./box";
 
-// Into this
+// en
 import draftBib from "./bib";
 ```
 
-Finally, still in the `src/index.js` file, update the draftmethod:
+Enfin, toujours dans le fichier `src/index.js`, mettez à jour la méthode d'ébauche :
 
 ```js
-// Change this line
+// Change cette ligne
 //Pattern.prototype.draftBox = draftBox;
 
-// Into this
+// en
 Pattern.prototype.draftBib = draftBib;
 ```
 
 <tip>
 
-###### Always use draftPartname
+###### Utilisez toujours draftNomdelapartie
 
-FreeSewing will expect for each part to find a method named Draft*Partname*.
+FreeSewing s'attend pour chaque partie à trouver une méthode nommée Draft*Nomdelapartie*.
 
-If you have a part named `sleeve` you should have a method called `draftSleeve()` that drafts that part.
+Si vous avez une partie nommée `sleeve` (manche), vous devez avoir une méthode appelée `draftSleeve()` qui dessine cette partie.
 
-In our case, we have a part named `bib` so we're using `draftBib()` as the method that drafts it.
+Dans notre cas, nous avons une partie nommée `bib` alors nous allons utiliser `draftBib()` en tant que méthode d'ébauche de cette partie.
 
 </Tip>
 
-Congratulations, your pattern now has a `bib` part, rather than a `box` part. It still looks the same though:
+Félicitations, votre modèle a maintenant une partie `bib`, au lieu d'une partie `box`. Elle a toujours la même tête cependant :
 
 <example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
 
