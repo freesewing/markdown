@@ -490,9 +490,9 @@ macro("ld", {
 bool point.sitsOn(Point controle)
 ```
 
-Returns true is the point has the same coordinates as the one you pass to it.
+Geeft `true` terug als het punt dezelfde coordinaten heeft als degene die je vermeld.
 
-### Point.sitsOn() example
+### Point.sitsOn() voorbeeld
 
 <Example part="point_sitson" caption="An example of the Point.sitsOn() method" />
 
