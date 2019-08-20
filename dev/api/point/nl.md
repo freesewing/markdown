@@ -425,13 +425,13 @@ Geeft een punt terug dat een afstand verwijderd is van het doel punt in de richt
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
 
-points.A = new Point(90, 70).attr("data-text", "Point A");
-points.B = new Point(10, 10).attr("data-text", "Point B");
+points.A = new Point(90, 70).attr("data-text", "Punt A");
+points.B = new Point(10, 10).attr("data-text", "Punt B");
 points.C = points.A.shiftOutwards(points.B, 30)
-  .attr("data-text", "Point C is point A shifted 3cm\nbeyond point B")
+  .attr("data-text", "Punt C is punt A 3cm verschoven\nvoorbij punt B")
   .attr("data-text-lineheight", 6);
 
-paths.direction = new Path()
+paths.richting = new Path()
   .move(points.A)
   .line(points.C)
   .attr("class", "note dashed");
@@ -449,25 +449,25 @@ macro("ld", {
 Point point.translate(float deltaX, float deltaY)
 ```
 
-Returns a point with [a translate transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) applied.
+Geeft een punt terug met [a translate transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) toegepast.
 
-In other words, this will:
+In andre woorden, dit doet:
 
-- Add `deltaX` to the point's X-coordinate
-- Add `deltaY` to the point's Y-coordinate
+- Voegt `deltaX` toe aan de X-coordinate van het punt
+- Voegt `deltaY` toe aan de Y-coordinate van het punt
 
-### Point.translate() example
+### Point.translate() voorbeeld
 
 <Example part="point_translate" caption="An example of the Point.translate() method" />
 
 ```js
 let { Point, points, Snippet, snippets, macro } = part.shorthand();
 
-points.A = new Point(10, 10).attr("data-text", "Point A");
+points.A = new Point(10, 10).attr("data-text", "Punt A");
 points.B = points.A.translate(120, 60)
   .attr(
     "data-text",
-    "Point B is point A with a\ntranslate(120, 60)\ntransform applied"
+    "Punt B is punt A met een\ntranslate(120, 60)\ntransformatie toegepast"
   )
   .attr("data-text-class", "right")
   .attr("data-text-dy", -6)
@@ -487,7 +487,7 @@ macro("ld", {
 ## sitsOn()
 
 ```js
-bool point.sitsOn(Point check)
+bool point.sitsOn(Point controle)
 ```
 
 Returns true is the point has the same coordinates as the one you pass to it.
