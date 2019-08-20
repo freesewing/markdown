@@ -177,14 +177,14 @@ for (let i = 1; i < 37; i++) {
 ## flipX()
 
 ```js
-Point point.flipX(Point mirror = false)
+Point punt.flipX(Point spiegel = false)
 ```
 
-Returns a new point that mirrors this point around the X-value of the point your pass it.
+Geeft een nieuw punt dat gespiegeld is om de X-waarde van het punt dat je vermeld.
 
-If you don't pass it a point, it will mirror around an X-value of zero.
+Als je geen punt vermeld gebruikt het 0 (nul) voor de X-waarde.
 
-### Point.flipX() example
+### Point.flipX() voorbeeld
 
 <Example part="point_flipx" caption="An example of the Point.flipX() method" />
 
@@ -245,7 +245,7 @@ Returns a new point that mirrors this point around the Y-value of the point your
 
 If you don't pass it a point, it will mirror around a Y-value of zero.
 
-### Point.flipX() example
+### Point.flipX() voorbeeld
 
 <Example part="point_flipy" caption="An example of the Point.flipY() method" />
 
