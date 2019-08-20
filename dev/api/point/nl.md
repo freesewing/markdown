@@ -127,50 +127,50 @@ macro("ld", {
 float point.angle(Point punt)
 ```
 
-Returns the angle made by a line from this point to the point you pass it.
+Geeft de hoek van een lijn van dit punt tot het punt dat je invoert.
 
-### Points.angle() example
+### Points.angle() voorbeeld
 
 <Example part="point_angle" caption="An example of the Point.angle() method" />
 
 ```js
 let { Point, points, Path, paths } = part.shorthand();
 
-points.sun = new Point(10, 5);
-points.moon = points.sun.shift(-15, 70);
-points.text = points.sun
-  .shiftFractionTowards(points.moon, 0.8)
-  .attr("data-text", points.sun.angle(points.moon)+"°")
+points.zon = new Point(10, 5);
+points.maan = points.zon.shift(-15, 70);
+points.tekst = points.zon
+  .shiftFractionTowards(points.maan, 0.8)
+  .attr("data-text", points.zon.angle(points.maan)+"°")
   .attr("data-text-class", "text-sm fill-note center");
 
 paths.line = new Path()
-  .move(points.sun)
-  .line(points.moon)
+  .move(points.zon)
+  .line(points.maan)
   .attr("class", "dashed");
 ```
 
 ## rotate()
 
 ```js
-Point point.rotate(float angle, Point center)
+Point point.rotate(float hoek, Point centrum)
 ```
 
-Rotates a point the number of degrees you pass it around the point you pass it.
+Draait een punt het aantal graden om het punt dat je vermeld.
 
-### Point.rotate() example
+### Point.rotate() voorbeeld
 
 <Example part="point_rotate" caption="An example of the Point.rotate() method" />
 
 ```js
 let { Point, points, Path, paths, Snippet, snippets } = part.shorthand();
 
-points.sun = new Point(40, 40);
-points.moon = new Point(70, 40);
-let step = 360 / 36;
+points.zon = new Point(40, 40);
+points.maan = new Point(70, 40);
+let stap = 360 / 36;
 for (let i = 1; i < 37; i++) {
-  let angle = step * i;
-  points[`moon${i}`] = points.moon.rotate(angle, points.sun);
-  paths[`moon${i}`] = new Path().move(points.sun).line(points[`moon${i}`]);
+  let hoek = stap * i;
+  points[`maan${i}`] = points.maan.rotate(hoek, points.zon);
+  paths[`maan${i}`] = new Path().move(points.zon).line(points[`maan${i}`]);
 }
 ```
 
