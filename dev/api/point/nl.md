@@ -345,12 +345,12 @@ Geeft een punt terug dat de gespecificeerde afstand van dit punt ligt naar het v
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
 
-points.A = new Point(90, 70).attr("data-text", "Point A");
-points.B = new Point(10, 10).attr("data-text", "Point B");
+points.A = new Point(90, 70).attr("data-text", "Punt A");
+points.B = new Point(10, 10).attr("data-text", "Punt B");
 points.C = points.A.shiftTowards(points.B, 35)
   .attr(
     "data-text",
-    "Point C is point A shifted 3.5cm\nin the direction of point B"
+    "Punt C is punt A 3.5cm verplaatst\nin naar punt B"
   )
   .attr("data-text-class", "center")
   .attr("data-text-lineheight", 6);
