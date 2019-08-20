@@ -350,12 +350,12 @@ points.B = new Point(10, 10).attr("data-text", "Punt B");
 points.C = points.A.shiftTowards(points.B, 35)
   .attr(
     "data-text",
-    "Punt C is punt A 3.5cm verplaatst\nin naar punt B"
+    "Punt C is punt A 3.5cm verplaatst\nin de richting van punt B"
   )
   .attr("data-text-class", "center")
   .attr("data-text-lineheight", 6);
 
-paths.direction = new Path()
+paths.richting = new Path()
   .move(points.A)
   .line(points.B)
   .attr("class", "note dashed");
@@ -370,29 +370,29 @@ macro("ld", {
 ## shiftFractionTowards()
 
 ```js
-Point point.shiftFractionTowards(Point target, float fraction)
+Point point.shiftFractionTowards(Point doel, float deel)
 ```
 
-Returns a point that is shifted towards the target by a fraction of the distance between this point and the target.
+Geeft een punt terug dat een deel van de afstand van dit punt ligt naar het vermelde punt.
 
-### Point.shiftFractionTowards() example
+### Point.shiftFractionTowards() voorbeeld
 
 <Example part="point_shiftfractiontowards" caption="An example of the Point.shiftFractionTowards() method" />
 
 ```js
 let { Point, points, Path, paths, macro } = part.shorthand();
 
-points.A = new Point(90, 70).attr("data-text", "Point A");
-points.B = new Point(10, 10).attr("data-text", "Point B");
+points.A = new Point(90, 70).attr("data-text", "Punt A");
+points.B = new Point(10, 10).attr("data-text", "Punt B");
 points.C = points.A.shiftFractionTowards(points.B, 0.5)
   .attr(
     "data-text",
-    "Point C is point A shifted 50%\nin the direction of point B"
+    "Punt C is punt A 50% verschoven\nin de richting van punt B"
   )
   .attr("data-text-class", "center")
   .attr("data-text-lineheight", 6);
 
-paths.direction = new Path()
+paths.richting = new Path()
   .move(points.A)
   .line(points.B)
   .attr("class", "note dashed");
@@ -413,12 +413,12 @@ macro("ld", {
 ## shiftOutwards()
 
 ```js
-Point point.shiftOutwards(Point direction, float distance)
+Point point.shiftOutwards(Point richting, float afstand)
 ```
 
-Returns a point that is shifted distance beyond target in the direction of target.
+Geeft een punt terug dat een afstand verwijderd is van het doel punt in de richting van het doel punt.
 
-### Point.shiftOutwards() example
+### Point.shiftOutwards() voorbeeld
 
 <Example part="point_shiftoutwards" caption="An example of the Point.shiftOutwards() method" />
 
