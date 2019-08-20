@@ -192,58 +192,58 @@ Als je geen punt vermeld gebruikt het 0 (nul) voor de X-waarde.
 let { Point, points, Path, paths } = part.shorthand();
 
 points.top = new Point(50, 10);
-points.out1 = new Point(70, 30);
+points.uit1 = new Point(70, 30);
 points.in1 = new Point(55, 35);
-points.out2 = new Point(75, 50);
+points.uit2 = new Point(75, 50);
 points.in2 = new Point(60, 55);
-points.out3 = new Point(80, 70);
+points.uit3 = new Point(80, 70);
 points.in3 = new Point(55, 70);
-points.trunkOut = new Point(55, 80);
-points.trunkIn = new Point(50, 80);
+points.stamUit = new Point(55, 80);
+points.stamIn = new Point(50, 80);
 
-points._out1 = points.out1.flipX(points.top);
+points._uit1 = points.uit1.flipX(points.top);
 points._in1 = points.in1.flipX(points.top);
-points._out2 = points.out2.flipX(points.top);
+points._uit2 = points.uit2.flipX(points.top);
 points._in2 = points.in2.flipX(points.top);
-points._out3 = points.out3.flipX(points.top);
+points._uit3 = points.uit3.flipX(points.top);
 points._in3 = points.in3.flipX(points.top);
-points._trunkOut = points.trunkOut.flipX(points.top);
+points._stamUit = points.stamUit.flipX(points.top);
 
-points.bottom = new Point(50, 80);
+points.basis = new Point(50, 80);
 
-paths.tree = new Path()
+paths.boom = new Path()
   .move(points.top)
-  .line(points.out1)
+  .line(points.uit1)
   .line(points.in1)
-  .line(points.out2)
+  .line(points.uit2)
   .line(points.in2)
-  .line(points.out3)
+  .line(points.uit3)
   .line(points.in3)
-  .line(points.trunkOut)
-  .line(points._trunkOut)
+  .line(points.stamUit)
+  .line(points._stamUit)
   .line(points._in3)
-  .line(points._out3)
+  .line(points._uit3)
   .line(points._in2)
-  .line(points._out2)
+  .line(points._uit2)
   .line(points._in1)
-  .line(points._out1)
+  .line(points._uit1)
   .close();
 
-paths.mirror = new Path()
+paths.spiegel = new Path()
   .move(points.top)
-  .line(points.bottom)
+  .line(points.basis)
   .attr("class", "note dashed");
 ```
 
 ## flipY()
 
 ```js
-Point point.flipY(Point mirror = false)
+Point punt.flipY(Point spiegel = false)
 ```
 
-Returns a new point that mirrors this point around the Y-value of the point your pass it.
+Geeft een nieuw punt dat gespiegeld is om de Y-waarde van het punt dat je vermeld.
 
-If you don't pass it a point, it will mirror around a Y-value of zero.
+Als je geen punt vermeld gebruikt het 0 (nul) voor de Y-waarde.
 
 ### Point.flipX() voorbeeld
 
@@ -253,63 +253,63 @@ If you don't pass it a point, it will mirror around a Y-value of zero.
 let { Point, points, Path, paths } = part.shorthand();
 
 points.start = new Point(0, 50);
-points.churchTowerWallLeft = new Point(10, 50);
-points.churchTowerRoofLeft = new Point(10, 30);
-points.churchTowerTop = new Point(15, 10);
-points.churchTowerRoofRight = new Point(20, 30);
-points.churchRoofRight = new Point(50, 30);
-points.churchWallRight = new Point(50, 50);
-points.houseWallLeft = new Point(65, 50);
-points.houseRoofLeft = new Point(65, 35);
-points.houseRoofTop = new Point(75, 25);
-points.houseRoofRight = new Point(85, 35);
-points.houseWallRight = new Point(85, 50);
-points.end = new Point(95, 50);
+points.churchTowerMuurLinks = new Point(10, 50);
+points.churchTowerDakLinks = new Point(10, 30);
+points.kerkTorenTop = new Point(15, 10);
+points.kerkTorenDakRechts = new Point(20, 30);
+points.kerkDakRechts = new Point(50, 30);
+points.kerkMuurRechts = new Point(50, 50);
+points.huisMuurLinks = new Point(65, 50);
+points.huisDakLinks = new Point(65, 35);
+points.huisDakTop = new Point(75, 25);
+points.huisDakRechts = new Point(85, 35);
+points.huisMuurRechts = new Point(85, 50);
+points.eind = new Point(95, 50);
 
-points.mirror = new Point(0, 60);
-points.mirrorLineEnd = new Point(95, 60);
+points.spiegel = new Point(0, 60);
+points.spiegelLineEnd = new Point(95, 60);
 
-points._start = points.start.flipY(points.mirror);
-points._churchTowerWallLeft = points.churchTowerWallLeft.flipY(points.mirror);
-points._churchTowerRoofLeft = points.churchTowerRoofLeft.flipY(points.mirror);
-points._churchTowerTop = points.churchTowerTop.flipY(points.mirror);
-points._churchTowerRoofRight = points.churchTowerRoofRight.flipY(
-  points.mirror
+points._start = points.start.flipY(points.spiegel);
+points._kerkTorenMuurLinks = points.kerkTorenMuurLinks.flipY(points.spiegel);
+points._kerkTorenDakLinks = points.kerkTorenDakLinks.flipY(points.spiegel);
+points._kerkTorenTop = points.kerkTorenTop.flipY(points.spiegel);
+points._kerkTorenDakRechts = points.kerkTorenDakRechts.flipY(
+  points.spiegel
 );
-points._churchRoofRight = points.churchRoofRight.flipY(points.mirror);
-points._churchWallRight = points.churchWallRight.flipY(points.mirror);
-points._houseWallLeft = points.houseWallLeft.flipY(points.mirror);
-points._houseRoofLeft = points.houseRoofLeft.flipY(points.mirror);
-points._houseRoofTop = points.houseRoofTop.flipY(points.mirror);
-points._houseRoofRight = points.houseRoofRight.flipY(points.mirror);
-points._houseWallRight = points.houseWallRight.flipY(points.mirror);
-points._end = points.end.flipY(points.mirror);
+points._kerkDakRechts = points.kerkDakRechts.flipY(points.spiegel);
+points._kerkMuurRechts = points.kerkMuurRechts.flipY(points.spiegel);
+points._huisMuurLinks = points.huisMuurLinks.flipY(points.spiegel);
+points._huisDakLinks = points.huisDakLinks.flipY(points.spiegel);
+points._huisDakTop = points.huisDakTop.flipY(points.spiegel);
+points._huisDakRechts = points.huisDakRechts.flipY(points.spiegel);
+points._huisMuurRechts = points.huisMuurRechts.flipY(points.spiegel);
+points._eind = points.eind.flipY(points.spiegel);
 
-paths.skylineTop = new Path()
+paths.horizonTop = new Path()
   .move(points.start)
-  .line(points.churchTowerWallLeft)
-  .line(points.churchTowerRoofLeft)
-  .line(points.churchTowerTop)
-  .line(points.churchTowerRoofRight)
-  .line(points.churchRoofRight)
-  .line(points.churchWallRight)
-  .line(points.houseWallLeft)
-  .line(points.houseRoofLeft)
-  .line(points.houseRoofTop)
-  .line(points.houseRoofRight)
-  .line(points.houseWallRight)
-  .line(points.end);
+  .line(points.kerkTorenMuurLinks)
+  .line(points.kerkTorenDakLinks)
+  .line(points.kerkTorenTop)
+  .line(points.kerkTorenDakRechts)
+  .line(points.kerkDakRechts)
+  .line(points.kerkMuurRechts)
+  .line(points.huisMuurLinks)
+  .line(points.huisDakLinks)
+  .line(points.huisDakTop)
+  .line(points.huisDakRechts)
+  .line(points.huisMuurRechts)
+  .line(points.eind);
 ```
 
 ## shift()
 
 ```js
-Point point.shift(float degrees, float distance)
+Point punt.shift(float graden, float afstand)
 ```
 
-Returns a point that lies distance in the direction of degrees from this point.
+Geeft een punt terug dat op de gespecificeerde afstand en hoek van dit punt ligt.
 
-### Point.shift() example
+### Point.shift() voorbeeld
 
 <Example part="point_shift" caption="An example of the Point.shift() method" />
 
@@ -317,10 +317,10 @@ Returns a point that lies distance in the direction of degrees from this point.
 let { Point, points, macro } = part.shorthand();
 
 points.A = new Point(90, 40)
-  .attr("data-text", "Point A")
+  .attr("data-text", "Punt A")
   .attr("data-text-class", "right");
 points.B = points.A.shift(155, 70)
-  .attr("data-text", "Point B is point A shifted 7cm\nat a 155 degree angle")
+  .attr("data-text", "Punt B is punt A 7cm verplaatst\nat onder een hoek van 155 graden")
   .attr("data-text-lineheight", 6);
 
 macro("ld", {
@@ -333,7 +333,7 @@ macro("ld", {
 ## shiftTowards()
 
 ```js
-Point point.shiftTowards(Point target, float distance)
+Point puint.shiftTowards(Point doel, float afstand)
 ```
 
 Returns a point that lies distance in the direction of target.
