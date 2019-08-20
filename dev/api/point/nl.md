@@ -336,9 +336,9 @@ macro("ld", {
 Point puint.shiftTowards(Point doel, float afstand)
 ```
 
-Returns a point that lies distance in the direction of target.
+Geeft een punt terug dat de gespecificeerde afstand van dit punt ligt naar het vermelde punt.
 
-### Point.shiftTowards() example
+### Point.shiftTowards() voorbeeld
 
 <Example part="point_shifttowards" caption="An example of the Point.shiftTowards() method" />
 
