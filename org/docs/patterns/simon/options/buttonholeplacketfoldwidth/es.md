@@ -1,5 +1,8 @@
 ---
 title: Buttonhole placket fold width
+path: /en/docs/patterns/simon/options/buttonholeplacketfoldwidth
+pattern: simon
+option: buttonholePacketFoldWidth
 ---
 
 The width of the fold on a classic style buttonhole placket.
