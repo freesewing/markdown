@@ -64,7 +64,7 @@ points.rightCp1 = points.right
 
 Het volgende punt is weer heel gelijkaardig, behalve dat we het deze keer naar rechts verschuiven (0 graden) voor de helft van de X-delta tussen de punten `bottom` en `right`.
 
-<tip>
+<Tip>
 
 Er bestaan een hele hoop van dit soort methodes voor punten. Je vindt ze allemaal terug in [de Point API-documentatie](/api/point).
 
@@ -89,7 +89,7 @@ Van daar hebben we een Béziercurve getekend naar het `bottom`-punt door `rightC
 
 Als dat allemaal gebeurd is, hebben we nu een kwart van de halsopening:
 
-<example pattern="tutorial" part="step2" caption="You have drawn your first path" />
+<Example pattern="tutorial" part="step2" caption="You have drawn your first path" />
 
 Eén probleem: we hebben geen enkele garantie dat deze opening de juiste afmeting heeft.
 
