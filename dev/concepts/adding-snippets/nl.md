@@ -1,9 +1,9 @@
 ---
-title: Adding snippets
+title: Snippets toevoegen
 order: 280
 ---
 
-After using the [shorthand](/concepts/shorthand) call, `Snippet` contains the path constructor, while `snippets` is a reference to `part.snippets`, which is where you should store your paths.
+Nadat je de [shorthand](/concepts/shorthand) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
 
 Things will now *just work* when you do this:
 
