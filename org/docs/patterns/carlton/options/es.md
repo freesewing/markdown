@@ -1,4 +1,1 @@
----
-title: Options
----
-
+../../carlita/options/es.md
