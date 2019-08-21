@@ -4,7 +4,7 @@ title: svgtopdf
 
 import RepoPage from "../../../../src/components/repo-page";
 
-<repopage repo="svgtopdf" />
+<RepoPage repo="svgtopdf" />
 
 This is a [Node.js](https://nodejs.org/) app using [Express](https://expressjs.com/) that turns SVGs into (tiled) PDFs.
 
