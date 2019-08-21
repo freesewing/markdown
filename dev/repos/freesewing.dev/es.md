@@ -4,7 +4,7 @@ title: devsite
 
 import RepoPage from "../../../../src/components/repo-page";
 
-<repopage repo="devsite" />
+<RepoPage repo="devsite" />
 
 This is the source code for [FreeSewing.dev](https://freesewing.dev), our developer documentation site.
 
