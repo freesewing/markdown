@@ -1,62 +1,62 @@
 ---
-title: Your first part
+title: Votre première partie
 order: 120
 ---
 
-Much like garments themselves, patterns are made up of *parts*.
+Comme les vêtements eux-mêmes, les patrons sont composés de *parties*.
 
-Most patterns will have multiple parts. A sleeve, a back part, the collar, and so on. Our patterns is very simply, and only has one part: the bib.
+La plupart des patrons auront plusieurs parties. Une manche, une partie arrière, le col, etc. Notre patron est des plus simples, et ne comporte qu'une seule partie : le bavoir.
 
-The pattern that's been created for us also just has one part to get you started. It's called **box** and it draws a box. If you click on the **Draft your pattern** button in your browser, you'll get to see it:
+Le patron qui vient d'être créé pour nous a aussi une unique partie pour vous faire démarrer. Il est appelé **box** et il dessine une boîte. Si vous cliquez sur le bouton **Ébaucher votre patron** dans votre navigateur, vous allez la voir :
 
-![The default pattern with its box part](./step1.png)
+![Le patron par défaut avec sa partie box](./step1.png)
 
-Since we only need one part, we'll rename this *box* part, and call it *bib*.
+Puisque nous n'avons besoin que d'une seule partie, nous renommerons cette partie *box*, et l'appellerons *bib* (pour bavoir).
 
-## Rename the box part to bib
+## Renommez la partie box en bib
 
-First, update the configuration file in `config/index.js`. Update the **parts** array with `bib`, rather than `box`:
+Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Mettez à jour le tableau **parts** avec `bib`, plutôt que `box`:
 
 ```js
 parts: ["bib"],
 ```
 
-When that's done, rename the `src/box.js` file into `src/bib.js`.
+Lorsque c'est fait, remplacez le nom du fichier `src/box.js` par `src/bib.js`.
 
-Then, in the `src/index.js` file, change the import accordingly:
+Puis, dans le fichier `src/index.js`, changez l'import de façon correspondante :
 
 ```js
-// Change this line
+// Changez cette ligne
 //import draftBox from "./box";
 
-// Into this
+// en
 import draftBib from "./bib";
 ```
 
-Finally, still in the `src/index.js` file, update the draftmethod:
+Enfin, toujours dans le fichier `src/index.js`, mettez à jour la méthode d'ébauche :
 
 ```js
-// Change this line
+// Change cette ligne
 //Pattern.prototype.draftBox = draftBox;
 
-// Into this
+// en
 Pattern.prototype.draftBib = draftBib;
 ```
 
-<Tip>
+<tip>
 
-###### Always use draftPartname
+###### Utilisez toujours draftNomdelapartie
 
-FreeSewing will expect for each part to find a method named Draft*Partname*.
+FreeSewing s'attend pour chaque partie à trouver une méthode nommée Draft*Nomdelapartie*.
 
-If you have a part named `sleeve` you should have a method called `draftSleeve()` that drafts that part.
+Si vous avez une partie nommée `sleeve` (manche), vous devez avoir une méthode appelée `draftSleeve()` qui dessine cette partie.
 
-In our case, we have a part named `bib` so we're using `draftBib()` as the method that drafts it.
+Dans notre cas, nous avons une partie nommée `bib` alors nous allons utiliser `draftBib()` en tant que méthode d'ébauche de cette partie.
 
 </Tip>
 
-Congratulations, your pattern now has a `bib` part, rather than a `box` part. It still looks the same though:
+Félicitations, votre modèle a maintenant une partie `bib`, au lieu d'une partie `box`. Elle a toujours la même tête cependant :
 
-<Example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
+<example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
 
-This `bib` part is where we'll do some real work. But first, we have some more configuration to do.
+Cette partie `bib` est là où nous allons effectuer un travail plus sérieux. Mais tout d'abord, nous avons encore un peu de configuration à faire.
