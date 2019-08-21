@@ -1,5 +1,8 @@
 ---
 title: Back vent
+path: /en/docs/patterns/jaeger/options/backvent
+pattern: jaeger
+option: backVent
 ---
 
 How do you like your back vents?
