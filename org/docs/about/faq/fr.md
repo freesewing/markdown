@@ -51,4 +51,4 @@ You can be a patron for as little as 2 euro per month. So why not [become a patr
 
 We would like freesewing.org to become the WikiPedia of sewing patterns.
 
-We are not interested in fashion, trends, or publishing the hot new pattern of the season. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
