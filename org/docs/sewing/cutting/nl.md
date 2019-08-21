@@ -1,6 +1,7 @@
 ---
 layout: onecol
 title: Knippen
+path: /en/docs/sewing/cutting
 ---
 
 ![Ik, druk t-shirts aan het uitknippen](cutting.jpg)
