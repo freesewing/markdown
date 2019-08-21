@@ -1,5 +1,6 @@
 ---
 title: Nepen
+path: /en/docs/sewing/darts
 ---
 
 ![Bustenepen op een blouse](dart.jpg)
