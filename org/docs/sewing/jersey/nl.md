@@ -1,5 +1,6 @@
 ---
 title: Jersey
+path: /en/docs/sewing/jersey
 ---
 
 ![Een stuk grijze jersey](knit-fabric.jpg)
