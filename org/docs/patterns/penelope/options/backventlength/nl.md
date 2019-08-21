@@ -1,5 +1,8 @@
 ---
-title: Back vent length
+title: Lengte rugsplit
+path: /en/docs/patterns/penelope/options/backventlength
+pattern: penelope
+option: rugSplitLengte
 ---
 
-Controls the length of the back vent. Lower numbers result in a shorter vent.
+Bepaalt de lengte van het rugsplit. Een lager cijfer leidt tot een korter split.
