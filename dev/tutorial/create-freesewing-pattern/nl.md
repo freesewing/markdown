@@ -9,7 +9,7 @@ Open een terminal en voer de volgende opdracht in:
 npm init freesewing-pattern@beta
 ```
 
-<note>
+<Note>
 
 De `@beta`-suffix is nodig zolang FreeSewing 2.0 in beta is.
 
@@ -28,7 +28,7 @@ Deze opdracht laadt een aantal dependencies en stelt je dan de volgende vragen:
 
 Nadat je deze vragen beantwoord hebt, wordt er een standaardtemplate gekopieerd. Daarna worden alle dependencies geïnstalleerd.
 
-<note>
+<Note>
 
 Dit duurt een paar minuten aangezien we software voor je development-omgeving aan het laden zijn.
 
@@ -65,7 +65,7 @@ Als alles goed gaat, gaat je browser nu open met de volgende landingspagina:
 
 ![De development-omgeving van FreeSewing](./cfp.png)
 
-<note>
+<Note>
 
 ###### Ben je een Windows-gebruiker?
 
