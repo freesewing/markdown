@@ -8,20 +8,20 @@ Nadat je de [shorthand](/concepts/shorthand) hebt gebruikt, heeft `Snippet` de c
 Things will now *just work* when you do this:
 
 ```js
-snippets.logo = new Snippet('logo', points.logoAnchor);
+snippets.logo = new Snippet('logo', points.logoAnker);
 ```
 
-You can scale and rotate a snippet by setting the `data-scale` and `data-rotate` attributes respectively.
+Je kunt een snippet vergoten/verkleinen en roteren met de `data-scale` en `data-rotate` attributen.
 
-- **data-scale** : Either a single scale factor, or a set of 2 scale factors for the X and Y axis respectively. See [the SVG scale transform](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform#Scale) for details.
-- **data-rotate**: A rotation in degrees. The center of the rotation will be the snippet's anchor point
+- **data-scale** : Of een enkele waarde voor beide, of twee individuele waarden voor de X- en de Y-as. Zie [the SVG scale transform](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform#Scale) voor specificaties.
+- **data-rotate**: Een rotatie in graden. Het centrum van de rotatie zal het ankerpunt van de snippet zijn.
 
 <Tip>
 
-See [Using attributes](/concepts/attributes) for details on how to set attributes.
+Zie ook [Using attributes](/concepts/attributes) voor meer informatie over het gebruik van attributen.
 
 </Tip>
 
-Below is an example of the available snippets, and the use of the `data-scale` and `data-rotate` attributes:
+Hieronder is een voorbeeld van `data-scale` en `data-rotate`:
 
 <Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: macros: circles: widthHd: false }} />
