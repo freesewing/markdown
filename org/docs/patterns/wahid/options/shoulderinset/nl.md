@@ -1,5 +1,8 @@
 ---
 title: Insnede schouder
+path: /en/docs/patterns/wahid/options/shoulderinset
+pattern: wahid
+option: shoulderInset
 ---
 
 Hoe ver wil je dat je gilet aan de schoudernaad weg zit van je schouder? De standaard is 2 cm.

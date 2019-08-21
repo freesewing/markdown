@@ -1,5 +1,8 @@
 ---
 title: Soort knoopsgatenpat
+path: /en/docs/patterns/simon/options/buttonholeplackettype
+pattern: simon
+option: knoopsgatPatSoort
 ---
 
 Wil je dat het knoopsgatenpat deel is van het linkervoorpand (aangeknipt), of liever een individueel stuk dat je kan aannaaien (apart)?
