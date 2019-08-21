@@ -50,13 +50,13 @@ macro("round", {
 });
 ```
 
-<warning>
+<Warning>
 
 FIXME: link toevoegen naar macro/extend docs
 
 </Warning>
 
-<example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+<Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
 Net zoals bij de halsopening hebben we hier maar de helft getekend. We kunnen de punten gewoon kopiëren naar de andere kant.
 

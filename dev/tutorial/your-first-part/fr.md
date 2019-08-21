@@ -43,7 +43,7 @@ Enfin, toujours dans le fichier `src/index.js`, mettez à jour la méthode d'éb
 Pattern.prototype.draftBib = draftBib;
 ```
 
-<tip>
+<Tip>
 
 ###### Utilisez toujours draftNomdelapartie
 
@@ -57,6 +57,6 @@ Dans notre cas, nous avons une partie nommée `bib` alors nous allons utiliser `
 
 Félicitations, votre modèle a maintenant une partie `bib`, au lieu d'une partie `box`. Elle a toujours la même tête cependant :
 
-<example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
+<Example pattern="tutorial" part="step1" caption="Our bib part, which is the renamed box part" />
 
 Cette partie `bib` est là où nous allons effectuer un travail plus sérieux. Mais tout d'abord, nous avons encore un peu de configuration à faire.
