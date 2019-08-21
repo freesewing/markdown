@@ -1,5 +1,8 @@
 ---
 title: Breedte vouw knoopsgatenpat
+path: /en/docs/patterns/simon/options/buttonholeplacketfoldwidth
+pattern: simon
+option: knoopsgatPatPlooiBreedte
 ---
 
 De breedte van de vouw op een klassiek knoopsgatenpat.
