@@ -1,5 +1,8 @@
 ---
 title: Stretchfactor Boord
+path: /en/docs/patterns/hugo/options/ribbingstretchfactor
+pattern: hugo
+option: boordStretchFactor
 ---
 
 Met deze optie kan je de stretch van je boord aanpassen.
