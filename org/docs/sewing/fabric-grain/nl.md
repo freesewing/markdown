@@ -1,5 +1,6 @@
 ---
 title: Draadrichting
+path: /en/docs/sewing/fabric-grain
 ---
 
 ![De draadrichting loopt parallel met de zelfkant](fabric-grain.jpg)
