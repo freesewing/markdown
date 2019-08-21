@@ -1,5 +1,8 @@
 ---
 title: Overwijdte borst
+path: /en/docs/patterns/simon/options/chestease
+pattern: simon
+option: borstOver
 ---
 
 Hoeveel ruimte wil je rond je borstkas?
