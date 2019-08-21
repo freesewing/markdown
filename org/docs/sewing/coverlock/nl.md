@@ -1,5 +1,6 @@
 ---
 title: Coverlock
+path: /en/docs/sewing/coverlock
 ---
 
 ![Een zoom van een t-shirt, genaaid met een coverlock](coverlock-hem.jpg)
