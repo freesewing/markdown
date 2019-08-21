@@ -31,7 +31,7 @@ The width of the sleevecap (and thus the width of the sleeve at the bottom of th
 
 The height of the sleevecap is equal to the distance between points 3 and 4. The exact height is a trade-off between the measurments of the model, options, ease, sleevecap ease, and the fact that the sleeve ultimately has to fit the armhole. So the height may vary, and we don't control the exact value. But there are two options that control the shape of our sleevecap:
 
-- [Sleevecap top X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 3
+- [Sleevecap top X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 4
 - [Sleevecap top Y](/docs/patterns/brian/options/sleevecaptopfactory/) : Controls the vertical placement of point 4
 
 In other words, point 4 can be made higher and lower and, perhaps less intutitively, it can also be changed to lie more to the right or the left, rather than smack in the middle as in our example.
@@ -68,7 +68,7 @@ The points are *offset* perpendicular from the middle of a line between the two 
 
 <Note>
 
-We've divide our sleevecap into 4 quarters. We start at the front (the right in our example) with quarter 1, and make our way to the back to end with quarter 4.
+We've divided our sleevecap into 4 quarters. We start at the front (the right in our example) with quarter 1, and make our way to the back to end with quarter 4.
 
 Like the offset option, the last options to determine the shape of our sleevecap will just repeat so you can control each quarter individually.
 
@@ -93,7 +93,7 @@ For each of the anchor points (the ones marked in orange, not points 1 and 2) th
 
 <Note>
 
-Attentive readers will have noticed that point 4 is not an anchor point. In other words, there is no guarantee that it will lie on the sleevecap line. Which also means that the upwards spread in quarters 2 and 3 will influence the height of the sleevecap. Reduce teh upwards spread, and the curve will dip below point 4. Increase it and the curve will rise above it.
+Attentive readers will have noticed that point 4 is not an anchor point. In other words, there is no guarantee that it will lie on the sleevecap line. Which also means that the upwards spread in quarters 2 and 3 will influence the height of the sleevecap. Reduce the upwards spread, and the curve will dip below point 4. Increase it and the curve will rise above it.
 
 </Note>
 
