@@ -2,4 +2,4 @@
 title: Mouw kromming
 ---
 
-De hoek van de mouw.
+The angle of the sleeve at the elbow.
