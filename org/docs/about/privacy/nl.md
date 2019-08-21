@@ -20,7 +20,7 @@ Voor de duidelijkheid hebben we dit in drie verschillende rollen gesplitst:
 
 Deze rollen zijn cumulatief. Als je een gebruiker bent, ben je ook een bezoeker. En als je een gebruiker bent met één of meer modellen ben je ook een gebruiker, en een bezoeker.
 
-<note>
+<Note>
 
 #### Bezoekersgegevens
 
@@ -37,7 +37,7 @@ Deze data wordt opgeslagen voor iedereen die onze website bezoekt of verbinding 
 
 </Note>
 
-<note>
+<Note>
 
 #### Profile data
 
@@ -58,7 +58,7 @@ Deze gegevens worden opgeslagen voor iedereen met een account op onze website.
 
 </Note>
 
-<note>
+<Note>
 
 #### Model data
 

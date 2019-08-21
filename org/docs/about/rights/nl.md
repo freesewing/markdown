@@ -26,7 +26,7 @@ Je hebt het recht om je persoonlijke gegevens te wissen. Ga naar [account/remove
 
 Je hebt het recht een restrictie aan te vragen voor het verwerken van je persoonlijke gegevens. Ga naar [account/restrict](/account/restrict) om te vragen de verwerking van je persoonlijke gegevens te beperken.
 
-<warning>
+<Warning>
 
 Je aanvraag zal meteen in werking gesteld worden en kan enkel ongedaan gemaakt worden door [ons te contacteren](/contact) om de restrictie op te heffen.
 
