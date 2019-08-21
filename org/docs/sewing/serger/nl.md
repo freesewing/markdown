@@ -1,5 +1,6 @@
 ---
 title: Serger/overlock
+path: /en/docs/sewing/serger
 ---
 
 ![De afgewerkte achterkant van een gelockte naad](serged-seam.jpg)
