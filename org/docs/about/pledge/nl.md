@@ -4,7 +4,7 @@ title: Belofte over de FreeSewing inkomsten
 
 <Note>
 
-Ik - Joost De Cock, beheerder van het FreeSewing project - beloof hierbij dat alle inkomsten gegenereerd door FreeSewing gedoneerd zal worden aan [Artsen Zonder Grenzen (AZG)](http://www.msf.org/).
+Ik - Joost De Cock, brein achter het FreeSewing project - beloof hierbij dat alle inkomsten gegenereerd door FreeSewing gedoneerd zal worden aan [Artsen Zonder Grenzen (AZG)](http://www.msf.org/).
 
 </Note>
 
