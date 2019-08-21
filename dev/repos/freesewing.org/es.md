@@ -4,7 +4,7 @@ title: website
 
 import RepoPage from "../../../../src/components/repo-page";
 
-<repopage repo="website" />
+<RepoPage repo="website" />
 
 This is the source code for [FreeSewing.org](https://freesewing.org), our main website.
 
