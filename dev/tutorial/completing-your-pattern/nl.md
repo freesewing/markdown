@@ -89,7 +89,7 @@ points.logo = new Point(0, 0);
 snippets.logo = new Snippet("logo", points.logo);
 ```
 
-## Seam allowance
+## Naadtoeslag
 
 Net zoals ze de keuze hebben tussen een compleet patroon of een vereenvoudigd, kunnen gebruikers ook kiezen of ze naadwaarde willen toevoegen aan het patroon of niet.
 
