@@ -1,5 +1,6 @@
 ---
 title: Zomen
+path: /en/docs/sewing/hemming
 ---
 
 ![De zoom aan de onderrand van een t-shirt](coverlock-hem.jpg)
