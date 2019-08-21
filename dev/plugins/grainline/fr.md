@@ -55,7 +55,7 @@ void macro("grainline", {
 
 The macro takes a single configuration object with the following properties:
 
-| Propriété | Défaut | Type                | Description                                 |
-| --------- | ------ | ------------------- | ------------------------------------------- |
-| `from`    |        | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`      |        | [Point](/api/point) | The endpoint of the *grainline* indicator   |
+| Propriété | Défaut | Type                | Description                                             |
+| --------- | ------ | ------------------- | ------------------------------------------------------- |
+| `from`    |        | [Point](/api/point) | Le point de départ de l'indicateur *ligne de droit-fil* |
+| `to`      |        | [Point](/api/point) | Le point final de l'indicateur *ligne de droit-fil*     |
