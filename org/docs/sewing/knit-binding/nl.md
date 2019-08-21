@@ -1,5 +1,6 @@
 ---
 title: Jersey biezen
+path: /en/docs/sewing/knit-binding
 ---
 
 ## Wat is een jersey bies zelfs?
