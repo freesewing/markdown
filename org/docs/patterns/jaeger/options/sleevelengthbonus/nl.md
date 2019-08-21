@@ -1,5 +1,7 @@
 ---
 title: Bonus mouwlengte
+pattern: jaeger
+option: mouwLengteBonus
 ---
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.

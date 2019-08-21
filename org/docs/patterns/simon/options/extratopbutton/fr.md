@@ -1,5 +1,8 @@
 ---
 title: Extra top button
+path: /en/docs/patterns/simon/options/extratopbutton
+pattern: simon
+option: extraTopButton
 ---
 
 Do you want an extra button between the top front button and collar stand button?
