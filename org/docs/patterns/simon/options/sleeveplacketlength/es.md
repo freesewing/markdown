@@ -1,8 +1,5 @@
 ---
 title: Sleeve placket length
-path: /en/docs/patterns/simon/options/sleeveplacketlength
-pattern: simon
-option: sleevePlacketLengthe
 ---
 
 How long do you want the sleeve placket to be?

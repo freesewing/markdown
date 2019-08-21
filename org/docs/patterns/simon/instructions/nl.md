@@ -1,6 +1,5 @@
 ---
 title: Simon maken
-path: /en/docs/patterns/simon
 ---
 
 ## Wat je nodig hebt

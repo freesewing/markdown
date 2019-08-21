@@ -1,7 +1,6 @@
 ---
 layout: onecol
 title: Cutting
-path: /en/docs/sewing/cutting
 ---
 
 ![Me cutting out some T-shirts](cutting.jpg)

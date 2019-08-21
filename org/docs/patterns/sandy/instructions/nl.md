@@ -1,6 +1,5 @@
 ---
 title: Sandy maken
-path: /en/docs/patterns/sandy
 ---
 
 > ##### Sandy is momenteel een betapatroon, de documentatie ontbreekt

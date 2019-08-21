@@ -1,8 +1,5 @@
 ---
 title: Hip rise
-path: /en/docs/patterns/cathrin/options/hiprise
-pattern: cathrin
-option: hipRise
 ---
 
 ![The hip rise option on Cathrin](./hiprise.svg)

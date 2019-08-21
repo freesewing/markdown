@@ -1,7 +1,5 @@
 ---
 title: Across back factor
-pattern: brian
-option: acrossBackFactor
 ---
 ![The across back option on Brian](./acrossbackfactor.svg)
 

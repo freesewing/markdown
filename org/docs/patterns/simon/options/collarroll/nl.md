@@ -1,8 +1,5 @@
 ---
 title: Omval kraag
-path: /en/docs/patterns/simon/options/collarroll
-pattern: simon
-option: kraagVal
 ---
 
 Hoeveel hoger de kraag is dan de kraagstaander aan de middenrug.

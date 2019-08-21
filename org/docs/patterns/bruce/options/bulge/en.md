@@ -1,7 +1,5 @@
 ---
 title: Bulge
-pattern: bruce
-option: bulge
 ---
 ![The bulge option on Bruce](./bulge.svg)
 

@@ -1,7 +1,5 @@
 ---
 title: Yoke dart
-pattern: simon
-option: yokeDart
 ---
 
 Controls the dart at the bottom side of the yoke.

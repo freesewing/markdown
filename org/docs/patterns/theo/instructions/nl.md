@@ -1,6 +1,5 @@
 ---
 title: Theodore maken
-path: /en/docs/patterns/theodore
 ---
 
 ## Video

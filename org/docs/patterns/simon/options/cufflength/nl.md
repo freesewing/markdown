@@ -1,7 +1,5 @@
 ---
 title: Lengte manchet
-pattern: simon
-option: manchetLengte
 ---
 
 De lengte van de manchetten.

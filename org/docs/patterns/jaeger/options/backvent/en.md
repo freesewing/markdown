@@ -1,7 +1,5 @@
 ---
 title: Back vent
-pattern: jaeger
-option: backVent
 ---
 
 How do you like your back vents?

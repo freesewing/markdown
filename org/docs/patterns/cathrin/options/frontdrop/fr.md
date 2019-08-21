@@ -1,8 +1,5 @@
 ---
 title: Front drop
-path: /en/docs/patterns/cathrin/options/frontdrop
-pattern: cathrin
-option: frontDrop
 ---
 
 ![The front drop option on Cathrin](./frontdrop.svg)

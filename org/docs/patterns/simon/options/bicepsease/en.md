@@ -1,7 +1,5 @@
 ---
 title: Biceps ease
-pattern: simon
-option: bicepsEase
 ---
 
 How much do you want the sleeve to be wider than your upperarm circumference?

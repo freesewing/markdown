@@ -1,6 +1,5 @@
 ---
 title: Sven maken
-path: /en/docs/patterns/sven
 ---
 
 ## Wat je nodig hebt

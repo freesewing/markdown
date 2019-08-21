@@ -1,8 +1,5 @@
 ---
 title: Achterste armsgat neep
-path: /en/docs/patterns/wahid/options/backscyedart
-pattern: wahid
-option: backScyeDart
 ---
 
 Dit patroon komt met een standaard neepje van 0.5 cm in het armsgat aan de rug. Je kan deze neep groter of kleiner maken om het armsgat te beïnvloeden.

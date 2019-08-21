@@ -1,7 +1,5 @@
 ---
 title: Front scye dart
-pattern: wahid
-option: frontScyeDart
 ---
 
 This pattern comes with a default 1 cm scye dart (think armhole dart) at the front.

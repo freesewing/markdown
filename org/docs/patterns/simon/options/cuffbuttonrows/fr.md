@@ -1,8 +1,5 @@
 ---
 title: Cuff button rows
-path: /en/docs/patterns/simon/options/cuffbuttonrows
-pattern: simon
-option: cuffButtonRows
 ---
 
 Do you want a single button on your barrelcuff, or two?

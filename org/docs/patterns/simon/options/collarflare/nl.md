@@ -1,8 +1,5 @@
 ---
 title: Spreiding kraag
-path: /en/docs/patterns/simon/options/collarflare
-pattern: simon
-option: kraagSpreid
 ---
 
 Hoeveel de kraag verbreedt (aan de rand van de kraag) in plaats van recht te zijn.

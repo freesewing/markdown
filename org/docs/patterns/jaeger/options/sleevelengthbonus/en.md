@@ -1,7 +1,5 @@
 ---
 title: Sleeve length bonus
-pattern: jaeger
-option: sleeveLengthBonus
 ---
 
 The amount to extend the sleeve beyond the length of the sleeve in the base block.

@@ -1,8 +1,5 @@
 ---
 title: Middenrug neep
-path: /en/docs/patterns/wahid/options/centerbackdart
-pattern: wahid
-option: centerBackDart
 ---
 
 Niemand heeft een kaarsrechte rug, dus dit patroon gaat aan de nek 0.5 cm naar binnen.

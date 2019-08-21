@@ -1,7 +1,5 @@
 ---
 title: Back rise
-pattern: cathrin
-option: backRise
 ---
 ![The back rise option on Cathrin](./backrise.svg)
 

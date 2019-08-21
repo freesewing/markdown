@@ -1,7 +1,5 @@
 ---
 title: Back scye dart
-pattern: wahid
-option: backScyeDart
 ---
 
 This pattern comes with a default 0.5 cm scye dart (think armhole dart) on the back.

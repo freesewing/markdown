@@ -1,7 +1,5 @@
 ---
 title: Length bonus
-pattern: wahid
-option: lengthBonus
 ---
 
 This option allows you to lengthen (or shorten) your waistcoat.

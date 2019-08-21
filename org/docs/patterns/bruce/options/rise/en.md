@@ -1,7 +1,5 @@
 ---
 title: Rise
-pattern: bruce
-option: rise
 ---
 ![The rise option on Bruce](./rise.svg)
 

@@ -1,7 +1,5 @@
 ---
 title: End style
-pattern: benjamin
-option: endStyle
 ---
 Three different tip shapes
 

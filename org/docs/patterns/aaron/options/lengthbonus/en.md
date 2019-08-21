@@ -1,7 +1,5 @@
 ---
 title: Length bonus
-pattern: aaron
-option: lengthBonus
 ---
 ![The length bonus option on Aaron](./lengthbonus.svg)
 

@@ -1,6 +1,5 @@
 ---
 title: Double welt pockets
-path: /en/docs/sewing/double-welt-pockets
 ---
 
 > ##### Leer paspelzakken met David Page Coffin

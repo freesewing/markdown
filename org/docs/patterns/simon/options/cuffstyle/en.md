@@ -1,7 +1,5 @@
 ---
 title: Cuff style
-pattern: simon
-option: cuffStyle
 ---
 
 What style of cuff do you want?

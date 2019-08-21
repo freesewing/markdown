@@ -1,7 +1,5 @@
 ---
 title: Chest ease
-pattern: brian
-option: chestEase
 ---
 ![The chest ease factor on Brian](./chestease.svg)
 

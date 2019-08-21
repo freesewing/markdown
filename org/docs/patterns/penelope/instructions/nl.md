@@ -1,6 +1,5 @@
 ---
 title: Penelope maken
-path: /en/docs/patterns/penelope
 ---
 
 > #### Deze documentatie is incompleet

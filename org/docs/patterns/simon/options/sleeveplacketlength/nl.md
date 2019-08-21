@@ -1,8 +1,5 @@
 ---
 title: Lengte mouwsplit
-path: /en/docs/patterns/simon/options/sleeveplacketlength
-pattern: simon
-option: mouwSplitLengte
 ---
 
 Hoe lang wil je dat het mouwsplit is?

@@ -1,7 +1,5 @@
 ---
 title: Armhole depth factor
-pattern: brian
-option: armholeDepthFactor
 ---
 ![The armhole depth factor on Brian](./armholedepthfactor.svg)
 

@@ -1,7 +1,5 @@
 ---
 title: Cuff length
-pattern: simon
-option: cuffLength
 ---
 
 The length of your cuffs.

@@ -1,7 +1,5 @@
 ---
 title: Panels
-pattern: cathrin
-option: panels
 ---
 ![The panels option on Cathrin](./panels.svg)
 

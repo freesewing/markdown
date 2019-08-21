@@ -1,7 +1,5 @@
 ---
 title: Barrel cuff narrow button
-pattern: simon
-option: barrelCuffNarrowButton
 ---
 
 

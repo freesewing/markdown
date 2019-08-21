@@ -1,6 +1,5 @@
 ---
 title: Overwijdte
-path: /en/docs/sewing/ease
 ---
 
 ![Zonder overwijdte zou je je arm niet kunnen optillen](ease-plus.jpg)

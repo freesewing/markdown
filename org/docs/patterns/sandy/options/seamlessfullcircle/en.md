@@ -1,7 +1,5 @@
 ---
 title: Seamless full circle
-pattern: sandy
-option: seamlessFullCircle
 ---
 
 Select 'yes' for a seamless circle, which is cut on a double fold. 

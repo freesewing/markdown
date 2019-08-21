@@ -1,7 +1,5 @@
 ---
 title: Length bonus
-pattern: huey
-option: lengthBonus
 ---
 
 The amount of extra length at the hem.

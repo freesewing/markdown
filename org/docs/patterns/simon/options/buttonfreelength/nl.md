@@ -1,8 +1,5 @@
 ---
 title: Lengte knooploos stuk
-path: /en/docs/patterns/simon/options/buttonfreelength
-pattern: simon
-option: knooploosLengte
 ---
 
 Hoe ver voor je tailleband wil je dat je laatste knoop zit?

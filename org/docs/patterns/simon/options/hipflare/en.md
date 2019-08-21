@@ -1,7 +1,5 @@
 ---
 title: Hip flare
-pattern: simon
-option: hipFlare
 ---
 
 This adds extra room below your hips.
