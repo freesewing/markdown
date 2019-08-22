@@ -1,8 +1,7 @@
 ---
 title: Front cutaway start
-path: /en/docs/patterns/jaeger/options/frontcutawaystart
-pattern: jaeger
-option: frontCutawayStart
 ---
+
+![Front cutaway start](frontcutawaystart.svg)
 
 How far below the lower button does the front start to open.
