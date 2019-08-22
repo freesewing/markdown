@@ -1,8 +1,7 @@
 ---
-title: Skirt length
-path: /en/docs/patterns/sandy/options/length
-pattern: sandy
-option: length
+title: Length bonus
 ---
+
+![Length bonus](lengthbonus.svg)
 
 The length of the skirt.
