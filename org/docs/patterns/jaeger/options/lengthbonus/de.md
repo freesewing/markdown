@@ -1,8 +1,7 @@
 ---
 title: Length bonus
-path: /en/docs/patterns/jaeger/options/lengthbonus
-pattern: jaeger
-option: lengthBonus
 ---
+
+![Length bonus](lengthbonus.svg)
 
 The amount to lengthen the body of your jacket.
