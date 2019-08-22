@@ -1,8 +1,7 @@
 ---
 title: Overwijdte heup
-path: /en/docs/patterns/jaeger/options/hipsease
-pattern: jaeger
-option: heupOver
 ---
+
+![Overwijdte heup](hipsease.svg)
 
 De hoeveelheid overwijdte aan je heupen.
