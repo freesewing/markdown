@@ -40,7 +40,11 @@ Je hebt het recht om je persoonlijke gegevens te verkrijgen en opnieuw te gebrui
 
 Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetenschappelijk onderzoek. Ga naar [account/consent](/account/consent) en geef je bezwaar aan bij de **modelgegevens**.
 
-> Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij freesewing.
+<Note>
+
+Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij freesewing.
+
+</Note>
 
 ## Rights in relation to automated decision making and profiling
 
