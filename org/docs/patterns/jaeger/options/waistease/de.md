@@ -1,8 +1,7 @@
 ---
 title: Waist ease
-path: /en/docs/patterns/jaeger/options/waistease
-pattern: jaeger
-option: waistEase
 ---
+
+![Waist ease](waistease.svg)
 
 The amount of ease at your waist.
