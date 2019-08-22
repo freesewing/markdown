@@ -1,6 +1,3 @@
----
-title: Knot width
----
 
 The knot width is the width in the middle of the tie, where you make the knot.
 

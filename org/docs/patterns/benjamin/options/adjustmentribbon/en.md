@@ -1,6 +1,3 @@
----
-title: Adjustment ribbon
----
 
 Traditional or adjustable?
 

@@ -1,6 +1,3 @@
----
-title: Opening rug
----
 
 ![De optie voor rugopening bij Cathrin](./backopening.svg)
 

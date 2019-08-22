@@ -1,9 +1,3 @@
----
-title: Been reductie
-path: /en/docs/patterns/shin/options/legreduction
-pattern: shin
-option: beenReductie
----
 
 Hoeveel smaller de (boven)benen moeten worden.
 

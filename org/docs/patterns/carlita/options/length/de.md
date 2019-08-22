@@ -1,6 +1,3 @@
----
-title: Length
----
 
 ![Length](length.svg)
 

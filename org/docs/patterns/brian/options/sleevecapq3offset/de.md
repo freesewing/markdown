@@ -1,6 +1,3 @@
----
-title: Sleevecap Q3 offset
----
 
 ![The offset in the third quarter of the sleevecap](./sleevecapq3offset.svg)
 

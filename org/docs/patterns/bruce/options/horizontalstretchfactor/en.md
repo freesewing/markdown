@@ -1,6 +1,3 @@
----
-title: Horizontal stretch factor
----
 ![The horizontal stretch factor option on Bruce](./horizontalstretchfactor.svg)
 
 This option allows you to adapt to the stretch of the fabric you are using.

@@ -1,6 +1,3 @@
----
-title: Bulge
----
 
 How much room do you want in the front?
 

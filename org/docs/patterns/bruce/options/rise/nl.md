@@ -1,6 +1,3 @@
----
-title: Hoogte
----
 
 ![De optie voor hoogte bij Bruce](./rise.svg)
 

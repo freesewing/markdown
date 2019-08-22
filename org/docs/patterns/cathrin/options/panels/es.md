@@ -1,6 +1,3 @@
----
-title: Panels
----
 
 ![The panels option on Cathrin](./panels.svg)
 

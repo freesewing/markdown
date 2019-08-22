@@ -1,6 +1,3 @@
----
-title: Collar roll
----
 
 How much the collar is taller than the collar stand at center back.
 

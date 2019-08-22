@@ -1,6 +1,3 @@
----
-title: Collar gap
----
 
 Distance the collar sits apart when closed.
 

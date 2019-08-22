@@ -1,6 +1,3 @@
----
-title: Cuff button rows
----
 
 Do you want a single button on your barrelcuff, or two?
 

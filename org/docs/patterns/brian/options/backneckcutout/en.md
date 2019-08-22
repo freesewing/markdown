@@ -1,6 +1,3 @@
----
-title: Back neck cutout
----
 
 ![Back neck cutout](./shoulderease.svg)
 

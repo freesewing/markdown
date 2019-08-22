@@ -1,6 +1,3 @@
----
-title: Back neck cutout
----
 
 Controls how much the neck opening cuts into the back of the garment.
 

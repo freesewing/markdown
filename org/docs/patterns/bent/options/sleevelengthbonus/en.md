@@ -1,6 +1,3 @@
----
-title: Sleevelength bonus
----
 The amount to extend the sleeve beyond the length of the sleeve in the base block.
 
 > #### This is not supposed to be zero<

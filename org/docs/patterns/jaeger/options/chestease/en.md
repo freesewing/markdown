@@ -1,6 +1,3 @@
----
-title: Chest ease
----
 
 ![Chest ease](chestease.svg)
 

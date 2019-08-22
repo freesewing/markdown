@@ -1,6 +1,3 @@
----
-title: Collar angle
----
 
 The number of degrees between the collar edge and the grainline.
 

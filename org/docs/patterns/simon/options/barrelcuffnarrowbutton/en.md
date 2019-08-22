@@ -1,6 +1,3 @@
----
-title: Barrel cuff narrow button
----
 
 
 Do you want an extra button to button up your cuff more tightly?

@@ -1,6 +1,3 @@
----
-title: Front pocket height
----
 
 ![Front pocket height](frontpocketheight.svg)
 

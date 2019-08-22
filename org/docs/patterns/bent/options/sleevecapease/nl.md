@@ -1,6 +1,3 @@
----
-title: Extra ruimte mouwkop
----
 
 Hoeveel extra ruimte wil je in de mouwkop?
 

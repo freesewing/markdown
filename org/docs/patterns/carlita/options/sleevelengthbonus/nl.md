@@ -1,6 +1,3 @@
----
-title: Bonus mouwlengte
----
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.
 

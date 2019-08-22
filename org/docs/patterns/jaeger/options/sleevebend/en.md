@@ -1,6 +1,3 @@
----
-title: Sleeve bend
----
 
 ![Sleeve bend](sleevebend.svg)
 

@@ -1,6 +1,3 @@
----
-title: Sleevecap Q2 upward spread
----
 ![The upward spread in the second quadrant of the sleevecap](./sleevecapq2spread2.svg)
 
 This option controls the upward spread in the second quadrant of the sleevecap.

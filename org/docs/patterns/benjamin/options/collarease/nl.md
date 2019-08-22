@@ -1,6 +1,3 @@
----
-title: Overwijdte kraag
----
 
 Hoeveel overwijdte heeft je kraag?
 

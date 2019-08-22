@@ -1,6 +1,3 @@
----
-title: Sleevecap Q3 downward spread
----
 ![The downward spread in the third quadrant of the sleevecap](./sleevecapq3spread2.svg)
 
 This option controls the downward spread in the third quadrant of the sleevecap.

@@ -1,6 +1,3 @@
----
-title: Yoke dart
----
 
 Controls the dart at the bottom side of the yoke.
 

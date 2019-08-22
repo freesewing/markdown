@@ -1,6 +1,3 @@
----
-title: Collarstand curve
----
 
 How much the collar stand curves up at the edges.
 

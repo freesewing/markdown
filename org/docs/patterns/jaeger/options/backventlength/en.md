@@ -1,6 +1,3 @@
----
-title: Back vent length
----
 
 ![Back vent length](backventlength.svg)
 

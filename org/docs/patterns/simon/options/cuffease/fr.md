@@ -1,8 +1,3 @@
----
-title: Cuff ease
-pattern: simon
-option: cuffEase
----
 
 Determines how much the cuff is larger than your wrist.
 

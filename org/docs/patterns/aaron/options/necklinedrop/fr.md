@@ -1,6 +1,3 @@
----
-title: Neckline drop
----
 
 ![The neckline drop option on Aaron](./necklinedrop.svg)
 

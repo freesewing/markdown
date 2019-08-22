@@ -1,6 +1,3 @@
----
-title: Button-free length
----
 
 How much before your waistband do you want your last button to sit?
 

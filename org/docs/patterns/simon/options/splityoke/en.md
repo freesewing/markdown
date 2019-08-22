@@ -1,6 +1,3 @@
----
-title: Split yoke
----
 
 Do you want a split yoke?
 

@@ -1,6 +1,3 @@
----
-title: Front cutaway angle
----
 
 ![Front cutaway angle](frontcutawayangle.svg)
 

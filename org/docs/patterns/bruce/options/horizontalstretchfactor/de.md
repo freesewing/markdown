@@ -1,6 +1,3 @@
----
-title: Horizontal stretch factor
----
 
 ![The horizontal stretch factor option on Bruce](./horizontalstretchfactor.svg)
 

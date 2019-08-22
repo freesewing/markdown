@@ -1,9 +1,3 @@
----
-title: Verschil mouw/manchet
-path: /en/docs/patterns/simon/options/cuffdrape
-pattern: simon
-option: manchetExtra
----
 
 
 Hoeveel breder het uiteinde van de mouw is dan de polsomtrek.

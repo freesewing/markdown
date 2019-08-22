@@ -1,6 +1,3 @@
----
-title: Chest pocket angle
----
 
 ![Chest pocket angle](chestpocketangle.svg)
 

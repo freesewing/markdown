@@ -1,6 +1,3 @@
----
-title: Elastic width
----
 ![The elastic width option on Bruce](./elasticwidth.svg)
 
 > #### What's the point?

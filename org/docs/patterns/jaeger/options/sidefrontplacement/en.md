@@ -1,6 +1,3 @@
----
-title: Side-front placement
----
 
 ![Side-front placement](sidefrontplacement.svg)
 

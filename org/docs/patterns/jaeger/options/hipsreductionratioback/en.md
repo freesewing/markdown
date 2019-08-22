@@ -1,6 +1,3 @@
----
-title: Hips reduction ratio back
----
 
 ![Hips reduction ratio back](hipsreductionratioback.svg)
 

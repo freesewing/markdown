@@ -1,6 +1,3 @@
----
-title: Collar flare
----
 
 Controls the flare of the collar.
 

@@ -1,9 +1,3 @@
----
-title: Hoogte achter
-path: /en/docs/patterns/theodore/options/backrise
-pattern: theodore
-option: achterHoogte
----
 
 Dit verhoogt de taille van je broek achteraan.
 

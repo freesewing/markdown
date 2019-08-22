@@ -1,6 +1,3 @@
----
-title: Cuff style
----
 
 What style of cuff do you want?
 

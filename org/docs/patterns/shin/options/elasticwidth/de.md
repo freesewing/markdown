@@ -1,9 +1,3 @@
----
-title: Elastic width
-path: /en/docs/patterns/shin/options/elasticwidth
-pattern: shin
-option: elasticWidth
----
 
 > #### What's the point?
 > 

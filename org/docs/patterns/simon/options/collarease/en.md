@@ -1,6 +1,3 @@
----
-title: Collar ease
----
 
 How much ease do you want for your collar?
 

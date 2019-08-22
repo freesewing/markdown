@@ -1,6 +1,3 @@
----
-title: Neckline drop
----
 
 This options allows you to lower your neckline below the defalt.
 

@@ -1,9 +1,3 @@
----
-title: Extra knoop bovenaan
-path: /en/docs/patterns/simon/options/extratopbutton
-pattern: simon
-option: extraBovenKnoop
----
 
 Wil je een extra knoop tussen de bovenste knoop vooraan en de knoop aan de kraagstaander?
 

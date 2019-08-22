@@ -1,6 +1,3 @@
----
-title: Extra ruimte mouwkop
----
 
 Determines the amount of sleevecap ease.
 

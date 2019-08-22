@@ -1,6 +1,3 @@
----
-title: Hem curve
----
 
 How much do you want the hem to curve upwards?
 

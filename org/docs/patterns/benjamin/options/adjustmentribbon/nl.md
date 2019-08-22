@@ -1,6 +1,3 @@
----
-title: Aanpaslintje
----
 
 Traditioneel of aanpasbaar?
 

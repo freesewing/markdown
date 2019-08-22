@@ -1,6 +1,3 @@
----
-title: Zipper placement
----
 
 Where do you want to place the zipper in your skirt?
 

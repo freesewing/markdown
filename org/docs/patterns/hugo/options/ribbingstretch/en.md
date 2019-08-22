@@ -1,6 +1,3 @@
----
-title: Ribbing stretch
----
 
 This option allows you to tweak the stretch of your ribbing.
 

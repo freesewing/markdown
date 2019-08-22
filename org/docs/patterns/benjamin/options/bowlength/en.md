@@ -1,6 +1,3 @@
----
-title: Bow length
----
 Bow ties Wide and Narrow
 
 You can make wide bow ties, or narrow ones. This option allows you to change the horizontal size of the bows. Make

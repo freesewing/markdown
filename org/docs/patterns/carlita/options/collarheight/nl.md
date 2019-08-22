@@ -1,6 +1,3 @@
----
-title: Hoogte kraag
----
 
 ![Hoogte kraag](collarheight.svg)
 

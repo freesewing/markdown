@@ -1,6 +1,3 @@
----
-title: Shoulder slope reduction
----
 
 This pattern adapts to sloped shoulder by taking the shoulder slope measurment into account.
 

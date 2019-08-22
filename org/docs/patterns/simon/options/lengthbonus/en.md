@@ -1,6 +1,3 @@
----
-title: Length bonus
----
 
 How much shirt do you want to be able to tuck in your trousers?
 

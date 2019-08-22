@@ -1,6 +1,3 @@
----
-title: Shoulder strap placement
----
 ![The shoulder strap placement option on Aaron](./shoulderstrapplacement.svg)
 
 Determines the position of the shoulder strap on the shoulder.

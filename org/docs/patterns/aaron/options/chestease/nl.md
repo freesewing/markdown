@@ -1,6 +1,3 @@
----
-title: Overwijdte borst
----
 
 ![De optie voor overwijdte aan de borst bij Aaron](./chestease.svg)
 

@@ -1,9 +1,3 @@
----
-title: Ribbing stretch factor
-path: /en/docs/patterns/hugo/options/ribbingstretchfactor
-pattern: hugo
-option: ribbingStretchFactor
----
 
 This option allows you to tweak the stretch of your ribbing.
 

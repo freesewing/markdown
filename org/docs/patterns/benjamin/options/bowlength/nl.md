@@ -1,6 +1,3 @@
----
-title: Lengte strik
----
 
 Brede en smalle strikken
 

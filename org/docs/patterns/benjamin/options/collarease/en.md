@@ -1,6 +1,3 @@
----
-title: Collar ease
----
 How much ease do you use for your collar?
 
 Using the neck circumference is one part of getting a well-fitting bow tie. The other is how much collar ease you

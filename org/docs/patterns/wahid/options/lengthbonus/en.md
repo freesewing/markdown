@@ -1,6 +1,3 @@
----
-title: Length bonus
----
 
 This option allows you to lengthen (or shorten) your waistcoat.
 

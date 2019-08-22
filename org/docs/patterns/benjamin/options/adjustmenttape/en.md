@@ -1,6 +1,3 @@
----
-title: Adjustment tape
----
 
 Traditional or adjustable?
 

@@ -1,6 +1,3 @@
----
-title: Waist reduction ratio back
----
 
 ![Waist reduction ratio back](waistreductionratioback.svg)
 

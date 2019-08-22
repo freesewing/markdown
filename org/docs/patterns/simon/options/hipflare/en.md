@@ -1,6 +1,3 @@
----
-title: Hip flare
----
 
 This adds extra room below your hips.
 

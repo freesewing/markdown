@@ -1,6 +1,3 @@
----
-title: Panels
----
 ![The panels option on Cathrin](./panels.svg)
 
 This options determines how many panels will be used to make up the corset. You have the choice between:

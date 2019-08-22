@@ -1,6 +1,3 @@
----
-title: Breedte knoop
----
 
 De breedte van de knoop is de breedte in het midden van de vlinderdas, waar je de knoop maakt.
 

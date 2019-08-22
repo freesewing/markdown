@@ -1,9 +1,3 @@
----
-title: Insnede voorpand
-path: /en/docs/patterns/wahid/options/frontinset
-pattern: wahid
-option: frontInset
----
 
 Hoe ver wil je dat het armsgat van je gilet op het voorpand naar binnen gaat?
 

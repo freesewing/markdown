@@ -1,6 +1,3 @@
----
-title: Breedte elastiek
----
 
 ![De optie voor breedte elastiek bij Bruce](./elasticwidth.svg)
 

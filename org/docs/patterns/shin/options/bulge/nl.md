@@ -1,9 +1,3 @@
----
-title: Kruisstuk
-path: /en/docs/patterns/shin/options/bulge
-pattern: shin
-option: kruis
----
 
 Hoeveel ruimte wil je vooraan?
 

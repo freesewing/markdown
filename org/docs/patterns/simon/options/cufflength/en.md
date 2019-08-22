@@ -1,6 +1,3 @@
----
-title: Cuff length
----
 
 The length of your cuffs.
 

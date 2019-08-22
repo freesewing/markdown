@@ -1,6 +1,3 @@
----
-title: Waist ease
----
 
 <<<<<<< HEAD
 The amount of ease at your waist.

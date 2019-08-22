@@ -1,6 +1,3 @@
----
-title: Collarstand width
----
 
 The height of your collar stand.
 

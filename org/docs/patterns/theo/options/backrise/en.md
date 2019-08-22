@@ -1,6 +1,3 @@
----
-title: Back rise
----
 
 This raises the waist of your trousers at the back.
 

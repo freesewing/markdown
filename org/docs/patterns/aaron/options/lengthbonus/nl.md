@@ -1,6 +1,3 @@
----
-title: Bonus lengte
----
 
 ![De optie voor bonus lengte bij Aaron](./lengthbonus.svg)
 

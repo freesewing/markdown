@@ -1,6 +1,3 @@
----
-title: Extra top button
----
 
 Do you want an extra button between the top front button and collar stand button?
 

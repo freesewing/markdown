@@ -1,6 +1,3 @@
----
-title: Sleevecap ease
----
 
 Determines the amount of sleevecap ease.
 

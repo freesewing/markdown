@@ -1,6 +1,3 @@
----
-title: Buttonhole placket fold width
----
 
 The width of the fold on a classic style buttonhole placket.
 

@@ -1,6 +1,3 @@
----
-title: Stijl strik
----
 
 Vier verschillende stijlen van vlinderdas!
 

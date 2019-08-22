@@ -1,6 +1,3 @@
----
-title: Collar spread
----
 
 Controls the spread of the collar
 

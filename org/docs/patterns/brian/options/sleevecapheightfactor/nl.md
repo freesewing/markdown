@@ -1,6 +1,3 @@
----
-title: Factor hoogte mouwkop
----
 
 ![De factor voor hoogte mouwkop bij Brian](./sleevecapheightfactor.svg)
 

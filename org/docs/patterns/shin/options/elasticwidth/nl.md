@@ -1,9 +1,3 @@
----
-title: Breedte elastiek
-path: /en/docs/patterns/shin/options/elasticwidth
-pattern: shin
-option: elastiekBreedte
----
 
 > #### Waarom?
 > 

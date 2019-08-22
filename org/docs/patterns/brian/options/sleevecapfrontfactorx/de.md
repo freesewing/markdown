@@ -1,6 +1,3 @@
----
-title: Sleevecap front X
----
 
 ![The horizontal location of the front inflection point](./sleevecapfrontfactorx.svg)
 

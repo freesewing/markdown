@@ -1,6 +1,3 @@
----
-title: Back rise
----
 ![The back rise option on Bruce](./backrise.svg)
 
 How much extra rise do you want at the back?

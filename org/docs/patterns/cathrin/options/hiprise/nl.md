@@ -1,6 +1,3 @@
----
-title: Hoogte heup
----
 
 ![De optie voor heuphoogte bij Cathrin](./hiprise.svg)
 

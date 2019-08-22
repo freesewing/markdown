@@ -1,9 +1,3 @@
----
-title: Barrel cuff narrow button
-path: /en/docs/patterns/simon/options/barrelcuffnarrowbutton
-pattern: simon
-option: barrelCuffNarrowButton
----
 
 
 Do you want an extra button to button up your cuff more tightly?

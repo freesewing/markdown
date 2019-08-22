@@ -1,6 +1,3 @@
----
-title: Tip width
----
 
 The tip width is the width at the tip of the tie.
 

@@ -1,6 +1,3 @@
----
-title: Sleeve placket length
----
 
 How long do you want the sleeve placket to be?
 

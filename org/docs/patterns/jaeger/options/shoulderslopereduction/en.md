@@ -1,6 +1,3 @@
----
-title: Shoulder slope reduction
----
 
 ![Shoulder slope reduction](shoulderslopereduction.svg)
 

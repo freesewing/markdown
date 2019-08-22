@@ -1,6 +1,3 @@
----
-title: Pocket flap radius
----
 
 ![Pocket flap radius](pocketflapradius.svg)
 

@@ -1,6 +1,3 @@
----
-title: Front armhole extra cutout
----
 
 ![Front armhole extra cutout](./frontarmholedeeper.svg)
 

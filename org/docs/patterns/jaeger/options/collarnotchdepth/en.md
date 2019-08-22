@@ -1,6 +1,3 @@
----
-title: Collar notch depth
----
 
 ![Collar notch depth](collarnotchdepth.svg)
 

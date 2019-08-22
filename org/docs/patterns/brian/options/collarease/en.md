@@ -1,6 +1,3 @@
----
-title: Collar ease
----
 
 ![Collar ease](./collarease.svg)
 
