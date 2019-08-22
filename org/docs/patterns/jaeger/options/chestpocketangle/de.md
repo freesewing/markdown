@@ -1,8 +1,7 @@
 ---
 title: Chest pocket angle
-path: /en/docs/patterns/jaeger/options/chestpocketangle
-pattern: jaeger
-option: chestPocketAngle
 ---
+
+![Chest pocket angle](chestpocketangle.svg)
 
 The angle under which the chest pocket is placed.
