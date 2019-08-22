@@ -1,8 +1,7 @@
 ---
 title: Collar notch angle
-path: /en/docs/patterns/jaeger/options/collarnotchangle
-pattern: jaeger
-option: collarNotchAngle
 ---
+
+![Collar notch angle](collarnotchangle.svg)
 
 Angle of the collar notch.
