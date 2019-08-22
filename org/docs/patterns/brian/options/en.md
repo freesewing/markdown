@@ -48,7 +48,7 @@ is a trade-off between the measurments of the model, options, ease, sleevecap ea
 that the sleeve ultimately has to fit the armhole. So the height may vary, and we don't control
 the exact value. But there are two options that control the shape of our sleevecap:
 
- - [Sleevecap top X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 3
+ - [Sleevecap top X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 4
  - [Sleevecap top Y](/docs/patterns/brian/options/sleevecaptopfactory/) : Controls the vertical placement of point 4
 
 In other words, point 4 can be made higher and lower and, perhaps less intutitively, it can also
@@ -92,7 +92,7 @@ surrounding them. The offset for each point is controlled by these 4 options:
 
 <Note>
 
-We've divide our sleevecap into 4 quarters. We start at the front (the right in our example)
+We've divided our sleevecap into 4 quarters. We start at the front (the right in our example)
 with quarter 1, and make our way to the back to end with quarter 4.
 
 Like the offset option, the last options to determine the shape of our sleevecap will just repeat so you can 
@@ -125,7 +125,7 @@ to control the spread upwards, and downwards:
 
 Attentive readers will have noticed that point 4 is not an anchor point. In other words, there is no guarantee
 that it will lie on the sleevecap line. Which also means that the upwards spread in quarters 2 and 3 will influence
-the height of the sleevecap. Reduce teh upwards spread, and the curve will dip below point 4. Increase it and
+the height of the sleevecap. Reduce the upwards spread, and the curve will dip below point 4. Increase it and
 the curve will rise above it.
 
 </Note>

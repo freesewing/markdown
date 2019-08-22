@@ -1,7 +1,5 @@
 ---
-title: Ribbing height
+title: Ribbing width
 ---
 
-![Ribbing height](ribbingheight.svg)
-
-The height of the ribbing at the hem and cuffs.
+The width of the ribbing at the hem and cuffs.
