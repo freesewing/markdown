@@ -5,16 +5,16 @@ components: true
 
 ## Description
 
-The **Store** object holds a simple key/value store with methods for storing and retrieving information.  
-A single store per pattern is shared by all pattern parts.
+Het **Store** object houdt een plaats waar `key/value` paren bewaard kunnen worden, met methods voor het bewaren en terughalen van informatie.  
+Een enkele `store` wordt gedeeld per patroon.
 
-A store is typically used to share information between parts. For example the length of the neck opening in one part can be used to calculate the length for the collar in another part.
+Een `store` wordt meestal gebruikt om informatie tussen delen van een patroon beschikbaar te kunnen maken. Bij voorbeeld de lengte van de halsopening in een patroondeel kan worden gebruikt om de lengte van de kraag in een ander deel te kunnen berekenen.
 
 <Tip>
 
-###### The store is available as shorthand
+###### De `store` is beschikbaar als `shorthand`
 
-You can access the store instance from the [Part.shorthand](./part#shorthand) method;
+Je kunt de `store` instance benaderen door de [Part.shorthand](./part#shorthand) methode;
 
 ```js
 let { store } = part.shorthand();
@@ -25,23 +25,23 @@ let { store } = part.shorthand();
 ## get()
 
 ```js
-mixed store.get(string key)
+mixed store.get(string sleutel)
 ```
 
-Returnes the value stored under `key`.
+Geeft de waarde terug die onder `sleutel` opgeslagen is.
 
 ## set()
 
 ```js
-void store.set(string key, mixed value)
+void store.set(string sleutel, mixed waarde)
 ```
 
-Stores the value of `value` in the store under key `key`.
+Slaat de waarde `waarde` op in de `store` onder de sleutel `sleutel`.
 
 ## setIfUnset()
 
 ```js
-void store.setIfUnset(string key, mixed value)
+void store.setIfUnset(string sleutel, mixed waarde)
 ```
 
-Stores the value of `value` in the store under key `key`, but only if that key does not already hold a value.
+Slaat de waarde `waarde` op in de `store` onder de sleutel `sleutel`, maar alleen als die sleutel nog geen waarde heeft.
