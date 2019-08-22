@@ -1,8 +1,7 @@
 ---
 title: Breedte voorzak
-path: /en/docs/patterns/jaeger/options/frontpocketwidth
-pattern: jaeger
-option: voorZakBreedte
 ---
 
-De breedte van de voorzak, als een factor van je borstomtrek.
+![Breedte voorzak](frontpocketwidth.svg)
+
+The front of the chest pocket, as a factor of your chest circumference.
