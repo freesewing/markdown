@@ -1,8 +1,7 @@
 ---
 title: Chest pocket welt size
-path: /en/docs/patterns/jaeger/options/chestpocketweltsize
-pattern: jaeger
-option: chestPocketWeltSize
 ---
+
+![Chest pocket welt size](chestpocketweltsize.svg)
 
 The height of the chest pocket welt.
