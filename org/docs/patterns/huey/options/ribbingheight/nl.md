@@ -1,5 +1,7 @@
 ---
-title: Breedte boord
+title: Hoogte boord
 ---
 
-De breedte van de boord aan de zoom en pols.
+![Hoogte boord](ribbingheight.svg)
+
+The height of the ribbing at the hem and cuffs.
