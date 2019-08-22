@@ -1,8 +1,7 @@
 ---
-title: Roklengte
-path: /en/docs/patterns/sandy/options/length
-pattern: sandy
-option: lengte
+title: Bonus lengte
 ---
+
+![Bonus lengte](lengthbonus.svg)
 
 De lengte van de rok.
