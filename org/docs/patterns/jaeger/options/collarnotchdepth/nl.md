@@ -1,8 +1,7 @@
 ---
 title: Diepte inkeping kraag
-path: /en/docs/patterns/jaeger/options/collarnotchdepth
-pattern: jaeger
-option: kraagInkepingDiepte
 ---
 
-Diepte van de inkeping van de kraag.
+![Diepte inkeping kraag](collarnotchdepth.svg)
+
+Depth of the collar notch.
