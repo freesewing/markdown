@@ -245,7 +245,7 @@ Geeft een nieuw punt dat gespiegeld is om de Y-waarde van het punt dat je vermel
 
 Als je geen punt vermeld gebruikt het 0 (nul) voor de Y-waarde.
 
-### Point.flipX() voorbeeld
+### Point.flipY() voorbeeld
 
 <Example part="point_flipy" caption="An example of the Point.flipY() method" />
 
