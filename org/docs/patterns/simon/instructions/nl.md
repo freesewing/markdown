@@ -1,5 +1,6 @@
 ---
 title: Simon maken
+path: /en/docs/patterns/simon
 ---
 
 ## Wat je nodig hebt
@@ -118,7 +119,7 @@ Simon is een heel veelzijdig patroon, dus jouw versie kan verschillen van het vo
 
 ![Een typisch Simon patroon](layout.svg)
 
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 
 ## Constructie
 

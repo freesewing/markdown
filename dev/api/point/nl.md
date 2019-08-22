@@ -513,20 +513,20 @@ for (let i = 0; i < 10; i++) {
 ## sitsRoughlyOn()
 
 ```js
-bool point.sitsRoughlyOn(Point check)
+bool point.sitsRoughlyOn(Point controle)
 ```
 
-Returns true is the point has roughly the same coordinates as the one you pass to it.
+Geeft `true` terug als het punt ongeveer dezelfde coordinaten heeft als degene die je vermeld.
 
 <Note>
 
-###### How rough?
+###### Wat is ongeveer?
 
-The difference between this method and [Point.sitsOn](#pointsitson) is that this one rounds things down to the nearest integer (thus mm) before checking.
+Het verschil tussen deze methode en [Point.sitsOn](#pointsitson) is dat deze alles afrond naar een heel getal (en dus mm) voordat het controleerd.
 
 </Note>
 
-### Points.sitsRoughlyOn() example
+### Points.sitsRoughlyOn() voorbeeld
 
 <Example part="point_sitsroughlyon" caption="An example of the Point.sitsRoughlyOn() method" />
 
@@ -552,9 +552,9 @@ for (let i = 0; i < 10; i++) {
 Point point.copy()
 ```
 
-Returns a new point with the same coordinates as this point.
+Geeft een punt terug met dezelfde coordinaten als dit punt.
 
-### Points.copy() example
+### Points.copy() voorbeeld
 
 <Example part="point_copy" caption="An example of the Point.copy() method" />
 
@@ -562,9 +562,9 @@ Returns a new point with the same coordinates as this point.
 let { Point, points, Snippet, snippets } = part.shorthand();
 
 points.A = new Point(50, 25)
-  .attr("data-text", "Point A")
+  .attr("data-text", "Punt A")
   .attr("data-text-class", "text-xl");
-points.B = points.A.copy().attr("data-text", "Point B");
+points.B = points.A.copy().attr("data-text", "Punt B");
 
 snippets.x = new Snippet("notch", points.A);
 ```
@@ -574,17 +574,17 @@ snippets.x = new Snippet("notch", points.A);
     Point point.clone()
     
 
-Returns a new point with the same coordinates and attributes as this point.
+Geeft een punt terug met dezelfde coordinaten en attributen als dit punt.
 
 <Note>
 
 ###### Copy vs clone
 
-The `Point.copy()` method will only copy the point's coordinates, whereas this `Point.clone()` method will also copy its attributes.
+De `Point.copy()` methode copieerd alleen de coordinaten van het punt, maar `Point.clone()` methode copieerd ook de attributen.
 
 </Note>
 
-### Point.clone() example
+### Point.clone() voorbeeld
 
 <Example part="point_clone" caption="An example of the Point.clone() method" />
 
@@ -592,10 +592,10 @@ The `Point.copy()` method will only copy the point's coordinates, whereas this `
   let { Point, points, Snippet, snippets } = part.shorthand();
 
   points.A = new Point(25, 25)
-    .attr("data-text", "Point A")
+    .attr("data-text", "Punt A")
     .attr("data-text-class", "text-xl")
     .attr("data-text-fill-opacity", "0.5");
-  points.B = points.A.clone().attr("data-text", "Point B");
+  points.B = points.A.clone().attr("data-text", "Punt B");
 
   snippets.x = new Snippet("notch", points.A);
 ```

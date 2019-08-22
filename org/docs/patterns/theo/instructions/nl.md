@@ -1,5 +1,6 @@
 ---
 title: Theodore maken
+path: /en/docs/patterns/theodore
 ---
 
 ## Video
@@ -67,7 +68,7 @@ Hier is een typisch Theodore patroon:
 
 ![Een typisch Theodore patroon](layout.svg)
 
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 
 ## Constructie
 

@@ -1,5 +1,6 @@
 ---
 title: Hemming
+path: /en/docs/sewing/hemming
 ---
 
 ![The hem at the bottom of a T-shirt](coverlock-hem.jpg)

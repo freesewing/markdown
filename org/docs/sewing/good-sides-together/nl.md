@@ -1,5 +1,6 @@
 ---
 title: Goede kanten op elkaar
+path: /en/docs/sewing/good-sides-together
 ---
 
 Als ik het heb over 'goede kanten op elkaar' kan dat zowel naar knippen als naar naaien verwijzen:

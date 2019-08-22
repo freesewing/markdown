@@ -2,14 +2,14 @@
 title: Snippets
 ---
 
-Snippets are provided by plugins. Follow the links below for more info on and an example of a specific snippet:
+Snippets worden verzogd door plugins. Gebruik de links hieronder voor meer informatie en voorbeelden van specifieke snippets:
 
-| :Snippet      | :Plugin                            | :Description                                    |
-| ------------- | ---------------------------------- | ----------------------------------------------- |
-| `button`      | [plugin-buttons](/plugins/buttons) | A button                                        |
-| `buttonhole`  | [plugin-buttons](/plugins/buttons) | A buttonhole                                    |
-| `snap-male`   | [plugin-buttons](/plugins/buttons) | One half of a snap                              |
-| `snap-female` | [plugin-buttons](/plugins/buttons) | Other half of a snap                            |
-| `notch`       | [plugin-theme](/plugins/theme)     | A notch                                         |
-| `bnotch`      | [plugin-theme](/plugins/theme)     | An alternative notch, to indicate the back side |
-| `logo`        | [plugin-logo](/plugins/logo)       | The FreeSewing logo                             |
+| :Snippet      | :Plugin                            | :Beschrijving                                    |
+| ------------- | ---------------------------------- | ------------------------------------------------ |
+| `button`      | [plugin-buttons](/plugins/buttons) | Een knoop                                        |
+| `buttonhole`  | [plugin-buttons](/plugins/buttons) | Een knoopsgat                                    |
+| `snap-male`   | [plugin-buttons](/plugins/buttons) | Een helft van een drukknoop                      |
+| `snap-female` | [plugin-buttons](/plugins/buttons) | De andere helft van een drukknoop                |
+| `notch`       | [plugin-theme](/plugins/theme)     | Een inkeping                                     |
+| `bnotch`      | [plugin-theme](/plugins/theme)     | Een andere inkeping, gebruikt voor de achterkant |
+| `logo`        | [plugin-logo](/plugins/logo)       | Het FreeSewing logo                              |

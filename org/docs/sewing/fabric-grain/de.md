@@ -1,5 +1,6 @@
 ---
 title: Fabric grain
+path: /en/docs/sewing/fabric-grain
 ---
 
 ![The grainline runs parallel to the selvedge](fabric-grain.jpg)

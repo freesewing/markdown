@@ -1,5 +1,6 @@
 ---
-title: Double welt pockets
+title: Dubbele paspelzak
+path: /en/docs/sewing/double-welt-pockets
 ---
 
 > ##### Leer paspelzakken met David Page Coffin
@@ -12,13 +13,13 @@ title: Double welt pockets
 
 ## Video
 
-> Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+> Tekst een beetje te droog voor je? Ik probeer video's beschikbaar te maken als deel van de documentatie.
 
 De playlist hieronder bevat de twee delen van de reeks [How to: Double welt pockets](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn).
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn)
 
-## Before you start
+## Voor je begint
 
 ### Wat je nodig hebt
 
@@ -33,7 +34,7 @@ Om een dubbele paspelzak te maken heb je dit nodig:
 
 ### Parameters
 
-Twee waarden bepalen de afmeting van je dubbele paspelzak. They are:
+Twee waarden bepalen de afmeting van je dubbele paspelzak. Dit zijn:
 
 - Breedte van de zak: dit is de breedte van de opening van de afgewerkte dubbele paspelzak
 - Hoogte van de paspel: dit is de hoogte van één paspel, en dus de helft van de hoogte van een dubbele paspelzak

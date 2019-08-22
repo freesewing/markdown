@@ -1,18 +1,18 @@
 ---
-title: Adding points
+title: Punten toevoegen
 order: 260
 ---
 
-After using the [shorthand](/concepts/shorthand) call, `Point` contains the point constructor, while `points` is a reference to `part.points`, which is where you should store your points.
+Nadat je [shorthand](/concepts/shorthand) gebruikt hebt, heeft `Point` de constructor voor nieuwe punten, en `points` is een referentie naar `part.points`, waar je je nieuwe punten moet opslaan.
 
 Things will now *just work* when you do this:
 
 ```js
-points.centerBack  = new Point(0,0);
+points.middenAchter  = new Point(0,0);
 ```
 
 <Tip>
 
-The [Point API docs](/api/point) list many ways to create a point.
+De [Point API docs](/api/point) heeft vele methoden om punten te maken.
 
 </Tip>

@@ -1,5 +1,6 @@
 ---
 title: Shin maken
+path: /en/docs/patterns/shin
 ---
 
 ## Wat je nodig hebt
@@ -43,7 +44,7 @@ Hier is een typische layout:
 
 <img src="layout.svg" alt="Een typisch Shin patroon" title="" class="elevation-1" />
 
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 
 ## Constructie
 

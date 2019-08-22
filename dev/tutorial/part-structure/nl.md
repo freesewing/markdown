@@ -8,7 +8,7 @@ Let's get rid of the example box first. Open `src/bib.js` and make sure it looks
 ```js
 export default function(part) {
   let { Point, points, Path, paths } = part.shorthand();
-  // Design pattern here
+  // Ontwerp je patroon hier
 
   // Complete?
   if (complete) {

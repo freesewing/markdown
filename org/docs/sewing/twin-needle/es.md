@@ -1,5 +1,6 @@
 ---
 title: Twin needle
+path: /en/docs/sewing/twin-needle
 ---
 
 ![A twin needle from Schmetz](twin-needle.jpg)
