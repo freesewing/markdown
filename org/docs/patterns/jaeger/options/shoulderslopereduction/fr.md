@@ -1,8 +1,7 @@
 ---
 title: Shoulder slope reduction
-path: /en/docs/patterns/jaeger/options/shoulderslopereduction
-pattern: jaeger
-option: shoulderSlopeReduction
 ---
+
+![Shoulder slope reduction](shoulderslopereduction.svg)
 
 The amount by which the shoulder slope is reduced to allow for shoulder padding.
