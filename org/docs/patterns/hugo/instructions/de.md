@@ -1,7 +1,3 @@
----
-title: Making Hugo
-path: /en/docs/patterns/hugo
----
 
 > #### Documentation under construction
 > 

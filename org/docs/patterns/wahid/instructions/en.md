@@ -1,6 +1,3 @@
----
-title: Making Wahid
----
 
 ## What you need
 

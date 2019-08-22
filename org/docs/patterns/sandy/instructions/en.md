@@ -1,6 +1,3 @@
----
-title: Making Sandy
----
 
 > ##### Sandy is currently in beta, documentation is missing
 >

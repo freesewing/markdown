@@ -1,6 +1,3 @@
----
-title: Making Carlton
----
 
 These instructions are missing, although we have 
 [preliminary instructions for Carlita](/en/docs/patterns/carlita)

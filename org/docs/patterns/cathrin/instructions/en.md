@@ -1,6 +1,3 @@
----
-title: Making Cathrin
----
 
 > #### This documentation is incomplete
 > Cathrin is lacking documentation. Essentially, I haven't found the time to write it yet.

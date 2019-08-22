@@ -1,6 +1,3 @@
----
-title: Benjamin maken
----
 
 ## Wat je nodig hebt
 

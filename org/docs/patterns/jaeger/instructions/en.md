@@ -1,6 +1,3 @@
----
-title: Making Jaeger
----
 
 > ##### Jaeger is currently in beta, documentation is under construction
 >

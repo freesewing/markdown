@@ -1,6 +1,3 @@
----
-title: Making Trayvon
----
 
 ## What you need
 

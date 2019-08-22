@@ -1,7 +1,3 @@
----
-title: Wahid maken
-path: /en/docs/patterns/wahid
----
 
 ## Wat je nodig hebt
 

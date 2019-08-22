@@ -1,7 +1,3 @@
----
-title: Making Theodore
-path: /en/docs/patterns/theodore
----
 
 ## Video
 

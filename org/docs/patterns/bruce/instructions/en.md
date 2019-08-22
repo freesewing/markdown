@@ -1,6 +1,3 @@
----
-title: Making Bruce
----
 
 ### Video
 We have a video series that shows how to make Bruce:

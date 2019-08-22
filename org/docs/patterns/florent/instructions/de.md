@@ -1,7 +1,3 @@
----
-title: Making Florent
-path: /en/docs/patterns/florent
----
 
 ## What you need
 

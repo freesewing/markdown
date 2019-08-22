@@ -1,3 +1,0 @@
----
-title: Aaron A-shirt
----

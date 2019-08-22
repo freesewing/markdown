@@ -1,3 +1,0 @@
----
-title: Bent body block
----

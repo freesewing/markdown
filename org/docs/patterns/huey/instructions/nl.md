@@ -1,7 +1,3 @@
----
-title: Huey maken
-path: /en/docs/patterns/huey
----
 
 > ##### Huey is momenteel een betapatroon, de documentatie ontbreekt
 > 

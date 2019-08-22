@@ -1,4 +1,1 @@
----
-title: Bruce boxer briefs
----
 

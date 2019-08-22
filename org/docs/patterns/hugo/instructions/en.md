@@ -1,6 +1,3 @@
----
-title: Making Hugo
----
 
 > #### Documentation under construction
 > First the good news: There's a video series that shows how to make Hugo from start to finish.

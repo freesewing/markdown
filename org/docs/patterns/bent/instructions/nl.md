@@ -1,6 +1,3 @@
----
-title: Bent maken
----
 
 ## Bent is een basis, geen patroon
 

@@ -1,6 +1,3 @@
----
-title: Making Shin
----
 
 ## What you need
 

@@ -1,7 +1,3 @@
----
-title: Making Trayvon
-path: /en/docs/patterns/trayvon
----
 
 ## What you need
 

@@ -1,6 +1,3 @@
----
-title: Making Simon
----
 
 ## What you need
 

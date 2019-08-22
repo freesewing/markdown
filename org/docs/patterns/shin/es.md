@@ -1,4 +1,1 @@
----
-title: Shin swim trunks
----
 

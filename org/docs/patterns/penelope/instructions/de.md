@@ -1,7 +1,3 @@
----
-title: Making Penelope
-path: /en/docs/patterns/penelope
----
 
 > #### This documentation is incomplete
 > 

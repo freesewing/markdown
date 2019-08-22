@@ -1,6 +1,3 @@
----
-title: Making Florent
----
 
 ## What you need
 

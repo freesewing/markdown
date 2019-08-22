@@ -1,4 +1,1 @@
----
-title: Bent basisvorm
----
 

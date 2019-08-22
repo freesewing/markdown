@@ -1,6 +1,3 @@
----
-title: Making Sven
----
 
 ## What you need
 

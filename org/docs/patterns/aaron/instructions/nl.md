@@ -1,6 +1,3 @@
----
-title: Aaron maken
----
 
 ## Stap 1: Sluit de naden
 

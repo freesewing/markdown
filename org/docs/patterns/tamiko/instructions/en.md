@@ -1,6 +1,3 @@
----
-title: Making Tamiko
----
 
 ## What you need
 
