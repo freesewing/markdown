@@ -1,8 +1,7 @@
 ---
 title: Start revers
-path: /en/docs/patterns/jaeger/options/lapelstart
-pattern: jaeger
-option: reversStart
 ---
 
-Locatie van het breekpunt van de revers (waar de opening vooraan start). Lagere waarden liggen dichter bij de taille, hogere waarden dichter bij de borst.
+![Start revers](lapelstart.svg)
+
+Location of the lapel break point (where the front opening starts). Lower values are closer to the waistline, higher values closer to the chestline.
