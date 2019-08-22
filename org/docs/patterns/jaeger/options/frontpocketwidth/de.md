@@ -1,8 +1,7 @@
 ---
 title: Front pocket width
-path: /en/docs/patterns/jaeger/options/frontpocketwidth
-pattern: jaeger
-option: frontPocketWidth
 ---
+
+![Front pocket width](frontpocketwidth.svg)
 
 The front of the chest pocket, as a factor of your chest circumference.
