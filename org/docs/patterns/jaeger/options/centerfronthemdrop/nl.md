@@ -1,8 +1,7 @@
 ---
 title: Verlaging zoom vooraan
-path: /en/docs/patterns/jaeger/options/centerfronthemdrop
-pattern: jaeger
-option: middenVoorZoomLaag
 ---
 
-Hoeveel langer/lager wil je dat de voorkant van je jasje is dan de achterkant?
+![Verlaging zoom vooraan](centerfronthemdrop.svg)
+
+How much do you want the front of your jacket to be longer/lower than the back?
