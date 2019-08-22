@@ -1,8 +1,7 @@
 ---
 title: Factor hoogte mouwkop
-path: /en/docs/patterns/jaeger/options/sleevecapheightfactor
-pattern: jaeger
-option: mouwkopHoogteFactor
 ---
+
+![Factor hoogte mouwkop](sleevecapheightfactor.svg)
 
 Deze factor bepaalt de hoogte van de mouwkop.
