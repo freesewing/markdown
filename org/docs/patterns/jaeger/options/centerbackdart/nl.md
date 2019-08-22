@@ -1,8 +1,7 @@
 ---
-title: Nekreductie
-path: /en/docs/patterns/jaeger/options/neckreduction
-pattern: jaeger
-option: nekReductie
+title: Middenrug neep
 ---
 
-De grootte van de neep aan de middenrug, die aanpast voor een bolle hoge rug.
+![Middenrug neep](centerbackdart.svg)
+
+The reduction at the center back from shoulders to neck, which accomodates for a curved upper back.
