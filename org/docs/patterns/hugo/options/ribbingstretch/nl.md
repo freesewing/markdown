@@ -1,9 +1,13 @@
 ---
-title: Stretchfactor Boord
+title: Ribbing stretch
 ---
 
 Met deze optie kan je de stretch van je boord aanpassen.
 
-Als je (bijvoorbeeld) 90% kiest, tekenen we voor elke 10 cm boord maar 9 cm. Zo wordt 9 cm boord uitgerokken tot 10 cm, en daarom noemen we dit een stretchpercentage van 90%.
+Als je (bijvoorbeeld) 90% kiest, tekenen we voor elke 10 cm boord maar 9 cm. This way, 9cm of ribbing will be stretched to 10cm.
 
-> Als je niet zeker bent wat te kiezen, neem dan best de boordstof die je wil gebruiken en kijk hoeveel stof je nodig hebt om met een *goede* rek tot 10 cm te geraken.
+<Note>
+
+If you're not sure what to pick, best is to take the ribbing you are going to use see how much of it you need to stretch out to get to 10 cm with a *good* stretch.
+
+</Note>
