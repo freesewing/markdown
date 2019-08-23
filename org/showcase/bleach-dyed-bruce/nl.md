@@ -8,14 +8,18 @@ patterns:
 author: 'Alderrr'
 ---
 
-![De achterkant van de boxershort hierboven](/img/showcase/bleach-dyed-bruce/1-back.jpg)
+![De achterkant van de boxershort hierboven](1-back.jpg)
 
-![De voorkant van een tweede](/img/showcase/bleach-dyed-bruce/2-front.jpg)
+![De voorkant van een tweede](2-front.jpg)
 
-![De achterkant van een tweede](/img/showcase/bleach-dyed-bruce/2-back.jpg)
+![De achterkant van een tweede](2-back.jpg)
 
-> ##### Zie het origineel op Tumblr
-> 
-> Deze foto's komen uit [deze Tumblr post](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear) op de [blog](http://alderrr.tumblr.com/) van [@Alderrr](/users/Alderrr).
-> 
-> Ze werden hier gepost met toestemming.
+<Note>
+
+###### See the original on Tumblr
+
+These were taken from [this Tumblr post](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear) on [the blog](http://alderrr.tumblr.com/) of [@Alderrr](/users/Alderrr).
+
+Ze werden hier gepost met toestemming.
+
+</Note>
