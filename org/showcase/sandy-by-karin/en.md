@@ -2,12 +2,13 @@
 date: 2018-11-18
 title: Sandy by Karin
 img: showcase.jpg
+caption: Karin poses by the water in her new skirt
 patterns: [sandy]
 author: karinkay
 ---
 
 After 
-[her previous showcase of Hugo](/en/showcase/hugo-by-karin)
+[her previous showcase of Hugo](/showcase/hugo-by-karin)
 , Karin is back with another freesewing make:
 this Sandy skirt.
 

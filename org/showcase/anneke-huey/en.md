@@ -6,10 +6,14 @@ caption: "Anneke seen here wearing Huey, while simultaniously smashing the patri
 patterns: [huey]
 author: AnnekeCaramin
 ---
-![View of the inside](/img/showcase/anneke-huey/facing.jpg)
+![View of the inside](facing.jpg)
 
-> #### See the original on Anneke's blog
-> This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) 
-> on [annekecaramin.com](http://www.annekecaramin.com/).
->
-> It is reposted here with permission.
+<Note>
+
+###### See the original on Anneke's blog
+This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) 
+on [annekecaramin.com](http://www.annekecaramin.com/).
+
+It is reposted here with permission.
+
+</Note>

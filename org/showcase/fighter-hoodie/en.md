@@ -6,17 +6,21 @@ caption: "Anne's husband Sigvard is a trainer at <a target='_BLANK' href='http:/
 patterns: [hugo]
 author: Topstithed
 ---
-![Another view](/img/showcase/fighter-hoodie/1.jpg)
+![Another view](1.jpg)
 
-![Another view](/img/showcase/fighter-hoodie/2.jpg)
+![Another view](2.jpg)
  
-![Another view](/img/showcase/fighter-hoodie/3.jpg)
+![Another view](3.jpg)
 
-![Another view](/img/showcase/fighter-hoodie/4.jpg)
+![Another view](4.jpg)
 
-> #### See the original on [@Topstitched](/users/Topstitched)'s blog
-> These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) 
-> blog post on [topstitched.net](http://www.topstitched.net/).
->
-> They are reposted here with permission.
+<Note>
+
+###### See the original on [@Topstitched](/users/Topstitched)'s blog
+These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) 
+blog post on [topstitched.net](http://www.topstitched.net/).
+
+They are reposted here with permission.
+
+</Note>
 
