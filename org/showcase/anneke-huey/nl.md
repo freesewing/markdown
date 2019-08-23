@@ -8,10 +8,14 @@ patterns:
 author: AnnekeCaramin
 ---
 
-![Zicht op de binnenkant](/img/showcase/anneke-huey/facing.jpg)
+![Zicht op de binnenkant](facing.jpg)
 
-> #### Zie het origineel op de blog van Anneke
-> 
-> Deze post [verscheen eerst](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) op [annekecaramin.com](http://www.annekecaramin.com/).
-> 
-> Hij werd hier gepost met toestemming.
+<Note>
+
+###### See the original on Anneke's blog
+
+This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) on [annekecaramin.com](http://www.annekecaramin.com/).
+
+Hij werd hier gepost met toestemming.
+
+</Note>
