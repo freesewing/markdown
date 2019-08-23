@@ -8,16 +8,20 @@ patterns:
 author: Topstitched
 ---
 
-![Een andere kant](/img/showcase/fighter-hoodie/1.jpg)
+![Een andere kant](1.jpg)
 
-![Een andere kant](/img/showcase/fighter-hoodie/2.jpg)
+![Een andere kant](2.jpg)
 
-![Een andere kant](/img/showcase/fighter-hoodie/3.jpg)
+![Een andere kant](3.jpg)
 
-![Een andere kant](/img/showcase/fighter-hoodie/4.jpg)
+![Een andere kant](4.jpg)
 
-> #### Zie het origineel op de blog van [@Topstitched](/users/Topstitched)
-> 
-> Deze foto's zijn van de blogpost [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) op [topstitched.net](http://www.topstitched.net/).
-> 
-> Ze werden hier gepost met toestemming.
+<Note>
+
+###### See the original on [@Topstitched](/users/Topstitched)'s blog
+
+These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) blog post on [topstitched.net](http://www.topstitched.net/).
+
+Ze werden hier gepost met toestemming.
+
+</Note>
