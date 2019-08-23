@@ -8,7 +8,7 @@ patterns:
 author: wouter.vdub
 ---
 
-![View of the back ](/img/showcase/florent-by-wouter-vdub/high_back.jpg) ![View of the front](/img/showcase/florent-by-wouter-vdub/high_front.jpg)
+![View of the back ](high_back.jpg) ![View of the front](high_front.jpg)
 
 Wouter writes:
 
