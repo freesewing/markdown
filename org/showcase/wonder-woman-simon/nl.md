@@ -8,8 +8,12 @@ patterns:
 author: 'MyxterHyde'
 ---
 
-![](/img/showcase/wonder-woman-simon/view2.jpg) ![](/img/showcase/wonder-woman-simon/view3.jpg) ![](/img/showcase/wonder-woman-simon/view4.jpg) ![](/img/showcase/wonder-woman-simon/view5.jpg)
+![Een andere kant](view2.jpg) ![Een andere kant](view3.jpg) ![Een andere kant](view4.jpg) ![Een andere kant](view5.jpg)
 
-> ##### Zie het origineel in de Instagram feed van funloveadventure
-> 
-> Deze foto's komen van de [Instagram feed](https://www.instagram.com/myxterhyde/) van [@MyxterHyde](/users/MyxterHyde). They are published here with permission.
+<Note>
+
+###### Zie het origineel in de Instagram feed van funloveadventure
+
+These images are from [the Instagram feed](https://www.instagram.com/myxterhyde/) of [@MyxterHyde](/users/MyxterHyde). They are published here with permission.
+
+</Note>
