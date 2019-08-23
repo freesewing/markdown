@@ -8,16 +8,20 @@ patterns:
 author: ecmtts
 ---
 
-![Model + lintmeter](/img/showcase/matching-simon/view2.jpg)
+![Model + lintmeter](view2.jpg)
 
-![Deze stof is prachtig](img/showcase/matching-simon/view3.jpg)
+![Deze stof is prachtig](view3.jpg)
 
-![Schouderhelling](/img/showcase/matching-simon/view4.jpg)
+![Schouderhelling](view4.jpg)
 
-![Achterkant](/img/showcase/matching-simon/view5.jpg)
+![Achterkant](view5.jpg)
 
-![Hallo camera](/img/showcase/matching-simon/view6.jpg)
+![Hallo camera](view6.jpg)
 
-> ##### Zie het origineel in de Instagram feed van ecmtts
-> 
-> Deze foto's komen van de [Instagram feed](https://www.instagram.com/ecmtts/) van [@ericamattos](/users/ericamattos). They are published here with permission.
+<Note>
+
+###### See the originals on the Instragram feed of ecmtts
+
+These images are from [the Instagram feed](https://www.instagram.com/ecmtts/) of [@ericamattos](/users/ericamattos). They are published here with permission.
+
+</Note>
