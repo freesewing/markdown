@@ -8,7 +8,7 @@ patterns:
 author: wouter.vdub
 ---
 
-![Zicht op de achterkant ](/img/showcase/florent-by-wouter-vdub/high_back.jpg) ![Zicht op de voorkant](/img/showcase/florent-by-wouter-vdub/high_front.jpg)
+![Zicht op de achterkant ](high_back.jpg) ![Zicht op de voorkant](high_front.jpg)
 
 Wouter schrijft:
 
