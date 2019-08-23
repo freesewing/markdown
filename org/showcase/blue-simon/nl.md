@@ -8,14 +8,16 @@ patterns:
 author: K
 ---
 
-![Zicht op de voorkant](/img/showcase/blue-simon/front.jpg)
+![Zicht op de voorkant](front.jpg)
 
-![Zicht op de achterkant](/img/showcase/blue-simon/back.jpg)
+![Zicht op de achterkant](back.jpg)
 
-> #### Zie het origineel op Instagram
-> 
-> Deze post [verscheen eerst](https://www.instagram.com/p/BZ6X2CkjZor/) op de [Instagram feed van feelinmyoats](https://www.instagram.com/feelinmyoats/).
-> 
-> Hij werd hier gepost met toestemming.
+<Note>
 
-FIXME: Who is this user?
+###### Zie het origineel op Instagram
+
+This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
+
+Hij werd hier gepost met toestemming.
+
+</Note>
