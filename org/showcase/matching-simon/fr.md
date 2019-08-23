@@ -8,16 +8,20 @@ patterns:
 author: ecmtts
 ---
 
-![Model + tapemeasure](/img/showcase/matching-simon/view2.jpg)
+![Model + tapemeasure](view2.jpg)
 
-![That fabric is gorgeous](img/showcase/matching-simon/view3.jpg)
+![That fabric is gorgeous](view3.jpg)
 
-![Shoulder slope](/img/showcase/matching-simon/view4.jpg)
+![Shoulder slope](view4.jpg)
 
-![View from the back](/img/showcase/matching-simon/view5.jpg)
+![View from the back](view5.jpg)
 
-![Hi camera](/img/showcase/matching-simon/view6.jpg)
+![Hi camera](view6.jpg)
 
-> ##### See the originals on the Instragram feed of ecmtts
-> 
-> These images are from [the Instagram feed](https://www.instagram.com/ecmtts/) of [@ericamattos](/users/ericamattos). They are published here with permission.
+<Note>
+
+###### See the originals on the Instragram feed of ecmtts
+
+These images are from [the Instagram feed](https://www.instagram.com/ecmtts/) of [@ericamattos](/users/ericamattos). They are published here with permission.
+
+</Note>
