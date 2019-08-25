@@ -10,4 +10,4 @@ patterns:
 author: Tiger751023
 ---
 
-![Outfit door Paul](/img/showcase/outfit-wahid-theo-simon-by-paul/high_back.jpg)
+![Outfit door Paul](high_back.jpg)

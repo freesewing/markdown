@@ -1,2 +1,4 @@
 
-Hoe hoog de breuklijn van de kraag in de nek valt.
+![Hoogte breuklijn kraag](rolllinecollarheight.svg)
+
+The amount by which the roll line hugs the neck.

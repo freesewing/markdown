@@ -2,7 +2,7 @@
 date: 2019-02-24
 title: A hacked Hugo by Lainey
 img: showcase.jpg
-caption: An Aaron A-shirt by Joost
+caption: A hacked Hugo by Lainey
 patterns: [hugo]
 author: iggyblade
 ---

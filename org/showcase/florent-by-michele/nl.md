@@ -8,4 +8,4 @@ patterns:
 author: swissarmywife
 ---
 
-![](/img/showcase/florent-by-michele/24.jpg) ![](/img/showcase/florent-by-michele/25.jpg) ![](/img/showcase/florent-by-michele/27.jpg) ![](/img/showcase/florent-by-michele/31.jpg) ![](/img/showcase/florent-by-michele/38.jpg) ![](/img/showcase/florent-by-michele/43.jpg) ![](/img/showcase/florent-by-michele/46.jpg)
+![Een andere kant](24.jpg) ![Een andere kant](25.jpg) ![Een andere kant](27.jpg) ![Een andere kant](31.jpg) ![Een andere kant](38.jpg) ![Een andere kant](43.jpg) ![Een andere kant](46.jpg)

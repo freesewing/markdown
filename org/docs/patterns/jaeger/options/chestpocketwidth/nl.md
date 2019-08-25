@@ -1,2 +1,4 @@
 
-De breedte van de borstzak, uitgedrukt als een percentage van je borstomtrek.
+![Borstzakbreedte](chestpocketwidth.svg)
+
+The width of the chest pocket, as a factor of your chest circumference.

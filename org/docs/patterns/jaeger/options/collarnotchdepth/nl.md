@@ -1,2 +1,4 @@
 
-Diepte van de inkeping van de kraag.
+![Diepte inkeping kraag](collarnotchdepth.svg)
+
+Depth of the collar notch.

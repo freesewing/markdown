@@ -1,2 +1,4 @@
 
-Dit is de hoogte van de kraag aan de achterkant van de nek. Dit kan nooit minder zijn dan twee keer de kraaghoogte tot aan de breuklijn.
+![Hoogte kraag](collarheight.svg)
+
+This is the collar height at the back of the neck and can never be less than twice the roll line collar height.

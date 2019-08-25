@@ -8,10 +8,14 @@ patterns:
 author: Buster
 ---
 
-![Is deze gequilte jersey die Andrew gebruikte niet geweldig](/img/showcase/quilted-jersey-huey/high_detail.jpg)
+![Is deze gequilte jersey die Andrew gebruikte niet geweldig](high_detail.jpg)
 
-> ##### Meer foto's en info in de originele blogpost
-> 
-> Deze foto [verscheen eerst](https://mensew.wordpress.com/2017/12/10/hugo-hoodie-freesewing-org/) op [@Buster](/users/Buster)'s [MenSew](https://mensew.wordpress.com/) blog. Hij werd hier gepost met toestemming.
-> 
-> Lees zeker de blogpost, er staan veel meer foto's in en hij schrijft over zijn ervaring met [freesewing.org](/).
+<Note>
+
+###### More pictures and info in the original blog post
+
+This picture [originally appeared](https://mensew.wordpress.com/2017/12/10/hugo-hoodie-freesewing-org/) on [@Buster](/users/Buster)'s [MenSew](https://mensew.wordpress.com/) blog. It is reposted here with persmission.
+
+Do check out the blog post for there are loads more pictures and he also writes about his experience using [freesewing.org](/).
+
+</Note>

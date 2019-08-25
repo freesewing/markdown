@@ -53,7 +53,7 @@ let {
 } = part.shorthand();
 ```
 
-## Adding snippets
+## Snippets toevoegen
 
 Snippets zijn kleine, herbruikbare dingen die je aan je patroon toevoegt, zoals knopen en knoopsgaten, een logo of een markering voor drukknopen:
 

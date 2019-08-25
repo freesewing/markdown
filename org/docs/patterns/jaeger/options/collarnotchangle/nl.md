@@ -1,2 +1,4 @@
 
-Hoek van de inkeping van de kraag.
+![Hoek inkeping kraag](collarnotchangle.svg)
+
+Angle of the collar notch.

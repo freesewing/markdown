@@ -1,4 +1,6 @@
 
+![Back vent](backvent.svg)
+
 How do you like your back vents?
 
 - Two back vents (shown on the left)

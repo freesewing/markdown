@@ -1,2 +1,4 @@
 
-Locatie van de naad tussen zij- en voorpand in verhouding met je borstomtrek. Een hoger cijfer zorgt voor een wijder zijpand.
+![Zij- voorpand plaatsing](sidefrontplacement.svg)
+
+Location of the front/side boundary as a proportion of your chest circumference. Higher numbers make a wider side panel.

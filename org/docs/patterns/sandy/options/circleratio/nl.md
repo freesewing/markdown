@@ -1,2 +1,4 @@
 
-Het percentage van een cirkelrok. 100% maakt een volledige cirkelrok, 50% een halve cirkelrok.
+![Circle ratio](circleratio.svg)
+
+The percent of a circle skirt. 100% makes a full circle skirt, 50% makes a half circle skirt.
