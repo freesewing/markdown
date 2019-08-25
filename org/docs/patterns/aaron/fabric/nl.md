@@ -1,3 +1,6 @@
+---
+title: Stofkeuze
+---
 
 Dit mouwloze hemdje is in essentie ondergoed. Zodoende wil je hiervoor iets dat comfortabel is, aangenaam tegen je huid zit en ademt.
 
