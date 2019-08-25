@@ -1,3 +1,6 @@
+---
+title: Fabric options
+---
 
 An A-shirt is essentially underwear. And in that capacity, you want something that is comfortable, feels nice on your skin and breaths.
 
