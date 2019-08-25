@@ -1,3 +1,7 @@
+---
+title: Making Jaeger
+path: /en/docs/patterns/jaeger
+---
 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
@@ -212,7 +216,7 @@ Time to feel like a real tailor, and pad-stitch those lapels.
 
 Make sure to make the stitches a bit smaller towards the lapel tip, to make sure it lies flat against the chest, curling a bit inward instead of outward.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/chat) and we'll make an attempt to document it.
+> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/freesewing) and we'll make an attempt to document it.
 
 #### Tape the lapel edge and roll line
 
