@@ -1,3 +1,7 @@
+---
+title: Shin maken
+path: /en/docs/patterns/shin
+---
 
 ## Wat je nodig hebt
 
