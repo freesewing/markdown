@@ -9,7 +9,7 @@ ranked by how well they scale:
 The freesewing community on Gitter is the best place to ask questions, 
 meet other freesewers, or just hang out and share a laugh.
 
- - [Chat with us on Gitter](https://gitter.im/freesewing/freesewing)
+ - [Chat with us on Gitter](https://gitter.im/freesewing/chat)
 
 ## Create an issue on GitHub
 

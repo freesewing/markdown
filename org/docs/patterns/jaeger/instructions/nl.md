@@ -212,7 +212,7 @@ Tijd om je een echte kleermaker te voelen, en die revers te pikeren zoals ze nog
 
 Let op dat je de steken een beetje kleiner maakt naar de punt van de revers toe, zodat ze plat tegen de borst liggen, naar binnen krullend in plaats van naar buiten.
 
-> Als je niet zeker bent hoe pikeren werkt, [laat het ons weten](https://gitter.im/freesewing/freesewing) en we zullen een poging doen om het te documenteren.
+> Als je niet zeker bent hoe pikeren werkt, [laat het ons weten](https://gitter.im/freesewing/chat) en we zullen een poging doen om het te documenteren.
 
 #### Revers contouren en breuklijn
 

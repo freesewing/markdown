@@ -8,7 +8,7 @@ Je kan ons contacteren op meer dan één manier. Hier zijn je verschillende moge
 
 De FreeSewing gemeenschap op Gitter is de beste plek om vragen te stellen, andere FreeSewers te ontmoeten, of gewoon een praatje te slaan.
 
-- [Chat met ons via Gitter](https://gitter.im/freesewing/freesewing)
+- [Chat met ons via Gitter](https://gitter.im/freesewing/chat)
 
 ## Maak een issue aan via Github
 

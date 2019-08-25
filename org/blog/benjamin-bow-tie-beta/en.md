@@ -30,7 +30,7 @@ been teaching himself the ins and outs of the freesewing platform:
 > 
 > That I was able to pick things up so easily is due mostly to the great 
 > [BabyBib tutorial](/docs/designer/tutorial/part-1) 
-> and the help you've provided [here](https://gitter.im/freesewing/freesewing).
+> and the help you've provided [here](https://gitter.im/freesewing/chat).
 
 ## Who will be next to contribute a pattern?
 

@@ -27,7 +27,7 @@ Benjamin is a bow tie, and as I explained in [the announcement blog post](/en/bl
 
 That's because it's the first ever pattern to have been contributed by the community. More specifically, it was [Wouter](/users/xdpug) who designed and programmed the pattern.
 
-So shout-out to him for being the first person to contribute a pattern. And if you [hang around in the freesewing chat room](https://gitter.im/freesewing/freesewing), you know that he's already started working on his next pattern.
+So shout-out to him for being the first person to contribute a pattern. And if you [hang around in the freesewing chat room](https://gitter.im/freesewing/chat), you know that he's already started working on his next pattern.
 
 ### Better user on-boarding
 

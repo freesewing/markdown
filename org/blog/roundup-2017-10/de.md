@@ -23,14 +23,14 @@ Huey is a zip-up hoodie, have a look at [the Huey showcase page](/showcase/patte
 
 ### Community building
 
-Freesewing is slowly evolving into a communal effort. The [freesewing channel on Gitter](https://gitter.im/freesewing/freesewing) is turning into a rather chatty place, which is really wonderful to see.
+Freesewing is slowly evolving into a communal effort. The [freesewing channel on Gitter](https://gitter.im/freesewing/chat) is turning into a rather chatty place, which is really wonderful to see.
 
 Furthermore, a number of people are taking a stab at designing their own patterns with freesewing. I think that's very exciting and I'm looking forward to the day we'll all be able to enjoy the fruits of that labour.
 
 Meanwhile, people are also helping out with the site, suggesting fixes and improvements left and right, and [Wouter](/users/xdpug) even added an entire page on [Git basics](/docs/git-basics) which should be a great stepping stone for people who like him want to get involved, but lack prior experience with Git (and GitHub).
 
 Needless to say, I am very appreciative of all contributions big and small.  
-If you'd like to get involved, [come say hi](https://gitter.im/freesewing/freesewing).
+If you'd like to get involved, [come say hi](https://gitter.im/freesewing/chat).
 
 ### Cover pages for patterns
 
