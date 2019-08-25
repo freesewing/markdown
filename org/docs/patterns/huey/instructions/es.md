@@ -1,3 +1,7 @@
+---
+title: Making Huey
+path: /en/docs/patterns/huey
+---
 
 > ##### Huey is currently in beta, documentation is missing
 > 
