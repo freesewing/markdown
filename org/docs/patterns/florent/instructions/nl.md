@@ -1,3 +1,7 @@
+---
+title: Florent maken
+path: /en/docs/patterns/florent
+---
 
 ## Wat je nodig hebt
 
