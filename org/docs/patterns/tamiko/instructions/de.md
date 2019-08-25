@@ -1,3 +1,7 @@
+---
+title: Making Tamiko
+path: /en/docs/patterns/tamiko
+---
 
 ## What you need
 
