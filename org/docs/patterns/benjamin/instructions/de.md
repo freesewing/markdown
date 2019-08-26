@@ -1,3 +1,6 @@
+---
+title: Making Benjamin
+---
 
 ## What you need
 

@@ -1,3 +1,7 @@
+---
+title: Making Sandy
+path: /en/docs/patterns/sandy
+---
 
 > ##### Sandy is currently in beta, documentation is missing
 > 

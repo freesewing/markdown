@@ -1,3 +1,7 @@
+---
+title: Hugo maken
+path: /en/docs/patterns/hugo
+---
 
 > #### Documentatie onder constructie
 > 

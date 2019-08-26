@@ -1,3 +1,7 @@
+---
+title: Trayvon maken
+path: /en/docs/patterns/trayvon
+---
 
 ## Wat je nodig hebt
 
