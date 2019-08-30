@@ -1,5 +1,5 @@
 ---
-title: Drawing the straps
+title: De koordjes tekenen
 order: 230
 ---
 
