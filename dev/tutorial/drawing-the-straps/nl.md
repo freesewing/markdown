@@ -3,9 +3,9 @@ title: De koordjes tekenen
 order: 230
 ---
 
-All we have to do know is flip a bunch of points on the other side, and create one single path that follows our bib outline.
+Al wat we nu nog moeten doen, is een hoop punten spiegelen aan de andere kant en één pad maken dat de omtrek van het slabbetje volgt.
 
-First, let's create the points:
+Eerst maken we de punten:
 
 ```js
 points.edgeTopRightCp = points.edgeTopLeftCp.flipX();
@@ -21,7 +21,7 @@ points.tipLeftBottomEnd = points.tipRightBottomEnd.flipX();
 points.snapRight = points.snapLeft.flipX();
 ```
 
-Now, remove the `neck` and `rect` paths that we created earlier, and replace them with this new path:
+Nu verwijder je de paden `neck` en `rect` die we eerder gemaakt hebben, en vervang je ze door dit nieuwe pad:
 
 ```js
 paths.seam = new Path()
@@ -83,14 +83,14 @@ paths.seam = new Path()
   .attr("class", "fabric");
 ```
 
-With that out of the way, our bib now looks like this:
+Nu we dat uit de weg hebben, ziet het slabbetje er zo uit:
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
 <Note>
 
-We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black, it doesn't look much different. We'll use some other classes later that will make its effect more clear.
+We hebben de methode `part.attr()` gebruikt als stijl voor het pad. Maar omdat de klasse `fabric` in het zwart getekend is, ziet het er niet echt verschillend uit. Later gaan we een paar andere klasses gebruiken die het effect duidelijker maken.
 
 </Note>
 
-It's looking pretty good. But those sharp corners at the bottom don't exactly say *baby* do they? Let's fix that.
+Het ziet er best goed uit. Maar die scherpe hoeken aan de onderkant schreeuwen nu niet echt *baby*, of wel? Daar gaan we iets aan doen.
