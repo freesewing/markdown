@@ -33,9 +33,9 @@ let width = measurements.headCircumference * options.widthRatio;
 let length = measurements.headCircumference * options.lengthRatio;
 ```
 
-Zowel de lengte als de breedte van het slabbetje zijn een factor van de hoofdomtrek. This way, your bib size will adapt to the size of the baby, and the user can tweak the length and width by playing with the options you added to the pattern.
+Zowel de lengte als de breedte van het slabbetje zijn een factor van de hoofdomtrek. Op die manier past het formaat van het slabbetje zich automatisch aan. Grotere baby? Groter slabbetje. De gebruiker kan de lengte en breedte aanpassen door te spelen met de opties die je aan het patroon hebt toegevoegd.
 
-Once we have our variables, we're adding some new points, and a second path called `rect`.
+Zodra we onze variabelen hebben ingesteld, voegen we een paar nieuwe punten toe en een tweede pad met de naam `rect`.
 
 ```js
 points.topLeft = new Point(
@@ -55,8 +55,8 @@ paths.rect = new Path()
   .close();
 ```
 
-We're calculating the `topLeft` point so that the top edge of our bib and the sides are equidistant from the neck neck opening.
+We berekenen het punt `topLeft` zodat de bovenkant van het slabbetje en de zijkanten op dezelfde afstand liggen van de halsopening.
 
-You didn't have to do that. But it looks nicely balanced this way:
+Dat was niet echt nodig. Maar het ziet er wel mooi evenwichtig uit:
 
 <Example pattern="tutorial" part="step5" caption="Note how the neck opening is the same distance from the left, right, and top edge" />
