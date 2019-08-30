@@ -1,3 +1,6 @@
+---
+title: What you need
+---
 
 To make Aaron, you will need the following:
 

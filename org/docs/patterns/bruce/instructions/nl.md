@@ -1,3 +1,7 @@
+---
+title: Bruce maken
+path: /en/docs/patterns/bruce
+---
 
 ### Video
 
