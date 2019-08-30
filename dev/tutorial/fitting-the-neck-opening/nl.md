@@ -1,5 +1,5 @@
 ---
-title: Fitting the neck opening
+title: De halsopening aanpassen
 order: 170
 ---
 
