@@ -1,9 +1,9 @@
 ---
-title: Drawing the bib outline
+title: De omtrek van het slabbetje schetsen
 order: 190
 ---
 
-With our neck opening in place, let's draw basic outline of our bib:
+Nu we een halsopening gemaakt hebben, is het tijd om de omtrek van het slabbetje te schetsen:
 
 ```js
 let width = measurements.headCircumference * options.widthRatio;
@@ -26,14 +26,14 @@ paths.rect = new Path()
   .close();
 ```
 
-Firs thing we did was create the `width` and `length` variables to save ourselves some typing:
+Eerst hebben we de variabelen voor breedte (`width`) en lengte (`length`) aangemaakt om onszelf wat typwerk te besparen:
 
 ```js
 let width = measurements.headCircumference * options.widthRatio;
 let length = measurements.headCircumference * options.lengthRatio;
 ```
 
-Both the length and width of your bib are a factor of the head circumference. This way, your bib size will adapt to the size of the baby, and the user can tweak the length and width by playing with the options you added to the pattern.
+Zowel de lengte als de breedte van het slabbetje zijn een factor van de hoofdomtrek. This way, your bib size will adapt to the size of the baby, and the user can tweak the length and width by playing with the options you added to the pattern.
 
 Once we have our variables, we're adding some new points, and a second path called `rect`.
 
