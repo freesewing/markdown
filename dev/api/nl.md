@@ -3,11 +3,11 @@ title: API Reference
 order: 500
 ---
 
-Freesewing exports a single object with the following properties:
+Freesewing geeft een enkel object terug met de volgende eigenschappen:
 
-- `version`: A string containing the FreeSewing version number
+- `version`: Een string met het FreeSewing versie nummer
 
-In addition, FreeSewing's default export exposes the following method:
+En FreeSewing's standaard export geeft toegang tot de volgende methode:
 
 - `Design()`: A *super-constructor* to create new pattern designs.
 
