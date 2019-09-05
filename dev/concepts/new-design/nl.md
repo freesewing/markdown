@@ -1,11 +1,11 @@
 ---
-title: Creating a new pattern design
+title: Maken van een nieuw patroon
 order: 200
 ---
 
-To create a new pattern, call `new freesewing.Design()`. It takes your pattern configuration, and any plugins you want to load as parameters.
+Om een nieuw patroon te maken, roep de methode `new freesewing.Design()` aan. Het neemt de patroon configuratie, en plugins die je wilt laden als argumenten.
 
-For example, if we were creating a new pattern called `Sorcha`:
+Bijvoorbeeld, voor het creëren van een nieuw patroon genaamd `Sorcha`:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -16,14 +16,14 @@ import config from "../config";
 const Sorcha = new freesewing.Design(config, plugins);
 ```
 
-This method does not return a `Design` object. Instead it returns a constructor method for your pattern.
+Deze methode geeft geen `Design` object terug. In plaats daarvan geeft het een constructor methode voor je patroon.
 
-When importing your pattern, it is itself a constructor:
+Bij het importeren van je patroon is het zelf een constructor:
 
 ```js
 import Sorcha from "@freesewing/sorcha";
 
-// Sorcha is a constructor for your pattern. 
+// Sorcha is een contructor voor je patroon. 
 let pattern = new Sorcha();
 ```
 
