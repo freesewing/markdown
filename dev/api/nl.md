@@ -9,7 +9,7 @@ Freesewing geeft een enkel object terug met de volgende eigenschappen:
 
 En FreeSewing's standaard export geeft toegang tot de volgende methode:
 
-- `Design()`: A *super-constructor* to create new pattern designs.
+- `Design()`: Een *super-constructor* om nieuwe patroon ontwerpen te maken.
 
 ## Design()
 
@@ -17,15 +17,15 @@ En FreeSewing's standaard export geeft toegang tot de volgende methode:
 function freesewing.Design(object config, object|array plugins)
 ```
 
-Use this method to create a new pattern design. It takes the following arguments:
+Gebruik deze methode om een nieuw patroon ontwerp te maken. Het gebruikt de volgende argumenten:
 
-- `config` : The pattern configuration
-- `plugins` : Either a plugin object, or an array of plugin objects to load in your pattern
+- `config` : De patroon configuratie
+- `plugins` : Of een plugin object, of een array van plugin objecten die in jouw patroon geladen moeten worden.
 
 <Tip>
 
-This method will return a constructor method that should be called to instantiate your pattern.
+Deze methode geeft constructor methode die moet worden aangeroepen om uw patroon te beginnen.
 
-See [creating a new pattern design](/concepts/new-design) for an example.
+Zie [Maken van een nieuw patroon](/concepts/new-design) voor een voorbeeld.
 
 </Tip>
