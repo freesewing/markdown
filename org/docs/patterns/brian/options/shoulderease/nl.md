@@ -1,3 +1,6 @@
+---
+title: Overwijdte schouder
+---
 
 ![Overwijdte schouder](./shoulderease.svg)
 

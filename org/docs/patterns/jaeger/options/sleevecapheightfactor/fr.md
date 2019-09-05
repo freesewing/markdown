@@ -1,3 +1,6 @@
+---
+title: Sleevecap height factor
+---
 
 ![Sleevecap height factor](sleevecapheightfactor.svg)
 
