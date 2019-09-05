@@ -29,6 +29,6 @@ let pattern = new Sorcha();
 
 <Tip>
 
-Constructors are functions you can call with `new` to create an object. As `freesewing.Design()` returns a constructor, you can think of it as a super-constructor.
+Constructors zijn functies die je kunt aanroepen met `new` om een object te maken. Als `freesewing.Design()` een constructor teruggeeft, kunt je het vergelijken met een super-constructor.
 
 </Tip>
