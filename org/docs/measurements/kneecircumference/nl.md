@@ -1,5 +1,5 @@
 ---
-title: Knieomtrek
+title: Knee circumference
 ---
 
 De **knieomtrek** wordt rond je knie gemeten.
