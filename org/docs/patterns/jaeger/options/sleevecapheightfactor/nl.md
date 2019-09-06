@@ -1,3 +1,6 @@
+---
+title: Factor hoogte mouwkop
+---
 
 ![Factor hoogte mouwkop](sleevecapheightfactor.svg)
 
