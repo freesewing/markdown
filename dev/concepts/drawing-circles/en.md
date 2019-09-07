@@ -11,15 +11,5 @@ to the radius of the circle you want to draw.
 
 In addition, all attributes that have a `data-circle-` prefix will apply to the circle, rather than the point.
 
-<Example
-  pattern="rendertest"
-  caption="Circles"
-  options={{
-    colors: false,
-    text: false,
-    macros: false,
-    snippets: false,
-    widthHd: false
-  }}
-/>
+<Example pattern="rendertest" caption="Circles" options={{ colors: false, text: false, macros: false, snippets: false, widthHd: false }} />
 
