@@ -49,26 +49,26 @@ Cette méthode retourne un objet simple aux propriétés suivantes :
 
 - `Point` : le constructeur [Point](/api/point)
 - `points` = `part.points`
-- `Path` : the [Path](/api/path) constructor
+- `Path` : le constructeur [Path](/api/path)
 - `paths` = `part.paths`
-- `Snippet` : the [Snippet](/api/snippet) constructor
+- `Snippet` : le constructeur [Snippet](/api/snippet)
 - `snippets` = `part.snippets`
 - `measurements` = `pattern.settings.measurements`
 - `options` = `pattern.settings.options`
 - `sa` = `pattern.settings.sa`
-- `utils` : A [Utils](/api/utils) instance with utility methods
-- `units` : A context-aware version of `utils.units`
-- `macro` : The macro runner
-- `store` = `pattern.store`, a [Store](/api/store) instance that is shared across parts
-- `final` : `true` is this is a full draft, or `false` if this is a sample.
+- `utils` : une instance [Utilitaires](/api/utils) avec les méthodes utilitaires
+- `units` : une version consciente du contexte de `utils.units`
+- `macro` : la macro runner
+- `store` = `pattern.store`, une instance [Store](/api/store) qui est partagée entre les parties
+- `final` : `true` si c'est une ébauche complète, ou `false` si c'est un échantillon.
 - `paperless` = `pattern.settings.paperless`
 
-As the name implies, this method can save you a bunch of typing, and keep your code concise. We highly recommend it. Below are some examples:
+Comme son nom l'indique, cette méthode peut vous épargner pas mal d'écriture et garder votre code concis. Nous la recommandons vivement. En voici quelques exemples :
 
 ### Part.shorthand() example
 
 ```js{16}
-// You could write this:
+// vous pourriez écrire ceci :
 part.points.from = new part.Point(
   pattern.measurements.chestCircumference / 2, 
   pattern.options.armholeDepth);
@@ -81,7 +81,7 @@ part.paths.example = new part.Path()
   .move(parts.points.from)
   .line(parts.points.to);
 
-// Or use shorthand:
+// ou utiliser le raccourci :
 let { Point, points, measurements, options, sa } = part.shorthand();
 
 points.from = new Point(
@@ -99,23 +99,23 @@ paths.example = new Path()
 
 <Tip>
 
-As you can see in the example above, you can/should load only the shorthand you need by using object destructuring.
+Comme vous pouvez le voir dans l'exemple ci-dessus, vous pouvez/devriez charger seulement le raccourci dont vous avez besoin en utilisant la déstructuration d'objet.
 
 </Tip>
 
 ## units()
 
 ```js
-string part.units(float number)
+string part.units(nombre décimal)
 ```
 
-Formats input (in mm) as the units requested by the user.
+Formate l'entrée (en mm) comme les unités demandées par l'utilisateur.
 
 <Tip>
 
-###### This method is available as shorthand
+###### Cette méthode est disponible en tant que raccourci
 
-You can access this units method from the [Part.shorthand](#shorthand) method;
+Vous pouvez accéder à cette méthode d'unités depuis la méthode ' [Part.shorthand'.](#shorthand) ;
 
 ```js
 let { units } = part.shorthand();
