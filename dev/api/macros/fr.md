@@ -158,7 +158,7 @@ Ajoute en brut des snippets à votre patron.
 
 <Note>
 
-The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
+La macro `sprinkle` est fournie par le [plugin sprinkle](/plugins/sprinkle).
 
 </Note>
 
@@ -166,15 +166,15 @@ The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
 
 Ajoute en brut des snippets à votre patron.
 
-| Propriété  | Défaut  | Type                 | Description                                                                                                                              |
-| ---------- |:-------:| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `at`       |         | [Point](/api/point)  | The point at which to insert the title                                                                                                   |
-| `nr`       |         | Chaîne de caractères | The number of the pattern part                                                                                                           |
-| `title`    |         | Chaîne de caractères | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr. |
-| `prefix`   |         | Chaîne de caractères | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.           |
-| `append`   | `false` | Booléen              | Set this to `true` to append the `nr` to any text already set in Point `at`'s attributes, rather than overwrite it                       |
-| `rotation` |    0    | Nombre               | An optional rotation in degrees                                                                                                          |
-| `scale`    |    1    | Nombre               | An optional scaling factor                                                                                                               |
+| Propriété  | Défaut  | Type                 | Description                                                                                                                                                                |
+| ---------- |:-------:| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `at`       |         | [Point](/api/point)  | Le point où insérer le titre                                                                                                                                               |
+| `nr`       |         | Chaîne de caractères | Le nombre de parties de patron                                                                                                                                             |
+| `title`    |         | Chaîne de caractères | Le nom de la partie de patron. Si le titre n'est pas paramétré ou bien une chaîne de caractères vide, cela ne sera pas affiché, et la version apparaîtra en dessous de nr. |
+| `prefix`   |         | Chaîne de caractères | Un préfixe à ajouter aux points créés. Cela autorise plus d'un titre par partie, du moment que vous leur donnez un préfixe différent.                                      |
+| `append`   | `false` | Booléen              | Réglez ça sur `true` pour ajouter `nr` à n'importe quel texte déjà indiqué dans l'attribut `at` de Point, plutôt que de l'écraser                                          |
+| `rotation` |    0    | Nombre               | Une rotation optionnelle en degrés                                                                                                                                         |
+| `scale`    |    1    | Nombre               | Un facteur optionnel de mise à l'échelle                                                                                                                                   |
 
 
 <Note>
