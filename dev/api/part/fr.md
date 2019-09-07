@@ -8,10 +8,10 @@ Chaque objet Part vient avec les propriétés suivantes :
 
 - `paths` : un objet simple dans lequel stocker vos chemins
 - `points` : un objet simple dans lequel stocker vos points
-- `render` : A flag that controls whether to include the part in the render output
-- `snippets` : A plain object to store your snippets in
+- `render` : un drapeau qui contrôle le fait d'inclure la partie dans la sortie affichée
+- `snippets` : un objet simple dans lequel stocker vos snippets
 
-In addition, a Part object exposes the following methods:
+De plus, un objet Part expose les méthodes suivantes :
 
 ## copy()
 
@@ -19,13 +19,13 @@ In addition, a Part object exposes the following methods:
 Part part.copy(Part original)
 ```
 
-This will copy the points, paths, and snippets from a part you pass into it.
+Cela copiera les points, les chemins et les snippets à partir d'une partie, que vous lui transmettez.
 
 <Note>
 
-This method is used internally, you are unlikely to need this.
+Cette méthode est utilisée en interne, vous n'en aurez probablement pas besoin.
 
-If you want one part to build on another, you should set up [part inheritance](/advanced/inject) in your pattern's [configuration](../config) file.
+Si vous voulez construire une partie à partir d'une autre, vous devriez activer [l'héritage de partie](/advanced/inject) dans le fichier de [configuration](../config) de votre patron.
 
 </Note>
 
@@ -35,9 +35,9 @@ If you want one part to build on another, you should set up [part inheritance](/
 int part.getId()
 ```
 
-Returns a integer as an available ID that you can use as for Points/Paths/Snippets.
+Retourne une valeur entière comme identifiant disponible que vous pouvez utiliser pour des Points/Chemins/Snippets.
 
-This is typically used when adding points programmatically.
+C'est généralement utilisé lors de l'ajout programmé de points.
 
 ## shorthand()
 
@@ -45,9 +45,9 @@ This is typically used when adding points programmatically.
 object Part.shorthand();
 ```
 
-This method returns a plain object with the following properties:
+Cette méthode retourne un objet simple aux propriétés suivantes :
 
-- `Point` : the [Point](/api/point) constructor
+- `Point` : le constructeur [Point](/api/point)
 - `points` = `part.points`
 - `Path` : the [Path](/api/path) constructor
 - `paths` = `part.paths`
