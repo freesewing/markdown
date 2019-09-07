@@ -179,26 +179,26 @@ Ajoute en brut des snippets à votre patron.
 
 <Note>
 
-The `title` macro is provided by the [title plugin](/plugins/title).
+La macro `title` est fournie par le[plugin title](/plugins/title).
 
 </Note>
 
 ## vd
 
-Adds a *vertical dimension* to your pattern.
+Ajoute une *dimension verticale* à votre patron.
 
-| Propriété       | Défaut            | Type                | Description                                                          |
-| --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
-| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                   |
-| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                       |
-| `x`             |                   | Nombre              | The X-value at which to draw the dimension                           |
-| `text`          | Vertical distance | Nombre              | The text to go on the dimension if not the from-to vertical distance |
-| `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                 |
-| `noEndMarker`   | `false`           | Booléen             | Ne pas dessiner un marqueur de fin                                   |
+| Propriété       | Défaut             | Type                | Description                                                                         |
+| --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
+| `from`          |                    | [Point](/api/point) | Le point de départ de la dimension                                                  |
+| `to`            |                    | [Point](/api/point) | Le point final de la dimension                                                      |
+| `x`             |                    | Nombre              | La valeur en X à laquelle dessiner la dimension                                     |
+| `text`          | Distance verticale | Nombre              | Le texte correspondant à la dimension si ce n'est pas la distance verticale from-to |
+| `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
+| `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                                  |
 
 
 <Note>
 
-The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
+La macro `vd` est fournie par le [plugin dimension](/plugins/dimension).
 
 </Note>
