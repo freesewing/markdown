@@ -49,53 +49,53 @@ La macro `grainline` (ligne de droit-fil) est fournie par le [plugin grainline](
 
 Ajoute une *dimension horizontale* à votre patron.
 
-| Propriété       | Défaut               | Type                | Description                                                            |
-| --------------- | -------------------- | ------------------- | ---------------------------------------------------------------------- |
-| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                     |
-| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                         |
-| `y`             |                      | Number              | La valeur en Y où dessiner la dimension                                |
-| `text`          | Distance horizontale | Number              | The text to go on the dimension if not the from-to horizontal distance |
-| `noStartMarker` | `false`              | Boolean             | Whether to not draw a start marker                                     |
-| `noEndMarker`   | `false`              | Boolean             | Whether to not draw an end marker                                      |
+| Propriété       | Défaut               | Type                | Description                                                                                       |
+| --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
+| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                                                |
+| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                                                    |
+| `y`             |                      | Number              | La valeur en Y où dessiner la dimension                                                           |
+| `text`          | Distance horizontale | Number              | Le texte à indiquer sur une dimension s'il ne s'agit pas de la de la distance horizontale from-to |
+| `noStartMarker` | `false`              | Boolean             | Ne pas dessiner un marqueur de début                                                              |
+| `noEndMarker`   | `false`              | Boolean             | Ne pas dessiner un marqueur de fin                                                                |
 
 
 <Note>
 
-The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
+La macro `hd` est fournie par le [plugin dimension](/plugins/dimension).
 
 </Note>
 
 ## ld
 
-Adds a *linear dimension* to your pattern.
+Ajoute une *dimension linéaire* à votre patron.
 
-| Propriété       | Défaut          | Type                | Description                                                        |
-| --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
-| `from`          |                 | [Point](/api/point) | Le point de départ de la dimension                                 |
-| `to`            |                 | [Point](/api/point) | Le point final de la dimension                                     |
-| `d`             | 0               | Number              | The offset at which to draw the dimension                          |
-| `text`          | Linear distance | Number              | The text to go on the dimension if not the from-to linear distance |
-| `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
-| `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
+| Propriété       | Défaut            | Type                | Description                                                                    |
+| --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
+| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                             |
+| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                                 |
+| `d`             | 0                 | Number              | Le décalage avec lequel dessiner la dimension                                  |
+| `text`          | Distance linéaire | Number              | Le texte à accoler à la dimension si ce n'est pas la distance linéaire from-to |
+| `noStartMarker` | `false`           | Boolean             | Ne pas dessiner un marqueur de début                                           |
+| `noEndMarker`   | `false`           | Boolean             | Ne pas dessiner un marqueur de fin                                             |
 
 
 <Note>
 
-The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
+La macro `ld` est fournie par le [plugin dimension](/plugins/dimension).
 
 </Note>
 
 ## pd
 
-Adds a *path dimension* to your pattern.
+Ajoute une *dimension de chemin* à votre patron.
 
 | Propriété       | Défaut      | Type              | Description                                                   |
 | --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
 | `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
-| `offset`        | 0           | Number            | The offset at which to draw the dimension                     |
+| `offset`        | 0           | Number            | Le décalage avec lequel dessiner la dimension                 |
 | `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
-| `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
-| `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
+| `noStartMarker` | `false`     | Boolean           | Ne pas dessiner un marqueur de début                          |
+| `noEndMarker`   | `false`     | Boolean           | Ne pas dessiner un marqueur de fin                            |
 
 
 <Note>
@@ -193,8 +193,8 @@ Adds a *vertical dimension* to your pattern.
 | `to`            |                   | [Point](/api/point) | Le point final de la dimension                                       |
 | `x`             |                   | Number              | The X-value at which to draw the dimension                           |
 | `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
-| `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
-| `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
+| `noStartMarker` | `false`           | Boolean             | Ne pas dessiner un marqueur de début                                 |
+| `noEndMarker`   | `false`           | Boolean             | Ne pas dessiner un marqueur de fin                                   |
 
 
 <Note>
