@@ -2,12 +2,12 @@
 title: Part
 ---
 
-Part objects hold the actual information, and together they make up your pattern.
+Les objets partie (part) contiennent les informations importantes, et ensemble composent votre modèle.
 
-Each Part object comes with the following properties:
+Chaque objet Part vient avec les propriétés suivantes :
 
-- `paths` : A plain object to store your paths in
-- `points` : A plain object to store your points in
+- `paths` : un objet simple dans lequel stocker vos chemins
+- `points` : un objet simple dans lequel stocker vos points
 - `render` : A flag that controls whether to include the part in the render output
 - `snippets` : A plain object to store your snippets in
 
