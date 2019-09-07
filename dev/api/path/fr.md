@@ -1,16 +1,16 @@
 ---
-title: Path
+title: Chemin
 ---
 
-A path represents an SVG path; The lines and curves on our pattern.
+Un chemin représente un chemin SVG; les lignes et les courbes de notre patron.
 
-The Path constructor takes no arguments:
+Le constructeur de chemin Path ne prend aucun argument :
 
 ```js
 Path new Path();
 ```
 
-A Path objects comes with the following properties:
+Un objet chemin Path vient avec les propriétés suivantes :
 
 - `render` : Set this to `false` to not render the path (exclude it from the output)
 - `attributes` : An [Attributes](/api/attributes) instance holding the path's attributes
