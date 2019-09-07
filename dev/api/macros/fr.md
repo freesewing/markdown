@@ -89,39 +89,39 @@ La macro `ld` est fournie par le [plugin dimension](/plugins/dimension).
 
 Ajoute une *dimension de chemin* à votre patron.
 
-| Propriété       | Défaut      | Type              | Description                                                   |
-| --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
-| `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
-| `offset`        | 0           | Number            | Le décalage avec lequel dessiner la dimension                 |
-| `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
-| `noStartMarker` | `false`     | Boolean           | Ne pas dessiner un marqueur de début                          |
-| `noEndMarker`   | `false`     | Boolean           | Ne pas dessiner un marqueur de fin                            |
+| Propriété       | Défaut             | Type              | Description                                                        |
+| --------------- | ------------------ | ----------------- | ------------------------------------------------------------------ |
+| `path`          |                    | [Path](/api/path) | Le chemin le long duquel dessiner la dimension                     |
+| `offset`        | 0                  | Number            | Le décalage avec lequel dessiner la dimension                      |
+| `text`          | Longueur du chemin | Number            | Le texte à accoler au chemin si ce n'est pas la longueur du chemin |
+| `noStartMarker` | `false`            | Boolean           | Ne pas dessiner un marqueur de début                               |
+| `noEndMarker`   | `false`            | Boolean           | Ne pas dessiner un marqueur de fin                                 |
 
 
 <Note>
 
-The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
+La macro `pd` est fournie par le [plugin dimension](/plugins/dimension).
 
 </Note>
 
 ## round
 
-Rounds a corner. Note that this is only intended for 90 degree corners.
+Arrondit un coin. Notez que cela ne s'adresse qu'aux coins à 90 degrés.
 
-| Propriété | Défaut  | Type                | Description                                                    |
-| --------- | ------- | ------------------- | -------------------------------------------------------------- |
-| `from`    |         | [Point](/api/point) | The startpoint towards the corner to round                     |
-| `to`      |         | [Point](/api/point) | The endpoint away from the corner to round                     |
-| `via`     |         | [Point](/api/point) | The corner to round                                            |
-| `radius`  | Maximum | Number              | The radius in mm in not the maximum                            |
-| `prefix`  |         | String              | A prefix to give to the points and paths created by this macro |
-| `render`  | `false` | Boolean             | Whether to render the path created by this macro               |
-| `class`   |         | String              | Class(es) to assign to the path created by this macro          |
+| Propriété | Défaut  | Type                | Description                                                         |
+| --------- | ------- | ------------------- | ------------------------------------------------------------------- |
+| `from`    |         | [Point](/api/point) | Le point de départ de l'arrondi                                     |
+| `to`      |         | [Point](/api/point) | Le point final de l'arrondi                                         |
+| `via`     |         | [Point](/api/point) | Le coin à arrondir                                                  |
+| `radius`  | Maximum | Number              | Le rayon en mm si c'est pas le maximum                              |
+| `prefix`  |         | String              | Un préfixe à donner aux points et aux chemins créés par cette macro |
+| `render`  | `false` | Boolean             | Afficher le chemin créé par cette macro                             |
+| `class`   |         | String              | Classe(s) à assigner au chemin créé par cette macro                 |
 
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+La macro `round` est fournie par le [plugin round](/plugins/round).
 
 </Note>
 
@@ -142,7 +142,7 @@ Adds a *scale box* to your pattern.
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+La macro `round` est fournie par le [plugin round](/plugins/round).
 
 </Note>
 
