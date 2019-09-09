@@ -1,5 +1,5 @@
 ---
-title: Translating content
+title: Materiaal vertalen
 ---
 
 Crowdin makes translations of strings very easy.  
