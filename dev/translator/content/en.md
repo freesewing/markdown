@@ -38,7 +38,7 @@ a number of benefits:
 
 ## Syntax
 
-Content will contain MarkDown syntax. MarkDownis a straigh-forward way to format text 
+Content will contain MarkDown syntax. MarkDown is a straight-forward way to format text 
 to turn it into HTML. You’ll be familiar with it in no time.
 
 The [official MarkDown documentation](https://daringfireball.net/projects/markdown/syntax) is a bit dry, but there's plenty of MarkDown guides out there.  
