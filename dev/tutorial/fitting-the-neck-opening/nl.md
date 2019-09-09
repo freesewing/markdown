@@ -32,7 +32,7 @@ We hebben een paar nieuwe variabelen toegevoegd:
 - `target`: Hoe lang onze (kwart) halsopening moet zijn
 - `delta`: Hoever we ernaast zitten. Een positief getal geeft aan dat de halsopening te lang is, een negatief dat hij te kort is
 
-Now that we know what `target` is, we construct our path as we did before. But this time around, we multiply our point coordinates with our `tweak` variable (1 at the start).
+Nu we weten wat `target` is, kunnen we ons pad opbouwen zoals we eerder al gedaan hebben. Deze keer vermenigvuldigen we onze puntcoördinaten met de `tweak`-variabele (1 om te beginnen).
 
 Then, we compare our `target` to the result of `paths.neck.length()` which — you guessed it — returns the length of our neck path.
 
