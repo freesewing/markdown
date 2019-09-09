@@ -1,5 +1,5 @@
 ---
-title: Making your pattern paperless
+title: Je patroon papierloos maken
 order: 270
 ---
 
