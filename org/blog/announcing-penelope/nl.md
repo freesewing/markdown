@@ -7,13 +7,13 @@ caption: "De patroon illustratie voor Penelope"
 author: joost
 ---
 
-I'm very happy to announce the immeadiate availability of [the Penelope Pencil Skirt](/patterns/penelope), out in beta today.
+Ik ben erg blij om de beschikbaarheid van [de Penelope Kokerrok](/patterns/penelope) vandaag aan te kondigen (in beta).
 
 ![A linedrawing of Penelope](linedrawing.svg)
 
-Penelope was designed by [@woutervdub](/users/woutervdub) who also signed for [benjamin](/patterns/benjamin).
+Penelope is ontworpen door [@woutervdub](/users/woutervdub), die ook [benjamin](/patterns/benjamin) heeft gemaakt.
 
-## Freesewing is not (just) for menswear
+## Freesewing is niet (alleen) voor mannen
 
 This new foray into womenswear foreshadows our plans for the second half of this year. That's right, we're going to be making more patterns for ladies.
 
