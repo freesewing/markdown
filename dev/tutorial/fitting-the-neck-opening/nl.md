@@ -3,7 +3,7 @@ title: De halsopening aanpassen
 order: 170
 ---
 
-Here's how we'll make sure the neck opening is *just right*:
+Dit is hoe we ervoor gaan zorgen dat de halsopening *precies goed* zit:
 
 ```js
 let tweak = 1;
@@ -26,11 +26,11 @@ do {
 } while (Math.abs(delta) > 1);
 ```
 
-We've added a few new variables:
+We hebben een paar nieuwe variabelen toegevoegd:
 
-- `tweak`: A *tweak factor* that we'll use to increase or decrease the neck opening by making it more or less than 1
-- `target`: How long our (quarter) neck opening should be
-- `delta`: How far we're off. Positive numbers mean it's too long, negative means too short
+- `tweak`: Een *tweak factor* die we gaan gebruiken om de halfopening groter of kleiner te maken door de waarde in te stellen als groter of kleiner dan 1
+- `target`: Hoe lang onze (kwart) halsopening moet zijn
+- `delta`: Hoever we ernaast zitten. Een positief getal geeft aan dat de halsopening te lang is, een negatief dat hij te kort is
 
 Now that we know what `target` is, we construct our path as we did before. But this time around, we multiply our point coordinates with our `tweak` variable (1 at the start).
 
