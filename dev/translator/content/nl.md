@@ -20,9 +20,9 @@ Als je gaat vertalen, geef dan voorang aan de inhoud van freesewing.org, voordat
 
 Translating content used to be very different from translating strings, because you had to translate entire pages in one go, adapt links and so on.
 
-Today, they are much the same as Crowdin breaks down all content (blog posts, documentation, and so on) into individual sentences. This may seem weird at first, but it actually has a number of benefits:
+Tegenwoordig worden ze vrijwel hetzelfde behandeld, want Crowdin breek alle inhoud (blog posts, documentatie, enzovoort) op in individuele zinnen. Dit lijkt vreemd in het begin, maar het heeft een aantal voordelen:
 
-- You never have to tackle an enourmous page of documentation. Whenever you have a few minutes to spare, you can just jump in, and translate a few sentences. This makes it much simpler to collaborate with others.
+- Je hoeft nooit een grote heoveelheid tekst in een keer te vertalen. Als je wat tijd hebt kun je gewoon een paar zinnen vertalen. Dit maakt het een stuk makkelijker om met anderen samen te werken.
 - When (part) of the original (English) content is changed, Crowdin will detect that and let you know exactly what sentences need to be updated.
 - It's easier to keep track of how much has been done/remains to be done
 - Content is more consistent across languages
