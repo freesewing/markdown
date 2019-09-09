@@ -1,9 +1,9 @@
 ---
 date: 2018-06-29
-title: "Announcing the Penelope Pencil Skirt; And our womenswear roadmap"
-linktitle: "Announcing the Penelope Pencil Skirt"
+title: "Aankondiging van de Penelope Kokerrok; en onze strategie voor dameskleding"
+linktitle: "Aankondiging van de Penelope Kokerrok"
 img: penelope.jpg
-caption: "The pattern illustration for Penelope"
+caption: "De patroon illustratie voor Penelope"
 author: joost
 ---
 
