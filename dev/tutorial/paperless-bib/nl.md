@@ -3,9 +3,9 @@ title: Je patroon papierloos maken
 order: 270
 ---
 
-Users can request paperless patterns by setting the `paperless` setting to `true`.
+Gebruikers kunnen papierloze patronen opvragen door `paperless` in te stellen als `true`.
 
-We can get that value of the setting from the `part.shorthand()` method. It will be the last shorthand we need:
+Die waarde kan je uit de `part.shorthand()`-methode halen. Dit is de laatste shorthand die we nodig hebben:
 
 ```js
 let {
@@ -23,11 +23,11 @@ let {
 } = part.shorthand();
 ```
 
-The idea behind *paperless patterns* is that users don't need to print your pattern in order to use it. Instead, we include dimensions on the pattern that allows them to transfer the pattern directly onto fabric, or onto an intermediate medium such as tracing paper.
+Het idee achter *papierloze patronen* is dat gebruikers je patroon niet hoeven af te drukken om het te gebruiken. In plaats daarvan voegen we afmetingen toe op het patroon waarmee ze het patroon rechtstreeks op de stof kunnen aanduiden, of op een drager zoals patroonpapier.
 
-In addition, FreeSewing will automatically render a grid for each pattern part with metric or imperial marcations, depending on the units requested by the user.
+Daar bovenop maakt FreeSewing automatisch een grid voor elk patroon met metrieke of imperiale aanduidingen, afhankelijk van de eenheid die de gebruiker heeft ingesteld.
 
-While the grid gets added automatically, the dimensions you have to add yourself. Thankfully, there's macros that can help you with that, specifically:
+Het grid wordt automatisch toegevoegd, maar de afmetingen moet je zelf toevoegen. Thankfully, there's macros that can help you with that, specifically:
 
 - The `hd` macro adds a horizontal dimension
 - The `vd` macro adds a vertical dimension
