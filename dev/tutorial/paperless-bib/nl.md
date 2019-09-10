@@ -93,7 +93,7 @@ We hebben drie `vd`-macro's toegevoegd voor de verticale afmetingen aan de recht
 
 Die gebruiken ook een punt voor `from` en `to`, maar hebben een `x`-parameter nodig om aan te geven op welke X-waarde de afmeting getekend moet worden.
 
-Als laatste hebben we een `ld`-macro toegevoegd voor de lineaire afmeting bovenaan die de breedte van het koordje aangeeft. De meeste afmetingen zijn horizontaal of verticaal, maar soms heb je een rechte lijn nodig van de punten `from` naar `to` zoals in dit geval.
+Als laatste hebben we een `ld`-macro toegevoegd voor de lineaire afmeting bovenaan die de breedte van het bandje aangeeft. De meeste afmetingen zijn horizontaal of verticaal, maar soms heb je een rechte lijn nodig van de punten `from` naar `to` zoals in dit geval.
 
 De `ld`-macro gebruikt een `d`-argument (kort voor 'delta') dat aangeeft op welke afstand de afmeting verwijderd moet staan van de lijn van `from` naar `to`, als er al afstand tussen moet zitten.
 
