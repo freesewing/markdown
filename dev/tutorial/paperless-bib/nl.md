@@ -93,8 +93,8 @@ We hebben drie `vd`-macro's toegevoegd voor de verticale afmetingen aan de recht
 
 Die gebruiken ook een punt voor `from` en `to`, maar hebben een `x`-parameter nodig om aan te geven op welke X-waarde de afmeting getekend moet worden.
 
-Finally, we added a `ld` macro for the linear dimension at the top that marks the width of our strap. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
+Als laatste hebben we een `ld`-macro toegevoegd voor de lineaire afmeting bovenaan die de breedte van het koordje aangeeft. De meeste afmetingen zijn horizontaal of verticaal, maar soms heb je een rechte lijn nodig van de punten `from` naar `to` zoals in dit geval.
 
-The `ld` macro takes a `d` argument (short for delta) that indicates how far the dimension should be offset from the line from the `from` to the `to` point, if at all.
+De `ld`-macro gebruikt een `d`-argument (kort voor 'delta') dat aangeeft op welke afstand de afmeting verwijderd moet staan van de lijn van `from` naar `to`, als er al afstand tussen moet zitten.
 
-Making your pattern paperless is the icing on the cake. Time to wrap up, go over what we've learned, and give some pointers on where to go from here.
+Je patroon papierloos maken is de kers op de taart. Tijd om af te ronden, te overlopen wat we geleerd hebben, en je wat aanwijzingen mee te geven voor de volgende stappen.
