@@ -58,6 +58,6 @@ paths.seam = new Path()
 
 en behoud de rest van het pad zoals het was.
 
-The shape our bib is now completed:
+De vorm van het slabbetje is nu afgewerkt:
 
 <Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
