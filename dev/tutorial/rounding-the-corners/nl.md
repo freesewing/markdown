@@ -1,9 +1,9 @@
 ---
-title: Rounding the corners
+title: De hoeken afronden
 order: 240
 ---
 
-We already know how to round corners, let the `round` macro do it:
+We weten al hoe je hoeken afrondt; daar dient de `round`-macro voor:
 
 ```js
 macro("round", {
@@ -22,15 +22,15 @@ macro("round", {
 });
 ```
 
-But there's still something to be learned here. If you look at our earlier use of the `round` macro, you'll notice that we used this line:
+Maar hier kunnen we nog iets bijleren. Als je kijkt naar hoe we de `round`-macro hiervoor toegepast hebben, zie je dat we deze regel gebruikt hebben:
 
 ```js
   render: true,
 ```
 
-This instructs the `round` macro create a path that draws the rounded corner. Whereas by default, it merely constructs the points required to round the corner.
+Dit geeft de `round`-macro de opdracht om een pad te creëren dat de afgeronde hoek tekent. Standaard doet de macro niet meer dan de punten te creëren die nodig zijn om de hoek af te ronden.
 
-Typically, your rounded corner will be part of a larger path and so you don't want the macro to draw it. That's why the `round` macro's `render` property defaults to `false`.
+Meestal zal je afgeronde hoek deel uitmaken van een groter pad. Dan wil je niet dat de macro het ook nog eens tekent. Daarom staat de `render`-eigenschap van de `round`-macro standaard ingesteld als `false`.
 
 We've left it out here, and you should also remove it from your earlier use of the `round` macro. We merely set `render` to `true` at that time so you could see what the macro was doing.
 
