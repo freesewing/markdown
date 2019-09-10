@@ -32,9 +32,9 @@ Dit geeft de `round`-macro de opdracht om een pad te creëren dat de afgeronde h
 
 Meestal zal je afgeronde hoek deel uitmaken van een groter pad. Dan wil je niet dat de macro het ook nog eens tekent. Daarom staat de `render`-eigenschap van de `round`-macro standaard ingesteld als `false`.
 
-We've left it out here, and you should also remove it from your earlier use of the `round` macro. We merely set `render` to `true` at that time so you could see what the macro was doing.
+Hier hebben we de `render`-eigenschap weggelaten, en dat zou je ook moeten doen in je vorige gebruik van de `round`-macro. We hebben hem toen alleen ingesteld als `true` om je te tonen wat de macro precies doet.
 
-With our corners rounded, we should update our path. Fortunately, we merely have to update the start of it. Replace this:
+Nu onze hoeken afgerond zijn, moeten we ons pad updaten. Gelukkig hoeven we alleen maar het begin te updaten. Vervang dit:
 
 ```js
 paths.seam = new Path()
@@ -44,7 +44,7 @@ paths.seam = new Path()
   .line(points.edgeRight)
 ```
 
-With this:
+Door dit:
 
 ```js
 paths.seam = new Path()
@@ -56,7 +56,7 @@ paths.seam = new Path()
   .line(points.edgeRight)
 ```
 
-and keep the rest of the path as it was.
+en behoud de rest van het pad zoals het was.
 
 The shape our bib is now completed:
 
