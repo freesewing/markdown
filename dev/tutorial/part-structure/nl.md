@@ -38,11 +38,11 @@ export default function(part) {
 
 ```
 
-Dit is de boilerplate van de `draftBib`-methode. It takes the part as an argument, and returns it.
+Dit is de boilerplate van de `draftBib`-methode. Het gebruikt het onderdeel als argument en geeft het terug.
 
 <Note>
 
-If you're new to JavaScript, and don't intuitively *get this*, stick with it. It will become second nature soon enough.
+Als JavaScript nieuw is voor jou, en je bent hier niet meteen intuïtief mee méé ... bijt dan gewoon even door. Het wordt al snel een tweede natuur.
 
 </Note>
 
@@ -57,13 +57,13 @@ let {
 } = part.shorthand();
 ```
 
-This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers and you use JavaScript's *object destructuring* to only get what you need.
+Dit is de **shorthand**-methode van FreeSewing. Het geeft een object terug met een hoop handige hulpmiddelen. Je gebruikt de *object destructuring* van JavaScript om alleen de elementen te krijgen die je nodig hebt.
 
-The example above makes the following variables available:
+Het voorbeeld hierboven maakt de volgende variabelen beschikbaar:
 
-- `Point`: The Point constructor
-- `points`: A reference to the part's points
-- `Path`: The Path constructor
+- `Point`: de Point constructor, die punten creëert
+- `points`: een verwijzing naar de punten van het onderdeel
+- `Path`: de Path constructor, die paden creëert
 - `paths`: A reference to the part's paths
 
 <Note>
