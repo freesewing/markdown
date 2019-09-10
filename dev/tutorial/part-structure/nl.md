@@ -1,9 +1,9 @@
 ---
-title: Structure of a part
+title: De structuur van een onderdeel
 order: 150
 ---
 
-Let's get rid of the example box first. Open `src/bib.js` and make sure it looks like this:
+Laten we eerst het voorbeeldvak weghalen. Open `scr/bib.js` en controleer of het er als volgt uitziet:
 
 ```js
 export default function(part) {
@@ -22,11 +22,11 @@ export default function(part) {
 }
 ```
 
-This is an empty skeleton for a pattern part. Anytime you want to create a new part, this is a good starting point.
+Dit is een leeg 'geraamte' voor een patroondeel. Telkens wanneer je een nieuw onderdeel wil aanmaken, is dit een goed vertrekpunt.
 
-Let's quickly go over the different sections. Even if there's not much going on yet, it's always good to understand what's going on.
+Laten we snel de verschillende secties overlopen. Er is nu nog niet veel te zien, maar het is altijd goed om te begrijpen hoe het in elkaar zit.
 
-## The draft method
+## De tekenmethode
 
 ```js
 export default function(part) {
@@ -38,7 +38,7 @@ export default function(part) {
 
 ```
 
-This is the boilerplate of our `draftBib` method. It takes the part as an argument, and returns it.
+Dit is de boilerplate van de `draftBib`-methode. It takes the part as an argument, and returns it.
 
 <Note>
 
