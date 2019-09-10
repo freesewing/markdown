@@ -40,7 +40,7 @@ FIXME: link naar macrodocumenten toevoegen
 
 </Warning>
 
-Eens kijken naar de code:
+Zo ziet dat eruit in de code:
 
 ```js
 if (paperless) {
@@ -78,7 +78,7 @@ if (paperless) {
 }
 ```
 
-There's a lot going on, but it's mostly repetition. Let's look at the end result, and discuss:
+Dat is een hele lap code, maar vooral veel herhaling. Let's look at the end result, and discuss:
 
 <Example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
