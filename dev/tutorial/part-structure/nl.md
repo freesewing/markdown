@@ -64,15 +64,15 @@ Het voorbeeld hierboven maakt de volgende variabelen beschikbaar:
 - `Point`: de Point constructor, die punten creëert
 - `points`: een verwijzing naar de punten van het onderdeel
 - `Path`: de Path constructor, die paden creëert
-- `paths`: A reference to the part's paths
+- `paths`: een verwijzing naar de paden van het onderdeel
 
 <Note>
 
-This will all become clear, but if you're curious, the API docs have all the details on [the Part.shorthand() method](/api/part#shorthand)
+Dit wordt allemaal nog duidelijker. Maar als je nieuwsgierig bent, kan je al in de API-documenten gaan kijken voor meer details over [de Part.shorthand()-methode](/api/part#shorthand).
 
 </Note>
 
-## Part boilerplate
+## Boilerplate voor patroondelen
 
 ```js
 // Complete?
@@ -85,6 +85,6 @@ if (complete) {
 }
 ```
 
-This is some more boilerplate that makes sure we respect the `complete`, `sa`, and `paperless` settings.
+Dit is nog wat meer boilerplatecode die ervoor zorgt dat we de instellingen `complete`, `sa` en `paperless` respecteren.
 
-For now, you don't need to worry about this. Let's just start designing our bib.
+Je hoeft hier voorlopig niet te diep over na te denken. We beginnen gewoon met ons slabbetje te ontwerpen.
