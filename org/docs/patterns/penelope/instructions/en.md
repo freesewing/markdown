@@ -81,6 +81,6 @@ First, sew all the darts. You want to press them towards the back. So for the ba
 that means you press boths sides towards eachother. For the front piece, just the opposite.
 
 The next thing you want to do is sew the seam that has the zipper, and insert the zipper 
-into it. 
+into it. Follow the procedure that is appropriate for the type of zipper you're using.
 
 Your next step depends on whether you have a vent and lining.  
