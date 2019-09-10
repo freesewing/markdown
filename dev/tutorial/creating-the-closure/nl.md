@@ -3,7 +3,7 @@ title: De sluiting ontwerpen
 order: 210
 ---
 
-Het begint er goed uit te zien, maar op deze manier krijgen we het slabbetje niet over baby's hoofdje. We hebben een sluiting nodig. We gaan de koordjes aan het uiteinde laten overlappen en er een drukknoop op zetten.
+Het begint er goed uit te zien, maar op deze manier krijgen we het slabbetje niet over baby's hoofdje. We hebben een sluiting nodig. We gaan de bandjes aan het uiteinde laten overlappen en er een drukknoop op zetten.
 
 Om de koordjes rond te laten eindigen, gebruiken we iets nieuws: **een macro**.
 
@@ -60,4 +60,4 @@ FIXME: link toevoegen naar macro/extend docs
 
 Net zoals bij de halsopening hebben we hier maar de helft getekend. We kunnen de punten gewoon kopiëren naar de andere kant.
 
-Probleem: als we dat doen, overlappen de koordjes. En dat werkt niet voor een naaipatroon, want dan krijg je het niet uit één stuk stof geknipt. Dus moeten we de overlapping oplossen.
+Probleem: als we dat doen, overlappen de bandjes. En dat werkt niet voor een naaipatroon, want dan krijg je het niet uit één stuk stof geknipt. Dus moeten we de overlapping oplossen.
