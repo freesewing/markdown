@@ -78,20 +78,20 @@ if (paperless) {
 }
 ```
 
-Dat is een hele lap code, maar vooral veel herhaling. Let's look at the end result, and discuss:
+Dat is een hele lap code, maar vooral veel herhaling. Eens kijken naar het eindresultaat:
 
 <Example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
-We used the `hd` macro to add two horizontal dimensions:
+We hebben de `hd`-macro gebruikt om twee horizontale afmetingen toe te voegen:
 
-- One at the bottom for the width of our bib
-- One for the width of the neck opening
+- Eentje onderaan voor de breedte van het slabbetje
+- Eentje voor de breedte van de halsopening
 
-The `hd` macro takes a `from` and `to` point as well as a `y` value that says at what Y-value to draw the dimension.
+De `hd`-macro gebruikt een punt voor `from` en `to` en een `y`-waarde die aangeeft op welke Y-waarde de afmeting getekend moet worden.
 
-We've also added three `vd` macros for the vertical dimensions on the right.
+We hebben drie `vd`-macro's toegevoegd voor de verticale afmetingen aan de rechterkant.
 
-They also takes a `from` and `to` point, but expect a `x` parameter to indicate at what X-value the dimension should be drawn.
+Die gebruiken ook een punt voor `from` en `to`, maar hebben een `x`-parameter nodig om aan te geven op welke X-waarde de afmeting getekend moet worden.
 
 Finally, we added a `ld` macro for the linear dimension at the top that marks the width of our strap. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
 
