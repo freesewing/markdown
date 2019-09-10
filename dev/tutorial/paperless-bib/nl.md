@@ -27,20 +27,20 @@ Het idee achter *papierloze patronen* is dat gebruikers je patroon niet hoeven a
 
 Daar bovenop maakt FreeSewing automatisch een grid voor elk patroon met metrieke of imperiale aanduidingen, afhankelijk van de eenheid die de gebruiker heeft ingesteld.
 
-Het grid wordt automatisch toegevoegd, maar de afmetingen moet je zelf toevoegen. Thankfully, there's macros that can help you with that, specifically:
+Het grid wordt automatisch toegevoegd, maar de afmetingen moet je zelf toevoegen. Gelukkig zijn er macro's die je daarmee kunnen helpen, namelijk:
 
-- The `hd` macro adds a horizontal dimension
-- The `vd` macro adds a vertical dimension
-- The `ld` macro adds a linear dimension
-- The `pd` macro adds a path dimension that follows a given path
+- De `hd`-macro voegt een horizontale afmeting toe
+- De `vd`-macro voegt een verticale afmeting toe
+- De `ld`-macro voegt een lineaire afmeting toe
+- De `pd`-macro voegt een padafmeting toe die een specifiek pad volgt
 
 <Warning>
 
-FIXME: Add links to macro docs
+FIXME: link naar macrodocumenten toevoegen
 
 </Warning>
 
-Let's look at the code:
+Eens kijken naar de code:
 
 ```js
 if (paperless) {
