@@ -1,5 +1,5 @@
 ---
-title: De koordjes tekenen
+title: De bandjes tekenen
 order: 230
 ---
 
