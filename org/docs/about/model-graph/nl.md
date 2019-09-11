@@ -7,19 +7,19 @@ Een zogenaamde *model-grafiek* is een visuele weergave van de afmetingen van een
 <div xmlns="http://www.w3.org/1999/xhtml" class="text">
 </div></foreignObject></svg> 
 
-Metingen van breedte (nekomtrek, borstomtrek, enzovoort) zijn vertegenwoordigd aan de linkerkant van de cirkel. Measurements of height (length of the arms, inseam, and so on) are represented with the bars on the right.
+Metingen van breedte (nekomtrek, borstomtrek, enzovoort) zijn vertegenwoordigd aan de linkerkant van de cirkel. Metingen van hoogte (lengte van de armen, binnenbeenmaat, etc.) worden met de staven rechts aangegeven.
 
-Once the neck circumference measurement is known, the graph will not only show all the measurements you have entered, it will also include a project of the missing measurements, based on the model's neck circumference.
+Zodra de nekomtrek bekend is, zal de grafiek niet alleen alle metingen weergeven die u hebt ingevoerd, maar het zal ook een aanname bevatten van de ontbrekende metingen, gebaseerd op de nekomtrek van het model.
 
-## Why we made this graph
+## Waarom we deze grafiek gemaakt hebben
 
-A common problem is for people to make mistakes while taking measurements. We wanted to address that problem, but setting boundaries on what any given measurement will accept opens the door to rejecting measurements for correctly measured yet uniquely sized bodies.
+Een veel voorkomend probleem is dat mensen fouten maken tijdens het meten. We wilden dit probleem aanpakken, maar het instellen van grenzen op wat een bepaalde afmeting accepteert opent de deur om juiste afmetingen te weigeren voor unieke lichamen.
 
-So rather than setting boundaries, we opted to map out a model's measurements in comparison to the industry-standard sizing charts for any given neck circumference.
+In plaats van grenzen in te stellen, hebben we ervoor gekozen om de afmetingen van een model te vergelijking met industriële standaard maten voor een bepaalde nekomtrek.
 
-This allows you to spot outliers, so you can make your own judgement call on whether you should perhaps re-measure, or that this is ok. After all, chances are that if (some of) your measurements are significantly different from what the garment industry expects, you already knew that.
+Dit stelt u in staat om unieke waarden te zien, zodat u uw eigen oordeel kunt vormen of u misschien opnieuw moet meten, of dat dit oké is. De kans is immers aanwezig dat (sommige) van uw afmetingen aanzienlijk verschillen van wat de kledingindustrie verwacht, en u wist dat al lang.
 
-## How to read the chart
+## Hoe de grafiek te lezen
 
 Your relative size is represented by the size of the circle. The bigger the circle, the higher you are in the sizing chart. Your proportions are captured in the shape of the circle. The more it looks like a perfect circle, the closer your proportions are to sizing chart used in the industry.
 
