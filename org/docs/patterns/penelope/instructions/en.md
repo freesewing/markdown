@@ -83,4 +83,24 @@ that means you press boths sides towards eachother. For the front piece, just th
 The next thing you want to do is sew the seam that has the zipper, and insert the zipper 
 into it. Follow the procedure that is appropriate for the type of zipper you're using.
 
-Your next step depends on whether you have a vent and lining.  
+Sew up both the side seams.
+
+Your next step depends on whether you have a vent and lining. If you're including a lining,
+now is the time to make it. The lining is made the same way that the rest of the skirt is 
+made, with two exceptions; the darts are just pleats, and they have more 'ease' included. 
+How you distribute this 'ease' is up to you. You can add it to the dart pleats, add another 
+dart pleat, or make a box pleat in the middle. 
+
+Of course, if you include a lining, you have to include this in the way you've finished 
+your zipper. And connect it to the vent, if your skirt has one of those.
+
+Next is attaching the waist band if your version has one. First fold it double along the 
+long side and press. Add your interfacing. Sew it to the right side of the fabric. Then 
+turn it over and press the seam into the waistband. Now use the stitch-in-the-ditch 
+technique to finish the waist band. Add your choice of closure.
+
+All that is left now is to hem the skirt.
+
+
+
+
