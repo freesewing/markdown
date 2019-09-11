@@ -9,7 +9,7 @@ author: joost
 
 Ik ben erg blij om de beschikbaarheid van [de Penelope Kokerrok](/patterns/penelope) vandaag aan te kondigen (in beta).
 
-![A linedrawing of Penelope](linedrawing.svg)
+![Een linetekening van Penelope](linedrawing.svg)
 
 Penelope is ontworpen door [@woutervdub](/users/woutervdub), die ook [benjamin](/patterns/benjamin) heeft gemaakt.
 
@@ -27,4 +27,4 @@ Tegelijkertijd ga ik met [@AnnekeCaramin](/users/annekecaramin) aan een dames ve
 
 Als we dat blok hebben, verwachten we dat we het in een hele reeks jurken en topjes zullen verwerken.
 
-And as always, if you have pattern design skills but are a bit intimidated by the platform, reach out to us to see if we can join forces to make your ideas a reality.
+En zoals altijd, als je patroon ontwerpvaardigheden hebt maar een beetje geïntimideerd wordt door het platform, reik naar ons uit om te zien of we samen kunnen werken om je ideeën werkelijkheid te maken.
