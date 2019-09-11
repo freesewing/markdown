@@ -15,9 +15,9 @@ Penelope is ontworpen door [@woutervdub](/users/woutervdub), die ook [benjamin](
 
 ## Freesewing is niet (alleen) voor mannen
 
-This new foray into womenswear foreshadows our plans for the second half of this year. That's right, we're going to be making more patterns for ladies.
+Dit initiatief is een laat zien wat onze plannen zijn voor de tweede helft van dit jaar. Ja, we gaan meer patronen maken voor de dames.
 
-Freesewing has a bit of a menswear reputation, since historically we've had a lot more patterns for men than for ladies. But that doesn't mean women are second-class citizens here. It's just a side-effect of how this project was historically run by a man. Can you blame a brother for designing patterns he'd like to wear himself?
+Freesewing heeft een reputatie voor mannenkleding, want we hebben altijd meer patronen voor mannen dan voor dames gehad. Maar dat betekent niet dat dames ondergewaardeerd zijn hier. It's just a side-effect of how this project was historically run by a man. Can you blame a brother for designing patterns he'd like to wear himself?
 
 Today, freesewing is a communal effort, and there's plenty of ladies involved. So it only make sense to make a conscious effort to do something for our sisters. And that's exactly what we'll be doing.
 
