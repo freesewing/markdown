@@ -25,6 +25,6 @@ We hebben een ander patroon in de pijplijn dat niet alleen voor dames is, maar o
 
 Tegelijkertijd ga ik met [@AnnekeCaramin](/users/annekecaramin) aan een dames versie van [Brian](/patterns/brian), ons basis blok van vele patronen, werken. Het idee is om een kwaliteits blok voor dames te maken voor hun maten werkt, en automatisch dagelijkse pas problemen verhandeld. I'm talking about full bust adjustment, sway back, these kind of things.
 
-Once we have that block, expect us to spin it into a bunch of dresses and tops.
+Als we dat blok hebben, verwachten we dat we het in een hele reeks jurken en topjes zullen verwerken.
 
 And as always, if you have pattern design skills but are a bit intimidated by the platform, reach out to us to see if we can join forces to make your ideas a reality.
