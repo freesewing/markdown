@@ -23,7 +23,7 @@ Maar Freesewing is nu een project dat door de gemeenschap gedragen wordt, en er 
 
 We hebben een ander patroon in de pijplijn dat niet alleen voor dames is, maar ook door eentje gemaakt is. Met name door [@AlfaLyr](/users/alfalyr), die een cirkelrok patroon heeft ontworpen dat hier binnenkort gelanceerd wordt.
 
-Tegelijkertijd ga ik met [@AnnekeCaramin](/users/annekecaramin) aan een dames versie van [Brian](/patterns/brian), ons basis blok van vele patronen, werken. Het idee is om een kwaliteits blok voor dames te maken voor hun maten werkt, en automatisch dagelijkse pas problemen verhandeld. I'm talking about full bust adjustment, sway back, these kind of things.
+Tegelijkertijd ga ik met [@AnnekeCaramin](/users/annekecaramin) aan een dames versie van [Brian](/patterns/brian), ons basis blok van vele patronen, werken. Het idee is om een kwaliteits blok voor dames te maken voor hun maten werkt, en automatisch dagelijkse pas problemen verhandeld. Ik heb het over aanpassingen voor een volle buste, een holle rug, dat soort dingen.
 
 Als we dat blok hebben, verwachten we dat we het in een hele reeks jurken en topjes zullen verwerken.
 
