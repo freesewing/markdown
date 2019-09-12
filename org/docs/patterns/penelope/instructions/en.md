@@ -4,7 +4,7 @@ To make Penelope, you will need the following:
 
   - Basic sewing supplies
   - About 1 meter of a suitable fabric 
-  - A hidden zipper
+  - An invisible zipper
   - Some interfacing for the waistband (if used) and maybe for the vent and hem
   - Some sort of closure for the waistband (if used)
   - Optionally: lining fabric
@@ -19,7 +19,7 @@ back up, stay quite high on your bum. Lining the skirt will make it move a lot
 easier around your curves, and thereby make it easier for you to move. 
 
 Adding lining can be done by creating a slightly shorter front and back piece, that 
-have some extra fabric in the middle. The extra fabric makes it easier for the 
+has some extra fabric in the middle. The extra fabric makes it easier for the 
 lining to move. One inch for each of the front and back pieces is enough. You can
 either make a box pleat in the front and back, or add the extra fabric where the
 darts are. You do not need to sew darts in the lining fabric. Just a pleat at the
@@ -27,8 +27,8 @@ dart position will be fine.
 
 ### Waistband
 
-A waist band is optional on Penelope. If you omit it, there will be quite some stress
-on the top of the zipper. Make sure your zipper is up to the task. 
+A waistband is optional on Penelope. If you omit it, there will be quite some stress
+on the top of the zipper. Make sure your zipper is up to the task. An invisible zipper might not be the best option then, since they can't always take that much strain.
 
 ### Zipper
 
@@ -36,11 +36,11 @@ Without the zipper it will be impossible to get in and out of the skirt. So it s
 be at least the length from your waist to the largest part of your bum. Longer will
 make it easier to put the skirt on and off. Don't use one that's too long, because the
 part of the seam where the zipper is behaves differently than the part without it, and
-you want to try to make it invissible also in movement.
+you want to try to make it invisible also in movement.
 
-Traditionally, a hidden zipper is used in a pencil skirt. Lately there has been a trend 
+Traditionally, an invisible zipper is used in a pencil skirt. Lately there has been a trend 
 to use zippers that are right in the open. Sometimes even from contrasting fabric. 
-Choose what works for you in the style you're going for. Be creative (or not)!
+Choose what works for you in the style you're going for. Be creative (or not)! You might want to opt for an alternative option if your fabric is on the heavier side.
 
 ### Vent
 
@@ -94,10 +94,10 @@ dart pleat, or make a box pleat in the middle.
 Of course, if you include a lining, you have to include this in the way you've finished 
 your zipper. And connect it to the vent, if your skirt has one of those.
 
-Next is attaching the waist band if your version has one. First fold it double along the 
+Next is attaching the waistband if your version has one. First fold it double along the 
 long side and press. Add your interfacing. Sew it to the right side of the fabric. Then 
 turn it over and press the seam into the waistband. Now use the stitch-in-the-ditch 
-technique to finish the waist band. Add your choice of closure.
+technique to finish the waistband. Add your choice of closure.
 
 All that is left now is to hem the skirt.
 
