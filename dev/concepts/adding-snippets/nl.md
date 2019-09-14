@@ -24,4 +24,4 @@ Zie ook [Using attributes](/concepts/attributes) voor meer informatie over het g
 
 Hieronder is een voorbeeld van `data-scale` en `data-rotate`:
 
-<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: macros: circles: widthHd: false }} />
+<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: false, macros: false, circles: false, widthHd: false }} />
