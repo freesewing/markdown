@@ -1,37 +1,29 @@
 ---
-title: Testing your pattern
+title: Je patroon uittesten
 order: 250
 ---
 
-With the basic outline of your pattern ready, now would be a good time 
-to test it to see how well it adapts to different measurements, 
-and the range of options we provided.
+Nu de basisschets van je patroon klaar is, is dit een goed moment om te testen of het zich vlot aanpast aan andere afmetingen en de reeks opties die we hebben voorzien.
 
 <Tip>
 
-###### No more grading
+###### Nooit meer graderen
 
-FreeSewing patterns are *made-to-measure*, which means that you don't need to
-grade your pattern to provide a range of sizes. You should sample your pattern
-for different measurements and options to see how well it adapts.
+FreeSewing-patronen zijn *op maat gemaakt* en dat betekent dat je nooit meer een patroon moet graderen om het in verschillende maten aan te bieden. Het is belangrijk dat je het patroon test met verschillende afmetingen en opties om te zien hoe goed het zich aanpast.
 
 </Tip>
 
-If testing your pattern sounds like a lot of work, you're in luck. FreeSewing can do it
-for you. Click the **Test your pattern** button in the top navigation bar of your 
-development environment, and you'll see a number of choices at the right:
+Als het klinkt als een hoop werk om je patroon te testen, dan heb je geluk. FreeSewing kan het voor jou doen. Klik op de knop **Test je patroon** in de navigatiebalk bovenaan in je development-omgeving. Je krijgt dan rechts een aantal keuzes te zien:
 
- - Test pattern options
- - Test measurements
- - Test models
+- Test patroonopties
+- Test afmetingen
+- Test modellen
 
-The [API docs on sampling](/api/pattern#sample) have all the details on how this works, but
-for now we'll just look at the end result of each of these.
+In de [API-documenten over *sampling*](/api/pattern#sample) staan alle details over hoe dit werkt, maar voorlopig gaan we gewoon het eindresultaat van elk van deze keuzes bekijken.
 
-## Testing pattern options
+## Patroonopties testen
 
-We used percentage options, which can vary between their minimum and maximum value.
-For these tests, FreeSewing will divide that range into 10 steps and draft your pattern for each step.
+We hebben gewerkt met percentage-opties die kunnen variëren tussen een minimum- en een maximumwaarde. Voor deze tests zal FreeSewing het bereik verdelen in 10 stappen en je patroon schetsen voor elk van deze stappen.
 
 Click on any of the options we've added to our pattern, and your bib will be drawn with that option sampled.
 

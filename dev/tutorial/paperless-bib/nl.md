@@ -1,11 +1,11 @@
 ---
-title: Making your pattern paperless
+title: Je patroon papierloos maken
 order: 270
 ---
 
-Users can request paperless patterns by setting the `paperless` setting to `true`.
+Gebruikers kunnen papierloze patronen opvragen door `paperless` in te stellen als `true`.
 
-We can get that value of the setting from the `part.shorthand()` method. It will be the last shorthand we need:
+Die waarde kan je uit de `part.shorthand()`-methode halen. Dit is de laatste shorthand die we nodig hebben:
 
 ```js
 let {
@@ -23,24 +23,24 @@ let {
 } = part.shorthand();
 ```
 
-The idea behind *paperless patterns* is that users don't need to print your pattern in order to use it. Instead, we include dimensions on the pattern that allows them to transfer the pattern directly onto fabric, or onto an intermediate medium such as tracing paper.
+Het idee achter *papierloze patronen* is dat gebruikers je patroon niet hoeven af te drukken om het te gebruiken. In plaats daarvan voegen we afmetingen toe op het patroon waarmee ze het patroon rechtstreeks op de stof kunnen aanduiden, of op een drager zoals patroonpapier.
 
-In addition, FreeSewing will automatically render a grid for each pattern part with metric or imperial marcations, depending on the units requested by the user.
+Daar bovenop maakt FreeSewing automatisch een grid voor elk patroon met metrieke of imperiale aanduidingen, afhankelijk van de eenheid die de gebruiker heeft ingesteld.
 
-While the grid gets added automatically, the dimensions you have to add yourself. Thankfully, there's macros that can help you with that, specifically:
+Het grid wordt automatisch toegevoegd, maar de afmetingen moet je zelf toevoegen. Gelukkig zijn er macro's die je daarmee kunnen helpen, namelijk:
 
-- The `hd` macro adds a horizontal dimension
-- The `vd` macro adds a vertical dimension
-- The `ld` macro adds a linear dimension
-- The `pd` macro adds a path dimension that follows a given path
+- De `hd`-macro voegt een horizontale afmeting toe
+- De `vd`-macro voegt een verticale afmeting toe
+- De `ld`-macro voegt een lineaire afmeting toe
+- De `pd`-macro voegt een padafmeting toe die een specifiek pad volgt
 
 <Warning>
 
-FIXME: Add links to macro docs
+FIXME: link naar macrodocumenten toevoegen
 
 </Warning>
 
-Let's look at the code:
+Zo ziet dat eruit in de code:
 
 ```js
 if (paperless) {
@@ -78,23 +78,23 @@ if (paperless) {
 }
 ```
 
-There's a lot going on, but it's mostly repetition. Let's look at the end result, and discuss:
+Dat is een hele lap code, maar vooral veel herhaling. Eens kijken naar het eindresultaat:
 
 <Example pattern="tutorial" part="bib" caption="Your paperless bib" settings={{paperless: true}} />
 
-We used the `hd` macro to add two horizontal dimensions:
+We hebben de `hd`-macro gebruikt om twee horizontale afmetingen toe te voegen:
 
-- One at the bottom for the width of our bib
-- One for the width of the neck opening
+- Eentje onderaan voor de breedte van het slabbetje
+- Eentje voor de breedte van de halsopening
 
-The `hd` macro takes a `from` and `to` point as well as a `y` value that says at what Y-value to draw the dimension.
+De `hd`-macro gebruikt een punt voor `from` en `to` en een `y`-waarde die aangeeft op welke Y-waarde de afmeting getekend moet worden.
 
-We've also added three `vd` macros for the vertical dimensions on the right.
+We hebben drie `vd`-macro's toegevoegd voor de verticale afmetingen aan de rechterkant.
 
-They also takes a `from` and `to` point, but expect a `x` parameter to indicate at what X-value the dimension should be drawn.
+Die gebruiken ook een punt voor `from` en `to`, maar hebben een `x`-parameter nodig om aan te geven op welke X-waarde de afmeting getekend moet worden.
 
-Finally, we added a `ld` macro for the linear dimension at the top that marks the width of our strap. While most dimensions are horizontal or vertical, sometimes you want a straight line from the `from` to the `to` points like in this case.
+Als laatste hebben we een `ld`-macro toegevoegd voor de lineaire afmeting bovenaan die de breedte van het bandje aangeeft. De meeste afmetingen zijn horizontaal of verticaal, maar soms heb je een rechte lijn nodig van de punten `from` naar `to` zoals in dit geval.
 
-The `ld` macro takes a `d` argument (short for delta) that indicates how far the dimension should be offset from the line from the `from` to the `to` point, if at all.
+De `ld`-macro gebruikt een `d`-argument (kort voor 'delta') dat aangeeft op welke afstand de afmeting verwijderd moet staan van de lijn van `from` naar `to`, als er al afstand tussen moet zitten.
 
-Making your pattern paperless is the icing on the cake. Time to wrap up, go over what we've learned, and give some pointers on where to go from here.
+Je patroon papierloos maken is de kers op de taart. Tijd om af te ronden, te overlopen wat we geleerd hebben, en je wat aanwijzingen mee te geven voor de volgende stappen.

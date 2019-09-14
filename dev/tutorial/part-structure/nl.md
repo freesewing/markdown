@@ -1,9 +1,9 @@
 ---
-title: Structure of a part
+title: De structuur van een onderdeel
 order: 150
 ---
 
-Let's get rid of the example box first. Open `src/bib.js` and make sure it looks like this:
+Laten we eerst het voorbeeldvak weghalen. Open `scr/bib.js` en controleer of het er als volgt uitziet:
 
 ```js
 export default function(part) {
@@ -22,11 +22,11 @@ export default function(part) {
 }
 ```
 
-This is an empty skeleton for a pattern part. Anytime you want to create a new part, this is a good starting point.
+Dit is een leeg 'geraamte' voor een patroondeel. Telkens wanneer je een nieuw onderdeel wil aanmaken, is dit een goed vertrekpunt.
 
-Let's quickly go over the different sections. Even if there's not much going on yet, it's always good to understand what's going on.
+Laten we snel de verschillende secties overlopen. Er is nu nog niet veel te zien, maar het is altijd goed om te begrijpen hoe het in elkaar zit.
 
-## The draft method
+## De tekenmethode
 
 ```js
 export default function(part) {
@@ -38,11 +38,11 @@ export default function(part) {
 
 ```
 
-This is the boilerplate of our `draftBib` method. It takes the part as an argument, and returns it.
+Dit is de boilerplate van de `draftBib`-methode. Het gebruikt het onderdeel als argument en geeft het terug.
 
 <Note>
 
-If you're new to JavaScript, and don't intuitively *get this*, stick with it. It will become second nature soon enough.
+Als JavaScript nieuw is voor jou, en je bent hier niet meteen intuïtief mee méé ... bijt dan gewoon even door. Het wordt al snel een tweede natuur.
 
 </Note>
 
@@ -57,22 +57,22 @@ let {
 } = part.shorthand();
 ```
 
-This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers and you use JavaScript's *object destructuring* to only get what you need.
+Dit is de **shorthand**-methode van FreeSewing. Het geeft een object terug met een hoop handige hulpmiddelen. Je gebruikt de *object destructuring* van JavaScript om alleen de elementen te krijgen die je nodig hebt.
 
-The example above makes the following variables available:
+Het voorbeeld hierboven maakt de volgende variabelen beschikbaar:
 
-- `Point`: The Point constructor
-- `points`: A reference to the part's points
-- `Path`: The Path constructor
-- `paths`: A reference to the part's paths
+- `Point`: de Point constructor, die punten creëert
+- `points`: een verwijzing naar de punten van het onderdeel
+- `Path`: de Path constructor, die paden creëert
+- `paths`: een verwijzing naar de paden van het onderdeel
 
 <Note>
 
-This will all become clear, but if you're curious, the API docs have all the details on [the Part.shorthand() method](/api/part#shorthand)
+Dit wordt allemaal nog duidelijker. Maar als je nieuwsgierig bent, kan je al in de API-documenten gaan kijken voor meer details over [de Part.shorthand()-methode](/api/part#shorthand).
 
 </Note>
 
-## Part boilerplate
+## Boilerplate voor patroondelen
 
 ```js
 // Complete?
@@ -85,6 +85,6 @@ if (complete) {
 }
 ```
 
-This is some more boilerplate that makes sure we respect the `complete`, `sa`, and `paperless` settings.
+Dit is nog wat meer boilerplatecode die ervoor zorgt dat we de instellingen `complete`, `sa` en `paperless` respecteren.
 
-For now, you don't need to worry about this. Let's just start designing our bib.
+Je hoeft hier voorlopig niet te diep over na te denken. We beginnen gewoon met ons slabbetje te ontwerpen.

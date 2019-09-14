@@ -2,13 +2,13 @@
 title: Translating strings
 ---
 
-Crowdin makes translations of strings very easy.  
-If you provide the translation, Crowdin will make sure your changes make it back into our repository, where they will be picked up and merged by one of the development people.
+Crowdin maakt het vertalen van tekst erg gemakkelijk.  
+Als je een vertaling van een tekst maakt, zorgt Crowdin ervoor dat deze vertaling uiteindelijk in de repository wordt opgenomen. De development mensen zorgen er daarna voor dat hij deel gaat uitmaken van de teksten.
 
-Here's what you need to know to get started:
+Hier is wat je moet weten om aan de slag te gaan:
 
 - Crowdin link: https://crowdin.com/project/freesewing
-- Request an invite: https://gitter.im/freesewing/freesewing
+- Verzoek een uitnodiging: https://gitter.im/freesewing/freesewing
 
 ## Syntax
 

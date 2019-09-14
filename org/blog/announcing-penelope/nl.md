@@ -1,30 +1,30 @@
 ---
 date: 2018-06-29
-title: "Announcing the Penelope Pencil Skirt; And our womenswear roadmap"
-linktitle: "Announcing the Penelope Pencil Skirt"
+title: "Aankondiging van de Penelope Kokerrok; en onze strategie voor dameskleding"
+linktitle: "Aankondiging van de Penelope Kokerrok"
 img: penelope.jpg
-caption: "The pattern illustration for Penelope"
+caption: "De patroon illustratie voor Penelope"
 author: joost
 ---
 
-I'm very happy to announce the immeadiate availability of [the Penelope Pencil Skirt](/patterns/penelope), out in beta today.
+Ik ben erg blij om de beschikbaarheid van [de Penelope Kokerrok](/patterns/penelope) vandaag aan te kondigen (in beta).
 
-![A linedrawing of Penelope](linedrawing.svg)
+![Een linetekening van Penelope](linedrawing.svg)
 
-Penelope was designed by [@woutervdub](/users/woutervdub) who also signed for [benjamin](/patterns/benjamin).
+Penelope is ontworpen door [@woutervdub](/users/woutervdub), die ook [benjamin](/patterns/benjamin) heeft gemaakt.
 
-## Freesewing is not (just) for menswear
+## Freesewing is niet (alleen) voor mannen
 
-This new foray into womenswear foreshadows our plans for the second half of this year. That's right, we're going to be making more patterns for ladies.
+Dit initiatief is een laat zien wat onze plannen zijn voor de tweede helft van dit jaar. Ja, we gaan meer patronen maken voor de dames.
 
-Freesewing has a bit of a menswear reputation, since historically we've had a lot more patterns for men than for ladies. But that doesn't mean women are second-class citizens here. It's just a side-effect of how this project was historically run by a man. Can you blame a brother for designing patterns he'd like to wear himself?
+Freesewing heeft een reputatie voor mannenkleding, want we hebben altijd meer patronen voor mannen dan voor dames gehad. Maar dat betekent niet dat dames ondergewaardeerd zijn hier. Het is gewoon een reflectie van een project dat door een kerel gemaakt is. Kun je hem kwalijk nemen dat hij patronen maakte die hij zelf graag zou dragen?
 
-Today, freesewing is a communal effort, and there's plenty of ladies involved. So it only make sense to make a conscious effort to do something for our sisters. And that's exactly what we'll be doing.
+Maar Freesewing is nu een project dat door de gemeenschap gedragen wordt, en er zijn genoeg dames die eraan meewerken. Het is dus een goed idee om gericht iets te doen voor de dames. En dat is wat we gaan doen.
 
-We've got another pattern in the pipeline that is not only for women, but also by a woman. By [@AlfaLyr](/users/alfalyr) in particular, who has designed a circle skirt pattern that is going to land here real soon.
+We hebben een ander patroon in de pijplijn dat niet alleen voor dames is, maar ook door eentje gemaakt is. Met name door [@AlfaLyr](/users/alfalyr), die een cirkelrok patroon heeft ontworpen dat hier binnenkort gelanceerd wordt.
 
-In parallel, I'll be working with [@AnnekeCaramin](/users/annekecaramin) on a female equivalent for [Brian](/patterns/brian), our basic body block on which many of our patterns are based. The idea is to make a quality bodice block for ladies that is made-to-measure and can handle the common fitting issues automatically. I'm talking about full bust adjustment, sway back, these kind of things.
+Tegelijkertijd ga ik met [@AnnekeCaramin](/users/annekecaramin) aan een dames versie van [Brian](/patterns/brian), ons basis blok van vele patronen, werken. Het idee is om een kwaliteits blok voor dames te maken voor hun maten werkt, en automatisch dagelijkse pas problemen verhandeld. Ik heb het over aanpassingen voor een volle buste, een holle rug, dat soort dingen.
 
-Once we have that block, expect us to spin it into a bunch of dresses and tops.
+Als we dat blok hebben, verwachten we dat we het in een hele reeks jurken en topjes zullen verwerken.
 
-And as always, if you have pattern design skills but are a bit intimidated by the platform, reach out to us to see if we can join forces to make your ideas a reality.
+En zoals altijd, als je patroon ontwerpvaardigheden hebt maar een beetje geïntimideerd wordt door het platform, reik naar ons uit om te zien of we samen kunnen werken om je ideeën werkelijkheid te maken.

@@ -3,9 +3,9 @@ title: Overlap vermijden
 order: 220
 ---
 
-Je hebt nu enkel nog maar het uiteinde van één koordje getekend, maar het is al heel duidelijk dat ze overlappen. Dat is een grote no-no in naaipatronen, dus daar moeten we iets aan doen.
+Je hebt nu enkel nog maar het uiteinde van één bandje getekend, maar het is al heel duidelijk dat ze overlappen. Dat is een grote no-no in naaipatronen, dus daar moeten we iets aan doen.
 
-We gaan het koordje uit de weg draaien zodat het niet meer overlapt. De rest van het slabbetje moet blijven zoals het is, dus laten we om te beginnen een lijst maken van punten die moeten draaien:
+We gaan het bandje uit de weg draaien zodat het niet meer overlapt. De rest van het slabbetje moet blijven zoals het is, dus laten we om te beginnen een lijst maken van punten die moeten draaien:
 
 ```js
 let rotateThese = [
@@ -27,7 +27,7 @@ let rotateThese = [
 ];
 ```
 
-Nu kan je ze roteren. Hoe ver? Tot het koordje niet meer overlapt:
+Nu kan je ze roteren. Hoe ver? Tot het bandje niet meer overlapt:
 
 ```js
 while (points.tipRightBottomStart.x > -1) {
