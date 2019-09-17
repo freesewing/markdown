@@ -25,7 +25,7 @@
    viewBox="0 0 941.5 896.9"
    version="1.1"
    id="svg55"
-   sodipodi:docname="freesewing-waralee.svg"
+   sodipodi:docname="waralee.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata59">
@@ -35,7 +35,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
      id="namedview57"
      showgrid="false"
      inkscape:zoom="0.37211996"
-     inkscape:cx="367.66773"
+     inkscape:cx="144.31337"
      inkscape:cy="232.64945"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -522,81 +522,103 @@ svg.freesewing .right {
        d="M 472.5,841.5 V 264 l -1.4,-288.93"
        id="fs-8"
        class="fabric stroke-sm" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot6855"
-       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-       transform="translate(-323.00934,-5.0285017)"><flowRegion
-         id="flowRegion6857"
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"><rect
-           id="rect6859"
-           width="365.47354"
-           height="69.869942"
-           x="314.41473"
-           y="335.25317"
-           style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara6861"
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1">Cutout</flowPara></flowRoot>    <flowRoot
-       transform="translate(-343.90687,378.44112)"
-       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-       id="flowRoot6875"
-       xml:space="preserve"><flowRegion
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowRegion6871"><rect
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+       x="-8.5952778"
+       y="378.88303"
+       id="text997"><tspan
+         sodipodi:role="line"
+         x="-8.5952778"
+         y="378.88303"
+         id="tspan995"><tspan
+           x="-8.5952778"
+           y="378.88303"
            style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-           y="335.25317"
-           x="314.41473"
-           height="69.869942"
-           width="365.47354"
-           id="rect6869" /></flowRegion><flowPara
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowPara6873">Hem</flowPara></flowRoot>    <flowRoot
-       transform="translate(-406.31581,175.02096)"
-       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-       id="flowRoot6883"
-       xml:space="preserve"><flowRegion
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowRegion6879"><rect
+           id="tspan993">Cutout</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+       x="-29.492807"
+       y="762.35266"
+       id="text973"><tspan
+         sodipodi:role="line"
+         x="-29.492807"
+         y="762.35266"
+         id="tspan971"><tspan
+           x="-29.492807"
+           y="762.35266"
            style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-           y="335.25317"
-           x="314.41473"
-           height="69.869942"
-           width="365.47354"
-           id="rect6877" /></flowRegion><flowPara
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowPara6881">Sides</flowPara></flowRoot>    <flowRoot
-       transform="translate(-116.08682,-211.95102)"
-       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-       id="flowRoot6891"
-       xml:space="preserve"><flowRegion
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowRegion6887"><rect
+           id="tspan969">Hem</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+       x="-91.901749"
+       y="558.9325"
+       id="text985"><tspan
+         sodipodi:role="line"
+         x="-91.901749"
+         y="558.9325"
+         id="tspan983"><tspan
+           x="-91.901749"
+           y="558.9325"
+           style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan981">Sides</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+       x="198.32724"
+       y="162.22897"
+       id="text1021"><tspan
+         sodipodi:role="line"
+         x="198.32724"
+         y="162.22897"
+         id="tspan1015"><tspan
+           x="198.32724"
+           y="162.22897"
            style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-           y="335.25317"
-           x="314.41473"
-           height="120.92874"
-           width="204.23524"
-           id="rect6885" /></flowRegion><flowPara
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowPara6889">Back </flowPara><flowPara
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-         id="flowPara6895">Pocket</flowPara></flowRoot>    <flowRoot
+           id="tspan1011">Back </tspan><tspan
+           dx="0"
+           x="315.7439"
+           y="162.22897"
+           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan1013" /></tspan><tspan
+         sodipodi:role="line"
+         x="198.32724"
+         y="215.56232"
+         id="tspan1019"><tspan
+           x="198.32724"
+           y="215.56232"
+           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan1017">Pocket</tspan></tspan></text>
+    <text
        xml:space="preserve"
-       id="flowRoot6905"
-       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
-       transform="translate(-691.17018,-88.334964)"><flowRegion
-         id="flowRegion6899"
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"><rect
-           id="rect6897"
-           width="204.23524"
-           height="120.92874"
-           x="314.41473"
-           y="335.25317"
-           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara6901"
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1">Front </flowPara><flowPara
-         id="flowPara6903"
-         style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1">Pocket</flowPara></flowRoot>    <path
+       style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+       x="-376.7561"
+       y="285.84503"
+       id="text1009"><tspan
+         sodipodi:role="line"
+         x="-376.7561"
+         y="285.84503"
+         id="tspan1003"><tspan
+           x="-376.7561"
+           y="285.84503"
+           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan999">Front </tspan><tspan
+           dx="0"
+           x="-249.25612"
+           y="285.84503"
+           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan1001" /></tspan><tspan
+         sodipodi:role="line"
+         x="-376.7561"
+         y="339.17838"
+         id="tspan1007"><tspan
+           x="-376.7561"
+           y="339.17838"
+           style="font-size:42.66666794px;fill:#ffffff;fill-opacity:1;stroke:#5a3567;stroke-opacity:1"
+           id="tspan1005">Pocket</tspan></tspan></text>
+    <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
        d="M 92.179355,334.92746 54.557075,265.05752"
        id="path6907"
@@ -632,34 +654,36 @@ svg.freesewing .right {
        id="path8475"
        d="m 35.845982,772.90885 0.381959,46.04299"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8479)" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot9879"
-       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
-       transform="rotate(90,-156.50426,133.72559)"><flowRegion
-         id="flowRegion9875"
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"><rect
-           id="rect9873"
-           width="365.47354"
-           height="69.869942"
-           x="314.41473"
-           y="335.25317"
-           style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
-         id="flowPara9881">Front</flowPara></flowRoot>    <flowRoot
-       transform="rotate(-90,562.69604,506.45007)"
-       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
-       id="flowRoot9891"
-       xml:space="preserve"><flowRegion
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
-         id="flowRegion9887"><rect
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
+       x="604.64392"
+       y="406.69019"
+       id="text979"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         x="604.64392"
+         y="406.69019"
+         id="tspan977"><tspan
+           x="604.64392"
+           y="406.69019"
            style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
-           y="335.25317"
-           x="314.41473"
-           height="69.869942"
-           width="365.47354"
-           id="rect9885" /></flowRegion><flowPara
-         id="flowPara9889"
-         style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1">Back</flowPara></flowRoot>  </g>
+           id="tspan975">Front</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;dominant-baseline:ideographic;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
+       x="-754.73206"
+       y="440.1575"
+       id="text991"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         x="-754.73206"
+         y="440.1575"
+         id="tspan989"><tspan
+           x="-754.73206"
+           y="440.1575"
+           style="font-size:53.33333206px;fill:#ffffff;fill-opacity:1;stroke:#5a3368;stroke-opacity:1"
+           id="tspan987">Back</tspan></tspan></text>
+  </g>
   <!-- end of group #fs-container -->
 </svg>
