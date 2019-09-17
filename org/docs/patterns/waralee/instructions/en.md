@@ -18,17 +18,17 @@ These mostly have a nice drape and are cool. Heavy materials like denim are less
 ### Waist band
 
 Waralee is in some sense just a waist band with a long piece of fabric attached. The waist 
-band needs to continue from the fabric into two strands of fabric that are used to tie the
-pants in the front and back. These strands are not included in the pattern. Traditionally,
-they are of similar length. You can make longer ones for the back panel, to allow you to 
-tie both sets in the front. I prefer this as it is easier to do, and you don't have the bulk 
+band needs to continue from the fabric into two strings of fabric that are used to tie the
+pants in the front and back. These strings are not included in the pattern. Traditionally,
+they are of similar length. You can make longer ones for the front panel, to allow you to 
+tie both sets in the front. I prefer this as it is easier to tie, and you don't have the bulk 
 of the knot in the back.
 
 ### Pockets
 
 Traditionally, these types of pants do not have pockets. But I want to put my phone, keys 
 and wallet somewhere. So I've included pockets in the pattern. You can decide for yourself 
-if you would like them.
+if you would like them on your pants.
 
 ## Cutting
 
@@ -43,8 +43,8 @@ part that you need to cut out. This part has a *negative* seam allowance, since 
 be using it opposite of what you normally use the pattern pieces for. 
 
 If you opt for the cut-out method, use the *paperless* view to see all the dimensions
-of the pattern. You will need to cut a narrow rectangle out from what will become the 
-front, and a small triangle and rectangle from what will become the back. And in the 
+of the pattern. You will need to cut a narrow strip out from what will become the 
+front, and a small triangle and strip from what will become the back. And in the 
 middle between these will be the little cut-out pattern piece. Make sure you measure 
 this correctly, and you have the fabric squared before you start cutting.
 
@@ -56,8 +56,10 @@ The construction of Waralee is very simple. It consists of these steps:
 - Sew (hem) the sides
 - Hem the bottom
 - Sew the two parts together at the crotch
-- Sew the four strands
+- Sew the four strings
 - Sew the waist band
+
+![Waralee](waralee.svg "Waralee layout")
 
 ### Pockets
 
@@ -75,32 +77,43 @@ In the version I first made I just serged the sides, folded them back and top st
 them. I did this to keep the bulk of the fabric to a minimum and allow for a better 
 drape. What you do should depend on the type of fabric you're using.
 
-We're not going into a full explanation here on how to create all the individual details 
-that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible 
-zipper, make a vent, etc. If not, there are numerous excellent articles available on the 
-web, both in writen form, and on video. If you do get stuck, you can always reach out to 
+### Crotch
+
+Now you get to sew the two parts together. Lay them with the right sides together and sew the 
+seam along the cutout. Finish this seam and press it.
+
+![Waralee seam](waralee-cutout.svg "Crotch seam")
+
+### Strings
+
+The strings are just long tubes of fabric. They should have the same width as you specified 
+for the waistband, 2.5cm (1") by default. Cut out a strip of fabric twice that measurement
+plus a seam allowance, with the length of about a quarter of your waist measurement plus 
+40 cm (17") to make the knot. If you want to make the ones in the front longer, add half 
+your waist measurement to those two.
+
+If your material is delicate or flimsy, you can add some interfacing to this to give it 
+strength.
+
+Fold them in half along the long side, right sides together. Stitch the long side and one of 
+the short sides, and turn the thing right side out. This can be made easier by taking a piece
+of twine longer than the strips. Lay that between the right sides, along the fold. Make sure 
+you catch this while sewing the sort side. You can use this to pull the end through the tube 
+you've created. When you're done, you can cut it off. Having a long, skinny stick can help
+too with this.
+
+### Waist band
+
+Now it is time to sew the waist band. Think about adding interfacing if your fabric is 
+delicate. Fold the seam allowance in, and then fold along the waist band line. Insert 
+one of the strings you made in the previous step on each side. Sew along the waist band
+line, and add some additional stitching to make sure those strings are attached well. 
+They are the ones that keep your pants up, so having that stitching fail will result in
+awkward moments.
+
+Press your pants, and try them on!
+
+If you get stuck, or have additional questions, you can always reach out to 
 [other Freesewers](https://gitter.im/freesewing/help).
 
-First, sew all the darts. You want to press them towards the back. So for the back piece, 
-that means you press boths sides towards eachother. For the front piece, just the opposite.
-
-The next thing you want to do is sew the seam that has the zipper, and insert the zipper 
-into it. Follow the procedure that is appropriate for the type of zipper you're using.
-
-Sew up both the side seams.
-
-Your next step depends on whether you have a vent and lining. If you're including a lining,
-now is the time to make it. The lining is made the same way that the rest of the skirt is 
-made, with two exceptions; the darts are just pleats, and they have more 'ease' included. 
-How you distribute this 'ease' is up to you. You can add it to the dart pleats, add another 
-dart pleat, or make a box pleat in the middle. 
-
-Of course, if you include a lining, you have to include this in the way you've finished 
-your zipper. And connect it to the vent, if your skirt has one of those.
-
-Next is attaching the waistband if your version has one. First fold it double along the 
-long side and press. Add your interfacing. Sew it to the right side of the fabric. Then 
-turn it over and press the seam into the waistband. Now use the stitch-in-the-ditch 
-technique to finish the waistband. Add your choice of closure.
-
-All that is left now is to hem the skirt. 
+[How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")
