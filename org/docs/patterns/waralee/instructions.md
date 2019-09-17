@@ -52,11 +52,28 @@ this correctly, and you have the fabric squared before you start cutting.
 
 The construction of Waralee is very simple. It consists of these steps:
 
+- Sew the pockets
 - Sew (hem) the sides
 - Hem the bottom
-- 
+- Sew the two parts together at the crotch
+- Sew the four strands
+- Sew the waist band
 
+### Pockets
 
+These are optional. I included placements for the front pockets that will be hidden by
+the flaps in the front. But they will still be easily accessible to put your phone or 
+keys in. These are single welt pockets. The ones in the front are at an angle and the 
+ones in the back are horizontally oriented. The pocket templates should allow for enough 
+fabric to attach the pocket to the waistband. If you want particularly deep pockets, 
+please adjust accordingly.
+
+### Sides and bottom
+
+The sides and bottom need to be hemmed. You can use whatever method works best for you.
+In the version I first made I just serged the sides, folded them back and top stitched 
+them. I did this to keep the bulk of the fabric to a minimum and allow for a better 
+drape. What you do should depend on the type of fabric you're using.
 
 We're not going into a full explanation here on how to create all the individual details 
 that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible 
