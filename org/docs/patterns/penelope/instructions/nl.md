@@ -1,14 +1,3 @@
-## Wat je nodig hebt
-
-To make Penelope, you will need the following:
-
-- Basis naaimateriaal
-- About 1 meter of a suitable fabric 
-- An invisible zipper
-- Some interfacing for the waistband (if used) and maybe for the vent and hem
-- Some sort of closure for the waistband (if used)
-- Optionally: lining fabric
-
 ## Tips en opmerkingen
 
 ### Voering
@@ -35,13 +24,9 @@ A vent in the back is optional with Penelope. It will allow you to walk a lot ea
 
 Darts are used to compensate for the difference between your waist and seat measurements. Depending on this difference, there can be two darts, one dart, or no darts at all. More darts make for a potentially better fit. But if the amount of fabric that the dart will take in becomes too small, the number of darts will be reduced. Otherwise it would be very difficult to sew the darts, and they would probably become rather unsightly. Some of the difference will be taken in by the side seam, and if the difference is small, no darts will be included in the front and back pieces.
 
-## Knippen
-
-Penelope consists of a front and a back piece. The front piece is always cut-on-fold. For the back piece, this depends on whether you wanted a vent, or moved the zipper to the back seam. Either of those options will have you cut out two individual pieces for the back. When you cut out a piece on the fold, remember that the fold does not need to be in the middle of the fabric. Choosing the placement of your pieces wisely can greatly reduce the amount of fabric you need for your skirt.
-
 ## Constructie
 
-We're not going into a full explanation here on how to create all the individual details that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible zipper, make a vent, etc. If not, there are numerous excellent articles available on the web, both in writen form, and on video. If you do get stuck, you can always reach out to [other Freesewers](https://gitter.im/freesewing/help).
+We're not going into a full explanation here on how to create all the individual details that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible zipper, make a vent, etc. If not, there are numerous excellent articles available on the web, both in writen form, and on video. If you do get stuck, you can always reach out to [other FreeSewers](https://gitter.im/freesewing/help).
 
 First, sew all the darts. You want to press them towards the back. So for the back piece, that means you press boths sides towards eachother. For the front piece, just the opposite.
 
