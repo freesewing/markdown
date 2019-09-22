@@ -1,11 +1,3 @@
-## Wat je nodig hebt
-
-To make Waralee, you will need the following:
-
-- Basis naaimateriaal
-- About 2 meters of a suitable fabric 
-- Some interfacing for the waistband 
-
 ## Tips en opmerkingen
 
 ### Fabric
@@ -19,14 +11,6 @@ Waralee is in some sense just a waist band with a long piece of fabric attached.
 ### Pockets
 
 Traditionally, these types of pants do not have pockets. But I want to put my phone, keys and wallet somewhere. So I've included pockets in the pattern. You can decide for yourself if you would like them on your pants.
-
-## Knippen
-
-Waralee consists of two identical pieces of fabric. They are basically big rectangles with pieces missing. As such, it is easier to print out the piece you need to cut out and measure the rest, than it is to print out everything and cut the pattern the traditional way.
-
-The pattern is available both ways. You can print out the whole thing, tape all the pages together, and use that to cut out the fabric. It is also possible to print out only the part that you need to cut out. This part has a *negative* seam allowance, since you'll be using it opposite of what you normally use the pattern pieces for.
-
-If you opt for the cut-out method, use the *paperless* view to see all the dimensions of the pattern. You will need to cut a narrow strip out from what will become the front, and a small triangle and strip from what will become the back. And in the middle between these will be the little cut-out pattern piece. Make sure you measure this correctly, and you have the fabric squared before you start cutting.
 
 ## Constructie
 
@@ -69,6 +53,6 @@ Now it is time to sew the waist band. Think about adding interfacing if your fab
 
 Press your pants, and try them on!
 
-If you get stuck, or have additional questions, you can always reach out to [other Freesewers](https://gitter.im/freesewing/help).
+If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://gitter.im/freesewing/help).
 
 [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")
