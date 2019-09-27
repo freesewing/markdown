@@ -6,7 +6,7 @@ A Pattern object comes wih the following properties:
 
 - `settings` : The settings as set by the user
 - `options` : the options as set by the user
-- `config` : The pattern configuration
+- `config` : De patroon configuratie
 - `parts` : A plain object to hold your parts
 - `Part` : The [Part](/en/docs/developer/api/part) constructor
 - `store` : A [Store](/en/docs/developer/api/store) instance
