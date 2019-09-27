@@ -1,3 +1,6 @@
+---
+title: Reductie schouderhelling
+---
 
 This pattern adapts to sloped shoulder by taking the shoulder slope measurment into account.
 
