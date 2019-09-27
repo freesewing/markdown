@@ -1,3 +1,6 @@
+---
+title: Waistband position
+---
 
 ![Waistband position](waistbandposition.svg)
 
