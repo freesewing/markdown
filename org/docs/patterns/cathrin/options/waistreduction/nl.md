@@ -1,3 +1,6 @@
+---
+title: Reductie taille
+---
 
 ![De optie voor reductie taille bij Cathrin](./waistreduction.svg)
 
