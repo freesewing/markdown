@@ -1,3 +1,9 @@
+---
+title: Afstand kraag
+path: /en/docs/patterns/simon/options/collargap
+pattern: simon
+option: kraagAfstand
+---
 
 Hoe ver de kraag uit elkaar zit als hij gesloten is.
 
