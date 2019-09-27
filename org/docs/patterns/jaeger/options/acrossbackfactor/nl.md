@@ -1,3 +1,6 @@
+---
+title: Rugwijdte
+---
 
 ![Across back factor])(acrossbackfactor.svg)
 
