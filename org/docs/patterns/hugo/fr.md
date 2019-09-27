@@ -1,1 +1,4 @@
+---
+title: Hugo hoodie
+---
 
