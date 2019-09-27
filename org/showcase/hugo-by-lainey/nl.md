@@ -2,8 +2,9 @@
 date: 2019-02-24
 title: A hacked Hugo by Lainey
 img: showcase.jpg
-caption: A hacked hugo by Lainey
-patterns: [hugo]
+caption: Een Aaron hemdje door Joost
+patterns:
+  - hugo
 author: iggyblade
 ---
 
