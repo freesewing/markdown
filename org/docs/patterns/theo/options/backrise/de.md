@@ -1,3 +1,9 @@
+---
+title: Back rise
+path: /en/docs/patterns/theodore/options/backrise
+pattern: theodore
+option: backRise
+---
 
 This raises the waist of your trousers at the back.
 
