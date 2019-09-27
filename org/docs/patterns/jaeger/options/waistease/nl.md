@@ -1,3 +1,6 @@
+---
+title: Overwijdte taille
+---
 
 ![Overwijdte taille](waistease.svg)
 
