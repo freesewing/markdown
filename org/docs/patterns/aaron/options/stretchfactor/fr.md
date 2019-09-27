@@ -1,3 +1,6 @@
+---
+title: Stretch
+---
 
 ![The stretch factor option on Aaron](./stretchfactor.svg)
 
