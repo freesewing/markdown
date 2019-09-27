@@ -1,3 +1,6 @@
+---
+title: Naadloze volledige cirkel
+---
 
 ![Naadloze volledige cirkel](seamlessfullcircle.svg)
 
