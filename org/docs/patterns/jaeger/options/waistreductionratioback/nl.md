@@ -1,3 +1,6 @@
+---
+title: Ratio reductie taille rug
+---
 
 ![Ratio reductie taille rug](waistreductionratioback.svg)
 
