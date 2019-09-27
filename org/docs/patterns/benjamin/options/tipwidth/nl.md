@@ -1,3 +1,6 @@
+---
+title: Breedte punten
+---
 
 Brede en smalle strikken
 
