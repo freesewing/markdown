@@ -1,3 +1,6 @@
+---
+title: Hip rise
+---
 
 ![The hip rise option on Cathrin](./hiprise.svg)
 
