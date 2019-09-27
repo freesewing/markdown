@@ -1,49 +1,8 @@
+<Tip>
 
-### Video
-We have a video series that shows how to make Bruce:
+We have a video series that shows how to make Bruce: [From Scratch: Boxer Briefs on YouTube](https://www.youtube.com/watch?v=C6cpqEPWRwc&list=PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3)
 
-@[youtube](https://www.youtube.com/watch?v=C6cpqEPWRwc&list=PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3)
-
-### What you need
-
-To make Bruce, you will need the following:
-
-- Basic sewing supplies
-- About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- Enough wide (3cm or wider) elastic to fit around your waist
-- A serger, although you can survive without one
-
-### Fabric options
-
-You need a stretchy fabric for this pattern. Preferable something that is comfortable and soft to the touch, while allowing the skin to breathe.
-
-I personally think that nothing can beat rayon for this pattern, although you can do with some other knit too, like jersey.
-
-When in doubt, go for rayon.
-
-## Cutting
-
- - **Main fabric**
-   - Cut **1 back** on the fold
-   - Cut **2 fronts** on the fold
-   - Cut **2 insets**
-   - Cut **2 sides**
-
-> #### Caveats
-> - **back**
->   - Extra hem allowance at the leg
-> - **front**
->   - Cut this **twice**
-
-Bruce consist of a back, and two sides, insets and fronts.
-Below is a typical draft layout:
-
-![A typical Bruce draft](layout.svg)
-
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
-
-
-## Construction
+</Tip>
 
 ### Step 1: Join back to first side
 
@@ -93,14 +52,22 @@ Once you've passed the notch, things will get easier. This would also be a good 
 
 If the difference is too big however, just leave it. It will get get cut off when we do the crotchseam.
 
-> This is probably the hardest seam in the pattern. Take it slow, and you'll be fine.
+<Note>
 
-> #### Or enclose these seams by sandwiching them between the fronts
->
-> While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, 
-> and then sew your front pieces together with the insets sandwiched inside. 
-> 
-> Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front. 
+This is probably the hardest seam in the pattern. Take it slow, and you'll be fine.
+
+</Note>
+
+<Tip>
+
+###### Or enclose these seams by sandwiching them between the fronts
+
+While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, 
+and then sew your front pieces together with the insets sandwiched inside. 
+
+Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front. 
+
+</Tip>
 
 ### Step 4: Join second inset and fronts
 ![Join second inset and fronts](step03-d.png)
@@ -121,23 +88,36 @@ Fold the fronts double along the center fronts line, so that the tusks at the bo
 Serge the sides of the tusks to close the fronts dart.
 For best results, start at the top of the seam (where the fabric is folded) and work your way to the bottom.
 
-> #### Keep that seam away from my ...
-> Alternatively, sew the darts on each piece individually so that both seams are folded inside.
-> Arguably, not having an exposed seam in this area is more comfortable for the wearer.
+<Tip>
 
+###### Keep that seam away from my ...
+
+Alternatively, sew the darts on each piece individually so that both seams are folded inside.
+Arguably, not having an exposed seam in this area is more comfortable for the wearer.
+
+</Tip>
+ 
 ### Step 6: Optional: Topstitch
 ![Boxers with (left) and without topstitching](step06.jpg)
 
-> This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces. 
-> It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
+<Note>
+
+This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces. 
+It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
+
+</Note>
 
 If you want to topstitch your serged seams for visual effect, you should do so now.
 
 If you topstitch, simply do it for every seam, making sure to do so with a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stitch setting.
 
-> When topstitching the seam that closed the fronts dart, start from the bottom, 
-> and let the topstitching run all the way to the top, where the waistband will come. 
-> The seam stops halfway through (where the dart ends) but your topstitching should continue.
+<Tip>
+
+When topstitching the seam that closed the fronts dart, start from the bottom, 
+and let the topstitching run all the way to the top, where the waistband will come. 
+The seam stops halfway through (where the dart ends) but your topstitching should continue.
+
+</Tip>
 
 ### Step 7: Join the first side to the fronts
 ![Join the first side to the fronts](step07.png)
@@ -162,18 +142,26 @@ We will now serge the arched opening in the back part to the front parts of the 
 The notches on the back piece will help you. 
 There's the center notch, and the other two notches should match up with where the fronts and inset pieces are joined.
 
-> It's easier to start in the middle point and work your way to one side. Then start from the middle again to do the other side.
+<Tip>
 
-> Take it slow, and be **very aware** of where your serger blade is cutting into.
+It's easier to start in the middle point and work your way to one side. Then start from the middle again to do the other side.
+
+Take it slow, and be **very aware** of where your serger blade is cutting into.
+
+</Tip>
 
 ### Step 11: Hem the first leg
 ![Hem the first leg](step11.png)
 
 Time to hem the legs. Hem them as you would do any other stretchy knit. Go for a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stich setting.
 
-> I feel that hemming is much easier when you pin things in place first. 
-> So fold back your hem, and pin it in place. 
-> Even better: pin both legs in place and only sew when you're happy with how it looks.
+<Note>
+
+I feel that hemming is much easier when you pin things in place first. 
+So fold back your hem, and pin it in place. 
+Even better: pin both legs in place and only sew when you're happy with how it looks.
+
+</Note>
 
 ### Step 12: Hem the second leg
 ![Hem the second leg](step12.png)
@@ -185,9 +173,13 @@ You know it makes sense.
 
 Sew both ends of your elastic together with good sides together.
 
-> #### Not sure how much elastic you need?
-> Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. 
-> Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
+<Note>
+
+###### Not sure how much elastic you need?
+Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. 
+Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
+
+</Note>
 
 ### Step 14: Attach elastic to waist
 ![Attach elastic to waist](step14.png)
@@ -198,12 +190,16 @@ Do so good sides together if you're using a flexible stitch or twin needle on a 
 
 If you're using a coverlock, put the elastic on top of the good side of the fabric.
 
-> The length of your elastic will probably difffer from the fabric length, as they stretch differently. 
-> Pinning will help you achieve an even stretch.
-> 
-> Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
-> 
-> While sewing, stretch elastic and fabric together between each set of pins, removing the pins as your move on.
+<Tip>
+
+The length of your elastic will probably difffer from the fabric length, as they stretch differently. 
+Pinning will help you achieve an even stretch.
+
+Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
+
+While sewing, stretch elastic and fabric together between each set of pins, removing the pins as your move on.
+
+</Tip>
 
 ### Step 15: Trim and clean up
 ![Yay! You've made it](step15.png)
