@@ -1,3 +1,6 @@
+---
+title: Rugsplit
+---
 
 ![Rugsplit](backvent.svg)
 
