@@ -1,3 +1,6 @@
+---
+title: Hips ease
+---
 
 ![The hips ease option on Aaron](./hipsease.svg)
 
