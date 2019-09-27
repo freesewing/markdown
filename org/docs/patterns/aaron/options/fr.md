@@ -1,1 +1,4 @@
+---
+title: Pattern options
+---
 
