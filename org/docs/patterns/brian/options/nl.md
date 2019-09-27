@@ -1,3 +1,6 @@
+---
+title: Opties
+---
 
 
 ## Understanding the sleevecap
