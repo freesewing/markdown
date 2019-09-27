@@ -1,3 +1,6 @@
+---
+title: Bonus mouwlengte
+---
 
 ![De optie voor mouwlengte bij Brian](./sleevelengthbonus.svg)
 
