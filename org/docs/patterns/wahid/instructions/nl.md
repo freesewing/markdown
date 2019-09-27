@@ -145,7 +145,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Bevestig paspel en beleg zak
     
-    <img src="05c.png" alt="Bevestig paspel en beleg zak" title="" class="fs-row2" /> <img src="05d.png" alt="Bevestig paspel en beleg zak" title="" class="fs-row2" />
+    ![Bevestig paspel en beleg zak](05c.png) {.fs-row2} ![Bevestig paspel en beleg zak](05d.png) {.fs-row2}
     
     Leg je voorpand neer met de goede kant naar omhoog. We gaan de paspel aan de onderste lijn van de zakmarkering bevestigen, en het beleg aan de bovenste lijn.
     
@@ -195,7 +195,7 @@ Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iet
     
     #### Keer de paspel naar de achterkant, plooi en strijk
     
-    <img src="05i.png" alt="Keer de paspel naar de achterkant, plooi en strijk" title="" class="fs-row2" /> <img src="05j.png" alt="Keer de paspel naar de achterkant, plooi en strijk" title="" class="fs-row2" />
+    ![Keer de paspel naar de achterkant, plooi en strijk](05i.png) {.fs-row2} ![Keer de paspel naar de achterkant, plooi en strijk](05j.png) {.fs-row2}
     
     Keer de paspel met het bevestigde zakdeel naar de achterkant van de stof.
     
