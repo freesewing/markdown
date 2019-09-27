@@ -1,3 +1,8 @@
+---
+title: Curve staander
+pattern: simon
+option: staanderCurve
+---
 
 Hoeveel de kraagstaander omhoogbuigt aan de randen.
 
