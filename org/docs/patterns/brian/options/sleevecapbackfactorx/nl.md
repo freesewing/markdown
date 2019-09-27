@@ -1,3 +1,6 @@
+---
+title: Sleevecap back X
+---
 
 ![The horizontal location of the back inflection point](./sleevecapbackfactorx.svg)
 
