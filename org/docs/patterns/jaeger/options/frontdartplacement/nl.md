@@ -1,3 +1,6 @@
+---
+title: Plaatsing neep vooraan
+---
 
 ![Plaatsing neep vooraan](frontdartplacement.svg)
 
