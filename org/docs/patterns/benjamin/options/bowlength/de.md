@@ -1,3 +1,6 @@
+---
+title: Bow length
+---
 
 Bow ties Wide and Narrow
 
