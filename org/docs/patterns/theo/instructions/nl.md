@@ -303,7 +303,7 @@ Wanneer je dit gedaan hebt kan je je eerdere spelden verwijderen.
 
 ### Stap 21: Plooi het gulpbeleg om en speld het neer
 
-<img src="step21a.png" alt="Plooi het gulpbeleg om en speld het neer" title="" class="fs-row2" /> <img src="step21b.png" alt="Plooi het gulpbeleg om en speld het neer" title="" class="fs-row2" />
+![Plooi het gulpbeleg om en speld het neer](step21a.png) {.fs-row2} ![Plooi het gulpbeleg om en speld het neer](step21b.png) {.fs-row2}
 
 Draai alles om zodat het gulpbeleg onderaan ligt.
 
@@ -359,7 +359,7 @@ Strijk eens goed langs de achterkant.
 
 ### Stap 27: Speld en stik de rits aan het gulpdeel
 
-<img src="step27a.png" alt="Leg beide voorpanden op elkaar" title="" class="fs-row3" /> <img src="step27b.png" alt="Speld de rits langs de rand" title="" class="fs-row3" /> <img src="step27c.png" alt="Stik vast" title="" class="fs-row3" />
+![Leg beide voorpanden op elkaar](step27a.png) {.fs-row3} ![Speld de rits langs de rand](step27b.png) {.fs-row3} ![Stik vast](step27c.png) {.fs-row3}
 
 Leg de rechterbroekspijp neer met de goede kant omhoog. Leg de linkerbroekspijp bovenop met de goede kant naar beneden.
 
@@ -395,7 +395,7 @@ Gebruik een trens om ze aan elkaar te bevestigen, aan de onderkant van de rits. 
 
 ### Stap 30: Sluit de kruisnaad
 
-<img src="step30a.png" alt="Sluit de kruisnaad" title="" class="fs-row2" /> <img src="step30b.png" alt="Sluit de kruisnaad" title="" class="fs-row2" />
+![Sluit de kruisnaad](step30a.png) {.fs-row2} ![Sluit de kruisnaad](step30b.png) {.fs-row2}
 
 Leg beide voorpanden met goede kanten naar boven. Ze zijn nu verbonden met de gulp.
 
