@@ -1,3 +1,6 @@
+---
+title: Rugwijdte
+---
 
 ![De optie voor de rugwijdte voor Brian](./acrossbackfactor.svg)
 
