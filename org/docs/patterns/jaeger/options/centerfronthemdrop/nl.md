@@ -1,3 +1,6 @@
+---
+title: Verlaging zoom vooraan
+---
 
 ![Verlaging zoom vooraan](centerfronthemdrop.svg)
 
