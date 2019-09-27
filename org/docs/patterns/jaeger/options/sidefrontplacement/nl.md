@@ -1,3 +1,6 @@
+---
+title: Zij- voorpand plaatsing
+---
 
 ![Zij- voorpand plaatsing](sidefrontplacement.svg)
 
