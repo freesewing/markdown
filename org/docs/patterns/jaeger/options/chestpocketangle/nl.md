@@ -1,3 +1,6 @@
+---
+title: Hoek borstzak
+---
 
 ![Hoek borstzak](chestpocketangle.svg)
 
