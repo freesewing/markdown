@@ -1,4 +1,9 @@
+![Cuff length](cufflength.svg)
 
 The length of your cuffs.
 
-> This will not influence the total length of your sleeve.
+<Note>
+
+This will not influence the total length of your sleeve.
+
+</Note>
