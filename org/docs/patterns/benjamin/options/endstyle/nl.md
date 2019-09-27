@@ -1,3 +1,6 @@
+---
+title: Puntvorm
+---
 
 Drie verschillende puntjes
 
