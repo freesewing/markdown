@@ -1,3 +1,4 @@
+![Sleevecap ease](./sleevecapease.svg)
 
 How much sleevecap ease do you want?
 
