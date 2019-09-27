@@ -1,5 +1,3 @@
-
-
 ## Understanding the sleevecap
 
 In version 2 of FreeSewing, the sleevecap of Brian was redesigned to be more adaptable to
