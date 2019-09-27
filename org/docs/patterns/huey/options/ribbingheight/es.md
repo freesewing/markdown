@@ -1,3 +1,6 @@
+---
+title: Ribbing height
+---
 
 ![Ribbing height](ribbingheight.svg)
 
