@@ -1,3 +1,6 @@
+---
+title: Stretch
+---
 
 ![The stretch option on Bruce](./stretch.svg)
 
