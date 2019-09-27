@@ -1,3 +1,6 @@
+---
+title: Stretch pijp
+---
 
 ![De optie voor stretch pijp bij Bruce](./legstretch.svg)
 
