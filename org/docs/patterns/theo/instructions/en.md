@@ -1,74 +1,21 @@
 
-## Video
+<Note>
+
 Text a bit dry for you? I try to make videos available as part of the pattern documentation.
 
 In this particular case, there's a lot of video material available, but it was originally recorded for a previous version of this pattern. Still, good stuff.
 
 @[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
 
-## What you need
+</Note>
 
-To make Theodore, you will need the following:
+<Note>
 
- - Basic sewing supplies
- - About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
- - About a meter of lining fabric
- - Fusible interfacing for back pockets and waistband
- - A zipper, button and hook for the fly
+Many of the steps below are to be repeated for both trouser legs. 
 
-## Fabric options
+That is not always mentioned because life is short and continuously writing _Do not forget to do this for both trouser legs_ gets tired really soon.
 
-You have a lot of options here, but keep in mind that these are classic cut trousers. In other words, do not use stretch, denim, pleather of that sort of thing. Safe bets are wool, cotton, or linen, possibly blended with some synthetic.
-
-For **wool**, look in the suiting section of your fabric store. If this is your first pair, some wool-poly blend is most likely going to be more budget-friendly. But don't let price alone guide you, buying some cheap whimsical fabric is the best way to come up with a shitty looking pair of trousers, and get frustrated in the process.
-
-For **cotton**, go for a heavier weight. Cotton might also be a bit easier on the beginner than wool. If unsure what to use, ask for chino in the fabric store and simply pick a colour you like.
-
-Nothing beats **linen** on a hot summer day. It's fun to work with too, but it does wrinkle like a mofo, and even the most neatly made trousers look somewhat messy when made in linen. What I'm saying is, maybe not for your first pair.
-
-## Cutting
-
- - **Main fabric**
-   - Cut **2 back(s)** with good sides together
-   - Cut **2 front(s)** with good sides together
-   - Cut **1 waistband left**
-   - Cut **1 waistband right**
-   - Cut **2 fly piece(s)** with good sides together
-   - Cut **2 side piece(s)** with good sides together
-   - Cut **4 back pocket facing(s)** 
-   - Cut **8 belt loop(s)** 
- - **Lining**
-   - Cut **2 front lining(s)** with good sides together
-   - Cut **1 waistband lining left**
-   - Cut **1 waistband lining right**
-   - Cut **1 fly shield**
-   - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
-   - Cut **2 back inner pocket bag(s)** 
-   - Cut **2 back outer pocket bag(s)** 
- - **Interfacing**
-   - Cut **1 waistband interfacing left**
-   - Cut **1 waistband interfacing right**
-   - Cut **4 back pocket interfacing(s)**
-
-### Caveats
- - The **front lining** is cut from the **front** part on your draft, down to the line just below the knee
- - Pay attention to the grainline on the **fly piece**, **fly shield**, and **side piece**
- - There are two variations of the front pocket bag. You need to cut out two of each:
-    - Cut two of the complete piece
-    - Cut two with only extending up to the dashed line at the left
- - The **back inner pocket bag** and **back outer pocket bag** are very similar. Make sure to mark them correctly so you don't confuse them.
-
-Below is a typical draft layout of Theodore:
-
-![A typical Theodore draft](layout.svg)
-
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
-
-## Construction
-
-> Many of the steps below are to be repeated for both trouser legs. 
->
-> That is not always mentioned because life is short and continuously writing _Do not forget to do this for both trouser legs_ gets tired really soon.
+</Note>
 
 ### Step 1: Baste the pleat lines
 
@@ -98,14 +45,18 @@ Press your back darts flat, folding the seam allowance to the side of your trous
 
 Construct the double welt pockets at the back of your trousers, including the pocket bag.
 
-> **Double welt pockets**
->
-> Constructing a double welt pocket is a technique that is used is different garments. 
-> That is why I have branched it off into its own documentation page.
->
-> There's both written documentation and a video series that shows you how to do it, so even if you've never made welt pockets before, you'll be fine.
->
-> [To the welt pockets documentation](/en/docs/sewing/double-welt-pockets)
+<Tip>
+
+###### Double welt pockets
+
+Constructing a double welt pocket is a technique that is used is different garments. 
+That is why I have branched it off into its own documentation page.
+
+There's both written documentation and a video series that shows you how to do it, so even if you've never made welt pockets before, you'll be fine.
+
+[To the welt pockets documentation](/docs/sewing/double-welt-pockets)
+
+</Tip>
 
 ### Step 4: Optional: Trim your lining with pinking shears
 
