@@ -31,5 +31,5 @@
     - Cut two with only extending up to the dashed line at the left
  - The **back inner pocket bag** and **back outer pocket bag** are very similar. Make sure to mark them correctly so you don't confuse them.
 
-<Warning>
+</Warning>
 
