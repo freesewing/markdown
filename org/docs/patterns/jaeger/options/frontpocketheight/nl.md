@@ -1,3 +1,6 @@
+---
+title: Hoogte voorzak
+---
 
 ![Hoogte voorzak](frontpocketheight.svg)
 

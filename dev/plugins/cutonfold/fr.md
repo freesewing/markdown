@@ -79,5 +79,5 @@ The macro takes a single configuration object with the following properties:
 | `from`      |         | [Point](/api/point) | Le point de départ de l'indicateur *Coupé au pli*                           |
 | `to`        |         | [Point](/api/point) | Le point final de l'indicateur *Coupé au pli*                               |
 | `margin`    | 5       | [Point](/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
-| `offset`    | 50      | Number              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
-| `grainline` | `false` | Boolean             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
+| `offset`    | 50      | Nombre              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
+| `grainline` | `false` | Booléen             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |

@@ -42,7 +42,7 @@ Shin is a very simply pattern, and consists of two main parts plus the waistband
 
 Below is a typical draft layout:
 
-<img src="layout.svg" alt="A typical Shin draft" title="" class="elevation-1" />
+![A typical Shin draft](layout.svg) {.elevation-1}
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 

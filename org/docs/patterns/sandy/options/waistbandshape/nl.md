@@ -1,3 +1,6 @@
+---
+title: Vorm tailleband
+---
 
 ![Vorm tailleband](waistbandshape.svg)
 

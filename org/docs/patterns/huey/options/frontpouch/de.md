@@ -1,3 +1,6 @@
+---
+title: Front pouch
+---
 
 ![Front pouch](frontpouch.svg)
 

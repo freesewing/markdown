@@ -1,3 +1,6 @@
+---
+title: Front pocket width
+---
 
 ![Front pocket width](frontpocketwidth.svg)
 

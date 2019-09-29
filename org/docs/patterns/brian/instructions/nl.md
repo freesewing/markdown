@@ -1,3 +1,6 @@
+---
+title: Brian maken
+---
 
 ## Brian is een basis, geen patroon
 

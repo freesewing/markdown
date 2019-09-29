@@ -1,3 +1,6 @@
+---
+title: Making Bent
+---
 
 ## Bent is a block, not a pattern
 

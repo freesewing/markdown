@@ -1,3 +1,6 @@
+---
+title: Extra ruimte mouwkop
+---
 
 ![Extra ruimte mouwkop](sleevecapease.svg)
 

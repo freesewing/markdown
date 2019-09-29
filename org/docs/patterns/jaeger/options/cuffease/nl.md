@@ -1,3 +1,6 @@
+---
+title: Overwijdte manchet
+---
 
 ![Overwijdte manchet](cuffease.svg)
 

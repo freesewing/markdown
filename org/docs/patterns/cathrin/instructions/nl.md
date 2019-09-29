@@ -1,3 +1,7 @@
+---
+title: Cathrin maken
+path: /en/docs/patterns/cathrin
+---
 
 > #### Deze documentatie is incompleet
 > 

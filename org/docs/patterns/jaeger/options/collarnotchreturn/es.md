@@ -1,3 +1,6 @@
+---
+title: Collar notch return
+---
 
 ![Collar notch return](collarnotchreturn.svg)
 

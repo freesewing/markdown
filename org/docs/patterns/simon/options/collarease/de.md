@@ -1,3 +1,9 @@
+---
+title: Collar ease
+path: /en/docs/patterns/simon/options/collarease
+pattern: simon
+option: collarEase
+---
 
 How much ease do you want for your collar?
 

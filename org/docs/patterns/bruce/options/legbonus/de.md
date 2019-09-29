@@ -1,3 +1,6 @@
+---
+title: Leg bonus
+---
 
 ![The leg bonus option on Bruce](./legbonus.svg)
 

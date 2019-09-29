@@ -62,7 +62,7 @@ void macro("sprinkle", {
 
 The macro takes a single configuration object with the following properties:
 
-| Propriété | Défaut | Type             | Description                                               |
-| --------- | ------ | ---------------- | --------------------------------------------------------- |
-| `snippet` |        | String           | Name of the snippet to sprinkle                           |
-| `on`      | `[]`   | Array of strings | An array with *the names* of points to add the snippet on |
+| Propriété | Défaut | Type                            | Description                                                          |
+| --------- | ------ | ------------------------------- | -------------------------------------------------------------------- |
+| `snippet` |        | Chaîne de caractères            | Nom du snippet à ajouter                                             |
+| `on`      | `[]`   | Tableau de chaîne de caractères | Un tableau avec *les noms* de points sur lesquels ajouter le snippet |

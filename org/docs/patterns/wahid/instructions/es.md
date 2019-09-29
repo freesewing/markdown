@@ -145,7 +145,7 @@ If you haven't marked the four corners of that rectangle yet, you should do so n
 
 #### Attach pocket welt and pocket facing
 
-<img src="05c.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" /> <img src="05d.png" alt="Attach pocket welt and pocket facing" title="" class="fs-row2" />
+![Attach pocket welt and pocket facing](05c.png) {.fs-row2} ![Attach pocket welt and pocket facing](05d.png) {.fs-row2}
 
 Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
 
@@ -195,7 +195,7 @@ Fold them back making sure you to keep your pocket opening a clean rectangle, an
 
 #### Bring the pocket welt to the back, fold and press
 
-<img src="05i.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" /> <img src="05j.png" alt="Bring the pocket welt to the front, fold and press" title="" class="fs-row2" />
+![Bring the pocket welt to the front, fold and press](05i.png) {.fs-row2} ![Bring the pocket welt to the front, fold and press](05j.png) {.fs-row2}
 
 Flip the pocket welt with the attache pocket back tot he back side.
 

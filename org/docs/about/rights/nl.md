@@ -42,7 +42,7 @@ Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetensch
 
 <Note>
 
-Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij freesewing.
+Het recht op bezwaar is breder, maar dit is hoe het van toepassing is bij FreeSewing.
 
 </Note>
 

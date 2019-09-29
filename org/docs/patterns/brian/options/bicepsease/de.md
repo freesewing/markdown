@@ -1,3 +1,6 @@
+---
+title: Biceps ease
+---
 
 ![The biceps ease factor on Brian](./bicepsease.svg)
 

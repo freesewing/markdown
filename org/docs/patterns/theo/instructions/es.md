@@ -303,7 +303,7 @@ When you are done, remove your earlier perpendicular pins.
 
 ### Step 21: Fold over fly shield and pin down
 
-<img src="step21a.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" /> <img src="step21b.png" alt="FOld over fly shield and pin down" title="" class="fs-row2" />
+![FOld over fly shield and pin down](step21a.png) {.fs-row2} ![FOld over fly shield and pin down](step21b.png) {.fs-row2}
 
 Flip everything over so that your fly shield lies at the bottom.
 
@@ -359,7 +359,7 @@ Give it a good press from the back.
 
 ### Step 27: Pin and sew zip to fly piece
 
-<img src="step27a.png" alt="Place both legs on top of eachother" title="" class="fs-row3" /> <img src="step27b.png" alt="Pin the zip along the edge" title="" class="fs-row3" /> <img src="step27c.png" alt="Sew in place" title="" class="fs-row3" />
+![Place both legs on top of eachother](step27a.png) {.fs-row3} ![Pin the zip along the edge](step27b.png) {.fs-row3} ![Sew in place](step27c.png) {.fs-row3}
 
 Place the right leg down with the good side up. Place the leg on top of it with the good side down.
 
@@ -395,7 +395,7 @@ Use a bar-tack to join them together at the bottom of the zip. Sew on both edges
 
 ### Step 30: Join crotch seam
 
-<img src="step30a.png" alt="Join crotch seam" title="" class="fs-row2" /> <img src="step30b.png" alt="Join crotch seam" title="" class="fs-row2" />
+![Join crotch seam](step30a.png) {.fs-row2} ![Join crotch seam](step30b.png) {.fs-row2}
 
 Place both fronts with the good sides up. They are now joined by the fly.
 

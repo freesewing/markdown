@@ -42,7 +42,7 @@ Shin is een heel eenvoudig patroon, en bestaat uit twee hoofddelen plus een tail
 
 Hier is een typische layout:
 
-<img src="layout.svg" alt="Een typisch Shin patroon" title="" class="elevation-1" />
+![Een typisch Shin patroon](layout.svg) {.elevation-1}
 
 > De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 

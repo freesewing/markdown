@@ -1,3 +1,6 @@
+---
+title: Making Brian
+---
 
 ## Brian is a block, not a pattern
 

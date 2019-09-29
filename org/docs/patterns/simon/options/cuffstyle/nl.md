@@ -1,3 +1,9 @@
+---
+title: Stijl Manchet
+path: /en/docs/patterns/simon/options/cuffstyle
+pattern: simon
+option: manchetStijl
+---
 
 Wat voor manchet wil je?
 

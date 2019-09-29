@@ -1,3 +1,6 @@
+---
+title: Panelen
+---
 
 ![De opties voor panelen bij Cathrin](./panels.svg)
 

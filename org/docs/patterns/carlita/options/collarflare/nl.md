@@ -1,3 +1,6 @@
+---
+title: Spreiding kraag
+---
 
 Controls the flare of the collar.
 

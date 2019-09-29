@@ -1,3 +1,9 @@
+---
+title: Hoogte achter
+path: /en/docs/patterns/shin/options/backrise
+pattern: shin
+option: achterHoogte
+---
 
 Hoeveel extra hoogte wil je achteraan?
 

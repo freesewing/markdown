@@ -1,3 +1,9 @@
+---
+title: Button placket style
+path: /en/docs/patterns/simon/options/buttonplacketstyle
+pattern: simon
+option: buttonPlacketStyle
+---
 
 Do you want the button placket to be sewn in place (classic style), or folded back and held in place by the buttons (seamless style)?
 

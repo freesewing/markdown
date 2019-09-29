@@ -1,3 +1,6 @@
+---
+title: Hoogte achter
+---
 
 ![De optie voor hoogte achter bij Bruce](./backrise.svg)
 

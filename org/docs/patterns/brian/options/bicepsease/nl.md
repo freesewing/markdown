@@ -1,3 +1,6 @@
+---
+title: Overwijdte biceps
+---
 
 ![De factor voor biceps overwijdte bij Brian](./bicepsease.svg)
 

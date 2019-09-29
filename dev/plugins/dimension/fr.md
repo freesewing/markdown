@@ -99,14 +99,14 @@ void macro("hd", {
 
 The `hd` macro draws a horizontal dimenstion. It takes a single configuration object with the following properties:
 
-| Propriété       | Défaut               | Type                | Description                                                            |
-| --------------- | -------------------- | ------------------- | ---------------------------------------------------------------------- |
-| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                     |
-| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                         |
-| `y`             |                      | Number              | La valeur en Y où dessiner la dimension                                |
-| `text`          | Distance horizontale | Number              | The text to go on the dimension if not the from-to horizontal distance |
-| `noStartMarker` | `false`              | Boolean             | Whether to not draw a start marker                                     |
-| `noEndMarker`   | `false`              | Boolean             | Whether to not draw an end marker                                      |
+| Propriété       | Défaut               | Type                | Description                                                                                       |
+| --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
+| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                                                |
+| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                                                    |
+| `y`             |                      | Nombre              | La valeur en Y où dessiner la dimension                                                           |
+| `text`          | Distance horizontale | Nombre              | Le texte à indiquer sur une dimension s'il ne s'agit pas de la de la distance horizontale from-to |
+| `noStartMarker` | `false`              | Booléen             | Ne pas dessiner un marqueur de début                                                              |
+| `noEndMarker`   | `false`              | Booléen             | Ne pas dessiner un marqueur de fin                                                                |
 
 
 ### vd
@@ -121,14 +121,14 @@ void macro("vd", {
 
 The `vd` macro draws a vertical dimenstion. It takes a single configuration object with the following properties:
 
-| Propriété       | Défaut            | Type                | Description                                                          |
-| --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
-| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                   |
-| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                       |
-| `x`             |                   | Number              | The X-value at which to draw the dimension                           |
-| `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
-| `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
-| `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
+| Propriété       | Défaut             | Type                | Description                                                                         |
+| --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
+| `from`          |                    | [Point](/api/point) | Le point de départ de la dimension                                                  |
+| `to`            |                    | [Point](/api/point) | Le point final de la dimension                                                      |
+| `x`             |                    | Nombre              | La valeur en X à laquelle dessiner la dimension                                     |
+| `text`          | Distance verticale | Nombre              | Le texte correspondant à la dimension si ce n'est pas la distance verticale from-to |
+| `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
+| `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                                  |
 
 
 ### ld
@@ -143,14 +143,14 @@ void macro("ld", {
 
 The `ld` macro draws a linear dimenstion. It takes a single configuration object with the following properties:
 
-| Propriété       | Défaut          | Type                | Description                                                        |
-| --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
-| `from`          |                 | [Point](/api/point) | Le point de départ de la dimension                                 |
-| `to`            |                 | [Point](/api/point) | Le point final de la dimension                                     |
-| `d`             | 0               | Number              | The offset at which to draw the dimension                          |
-| `text`          | Linear distance | Number              | The text to go on the dimension if not the from-to linear distance |
-| `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
-| `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
+| Propriété       | Défaut            | Type                | Description                                                                    |
+| --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
+| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                             |
+| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                                 |
+| `d`             | 0                 | Nombre              | Le décalage avec lequel dessiner la dimension                                  |
+| `text`          | Distance linéaire | Nombre              | Le texte à accoler à la dimension si ce n'est pas la distance linéaire from-to |
+| `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                           |
+| `noEndMarker`   | `false`           | Booléen             | Ne pas dessiner un marqueur de fin                                             |
 
 
 ### pd
@@ -164,10 +164,10 @@ void macro("pd", {
 
 The `ld` macro draws a dimenstion parallel to a [Path](/api/path). It takes a single configuration object with the following properties:
 
-| Propriété       | Défaut      | Type              | Description                                                   |
-| --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
-| `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
-| `offset`        | 0           | Number            | The offset at which to draw the dimension                     |
-| `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
-| `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
-| `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
+| Propriété       | Défaut             | Type                | Description                                                        |
+| --------------- | ------------------ | ------------------- | ------------------------------------------------------------------ |
+| `path`          |                    | [Chemin](/api/path) | Le chemin le long duquel dessiner la dimension                     |
+| `offset`        | 0                  | Nombre              | Le décalage avec lequel dessiner la dimension                      |
+| `text`          | Longueur du chemin | Nombre              | Le texte à accoler au chemin si ce n'est pas la longueur du chemin |
+| `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                               |
+| `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                 |

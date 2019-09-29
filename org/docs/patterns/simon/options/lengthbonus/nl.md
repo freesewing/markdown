@@ -1,3 +1,9 @@
+---
+title: Bonus lengte
+path: /en/docs/patterns/simon/options/lengthbonus
+pattern: simon
+option: lengteBonus
+---
 
 Hoeveel hemd wil je in je broek kunnen proppen?
 

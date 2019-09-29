@@ -1,3 +1,6 @@
+---
+title: Ribbing stretch
+---
 
 Met deze optie kan je de stretch van je boord aanpassen.
 

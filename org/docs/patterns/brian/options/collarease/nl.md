@@ -1,3 +1,6 @@
+---
+title: Overwijdte kraag
+---
 
 ![Overwijdte kraag](./collarease.svg)
 

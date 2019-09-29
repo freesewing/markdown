@@ -1,3 +1,6 @@
+---
+title: Aanpas band
+---
 
 Traditioneel of aanpasbaar?
 
