@@ -1,5 +1,5 @@
 ---
-title: Use translation keys, not text
+title: Verwende Übersetzungschlüssel, nicht Text
 ---
 
 Don't insert literal text in your patterns. Instead, insert a key that can then be translated.
