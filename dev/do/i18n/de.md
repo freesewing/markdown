@@ -2,7 +2,7 @@
 title: Verwende Übersetzungschlüssel, nicht Text
 ---
 
-Don't insert literal text in your patterns. Instead, insert a key that can then be translated.
+Fügen Sie keine Texte in Ihre Schnittmuster ein. Stattdessen fügen Sie bitte einen Schlüssel ein, der übersetzt werden kann.
 
 For example, if you want to put *Finish with bias tape* on your pattern, don't be tempted to do this:
 
