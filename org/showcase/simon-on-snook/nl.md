@@ -13,9 +13,10 @@ author: web_goddess
 <Note>
 
 ###### See the original on [@web_goddess](/users/web_goddess)'s blog
-
-This picture is from [this blog post](https://www.web-goddess.org/archive/18117) on [web-goddess.org](https://www.web-goddess.org/).
+This picture is from [this blog post](https://www.web-goddess.org/archive/18117) 
+on [web-goddess.org](https://www.web-goddess.org/).
 
 Hij werd hier gepost met toestemming.
 
 </Note>
+
