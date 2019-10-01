@@ -14,6 +14,4 @@ author: swissarmywife
 
 > ##### Check the original in the Instagram feed of swissarmywife
 > 
-> This picture is from [the Instagram feed](https://www.instagram.com/p/BYAX07OFEPL/)  
-> of [swissarmywife](https://mnel2.wordpress.com/).  
-> It's posted here with permission.
+> This picture is from [the Instagram feed](https://www.instagram.com/p/BYAX07OFEPL/) of [swissarmywife](https://mnel2.wordpress.com/). It's posted here with permission.
