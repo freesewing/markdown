@@ -23,8 +23,7 @@ The issue is also more troublesome than it would seem at the surface. First of a
 
 Furthermore, while any fix we implement would apply to new drafts, all existing drafts generated before the fix would still be impacted.
 
-In other words, if you drafted a pattern last week, or a month ago, that pattern would not scale correctly in a recent version of Inkscape.  
-And since we use Inkscape in our SVG-to-PDF tool-chain, it would also be incorrectly scaled if you came here and downloaded a PDF.
+In other words, if you drafted a pattern last week, or a month ago, that pattern would not scale correctly in a recent version of Inkscape. And since we use Inkscape in our SVG-to-PDF tool-chain, it would also be incorrectly scaled if you came here and downloaded a PDF.
 
 Clearly, something needed to be done. And fast.
 
@@ -44,8 +43,8 @@ To avoid problems with pre-existing drafts, we needed to come up with a solution
 
 We essentially have two options:
 
-- Re-draft all those drafts
-- Patch them in-place without changing the draft itself
+ - Re-draft all those drafts
+ - Patch them in-place without changing the draft itself
 
 Re-drafting fixes the issue as every new draft will be handled by the latest core version that does include the fix.
 
@@ -68,3 +67,4 @@ If since you generated your draft we've rolled out new features or fixes, you'll
 ![If you draft is generated with an old version of freesewing core, we'll tell you about it](upgrade.png)
 
 Whether you update your draft or not is up to you. If you don't want to loose the info in your *old* draft, rather than update it in-place, you can fork it.
+
