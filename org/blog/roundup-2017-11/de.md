@@ -10,7 +10,6 @@ author: joost
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
 ## Looking back at November
-
 November has been busy around here. While lot of the work has been happening behind the scenes -- more on that in December -- there's also a list of things that are already rolled out.
 
 Here's the most important changes:
@@ -29,6 +28,7 @@ That's because it's the first ever pattern to have been contributed by the commu
 
 So shout-out to him for being the first person to contribute a pattern. And if you [hang around in the freesewing chat room](https://gitter.im/freesewing/chat), you know that he's already started working on his next pattern.
 
+
 ### Better user on-boarding
 
 I've changed the sign-up flow a bit to help people discover all the options they can set in their account.
@@ -39,10 +39,10 @@ The change is two-fold. First you are now auto-magically logged in when you clic
 
 Second, we send you to the welcome page and guide you through a few steps to finalize your account setup. Specifically:
 
-- Configure your units
-- Configure your username
-- Configure your profile picture
-- Configure your social media accounts
+ - Configure your units
+ - Configure your username
+ - Configure your profile picture
+ - Configure your social media accounts
 
 (More on that last one later in this post)
 
@@ -67,7 +67,6 @@ But it's a rather niche scenario, and more often than not it's due to the user n
 So now, when you draft a pattern with mixed units, we'll show you a warning box to make sure that you do actually intend to use mixed units.
 
 ### Per-pattern default seam allowance
-
 The roll-out of Benjamin raised another issue: standard seam allowance.
 
 For a bow tie, the current standard seam allowance (1cm for metric, 5/8" for imperial) is too large. So Wouter wanted some way to change the standard seam allowance.
@@ -82,9 +81,9 @@ Note that this is only the default seam allowance. When you draft a pattern you 
 
 If you clicked the link to the welcome page, or if you check out the settings in [your profile](/profile) you'll see that you can now enter your username for a few other sites:
 
-- Twitter
-- Instagram
-- GitHub
+ - Twitter
+ - Instagram
+ - GitHub
 
 No need to worry, [your privacy is in good hands here](/blog/privacy-choices/). I am not interested in collecting your data, and the only reason this is here is because people [asked for it](https://github.com/freesewing/site/issues/184).
 
@@ -113,7 +112,6 @@ That doesn't mean that people aren't clicking links to your blog, but we simply 
 Why you ask? Because privacy.
 
 ### On-demand tiler
-
 When you draft a pattern here, you can download it in a number of formats, all neatly tiled so you can print them.
 
 You can also download the SVG source code to make further changes to the patterns. But once you have made those changes, there's no easy way for you to get it as a printable PDF.
