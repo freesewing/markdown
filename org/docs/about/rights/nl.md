@@ -24,11 +24,11 @@ Je hebt het recht om je persoonlijke gegevens te wissen. Ga naar [account/remove
 
 ## The right to restrict processing
 
-Je hebt het recht een restrictie aan te vragen voor het verwerken van je persoonlijke gegevens. Ga naar [account/restrict](/account/restrict) om te vragen de verwerking van je persoonlijke gegevens te beperken.
+Je hebt het recht een restrictie aan te vragen voor het verwerken van je persoonlijke gegevens. Ga naar [account/restrict](/account/restrict) om te vragen de verwerking van je persoonlijke gegevens te beperken.  
 
 <Warning>
 
-Je aanvraag zal meteen in werking gesteld worden en kan enkel ongedaan gemaakt worden door [ons te contacteren](/contact) om de restrictie op te heffen.
+Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
 
 </Warning>
 
@@ -38,7 +38,7 @@ Je hebt het recht om je persoonlijke gegevens te verkrijgen en opnieuw te gebrui
 
 ## The right to object
 
-Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetenschappelijk onderzoek. Ga naar [account/consent](/account/consent) en geef je bezwaar aan bij de **modelgegevens**.
+Je hebt het recht bezwaar te hebben op het gebruik van je gegevens voor wetenschappelijk onderzoek. Go to [/account/consent](/account/consent) and object in the **model data** section to do so.
 
 <Note>
 
