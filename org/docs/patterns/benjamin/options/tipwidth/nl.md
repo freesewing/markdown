@@ -1,7 +1,3 @@
----
-title: Breedte punten
----
-
 Brede en smalle strikken
 
 Je kan GROTE vlinderdassen maken, of kleine. Deze optie staat je toe de verticale grootte van de strik aan te passen. Maak de strik groter en flamboyanter, of kleiner voor een subtieler effect. (voor zover een vlinderdas subtiel is)
