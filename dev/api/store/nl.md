@@ -5,16 +5,15 @@ components: true
 
 ## Description
 
-Het **Store** object houdt een plaats waar `key/value` paren bewaard kunnen worden, met methods voor het bewaren en terughalen van informatie.  
-Een enkele `store` wordt gedeeld per patroon.
+The **Store** object holds a simple key/value store with methods for storing and retrieving information. A single store per pattern is shared by all pattern parts.
 
 Een `store` wordt meestal gebruikt om informatie tussen delen van een patroon beschikbaar te kunnen maken. Bij voorbeeld de lengte van de halsopening in een patroondeel kan worden gebruikt om de lengte van de kraag in een ander deel te kunnen berekenen.
 
 <Tip>
 
-###### De `store` is beschikbaar als `shorthand`
+###### The store is available as shorthand
 
-Je kunt de `store` instance benaderen door de [Part.shorthand](./part#shorthand) methode;
+You can access the store instance from the [Part.shorthand](./part#shorthand) method;
 
 ```js
 let { store } = part.shorthand();
