@@ -52,7 +52,6 @@ void macro("grainline", {
   to: Point
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Property | Default | Type                | Description                                 |
