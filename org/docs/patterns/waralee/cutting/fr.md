@@ -4,6 +4,12 @@ The pattern is available both ways. You can print out the whole thing, tape all 
 
 <Tip>
 
-If you opt for the cut-out method, use the paperless view to see all the dimensions of the pattern. You will need to cut a narrow strip out from what will become the front, and a small triangle and strip from what will become the back. And in the middle between these will be the little cut-out pattern piece. Make sure you measure this correctly, and you have the fabric squared before you start cutting.
+If you opt for the cut-out method, use the paperless view to see all the dimensions of the pattern. 
+You will need to cut a narrow strip out from what will become the front, and a small triangle and strip from what will become the back. 
+And in the middle between these will be the little cut-out pattern piece. 
+Make sure you measure this correctly, and you have the fabric squared before you start cutting.
 
 </Tip>
+
+
+
