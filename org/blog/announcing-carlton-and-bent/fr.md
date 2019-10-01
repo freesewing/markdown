@@ -46,7 +46,6 @@ I also feel like I have to keep too many plates spinning right now, so I'm hopef
 Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
 
 ## Also, this: Introducing the Bent Body Block
-
 We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
 
 Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
