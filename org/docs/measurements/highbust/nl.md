@@ -2,7 +2,7 @@
 title: Hoge buste
 ---
 
-De **hoge buste** afmeting is je borstomtrek net onder je armen, boven het breedste deel van je borst.
+The **high bust** measurement is your chest circumference measured just under your arms, above the fullest part of your bust.
 
 Het doel van de hoge bustemaat is een idee te krijgen van de borstomtrek zonder rekening te houden met de borsten. Hierdoor is deze maar enkel relevant voor modellen met borsten.
 
