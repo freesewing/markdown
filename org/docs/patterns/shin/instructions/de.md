@@ -1,15 +1,11 @@
----
-title: Making Shin
-path: /en/docs/patterns/shin
----
 
 ## What you need
 
 To make Shin, you will need the following:
 
-- Basic sewing supplies
-- About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- two eyelets and a drawstring
+ - Basic sewing supplies
+ - About 0.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
+ - two eyelets and a drawstring
 
 > #### A serger/overlock is nice, but optional
 > 
@@ -23,15 +19,15 @@ Swim trunks should be made out of a material with stretch that is suitable for b
 
 Typically, this falls apart in a few categories:
 
-- Nylon mixed with elastene, spandex, or lycra is soft and stretchy. This is what most casual swimwear is made from.
-- Polyester mixed with PBT (polybutylene terephthalate) is less soft to the touch, but resistant to chlorine and salt water. This is what a lot of competitive swimwear is made from.
-- Neoprene, also known as scuba, is heavier and less tretchy. It's the stuff scuba suits are made from.
+ - Nylon mixed with elastene, spandex, or lycra is soft and stretchy. This is what most casual swimwear is made from.
+ - Polyester mixed with PBT (polybutylene terephthalate) is less soft to the touch, but resistant to chlorine and salt water. This is what a lot of competitive swimwear is made from.
+ - Neoprene, also known as scuba, is heavier and less tretchy. It's the stuff scuba suits are made from.
 
 ## Cutting
 
-- Cut **2 backs** with good sides together
-- Cut **4 fronts** 2 x 2 with good sides together
-- Cut **1 waistband** 
+ - Cut **2 backs** with good sides together
+ - Cut **4 fronts** 2 x 2 with good sides together
+ - Cut **1 waistband**
 
 > #### Caveats
 > 
@@ -45,6 +41,7 @@ Below is a typical draft layout:
 ![A typical Shin draft](layout.svg) {.elevation-1}
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+
 
 ## Construction
 
