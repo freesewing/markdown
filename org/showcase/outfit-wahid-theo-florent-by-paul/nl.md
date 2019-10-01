@@ -5,7 +5,7 @@ img: showcase.jpg
 caption: "Outfit - Florent, Theodore & Wahid door paul"
 patterns:
   - florent
-  - the
+  - theo
   - wahid
 author: Tiger751023
 ---
