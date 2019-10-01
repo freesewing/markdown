@@ -1,10 +1,6 @@
----
-title: Stretch
----
-
 ![De optie voor de stretch factor van Aaron](./stretchfactor.svg)
 
-Hoe ver rekt je stof uit? Kies 0% als je stof geen stretch heeft.
+Hoe ver rekt je stof uit?  Kies 0% als je stof geen stretch heeft.
 
 > ##### Deze optie heeft alleen impact op de horizontale richting van de stretch.
 > 
