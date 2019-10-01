@@ -23,3 +23,4 @@ Using `inject` will cause FreeSewing to always draft the injected part prior to 
 For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
 
 </Note>
+
