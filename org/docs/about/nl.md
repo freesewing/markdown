@@ -2,7 +2,7 @@
 title: Over FreeSewing
 ---
 
-FreeSewing is een open source platform voor naaipatronen op maat. Ons doel is de *Wikipedia voor naaipatronen* te worden.
+FreeSewing is een open source platform voor naaipatronen op maat. Our aim is to become the *WikiPedia of sewing patterns*.
 
 Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken.
 
@@ -17,6 +17,7 @@ Er zit geen bedrijf achter FreeSewing. Dit alles is mogelijk dankzij het harde w
 ## FreeSewing maakt naaipatronen op maat
 
 Al onze naaipatronen worden op maar gemaakt. Er worden geen patronen geschaald of gegradeerd. In plaats daarvan maken we het patroon volgens jouw maten. Dat gebeurt in real-time, in je browser.
+
 
 ## FreeSewing is een platform
 
