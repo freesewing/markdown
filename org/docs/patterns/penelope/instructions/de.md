@@ -41,3 +41,7 @@ Of course, if you include a lining, you have to include this in the way you've f
 Next is attaching the waistband if your version has one. First fold it double along the long side and press. Add your interfacing. Sew it to the right side of the fabric. Then turn it over and press the seam into the waistband. Now use the stitch-in-the-ditch technique to finish the waistband. Add your choice of closure.
 
 All that is left now is to hem the skirt.
+
+
+
+
