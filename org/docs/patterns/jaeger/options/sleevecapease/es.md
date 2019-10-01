@@ -1,6 +1,3 @@
----
-title: Sleevecap ease
----
 
 ![Sleevecap ease](sleevecapease.svg)
 
