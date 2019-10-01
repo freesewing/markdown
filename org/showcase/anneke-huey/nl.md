@@ -13,9 +13,10 @@ author: AnnekeCaramin
 <Note>
 
 ###### See the original on Anneke's blog
-
-This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) on [annekecaramin.com](http://www.annekecaramin.com/).
+This post [originally appeared](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) 
+on [annekecaramin.com](http://www.annekecaramin.com/).
 
 Hij werd hier gepost met toestemming.
 
 </Note>
+
