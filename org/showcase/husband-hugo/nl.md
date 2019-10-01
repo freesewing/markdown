@@ -8,7 +8,7 @@ patterns:
 author: Sonia
 ---
 
-Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/_1j7FSgynG/) van [uneanneedecouture](https://uneanneedecouture.wordpress.com/).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/_1j7FSgynG/)  van [uneanneedecouture](https://uneanneedecouture.wordpress.com/).
 
 > ##### Meer foto's en info in de originele blogpost
 > 
