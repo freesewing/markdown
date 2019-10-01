@@ -1,7 +1,3 @@
----
-title: Hoogte achter
----
-
 ![De optie voor rughoogte bij Cathrin](./backrise.svg)
 
 Hoe hoog wil je dat het korset komt in de rug, in vergelijking met de hoogte van de onderbuste?
