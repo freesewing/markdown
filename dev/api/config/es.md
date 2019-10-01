@@ -16,8 +16,9 @@ A string with the name of your pattern.
 
 ## version
 
-    version: "0.3.1"
-    
+```
+version: "0.3.1"
+```
 
 ## dependencies
 
@@ -79,7 +80,10 @@ An array that lists your (additional) pattern parts. The name must be the key th
 
 ###### This does not need to be an exhaustive list of all parts in your pattern.
 
-This list of parts is needed for the `draft()` method to figure out what parts need to be drafted. So if parts are included in the `dependencies`, `inject`, or `hide` configuration, there's no need to include them here, as we already know of their existence.
+This list of parts is needed for the `draft()` method to figure out what
+parts need to be drafted.
+So if parts are included in the `dependencies`, `inject`, or `hide` configuration, 
+there's no need to include them here, as we already know of their existence.
 
 </Tip>
 
@@ -92,13 +96,15 @@ measurements: [
 ]
 ```
 
-An array with the names of the measurements required to draft this pattern.
+An array with the names of the measurements required to draft this pattern. 
 
 <Note>
 
 ###### Don't just make up names
 
-See [freesewing models](https://github.com/freesewing/models) for a list of measurement names already used in freesewing patterns. It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
+See [freesewing models](https://github.com/freesewing/models) 
+for a list of measurement names already used in freesewing patterns.
+It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
 
 </Note>
 
@@ -106,15 +112,16 @@ See [freesewing models](https://github.com/freesewing/models) for a list of meas
 
 Options come in 6 varities:
 
-- [Constants](#constants) : A value that can't be changed
-- [Booleans](#booleans) : A value that is either `true` or `false`
-- [Percentages](#percentages) : A value in percent, with minimum and maximum values
-- [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
-- [Degrees](#degrees) : A value in degrees, with minimum and maximum values
-- [Counters](#counters) : An integer value, with minimum and maximum values
-- [Lists](#lists) : A list of options with a default
+ - [Constants](#constants) : A value that can't be changed
+ - [Booleans](#booleans) : A value that is either `true` or `false`
+ - [Percentages](#percentages) : A value in percent, with minimum and maximum values
+ - [Millimeters](#millimeters) : A value in millimeter, with minimum and maximum values
+ - [Degrees](#degrees) : A value in degrees, with minimum and maximum values
+ - [Counters](#counters) : An integer value, with minimum and maximum values
+ - [Lists](#lists) : A list of options with a default
 
 Under the hood, millimeters, degrees, and counters are handled the same way. We use different types because it easier to understand the nature of a given option.
+
 
 ### Constants
 
@@ -134,7 +141,7 @@ If your option is either `true` or `false, or **on** or **off** or **yes** or **
 
 Your boolean option should be an object with these properties:
 
-- `bool` : Either `true` or `false` which will be the default
+ - `bool` : Either `true` or `false` which will be the default
 
 ```js
 options: {
@@ -148,9 +155,9 @@ Percentage options are the bread and butter of freesewing. Almost all your optio
 
 Your percentage option should be an object with these properties:
 
-- `pct` : The percentage
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+ - `pct` : The percentage
+ - `min` : The minimul that's allowed
+ - `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -166,7 +173,8 @@ options: {
 
 ###### Percentage options will be divided by 100 when loaded
 
-You specify percentages in your config file. For example, `50` means 50%. When your configuration is loaded, those percentages will by divided by 100.
+You specify percentages in your config file. For example, `50` means 50%.
+When your configuration is loaded, those percentages will by divided by 100. 
 
 So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
 
@@ -174,14 +182,13 @@ So a percentage of `50` in your config file will be `0.5` when you read out that
 
 ### Millimeters
 
-While we recommend using percentages where possible, sometimes that doesn't make sense.  
-For those cases, you can use millimeters.
+While we recommend using percentages where possible, sometimes that doesn't make sense. For those cases, you can use millimeters.
 
 Your millimeter option should be an object with these properties:
 
-- `mm` : The default value in millimeter
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+ - `mm` : The default value in millimeter
+ - `min` : The minimul that's allowed
+ - `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -199,9 +206,9 @@ For angles, use degrees.
 
 Your degree option should be an object with these properties:
 
-- `deg` : The default value in degrees
-- `min` : The minimul that's allowed
-- `max` : The maximum that's allowed
+ - `deg` : The default value in degrees
+ - `min` : The minimul that's allowed
+ - `max` : The maximum that's allowed
 
 ```js
 options: {
@@ -219,9 +226,9 @@ For a given number of things, use counters. Counters are for integers only. Thin
 
 Your counter option should be an object with these properties:
 
-- `count` : The default integer value
-- `min` : The minimal integer value that's allowed
-- `max` : The maximum integer value that's allowed
+ - `count` : The default integer value
+ - `min` : The minimal integer value that's allowed
+ - `max` : The maximum integer value that's allowed
 
 ```js
 options: {
@@ -239,8 +246,8 @@ Use a list option when you want to offer an array of choices.
 
 Your list option should be an object with these properties:
 
-- `dflt` : The default for this option
-- `list` : An array of available values options
+ - `dflt` : The default for this option
+ - `list` : An array of available values options
 
 ```js
 options: {
@@ -320,3 +327,5 @@ optionGroups: {
   ]
 } 
 ```
+
+
