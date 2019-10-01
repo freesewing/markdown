@@ -3,11 +3,11 @@ title: Ajouter des options
 order: 140
 ---
 
-Vous savez à quoi devrait ressembler votre bavoir, et vous disposez de la mesure *headCircumference* (pour tour de tête en français). Mais il y a encore un certain nombre de choix que vous allez devoir faire :
+You know what your bib should look like, and you have the *headCircumference* measurement to work with. Mais il y a encore un certain nombre de choix que vous allez devoir faire :
 
-- Quelle devrait être la largeur de l'encolure ?
-- Quelle sera la largeur du bavoir ?
-- Quelle longueur devra-t-il avoir ?
+ - Quelle devrait être la largeur de l'encolure ?
+ - Quelle sera la largeur du bavoir ?
+ - Quelle longueur devra-t-il avoir ?
 
 Vous pourriez faire ces choix à la place de l'utilisateur et les graver dans la pierre, pour ainsi dire.
 
@@ -30,14 +30,15 @@ Ouvrez le fichier de configuration à cette adresse `config/index.js` et ajoutez
 
 Pouvez-vous devinez ce que cela signifie ?
 
-- Nous avons ajouté une option de type pourcentage
-- Sa valeur minimale est de 70%
-- Sa valeur maximale est de 90%
-- Sa valeur par défaut est de 80%
+ - Nous avons ajouté une option de type pourcentage
+ - Sa valeur minimale est de 70%
+ - Sa valeur maximale est de 90%
+ - Sa valeur par défaut est de 80%
 
 <Note>
 
-Il y a différents types d'options, mais les pourcentages sont les plus communes. Toute la documentation à ce sujet est dans [la doc API](fr/api/config#options).
+Il y a différents types d'options, mais les pourcentages sont les plus communes.
+They are all documentation [in the API docs](/api/config#options).
 
 </Note>
 
@@ -51,9 +52,9 @@ options: {
 }
 ```
 
-- Vous avez ajouté les options `widthRatio` et `lengthRatio`
-- Vous avez donné toutes les valeurs par défaut sensibles des options 
-- Vous avez donné toutes les valeurs sensibles pour les minima et les maxima des options
+ - Vous avez ajouté les options `widthRatio` et `lengthRatio`
+ - Vous avez donné toutes les valeurs par défaut sensibles des options
+ - Vous avez donné toutes les valeurs sensibles pour les minima et les maxima des options
 
 <Note>
 
@@ -71,7 +72,8 @@ optionGroups: {
 
 <Note>
 
-L'entrée `optionGroups` ne fait rien pour votre patron en tant que telle. Elle signale au frontend que c'est ainsi que les options devraient être rassemblées et présentées à l'utilisateur.
+The `optionGroups` entry does not do anything for your pattern as such. 
+Elle signale au frontend que c'est ainsi que les options devraient être rassemblées et présentées à l'utilisateur.
 
 </Note>
 
