@@ -1,15 +1,12 @@
----
-title: Benjamin maken
----
 
 ## Wat je nodig hebt
 
 Om Benjamin te maken heb je het volgende nodig:
 
-- Basis naaimateriaal
-- Ongeveer 0.5 meter geschikte stof ([zie Optionele stoffen](#fabric-options)). Restjes van een recent project kunnen ook dienen.
-- Ongeveer even veel tussenvoering
-- Optioneel: een lintje en hardware om de vlinderdas aanpasbaar te maken
+  - Basis naaimateriaal
+  - Ongeveer 0.5 meter geschikte stof ([zie Optionele stoffen](#fabric-options)). Restjes van een recent project kunnen ook dienen.
+  - Ongeveer even veel tussenvoering
+  - Optioneel: een lintje en hardware om de vlinderdas aanpasbaar te maken
 
 ## Tips en opmerkingen
 
@@ -61,31 +58,32 @@ Deze lintjes kan je vinden in de betere merceriezaak of online.
 
 Aangezien de vlinderdas met de goede kanten tegen elkaar genaaid wordt, moet het hele ding binnenstebuiten gekeerd worden. Het is geen slecht idee om een kleine naadwaarde van 6 mm (1/4 inch) te gebruiken om dit makkelijker te maken.
 
+
 ## Knippen
 
 Benjamin is een redelijk eenvoudig patroon, maar je opties zullen bepalen wat je moet uitknippen. Hier zijn twee typische knipvoorbeelden.
 
 **Zonder aanpaslintje**
 
-- **Buitenstof** 
- - Knip **4 Knoop**
- - Knip **2 Kraagband** 
-- **Tussenvoering** 
- - Knip **4 tussenvoering knoop**
- - Knip **2 tussenvoering kraagband** 
+ - **Buitenstof**
+   - Cut **4 Knot**
+   - Cut **2 Collar band**
+ - **Tussenvoering**
+   - Cut **4 interfacing knot**
+   - Cut **2 interfacing collar band**
 
 ![Een standaard Benjamin zonder aanpaslintje](layout1.svg)
 
 **Met aanpaslintje**
 
-- **Buitenstof** 
- - Knip **1 Knoop 1**
- - Knip **1 Knoop 2**
- - Knip **2 Knoop 3**
-- **Tussenvoering** 
- - Knip **1 tussenvoering knoop 1**
- - Knip **1 tussenvoering knoop 2**
- - Knip **2 tussenvoering knoop 3**
+ - **Buitenstof**
+   - Cut **1 Knot 1**
+   - Cut **1 Knot 2**
+   - Cut **2 Knot 3**
+ - **Tussenvoering**
+   - Cut **1 interfacing knot 1**
+   - Cut **1 interfacing knot 2**
+   - Cut **2 interfacing knot 3**
 
 ![Een standaard Benjamin met aanpaslintje](layout2.svg)
 
