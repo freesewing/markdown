@@ -87,10 +87,12 @@ With that out of the way, our bib now looks like this:
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
-<Note>
+<Note> 
 
-We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black, it doesn't look much different. We'll use some other classes later that will make its effect more clear.
+We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black,
+it doesn't look much different. We'll use some other classes later that will make its effect more clear. 
 
 </Note>
 
 It's looking pretty good. But those sharp corners at the bottom don't exactly say *baby* do they? Let's fix that.
+
