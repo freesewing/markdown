@@ -34,7 +34,8 @@ macro("cutonfold", {
 
 ###### It's safe to use a corner of your pattern part for this
 
-Since this is typically used on corners, the generated cut-on-fold indicator will not go all the way to the `to` and `from` points.
+Since this is typically used on corners, the generated cut-on-fold indicator 
+will not go all the way to the `to` and `from` points.
 
 </Note>
 
@@ -71,13 +72,12 @@ void macro("cutonfold", {
   grainline: bool
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Propriété   | Défaut  | Type                | Description                                                                 |
 | ----------- | ------- | ------------------- | --------------------------------------------------------------------------- |
-| `from`      |         | [Point](/api/point) | Le point de départ de l'indicateur *Coupé au pli*                           |
-| `to`        |         | [Point](/api/point) | Le point final de l'indicateur *Coupé au pli*                               |
+| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                               |
+| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                                 |
 | `margin`    | 5       | [Point](/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
 | `offset`    | 50      | Nombre              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
 | `grainline` | `false` | Booléen             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
