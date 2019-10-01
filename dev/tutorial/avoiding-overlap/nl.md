@@ -46,3 +46,4 @@ points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
 <Example pattern="tutorial" part="step8" caption="The right part looks a bit wonky now, but we'll get to that" />
 
 Dat gaan we spiegelen aan de andere kant en de paden voor `neck` en `rect` vervangen door een nieuw pad.
+
