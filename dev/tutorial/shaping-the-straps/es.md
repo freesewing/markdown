@@ -7,7 +7,9 @@ Our straps should follow the neck opening, which isn't that hard to do. We just 
 
 <Note>
 
-For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`. As always, [the API docs](/api/point) have all the details.
+For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
+used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
+As always, [the API docs](/api/point) have all the details.
 
 </Note>
 
@@ -41,3 +43,4 @@ paths.rect = new Path()
 All of a sudden, things are starting to look like a bib:
 
 <Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+
