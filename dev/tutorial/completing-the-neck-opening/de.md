@@ -22,7 +22,8 @@ points.topCp2 = points.bottomCp1.flipY();
 
 <Note>
 
-We're using the `Point.flipX()` and `Point.flipY()` methods here. Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
+We're using the `Point.flipX()` and `Point.flipY()` methods here.
+Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
 
 </Note>
 
@@ -39,3 +40,4 @@ paths.neck = new Path()
 ```
 
 <Example pattern="tutorial" part="step4" caption="And now you have a complete neck opening" />
+
