@@ -8,4 +8,4 @@ patterns:
 author: 'Irene Portz'
 ---
 
-Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJS0jaThfh1/) van [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJS0jaThfh1/)  van [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).
