@@ -1,6 +1,3 @@
----
-title: Stofkeuze
----
 
 Dit mouwloze hemdje is in essentie ondergoed. Zodoende wil je hiervoor iets dat comfortabel is, aangenaam tegen je huid zit en ademt.
 
@@ -11,3 +8,4 @@ Katoen met een hint van elasthaan, misschien viscose, of een fijn breisel. Ik st
 Stretch is niet vereist, maar wel logisch in het geval van ondergoed. Desondanks kan je dit in een stof zonder stretch maken, kies dan wel voor de losse of casual pasvorm.
 
 </Note>
+
