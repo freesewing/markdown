@@ -46,7 +46,6 @@ Ik heb ook het gevoel dat ik iets te veel hooi op mijn vork heb hangen, dus ik h
 Oh, en over die titel: als Carlita klaar is zal ze net evenveel zakken hebben als Carlton.
 
 ## Ook dit nog: We presenteren de Bent Basisvorm
-
 Eigenlijk komen er vandaag twee patronen uit. Naast de Carlton jas is er ook de [Bent Basisvorm](/patterns/bent).
 
 Bent is een variatie op onze [Brian Basisvorm](/patterns/bent), met een tweedelige mouw. Eigenlijk is het een basis voor patronen voor heren jasjes en -jassen.
