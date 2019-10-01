@@ -15,10 +15,11 @@ That's because more than 4 times out of 10, they never receive their account act
 
 Let's first look at what's happening. Here's a relevant snippet from the logs:
 
-    Failed: postmaster@mg.freesewing.org -> ********@hotmail.co.uk 'Confirm your freesewing account' 
-    Server response: 550 5.7.1 Unfortunately, messages from [104.130.122.15] weren't sent. 
-    Please contact your Internet service provider since part of their network is on our block list. 
-    
+````
+Failed: postmaster@mg.freesewing.org -> ********@hotmail.co.uk 'Confirm your freesewing account' 
+Server response: 550 5.7.1 Unfortunately, messages from [104.130.122.15] weren't sent. 
+Please contact your Internet service provider since part of their network is on our block list. 
+````
 
 What this means is that part of the MailGun network is on their block list. As a result, they (more on who they are later) are not delivering any messages that go out.
 
@@ -42,9 +43,9 @@ The graph above represents emails that were sent out since the launch of this si
 
 This website sends out different kinds of email:
 
-- The account confirmation email
-- The *I forgot my password* emails
-- Comment reply notifications
+ - The account confirmation email
+ - The *I forgot my password* emails
+ - Comment reply notifications
 
 The graph represents all email, but I'm focussing on the account confirmation emails only. They are the most important after all.
 
@@ -52,15 +53,15 @@ The graph represents all email, but I'm focussing on the account confirmation em
 
 Here's a list of all domains that blocked legitimate activation emails to their users:
 
-- btinternet.com
-- hotmail.com
-- hotmail.co.uk
-- live.ca
-- live.com
-- live.com.au
-- live.nl
-- msn.com
-- outlook.com
+ - btinternet.com
+ - hotmail.com
+ - hotmail.co.uk
+ - live.ca
+ - live.com
+ - live.com.au
+ - live.nl
+ - msn.com
+ - outlook.com
 
 Apart from that very first entry in the list (on which only 1 message was blocked) all of these are Microsoft domains.
 
