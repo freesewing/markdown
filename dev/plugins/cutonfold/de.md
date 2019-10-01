@@ -34,7 +34,8 @@ macro("cutonfold", {
 
 ###### It's safe to use a corner of your pattern part for this
 
-Since this is typically used on corners, the generated cut-on-fold indicator will not go all the way to the `to` and `from` points.
+Since this is typically used on corners, the generated cut-on-fold indicator 
+will not go all the way to the `to` and `from` points.
 
 </Note>
 
@@ -71,7 +72,6 @@ void macro("cutonfold", {
   grainline: bool
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Property    | Default | Type                | Description                                                  |
