@@ -9,3 +9,4 @@ A collection of utilities shared between different FreeSewing projects.
 FIXME: Documentation is missing
 
 </Warning>
+
