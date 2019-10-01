@@ -26,15 +26,18 @@ npm run develop
 
 <Note>
 
-We're using the `--recurse-submodules` option to fetch the [markdown](/repos/markdown) submodule in one go. However, this is only available in newer versions of git.
+We're using the `--recurse-submodules` option to fetch the [markdown](/repos/markdown) submodule in one go.
+However, this is only available in newer versions of git.
 
-If after cloning the `markdown` directory is empty, please check [these alternatives](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules).
+If after cloning the `markdown` directory is empty, 
+please check [these alternatives](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules).
 
 </Note>
 
 <Note>
 
-We're setting the GATSBY_LANGUAGE environment variable here because it's required. For more details, see **Environment variables** below.
+We're setting the GATSBY_LANGUAGE environment variable here because it's required.
+For more details, see **Environment variables** below.
 
 </Note>
 
@@ -42,7 +45,7 @@ Gatsby will build your site and make it avaialable on http://localhost:8000.
 
 <Tip>
 
-There's also very useful GraphQL playground on http://localhost:8000/**\_graphql
+There's also very useful GraphQL playground on http://localhost:8000/\_\_\_graphql
 
 </Tip>
 
@@ -66,14 +69,14 @@ The website allows signing up/logging in via your Github or Google account.
 
 We use Oauth for this, which has a few dependencies:
 
-- You need to create/configure an app with Github and Google for Oauth
-- You need to configure the various environment variables (see below)
+ - You need to create/configure an app with Github and Google for Oauth
+ - You need to configure the various environment variables (see below)
 
 If you don't setup/configure Oauth, everything will work, except Oath (duh).
 
 ### Algolia
 
-Algolia handles the search on the website.
+Algolia handles the search on the website. 
 
 <Warning>
 
@@ -96,3 +99,5 @@ The following variables configure different aspects of our website. Only `GATSBY
 | `GATSBY_ALGOLIA_API_ID`     | The Algolia client ID for search (under construction)                                 | `MA0Y5A2PF0`                                                               |
 | `GATSBY_ALGOLIA_SEARCH_KEY` | The Algolia *read only* key for search (under construction)                           | `9209470ad243eee797156aa2874d886c`                                         |
 | `GATSBY_ALGOLIA_UPDATE_KEY` | The *write* key to update the Algolia search index at build time (under construction) | `ba780a3afe2118062ee08ea4fb54c097`                                         |
+
+
