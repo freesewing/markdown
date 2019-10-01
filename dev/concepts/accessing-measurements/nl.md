@@ -11,6 +11,7 @@ let quarterChest = measurements.chestCircumference / 4;
 
 <Note>
 
-Houd er rekening mee dat FreeSewing [overal millimeters voor gebruikt](/concepts/units).
+Keep in mind that [FreeSewing uses millimeter for everything](/concepts/units).
 
 </Note>
+
