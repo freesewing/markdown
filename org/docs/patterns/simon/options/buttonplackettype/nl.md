@@ -1,9 +1,3 @@
----
-title: Soort knopenpat
-path: /en/docs/patterns/simon/options/buttonplackettype
-pattern: simon
-option: knoopPatSoort
----
 
 Wil je dat het knoopsgatenpat deel is van het rechtervoorpand (aangeknipt), of liever een individueel stuk dat je kan aannaaien (apart)?
 
@@ -16,5 +10,5 @@ Wil je dat het knoopsgatenpat deel is van het rechtervoorpand (aangeknipt), of l
 > Waarom aangeknipt?
 > 
 > Het is minder werk, en je kan voor die naadloze look gaan.
-> 
+
 > Denk er ook aan dat in tegenstelling tot het knoopsgatenpat je het knopenpat niet kan zien wanneer je hemd dichtgeknoopt is.
