@@ -5,6 +5,7 @@ order: 240
 
 Nous savons déjà comment arrondir des coins, laissons la macro `round` s'en charger :
 
+
 ```js
 macro("round", {
   from: points.topLeft,
@@ -61,3 +62,6 @@ et gardez le reste du chemin tel qu'il était.
 La forme de notre bavoir est maintenant finie :
 
 <Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
+
+
+
