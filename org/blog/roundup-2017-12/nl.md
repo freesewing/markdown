@@ -10,7 +10,6 @@ author: joost
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
 ## Looking back at December
-
 As you may or may not know, for freesewing the year starts on December 10th. This way, I only have to write this blog post on New Year's eve, rather than roll out a bunch of new changes.
 
 What changes? I'm glad you asked:
@@ -23,6 +22,7 @@ The [announcement blog post](/blog/calling-all-patrons/) has all the details, pl
 
 ![Spreading the word about our new patron approach](patrons-ig.png)
 
+
 The gist of it is that we are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community.
 
 These people are our Patrons, and they support us with a small monthly contribution. We have three tiers, and they all come with their own prices and perks. You can find all the info on [the patrons sign-up page](/patrons/join).
@@ -30,6 +30,7 @@ These people are our Patrons, and they support us with a small monthly contribut
 We are 3 weeks in now, and so far [25 people](/patrons) have shown their support for this project by becoming a patron.
 
 Needless to say, this is truly wonderful news that we're all very excited about.
+
 
 ### A logo tweak
 
@@ -87,7 +88,7 @@ Don't know what GDPR is? Good. Keep reading.
 
 ### GDPR compliance
 
-The GDPR is the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) of the European Union. It replaces the *Data Protection Directive* and is a more ambitious piece of data protection legislation.
+The GDPR is the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) of the European Union.  It replaces the *Data Protection Directive* and is a more ambitious piece of data protection legislation.
 
 The GDPR will become active in May 2018, and by that time, freesewing will be ready for it. Specifically, we will publish a privacy notice that outlines exactly what happens to your data, and we will make certain that all your rights are respected.
 
@@ -107,8 +108,7 @@ While it won't impact our code as such, we use Inkscape to turn the SVG patterns
 
 Given that we can continue to run an older build of Inkscape to do our bidding, this doesn't mean things are on fire just yet. But it's a problem we will have to tackle sooner rather than later.
 
-That's because even when we fix it, once we start using the new Inkscape, it will still incorrectly handle the drafts that have been generated prior to the fix and that are still stored in people's profiles.  
-Needless to say, I see a lot of mucking about with the SVG viewbox in my future.
+That's because even when we fix it, once we start using the new Inkscape, it will still incorrectly handle the drafts that have been generated prior to the fix and that are still stored in people's profiles. Needless to say, I see a lot of mucking about with the SVG viewbox in my future.
 
 There's other changes in the newest Inkscape too that can potentially wreak havoc. Most likely to cause a stink-up is the new way the *line-height* attribute will be handled in text. Less dramatic, but still inconvenient.
 
@@ -117,3 +117,4 @@ While these changes add an unwelcome number of entries to our to-do list, it's w
 So, in the same spirit, we'll make sure to follow suit.
 
 But that's for next year.
+
