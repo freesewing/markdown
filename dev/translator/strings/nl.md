@@ -2,13 +2,12 @@
 title: Translating strings
 ---
 
-Crowdin maakt het vertalen van tekst erg gemakkelijk.  
-Als je een vertaling van een tekst maakt, zorgt Crowdin ervoor dat deze vertaling uiteindelijk in de repository wordt opgenomen. De development mensen zorgen er daarna voor dat hij deel gaat uitmaken van de teksten.
+Crowdin makes translations of strings very easy. If you provide the translation, Crowdin will make sure your changes make it back into our repository, where they will be picked up and merged by one of the development people.
 
 Hier is wat je moet weten om aan de slag te gaan:
 
-- Crowdin link: https://crowdin.com/project/freesewing
-- Verzoek een uitnodiging: https://gitter.im/freesewing/freesewing
+ - Crowdin link: https://crowdin.com/project/freesewing
+ - Verzoek een uitnodiging: https://gitter.im/freesewing/freesewing
 
 ## Syntax
 
@@ -37,6 +36,7 @@ When you encounter a `{key}` between curly braces, leave it as-is. These will be
 ```
 
 looks like this in Spanish
+
 
 ```yaml
 {field} guardado
