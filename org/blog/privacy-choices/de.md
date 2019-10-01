@@ -25,7 +25,7 @@ Let's run everything over https. That's just [common sense](https://letsencrypt.
 
 This one is another no-brainer. The number 1 tracking pest online are ad networks, and I want them nowhere near this site.
 
-Fortunately, that doesn't pose a problem given that we don't play by the *Give something for free, then sell people's data* rules of the web.
+Fortunately, that doesn't pose a problem given that we don't play by the _Give something for free, then sell people's data_ rules of the web.
 
 ## No external code
 
@@ -33,7 +33,7 @@ This site loads no external JavaScript code. None. Which does mean I had to reth
 
 There is no Facebook Like button or Twitter integration. We still have social sharing under our blog posts (hint hint) but it's the plain vanilla HTML variety that prevents tracking.
 
-In the same category, there's no social logins. Sure a *Login with Facebook* button is handy, but also kind of a nightmare when you consider what it does to your privacy.
+In the same category, there's no social logins. Sure a _Login with Facebook_ button is handy, but also kind of a nightmare when you consider what it does to your privacy.
 
 For a statically generated site like this ([see this post about JAMstack for details](/blog/freesewing-goes-jamstack/)) [Disqus](https://disqus.com/) is pretty much the de facto standard for comments. But Disqus is pretty awful when it comes to tracking, so that was a big no-no to me.
 
@@ -42,13 +42,11 @@ A similar story for authentication where I considered [Auth0](https://auth0.com/
 I ended up just biting the bullet and implemented authentication and comments myself. Time will tell of that was a good trade-of.
 
 ## No cookies
-
 We don't use any cookies. Obviously no third-party cookies, but not even cookies of our own.
 
 Instead, we use local storage which is better because unlike cookies, it doesn't send your info on every request.
 
 ## No analytics
-
 I ran [Google Analytics](https://analytics.google.com/) on [makemypattern](https://makemypattern.com/). It's powerful, but obviously a tracking nightmare. So I wasn't going to have that either.
 
 This issue is further complicated by the fact that this static site is hosted by [Netlify](https://www.netlify.com/). So I don't have server logs and can't run any analytics server-side.
