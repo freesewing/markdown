@@ -1,9 +1,3 @@
----
-title: Stijl knoopsgatenpat
-path: /en/docs/patterns/simon/options/buttonholeplacketstyle
-pattern: simon
-option: knoopsgatPatStijl
----
 
 Wil je een klassiek knoopsgatenpat, of een naadloos (soms ook Frans knoopsgatenpat genoemd)?
 
@@ -14,5 +8,5 @@ Wil je een klassiek knoopsgatenpat, of een naadloos (soms ook Frans knoopsgatenp
 > #### Waarom klassiek?
 > 
 > Omdat je een klassiek type bent, en dat is wat je wil.
-> 
+
 > Aangezien naadloos enkel mogelijk is bij een aangeknipt knoopsgatenpat wordt deze optie genegeerd and je voor een apart knoopsgatenpat gekozen hebt.
