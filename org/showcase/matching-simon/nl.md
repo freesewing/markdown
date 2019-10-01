@@ -22,6 +22,10 @@ author: ecmtts
 
 ###### See the originals on the Instragram feed of ecmtts
 
-These images are from [the Instagram feed](https://www.instagram.com/ecmtts/) of [@ericamattos](/users/ericamattos). They are published here with permission.
+These images are from 
+[the Instagram feed](https://www.instagram.com/ecmtts/)
+of [@ericamattos](/users/ericamattos).
+They are published here with permission.
 
 </Note>
+
