@@ -76,7 +76,6 @@ void macro("round", {
   render: bool,
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Propriété | Défaut  | Type                 | Description                                                         |
@@ -89,9 +88,11 @@ The macro takes a single configuration object with the following properties:
 | `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |
 | `class`   |         | Chaîne de caractères | Classe(s) à assigner au chemin créé par cette macro                 |
 
-
 <Warning>
 
 The round macro intended for rounding 90° angles
 
 </Warning>
+
+
+
