@@ -11,3 +11,4 @@ Dit is vooral nuttig voor mensen die een laser cutter of ander automatisch snijt
 Als je met een complex patroon werkt kan dit ook (een beetje) helpen om de weergave fris te houden.
 
 </Note>
+
