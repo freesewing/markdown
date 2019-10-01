@@ -1,6 +1,5 @@
 ---
 title: Overwijdte
-path: /en/docs/sewing/ease
 ---
 
 ![Zonder overwijdte zou je je arm niet kunnen optillen](ease-plus.jpg)
@@ -13,8 +12,9 @@ Zonder overwijdte zou een kledingstuk je zo exact passen dat je het misschien ni
 
 Overwijdte die je toelaat te bewegen in een kledingstuk noemt men draagtoegifte. Extra overwijdte kan toegevoegd worden, meer dan wat functioneel nodig is. Dit noemt men designtoegifte en wordt gebruikt om een visueel effect te bereiken.
 
-Overwijdte kan ook in de andere richting werken. Wanneer de stof rekt kunnen we kiezen om minder stof te gebruiken dan wat nodig is om het kledingstuf te doen passen. Dit heet **negatieve overwijdte**.
+Overwijdte kan ook in de andere richting werken. Wanneer de stof rekt kunnen we kiezen om minder stof te gebruiken dan wat nodig is om het kledingstuf te doen passen. This is called **negative ease**.
 
 Negatieve overwijdte wordt gebruikt voor elastische stoffen waarbij het kledingstuk strak moet zitten. Bijvoorbeeld: badkleding, leggings, ondergoed of sportkledij.
 
-> Foto's door [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/) en [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893)
+
+> Foto's door [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/) en [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893) 
