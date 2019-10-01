@@ -1,6 +1,3 @@
----
-title: Reductie schouderhelling
----
 
 ![Reductie schouderhelling](./shoulderslopereduction.svg)
 
