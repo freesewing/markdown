@@ -29,6 +29,7 @@ I don't want to make it sound like writing a blog post is an achievement these d
 
 While nothing is set in stone yet, the post outlines our plan to tackle GDRP-compliance, something which we'll be focusing on in the next months.
 
+
 ### Vim snippets for freesewing core
 
 In [a blog post that is the embodiment of the term *niche*](/blog/core-vim-snippets) we announced the availability of a vim plugin that provides freesewing core specific snippets.
