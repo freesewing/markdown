@@ -18,6 +18,7 @@ There is no company behind FreeSewing. This is possible due to the hard work of 
 
 All of our sewing patterns are made-to-measure. We don't scale or grade patterns. Instead, we draft the pattern to your measurements. That happens in real-time, in your browser.
 
+
 ## FreeSewing is a platform
 
 A platform is something on which you build things, and that's what we'd like to see.
