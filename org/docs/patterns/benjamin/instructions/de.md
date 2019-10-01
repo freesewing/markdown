@@ -1,15 +1,12 @@
----
-title: Making Benjamin
----
 
 ## What you need
 
 To make Benjamin, you will need the following:
 
-- Basic sewing supplies
-- About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over pieces of a recent project could work too.
-- About the same amount of interfacing
-- Optionally: Bow tie adjustment ribbon and hardware
+  - Basic sewing supplies
+  - About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over pieces of a recent project could work too.
+  - About the same amount of interfacing
+  - Optionally: Bow tie adjustment ribbon and hardware
 
 ## Notes and tips
 
@@ -61,31 +58,32 @@ These ribbons can be found in the better haberdasheries or can be ordered online
 
 Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
 
+
 ## Cutting
 
 Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
 
 **Without adjustment ribbon**
 
-- **Main fabric** 
- - Cut **4 Knot**
- - Cut **2 Collar band** 
-- **Interfacing** 
- - Cut **4 interfacing knot**
- - Cut **2 interfacing collar band** 
+ - **Main fabric**
+   - Cut **4 Knot**
+   - Cut **2 Collar band**
+ - **Interfacing**
+   - Cut **4 interfacing knot**
+   - Cut **2 interfacing collar band**
 
 ![A typical Benjamin draft without adjustment ribbon](layout1.svg)
 
 **With adjustment ribbon**
 
-- **Main fabric** 
- - Cut **1 Knot 1**
- - Cut **1 Knot 2**
- - Cut **2 Knot 3**
-- **Interfacing** 
- - Cut **1 interfacing knot 1**
- - Cut **1 interfacing knot 2**
- - Cut **2 interfacing knot 3**
+ - **Main fabric**
+   - Cut **1 Knot 1**
+   - Cut **1 Knot 2**
+   - Cut **2 Knot 3**
+ - **Interfacing**
+   - Cut **1 interfacing knot 1**
+   - Cut **1 interfacing knot 2**
+   - Cut **2 interfacing knot 3**
 
 ![A typical Benjamin draft with adjustment ribbon](layout2.svg)
 
