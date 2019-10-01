@@ -10,7 +10,7 @@ author: Ferdi
 
 Felix maakte drie boxershorts, en schrijft:
 
-> Ik heb net een trio van Bruce boxershorts gemaakt. Ik gebruikte een paar restjes jersey en probeerde een paar elastische steken op mijn naaimachine. Niet alle naden zijn perfect, maar nu weet ik welke instellingen het best werken.
+> Ik heb net een trio van Bruce boxershorts gemaakt. Ik gebruikte een paar restjes jersey en probeerde een paar elastische steken op mijn naaimachine. Niet alle naden zijn perfect, maar nu weet ik welke instellingen het best werken. 
 > 
 > Ze passen perfect!
 
