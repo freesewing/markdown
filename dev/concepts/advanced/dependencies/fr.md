@@ -18,14 +18,15 @@ Cela pourrait provenir d'un patron de T-shirt où les patrons du `devant` et du 
 
 Maintenant, si un utilisateur émet la requête de n'ébaucher que la partie `manche`, FreeSewing va tout de même ébaucher :
 
-- Tout d'abord la partie `base`
-- Puis les parties `devant` et `dos`
-- Et enfin la partie `manche`
+ - Tout d'abord la partie `base`
+ - Puis les parties `devant` et `dos`
+ - Et enfin la partie `manche`
 
 mais elle va seulement rendre visuellement la partie `manche`, puisque c'est la seule chose demandée par l'utilisateur.
 
 <Note>
 
-Pour hériter de parties, merci de vous référer à [Héritage de partie](/advanced/inject).
+For inheriting parts, please refer to [part inheritance](/advanced/inject).
 
 </Note>
+
