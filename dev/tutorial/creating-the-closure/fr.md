@@ -5,7 +5,7 @@ order: 210
 
 Les choses commencent à prendre forme, mais nous ne pouvons pas passer le bavoir sur la tête du bébé comme ça. Alors nous devons créer un système de fermeture. Nous allons faire chevaucher les attaches à leurs extrémités, et y mettre un bouton pression.
 
-Pour arrondir les attaches, nous allons utiliser quelque chose de nouveau : **une macro**.
+To round the straps, we'll use something new: **a macro**.
 
 Les macros sont de petites assistantes qui automatisent les tâches qui autrement seraient un peu fastidieuses. Il existe des macros pour ajouter des titres à votre patron, ou des indicateurs de droit-fil, une échelle, et il y a une macro pour arrondir les coins. La macro `round`.
 
@@ -61,3 +61,6 @@ FIXME: Ajouter le lien vers les docs macro/extend
 Comme pour l'encolure, nous avons seulement dessiné la moitié étant donné que nous pouvons copier les points pour l'autre côté.
 
 Toutefois, le faire engendrerait un chevauchement des attaches. Ce qui ne fonctionne pas pour un patron puisque cela rendrait impossible de le couper à partir d'une simple pièce de tissu. Alors occupons-nous ensuite du chevauchement.
+
+
+
