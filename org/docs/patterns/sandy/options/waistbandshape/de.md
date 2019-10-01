@@ -1,6 +1,3 @@
----
-title: Waistband shape
----
 
 ![Waistband shape](waistbandshape.svg)
 
