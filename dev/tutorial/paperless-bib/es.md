@@ -29,10 +29,10 @@ In addition, FreeSewing will automatically render a grid for each pattern part w
 
 While the grid gets added automatically, the dimensions you have to add yourself. Thankfully, there's macros that can help you with that, specifically:
 
-- The `hd` macro adds a horizontal dimension
-- The `vd` macro adds a vertical dimension
-- The `ld` macro adds a linear dimension
-- The `pd` macro adds a path dimension that follows a given path
+ - The `hd` macro adds a horizontal dimension
+ - The `vd` macro adds a vertical dimension
+ - The `ld` macro adds a linear dimension
+ - The `pd` macro adds a path dimension that follows a given path
 
 <Warning>
 
@@ -84,8 +84,8 @@ There's a lot going on, but it's mostly repetition. Let's look at the end result
 
 We used the `hd` macro to add two horizontal dimensions:
 
-- One at the bottom for the width of our bib
-- One for the width of the neck opening
+ - One at the bottom for the width of our bib
+ - One for the width of the neck opening
 
 The `hd` macro takes a `from` and `to` point as well as a `y` value that says at what Y-value to draw the dimension.
 
@@ -98,3 +98,4 @@ Finally, we added a `ld` macro for the linear dimension at the top that marks th
 The `ld` macro takes a `d` argument (short for delta) that indicates how far the dimension should be offset from the line from the `from` to the `to` point, if at all.
 
 Making your pattern paperless is the icing on the cake. Time to wrap up, go over what we've learned, and give some pointers on where to go from here.
+
