@@ -9,15 +9,17 @@ With the basic outline of your pattern ready, now would be a good time to test i
 
 ###### No more grading
 
-FreeSewing patterns are *made-to-measure*, which means that you don't need to grade your pattern to provide a range of sizes. You should sample your pattern for different measurements and options to see how well it adapts.
+FreeSewing patterns are *made-to-measure*, which means that you don't need to
+grade your pattern to provide a range of sizes. You should sample your pattern
+for different measurements and options to see how well it adapts.
 
 </Tip>
 
 If testing your pattern sounds like a lot of work, you're in luck. FreeSewing can do it for you. Click the **Test your pattern** button in the top navigation bar of your development environment, and you'll see a number of choices at the right:
 
-- Test pattern options
-- Test measurements
-- Test models
+ - Test pattern options
+ - Test measurements
+ - Test models
 
 The [API docs on sampling](/api/pattern#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
 
@@ -47,11 +49,12 @@ The `widthRatio` option will determine the width of our bib. For a the same `hea
 
 If we test it, we can see that it works as intended. But there's one thing that perhaps requires your attention. Making the bib wider shortens the length from the bottom of the neck opening to the bottom of the bib. Thereby making the bib shortern when its worn.
 
-Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern.
+Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern. 
 
 <Note>
 
-Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not covered in this tutorial. It is left *as an exercise to the reader*.
+Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not
+covered in this tutorial. It is left *as an exercise to the reader*.
 
 </Note>
 
