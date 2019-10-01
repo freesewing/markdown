@@ -79,4 +79,5 @@ I've mentioned I'd like to do some sort of meetup this year, and while I haven't
 
 Specifically, [Charlotte](https://englishgirlathome.com/) (aka English girl at home) and [Carmen](https://www.carmencitab.com/) (aka CarmencitaB) are organising the [Paris Sewcial](https://englishgirlathome.com/2019/01/23/paris-sewcial-paris-coud-2019-registration-open/) meetup in May. I'll be heading to Paris to be part of that, so if you are too, we'll meet up there.
 
-Registration is [right this way](https://www.eventbrite.co.uk/e/paris-sewcial-paris-coud-registration-54520802187).
+Registration is [right this way](https://www.eventbrite.co.uk/e/paris-sewcial-paris-coud-registration-54520802187). 
+
