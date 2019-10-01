@@ -2,6 +2,6 @@
 title: Natuurlijke taille
 ---
 
-De maat van je **natuurlijke taille** is de omtrek van je taille onder je ribbenkast.
+The **natural waist** measurement is the circumference of your waist below your ribcage.
 
-Om je **natuurlijke taille** te meten wikkel je de lintmeter rond je taille onder je ribbenkast. Zorg dat de lintmeter horizontaal (parallel met de vloer) blijft.
+To measure your **natural waist**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.
