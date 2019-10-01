@@ -12,42 +12,40 @@ Pour plus d'informations sur une macro spécifique et des exemples, suivez le li
 
 ## cutonfold
 
-Ajoute un indicateur *Coupé au pli* à votre patron.
+Adds a *cut on fold* indicator to your pattern.
 
 | Propriété   | Défaut  | Type                | Description                                                                 |
 | ----------- | ------- | ------------------- | --------------------------------------------------------------------------- |
-| `from`      |         | [Point](/api/point) | Le point de départ de l'indicateur *Coupé au pli*                           |
-| `to`        |         | [Point](/api/point) | Le point final de l'indicateur *Coupé au pli*                               |
+| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                               |
+| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                                 |
 | `margin`    | 5       | [Point](/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
 | `offset`    | 50      | Nombre              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
 | `grainline` | `false` | Booléen             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
 
-
 <Note>
 
-La macro `cutonfold` est fournie par le [plugin cutonfold](/plugins/cutonfold).
+The `cutonfold` macro is provided by the [cutonfold plugin](/plugins/cutonfold).
 
 </Note>
 
 ## grainline
 
-Ajoute un indicateur *Coupé au pli* à votre patron.
+Adds a *grainline* indicator to your pattern.
 
-| Propriété | Défaut | Type                | Description                                             |
-| --------- | ------ | ------------------- | ------------------------------------------------------- |
-| `from`    |        | [Point](/api/point) | Le point de départ de l'indicateur *ligne de droit-fil* |
-| `to`      |        | [Point](/api/point) | Le point final de l'indicateur *ligne de droit-fil*     |
-
+| Propriété | Défaut | Type                | Description                                 |
+| --------- | ------ | ------------------- | ------------------------------------------- |
+| `from`    |        | [Point](/api/point) | The startpoint of the *grainline* indicator |
+| `to`      |        | [Point](/api/point) | The endpoint of the *grainline* indicator   |
 
 <Note>
 
-La macro `grainline` (ligne de droit-fil) est fournie par le [plugin grainline](/plugins/grainline).
+The `grainline` macro is provided by the [grainline plugin](/plugins/grainline).
 
 </Note>
 
 ## hd
 
-Ajoute une *dimension horizontale* à votre patron.
+Adds a *horizontal dimension* to your pattern.
 
 | Propriété       | Défaut               | Type                | Description                                                                                       |
 | --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
@@ -58,16 +56,15 @@ Ajoute une *dimension horizontale* à votre patron.
 | `noStartMarker` | `false`              | Booléen             | Ne pas dessiner un marqueur de début                                                              |
 | `noEndMarker`   | `false`              | Booléen             | Ne pas dessiner un marqueur de fin                                                                |
 
-
 <Note>
 
-La macro `hd` est fournie par le [plugin dimension](/plugins/dimension).
+The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
 
 </Note>
 
 ## ld
 
-Ajoute une *dimension linéaire* à votre patron.
+Adds a *linear dimension* to your pattern.
 
 | Propriété       | Défaut            | Type                | Description                                                                    |
 | --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
@@ -78,16 +75,15 @@ Ajoute une *dimension linéaire* à votre patron.
 | `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                           |
 | `noEndMarker`   | `false`           | Booléen             | Ne pas dessiner un marqueur de fin                                             |
 
-
 <Note>
 
-La macro `ld` est fournie par le [plugin dimension](/plugins/dimension).
+The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
 
 </Note>
 
 ## pd
 
-Ajoute une *dimension de chemin* à votre patron.
+Adds a *path dimension* to your pattern.
 
 | Propriété       | Défaut             | Type                | Description                                                        |
 | --------------- | ------------------ | ------------------- | ------------------------------------------------------------------ |
@@ -97,10 +93,9 @@ Ajoute une *dimension de chemin* à votre patron.
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                               |
 | `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                 |
 
-
 <Note>
 
-La macro `pd` est fournie par le [plugin dimension](/plugins/dimension).
+The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
 
 </Note>
 
@@ -118,31 +113,29 @@ Arrondit un coin. Notez que cela ne s'adresse qu'aux coins à 90 degrés.
 | `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |
 | `class`   |         | Chaîne de caractères | Classe(s) à assigner au chemin créé par cette macro                 |
 
-
 <Note>
 
-La macro `round` est fournie par le [plugin round](/plugins/round).
+The `round` macro is provided by the [round plugin](/plugins/round).
 
 </Note>
 
 ## scalebox
 
-Ajoute un *carré d'échelle* à votre patron.
+Adds a *scale box* to your pattern.
 
-| Propriété | Défaut                     | Type                 | Description                                 |
-| --------- | -------------------------- | -------------------- | ------------------------------------------- |
-| `at`      |                            | [Point](/api/point)  | Le point auquel ancrer le *carré d'échelle* |
-| `lead`    | FreeSewing                 | Chaîne de caractères | Le texte au dessus du titre                 |
-| `title`   | *nom du patron et version* | Chaîne de caractères | Le texte du titre                           |
-| `text`    | (\*)                     | Chaîne de caractères | Le texte en dessous du titre                |
-| `rotate`  | 0                          | Nombre               | Rotation en degrés                          |
-
+| Propriété | Défaut                     | Type                 | Description                            |
+| --------- | -------------------------- | -------------------- | -------------------------------------- |
+| `at`      |                            | [Point](/api/point)  | The point to anchor the *scale box* on |
+| `lead`    | FreeSewing                 | Chaîne de caractères | Le texte au dessus du titre            |
+| `title`   | *nom du patron et version* | Chaîne de caractères | Le texte du titre                      |
+| `text`    | (\*)                     | Chaîne de caractères | Le texte en dessous du titre           |
+| `rotate`  | 0                          | Nombre               | Rotation en degrés                     |
 
 (\*) `freesewingEstCrééParJoostDeCockEtContributeurs \n avecLeSoutienFinancierDeNosMécènes`
 
 <Note>
 
-La macro `round` est fournie par le [plugin round](/plugins/round).
+The `round` macro is provided by the [round plugin](/plugins/round).
 
 </Note>
 
@@ -150,15 +143,14 @@ La macro `round` est fournie par le [plugin round](/plugins/round).
 
 Ajoute en brut des snippets à votre patron.
 
-| Propriété | Défaut | Type                            | Description                                                          |
-| --------- | ------ | ------------------------------- | -------------------------------------------------------------------- |
-| `snippet` |        | Chaîne de caractères            | Nom du snippet à ajouter                                             |
-| `on`      | `[]`   | Tableau de chaîne de caractères | Un tableau avec *les noms* de points sur lesquels ajouter le snippet |
-
+| Propriété | Défaut | Type                            | Description                                               |
+| --------- | ------ | ------------------------------- | --------------------------------------------------------- |
+| `snippet` |        | Chaîne de caractères            | Nom du snippet à ajouter                                  |
+| `on`      | `[]`   | Tableau de chaîne de caractères | An array with *the names* of points to add the snippet on |
 
 <Note>
 
-La macro `sprinkle` est fournie par le [plugin sprinkle](/plugins/sprinkle).
+The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
 
 </Note>
 
@@ -176,16 +168,15 @@ Ajoute en brut des snippets à votre patron.
 | `rotation` |    0    | Nombre               | Une rotation optionnelle en degrés                                                                                                                                         |
 | `scale`    |    1    | Nombre               | Un facteur optionnel de mise à l'échelle                                                                                                                                   |
 
-
 <Note>
 
-La macro `title` est fournie par le[plugin title](/plugins/title).
+The `title` macro is provided by the [title plugin](/plugins/title).
 
 </Note>
 
 ## vd
 
-Ajoute une *dimension verticale* à votre patron.
+Adds a *vertical dimension* to your pattern.
 
 | Propriété       | Défaut             | Type                | Description                                                                         |
 | --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
@@ -196,9 +187,13 @@ Ajoute une *dimension verticale* à votre patron.
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
 | `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                                  |
 
-
 <Note>
 
-La macro `vd` est fournie par le [plugin dimension](/plugins/dimension).
+The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
 
 </Note>
+
+
+
+
+
