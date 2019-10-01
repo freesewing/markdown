@@ -5,8 +5,7 @@ components: true
 
 ## Description
 
-The **Store** object holds a simple key/value store with methods for storing and retrieving information.  
-A single store per pattern is shared by all pattern parts.
+The **Store** object holds a simple key/value store with methods for storing and retrieving information. A single store per pattern is shared by all pattern parts.
 
 A store is typically used to share information between parts. For example the length of the neck opening in one part can be used to calculate the length for the collar in another part.
 
