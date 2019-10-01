@@ -8,4 +8,4 @@ patterns:
 author: 'JV Hampton-VanSant'
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BNsGBSVho4u/) of [JV Hampton-VanSant](http://jvhvs.com/).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BNsGBSVho4u/)  of [JV Hampton-VanSant](http://jvhvs.com/).
