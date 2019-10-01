@@ -1,6 +1,3 @@
----
-title: Positie tailleband
----
 
 ![Positie tailleband](waistbandposition.svg)
 
