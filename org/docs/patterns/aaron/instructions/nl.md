@@ -1,6 +1,3 @@
----
-title: Aaron maken
----
 
 ## Stap 1: Sluit de naden
 
@@ -16,9 +13,8 @@ Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock h
 
 <Note>
 
-##### Vouw maar een keer om een teveel aan stof te vermijden
-
-Gebreide stoffen rafelen niet, dus je kan dit gewoon één keer omplooien en vaststikken, en daarna de rand netjes bijknippen.
+##### Fold only once, to avoid bulk
+Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
 </Note>
 
@@ -26,17 +22,17 @@ Gebreide stoffen rafelen niet, dus je kan dit gewoon één keer omplooien en vas
 
 <Note>
 
-##### Over jersey biezen
+##### About knit binding
 
-Als [biesjes in jersey](/en/docs/sewing/knit-binding) nieuw zijn, is het misschien interessant om [deze pagina hierover](/en/docs/sewing/knit-binding) te lezen.
+If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
 
-###### Herhaal stappen 3 en 4 voor beide armsgaten en de halsopening
+###### Repeat steps 3 and 4 for both armholes and the neck opening
 
-De handelswijze hieronder kan zowel voor de armsgaten als voor de halsopening gebruikt worden. Met andere woorden, je zal dit drie keer moeten doen.
+The procedure outline below applies to both of the armholes as well as the neck opening. Met andere woorden, je zal dit drie keer moeten doen.
 
-###### Start met het makkelijkste gat
+###### Start with the simplest opening
 
-Ik zou aanraden te starten met de opening die de meest gelijke curve heeft. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
+I would advice you to start with whatever opening has the most uniform curvature. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
 
 Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met een makkelijker opwarmertje voor je aan de lastigere stukken begint.
 
@@ -56,8 +52,8 @@ Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Gee
 
 Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen. Dit zou ik suggereren:
 
-- Voor de armsgaten: aan de zijnaad. Zo zit de naad verstopt onder je arm
-- Voor de halsopening: middenachter aan je nek. Het is aangeraden dit met een speldje aan te duiden
+  - Voor de armsgaten: aan de zijnaad. Zo zit de naad verstopt onder je arm
+  - Voor de halsopening: middenachter aan je nek. Het is aangeraden dit met een speldje aan te duiden
 
 ### Positioneer (het begin van) je bies
 
@@ -121,6 +117,7 @@ Nu de uiteindes van je biezen aan elkaar hangen is het tijd om de laatste 6 cm v
 
 ![Plooi de jersey bies naar achter](step04a.png)
 
+
 Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de bies vaststikken.
 
 > Vooraan is de bies twee keer geplooid (en wordt de rand van de stof meteen verborgen), maar aan de verkeerde kant is dit niet nodig. Later kunnen we gewoon het randje wat bijknippen, aangezien jersey niet rafelt. Als we de bies aan de achterkant ook zouden plooien zou dit alleen maar bulk toevoegen.
@@ -141,11 +138,12 @@ Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er 
 
 <Note>
 
-##### Let op voor ongelijk transport
+##### Beware of the uneven feed
+As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
 
-Als je je bies door de naaimachine haalt trekken de tandjes van je machine de onderste laag (de achterkant van je bies) vooruit.
-
-In een ideale wereld zouden alle lagen gelijkmatig volgen. Maar meestal blijft de bovenste laag (de voorkant van je bies) wat achter. Dit zorgt dat je bies niet helemaal recht rond de randjes geplooid ligt, en lelijke rimpels maakt.
+In een ideale wereld zouden alle lagen gelijkmatig volgen. 
+Maar meestal blijft de bovenste laag (de voorkant van je bies) wat achter. 
+Dit zorgt dat je bies niet helemaal recht rond de randjes geplooid ligt, en lelijke rimpels maakt.
 
 Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje uit om te compenseren. Een boventransportvoet op je naaimachine helpt ook met dit probleem.
 
