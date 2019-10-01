@@ -1,11 +1,9 @@
----
-title: Making Jaeger
-path: /en/docs/patterns/jaeger
----
 
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. 
+> 
+> {.warning .fs-bq}
 
 ## Before you start
 
@@ -23,20 +21,22 @@ path: /en/docs/patterns/jaeger
 > 
 > I have no afiliation with these guys, but it's the only place I know of that will sell you a kit of professional trimmings to make a jacket.
 > 
-> If you know of any other place that carries this stuff, please let us know. {.fs-bq}
+> If you know of any other place that carries this stuff, please let us know. 
+> 
+> {.fs-bq}
 
 To make Jaeger, you will need the following:
 
-- About two and a half meters of a suitable fabric (see [Fabric options](#fabric-options))
-- Lining fabric, optionally different sleeve lining fabric
-- Two larger buttons for the front, and 8 buttons for the sleeves
-- A bit of lightweight fusible interfacing for local enforcement
-- Canvas for the fronts and collar
-- Tailor's tape for the front edges
-- Some domette for interlining
-- Shoulder pads
-- Sleevehead wadding, with canvas if possible
-- Undercollar fabric
+ - About two and a half meters of a suitable fabric (see [Fabric options](#fabric-options))
+ - Lining fabric, optionally different sleeve lining fabric
+ - Two larger buttons for the front, and 8 buttons for the sleeves
+ - A bit of lightweight fusible interfacing for local enforcement
+ - Canvas for the fronts and collar
+ - Tailor's tape for the front edges
+ - Some domette for interlining
+ - Shoulder pads
+ - Sleevehead wadding, with canvas if possible
+ - Undercollar fabric
 
 ### Fabric options
 
@@ -48,46 +48,49 @@ However, making Jaeger is going to take some time. Do yourself a favour and get 
 
 ## Cutting
 
-- **Main fabric** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front facings** (look for the facing/lining boundary on the front part)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4)
- - Cut **2 undersleeves** (part 5)
- - Cut **1 collar** (part 6)
- - Cut **1 collarstand** (part 8)
- - Cut **2 pockets** (part 9)
- - Cut **1 chest pocket welt** (part 10)
-- **lining fabric** 
- - Cut **2 fronts** (part 1)
- - Cut **2 front linings** (look for the facing/lining boundary on the front part, and don't forget to attach the inner pocket facing extension)
- - Cut **2 backs** (part 2)
- - Cut **2 sides** (part 3)
- - Cut **2 topsleeves** (part 4) Note: Some people like to use different lining for the sleeves
- - Cut **2 undersleeves** (part 5) Note: Some people like to use different lining for the sleeves
- - Cut **2 chest pocket bags** )(part 11)
- - Cut **2 inner pocket welts**
- - Cut **2 inner pocket bags** (part 13)
-- **Canvas** 
- - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
- - Cut **2 chest pieces** on bias. Look for the indication on the front part. Note: Don't include seam allowance
-- **Undercollar fabric** 
- - Cut **1 undercollar** (part 7)
+ - **Main fabric**
+   - Cut **2 fronts** (part 1)
+   - Cut **2 front facings** (look for the facing/lining boundary on the front part)
+   - Cut **2 backs** (part 2)
+   - Cut **2 sides** (part 3)
+   - Cut **2 topsleeves** (part 4)
+   - Cut **2 undersleeves** (part 5)
+   - Cut **1 collar** (part 6)
+   - Cut **1 collarstand** (part 8)
+   - Cut **2 pockets** (part 9)
+   - Cut **1 chest pocket welt** (part 10)
+ - **lining fabric**
+   - Cut **2 fronts** (part 1)
+   - Cut **2 front linings** (look for the facing/lining boundary on the front part, and don't forget to attach the inner pocket facing extension)
+   - Cut **2 backs** (part 2)
+   - Cut **2 sides** (part 3)
+   - Cut **2 topsleeves** (part 4) Note: Some people like to use different lining for the sleeves
+   - Cut **2 undersleeves** (part 5) Note: Some people like to use different lining for the sleeves
+   - Cut **2 chest pocket bags** )(part 11)
+   - Cut **2 inner pocket welts**
+   - Cut **2 inner pocket bags** (part 13)
+ - **Canvas**
+   - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
+   - Cut **2 chest pieces** on bias. Look for the indication on the front part. Note: Don't include seam allowance
+ - **Undercollar fabric**
+   - Cut **1 undercollar** (part 7)
 
 > ##### Good sides together, or precise pattern matching?
 > 
 > When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together). However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
 > 
-> When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one. {.fs-bq}
+> When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one. 
+> 
+> {.fs-bq}
 
 ### Cutting caveats
 
-- The chest piece is marked on the front.
-- Don't include seam allowance when cutting out canvas, and cut it on bias.
-- The front facing and lining is marked on the front piece. They split the front part in two along the boundary line. You can cut the front part along that line after cutting out the front from the main fabric. The inner pocket extension for the facing is printed separately, and you can tape it back in its place after cutting the patern piece. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
+ - The chest piece is marked on the front.
+ - Don't include seam allowance when cutting out canvas, and cut it on bias.
+ - The front facing and lining is marked on the front piece. They split the front part in two along the boundary line. You can cut the front part along that line after cutting out the front from the main fabric. The inner pocket extension for the facing is printed separately, and you can tape it back in its place after cutting the patern piece. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
 
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
+
 
 ## Construction
 
@@ -107,6 +110,7 @@ Sew the front dart close, taking care to have the dart stop at the correct top e
 
 Once the front darts are closed, cut open the dart at the back. You won't be able to cut it open all the way to the tip, but that's fine. Press open the darts where they are cut open, and press the rest to the side. Take care to only press from the back. Pressing from the front will likely mark your fabric.
 
+
 ### Construct the chest pocket
 
 ![Apply fusible interfacing to the back of the chest pocket](basteChestPocket.svg)
@@ -117,7 +121,9 @@ Apply a rectangular piece of light fusible interfacing around the chest pocket a
 
 > ##### We're not using fusible on the entire front
 > 
-> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible. {.fs-bq}
+> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible. 
+> 
+> {.fs-bq}
 
 #### Baste the chest welt outline, mark top line endpoints
 
@@ -136,7 +142,6 @@ On the top line of your basted welt pocket, mark 0.5cm inwards from the corners 
 Fold the welt double with the good sides together, and close the sides (sew the side seams).
 
 #### Trim seam allowance, turn and press
-
 Trim the seam allowances on the sides and especially limit the seam allowance towards the corner to avoid bulk.
 
 Turn inside out so the good side is out and press.
@@ -189,6 +194,7 @@ Finally, close the pocket bag by sewing the sides. Do this by placing the front 
 
 Baste the chest pocket closed while we contruct the jacket.
 
+
 ### Prepare the fronts
 
 ![Prepare the canvas for the fronts](prepareCanvas.svg)
@@ -207,8 +213,7 @@ Cut out the chest canvas piece. Align it along the roll line, and baste it in pl
 
 Now baste the front canvas and chest piece to your front. Keep in mind that the canvas has no seam allowance.
 
-> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later.  
-> You don't want your canvas to get caught in the seams.
+> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later. You don't want your canvas to get caught in the seams.
 
 #### Pad-stitch your lapels
 
@@ -216,7 +221,7 @@ Time to feel like a real tailor, and pad-stitch those lapels.
 
 Make sure to make the stitches a bit smaller towards the lapel tip, to make sure it lies flat against the chest, curling a bit inward instead of outward.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/freesewing) and we'll make an attempt to document it.
+> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/chat) and we'll make an attempt to document it.
 
 #### Tape the lapel edge and roll line
 
@@ -224,9 +229,9 @@ Now we are going to hand-sew tailor tape along the lapel edges of the front, and
 
 Keep in mind that:
 
-- The tape along the roll line should be placed inside the roll line.
-- The tape along the roll line should be about half a centimeter shorter than the distance it spans. The slight tension this creates helps the lapel roll nicely and contour to your body.
-- The tape along the lapel edge should be placed inside the seam line
+ - The tape along the roll line should be placed inside the roll line.
+ - The tape along the roll line should be about half a centimeter shorter than the distance it spans. The slight tension this creates helps the lapel roll nicely and contour to your body.
+ - The tape along the lapel edge should be placed inside the seam line
 
 > ##### Don't sew through your fabric
 > 
@@ -234,7 +239,9 @@ Keep in mind that:
 > 
 > At the same time, you should not secure the tape only to your canvas either. Instead, you should try to catch a few threads of your fabric on every stitch, so that the tape is secured in place, yet the stitches don't show at the front.
 > 
-> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel. {.fs-bq}
+> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel. 
+> 
+> {.fs-bq}
 
 ### Close the body
 
@@ -242,19 +249,19 @@ Keep in mind that:
 
 ![Close the sides](closeSides.svg)
 
-Place your front with the good side up, and your side on it with the good side down.  
-Align the front/side seams, pin them in place if you feel like it, and sew them togther.
+Place your front with the good side up, and your side on it with the good side down. Align the front/side seams, pin them in place if you feel like it, and sew them togther.
 
-Place this down with the good side up, and place your back on top with the good side down.  
-Align the back/side seams, pin them in place if you feel like it, and sew them togther.
+Place this down with the good side up, and place your back on top with the good side down. Align the back/side seams, pin them in place if you feel like it, and sew them togther.
 
 > Make sure the canvas does not get caught in the seam.
-> 
+
 > ##### Note for sewing vents
 > 
 > If you have a double vent, this seam will contain the vent.
 > 
-> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that. 
+> 
+> {.fs-bq}
 
 #### Close the back seam
 
@@ -266,7 +273,9 @@ Aling your two half-jackets with the good sides together, and close the back sea
 > 
 > If you have a single vent, this seam will contain the vent.
 > 
-> Sew the downward part of the back seam and the sideways part that forms the vent. Do not sew downwards after that. {.fs-bq}
+> Sew the downward part of the back seam and the sideways part that forms the vent. Do not sew downwards after that. 
+> 
+> {.fs-bq}
 
 #### Close the shoulder seams
 
@@ -275,13 +284,19 @@ Aling your two half-jackets with the good sides together, and close the back sea
 Align the shoulder seams with good sides together, and sew them together.
 
 > Make sure the canvas does not get caught in the seam.
-> 
+
 > ##### Align the shoulder notches
 > 
 > Make sure to carefully align the shoulders based on the notches. Because of the different shape of the back and front panels on the neck side, the fabric edge looks different. So aligning those edges will not give you what you need.
 > 
-> So make sure to align the notches. It's what they're there for. {.fs-bq}
+> So make sure to align the notches. It's what they're there for. 
 > 
+> {.fs-bq}
+
 > ##### Jaeger is currently in beta, documentation is under construction
 > 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. {.warning .fs-bq}
+> This pattern is currently in beta. One of the reasons for that is that its documentation is not yet finished. 
+> 
+> {.warning .fs-bq}
+
+
