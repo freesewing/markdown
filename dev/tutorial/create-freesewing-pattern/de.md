@@ -17,20 +17,20 @@ The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
 
 This will load a few dependencies, and then ask you the following questions:
 
-- **Language**: Use the arrow keys to select the language of your choice
-- **Pattern name**: Enter `tutorial` 
-- **description**: Enter `The FreeSewing tutorial`
-- **Pattern type**: Use the arrow key to select `Pattern`
-- **Department**: Use the arrow keys to select `Accessories`
-- **Author**: Enter your GitHub username
-- **GitHub repository**: This will be prefilled for you, so just hit Enter
-- **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
+ - **Language**: Use the arrow keys to select the language of your choice
+ - **Pattern name**: Enter `tutorial`
+ - **description**: Enter `The FreeSewing tutorial`
+ - **Pattern type**: Use the arrow key to select `Pattern`
+ - **Department**: Use the arrow keys to select `Accessories`
+ - **Author**: Enter your GitHub username
+ - **GitHub repository**: This will be prefilled for you, so just hit Enter
+ - **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
 
 After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
 
 <Note>
 
-This will take a few minutes because we're loading some software for your development environment.
+This will take a few minutes because we're loading some software for your development environment. 
 
 </Note>
 
@@ -50,9 +50,10 @@ yarn start
 
 Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
 
-<pre><code class="bash:">cd tutorial/example
+```bash:
+cd tutorial/example
 npm run start
-</code></pre>
+```
 
 Or if you chose to use Yarn as package manager:
 
@@ -69,8 +70,11 @@ If all goes well, your browser will open and show the following landing page:
 
 ###### Using Windows?
 
-We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have a Windows machine I can test this on.
+We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have
+a Windows machine I can test this on.
 
-If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and we'll figure it out together.
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+we'll figure it out together.
 
 </Note>
+
