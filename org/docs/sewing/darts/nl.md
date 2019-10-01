@@ -1,6 +1,5 @@
 ---
 title: Nepen
-path: /en/docs/sewing/darts
 ---
 
 ![Bustenepen op een blouse](dart.jpg)
@@ -14,5 +13,6 @@ Nepen worden gebruikt wanneer stof in meer dan één richting over curves moet l
 > Wikipedia heeft een beetje meer te zeggen over dit onderwerp: [Dart (sewing) on Wikipedia](http://en.wikipedia.org/wiki/Dart_(sewing))
 > 
 > In boeken over naaien en patroonontwerpen vindt je hele hoofdstukken over nepen. Weten hoe en waar ze te gebruiken is niet zo eenvoudig. Maar voor deze website is het voldoende om te weten wat ze zijn.
-> 
-> Foto door [Tasha](http://bygumbygolly.com/2013/01/finished-1940s-simplicity-diamonds/)
+
+
+> Foto door [Tasha](http://bygumbygolly.com/2013/01/finished-1940s-simplicity-diamonds/) 
