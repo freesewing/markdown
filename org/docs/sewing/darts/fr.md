@@ -1,6 +1,5 @@
 ---
 title: Darts
-path: /en/docs/sewing/darts
 ---
 
 ![Bust darts on a blouse](dart.jpg)
@@ -14,5 +13,6 @@ Darts are used where fabric needs to cover curves in more than one direction. Yo
 > Wikipedia has a bit more to say on this subject: [Dart (sewing) on Wikipedia](http://en.wikipedia.org/wiki/Dart_(sewing))
 > 
 > Entire chapters in books on sewing and pattern design are dedicated to darts. Knowing how and where to use them is not so simple. But for this website, knowing what they are is sufficient.
-> 
-> Picture by [Tasha](http://bygumbygolly.com/2013/01/finished-1940s-simplicity-diamonds/)
+
+
+> Picture by [Tasha](http://bygumbygolly.com/2013/01/finished-1940s-simplicity-diamonds/) 
