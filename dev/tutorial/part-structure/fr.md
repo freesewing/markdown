@@ -42,7 +42,7 @@ Ceci est un standard de notre méthode `draftBib`. Elle prend comme argument la 
 
 <Note>
 
-Si vous êtes novice en JavaScript, et ne *saisissez pas cela* intuitivement, tenez-vous en là. Cela va bientôt devenir une seconde nature.
+If you're new to JavaScript, and don't intuitively *get this*, stick with it. Cela va bientôt devenir une seconde nature.
 
 </Note>
 
@@ -57,18 +57,19 @@ let {
 } = part.shorthand();
 ```
 
-Ceci est la méthode **shorthand** de FreeSewing (raccourci en français). Elle retourne un objet avec beaucoup d'assistants bien pratiques et vous utilisez l'*object destructuring* de JavaScript (destructuration d'objet en français) pour obtenir seulement ce dont vous avez besoin.
+This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers and you use JavaScript's *object destructuring* to only get what you need.
 
 L'exemple ci-dessus rend les variables suivantes disponibles :
 
-- `Point` : Le constructeur de point (Point)
-- `points`: Une référence aux points de la partie
-- `Path` : La constructeur de chemin (Path)
-- `paths` : Une référence aux chemins de la partie
+ - `Point` : Le constructeur de point (Point)
+ - `points`: Une référence aux points de la partie
+ - `Path` : La constructeur de chemin (Path)
+ - `paths` : Une référence aux chemins de la partie
 
 <Note>
 
-Cela va devenir plus clair, mais si vous êtes curieux, les docs API contiennent tous les détails sur [la méthode Part.shorthand()](/api/part#shorthand)
+This will all become clear, but if you're curious, the API docs have all the details 
+on [the Part.shorthand() method](/api/part#shorthand)
 
 </Note>
 
