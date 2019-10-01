@@ -12,7 +12,8 @@ It uses the [`preRender`](/plugins#prerender) hook to do so.
 
 <Note>
 
-This plugin only applies to rendered SVG output. If you use our React component to display patterns, you should style our component or use our [css-theme](/packages/css-theme) package.
+This plugin only applies to rendered SVG output. If you use our React component to display
+patterns, you should style our component or use our [css-theme](/packages/css-theme) package.
 
 </Note>
 
@@ -33,3 +34,4 @@ import theme from "@freesewing/plugin-theme";
 const myAaron = new Aaron()
   .use(theme);
 ```
+
