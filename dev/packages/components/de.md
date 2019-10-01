@@ -9,3 +9,4 @@ This is a collection for React components for FreeSewing's websites.
 FIXME: Documentation is missing
 
 </Warning>
+
