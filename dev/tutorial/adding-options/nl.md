@@ -3,11 +3,11 @@ title: Opties toevoegen
 order: 140
 ---
 
-Je weet hoe je slabbetje eruit moet zien, en je hebt de afmeting *headCircumference* (hoofdomtrek) om mee te werken. Maar je moet nog een aantal keuzes maken:
+You know what your bib should look like, and you have the *headCircumference* measurement to work with. Maar je moet nog een aantal keuzes maken:
 
-- Hoe groot moet de halsopening zijn?
-- Hoe breed moet het slabbetje zijn?
-- Hoe lang moet het slabbetje zijn?
+ - Hoe groot moet de halsopening zijn?
+ - Hoe breed moet het slabbetje zijn?
+ - Hoe lang moet het slabbetje zijn?
 
 Je kan al deze keuzes maken voor de gebruiker. Ze zijn dan 'in steen gebeiteld', om het zo maar te noemen.
 
@@ -30,14 +30,15 @@ Open het config-bestand in `config/index.js` en voeg dit toe bij de opties:
 
 De betekenis hiervan kan je wel raden:
 
-- We hebben type-percentage als optie toegevoegd
-- De minimumwaarde is 70 %
-- De maximumwaarde is 90 %
-- De standaardwaarde is 80 %
+ - We hebben type-percentage als optie toegevoegd
+ - De minimumwaarde is 70 %
+ - De maximumwaarde is 90 %
+ - De standaardwaarde is 80 %
 
 <Note>
 
-Er zijn verschillende types van opties, maar percentages zijn de meest voorkomende. Ze zijn allemaal gedocumenteerd [in de API-documenten](/api/config#options).
+Er zijn verschillende types van opties, maar percentages zijn de meest voorkomende.
+They are all documentation [in the API docs](/api/config#options).
 
 </Note>
 
@@ -51,9 +52,9 @@ options: {
 }
 ```
 
-- Je hebt nu de opties `widthRatio` en `lengthRatio` toegevoegd
-- Je hebt voor alle opties realistische standaardwaardes ingesteld 
-- Je hebt voor alle opties realistische maximum- en minimumgrenzen ingesteld
+ - Je hebt nu de opties `widthRatio` en `lengthRatio` toegevoegd
+ - Je hebt voor alle opties realistische standaardwaardes ingesteld
+ - Je hebt voor alle opties realistische maximum- en minimumgrenzen ingesteld
 
 <Note>
 
@@ -71,7 +72,8 @@ optionGroups: {
 
 <Note>
 
-De `optionGroups`-entry heeft op zich geen enkele invloed op je patroon. Het geeft enkel aan de frontend aan dat opties op deze manier bij elkaar moeten worden gezet en aan de gebruiker worden getoond.
+The `optionGroups` entry does not do anything for your pattern as such. 
+Het geeft enkel aan de frontend aan dat opties op deze manier bij elkaar moeten worden gezet en aan de gebruiker worden getoond.
 
 </Note>
 
