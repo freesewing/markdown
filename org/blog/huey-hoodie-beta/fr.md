@@ -17,8 +17,8 @@ The pattern is available [right here](/patterns/huey), right now, but it's in be
 
 To find out what that means -- and why I'm doing this -- just continue reading. But if you're itching to make this, here's is what you need to know about beta status:
 
-- Beta patterns lack documentation
-- Beta patterns are made by few people (so far)
+ - Beta patterns lack documentation
+ - Beta patterns are made by few people (so far)
 
 As time goes by and these issues are resolved, Huey will move from beta to core.
 
