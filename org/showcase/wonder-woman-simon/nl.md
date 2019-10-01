@@ -12,8 +12,14 @@ author: 'MyxterHyde'
 
 <Note>
 
-###### Zie het origineel in de Instagram feed van funloveadventure
+###### See the originals on the Instragram feed of funloveadventure
 
-These images are from [the Instagram feed](https://www.instagram.com/myxterhyde/) of [@MyxterHyde](/users/MyxterHyde). They are published here with permission.
+These images are from 
+[the Instagram feed](https://www.instagram.com/myxterhyde/)
+of [@MyxterHyde](/users/MyxterHyde).
+They are published here with permission.
 
 </Note>
+
+
+
