@@ -1,7 +1,3 @@
----
-title: Making Florent
-path: /en/docs/patterns/florent
----
 
 ## What you need
 
@@ -19,22 +15,23 @@ For the main fabric of your cap, a thick fabric will shape better, but if you go
 
 The lining can be anything, but it is usually something light and nice.
 
+
 ## Cutting
 
 Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself. Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
 
 The brim bottom part is inset, while the brim top part is offset so that the seam falls "underneath the brim edge". Keep that in mind when cutting the parts, and mark them accordingly, so that you don't end up with the seam on top of the brim (I don't want to force you into this design choice, I simply want to point out the difference between the parts so that you are aware of it and act accordingly)
 
-- **Main fabric** 
- - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
- - Cut **1 side** on the fold, or **2 side**.
- - Cut **1 brim top** .
- - Cut **1 brim bottom**.
-- **Lining fabric** 
- - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
- - Cut **1 side** on the fold, or **2 side**
-- **Plastic** 
- - Cut **1 brim interfacing**. Tape the pattern part to the plastic, don't cut the notches in the plastic, but you can mark it (engrave it, or with permanent marker maybe). You don't really want any sharp edge, so make sure everything is smooth and rounded a bit (especially on the pointy sides)
+ - **Main fabric**
+   - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
+   - Cut **1 side** on the fold, or **2 side**.
+   - Cut **1 brim top** .
+   - Cut **1 brim bottom**.
+ - **Lining fabric**
+   - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
+   - Cut **1 side** on the fold, or **2 side**
+ - **Plastic**
+   - Cut **1 brim interfacing**. Tape the pattern part to the plastic, don't cut the notches in the plastic, but you can mark it (engrave it, or with permanent marker maybe). You don't really want any sharp edge, so make sure everything is smooth and rounded a bit (especially on the pointy sides)
 
 A typical Florent layout looks like this:
 
@@ -63,19 +60,15 @@ There is several tricks to sewing darts, here is how I do it (I think it is call
 Where the rectangle of fabric starts, cut the seam allowance that is against this rectangle, up to the seam so that the seam can be ironed flat open before the rectangle. On the area where the dart is stitched with the rectangle, iron both seam allowances on one side, and the folded rectangle on the other side. Layer the edges of the rectangle. The edge against the main fabric is wider, the one above is smaller
 
 #### Version with the top part cut twice
-
 This dart is more straight forward since the seam is continuous. Simply stitch the seam all the way
 
 #### Ironing the seam
-
 You might have to notch the seam allowance to press it flat. Use a tailoring Ham or something rounded underneath to help you press the seam open whilst keeping the nice shape you just created.
 
 #### Top Stitching
-
 Depending on the style you want to achieve, you can top stitch all your seams (by machine of by hand). However, the front brim seam will be a bit tricky to do with the machine (but not impossible). Anyway, I put this here and won't remind you about it after each step, but basically, the process would be: Stitch, Iron, Top stitch, Repeat on the next step.
 
 ### Step 3: Optional: Join both side parts.
-
 This applies only if you cut two parts for the side part. It is a straight seam. nothing much to say about that. Iron the seam flat, with the seam allowances open.
 
 ### Step 4: Join the top to the side
@@ -135,7 +128,6 @@ Pin the tape in place: The two pins are used to distribute the tape equally on b
 ![Both edges of the tape are slip stitched, and the edge of the cap is top stitched](step13.jpg)
 
 ### Step 12: Stitch the side to the brim
-
 We are almost done, and the last step will be to attach the brim top to the front of the body of the cap. Pin the two part in position from the outside, turn the cap on the lining side and stitch both parts together several times.
 
 ![Pin it in place](step14.jpg) ![Stitch it in place, from the lining side](step15.jpg)
