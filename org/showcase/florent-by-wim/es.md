@@ -10,6 +10,7 @@ author: wim2
 
 Here's Wim with a Florent flap cap.
 
+
 ![Another picture from this Florent](2.jpg)
 
 ![Another picture from this Florent](3.jpg)
