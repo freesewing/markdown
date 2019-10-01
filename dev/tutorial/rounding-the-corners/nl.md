@@ -5,6 +5,7 @@ order: 240
 
 We weten al hoe je hoeken afrondt; daar dient de `round`-macro voor:
 
+
 ```js
 macro("round", {
   from: points.topLeft,
@@ -61,3 +62,6 @@ en behoud de rest van het pad zoals het was.
 De vorm van het slabbetje is nu afgewerkt:
 
 <Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
+
+
+
