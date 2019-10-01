@@ -3,11 +3,11 @@ title: Afmetingen toevoegen
 order: 130
 ---
 
-Bij FreeSewing gaat het allemaal om *op maat gemaakte* naaipatronen; we ontwerpen patronen volgens de afmetingen die de gebruiker invoert.
+FreeSewing is all about *made-to-measure* sewing patterns; We are going to draft our pattern according to the measurements provided to us.
 
 De vraag is dus: welke afmetingen?
 
-Jij, als patroonontwerper, bepaalt welke afmetingen nodig zijn om jouw patroon te ontwerpen. Voor ons slabbetje is de enige afmeting die we nodig hebben de hoofdomtrek of *head circumference* van de baby.
+Jij, als patroonontwerper, bepaalt welke afmetingen nodig zijn om jouw patroon te ontwerpen. For our bib, the only measurement we need is the baby's *head circumference*.
 
 Dus voegen we die toe als vereiste afmeting.
 
@@ -23,7 +23,7 @@ measurements: ["headCircumference"],
 
 Let erop dat je de namen van bestaande afmetingen gebruikt in plaats van er zelf nieuwe te verzinnen.
 
-Daarover lees je meer bij de [best practices](/do/names#re-use-measurements) over dit onderwerp.
+See our [best practices](/do/names#re-use-measurements) on this topic for details.
 
 </Tip>
 
@@ -35,6 +35,6 @@ Ook de developmentomgeving pikt deze verandering op. Je krijgt dus het volgende 
 
 Aangezien het maar om één afmeting gaat, kunnen we eenvoudig handmatig een waarde invoegen. Bijvoorbeeld `38`, want 38 centimeter is een realistische hoofdomtrek voor een baby.
 
-Voer `38` in in het kadertje en klik op **Ontwerp je patroon** bovenaan in de navigatie om terug te keren naar je ontwerp, dat er voorlopig nog zo uitziet:
+Enter `38` in the box, and click on **Draft your pattern** in the top navigation bar to get back to your draft which for now still looks like this:
 
 <Example pattern="tutorial" part="step1" caption="Nothing has changed, yet" />
