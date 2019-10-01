@@ -35,6 +35,7 @@ To try shine some light on what's going on, I have created [a long todo-list](ht
 
 Note that not all tasks are technical. We also need to pick pretty colors for the new patterns for example.
 
+
 ## Looking ahead to October
 
 I have two weeks of holiday in October, and I have promised myself I would (try to) put away my laptop and make some clothes. I'm curious to see how that goes.
