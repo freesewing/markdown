@@ -6,10 +6,10 @@ title: dimension
 
 The **dimension** plugin provides the following [macros](/plugins#macros):
 
-- [hd](#hd) : Adds a horizontal dimension
-- [vd](#vd) : Adds a vertical dimension
-- [ld](#ld) : Adds a linear dimension
-- [pd](#pd) : Adds a dimension along a path
+ - [hd](#hd) : Adds a horizontal dimension
+ - [vd](#vd) : Adds a vertical dimension
+ - [ld](#ld) : Adds a linear dimension
+ - [pd](#pd) : Adds a dimension along a path
 
 <Example part="plugin_dimension" caption="An example of the different dimensinon macros" design={false} />
 
@@ -108,7 +108,6 @@ The `hd` macro draws a horizontal dimenstion. It takes a single configuration ob
 | `noStartMarker` | `false`             | Boolean             | Whether to not draw a start marker                                     |
 | `noEndMarker`   | `false`             | Boolean             | Whether to not draw an end marker                                      |
 
-
 ### vd
 
 ```js
@@ -129,7 +128,6 @@ The `vd` macro draws a vertical dimenstion. It takes a single configuration obje
 | `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
 | `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
 | `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
-
 
 ### ld
 
@@ -152,7 +150,6 @@ The `ld` macro draws a linear dimenstion. It takes a single configuration object
 | `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
 | `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
 
-
 ### pd
 
 ```js
@@ -171,3 +168,4 @@ The `ld` macro draws a dimenstion parallel to a [Path](/api/path). It takes a si
 | `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
 | `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
 | `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
+
