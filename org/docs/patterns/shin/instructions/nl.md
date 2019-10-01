@@ -1,15 +1,11 @@
----
-title: Shin maken
-path: /en/docs/patterns/shin
----
 
 ## Wat je nodig hebt
 
 Om Shin te maken heb je het volgende nodig:
 
-- Basis naaimateriaal
-- Ongeveer 0,75 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
-- Twee vetergaatjes en een koordje
+ - Basis naaimateriaal
+ - Ongeveer 0,75 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+ - Twee vetergaatjes en een koordje
 
 > #### Een overlockmachine is handig, maar optioneel
 > 
@@ -23,15 +19,15 @@ Een zwembroek zou gemaakt moeten worden uit elastisch materiaal dat tegen zout o
 
 Gewoonlijk valt dit onder te verdelen in een aantal categorieën:
 
-- Nylon gemengd met elasthaan, spandex of lycra is zacht en elastisch. Dit wordt voor de meeste commerciële zwemkledij gebruikt.
-- Polyester gemengd met PBT (polybutyleen terephthalaat) is minder zacht, maar bestand tegen chloor en zout water. Dit wordt vaak voor competitiebadpakken gebruikt.
-- Neopreen, ook gekend als scuba, is zwaarder en minder elastisch. Hier worden duikpakken van gemaakt.
+ - Nylon gemengd met elasthaan, spandex of lycra is zacht en elastisch. Dit wordt voor de meeste commerciële zwemkledij gebruikt.
+ - Polyester gemengd met PBT (polybutyleen terephthalaat) is minder zacht, maar bestand tegen chloor en zout water. Dit wordt vaak voor competitiebadpakken gebruikt.
+ - Neopreen, ook gekend als scuba, is zwaarder en minder elastisch. Hier worden duikpakken van gemaakt.
 
 ## Knippen
 
-- Knip **2 rugpanden** met de goede kanten op elkaar
-- Knip **4 voorpanden** 2 x 2 met de goede kanten op elkaar
-- Knip **1 tailleband** 
+ - Cut **2 backs** with good sides together
+ - Cut **4 fronts** 2 x 2 with good sides together
+ - Cut **1 waistband**
 
 > #### Opmerkingen
 > 
@@ -45,6 +41,7 @@ Hier is een typische layout:
 ![Een typisch Shin patroon](layout.svg) {.elevation-1}
 
 > De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
+
 
 ## Constructie
 
