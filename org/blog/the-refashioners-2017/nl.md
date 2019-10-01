@@ -11,7 +11,7 @@ For the uninitiated, the refashioners is a yearly event/competition hosted by th
 
 Its focus is on giving old, unworn, or unloved garments a new lease on life through the art of refashioning.
 
-This bonanza of garment Frankensteining kicks of with a series of *hors-comp&eacute;tition* makes, aimed at getting the creative juices flowing. And [just like last year](http://www.makery.uk/2016/08/the-refashioners-2016-joost/), I got asked to be one of those *warm-up acts*.
+This bonanza of garment Frankensteining kicks of with a series of *hors-comp&eacute;tition*  makes, aimed at getting the creative juices flowing. And [just like last year](http://www.makery.uk/2016/08/the-refashioners-2016-joost/), I got asked to be one of those *warm-up acts*.
 
 Before I talk a bit about how it went, here's some pictures of what I made:
 
@@ -27,8 +27,8 @@ Before I talk a bit about how it went, here's some pictures of what I made:
 
 ![I case you missed it, this jacket comes with patch pocket](zebra6.jpg)
 
-## The male romper lobby
 
+## The male romper lobby
 Last year, the theme was jeans, this year it's suits. And from the moment I shared that snippet of info with a handful of friends, they've conspiring to get me to make a male romper.
 
 ![Sorcha trying to get me to make a romper](romper-chat.png)
@@ -132,6 +132,7 @@ In the meanwhile, enjoy some [more pictures of the jacket in this Flickr set](ht
 ## Now it's your turn
 
 So this is it, my contribution for The Refasioners 2017. I hope I was able to inspire you for some refashioning of your own. If nothing else, maybe it was a good reminder of what not to try ;)
+
 
 > ##### More refashioners
 > 
