@@ -2,7 +2,7 @@
 title: Natuurlijke taille tot vloer
 ---
 
-De afmeting **natuurlijke taille tot vloer ** is de afstand van je natuurlijke taille tot aan de vloer.
+The **naturalWaistToFloor** is the measurement from your natural waist down to the floor.
 
 Om de maat te nemen van je natuurlijke taille tot de vloer bepaal je de hoogte van je natuurlijke taille, en meet je hoe ver dit punt van de vloer is.
 
