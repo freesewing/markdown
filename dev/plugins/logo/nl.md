@@ -37,3 +37,4 @@ import config from "../config";
 
 const Pattern = new freesewing.Design(config, logo);
 ```
+
