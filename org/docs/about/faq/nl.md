@@ -12,20 +12,19 @@ Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig 
 
 <Note>
 
-##### Vraag je dit misschien omdat je ons niet vertrouwt?
+##### Are you asking because you don't trust us?
 
-Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. De volgende vragen en antwoorden kunnen dus ook relevant zijn:
+Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. As such, the following questions and answers may also be relevant:
 
-- [Wat doen jullie met mijn persoonlijke gegevens?](#what-are-you-doing-with-my-personal-data)
-- [Wie betaalt dit allemaal?](#who-pays-for-all-of-this)
-- [Wat is jullie uiteindelijke bedoeling?](#whats-your-end-game)
+ - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
+ - [Who pays for all of this?](#who-pays-for-all-of-this)
+ - [What's your end game?](#whats-your-end-game)
 
 </Note>
 
 ## Ik ken mijn maat. Waarom moet ik dan mijn maten invoeren?
 
-Op-maat-gemaakte naaipatronen genereren is *ons ding*.  
-Als je absoluut een patroon wil in standaard maten is FreeSewing niet voor jou.
+Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
 
 Geen nood, Fiona publiceert [een lange lijst](https://chainstitcher.blogspot.com/p/about-blog.html) van indie patroon ontwerpers, en voor zover we weten is FreeSewing de enige op die lijst die op-maat-gemaakte patronen aanbiedt.
 
@@ -41,9 +40,9 @@ Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine ma
 
 <Note>
 
-##### Word een FreeSewing mecenas
-
-Je kan mecenas worden voor slechts 2 euro per maand. Dus waarom geen [mecenas worden](/patrons/join)?
+##### Join the Freesewing Patrons
+You can be a patron for as little as 2 euro per month. So why not 
+[become a patron](/patrons/join) too?
 
 </Note>
 
@@ -57,4 +56,4 @@ If our work can help you put food on the table, by all means take it.
 
 We would like freesewing.org to become the WikiPedia of sewing patterns.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
