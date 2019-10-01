@@ -22,7 +22,6 @@ Adds a *cut on fold* indicator to your pattern.
 | `offset`    | 50      | Number              | The distance in mm to offset from the line from start to end |
 | `grainline` | `false` | Boolean             | Whether this cutonfold indicator is also the grainline       |
 
-
 <Note>
 
 The `cutonfold` macro is provided by the [cutonfold plugin](/plugins/cutonfold).
@@ -37,7 +36,6 @@ Adds a *grainline* indicator to your pattern.
 | -------- | ------- | ------------------- | ------------------------------------------- |
 | `from`   |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
 | `to`     |         | [Point](/api/point) | The endpoint of the *grainline* indicator   |
-
 
 <Note>
 
@@ -58,7 +56,6 @@ Adds a *horizontal dimension* to your pattern.
 | `noStartMarker` | `false`             | Boolean             | Whether to not draw a start marker                                     |
 | `noEndMarker`   | `false`             | Boolean             | Whether to not draw an end marker                                      |
 
-
 <Note>
 
 The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
@@ -78,7 +75,6 @@ Adds a *linear dimension* to your pattern.
 | `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
 | `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
 
-
 <Note>
 
 The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
@@ -96,7 +92,6 @@ Adds a *path dimension* to your pattern.
 | `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
 | `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
 | `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
-
 
 <Note>
 
@@ -118,7 +113,6 @@ Rounds a corner. Note that this is only intended for 90 degree corners.
 | `render` | `false` | Boolean             | Whether to render the path created by this macro               |
 | `class`  |         | String              | Class(es) to assign to the path created by this macro          |
 
-
 <Note>
 
 The `round` macro is provided by the [round plugin](/plugins/round).
@@ -137,7 +131,6 @@ Adds a *scale box* to your pattern.
 | `text`   | (\*)                   | String              | The text below the title               |
 | `rotate` | 0                        | Number              | Rotation in degrees                    |
 
-
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`
 
 <Note>
@@ -154,7 +147,6 @@ Bulk-adds snippets to your pattern.
 | --------- | ------- | ---------------- | --------------------------------------------------------- |
 | `snippet` |         | String           | Name of the snippet to sprinkle                           |
 | `on`      | `[]`    | Array of strings | An array with *the names* of points to add the snippet on |
-
 
 <Note>
 
@@ -176,7 +168,6 @@ Bulk-adds snippets to your pattern.
 | `rotation` |    0    | Number              | An optional rotation in degrees                                                                                                          |
 | `scale`    |    1    | Number              | An optional scaling factor                                                                                                               |
 
-
 <Note>
 
 The `title` macro is provided by the [title plugin](/plugins/title).
@@ -196,9 +187,13 @@ Adds a *vertical dimension* to your pattern.
 | `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
 | `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
 
-
 <Note>
 
 The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
 
 </Note>
+
+
+
+
+
