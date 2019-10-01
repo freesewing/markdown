@@ -1,17 +1,15 @@
----
-title: Knippen
----
 
- - Knip **1 rugpand** aan de stofvouw
-- Knip **1 voorpand** aan de stofvouw
-- Knip **3 stroken** voor de biezen aan de halsopening en armsgaten
+ - Cut **1 back** on the fold
+ - Cut **1 front** on the fold
+ - Cut **3 strips** for neck opening and armhole binding
 
 <Warning>
 
-#### Opmerkingen
+#### Caveats
 
-- Er is geen naadwaarde aan de armsgaten 
-- Er is geen naadwaarde aan de halsopening
-- Er is extra toeslag aan de zoom
+ - There is no seam allowance on the armholes 
+ - There is no seam allowance on the neck opening
+ - There is extra hem allowance at the hem
 
 </Warning>
+
