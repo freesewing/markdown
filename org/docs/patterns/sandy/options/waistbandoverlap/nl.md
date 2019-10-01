@@ -1,6 +1,3 @@
----
-title: Overlap Tailleband
----
 
 ![Overlap Tailleband](waistbandoverlap.svg)
 
