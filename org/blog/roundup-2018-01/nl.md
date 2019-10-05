@@ -10,7 +10,6 @@ author: joost
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
 ## Looking back at January
-
 ![More like this month](coffee.gif)
 
 It might be [the record-breaking depressing weather in my neck of the woods ](https://www.theguardian.com/world/2018/jan/19/aint-no-sunshine-winter-darkest-europe), but I feel like January took a lot out of me. So let's see if we have at least something to show for it.
@@ -35,11 +34,11 @@ You are now informed about this, both on the draft's page itself and on your lis
 > 
 > With only a single core version number to depend on, there's no obvious way for us to keep track of what changes impact what pattern.
 > 
-> The long-term plan here is to have a core version number and a pattern version number. This way, a version bump in one pattern will not impact other patterns.
+> The long-term plan here is to have a core version number and a pattern version number. This way, a version bump in one pattern will not impact other patterns. 
 > 
 > A version bump in core will still impact all patterns, but there should be far fewer core versions once we take all patterns out of core.
 > 
-> The idea is that every pattern will be in its own repository, and we'll use composer to manage them as dependencies.
+> The idea is that every pattern will be in its own repository, and we'll use composer to manage them as dependencies. 
 > 
 > But this is a long-term idea that won't be implemented until after we rewrite core. Yes, that's another long-term idea.
 
@@ -90,3 +89,6 @@ I don't think I'll find the time to make a jacket in February, but perhaps a mus
 [FOSDEM](http://fosdem.org/) \--- the Free and Open Source Developers' European Meeting \--- is on the first weekend of February in Brussels.
 
 I'm planning to be there on Sunday, so if you're attending too, let me know or come and say hi.
+
+
+

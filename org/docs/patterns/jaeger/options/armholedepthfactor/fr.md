@@ -1,6 +1,3 @@
----
-title: Armhole depth factor
----
 
 ![Armhole depth factor](armholedepthfactor.svg)
 

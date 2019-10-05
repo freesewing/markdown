@@ -25,9 +25,9 @@ We hebben een extra prinsessennaad toegevoegd aan het voorpand van de jas, en op
 
 Om dat accuraat te doen heb je voor Carlita drie extra maten nodig, naast de maten die je al nodig had voor Carlton. Dit zijn:
 
-- De [hoge buste](/docs/measurements/#highBust)
-- De [bustewijdte](/docs/measurements/#bustSpan)
-- [Hoog schouder punt tot buste](/docs/measurements/#highPointShoulderToBust)
+ - De [hoge buste](/docs/measurements/#highBust)
+ - De [bustewijdte](/docs/measurements/#bustSpan)
+ - [Hoog schouder punt tot buste](/docs/measurements/#highPointShoulderToBust)
 
 We gebruiken de omtrek van de hoge buste om de jas te tekenen, en doen dan een aanpassing voor volle buste aan de prinsessennaad gebaseerd op je (volle) borstomtrek, bustewijdte en HSP tot buste.
 
@@ -64,6 +64,7 @@ Dit is geen nieuws voor regelmatige bezoekers van deze website, maar als je hier
 Dit is ons eerste damespatroon met een aanpassende buste. Het is dus nieuw terrein voor ons, en ik wil graag weten hoe dit patroon zich aanpast aan een variëteit in lichaamsvormen en cupmaten.
 
 Als je van plan bent om deze jas te maken, of een toile, deel dan alsjeblieft je ervaring en aarzel niet ons te contacteren mocht je een probleem tegenkomen.
+
 
 Het is mijn bedoeling meer damespatronen te ontwerpen, dus als er pasproblemen zijn hoor ik daar liever vroeger dan later over.
 

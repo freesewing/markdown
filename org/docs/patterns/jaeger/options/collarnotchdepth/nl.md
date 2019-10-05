@@ -1,6 +1,3 @@
----
-title: Diepte inkeping kraag
----
 
 ![Diepte inkeping kraag](collarnotchdepth.svg)
 

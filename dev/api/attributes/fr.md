@@ -71,6 +71,7 @@ let class = paths.demo.attributes.get('class');
 // class contient maintenant : "classA classB"
 ```
 
+
 ## getAsArray()
 
 ```js
@@ -125,7 +126,7 @@ Définit l'attribut identifié par la clé `key` par la valeur `value`.
 
 <Warning>
 
-Ceci écrasera toute valeur actuellement définie sur l'attribut identifié par la clé `key`.
+This will overwrite any value that's currently set on the attribute identified by `key`.
 
 </Warning>
 

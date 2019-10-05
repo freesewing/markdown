@@ -1,10 +1,5 @@
----
-title: Theodore maken
-path: /en/docs/patterns/theodore
----
 
 ## Video
-
 Tekst een beetje te droog voor je? Ik probeer video's beschikbaar te maken als deel van de documentatie.
 
 In dit geval is er een hoop videomateriaal beschikbaar, maar dit is origineel opgenomen voor een eerdere versie van dit patroon. Nog steeds relevant wel.
@@ -15,54 +10,53 @@ In dit geval is er een hoop videomateriaal beschikbaar, maar dit is origineel op
 
 Om Theodore te maken heb je het volgende nodig:
 
-- Basis naaimateriaal
-- Ongeveer 2 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
-- Ongeveer een meter voering
-- Kleefbare tussenvoering voor de achterzakken en tailleband
-- Een rits, knoop en broekhaak voor de gulp
+ - Basis naaimateriaal
+ - Ongeveer 2 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
+ - Ongeveer een meter voering
+ - Kleefbare tussenvoering voor de achterzakken en tailleband
+ - Een rits, knoop en broekhaak voor de gulp
 
 ## Stofkeuze
 
 Je hebt hier veel opties, maar hou in je achterhoofd dat dit een klassiek model van broek is. In andere woorden, gebruik geen stretchstof, denim, nepleer of andere onzin. Veilige opties zijn wol, katoen of linnen, eventueel gemengd met iets synthetisch.
 
-Als je **wol** wil, kijk dan in de afdeling met pakstoffen van je stoffenwinkel. Voor een eerste paar is een wol-polyestermix een budgetvriendelijke optie. Maar focus niet te hard op de prijs, een goedkoop stofje is de beste manier om met een mottige broek en een hoop frustraties te eindigen.
+For **wool**, look in the suiting section of your fabric store. Voor een eerste paar is een wol-polyestermix een budgetvriendelijke optie. Maar focus niet te hard op de prijs, een goedkoop stofje is de beste manier om met een mottige broek en een hoop frustraties te eindigen.
 
-Als je **katoen** wil, kies dan een zwaardere stof. Katoen is ook wat makkelijker voor een beginner dan wol. Als je niet zeker bent over wat te gebruiken, vraag dan om chino stof in de stoffenwinkel en kies een kleurtje.
+For **cotton**, go for a heavier weight. Katoen is ook wat makkelijker voor een beginner dan wol. Als je niet zeker bent over wat te gebruiken, vraag dan om chino stof in de stoffenwinkel en kies een kleurtje.
 
-Niets beter dan **linen** op een hete zomerdag. Het is ook fijn om mee te werken, maar kreukt als de pest, en zelfs de best genaaide broeken zien er een beetje rommelig uit in linnen. Wat ik wil zeggen is: misschien niet voor je eerste paar.
+Nothing beats **linen** on a hot summer day. Het is ook fijn om mee te werken, maar kreukt als de pest, en zelfs de best genaaide broeken zien er een beetje rommelig uit in linnen. Wat ik wil zeggen is: misschien niet voor je eerste paar.
 
 ## Knippen
 
-- **Buitenstof** 
- - Knip **2 achterpanden** met de goede kanten op elkaar
- - Knip **2 voorpanden** met de goede kanten op elkaar
- - Knip **1 linker tailleband**
- - Knip **1 rechter tailleband**
- - Knip **2 gulp delen** met de goede kanten op elkaar
- - Knip **2 belegdelen voorzak** met de goede kanten op elkaar
- - Knip **4 belegdelen achterzak** 
- - Knip **8 riemlusjes** 
-- **Voering** 
- - Knip **2 voering voorpand** met de goede kanten op elkaar
- - Knip **1 voering tailleband links**
- - Knip **1 voering tailleband rechts**
- - Knip **1 gulpbeleg**
- - Knip **4 zakdelen voor** 2x2 met goede kanten op elkaar (**zie opmerkingen**)
- - Knip **2 binnenste achterzakken** 
- - Knip **2 buitenste achterzakken** 
-- **Tussenvoering** 
- - Knip **1 tussenvoering tailleband links**
- - Knip **1 tussenvoering tailleband rechts**
- - Knip **4 tussenvoering achterzak**
+ - **Buitenstof**
+   - Cut **2 back(s)** with good sides together
+   - Cut **2 front(s)** with good sides together
+   - Cut **1 waistband left**
+   - Cut **1 waistband right**
+   - Cut **2 fly piece(s)** with good sides together
+   - Cut **2 side piece(s)** with good sides together
+   - Cut **4 back pocket facing(s)**
+   - Cut **8 belt loop(s)**
+ - **Voering**
+   - Cut **2 front lining(s)** with good sides together
+   - Cut **1 waistband lining left**
+   - Cut **1 waistband lining right**
+   - Cut **1 fly shield**
+   - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
+   - Cut **2 back inner pocket bag(s)**
+   - Cut **2 back outer pocket bag(s)**
+ - **Tussenvoering**
+   - Cut **1 waistband interfacing left**
+   - Cut **1 waistband interfacing right**
+   - Cut **4 back pocket interfacing(s)**
 
 ### Opmerkingen
-
-- De **voering voorpand** wordt geknipt van het **voorpand** van het patroon, tot aan de lijn net onder de knie
-- Let op de draadrichting van het **gulpdeel**, **gulpbeleg**, en **belegdeel voorzak**
-- Er zijn twee versies van het voorste zakdeel. Je moet twee van elk knippen: 
- - Knip twee van het complete deel
- - Knip twee tot aan de stippellijn aan de linkerkant
-- De **binnenste achterzak** en **buitenste achterzak** lijken erg op elkaar. Zorg dat je ze correct markeert zodat je ze niet verwart.
+ - The **front lining** is cut from the **front** part on your draft, down to the line just below the knee
+ - Pay attention to the grainline on the **fly piece**, **fly shield**, and **side piece**
+ - Er zijn twee versies van het voorste zakdeel. Je moet twee van elk knippen:
+    - Knip twee van het complete deel
+    - Knip twee tot aan de stippellijn aan de linkerkant
+ - The **back inner pocket bag** and **back outer pocket bag** are very similar. Zorg dat je ze correct markeert zodat je ze niet verwart.
 
 Hier is een typisch Theodore patroon:
 
@@ -72,9 +66,9 @@ Hier is een typisch Theodore patroon:
 
 ## Constructie
 
-> Veel van de stappen hieronder worden herhaald voor beide broekspijpen.
+> Veel van de stappen hieronder worden herhaald voor beide broekspijpen. 
 > 
-> Dit wordt niet altijd vermeld want het leven is kort en constant *herhaal dit voor de tweede broekspijp* schrijven wordt snel saai.
+> That is not always mentioned because life is short and continuously writing _Do not forget to do this for both trouser legs_ gets tired really soon.
 
 ### Stap 1: Drieg de plooilijnen
 
@@ -149,7 +143,7 @@ Je gaat langs de zakopening stikken, maar keer alles eerst om zodat je van de go
 Stik door op 0.5 cm van de plooi. Hou het parallel en rek je stof niet uit.
 
 > Dit stiksel is altijd zichtbaar, dus zorg dat de draadkleur bij je stof past en maak het mooi.
-> 
+
 > Om te voorkomen dat je zakken uitrekken kan je een stuk niet-elastisch lint tussen de vouw stoppen. Wanneer je stikt wordt dit lint mee vastgemaakt, en zorgt het dat de zak niet uitrekt.
 
 ### Stap 7: werk de rand aan de binnenkant van de voorzak af
@@ -191,7 +185,7 @@ Speld alle delen samen, en let op dat de onderrand van het zakdeel gelijk ligt.
 Plooi wanneer alles samengespeld is het voorpand en de voering opzij en sluit de onderrand van het zakdeel.
 
 > Stik de onderrand van het zakdeel tot aan het punt waar het belegdeel begint
-> 
+
 > Je kan het zakdeel op verschillende manieren afwerken, zoals:
 > 
 > - Lock de randen samen
@@ -272,8 +266,8 @@ Neem je rits en open ze. Keer ze nu om zodat ze met de goede kant naar beneden l
 
 Leg je rits gelijk met de kruisnaad zoals in de illustratie. Hou het volgende in gedachten:
 
-- Het einde van je rits zou aan de bovenrand van je broek moeten zitten, waar je tailleband begint. Denk er wel aan dat daar nog naadwaarde zit, dus leg het einde niet exact samen met de rand, maar 1 cm lager.
-- Leg de rits gelijk met de kruisnaad. Let niet op de rand van de rits, aangezien deze in verschillende breedtes bestaan. Zorg in de plaats dat je naast de tandjes van de rits kan stikken en binnen de naadwaarde van het voorpand blijven.
+ - Het einde van je rits zou aan de bovenrand van je broek moeten zitten, waar je tailleband begint. Denk er wel aan dat daar nog naadwaarde zit, dus leg het einde niet exact samen met de rand, maar 1 cm lager.
+ - Leg de rits gelijk met de kruisnaad. Let niet op de rand van de rits, aangezien deze in verschillende breedtes bestaan. Zorg in de plaats dat je naast de tandjes van de rits kan stikken en binnen de naadwaarde van het voorpand blijven.
 
 Speld de rits vast met een paar spelden haaks op de rits (zoals getoond). In andere woorden, speld niet langs de rits, maar door de rits.
 
@@ -478,7 +472,6 @@ Keer je broek naar de goede kant, en leg voorzichtig één broekspijp op de stri
 Als dit er goed uit ziet, strijk je de plooien in je broekspijp, aan de voor- en achterkant. Herhaal voor de andere broekspijp.
 
 Strijk het grondig, je wil namelijk dat deze plooien zichtbaar blijven na het wassen (zodat je ze er weer in kan strijken).
-
 > In de kledingindustrie gebruikt men chemische stoffen langs de vouwlijn voor ze gestreken wordt. Sommige kleermakers gebruiken een houten hamer en aambeeld om de vezels in een permanente plooi te timmeren.
 
 Afhankelijk van je stof kan je plooi langer blijven, maar uiteindelijk kan je niet verwachten dat een plooi langer dan een paar wasbeurten meegaat.
@@ -557,11 +550,11 @@ Los daarvan is dit de standaard manier om een riemlusje te maken:
 
 Vind het patroondeel voor de riemlus, een klein rechthoekig stuk stof. Hiervan zou je er 8 moeten hebben, en dit worden je riemlusjes. Voor elke lus volg je deze stappen:
 
-- Zigzag (of lock) langs de lange randen van de rechthoek
-- Plooi één kant terug in de lengte, en strijk
-- Plooi de andere kant terug, in de lengte, en strijk
-- Naai met de hand langs de achterkant van het lusje zodat de geplooide randen op hun plek blijven, maar de steken vooraan niet zichtbaar zijn
-- Strijk nog eens goed als je klaar bent
+ - Zigzag (of lock) langs de lange randen van de rechthoek
+ - Plooi één kant terug in de lengte, en strijk
+ - Plooi de andere kant terug, in de lengte, en strijk
+ - Naai met de hand langs de achterkant van het lusje zodat de geplooide randen op hun plek blijven, maar de steken vooraan niet zichtbaar zijn
+ - Strijk nog eens goed als je klaar bent
 
 > De exacte breedte van je lusjes is niet zo belangrijk, maar het is wel belangrijk dat ze allemaal even breed zijn.
 > 
@@ -580,7 +573,7 @@ Leg de goede kant van de riemlus op de goede kant van de broek (goede kanten sam
 Zigzag dan de rand van de riemlus aan de broek.
 
 > Het is belangrijk dat je de voering van de tailleband uit de weg houdt terwijl je dit doet. Zorg dat je de riemlusjes enkel aan je broek vastmaakt, en niet aan de voering van de tailleband.
-> 
+
 > Je hebt 8 riemlusjes, dus die moet je verdelen rond je tailleband. Kijk naar een bestaande broek als je niet zeker bent van waar ze moeten komen.
 > 
 > Zorg dat er zeker lusjes aan de middenrug zitten, en niet te dicht bij elkaar aan middenboor (zodat er ruimte is voor een gesp).
@@ -601,7 +594,7 @@ Dit is een stuk makkelijker te begrijpen als je naar de video hierover kijkt:
 
 Voor we de tailleband afwerken gaan we de naadwaarde wat bijknippen.
 
-> **Over het bijknippen van naden** Als je verschillende lagen naadwaarde bijknipt, probeer de lagen dan op verschillende lengtes te knippen zodat de bulk geleidelijk aan vermindert.
+> **About seam allowance grading** When trimming back different layers of seam allowance, always try to cut them at different lengths so that the bulk is reduced in incremental steps.
 > 
 > De laag die het dichtst bij de goede kant van het kledingstuk ligt moet het langst zijn, dus begin daar.
 > 
@@ -611,7 +604,7 @@ Voor we de tailleband afwerken gaan we de naadwaarde wat bijknippen.
 
 ![Strijk en drieg de voering van de tailleband](step49.png)
 
-De voering van de tailleband wordt langs de voorkant van de broek vastgestikt, bovenop de naad tussen de tailleband en de broek (zogenaamd *door de naad stikken*).
+The waistband lining will be sewn from the front of the trousers on top of the seam that joins the waistband to the trousers (so called _stitch in the ditch_).
 
 Dit stikt de voering vast. Maar, omdat we dit langs de goede kant stikken ligt de voering onder alle andere lagen en zien we niet wat we doen.
 
@@ -640,7 +633,7 @@ Nu je tailleband en voering echt vastzitten is het tijd om de bovenkant van de r
 Stik ze vast zoals je aan de onderkant deed. Dat wil zeggen, zet ze vast met een trens of smalle zigzag, en zigzag dan over het uiteinde om ze af te werken.
 
 > Stik niet door de bovenkant van de riemlusjes. Je zal de voet van je naaimachine onder het riemlusje moeten krijgen zodat je alleen door het teruggeplooide stuk stikt.
-> 
+
 > Knip de lengte van je riemlusjes gerust bij nadat je ze bevestigt, ze kunnen namelijk wat te lang zijn.
 
 ### Stap 52: Werk de onderrand van de broekspijpen af
@@ -682,5 +675,4 @@ Als de zoom netjes gestreken is, naai het teruggeplooide deel dan vast aan de bi
 > Er bestaan manieren om dit met de naaimachine te dien, maar deze zijn niet zo netjes (blindzoomsteek), of niet toegankelijk voor gewone stervelingen (industriele blindzoommachine).
 
 ### Stap 56: Knip bij, ruim op en strijk
-
 Knip alle losse draadjes of driegdraadjes die overblijven bij, en strijk je broek nog eens grondig.

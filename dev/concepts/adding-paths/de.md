@@ -16,3 +16,4 @@ paths.example = new Path();
 The [Path API docs](/api/point) list all the things you can do with a path object.
 
 </Tip>
+

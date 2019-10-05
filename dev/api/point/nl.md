@@ -6,14 +6,14 @@ Een Point object is een representatie van een punt op een vlak met een X en een 
 
 Point objecten hebben de volgende eigenschappen:
 
-- `x`: De coördinaat op de X as van het punt
-- `y`: De coördinaat op de Y as van het punt
-- `attributes` : De [Attributes](../attributes) instantie die het punt's kenmerken bevat
+ - `x`: De coördinaat op de X as van het punt
+ - `y`: De coördinaat op de Y as van het punt
+ - `attributes` : De [Attributes](../attributes) instantie die het punt's kenmerken bevat
 
 De Point constructor heeft twee argumenten:
 
-- `x`: De coördinaat op de X as van het punt
-- `y`: De coördinaat op de Y as van het punt
+ - `x`: De coördinaat op de X as van het punt
+ - `y`: De coördinaat op de Y as van het punt
 
 ```js
 Point new Point(x, y);
@@ -453,8 +453,8 @@ Geeft een punt terug met [a translate transform](https://developer.mozilla.org/e
 
 In andre woorden, dit doet:
 
-- Voegt `deltaX` toe aan de X-coordinate van het punt
-- Voegt `deltaY` toe aan de Y-coordinate van het punt
+ - Voegt `deltaX` toe aan de X-coordinate van het punt
+ - Voegt `deltaY` toe aan de Y-coordinate van het punt
 
 ### Point.translate() voorbeeld
 
@@ -520,9 +520,9 @@ Geeft `true` terug als het punt ongeveer dezelfde coordinaten heeft als degene d
 
 <Note>
 
-###### Wat is ongeveer?
+###### How rough?
 
-Het verschil tussen deze methode en [Point.sitsOn](#pointsitson) is dat deze alles afrond naar een heel getal (en dus mm) voordat het controleerd.
+The difference between this method and [Point.sitsOn](#pointsitson) is that this one rounds things down to the nearest integer (thus mm) before checking.
 
 </Note>
 
@@ -570,9 +570,9 @@ snippets.x = new Snippet("notch", points.A);
 ```
 
 ## clone()
-
-    Point point.clone()
-    
+```
+Point point.clone()
+```
 
 Geeft een punt terug met dezelfde coordinaten en attributen als dit punt.
 
@@ -580,7 +580,8 @@ Geeft een punt terug met dezelfde coordinaten en attributen als dit punt.
 
 ###### Copy vs clone
 
-De `Point.copy()` methode copieerd alleen de coordinaten van het punt, maar `Point.clone()` methode copieerd ook de attributen.
+The `Point.copy()` method will only copy the point's coordinates, whereas this
+`Point.clone()` method will also copy its attributes.
 
 </Note>
 
@@ -599,3 +600,4 @@ De `Point.copy()` methode copieerd alleen de coordinaten van het punt, maar `Poi
 
   snippets.x = new Snippet("notch", points.A);
 ```
+

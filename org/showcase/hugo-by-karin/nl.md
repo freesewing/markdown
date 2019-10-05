@@ -7,4 +7,4 @@ patterns:
   - hugo
 ---
 
-Karin heeft meer details over dit stuk [op haar blog](https://www.karinkay.nl/freesewing-hugo-hoodie/).
+Karin heeft meer details over dit stuk [op haar blog](https://www.karinkay.nl/freesewing-hugo-hoodie/). 

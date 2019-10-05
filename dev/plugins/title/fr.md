@@ -57,7 +57,6 @@ void macro("title", {
   append: bool,
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Propriété  | Défaut  | Type                 | Description                                                                                                                                                                |

@@ -17,9 +17,9 @@ I asked Quentin if he wanted to write this announcement blog post himself, but h
 > 
 > I like wearing flat caps myself. I didn't use to, but I have a friend Florent who inspired me to wear them (now you know where the name comes from).
 > 
-> The first time I made a flat cap, it took me ages to scale the pattern to an exact fit, involving a lot of messing about with tracing paper. There's a number of patterns available online for flat caps. But they all come in one size only.
+> The first time I made a flat cap, it took me ages to scale the pattern to an exact fit, involving a lot of messing about with tracing paper. There's a number of patterns available online for flat caps. But they all come in one size only. 
 > 
-> I wanted to make this more accessible to people. And, while I was at it, I also drew on my experience to add some tweaks for a better fit.
+> I wanted to make this more accessible to people. And, while I was at it, I also drew on my experience to add some tweaks for a better fit. 
 > 
 > For example, this design extends lower at the back of the head, which gives it better hold.
 

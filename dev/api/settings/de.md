@@ -1,12 +1,13 @@
-* * *
-
-## title: Settings
+---
+title: Settings
+---
 
 <Note>
 
 Settings are what the user passes to your pattern at run-time.
 
-Don't confuse them with the [pattern configuration](/config) that is determined by the designer at build-time.
+Don't confuse them with the [pattern configuration](/config) that is determined by
+the designer at build-time.
 
 </Note>
 
@@ -29,9 +30,12 @@ let pattern = new Brian({
 
 ###### Try our models while developing
 
-When designing a pattern, you want to test it with a bunch of different, yet realistic, measurements.
+When designing a pattern, you want to test it with a bunch of different,
+yet realistic, measurements.
 
-We publish the [@freesewing/models](/packages/models) package exactly for this purpose. It comes with a set of models (with and without breasts) with (probaly) all the measurements you need.
+We publish the [@freesewing/models](/packages/models)
+package exactly for this purpose. It comes with a set of models (with and 
+without breasts) with (probaly) all the measurements you need.
 
 </Tip>
 
@@ -59,7 +63,7 @@ let pattern = new Brian({
 
 Set this to `false` to draft a base outline of the pattern, rather than a fully detailed pattern. This has different uses, such as generating patterns to be cut out with a laser cutter.
 
-The default is `true`. Setting this to `false` will force [sa](#sa) to be set to `false`.
+The default is `true`.  Setting this to `false` will force [sa](#sa) to be set to `false`.
 
 ```js
 import brian from "@freesewing/brian";
@@ -86,6 +90,7 @@ let pattern = new Brian({
 The seam allowance in mm.
 
 Not setting this, setting it to `false`, or to zero, will draft a pattern without seam allowance.
+
 
 ```js
 import brian from "@freesewing/brian";
@@ -141,11 +146,10 @@ let pattern = new Brian({
 
 ## margin
 
-Allows you to specify a part margin (in mm). The default is 2mm.  
-Each part will have this margin applied. This means that:
+Allows you to specify a part margin (in mm). The default is 2mm. Each part will have this margin applied. This means that:
 
-- At the edge of the SVG, the margin will be `margin * 1` (2mm by default)
-- Between parts, the margin will be `margin * 2` (4mm by default)
+ - At the edge of the SVG, the margin will be `margin * 1` (2mm by default)
+ - Between parts, the margin will be `margin * 2` (4mm by default)
 
 Note that setting the margin to zero (or below) will cause parts to overlap.
 
@@ -161,9 +165,11 @@ let pattern = new Brian({
 
 ###### For paperless, the minimal margin is 10mm
 
-In paperless mode, the margin will not go below 10mm.
+In paperless mode, the margin will not go below 10mm. 
 
-That is because text is not taken into account when calculating the bounding box of the part. Since dimensions are typically the outermost elements in a paperless part, a too narrow margin would cause the dimension text to get cut off.
+That is because text is not taken into account when calculating the bounding box of the part.
+Since dimensions are typically the outermost elements in a paperless part, 
+a too narrow margin would cause the dimension text to get cut off.
 
 </Note>
 
@@ -209,7 +215,7 @@ Allows you to control the way pattern parts are laid out on the pattern. There a
 
 ### layout is true
 
-This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible.
+This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible. 
 
 <Note>FIXME: Insert example</Note>
 
@@ -249,7 +255,8 @@ let pattern = new Brian({
 
 For each part in the `parts` attribute of our layout object, there are 4 possible attributes:
 
-- move: Expects an object with an `x` and `y` property, and will move the part by `x` along the X-axis and by `y` along the Y-axis
-- rotate: Expects a number, and will rotate the part by number degrees around its center point
-- flipX: Will flip/mirror the part horizontally
-- flipY: Will flip/mirror the part vertically
+ - move: Expects an object with an `x` and `y` property, and will move the part by `x` along the X-axis and by `y` along the Y-axis
+ - rotate: Expects a number, and will rotate the part by number degrees around its center point
+ - flipX: Will flip/mirror the part horizontally
+ - flipY: Will flip/mirror the part vertically
+

@@ -8,3 +8,4 @@ Opties worden opgeslagen in `pattern.settings.options`, maar dankzij [shorthand]
 ```js
 let sleeveBonus = measurements.shoulderToWrist * (1 + options.sleeveLengthBonus);
 ```
+

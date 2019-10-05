@@ -1,6 +1,3 @@
----
-title: Ratio reductie taille voorpand
----
 
 ![Ratio reductie taille voorpand](waistreductionratiofront.svg)
 

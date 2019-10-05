@@ -19,9 +19,12 @@ author: Topstithed
 <Note>
 
 ###### See the original on [@Topstitched](/users/Topstitched)'s blog
-
-These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) blog post on [topstitched.net](http://www.topstitched.net/).
+These picture are from the [Back again with the fighter hoodie](http://www.topstitched.net/?p=1431) 
+blog post on [topstitched.net](http://www.topstitched.net/).
 
 They are reposted here with permission.
 
 </Note>
+
+
+

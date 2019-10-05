@@ -87,10 +87,12 @@ Avec ceci, notre bavoir ressemble à présent à cela :
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
-<Note>
+<Note> 
 
-Nous avons utilisé la méthode `part.attr()` pour styliser notre chemin. Mais étant donné que la classe `fabric` (tissu) est dessinée en noir, cela ne semble pas très différent. Nous allons utiliser d'autres classes plus tard qui rendront son effet plus apparent.
+We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black,
+it doesn't look much different. Nous allons utiliser d'autres classes plus tard qui rendront son effet plus apparent. 
 
 </Note>
 
-Cela a un assez bel aspect. Mais ces coins vers le bas ne font pas très *bébé*, non ? Réglons donc ça.
+Cela a un assez bel aspect. But those sharp corners at the bottom don't exactly say *baby* do they? Réglons donc ça.
+

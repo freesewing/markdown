@@ -1,6 +1,3 @@
----
-title: Hoek inkeping kraag
----
 
 ![Hoek inkeping kraag](collarnotchangle.svg)
 

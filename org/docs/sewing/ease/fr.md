@@ -1,6 +1,5 @@
 ---
 title: Ease
-path: /en/docs/sewing/ease
 ---
 
 ![Without ease, you would not be able to raise your arm](ease-plus.jpg)
@@ -17,4 +16,5 @@ Ease can work the other way too. When the fabric stretches, we can choose to use
 
 Negative easy is used for stretchy materials where the garment must fit tightly. For example, in swimwear, tights, underwear, or sportswear.
 
-> Pictures by [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/) and [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893)
+
+> Pictures by [Quinn Dombrowski](https://www.flickr.com/photos/quinnanya/8885126989/) and [sutiblr](https://www.flickr.com/photos/30788655@N08/4743320893) 

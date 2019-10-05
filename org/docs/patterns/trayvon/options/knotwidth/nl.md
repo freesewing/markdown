@@ -1,9 +1,3 @@
----
-title: Breedte knoop
-path: /en/docs/patterns/trayvon/options/knotwidth
-pattern: trayvon
-option: knotWidth
----
 
 De breedte van de knoop is de breedte in het midden van de das, waar je de knoop maakt.
 

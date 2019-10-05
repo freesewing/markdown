@@ -39,8 +39,7 @@ I told you earlier that mmp generated over 6500 patterns. I can also tell you th
 
 So which one is it, 10 or 6500? Well, it depends on the context. Which is ambigious and confusing.
 
-Now, patterns are patterns, and drafts are drafts.  
-That is, a draft is what you generate from a pattern. It's a pattern drafted to your exact specifications.
+Now, patterns are patterns, and drafts are drafts. That is, a draft is what you generate from a pattern. It's a pattern drafted to your exact specifications.
 
 ![An example of a draft from freesewing.org](draft-sample.svg)
 
@@ -88,8 +87,8 @@ Putting your pattern side by side with a pattern that is known to be correct can
 
 So, comparison is built-in. Every time you generate a draft, you get two things:
 
-- Your drafted pattern
-- A comparison of your draft to a range of standard sizes
+ - Your drafted pattern
+ - A comparison of your draft to a range of standard sizes
 
 ![An example of a draft compared to standard sizes](compare-sample.svg)
 
@@ -135,7 +134,12 @@ This is a bit silly, but you can now unlock [badges](/docs/site/badges) on the s
 
 A while ago, I opened up an early access version of the site to those people who were interested, and I would like to thank all of you who tried out the site, reported issues, or merely gave feedback or encouragements.
 
-<img alt="The Early Access badge" src="/img/badges/badge-early-access.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" /> <img alt="The Launch Day badge" src="/img/badges/badge-launch-day.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" /> <img alt="The Donated badge" src="/img/badges/badge-donated.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" /> <img alt="The Issue badge" src="/img/badges/badge-issue.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" /> <img alt="TheContributor  badge" src="/img/badges/badge-contributor.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" /> <img alt="The Blog Post badge" src="/img/badges/badge-blogpost.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="The Early Access badge" src="/img/badges/badge-early-access.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="The Launch Day badge" src="/img/badges/badge-launch-day.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="The Donated badge" src="/img/badges/badge-donated.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="The Issue badge" src="/img/badges/badge-issue.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="TheContributor  badge" src="/img/badges/badge-contributor.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
+<img alt="The Blog Post badge" src="/img/badges/badge-blogpost.svg" class="badge-img drop-shadow" style="margin: 1%; width: 30%; height: auto; border-radius: 50%" />
 
 <figcaption><small>Some of the badges you can unlock</small></figcaption>
 
@@ -152,7 +156,6 @@ Maybe it's just me, but after every major project comes to completion, I tend to
 I might need a few weeks to bounce back from that, but don't let that stop you from giving me [your feedback and opinions](/contact) on the site. And if you manage to break something, you can [create an issue](https://github.com/freesewing/site/issues/new).
 
 ## One last thing
-
 I've worked on this for about a year and a half, and especially the last 11 months or so rather intensively.
 
 Now that it's ready, would you help me spread the news a little?
@@ -160,3 +163,5 @@ Now that it's ready, would you help me spread the news a little?
 If you could tell somebody about this or perhaps tweet or write about it, you'd do me a real favour.
 
 Thank you
+
+

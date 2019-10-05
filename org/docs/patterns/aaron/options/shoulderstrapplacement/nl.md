@@ -1,7 +1,3 @@
----
-title: Locatie schouderband
----
-
 ![De optie voor de locatie van de schouderband bij Aaron](./shoulderstrapplacement.svg)
 
 Bepaalt de positie van de schouderband op de schouder.

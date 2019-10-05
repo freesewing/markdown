@@ -13,3 +13,4 @@ Theodore writes [on Reddit](https://www.reddit.com/r/sewing/comments/c1fue3/crop
 > Are capris cool again yet? I don't care, I like them.
 > 
 > Used some nice olive green Armani cotton fabric with a customized pattern from FreeSewing.org, the Theo model. Drafted for a higher rise, they fit really nice!
+

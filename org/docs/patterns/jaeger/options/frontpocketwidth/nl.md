@@ -1,6 +1,3 @@
----
-title: Breedte voorzak
----
 
 ![Breedte voorzak](frontpocketwidth.svg)
 

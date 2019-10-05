@@ -1,8 +1,8 @@
 ---
 date: 2018-01-02
-title: Outfit - Florent, Theo & Wahid by Paul
+title: Outfit - Florent, Theodore & Wahid by Paul
 img: showcase.jpg
-caption: "Outfit - Florent, Theo & Wahid by Paul"
+caption: "Outfit - Florent, Theodore & Wahid by Paul"
 patterns:
   - florent
   - theo

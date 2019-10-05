@@ -1,6 +1,5 @@
 ---
 title: Draadrichting
-path: /en/docs/sewing/fabric-grain
 ---
 
 ![De draadrichting loopt parallel met de zelfkant](fabric-grain.jpg)
@@ -12,7 +11,7 @@ Geweven stoffen worden gemaakt door ze zogenaamde inslagdraden tussen de scherin
 Draadrichting wordt op een patroon aangeduid met een lange pijl. Wanneer je je patroon uitknipt is het belangrijk om de pijl op je patroondeel gelijk te leggen met de draadrichting van je stof.
 
 > Voor meer details over schering en inslag: [Weven op Wikipedia](https://nl.wikipedia.org/wiki/Weven)
-> 
+
 > ##### Verwarrend? Denk aan hout
 > 
 > Hout is niet geweven, maar groeit in verschillende lagen, gebaseerd op de seizoenen (groeiringen). De richting van deze lagen is belangrijk voor houtbewerkers. Dit heeft een invloed op hoe hard het hout zal vervormen nadat het gesneden is en hoe het kan plooien, alsook een aantal andere parameters.

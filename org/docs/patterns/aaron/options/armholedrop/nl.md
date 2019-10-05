@@ -1,7 +1,3 @@
----
-title: Diepte armsgat
----
-
 ![De diepte van het armsgat bij Aaron](./armholedrop.svg)
 
 Hoeveel lager het armsgat wordt dan de standaard.

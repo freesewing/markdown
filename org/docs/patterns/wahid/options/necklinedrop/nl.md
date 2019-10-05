@@ -1,9 +1,3 @@
----
-title: Diepte halslijn
-pattern: wahid
-path: /en/docs/patterns/wahid/options/necklinedrop
-option: necklineDrop
----
 
 Deze optie staat je toe je halslijn lager te maken dan de standaard.
 

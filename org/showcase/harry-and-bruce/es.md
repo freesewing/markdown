@@ -8,4 +8,4 @@ patterns:
 author: Lauren Digby
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BHKdxGgh0y0/) of [ladysewalot](http://ladysewalot.blogspot.com/).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BHKdxGgh0y0/)  of [ladysewalot](http://ladysewalot.blogspot.com/).

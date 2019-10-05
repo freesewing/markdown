@@ -3,7 +3,7 @@ title: Ajuster l'encolure
 order: 170
 ---
 
-Voici comment vous allez vous assurer que l'encolure est *au point* :
+Here's how we'll make sure the neck opening is *just right*:
 
 ```js
 let tweak = 1;
@@ -28,19 +28,19 @@ do {
 
 Nous avons ajouté quelques nouvelles variables :
 
-- `tweak`: un *facteur d'ajustement* que nous utiliserons pour augmenter ou diminuer l'encolure en lui donnant une valeur supérieure ou inférieure à 1
-- `target` : la longueur prévue de l'encolure (de son quart)
-- `delta` : à quel point nous dévions de notre idéal. Les nombres positifs signifient qu'elle est trop longue, les nombres négatifs qu'elle est trop courte
+ - `tweak`: A *tweak factor* that we'll use to increase or decrease the neck opening by making it more or less than 1
+ - `target` : la longueur prévue de l'encolure (de son quart)
+ - `delta` : à quel point nous dévions de notre idéal. Les nombres positifs signifient qu'elle est trop longue, les nombres négatifs qu'elle est trop courte
 
 Maintenant que nous savons ce qu'est la `cible` (target), nous construisons notre chemin comme nous l'avons fait précédemment. Mais cette fois, nous multiplions les coordonnées de notre point avec notre variable `d'ajustement` (tweak) (1 au départ).
 
 Puis, nous comparons notre `cible` au résultat de `paths.neck.length()` qui - vous l'avez deviné — retourne la longueur du chemin de l'encolure.
 
-Si le delta est positif, notre chemin est trop long et nous devrions réduire le facteur d'ajustement.   
-Si le delta est négatif, notre chemin est trop court et nous devrions augmenter le facteur d'ajustement.
+If the delta is positive, our path is too long and we reduce the tweak factor. If the delta is negative, our path is too short and we increase the tweak factor.
 
 Nous continuons de faire ceci jusqu'à ce que `Math.abs(delta)` devienne inférieur à 1. Cela signifie que nous sommes à 1 mm près de notre valeur cible.
 
 <Example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
 
 Maintenant nous sommes satisfaits de la longueur du quart de notre encolure, construisons à présent l'encolure complète.
+

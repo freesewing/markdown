@@ -1,7 +1,3 @@
----
-title: Florent maken
-path: /en/docs/patterns/florent
----
 
 ## Wat je nodig hebt
 
@@ -10,7 +6,7 @@ Om Florent te maken heb je het volgende nodig:
 - Basis naaimateriaal
 - Ongeveer 0.5 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
 - Ongeveer 0.5 meter voering
-- Band, een beetje meer dan de afmeting van de **hoofdomtrek** + **overwijdte** die je voor het patroon gebruikt hebt
+- Tape, a bit more than **head circumference** + **ease** that you used for the pattern
 - Een vel plastic of iets anders plat en stevig voor de klep (1 mm dik of minder)
 
 ## Stofkeuze
@@ -19,22 +15,23 @@ Een zwaardere stof behoudt zijn vorm beter als buitenstof van je pet, maar als j
 
 De voering kan vanalles zijn, maar is meestal iets licht en aangenaam.
 
+
 ## Knippen
 
 Afhankelijk van hoeveel stof je hebt kan je de boven- en/of zijkanten in twee stukken knippen, vandaar de instructies op het patroon zelf. Opgelet: het patroon heeft een naadwaarde rondom de bovenkant dus laat deze weg als je dit deel aan de stofvouw knipt!
 
 De onderkant van de klep wordt iets naar binnen gezet, terwijl de bovenkant iets naar voor gezet wordt en de naad "onder de rand valt". Hou dat in gedachten terwijl je de delen knipt, en markeer dit duidelijk, zodat je niet eindigt met een naad bovenop de klep (ik wil je niet dwingen deze stijlkeuze te maken, maar je gewoon op het verschil wijzen zodat je erop kan letten).
 
-- **Buitenstof** 
- - Knip **1 bovenkant** aan de stofvouw (laat dan de naadwaarde aan middenvoor weg) of **2 bovenkant** met naadwaarde middenvoor.
- - Knip **1zijpand** aan de stofvouw, of **2 zijpanden**.
- - Knip **1 bovenklep**.
- - Knip **1 onderklep**.
-- **Voering** 
- - Knip **1 bovenkant** aan de stofvouw (laat dan de naadwaarde aan middenvoor weg) of **2 bovenkant** met naadwaarde middenvoor
- - Knip **1zijpand** aan de stofvouw, of **2 zijpanden**
-- **Plastic** 
- - Knip **1 versteviging klep**. Kleef het patroon op het plastic, maar knip de markeringen niet in. Je kan ze in het plastic krassen of aanduiden met een stift. Je wil geen echte scherpe rand, dus let op dat alles glad en afgerond is (vooral aan de hoeken)
+ - **Buitenstof**
+   - Cut **1 top** on the fold but don't include the center seam allowance, or **2 top** with the center seam allowance.
+   - Cut **1 side** on the fold, or **2 side**.
+   - Cut **1 brim top** .
+   - Cut **1 brim bottom**.
+ - **Voering**
+   - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
+   - Cut **1 side** on the fold, or **2 side**
+ - **Plastic**
+   - Cut **1 brim interfacing**. Kleef het patroon op het plastic, maar knip de markeringen niet in. Je kan ze in het plastic krassen of aanduiden met een stift. Je wil geen echte scherpe rand, dus let op dat alles glad en afgerond is (vooral aan de hoeken)
 
 Een typisch Florent patroon ziet er zo uit:
 
@@ -63,19 +60,15 @@ Er zijn verschillende trucjes om nepen te naaien, hier is het mijne (ik denk dat
 Knip de naadwaarde die tegen het rechthoekige stukje stof ligt open tot aan de naad zodat de naad voor het rechthoekige stukje stof opengestreken kan worden. Op de plek waar de neep samen met het rechthoekige stukje stof gestikt is strijk je de naadwaarde naar 1 kant, en het geplooide rechthoekige stukje stof naar de andere kant. Knip de randen van het rechthoekige stukje stof bij. De rand aan de buitenstof is breder, die daarbovenop smaller
 
 #### Versie met bovenkant in twee delen
-
 Deze neep is eenvoudiger aangezien de naad doorloopt. Stik de naad gewoon van begin tot einde
 
 #### De naad strijken
-
 Het kan helpen om knipjes in de naadwaarde te geven zodat ze plat ligt. Gebruik een perskussen of iets rond onder je stof om de naad open te strijken en toch de vorm die je net gemaakt hebt te behouden.
 
 #### Sierstiksel
-
 Afhankelijk van de look die je wil kan je een sierstiksel langs je naden geven (met de machine of zelfs met de hand). De voorste klepnaad zal een beetje lastig zijn met de machine, maar niet onmogelijk. In elk geval zeg ik dit hier en zal ik het niet blijven herhalen, maar als je kiest voor een sierstiksel is dit het proces: Stik, Strijk, Sierstiksel, Herhaal.
 
 ### Stap 3: Optioneel: Bevestig zijpanden aan elkaar.
-
 Dit is enkel relevant als je de zijpanden in twee delen geknipt hebt. Het is een rechte naad. Niet veel over te zeggen. Strijk de naadwaarde open.
 
 ### Stap 4: Bevestig de bovenkant aan de zijkant
@@ -84,17 +77,17 @@ Opgelet: hier komen een hoop spelden bij kijken.
 
 ![Spelden](step03.jpg) ![Meer spelden](step04.jpg)
 
-Om dit te stikken start ik liefst aan het midden van de voorkant, doe dan één helft, en begin opnieuw aan het midden van de voorkant om de andere helft te doen (de **zijkant** ligt telkens bovenaan). Als mijn machine dan de lagen stof toch een beetje verschuift is het tenminste "symmetrisch verschoven". Geef knipjes in de naadwaarde waar nodig, en knip ze eventueel bij, om het strijken makkelijker te maken.
+For the stitching, I tend to start from the center front, do one half, and then start again, back from the center front to do the other half (the **side part** is on top for both stitches). Als mijn machine dan de lagen stof toch een beetje verschuift is het tenminste "symmetrisch verschoven". Geef knipjes in de naadwaarde waar nodig, en knip ze eventueel bij, om het strijken makkelijker te maken.
 
 ![De naadwaarden zijn bijgeknipt, ingeknipt en opengestreken](step05.jpg)
 
 ### Stap 5: Buitenste naad van de klep.
 
-Leg de markeringen op elkaar en speld de boven- en onderkant samen. De onderkant heeft een iets kortere naadlengte, dus misschien moet je het een beetje uitrekken zodat de naadwaardes samen liggen. In de praktijk is de meeste stof soepel genoeg om het verschil te verwerken. Stik en strijk de naadwaarde naar de **onderkant** toe
+Leg de markeringen op elkaar en speld de boven- en onderkant samen. De onderkant heeft een iets kortere naadlengte, dus misschien moet je het een beetje uitrekken zodat de naadwaardes samen liggen. In de praktijk is de meeste stof soepel genoeg om het verschil te verwerken. Iron both seam allowance against the **Bottom part**
 
 ### Stap 6: het plastic deel toevoegen
 
-Het plastic deel wordt dan in de klep geschoven. Let op dat de naadwaarde plat op de **onderkant** van de klep blijft. Daarna naai je de klep dicht met de hand. Let goed op dat alles op zijn plek blijft zitten en mooi opgespannen is.
+The plastic part is then inserted inside the brim, being careful to keep the seam allowance flat on the **Bottom part**. Daarna naai je de klep dicht met de hand. Let goed op dat alles op zijn plek blijft zitten en mooi opgespannen is.
 
 ![De klep is voorbereid](step06.jpg)
 
@@ -104,7 +97,7 @@ Leg de markeringen samen en stik de klep vast aan de pet. Let op dat je niet doo
 
 ### Stap 8: Bereid de voering voor
 
-Herhaal stap 2, 3 en 4 met de **bovenkant** en **zijpanden** van de voering. Als je een label op de **bovenkant** van de voering wil is dit ook een goed moment om dat te doen.
+Basically, repeat the steps 2, 3 and 4 with the lining **top** and **side parts**. This would also be a good time to stitch a label on the **top part** of the lining if you are into this kind of things.
 
 ### Stap 9: Bevestig de voering aan de buitenstof.
 
@@ -135,7 +128,6 @@ Speld de band op de juiste plek: de twee spelden worden gebruikt om de band geli
 ![Beide randen van de band worden onzichtbaar vastgenaaid, en de rand van de pet heeft een sierstiksel](step13.jpg)
 
 ### Stap 12: Stik de zijkant aan de klep
-
 We zijn bijna klaar, en de laatste stap is de bovenkant van de klep vastmaken aan de pet zelf. Speld de twee delen langs de buitenkant op de juiste plaats, keer de pet naar de binnenkant en stik beide kanten een paar keer door.
 
 ![Speld het op z'n plek](step14.jpg) ![Stik het op z'n plaats, vanuit de binnenkant](step15.jpg)

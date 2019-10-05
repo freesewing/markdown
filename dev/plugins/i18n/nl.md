@@ -12,7 +12,8 @@ It uses the [`insertText`](/plugins#inserttext) hook to do so.
 
 <Note>
 
-This plugin provides the mechanism for translation, but does not come with translations itself. For this, you can use our [i18n package](/packages/i18n).
+This plugin provides the mechanism for translation, but does not come with translations itself.
+For this, you can use our [i18n package](/packages/i18n).
 
 </Note>
 
@@ -50,3 +51,5 @@ You should also pass a second argument which holds your translations. It should 
   }
 }
 ```
+
+

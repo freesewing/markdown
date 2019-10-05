@@ -13,6 +13,8 @@ Or fork the repository, make your changes, and submit a pull request.
 
 <Note>
 
-All our content is written in MarkDown. If you're new to MarkDown, [read our MarkDown documentation](/markdown/) first.
+All our content is written in MarkDown. If you're new to 
+MarkDown, [read our MarkDown documentation](/markdown/) first.
 
 </Note>
+

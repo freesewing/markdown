@@ -14,10 +14,11 @@ author: K
 
 <Note>
 
-###### Zie het origineel op Instagram
-
-This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
+###### See the original on Instagram
+This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) 
+on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
 
 Hij werd hier gepost met toestemming.
 
 </Note>
+

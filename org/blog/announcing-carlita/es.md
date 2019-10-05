@@ -25,9 +25,9 @@ We drew an extra princess seam in the front panel of the coat, through which we 
 
 To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
 
-- The [high bust](/docs/measurements/#highBust)
-- The [bust span](/docs/measurements/#bustSpan)
-- The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+ - The [high bust](/docs/measurements/#highBust)
+ - The [bust span](/docs/measurements/#bustSpan)
+ - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
 
 We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
 
@@ -64,6 +64,7 @@ This goes without saying for regular visitors to this site, but if you're new he
 This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
 
 If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+
 
 I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
 

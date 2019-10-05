@@ -3,7 +3,7 @@ title: De halsopening aanpassen
 order: 170
 ---
 
-Dit is hoe we ervoor gaan zorgen dat de halsopening *precies goed* zit:
+Here's how we'll make sure the neck opening is *just right*:
 
 ```js
 let tweak = 1;
@@ -28,19 +28,19 @@ do {
 
 We hebben een paar nieuwe variabelen toegevoegd:
 
-- `tweak`: Een *tweakfactor* die we gaan gebruiken om de halfopening groter of kleiner te maken door de waarde in te stellen als groter of kleiner dan 1
-- `target`: Hoe lang onze (kwart) halsopening moet zijn
-- `delta`: Hoever we ernaast zitten. Een positief getal geeft aan dat de halsopening te lang is, een negatief dat hij te kort is
+ - `tweak`: A *tweak factor* that we'll use to increase or decrease the neck opening by making it more or less than 1
+ - `target`: Hoe lang onze (kwart) halsopening moet zijn
+ - `delta`: Hoever we ernaast zitten. Een positief getal geeft aan dat de halsopening te lang is, een negatief dat hij te kort is
 
 Nu we weten wat `target` is, kunnen we ons pad opbouwen zoals we eerder al gedaan hebben. Deze keer vermenigvuldigen we onze puntcoördinaten met de `tweak`-variabele (1 om te beginnen).
 
 Dan vergelijken we onze `target` met het resultaat van `paths.neck.length()` en dat levert ons — je raadt het al — de lengte van het pad voor de hals op.
 
-Als de delta positief is, is het pad te lang. Dan maken we de tweakfactor kleiner.  
-Als de delta negatief is, is het pad te kort. Dan maken we de teakfactor groter.
+If the delta is positive, our path is too long and we reduce the tweak factor. If the delta is negative, our path is too short and we increase the tweak factor.
 
 Dat blijven we doen tot `Math.abs(delta)` kleiner is dan 1. Dat betekent dat we op minder dan 1 millimeter van onze doelwaarde zitten.
 
 <Example pattern="tutorial" part="step2" caption="It might look the same as before, but now it's just right" />
 
 Nu we tevreden zijn met de lengte van onze (kwart) halsopening, kunnen we de volledige halsopening opbouwen.
+

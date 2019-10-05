@@ -16,8 +16,9 @@ Une chaîne de caractères correspondant au nom de votre patron.
 
 ## version
 
-    version: "0.3.1"
-    
+```
+version: "0.3.1"
+```
 
 ## dependencies
 
@@ -32,7 +33,7 @@ Un objet de paires clé-valeur `key`-`value` qui contrôle l'ordre dans lequel l
 
 <Tip>
 
-Voir les [Dépendances des parties](/advanced/dependencies) pour des informations plus poussées sur les dépendances.
+See [Part dependencies](/advanced/dependencies) for more in-depth information on dependencies.
 
 </Tip>
 
@@ -46,11 +47,11 @@ inject: {
 
 Un objet de pair clé-valeur `key`-`value` de parties. La partie valeur `value` sera injectée dans la partie clé `key`.
 
-Par *injected* nous entendons plutôt que de commencer par une toute nouvelle partie, vous obtiendrez une partie qui a les points, chemins et snippets de la partie `value`.
+By *injected* we mean rather than starting out with a fresh part, you'll get a part that has the points, paths, and snippets of the `value` part.
 
 <Tip>
 
-Voir l'[Héritage de partie](/advanced/inject) pour des informations plus poussées sur inject.
+See [Part inheritance](/advanced/inject) for more in-depth information on inject.
 
 </Tip>
 
@@ -77,9 +78,12 @@ Un tableau qui liste vos parties de patron (additionnelles). Le nom doit être l
 
 <Tip>
 
-###### Cela n'a pas être une liste exhaustive de toutes les parties de votre modèle.
+###### This does not need to be an exhaustive list of all parts in your pattern.
 
-Cette liste de parties est nécessaire pour la méthode `draft()` pour déterminer quelles parties doivent être ébauchées. Donc, si des parties sont incluses dans la configuration `dependancies`, `inject`, ou `hide`, il n'est pas nécessaire de les inclure ici, comme nous avons déjà conscience de leur existence.
+This list of parts is needed for the `draft()` method to figure out what
+parts need to be drafted.
+So if parts are included in the `dependencies`, `inject`, or `hide` configuration, 
+there's no need to include them here, as we already know of their existence.
 
 </Tip>
 
@@ -92,13 +96,15 @@ measurements: [
 ]
 ```
 
-Un tableau avec les noms des mesures nécessaires pour ébaucher ce modèle.
+Un tableau avec les noms des mesures nécessaires pour ébaucher ce modèle. 
 
 <Note>
 
-###### N'inventez pas simplement des noms
+###### Don't just make up names
 
-Voir les [modèles de patron freesewing](https://github.com/freesewing/models) pour une liste de noms de mesure déjà utilisés dans les patrons freesewing. Cela fait partie des [meilleures pratiques](/do/dont-re-invent-the-wheel) de garder ces noms.
+See [freesewing models](https://github.com/freesewing/models) 
+for a list of measurement names already used in freesewing patterns.
+It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
 
 </Note>
 
@@ -106,15 +112,16 @@ Voir les [modèles de patron freesewing](https://github.com/freesewing/models) p
 
 Les options sont disponibles en 6 variétés :
 
-- [Constants](#constants) (constantes) : Une valeur qui ne peut pas être modifiée
-- [Booleans](#booleans) (booléens) : Une valeur qui est soit `true` (vraie) ou `false` (fausse)
-- [Percentages](#percentages) (pourcentages) : Une valeur en pourcentage, avec des valeurs minimales et maximales
-- [Millimeters](#millimeters) : Une valeur en millimètre, avec des valeurs minimales et maximales
-- [Degrees](#degrees) (degrés) : Une valeur en degré, avec des valeurs minimales et maximales
-- [Counters](#counters) (compteurs) : Une valeur entière, avec des valeurs minimales et maximales
-- [Lists](#lists) (listes) : Une liste d'options avec un contenu par défaut
+ - [Constants](#constants) (constantes) : Une valeur qui ne peut pas être modifiée
+ - [Booleans](#booleans) (booléens) : Une valeur qui est soit `true` (vraie) ou `false` (fausse)
+ - [Percentages](#percentages) (pourcentages) : Une valeur en pourcentage, avec des valeurs minimales et maximales
+ - [Millimeters](#millimeters) : Une valeur en millimètre, avec des valeurs minimales et maximales
+ - [Degrees](#degrees) (degrés) : Une valeur en degré, avec des valeurs minimales et maximales
+ - [Counters](#counters) (compteurs) : Une valeur entière, avec des valeurs minimales et maximales
+ - [Lists](#lists) (listes) : Une liste d'options avec un contenu par défaut
 
 Sous le capot de la machine, les millimètres, les degrés et les compteurs sont gérés de la même manière. Nous utilisons des types différents parce qu'il est plus facile ainsi de comprendre la nature d'une option donnée.
+
 
 ### Constants (constantes)
 
@@ -130,11 +137,11 @@ Plutôt que de définir des constantes dans votre code, c'est une bonne pratique
 
 ### Booleans (booléens)
 
-Si votre option prend la valeur **true** (vraie) ou **false** (fausse), ou bien **activée** ou **désactivée**, ou encore **oui** ou **non**, vous pouvez utiliser un booléen :
+If your option is either `true` or `false, or **on** or **off** or **yes** or **no**, you can use a boolean:
 
 Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `bool` : soit `true` (vrai) ou `false` (faux) qui sera la valeur par défaut
+ - `bool` : soit `true` (vrai) ou `false` (faux) qui sera la valeur par défaut
 
 ```js
 options: {
@@ -148,9 +155,9 @@ Les options de pourcentage sont le "gagne-pain" de freesewing. Presque toutes vo
 
 Votre option pourcentage devrait être un objet avec ces propriétés :
 
-- `pct` : Le pourcentage
-- `min` : Le minimum autorisé
-- `max` : Le maximum autorisé
+ - `pct` : Le pourcentage
+ - `min` : Le minimum autorisé
+ - `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -164,24 +171,24 @@ options: {
 
 <Note>
 
-###### Les options de pourcentage seront divisées par 100 lors du chargement
+###### Percentage options will be divided by 100 when loaded
 
-Vous spécifiez des pourcentages dans votre fichier de configuration. Par exemple, `50` signifie 50%. Lorsque votre configuration est chargée, ces pourcentages seront divisés par 100.
+You specify percentages in your config file. For example, `50` means 50%.
+Lorsque votre configuration est chargée, ces pourcentages seront divisés par 100. 
 
-Donc un pourcentage de `50` dans votre fichier de configuration prendra la valeur `0.5` lorsque vous lisez cette option dans votre patron.
+So a percentage of `50` in your config file will be `0.5` when you read out that option in your pattern.
 
 </Note>
 
 ### Millimeters (millimètres)
 
-Bien que nous recommandons d'utiliser des pourcentages lorsque c'est possible, parfois cela n'a pas de sens.  
-Pour ces cas précis, vous pouvez utiliser des millimètres.
+While we recommend using percentages where possible, sometimes that doesn't make sense. For those cases, you can use millimeters.
 
 Votre option booléenne devrait être un objet avec ces propriétés :
 
-- `mm` : La valeur par défaut en millimètres
-- `min` : Le minimum autorisé
-- `max` : Le maximum autorisé
+ - `mm` : La valeur par défaut en millimètres
+ - `min` : Le minimum autorisé
+ - `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -199,9 +206,9 @@ Pour les angles, utilisez des degrés.
 
 Votre option degré devrait être un objet avec ces propriétés :
 
-- `deg` : La valeur par défaut en degrés
-- `min` : Le minimum autorisé
-- `max` : Le maximum autorisé
+ - `deg` : La valeur par défaut en degrés
+ - `min` : Le minimum autorisé
+ - `max` : Le maximum autorisé
 
 ```js
 options: {
@@ -219,9 +226,9 @@ Pour un nombre donné de choses, utilisez des compteurs. Les compteurs ne sont d
 
 Votre option compteur devrait être un objet avec ces propriétés :
 
-- `count` : La valeur entière par défaut
-- `min` : La valeur entière minimale autorisée
-- `max` : La valeur entière maximale autorisée
+ - `count` : La valeur entière par défaut
+ - `min` : La valeur entière minimale autorisée
+ - `max` : La valeur entière maximale autorisée
 
 ```js
 options: {
@@ -239,8 +246,8 @@ Utilisez une option de liste lorsque vous souhaitez offrir un tableau de choix.
 
 Votre option liste devrait être un objet avec ces propriétés :
 
-- `dflt` : La valeur par défaut pour cette optional
-- `list` : Un tableau d'options des valeurs disponibles
+ - `dflt` : La valeur par défaut pour cette optional
+ - `list` : Un tableau d'options des valeurs disponibles
 
 ```js
 options: {
@@ -320,3 +327,5 @@ optionGroups: {
   ]
 } 
 ```
+
+

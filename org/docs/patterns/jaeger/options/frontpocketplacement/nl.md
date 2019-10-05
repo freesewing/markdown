@@ -1,6 +1,3 @@
----
-title: Plaatsing voorzak
----
 
 ![Plaatsing voorzak](frontpocketplacement.svg)
 

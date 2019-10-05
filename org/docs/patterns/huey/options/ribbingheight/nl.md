@@ -1,6 +1,3 @@
----
-title: Hoogte boord
----
 
 ![Hoogte boord](ribbingheight.svg)
 

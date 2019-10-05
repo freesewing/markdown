@@ -1,6 +1,5 @@
 ---
 title: Sierstiksel
-path: /en/docs/sewing/topstitching
 ---
 
 ![Ik gebruikte een hoop contrasterend rood sierstiksel op deze jeans voor mijn petekind Akki](topstitching.jpg)

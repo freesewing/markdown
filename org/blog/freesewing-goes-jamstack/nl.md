@@ -29,6 +29,7 @@ It's easy to manage, and it integrates nicely with a GitHub-centered workflow th
 
 I wanted that same approach in a website. Except, it can't be static because it has to, you know, do stuff.
 
+
 ## An alternative approach: JAMstack
 
 I first learned about JAMstack when I started looking into hosting for said core documentation site. It was initially hosted on GitHub pages which provides free hosting. They also have SSL or a custom domain name, but you can't have both. Which was kind of a deal breaker.
@@ -37,9 +38,9 @@ Looking for alternatives, I stumbled onto [Netlify](https://www.netlify.com/), w
 
 Unless you're familiar with JAMstack, I suggest you check out the video, but it boils down to this:
 
-- **J** = JavaScript
-- **A** = APIs
-- **M** = Markup
+ - **J** = JavaScript
+ - **A** = APIs
+ - **M** = Markup
 
 The idea is that you build your static site (markup) that you then make interactive with JavaScript that hooks up to one or more APIs.
 
@@ -79,10 +80,20 @@ I hope the user experience/interface is not going to be a roadblock for people. 
 
 Then again, I'm sure things will break left or right, or that some of you don't like the colours or whatnot.
 
-The point is that I set out to build something that can replace makemypattern.com so that I could tell all of you *Hey, come over and play with this new thing*.
+The point is that I set out to build something that can replace makemypattern.com so that I could tell all of you _Hey, come over and play with this new thing_.
 
 I think if nothing else, I can do that now. And if you see room for improvement, please [join the effort](/contribute), we're only getting started.
 
 <small>PS: For those of you wondering about the title of this post:</small>
 
 @[youtube](oFRbZJXjWIA)
+
+
+
+
+
+
+
+
+
+

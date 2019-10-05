@@ -1,6 +1,3 @@
----
-title: Making Aaron
----
 
 ## Step 1: Close seams
 
@@ -17,7 +14,6 @@ Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, 
 <Note>
 
 ##### Fold only once, to avoid bulk
-
 Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
 </Note>
@@ -56,8 +52,8 @@ This is the only part of making this A-shirt that requires a bit of practice. Do
 
 The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
 
-- For the armholes: at the side seam. This will hide our seam under the arm
-- For the neck opening: the center back of the neck. You might want to make this with a pin
+  - For the armholes: at the side seam. This will hide our seam under the arm
+  - For the neck opening: the center back of the neck. You might want to make this with a pin
 
 ### Place (the start of) your binding
 
@@ -121,6 +117,7 @@ Now that your binding ends are joined together, it's time to finish the last 6cm
 
 ![Fold knit binding to the back](step04a.png)
 
+
 Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
 
 > While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
@@ -142,10 +139,11 @@ You'll have to, once again, stretch your binding a bit while doing this. But thi
 <Note>
 
 ##### Beware of the uneven feed
+As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
 
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.
-
-In a perfect world, all layers will follow smoothly. But more often than not, the top layer (front of your binding) tends to lag behind a bit. This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
+In a perfect world, all layers will follow smoothly. 
+But more often than not, the top layer (front of your binding) tends to lag behind a bit. 
+This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
 
 So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
 

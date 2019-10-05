@@ -1,5 +1,2 @@
----
-title: Chest ease
----
 
 The amount of ease at your chest.

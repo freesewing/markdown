@@ -1,6 +1,5 @@
 ---
 title: Bijknippen
-path: /en/docs/sewing/trimming
 ---
 
 ![Naadtoeslag wordt bijgeknipt](trimming.jpg)

@@ -61,14 +61,15 @@ This is FreeSewing's **shorthand** method. It returns an object with a bunch of 
 
 The example above makes the following variables available:
 
-- `Point`: The Point constructor
-- `points`: A reference to the part's points
-- `Path`: The Path constructor
-- `paths`: A reference to the part's paths
+ - `Point`: The Point constructor
+ - `points`: A reference to the part's points
+ - `Path`: The Path constructor
+ - `paths`: A reference to the part's paths
 
 <Note>
 
-This will all become clear, but if you're curious, the API docs have all the details on [the Part.shorthand() method](/api/part#shorthand)
+This will all become clear, but if you're curious, the API docs have all the details 
+on [the Part.shorthand() method](/api/part#shorthand)
 
 </Note>
 

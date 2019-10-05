@@ -7,7 +7,9 @@ De bandjes van het slabbetje moeten de halsopening volgen. Dat is niet zo moeili
 
 <Note>
 
-Hiervoor gaan we een nieuwe methode gebruiken: `Point.shiftFractionTowards()`. We hebben `Point.shift()` al eens gebruikt. Er bestaat ook een `Point.shiftTowards()` en een `Point.shiftOutwards()`. Zoals gewoonlijk staan alle details in de [API-documenten](/api/point).
+For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
+used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
+As always, [the API docs](/api/point) have all the details.
 
 </Note>
 
@@ -41,3 +43,4 @@ paths.rect = new Path()
 Plots begint het er echt als een slabbetje uit te zien:
 
 <Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+

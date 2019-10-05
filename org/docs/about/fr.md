@@ -2,7 +2,7 @@
 title: À propos de Freesewing
 ---
 
-FreeSewing est une plate-forme open source pour des patrons de couture sur mesure. Notre objectif est de devenir le WikiPedia *des patrons de couture*.
+FreeSewing est une plate-forme open source pour des patrons de couture sur mesure. Our aim is to become the *WikiPedia of sewing patterns*.
 
 Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons plutôt donner des moyens de faire aux créateurs et réalisateurs en distillant les connaissances de la communauté couturière à travers des patrons et de la documentation, tout en rendant ces informations disponibles au niveau mondial.
 
@@ -17,6 +17,7 @@ Il n'y a pas d'entreprise derrière FreeSewing. Ceci est possible grâce au trav
 ## FreeSewing fournit des patrons de couture sur mesure
 
 Tous nos patrons de couture sont réalisés sur mesure. Nous ne faisons pas de mise à l'échelle ou de gradation des patrons. Nous ébauchons plutôt le patron à vos mesures. Cela se produit en temps réel, dans votre navigateur.
+
 
 ## FreeSewing est une plate-forme
 

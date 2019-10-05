@@ -1,6 +1,3 @@
----
-title: Ratio reductie heupen rug
----
 
 ![Ratio reductie heupen rug](hipsreductionratioback.svg)
 

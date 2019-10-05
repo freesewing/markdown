@@ -1,6 +1,3 @@
----
-title: Bonus lengte
----
 
 ![Bonus lengte](lengthbonus.svg)
 

@@ -3,19 +3,19 @@ title: Votre première partie
 order: 120
 ---
 
-Comme les vêtements eux-mêmes, les patrons sont composés de *parties*.
+Much like garments themselves, patterns are made up of *parts*.
 
 La plupart des patrons auront plusieurs parties. Une manche, une partie arrière, le col, etc. Notre patron est des plus simples, et ne comporte qu'une seule partie : le bavoir.
 
-Le patron qui vient d'être créé pour nous a aussi une unique partie pour vous faire démarrer. Il est appelé **box** et il dessine une boîte. Si vous cliquez sur le bouton **Ébaucher votre patron** dans votre navigateur, vous allez la voir :
+Le patron qui vient d'être créé pour nous a aussi une unique partie pour vous faire démarrer. It's called **box** and it draws a box. If you click on the **Draft your pattern** button in your browser, you'll get to see it:
 
 ![Le patron par défaut avec sa partie box](./step1.png)
 
-Puisque nous n'avons besoin que d'une seule partie, nous renommerons cette partie *box*, et l'appellerons *bib* (pour bavoir).
+Since we only need one part, we'll rename this *box* part, and call it *bib*.
 
 ## Renommez la partie box en bib
 
-Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Mettez à jour le tableau **parts** avec `bib`, plutôt que `box`:
+Tout d'abord, mettez à jour le fichier de configuration dans `config/index.js`. Update the **parts** array with `bib`, rather than `box`:
 
 ```js
 parts: ["bib"],
@@ -45,13 +45,13 @@ Pattern.prototype.draftBib = draftBib;
 
 <Tip>
 
-###### Utilisez toujours draftNomdelapartie
+###### Always use draftPartname
 
-FreeSewing s'attend pour chaque partie à trouver une méthode nommée Draft*Nomdelapartie*.
+FreeSewing will expect for each part to find a method named Draft*Partname*.
 
-Si vous avez une partie nommée `sleeve` (manche), vous devez avoir une méthode appelée `draftSleeve()` qui dessine cette partie.
+If you have a part named `sleeve` you should have a method called `draftSleeve()` that drafts that part.
 
-Dans notre cas, nous avons une partie nommée `bib` alors nous allons utiliser `draftBib()` en tant que méthode d'ébauche de cette partie.
+In our case, we have a part named `bib` so we're using `draftBib()` as the method that drafts it.
 
 </Tip>
 

@@ -7,8 +7,7 @@ Are you interested in contributing to freesewing? That's awesome, and exactly wh
 
 ## Code of conduct
 
-Freesewing strives to be an open and inclusive community. To keep the trolls at bay, we have a [code of conduct](/code-of-conduct).  
-As a contributor, you are expected to uphold it.
+Freesewing strives to be an open and inclusive community. To keep the trolls at bay, we have a [code of conduct](/code-of-conduct). As a contributor, you are expected to uphold it.
 
 ## Where to get help or report a problem
 
@@ -32,6 +31,7 @@ On every page, there's a link at the bottom that allows you to submit improvemen
 
 Use that button. Don't be shy. If you see a typo, or something that needs clarification or more detail, please suggest your improvements.
 
+
 ### Help with translation
 
 Translation is one of the most important aspects to bring FreeSewing to all corners of the world. It's also something for which we are completely dependent on the community.
@@ -40,7 +40,7 @@ Our [documentation for translators](/translator) will tell you all you need to k
 
 ### Test, make, or showcase our patterns
 
-Are you a maker? Go ahead and make [our patterns](https://freesewing.org/patterns), share your experience, and provide us your feedback.
+Are you a maker?  Go ahead and make [our patterns](https://freesewing.org/patterns), share your experience, and provide us your feedback.
 
 We'd love to get pictures to [showcase](https://freesewing.org/showcase) on our website too.
 
@@ -63,3 +63,5 @@ All our patterns, and all our code, is accessible to everyone, regardless of whe
 This is made possible by our Patrons; Loyal supporters who ensure a sustainable future for freesewing.org, our code, our patterns, and our community.
 
 You can [become a Patron for as little as 2€ per month](https://freesewing.org/patrons/join). It's a very tangible way to support the project.
+
+

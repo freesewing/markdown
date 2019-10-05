@@ -1,6 +1,3 @@
----
-title: Plaatsting borstzak
----
 
 ![Plaatsting borstzak](chestpocketplacement.svg)
 

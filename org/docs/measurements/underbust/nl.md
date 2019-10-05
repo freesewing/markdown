@@ -2,8 +2,8 @@
 title: Onderbuste
 ---
 
-De **onderbuste** maat is de omtrek van je borstkas zonder rekening te houden met je borsten.
+The **underbust** measurement is the circumference of your chest without taking your breasts into account.
 
-Om je **onderbuste** te meten wikkel je de lintmeter rond je ribbenkast, net onder je borsten, waar je bh-band normaal zit.
+To measure your **underbust**, wrap the tape measure around your chest just below your breasts, where your bra brand sits.
 
 Als je geen borsten hebt is deze maar voor jou niet van toepassing. Gebruik gewoon je borstomtrek.

@@ -1,6 +1,3 @@
----
-title: Overwijdte borst
----
 
 ![Overwijdte borst](chestease.svg)
 

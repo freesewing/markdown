@@ -29,7 +29,7 @@ Sorcha.prototype.draftBase = function(part) {
 
 <Warning>
 
-Puisque nous utilisons le mot clé `this` (ça), vous ne pouvez pas utiliser la notation fléchée.
+Because we're using to the `this` keyword here, you cannot use the arrow notation.
 
 </Warning>
 

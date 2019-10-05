@@ -9,3 +9,4 @@ A FreeSewing pattern that contains a bunch of examples to be used in our documen
 FIXME: Documentation is missing
 
 </Warning>
+

@@ -1,7 +1,3 @@
----
-title: Bonus lengte
----
-
 ![De optie voor bonus lengte bij Aaron](./lengthbonus.svg)
 
 Hoeveel langer dan de standaard wil je je top?

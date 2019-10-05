@@ -7,17 +7,18 @@ Nu de basisschets van je patroon klaar is, is dit een goed moment om te testen o
 
 <Tip>
 
-###### Nooit meer graderen
+###### No more grading
 
-FreeSewing-patronen zijn *op maat gemaakt* en dat betekent dat je nooit meer een patroon moet graderen om het in verschillende maten aan te bieden. Het is belangrijk dat je het patroon test met verschillende afmetingen en opties om te zien hoe goed het zich aanpast.
+FreeSewing patterns are *made-to-measure*, which means that you don't need to
+grade your pattern to provide a range of sizes. Het is belangrijk dat je het patroon test met verschillende afmetingen en opties om te zien hoe goed het zich aanpast.
 
 </Tip>
 
-Als het klinkt als een hoop werk om je patroon te testen, dan heb je geluk. FreeSewing kan het voor jou doen. Klik op de knop **Test je patroon** in de navigatiebalk bovenaan in je development-omgeving. Je krijgt dan rechts een aantal keuzes te zien:
+Als het klinkt als een hoop werk om je patroon te testen, dan heb je geluk. FreeSewing kan het voor jou doen. Click the **Test your pattern** button in the top navigation bar of your development environment, and you'll see a number of choices at the right:
 
-- Test patroonopties
-- Test afmetingen
-- Test modellen
+ - Test patroonopties
+ - Test afmetingen
+ - Test modellen
 
 In de [API-documenten over *sampling*](/api/pattern#sample) staan alle details over hoe dit werkt, maar voorlopig gaan we gewoon het eindresultaat van elk van deze keuzes bekijken.
 
@@ -47,11 +48,12 @@ The `widthRatio` option will determine the width of our bib. For a the same `hea
 
 If we test it, we can see that it works as intended. But there's one thing that perhaps requires your attention. Making the bib wider shortens the length from the bottom of the neck opening to the bottom of the bib. Thereby making the bib shortern when its worn.
 
-Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern.
+Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Users will not expect this, so it's something that we should fix in our pattern. 
 
 <Note>
 
-Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not covered in this tutorial. It is left *as an exercise to the reader*.
+Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not
+covered in this tutorial. It is left *as an exercise to the reader*.
 
 </Note>
 

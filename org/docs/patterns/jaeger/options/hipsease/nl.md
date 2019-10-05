@@ -1,6 +1,3 @@
----
-title: Overwijdte heup
----
 
 ![Overwijdte heup](hipsease.svg)
 

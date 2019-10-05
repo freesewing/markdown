@@ -7,17 +7,19 @@ Avec le contour de base de votre patron prêt, il est maintenant temps de le tes
 
 <Tip>
 
-###### Plus besoin de gradation
+###### No more grading
 
-Les patrons FreeSewing sont faits *sur mesures*, ce qui signifie que vous n'avez pas besoin de grader votre patron pour fournir un ensemble de tailles. Vous pouvez échantillonner votre patron pour différentes mesures et options pour voir s'il s'adapte correctement.
+FreeSewing patterns are *made-to-measure*, which means that you don't need to
+grade your pattern to provide a range of sizes. Vous pouvez échantillonner votre patron
+pour différentes mesures et options pour voir s'il s'adapte correctement.
 
 </Tip>
 
-Si le fait de tester votre patron vous semble une masse de travail conséquente, c'est votre jour de chance. FreeSewing peut le faire pour vous. Cliquez sur le bouton **Tester votre patron** dans la barre de navigation en haut de votre environnement de programmation, et vous verrez un nombre de choix possibles sur la droite :
+Si le fait de tester votre patron vous semble une masse de travail conséquente, c'est votre jour de chance. FreeSewing peut le faire pour vous. Click the **Test your pattern** button in the top navigation bar of your development environment, and you'll see a number of choices at the right:
 
-- Tester les options du patron
-- Tester les mesures
-- Tester les modèles
+ - Tester les options du patron
+ - Tester les mesures
+ - Tester les modèles
 
 Les [docs API sur l'échantillonnage](/api/pattern#sample) contiennent tous les détails de fonctionnement, mais pour le moment jetons juste un œil sur le résultat final de chacun de ces choix.
 
@@ -47,11 +49,12 @@ L'option `widthRatio` détermine la largeur de notre bavoir. Pour une même mesu
 
 Si nous testons cela, nous pouvons voir que cela fonctionne comme prévu. Mais il y a une chose qui requiert peut-être votre attention. Élargir le bavoir réduit la longueur depuis le bas de l'encolure jusqu'au bas du bavoir. Ce qui rend le bavoir plus court lorsqu'il est porté.
 
-Même si la *longueur totale* de notre bavoir reste la même, la *longueur utile* est raccourcie lorsque le bavoir est élargi. Les utilisateurs ne s'attendent pas à cela, alors c'est une chose que nous devrions corriger dans notre patron.
+Even if the *total length* of the bib stays the same, the *useable length* shortens when the bib is made wider. Les utilisateurs ne s'attendent pas à cela, alors c'est une chose que nous devrions corriger dans notre patron. 
 
 <Note>
 
-Ajuster le patron pour éviter que le `widthRatio` n'influence la *longueur utilisable* de notre bavoir n'est pas explicité dans ce tutoriel. Ce problème est laissé comme *exercice pour le lecteur*.
+Adjusting the pattern to make the `widthRatio` not influence the *useable length* of the bib is not
+covered in this tutorial. It is left *as an exercise to the reader*.
 
 </Note>
 
@@ -67,7 +70,7 @@ Pour notre bavoir, nous employons uniquement une mesure, alors elle influence le
 
 ## Tester les modèles
 
-Tandis que le test des mesures va uniquement faire varier une seule mesure, tester des modèles va ébaucher votre patron pour différents sets de mesures, que l'on appelle *modèles*.
+Whereas testing a measurement will only vary one individual measurement, testing models will draft your pattern for different sets of measurments, which we refer to as *models*.
 
 Sur la surface, le résultat ci-dessous est le même que pour notre test de mesure. Mais c'est parce que notre bavoir n'utilise qu'une seule mesure. Alors tester cette unique mesure revient au même que tester un set de mesures complet.
 
@@ -77,11 +80,11 @@ Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera u
 
 ## Le test de l'homme fourmi
 
-Un cas particulier de test de modèle est le test dit de *l'homme fourmi*. Cela ébauche votre patron avec un set de mesures *types*, et le dessine de nouveau avec des mesures qui sont le dixième de ces mesures *types*.
+A special case of model testing is the so-called *antman test*. It drafts your pattern with a set of *typical* measurements , and then drafts it again with measurements that are 1/10th of those *typical* measurements.
 
 Ce test est nommé d'apèrs [le personnage de bande dessinée](https://en.wikipedia.org/wiki/Ant-Man_(film)) qui peut rapetisser, et pourtant ses habits lui vont toujours.
 
-Le but du test de l'homme fourmi est de mettre en évidence les zones de votre patron où vous avez fait des hypothèses qui ne se mettent pas bien à l'échelle. Beaucoup de livres de patronage vous diront d'*ajouter 3 cm ici* ou de *mesurer 2 pouces vers la droite*. Ces instructions ne s'adapte pas à l'échelle, et vous devriez les éviter.
+Le but du test de l'homme fourmi est de mettre en évidence les zones de votre patron où vous avez fait des hypothèses qui ne se mettent pas bien à l'échelle. Many drafting books will tell you to *add 3cm there* or *measure 2 inch to the right*. Ces instructions ne s'adapte pas à l'échelle, et vous devriez les éviter.
 
 Les meilleurs patrons passeront le test de l'homme fourmi avec 2 patrons identiques. L'un sera simplement le dixième de l'autre en termes d'échelle.
 

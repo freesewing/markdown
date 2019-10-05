@@ -1,12 +1,8 @@
----
-title: Making Cathrin
-path: /en/docs/patterns/cathrin
----
 
 > #### This documentation is incomplete
 > 
 > Cathrin is lacking documentation. Essentially, I haven't found the time to write it yet. Probably not helped by the fact that I don't tend to make many corsets.
-> 
+
 > #### Check the original tutorial
 > 
 > This pattern is based on [this tutorial by Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). Cathrin also has [this informative post on making corsets](https://katafalk.wordpress.com/2009/05/03/how-i-sew-corsets/) on her blog, which you'll might find helpful.
@@ -20,3 +16,4 @@ Corsets are easier than they seem to construct, however they need several specia
 You will need BONING. Historic corsets used whale bone to stiffen corsets. Modern corset makers use steel. You can get steel bones either as flat steel and spiral steel - do research, as different types of corset and different corset makers have their own preferences. Plastic bones are also a cheaper option.
 
 You can find a good guide to other tools at Foundations Revealed.
+

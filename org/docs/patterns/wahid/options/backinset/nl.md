@@ -1,9 +1,3 @@
----
-title: Insnede rug
-path: /en/docs/patterns/wahid/options/backinset
-pattern: wahid
-option: backInset
----
 
 Hoe ver wil je dat het armsgat van je gilet op de rug naar binnen gaat?
 

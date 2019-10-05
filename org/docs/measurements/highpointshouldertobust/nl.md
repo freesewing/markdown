@@ -2,7 +2,7 @@
 title: Hoog schouder punt tot buste
 ---
 
-De **hoog schouder punt (HSP) tot buste** afmeting loopt van je HSP naar beneden tot aan de lijn die je bustewijdte bepaalt.
+The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms you bust span.
 
 Het HSP zit waar je schoudernaad tegen je nek zou komen. Het is het punt waar je nek overgaat in je schouder. Als je er een knikker op zou leggen zou die niet voorwaarts of achterwaards rollen maar in de richting van je schouder (dit betekent: exact in het midden) Om de afstand van het HSP tot de buste te meten moet je eerst het HSP bepalen. Meet dan verticaal naar beneden tot aan de lijn die je borstomtrek of bustewijdte bepaalt.
 

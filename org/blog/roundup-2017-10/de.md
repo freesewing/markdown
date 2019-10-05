@@ -10,7 +10,6 @@ author: joost
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
 ## Looking back at october
-
 In retrospect, I should have made the october background image haloween themed. I guess I'll try to remember that for next year.
 
 ### Meet Huey
@@ -29,8 +28,7 @@ Furthermore, a number of people are taking a stab at designing their own pattern
 
 Meanwhile, people are also helping out with the site, suggesting fixes and improvements left and right, and [Wouter](/users/xdpug) even added an entire page on [Git basics](/docs/git-basics) which should be a great stepping stone for people who like him want to get involved, but lack prior experience with Git (and GitHub).
 
-Needless to say, I am very appreciative of all contributions big and small.  
-If you'd like to get involved, [come say hi](https://gitter.im/freesewing/chat).
+Needless to say, I am very appreciative of all contributions big and small. If you'd like to get involved, [come say hi](https://gitter.im/freesewing/chat).
 
 ### Cover pages for patterns
 

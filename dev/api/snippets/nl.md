@@ -13,3 +13,5 @@ Snippets worden verzogd door plugins. Gebruik de links hieronder voor meer infor
 | `notch`       | [plugin-theme](/plugins/theme)     | Een inkeping                                     |
 | `bnotch`      | [plugin-theme](/plugins/theme)     | Een andere inkeping, gebruikt voor de achterkant |
 | `logo`        | [plugin-logo](/plugins/logo)       | Het FreeSewing logo                              |
+
+

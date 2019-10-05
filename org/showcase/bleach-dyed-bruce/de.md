@@ -17,9 +17,10 @@ author: 'Alderrr'
 <Note>
 
 ###### See the original on Tumblr
-
-These were taken from [this Tumblr post](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear) on [the blog](http://alderrr.tumblr.com/) of [@Alderrr](/users/Alderrr).
+These were taken from [this Tumblr post](http://alderrr.tumblr.com/post/168948306776/christmas-crafting-2-pairs-of-mens-underwear)
+on [the blog](http://alderrr.tumblr.com/) of [@Alderrr](/users/Alderrr).
 
 They are reposted here with permission.
 
 </Note>
+

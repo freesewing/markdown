@@ -13,3 +13,5 @@ Snippets are provided by plugins. Follow the links below for more info on and an
 | `notch`       | [plugin-theme](/plugins/theme)     | A notch                                         |
 | `bnotch`      | [plugin-theme](/plugins/theme)     | An alternative notch, to indicate the back side |
 | `logo`        | [plugin-logo](/plugins/logo)       | The FreeSewing logo                             |
+
+

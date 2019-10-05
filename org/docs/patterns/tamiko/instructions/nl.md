@@ -1,7 +1,3 @@
----
-title: Tamiko maken
-path: /en/docs/patterns/tamiko
----
 
 ## Wat je nodig hebt
 
@@ -18,10 +14,10 @@ Om een lang verhaal kort te maken: kies voor een jersey, of een lichte scuba of 
 
 ## Knippen
 
-- **Buitenstof** 
- - Knip **1 Tamiko top** aan de stofvouw
+ - **Buitenstof**
+   - Cut **1 Tamiko top** on the fold
 
-Tamiko is een top die geen stof verspilt. Het is een rechthoek die aan de stofvouw geknipt wordt. Niet meer dan dat. Deze top heeft maar één patroondeel, dat we simpelweg **Tamiko top** zullen noemen. Het moet aan de stofvouw geknipt worden langs de onderrand.
+Tamiko is een top die geen stof verspilt. Het is een rechthoek die aan de stofvouw geknipt wordt. Niet meer dan dat. There's only one part to this top, we will simply refer to it at the **Tamiko top**. Het moet aan de stofvouw geknipt worden langs de onderrand.
 
 > Knip het armsgat uit, maar laat naadwaarde over
 
@@ -30,6 +26,7 @@ Hier is een typisch Tamiko patroon:
 ![Een typisch Tamiko patroon](layout.svg)
 
 > De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
+
 
 ## Constructie
 

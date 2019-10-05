@@ -1,6 +1,5 @@
 ---
 title: Fabric grain
-path: /en/docs/sewing/fabric-grain
 ---
 
 ![The grainline runs parallel to the selvedge](fabric-grain.jpg)
@@ -12,7 +11,7 @@ Woven fabric are produced by weaving the so-called weft between the warp threads
 Grain is indicated on a pattern by the grain line. When cutting out your pattern, it's important to align the grain line of the pattern to the grain of your fabric.
 
 > For more warp and weft details: [Weaving on Wikipedia](http://en.wikipedia.org/wiki/Weaving)
-> 
+
 > ##### Confused? Think wood
 > 
 > Wood is not woven, but grows in different layers based on the seasons (growth rings). The way these layers are aligned are important for woodworkers. They influence to what extent the wood will deform after cutting it and how it will bend, as well as other parameters.

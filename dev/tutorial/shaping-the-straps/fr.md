@@ -7,7 +7,9 @@ Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. I
 
 <Note>
 
-Pour cela, vous allez employer une nouvelle méthode : `Point.shiftFractionTowards()`. Nous avons déjà utilisé `Point.shift()` et il y a aussi `Point.shiftTowards()` et `Point.shiftOutwards()`. Comme toujours, [les docs API](/api/point) contiennent tous les détails à ce propos.
+For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
+used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
+As always, [the API docs](/api/point) have all the details.
 
 </Note>
 
@@ -41,3 +43,4 @@ paths.rect = new Path()
 Tout à coup, les choses commencent à prendre la forme d'un bavoir :
 
 <Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+

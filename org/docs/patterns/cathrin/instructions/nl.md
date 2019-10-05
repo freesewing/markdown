@@ -1,12 +1,8 @@
----
-title: Cathrin maken
-path: /en/docs/patterns/cathrin
----
 
 > #### Deze documentatie is incompleet
 > 
 > Cathrin mist documentatie. Eerlijk gezegd heb ik nog niet de tijd gevonden dit te schrijven. Het feit dat ik niet veel korsetten maak helpt waarschijnlijk niet.
-> 
+
 > #### Bekijk de originele tutorial
 > 
 > Dit patroon is gebaseerd op [deze tutorial van Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). Cathrin heeft ook deze [informatieve post over korsetten maken](https://katafalk.wordpress.com/2009/05/03/how-i-sew-corsets/) op haar blog, wat je misschien kan helpen.
@@ -20,3 +16,4 @@ Korsetten zijn makkelijker in elkaar te zetten dan het lijkt, alhoewel je een pa
 Je zal BALEINEN nodig hebben. Historische korsetten gebruikten de baleinen van walvissen om korsetten sterker te maken. Moderne korsetmakers gebruiken staal. De walvissen zijn hier heel blij mee. Je kan stalen baleinband plat of als spiraal vinden - doe wat onderzoek, aangezien verschillende soorten korsetten en verschillende korsetmakers hun eigen voorkeuren hebben. Plastic baleinen zijn ook een goedkopere optie.
 
 Je kan een goede lijst van andere materialen vinden bij Foundations Revealed.
+

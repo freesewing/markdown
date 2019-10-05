@@ -38,15 +38,14 @@ The style attribute is where plugins will add additional snippets.
 <Warning>
 
 ###### Add, but don't overwrite
-
-When adding your own styles, it's important not to overwrite this property, but rather add your own.
+When adding your own styles, it's important not to
+overwrite this property, but rather add your own.
 
 In other words, do this:
 
 ```js
 svg.style += myStyles;
 ```
-
 and don't do this:
 
 ```js
@@ -70,15 +69,14 @@ We don't use this ourselves, but it's here if you need it.
 <Warning>
 
 ###### Add, but don't overwrite
-
-When adding your own script, it's important not to overwrite this property, but rather add your own.
+When adding your own script, it's important not to
+overwrite this property, but rather add your own.
 
 In other words, do this:
 
 ```js
 svg.script += myScript;
 ```
-
 and don't do this:
 
 ```js
@@ -102,15 +100,14 @@ The defs attribute is where plugins will add additional snippets.
 <Warning>
 
 ###### Add, but don't overwrite
-
-When adding your own defs, it's important not to overwrite this property, but rather add your own.
+When adding your own defs, it's important not to
+overwrite this property, but rather add your own.
 
 In other words, do this:
 
 ```js
 svg.defs += myDefs;
 ```
-
 and don't do this:
 
 ```js
@@ -144,7 +141,9 @@ A string that combines the [svg.style](#svgstyle), [svg.script](#svgscript), and
 
 ###### This does not include the opening SVG tag
 
-Note that while [svg.tail](#tail) closes the SVG tag, [svg.head](#head) does not open it. That's because the `width`, `height` and `viewBox` attributes will depend on the main body of the SVG document.
+Note that while [svg.tail](#tail) closes the SVG tag, [svg.head](#head) does
+not open it. That's because the `width`, `height` and `viewBox` attributes will
+depend on the main body of the SVG document.
 
 </Note>
 

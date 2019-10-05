@@ -15,3 +15,4 @@ Wouter schrijft:
 > Dit was gemaakt als een toile, en alhoewel ik precies werkte hadden sommige stukken beter gekund door ze met de hand te doen in plaats van met de machine.
 > 
 > Het patroon was ook geprint met de standaard `overwijdte` van 1 cm, en die werd in de achternaad weer ingenomen nadat de stukken uitgeknipt waren.
+

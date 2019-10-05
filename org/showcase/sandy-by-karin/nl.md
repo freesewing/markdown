@@ -15,3 +15,4 @@ After [her previous showcase of Hugo](/showcase/hugo-by-karin) , Karin is back w
 ![De voering](view3.jpg)
 
 Meer details [op de blog van Karin](https://www.karinkay.nl/sandy-een-gratis-patroon-voor-een-cirkelrok-op-maat/) (in het Nederlands).
+

@@ -12,8 +12,8 @@ Path new Path();
 
 Un objet chemin Path vient avec les propriétés suivantes :
 
-- `render` : Set this to `false` to not render the path (exclude it from the output)
-- `attributes` : An [Attributes](/api/attributes) instance holding the path's attributes
+ - `render` : Set this to `false` to not render the path (exclude it from the output)
+ - `attributes` : An [Attributes](/api/attributes) instance holding the path's attributes
 
 In addition, a Path object exposes the following methods:
 
@@ -81,6 +81,7 @@ paths.line = new Path()
   .attr("data-text-class", "text-sm right fill-note");
 ```
 
+
 ## clone()
 
 ```js
@@ -112,6 +113,7 @@ paths.clone = paths.example
     .attr("class", "note lashed stroke-l")
     .attr("style", "stroke-opacity: 0.5");
 ```
+
 
 ## curve()
 
@@ -181,6 +183,7 @@ So the only purpose of this method is to save your some typing.
     .attr("data-text-class", "text-sm center fill-note");
 ```
 
+
 ## curve\_()
 
 ```js
@@ -221,6 +224,7 @@ So the only purpose of this method is to save your some typing;
     .attr("data-text", "Path.curve_()")
     .attr("data-text-class", "text-sm center fill-note");
 ```
+
 
 ## divide()
 
@@ -270,14 +274,14 @@ Point path.edge(string side)
 
 Returns the Point object at the edge of the path you specify. Edge must be one of:
 
-- `top`
-- `bottom`
-- `left`
-- `right`
-- `topLeft`
-- `topRight`
-- `bottomLeft`
-- `bottomRight`
+ - `top`
+ - `bottom`
+ - `left`
+ - `right`
+ - `topLeft`
+ - `topRight`
+ - `bottomLeft`
+ - `bottomRight`
 
 ### Path.edge() example
 
@@ -313,6 +317,7 @@ for (let i of [
 ]) snippets[i] = new Snippet("notch", paths.demo.edge(i));
 ```
 
+
 ## end()
 
 ```js
@@ -344,8 +349,9 @@ snippets.end = new Snippet("notch", paths.demo.end());
 
 ## intersects()
 
-    array|false path.intersects(Path path)
-    
+```
+array|false path.intersects(Path path)
+```
 
 Returns the Point object(s) where the path intersects with a path you pass it.
 
@@ -353,7 +359,8 @@ Returns the Point object(s) where the path intersects with a path you pass it.
 
 ###### Use the intersection methods in Utils whenever possible
 
-This is an expensive (read: slow) method that you should only use when you don't know in advance in what segment of your path the intersection will occur.
+This is an expensive (read: slow) method that you should only use when you don't know
+in advance in what segment of your path the intersection will occur.
 
 If you do know, use one of the intersection methods in [Utils](/api/utils).
 
@@ -440,6 +447,7 @@ for (let p of paths.demo.intersectsX(60)) {
 }
 ```
 
+
 ## intersectsY()
 
 ```js
@@ -525,6 +533,7 @@ paths.joint = paths.path1
   .attr("style", "stoke-opacity: 0.5");
 ```
 
+
 ## length()
 
 ```js
@@ -598,16 +607,18 @@ paths.line = new Path()
 Path path.move(Point to)
 ```
 
-Moves to a given point without drawing a line.
+Moves to a given point without drawing a line. 
 
 <Tip>
 
 ###### Always start your path with a move
 
-When drawing a path, you must always start with a `move()` call, followed by your `line()` and/or `curve()` calls and an optional `close()` call.
+When drawing a path, you must always start with a `move()` call, 
+followed by your `line()` and/or `curve()` calls
+and an optional `close()` call.
 
 These calls are chainable, making your code easier to read:
-
+ 
 ```js
 paths.example = new Path()
   .move(points.a)
@@ -631,6 +642,7 @@ points.to = new Point(50, 20)
 
 paths.noline = new Path().move(points.to);
 ```
+
 
 ## offset()
 
@@ -677,6 +689,7 @@ paths.curveOffset = new Path()
   .attr("class", "canvas");
 ```
 
+
 ## reverse()
 
 ```js
@@ -687,7 +700,8 @@ Returns a path that is the reversed version of this path. As in, start becomes e
 
 <Note>
 
-The reversed path is a shallow copy. It will in other words not inherit the attributes of the original path.
+The reversed path is a shallow copy. 
+It will in other words not inherit the attributes of the original path.
 
 If you want a deep copy, including the attributes, use `Path.clone().reverse()`.
 
@@ -718,7 +732,6 @@ paths.reverse = paths.example
 ```
 
 ## setRender()
-
 ```js
 Path path.setRender(bool render)
 ```
@@ -877,6 +890,7 @@ for (let i in halves) {
 }
 ```
 
+
 ## translate()
 
 ```js
@@ -919,6 +933,7 @@ macro("ld", {
 });
 ```
 
+
 ## trim()
 
 ```js
@@ -933,15 +948,17 @@ This method is typically used when [Path.offset()](#offset) caused some overlap.
 
 ###### Use sparsely or performance will suffer
 
-This method is recursive and complex, and the performance penalty for using it on a long/complex path will be significant.
+This method is recursive and complex, and the performance penalty for using
+it on a long/complex path will be significant.
 
 To limit the impact of path.trim(), follow this approach:
 
-- construct a minimal path that contains the overlap
-- trim it
-- now join it to the rest of your path
+ - construct a minimal path that contains the overlap
+ - trim it
+ - now join it to the rest of your path
 
-You can see an example of this [in the front part of the Bruce pattern](https://github.com/freesewing/freesewing/blob/develop/packages/bruce/src/front.js#L195).
+You can see an example of this 
+[in the front part of the Bruce pattern](https://github.com/freesewing/freesewing/blob/develop/packages/bruce/src/front.js#L195).
 
 </Warning>
 

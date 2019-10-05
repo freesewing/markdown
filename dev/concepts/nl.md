@@ -19,17 +19,20 @@ If we look at our image, it can can divided into three areas:
 
 <Example part="docs_overview" caption="Your focus today is on the middle part" options={{focus: "Pattern"}} />
 
-- The left area with the *settings* box
-- The middle area with the *Pattern* box and everything in it
-- The right area with the *draft* box and the *SVG* and *React* logos
+ - The left area with the *settings*  box
+ - The middle area with the *Pattern* box and everything in it
+ - The right area with the *draft* box and the *SVG* and *React* logos
 
 As there's a lot going on in the middle *Pattern* box. Rather than get overwhelmed by trying to wrap your head around the entire thing, you will start with the basic building blocks. Let's get started.
 
 <Note>
 
-The left and right parts are all about how to integrate FreeSewing in your *frontend*. In other words, how you'll plug it into your website, or online store, or a mobile application.
+The left and right parts are all about how to integrate FreeSewing in your *frontend*.
+In other words, how you'll plug it into your website, or online store, or a mobile
+application.
 
-That part is outside the scope of this text. But if you'd like to learn more about front-end integration, start with FIXME: Insert link to relevant docs here.
+That part is outside the scope of this text. But if you'd like to learn more
+about front-end integration, start with FIXME: Insert link to relevant docs here.
 
 </Note>
 
@@ -43,27 +46,32 @@ Before we can draw any line, we need to know where it starts from, and where it 
 
 Each point must have:
 
-- A X-coordinate
-- A Y-coordinate
+ - A X-coordinate
+ - A Y-coordinate
 
 Together, they determine the points' location in the 2-dimensional plane we're drawing on.
 
 <Note>
 
-Points are unlikely to confuse you. The only gotcha is [the coordinate system](/concepts/coordinates) whic has a Y-axis that is inverted to what you may intuitively expect.
+Points are unlikely to confuse you. The only gotcha is [the
+coordinate system](/concepts/coordinates) whic has a Y-axis that is inverted to what you 
+may intuitively expect.
 
 </Note>
 
 <Tip>
 
-Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of points in it. The corners of the boxes, the location where the text goes, and so on. You can enable *design mode* to reveal all the points, and click on them to bring up their coordinates and other attributes.
+Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of 
+points in it. The corners of the boxes, the location where the text goes, and so on.
+You can enable *design mode* to reveal all the points, and click on them to bring up their
+coordinates and other attributes.
 
 </Tip>
 
 See also:
 
-- [The coordinate system](/concepts/coordinates)
-- [The `Point` API](/api/point)
+ - [The coordinate system](/concepts/coordinates)
+ - [The `Point` API](/api/point)
 
 ## Paths
 
@@ -73,10 +81,10 @@ Paths are the lines and curves that make up your pattern.
 
 They are made up of a set of drawing operations that together make up the path. FreeSewing supports the following types of drawing operations:
 
-- The **move** operation moves our virtual pen but does not draw anything.
-- The **line** operation draws a straight line
-- The **curve** operation draws a [Bezier curve](/concepts/beziercurves) 
-- The **close** operation closes the path
+ - The **move** operation moves our virtual pen but does not draw anything.
+ - The **line** operation draws a straight line
+ - The **curve** operation draws a [Bezier curve](/concepts/beziercurves)
+ - The **close** operation closes the path
 
 To crucial thing to keep in mind is that, with the exception of the **move** operation, all drawing operations start from wherever you are currently on your virtual sheet of paper.
 
@@ -88,7 +96,8 @@ Understanding that each drawing operation builds upon the next one is an importa
 
 <Tip>
 
-Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of paths in it. Each box, the arrows, the lines in the React logo, and so on.
+Our example image (which, if you hadn't realized was created with FreeSewing) has a lot of 
+paths in it. Each box, the arrows, the lines in the React logo, and so on.
 
 You can enable *design mode* and click on a path to bring up its drawing operations and other attributes.
 
@@ -96,8 +105,8 @@ You can enable *design mode* and click on a path to bring up its drawing operati
 
 See also:
 
-- [Bezier curves](/concepts/beziercurves)
-- [The `Path` API](/api/path)
+ - [Bezier curves](/concepts/beziercurves)
+ - [The `Path` API](/api/path)
 
 ## Snippets
 
@@ -107,8 +116,8 @@ Snippets are little embellishments you can use and re-use on your pattern. They 
 
 Each snippet must have:
 
-- An anchor point that determine where the snippet will be located
-- The name of the snippet to insert
+ - An anchor point that determine where the snippet will be located
+ - The name of the snippet to insert
 
 Since our example image does not have any snippets in it, here's another example of a `button`, `buttonhole`, and `logo` snippet added to a FreeSewing pattern:
 
@@ -116,8 +125,8 @@ Since our example image does not have any snippets in it, here's another example
 
 See also:
 
-- [The `Snippet` API](/api/snippet)
-- [The `rendertest` pattern](/pakages/rendertest) pattern (which contains examples of all available snippets)
+ - [The `Snippet` API](/api/snippet)
+ - [The `rendertest` pattern](/pakages/rendertest) pattern (which contains examples of all available snippets)
 
 ## Parts
 
@@ -131,7 +140,7 @@ When you're developing a FreeSewing pattern, most of your time will be designing
 
 See also:
 
-- [The `Part` API](/api/part)
+ - [The `Part` API](/api/part)
 
 ## Config
 
@@ -139,13 +148,13 @@ See also:
 
 A pattern's [configuration](/config) is created by the pattern designer and details a number of important things about the pattern, like:
 
-- The measurements that are required to draft the pattern
-- The different parts in the pattern and how they depend on each other
-- The different options that are available to tweak the pattern
+ - The measurements that are required to draft the pattern
+ - The different parts in the pattern and how they depend on each other
+ - The different options that are available to tweak the pattern
 
 See also:
 
-- [Configuration](/config)
+ - [Configuration](/config)
 
 ## Store
 
@@ -157,7 +166,7 @@ If you have some information in one part that you want to make available outside
 
 See also:
 
-- [The `Store` API](/api/part)
+ - [The `Store` API](/api/part)
 
 ## Pattern
 
@@ -171,4 +180,5 @@ That pattern instance will have a `draft()` method which will do the actual work
 
 See also:
 
-- [The `Pattern` API](/api/part)
+ - [The `Pattern` API](/api/part)
+

@@ -1,9 +1,3 @@
----
-title: Extra knoop bovenaan
-path: /en/docs/patterns/simon/options/extratopbutton
-pattern: simon
-option: extraBovenKnoop
----
 
 Wil je een extra knoop tussen de bovenste knoop vooraan en de knoop aan de kraagstaander?
 
@@ -14,5 +8,5 @@ Wil je een extra knoop tussen de bovenste knoop vooraan en de knoop aan de kraag
 > Het is een extra knoop die je kan gebruiken als je er na het werk op café nog steeds goed wil uitzien, met je bovenste knoop en je das los. De extra knoop is ook geweldig als je je hemd onder een ander kledingstuk draagt met de bovenste knoop los. Onder een trui bijvoorbeeld.
 > 
 > Laat deze knoop weg als je een eerder casual uitzicht wil.
-> 
+
 > Deze extra knoop wordt toegevoegd aan het aantal knopen vooraan. Hij vervangt geen andere knoop.

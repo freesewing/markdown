@@ -13,6 +13,7 @@ points.middenAchter  = new Point(0,0);
 
 <Tip>
 
-De [Point API docs](/api/point) heeft vele methoden om punten te maken.
+The [Point API docs](/api/point) list many ways to create a point.
 
 </Tip>
+

@@ -9,8 +9,8 @@ author: joost
 
 We've just pushed the *release* button on core 1.8.0. That bump in minor number is typically because we have a new pattern, but in this case, there's two reasons:
 
-- The [Jaeger Jacket](/patterns/jaeger) is now available
-- We've gotten rid of the *across back* measurement
+ - The [Jaeger Jacket](/patterns/jaeger) is now available
+ - We've gotten rid of the *across back* measurement
 
 Read on for the details.
 

@@ -2,6 +2,6 @@
 title: Schouder tot pols
 ---
 
-De afmeting **schouder tot pols** bepaalt de lengte van je mouwen, en loopt vanaf het schouderpunt langs je arm tot aan je pols.
+The **shoulder to wrist** measurement determines your sleeve length, and runs from the shoulder point along the arm to your wrist.
 
-Om je **schouder tot pols** te meten plaats je de lintmeter aan je schouderpunt. Laat je arm naturel en licht gebogen hangen, en meet met de curve van je arm mee tot aan je pols.
+To measure your **shoulder to wrist** measurement, place your tape measure at your shoulder point. Laat je arm naturel en licht gebogen hangen, en meet met de curve van je arm mee tot aan je pols.

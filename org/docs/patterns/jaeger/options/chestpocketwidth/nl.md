@@ -1,6 +1,3 @@
----
-title: Borstzakbreedte
----
 
 ![Borstzakbreedte](chestpocketwidth.svg)
 

@@ -11,26 +11,26 @@ npm init freesewing-pattern@beta
 
 <Note>
 
-De `@beta`-suffix is nodig zolang FreeSewing 2.0 in beta is.
+The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
 
 </Note>
 
 Deze opdracht laadt een aantal dependencies en stelt je dan de volgende vragen:
 
-- **Language**: Gebruik de pijltoetsen om de taal van jouw keuze in te stellen
-- **Pattern name**: Voer `tutorial` in 
-- **Description**: Voer `The FreeSewing tutorial` in
-- **Pattern type**: Gebruik de pijltoetsen om `Pattern` te selecteren
-- **Department**: Gebruik de pijltoetsen om `Accessories` te selecteren
-- **Author**: Voer je GitHub-gebruikersnaam in
-- **GitHub repository**: Dit staat automatisch ingevuld, dus tik gewoon Enter
-- **Package manager**: Gebruik het pijltje om te kiezen. Kies `NPM` als je het niet zeker weet.
+ - **Language**: Use the arrow keys to select the language of your choice
+ - **Pattern name**: Enter `tutorial`
+ - **description**: Enter `The FreeSewing tutorial`
+ - **Pattern type**: Use the arrow key to select `Pattern`
+ - **Department**: Use the arrow keys to select `Accessories`
+ - **Author**: Enter your GitHub username
+ - **GitHub repository**: This will be prefilled for you, so just hit Enter
+ - **Package manager**: Use the arrow to choose. Kies `NPM` als je het niet zeker weet.
 
 Nadat je deze vragen beantwoord hebt, wordt er een standaardtemplate gekopieerd. Daarna worden alle dependencies geïnstalleerd.
 
 <Note>
 
-Dit duurt een paar minuten aangezien we software voor je development-omgeving aan het laden zijn.
+Dit duurt een paar minuten aangezien we software voor je development-omgeving aan het laden zijn. 
 
 </Note>
 
@@ -50,9 +50,10 @@ yarn start
 
 Open nu een tweede terminal en navigeer naar de subfolder `example`. Voer daar dezelfde opdracht in:
 
-<pre><code class="bash:">cd tutorial/example
+```bash:
+cd tutorial/example
 npm run start
-</code></pre>
+```
 
 Of als je Yarn gekozen hebt als package manager:
 
@@ -67,10 +68,12 @@ Als alles goed gaat, gaat je browser nu open met de volgende landingspagina:
 
 <Note>
 
-###### Ben je een Windows-gebruiker?
+###### Using Windows?
 
 We hebben dit getest op Linux en MacOS, maar nog niet op Windows.
 
-Als je problemen ondervindt, gooi ze dan in [onze chatroom](https://gitter.im/freesewing/freesewing) en we gaan samen op zoek naar oplossingen.
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+we'll figure it out together.
 
 </Note>
+

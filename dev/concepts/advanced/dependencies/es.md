@@ -18,9 +18,9 @@ This could be from a T-shirt pattern where the `front` and `back` patterns are v
 
 Now if a user requests to draft only the `sleeve` part, FreeSewing will still draft:
 
-- First the `base` part
-- Then the `front` and `back` parts
-- Finally the `sleeve` part
+ - First the `base` part
+ - Then the `front` and `back` parts
+ - Finally the `sleeve` part
 
 but it will only render the `sleeve` part, as that's the only thing the user requested.
 
@@ -29,3 +29,4 @@ but it will only render the `sleeve` part, as that's the only thing the user req
 For inheriting parts, please refer to [part inheritance](/advanced/inject).
 
 </Note>
+

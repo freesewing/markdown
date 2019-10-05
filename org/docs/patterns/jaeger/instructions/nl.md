@@ -1,11 +1,9 @@
----
-title: Jaeger maken
-path: /en/docs/patterns/jaeger
----
 
 > ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. 
+> 
+> {.warning .fs-bq}
 
 ## Voor je begint
 
@@ -17,30 +15,32 @@ path: /en/docs/patterns/jaeger
 > 
 > Dit is omdat dit project een beetje hoger gemikt is dan je gemiddelde naaiprojectje, en als gevolg daarvan is de kans klein dat je alles vindt in je lokale mercerie.
 > 
-> Als je weet waar dit te vinden, super. Indien niet kan je een **pakket met benodigdheden voor een jasje** bestellen bij [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in Londen, zij verzenden internationaal.
+> Als je weet waar dit te vinden, super. If not, you can get a **Jacket trim pack** from [Kenton Trimmings](http://kentontrimmings.co.uk/shop/) in London, they ship to international customers.
 > 
 > Het is een winkel voor professionals (ze zijn zelfs niet open op zaterdag) maar je hoeft geen professional te zijn om iets te bestellen.
 > 
 > Ik heb niets te maken met deze mannen, maar het is de enige plek waar ik van weet die je een set met professioneel materiaal verkopen om een jasje te maken.
 > 
-> Als je weet hebt van andere plekken die zoiets doen, laat het dan weten. {.fs-bq}
+> Als je weet hebt van andere plekken die zoiets doen, laat het dan weten. 
+> 
+> {.fs-bq}
 
 Om Jaeger te maken heb je het volgende nodig:
 
-- Ongeveer 2,5 meter geschikte stof (zie [Stofkeuzes](#fabric-options))
-- Voering, eventueel een andere stof voor de voering van de mouwen
-- Twee grotere knopen voor de voorkant, en 8 knopen voor de mouwen
-- Een beetje lichtgewicht kleefbare tussenvoering voor lokale versteviging
-- Haardoek voor de voorpanden en kraag
-- Smal keperlint voor de voorste randen
-- Domette voor de tussenvoering
-- Epauletten
-- Versteviger voor de mouwkop, indien mogelijk met canvas
-- Stof voor de onderkraag
+ - Ongeveer 2,5 meter geschikte stof (zie [Stofkeuzes](#fabric-options))
+ - Voering, eventueel een andere stof voor de voering van de mouwen
+ - Twee grotere knopen voor de voorkant, en 8 knopen voor de mouwen
+ - Een beetje lichtgewicht kleefbare tussenvoering voor lokale versteviging
+ - Haardoek voor de voorpanden en kraag
+ - Smal keperlint voor de voorste randen
+ - Domette voor de tussenvoering
+ - Epauletten
+ - Versteviger voor de mouwkop, indien mogelijk met canvas
+ - Stof voor de onderkraag
 
 ### Stofkeuze
 
-Dit type jasjes worden vaak gemaakt van een zwaardere wol, meestal met wat textuur of een ingeweven patroon. Over het algemeen worden ze gemaakt in *drukkere* stoffen.
+Dit type jasjes worden vaak gemaakt van een zwaardere wol, meestal met wat textuur of een ingeweven patroon. In general, they are made in *busier* fabrics.
 
 Puristen zullen zeggen dat dit jasje nooit uit pakstof gemaakt mag worden, omdat het geen kostuumjasje is. Je kan hen vertellen dat ze hun regels mogen steken waar de zon niet schijnt, het is jouw jasje.
 
@@ -48,46 +48,49 @@ Let wel, Jaeger maken gaat wat tijd kosten. Doe jezelf een plezier en kies iets 
 
 ## Knippen
 
-- **Buitenstof** 
- - Knip **2 voorpanden** (deel 1)
- - Knip **2 belegdelen voor** (kijk naar de lijn die het voorpand verdeelt in beleg/voering)
- - Knip **2 rugpanden** (deel 2)
- - Knip **2 zijpanden** (deel 3)
- - Knip **2 bovenmouwen** (deel 4)
- - Knip **2 ondermouwen** (deel 5)
- - Knip **1 kraag** (deel 6)
- - Knip **1 kraagstaander** (deel 8)
- - Knip **2 zakken** (deel 9)
- - Knip **1 bies borstzak** (deel 10)
-- **Voering** 
- - Knip **2 voorpanden** (deel 1)
- - Knip **2 voorpanden voering** (kijk naar de lijn die het voorpand verdeelt in beleg/voering, en vergeet niet de belegextensie voor de binnenzak toe te voegen)
- - Knip **2 rugpanden** (deel 2)
- - Knip **2 zijpanden** (deel 3)
- - Knip **2 bovenmouwen** (deel 4) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
- - Knip **2 ondermouwen** (deel 5) Opmerking: sommige mensen gebruiken graag een aparte voering voor de mouwen
- - Knip **2 zakdelen borstzak** (deel 11)
- - Knip **2 biezen binnenzak**
- - Knip **2 zakdelen binnenzak** (deel 13)
-- **Haardoek** 
- - Knip **2 voorpanden** schuin van draad (deel 1) Opmerking: voeg geen naadwaarde toe
- - Knip **2 borststukken** schuin van draad. Kijk naar de markering op het voorpand. Opmerking: voeg geen naadwaarde toe
-- **Stof voor de onderkraag** 
- - Knip **1 onderkraag** (deel 7)
+ - **Buitenstof**
+   - Cut **2 fronts** (part 1)
+   - Cut **2 front facings** (look for the facing/lining boundary on the front part)
+   - Cut **2 backs** (part 2)
+   - Cut **2 sides** (part 3)
+   - Cut **2 topsleeves** (part 4)
+   - Cut **2 undersleeves** (part 5)
+   - Cut **1 collar** (part 6)
+   - Cut **1 collarstand** (part 8)
+   - Cut **2 pockets** (part 9)
+   - Cut **1 chest pocket welt** (part 10)
+ - **Voering**
+   - Cut **2 fronts** (part 1)
+   - Cut **2 front linings** (look for the facing/lining boundary on the front part, and don't forget to attach the inner pocket facing extension)
+   - Cut **2 backs** (part 2)
+   - Cut **2 sides** (part 3)
+   - Cut **2 topsleeves** (part 4) Note: Some people like to use different lining for the sleeves
+   - Cut **2 undersleeves** (part 5) Note: Some people like to use different lining for the sleeves
+   - Cut **2 chest pocket bags** )(part 11)
+   - Cut **2 inner pocket welts**
+   - Cut **2 inner pocket bags** (part 13)
+ - **Haardoek**
+   - Cut **2 fronts** on bias (part 1) Note: Don't include seam allowance
+   - Cut **2 chest pieces** on bias. Kijk naar de markering op het voorpand. Opmerking: voeg geen naadwaarde toe
+ - **Stof voor de onderkraag**
+   - Cut **1 undercollar** (part 7)
 
 > ##### Goede kanten samen, of patronen exact laten doorlopen?
 > 
 > Als je twee stukken nodig hebt van één patroondeel, kan je dit met de [goede kanten van de stof](/en/docs/sewing/good-sides-together) samen knippen. Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
 > 
-> Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips. {.fs-bq}
+> Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips. 
+> 
+> {.fs-bq}
 
 ### Opletten bij het knippen
 
-- Het borststuk is aangegeven op het patroondeel van het voorpand.
-- Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
-- Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Vergeet niet naadwaarde toe te voegen aan zowel het beleg als de voering langs deze naad.**.
+ - Het borststuk is aangegeven op het patroondeel van het voorpand.
+ - Voeg geen naadwaarde toe als je haardoek uitknipt, en knip schuin van draad.
+ - Het beleg vooraan en de voering van het voorpand zijn aangegeven op het patroondeel van het voorpand. Deze lijn splitst het patroondeel in twee. Je kan het patroondeel in twee knippen nadat je het voorpand uit je buitenstof geknipt hebt. De binnenzakextensie voor het beleg is apart geprint, en je kan dit terug op z'n plaats kleven nadat je het patroondeel uitgeknipt hebt. **Do not forget to add seam allowance to both the facing and the lining for this boundary seam**.
 
 ![Neem het voorste beleg en de voering over van het voorpand](cuttingCaveat.svg)
+
 
 ## Constructie
 
@@ -107,6 +110,7 @@ Stik de voorste neep dicht, let op dat de neep bovenaan op de juiste hoogte stop
 
 Zodra de voorste nepen dichtgestikt zijn, knip je ze open aan de achterkant. Je zal niet helemaal tot in de punt kunnen knippen, maar dat is ok. Strijk de nepen open waar ze opengeknipt zijn, en strijk de rest opzij. Strijk alleen op de achterkant. Strijken op de voorkant kan sporen achterlaten op je stof.
 
+
 ### Maak de borstzak
 
 ![Kleef tussenvoering op de achterkant van de borstzak](basteChestPocket.svg)
@@ -117,7 +121,9 @@ Kleef een rechthoekig stukje tussenvoering aan de verkeerde kant van de plek waa
 
 > ##### We plakken niet het hele voorpand vol
 > 
-> Sportieve jasjes worden meestal gemaakt van iets zwaardere stoffen. Dat, en omdat ik liever haardoek gebruik dan kleefbare tussenvoering, is de reden waarom ik niet het hele voorpand verstevig met kleefbare tussenvoering. {.fs-bq}
+> Sportieve jasjes worden meestal gemaakt van iets zwaardere stoffen. Dat, en omdat ik liever haardoek gebruik dan kleefbare tussenvoering, is de reden waarom ik niet het hele voorpand verstevig met kleefbare tussenvoering. 
+> 
+> {.fs-bq}
 
 #### Drieg de omtrek van de bies, markeer de eindpunten van de bovenrand
 
@@ -136,7 +142,6 @@ Vertrek vanaf de bovenste lijn van je gedriegde paspelzak, en markeer vanaf de h
 Vouw de paspel dubbel met de goede kanten op elkaar, en sluit de zijkanten (naai de zijnaden).
 
 #### Knip naadwaarde bij, keer en strijk
-
 Knip de naadwaarde aan de zijkant bij, vooran aan de hoekjes, om bulk te voorkomen.
 
 Keer naar de goede kant en strijk plat.
@@ -189,6 +194,7 @@ Als laatste sluit je de binnenzak door de zijkanten dicht te stikken. Doe die do
 
 Drieg de bortzak dicht terwijl je de rest van het jasje maakt.
 
+
 ### Bereid de voorpanden voor
 
 ![Bereid het haardoek voor voor de voorpanden](prepareCanvas.svg)
@@ -207,8 +213,7 @@ Knip het borststuk uit. Leg het langs de rollijn, en drieg op z'n plek op het vo
 
 Drieg nu de voorpanden in haardoek en het borststuk aan je voorpand. Denk eraan dat het haardoek geen naadwaarde heeft.
 
-> Drieg het net voorbij de naadlijn zodat je het uit de weg kan plooien wanneer je deze naden stikt.   
-> Je wil niet dat je haardoek mee in de naad zit.
+> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later. You don't want your canvas to get caught in the seams.
 
 #### Pikeer je revers
 
@@ -216,7 +221,7 @@ Tijd om je een echte kleermaker te voelen, en die revers te pikeren zoals ze nog
 
 Let op dat je de steken een beetje kleiner maakt naar de punt van de revers toe, zodat ze plat tegen de borst liggen, naar binnen krullend in plaats van naar buiten.
 
-> Als je niet zeker bent hoe pikeren werkt, [laat het ons weten](https://gitter.im/freesewing/freesewing) en we zullen een poging doen om het te documenteren.
+> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/chat) and we'll make an attempt to document it.
 
 #### Revers contouren en breuklijn
 
@@ -224,9 +229,9 @@ Nu gaan we met dunne keperband met de hand langs de rand van de revers naaien, a
 
 Onthoud:
 
-- Het lint langs de breuklijn moet binnen de breuklijn geplaatst worden.
-- Het lint langs de breuklijn moet ongeveer een halve centimeter korter zijn dan de afstand die het moet overbruggen. De lichte spanning op het lint zorgt dat de revers mooi rollen en zich naar je lichaam vormen.
-- Het lint langs de rand van de revers valt binnen de stiklijn
+ - Het lint langs de breuklijn moet binnen de breuklijn geplaatst worden.
+ - Het lint langs de breuklijn moet ongeveer een halve centimeter korter zijn dan de afstand die het moet overbruggen. De lichte spanning op het lint zorgt dat de revers mooi rollen en zich naar je lichaam vormen.
+ - Het lint langs de rand van de revers valt binnen de stiklijn
 
 > ##### Naai niet door je stof
 > 
@@ -234,7 +239,9 @@ Onthoud:
 > 
 > Het is echter niet de bedoeling dat je het lint enkel aan het haardoek vastnaait. Je zou moeten proberen een paar draadjes van je buitenstof mee te nemen met elke steek, zodat het lint vastzit maar de steken onzichtbaar zijn aan de buitenkant.
 > 
-> Dit is minder problematisch boven het breekpunt van de revers, waar de stof aan de achterkant komt te liggen. {.fs-bq}
+> Dit is minder problematisch boven het breekpunt van de revers, waar de stof aan de achterkant komt te liggen. 
+> 
+> {.fs-bq}
 
 ### Sluit de naden
 
@@ -242,19 +249,19 @@ Onthoud:
 
 ![Sluit de zijnaden](closeSides.svg)
 
-Leg je voorpanden neer met de goede kant omhoog, en je zijpanden erop met de goede kant omlaag.  
-Leg de voor- en zijnaden gelijk, speld ze eventueel samen en stik.
+Place your front with the good side up, and your side on it with the good side down. Align the front/side seams, pin them in place if you feel like it, and sew them togther.
 
-Leg dit neer met de goede kant omhoog, en leg je rugpand hierop met de goede kant naar beneden.  
-Leg de rug- en zijnaden gelijk, speld ze eventueel samen en stik.
+Place this down with the good side up, and place your back on top with the good side down. Align the back/side seams, pin them in place if you feel like it, and sew them togther.
 
 > Let op dat het haardoek niet mee vastgestikt wordt.
-> 
+
 > ##### Opmerking voor het naaien van splitten
 > 
 > Als je een dubbele split hebt, zitten die in deze naad.
 > 
-> Stik het deel van de zij- achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
+> Stik het deel van de zij- achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. 
+> 
+> {.fs-bq}
 
 #### Sluit de achternaad
 
@@ -266,7 +273,9 @@ Leg de twee halve jasjes met de goede kanten op elkaar en stik de middenachterna
 > 
 > Als je een enkele split hebt, zit die in deze naad.
 > 
-> Stik het deel van de achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. {.fs-bq}
+> Stik het deel van de achternaad tot aan de split en het stukje naar opzij dat de split vormt. Stik niet verder naar beneden. 
+> 
+> {.fs-bq}
 
 #### Sluit de schoudernaden
 
@@ -275,13 +284,19 @@ Leg de twee halve jasjes met de goede kanten op elkaar en stik de middenachterna
 Leg de schouders op elkaar met de goede kanten op elkaar en stik.
 
 > Let op dat het haardoek niet mee vastgestikt wordt.
-> 
+
 > ##### Leg de schoudermerktekens samen
 > 
 > Let op dat je de schoudernaden volgens de merktekens op elkaar legt. Omdat de achter- en voorpanden aan de nek een andere vorm hebben ziet de stofrand er anders uit. Dus enkel de randen gelijk geven is niet wat je nodig hebt.
 > 
-> Dus zorg dat je op de merktekens afgaat. Daar dienen ze voor. {.fs-bq}
+> Dus zorg dat je op de merktekens afgaat. Daar dienen ze voor. 
 > 
+> {.fs-bq}
+
 > ##### Jaeger is momenteel nog in beta, en de documentatie is onder constructie
 > 
-> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. {.warning .fs-bq}
+> Dit patroon is momenteel nog in beta. Eén van de redenen daarvoor is dat de documentatie nog niet klaar is. 
+> 
+> {.warning .fs-bq}
+
+

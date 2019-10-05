@@ -87,10 +87,12 @@ Nu we dat uit de weg hebben, ziet het slabbetje er zo uit:
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
 
-<Note>
+<Note> 
 
-We hebben de methode `part.attr()` gebruikt als stijl voor het pad. Maar omdat de klasse `fabric` in het zwart getekend is, ziet het er niet echt verschillend uit. Later gaan we een paar andere klasses gebruiken die het effect duidelijker maken.
+We used the `part.attr()` method to style our path? But because the `fabric` class is drawn in black,
+it doesn't look much different. Later gaan we een paar andere klasses gebruiken die het effect duidelijker maken. 
 
 </Note>
 
-Het ziet er best goed uit. Maar die scherpe hoeken aan de onderkant schreeuwen nu niet echt *baby*, of wel? Daar gaan we iets aan doen.
+Het ziet er best goed uit. But those sharp corners at the bottom don't exactly say *baby* do they? Daar gaan we iets aan doen.
+

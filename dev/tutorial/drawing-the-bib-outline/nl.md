@@ -60,3 +60,4 @@ We berekenen het punt `topLeft` zodat de bovenkant van het slabbetje en de zijka
 Dat was niet echt nodig. Maar het ziet er wel mooi evenwichtig uit:
 
 <Example pattern="tutorial" part="step5" caption="Note how the neck opening is the same distance from the left, right, and top edge" />
+

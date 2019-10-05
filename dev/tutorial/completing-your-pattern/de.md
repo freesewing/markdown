@@ -22,13 +22,14 @@ export default function(part) {
 }
 ```
 
-So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?*
+So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?* 
 
 <Note>
 
 ###### The point of (non) complete patterns
 
-Users can set the `complete` setting to `false`. When that's the case, you should draft a base outline of the pattern, rather than a fully detailed pattern.i
+Users can set the `complete` setting to `false`. When that's the case, you
+should draft a base outline of the pattern, rather than a fully detailed pattern.i
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
@@ -149,3 +150,4 @@ And with that, our pattern is now *complete*:
 <Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
 We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.
+

@@ -16,8 +16,8 @@ This is the same technique that's used in a full-bust adjustment to fit a womens
 
 This plugin helps you by:
 
-- Storing the chest circumference in `measurements.bust`
-- Changing `measurments.chestCircumference` to the value of `measurements.highBust`
+ - Storing the chest circumference in `measurements.bust`
+ - Changing `measurments.chestCircumference` to the value of `measurements.highBust`
 
 This way you can extend a menswear pattern and have it drafted with the high bust measurement as chest measurment, after which you can create room for the breasts.
 
@@ -46,3 +46,5 @@ import config from "../config";
 
 const Pattern = new freesewing.Design(config, bust);
 ```
+
+

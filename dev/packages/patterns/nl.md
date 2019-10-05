@@ -9,3 +9,4 @@ This bundles all of FreeSewing's patterns.
 FIXME: Documentation is missing
 
 </Warning>
+

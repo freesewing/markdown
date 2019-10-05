@@ -1,17 +1,13 @@
----
-title: Making Wahid
-path: /en/docs/patterns/wahid
----
 
 ## What you need
 
 To make Wahid, you will need the following:
 
-- Basic sewing supplies
-- One meter of a suitable fabric ([see Fabric options](#fabric-options))
-- One meter of lining fabric
-- Fusable interfacing
-- Buttons
+ - Basic sewing supplies
+ - One meter of a suitable fabric ([see Fabric options](#fabric-options))
+ - One meter of lining fabric
+ - Fusable interfacing
+ - Buttons
 
 ## Fabric options
 
@@ -23,25 +19,24 @@ These fabrics are typically wool, but you can also be a bit more creative and go
 
 ## Cutting
 
-- **Main fabric** 
- - Cut **2 front(s)** with good sides together
- - Cut **2 back(s)** with good sides together
- - Cut **2 front facing(s)** with good sides together
- - Cut **2 pocket welt(s)** with good sides together
- - Cut **2 pocket facing(s)** with good sides together
-- **Lining fabric** 
- - Cut **2 front lining(s)** with good sides together
- - Cut **2 back(s)** with good sides together
- - Cut **2 pocket bag(s)** with good sides together
-- **Interfacing** 
- - Cut **2 front(s)** with good sides together
- - Cut **2 pocket interfacing(s)**
+ - **Main fabric**
+   - Cut **2 front(s)** with good sides together
+   - Cut **2 back(s)** with good sides together
+   - Cut **2 front facing(s)** with good sides together
+   - Cut **2 pocket welt(s)** with good sides together
+   - Cut **2 pocket facing(s)** with good sides together
+ - **Lining fabric**
+   - Cut **2 front lining(s)** with good sides together
+   - Cut **2 back(s)** with good sides together
+   - Cut **2 pocket bag(s)** with good sides together
+ - **Interfacing**
+   - Cut **2 front(s)** with good sides together
+   - Cut **2 pocket interfacing(s)**
 
 ### Caveats
-
-- Do not cut out the **front** dart
-- Do not cut out the **back** dart
-- Watch out for the grainline on the **pocket welt** and **pocket facing**
+ - Do not cut out the **front** dart
+ - Do not cut out the **back** dart
+ - Watch out for the grainline on the **pocket welt** and **pocket facing**
 
 Wahid is a relatively simply pattern, below is a typical layout:
 
@@ -88,7 +83,6 @@ Place your front facing and lining with good sides together. Pin the edges of th
 Sew them together.
 
 #### Press open seam allowance
-
 Press open the seam allowance between facing and lining.
 
 ### Step 3: Close all darts
@@ -102,7 +96,6 @@ Fold your back with good sides together, and sew the back dart.
 > Don't forget to do the same for the lining
 
 #### Close front darts
-
 Fold your front (and the interfacing fused to it) with good sides together, and sew the front dart.
 
 ### Step 4: Press all darts
@@ -110,11 +103,9 @@ Fold your front (and the interfacing fused to it) with good sides together, and 
 ![Press all darts](04a.png)
 
 #### Press the front darts
-
 Once cut open, press the front darts open.
 
 #### Press the back darts
-
 If you cut open the back darts, press them open. If not, press them to the side.
 
 > Don't forget to do the same for the lining
@@ -130,7 +121,6 @@ Place your pocket bag down with the good side up, and your pocket welt on top of
 Align the straight side of the bag with the side of the welt that has no interfacing, and sew them together at the standard seam allowance.
 
 #### Press seam open
-
 When you are done, press open this seam.
 
 #### Mark where your pocket needs to go
@@ -306,7 +296,6 @@ Now fold back your lining a bit before the edge of the armhole and pin it down.
 Use a slipstitch to hand-sew the lining to the fabric all along the armhole.
 
 ### Step 11: Finish the hem
-
 Remember that gap we didn't close in step 9? Time to close it.
 
 Use a slipstitch to hand-sew the lining to the fabric and close the hem.
@@ -338,7 +327,7 @@ If you'd like, you can pick-stitch around the edges of your waistcoat.
 Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches it surface for a few threads. You've certainly seen it as a finish on suit jackets.
 
 > You can pick-stitch with thread of the same colour, or use a contrasting colour of you're feeling bold.
-> 
+
 > While pick-stitching adds a distinctive look, it also locks your fabric to your lining/facing which prevents things from shifting around.
 
 After this, you probably want to iron your waistcoat.

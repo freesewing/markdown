@@ -1,23 +1,17 @@
----
-title: Trayvon maken
-path: /en/docs/patterns/trayvon
----
 
 ## Wat je nodig hebt
 
 Om Trayvon te maken heb je het volgende nodig:
 
 - Basis naaimateriaal
-- Tussen 0.5 en 1.5 meter geschikte stof ([zie Stofkeuze](#fabric-options)), afhankelijk van hoe je knipt: schuin van draad, recht van draad of haaks op de draadrichting. 
+- Tussen 0.5 en 1.5 meter geschikte stof ([zie Stofkeuze](#fabric-options)), afhankelijk van hoe je knipt: schuin van draad, recht van draad of haaks op de draadrichting.
 
 ## Een klein puntje maar
-
 De punt is het fijnste stukje van een das. Als je nog nooit een das gemaakt hebt zou ik je aanraden een paar punten te maken in restjes stof voor je schaar en naald in je mooie stof zet.
 
 Om dit te oefenen voer je stap 1 tot 4 een paar keer uit tot je het beet hebt.
 
 ## Strijk wijs
-
 Tijdens de constructie zal gevraagd worden je stof te strijken. Wees voorzichtig en gebruik niet te veel hitte op een delicate stof die daar niet tegen kan.
 
 Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan je zien wat de beste temperatuur is voor de stof die je gebruikt.
@@ -25,7 +19,6 @@ Het is een goed idee om een paar restjes stof te strijken voor je begint. Zo kan
 ## Stofkeuze
 
 ### Stof voor een das
-
 De dassen die je in de winkel vindt zijn meestal gemaakt van zijde of polyester imitatiezijde. Het is dus niet verrassend dat dit goede opties zijn.
 
 Over het algemeen wil je iets dat goed valt zodat je das mooi hangt. Je das schuin van draad knippen kan ook helpen.
@@ -37,7 +30,6 @@ Daarbij is zijde en imitatiezijde glad en lastig om mee te werken. Als dit je ee
 Zorg vooral dat je een stof kiest die niet snel uitrekt of z'n vorm verliest. Je wil dat je das er scherp uitziet, niet slapjes.
 
 ### Voering van een das
-
 De voering van de das is het stukje dat aan de punt gebruikt wordt om de achterkant te bedekken. Als je niet zeker weet wat ik bedoel, kijk dan naar de achterkant van de punt van een bestaande das. Zie je dat rechthoekige stukje stof daar? Dat is de voering van de das.
 
 De voering van je das voegt een extra stof toe aan een deel van de das. Het is dus belangrijk dat dit niet te dik wordt. Kies iets duns, ook als je een zwaardere stof gebruikt.
@@ -47,7 +39,6 @@ Zorg dat je voering minstens even goed valt als de stof van je das, zodat ze gee
 Bij twijfel, ga dan voor imitatie zijde. Let wel op dat je iets kiest dat ofwel bij je buitenstof past, of er mooi mee contrasteert.
 
 ### De tussenvoering
-
 De tussenvoering is het skelet van je das. Het is het deel dat in het midden zit en alleen zichtbaar is terwijl je je das maakt.
 
 Tussenvoering voor dassen is onwaarschijnlijk lastig te vinden. De beste optie is een zachte, pluizige geweven lamswol, maar ik moet nog een stoffenwinkel tegenkomen die dat verkoopt.
@@ -72,22 +63,22 @@ Dit gezegd zijnde zijn veel dassen schuin van draad geknipt, aangezien dit het m
 
 ## Knippen
 
-- **Buitenstof** 
- - Knip **1 punt**
- - Knip **1 staart** 
-- **Voering** 
- - Knip **1 voering punt**
- - Knip **1 voering staart** 
- - Knip **1 lus** 
-- **Tussenvoering** 
- - Knip **1 tussenvoering punt**
- - Knip **1 tussenvoering staart** 
+ - **Buitenstof**
+   - Cut **1 tip**
+   - Cut **1 tail**
+ - **Voering**
+   - Cut **1 lining tip**
+   - Cut **1 lining tail**
+   - Cut **1 loop**
+ - **Tussenvoering**
+   - Cut **1 interfacing tip**
+   - Cut **1 interfacing tail**
 
 ### Opmerkingen
 
-- Er is geen naadwaarde aan de delen in **tussenvoering** en de **lus**
-- De **voering punt** en **voering staart** hebben enkel aan het uiteinde naadwaarde
-- De **punt** en **staart** hebben enkel naadwaarde aan de uiteindes en het midden
+ - There is no seam allowance on the **interfacing** parts and the **loop**
+ - The **lining** **tip** and **tail** have only seam allowance at the tip
+ - The **fabric** **tip** and **tail** have only seam allowance at the tip and center
 
 Trayvon een heel eenvoudig patroon, hieronder is een typische lay-out:
 
@@ -193,8 +184,7 @@ De naad waar de buitenstof van de das aan de voering vastzit zit niet aan de ran
 
 Bevestig tussenvoering punt (deel 1) aan tussenvoering staart (deel 2) aan elkaar aan de niet-puntige kant. Let op dat de merktekens overeenkomen.
 
-> **Of niet**   
-> Om eerlijk te zijn stik ik de tussenvoering nooit aan elkaar. Ik laat de twee helften gewoon los.
+> **Or don't** To be honest, I never join the interfacing. Ik laat de twee helften gewoon los.
 > 
 > Op deze manier kan de lengte van je das nooit fout zijn, en kan je de stukken tussenvoering gewoon over elkaar heen schuiven. Daarnaast zorgt het voor minder bulk in het midden en is het minder werk.
 > 

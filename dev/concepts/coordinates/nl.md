@@ -7,8 +7,7 @@ In FreeSewing, coordinates are like text in a book. You start at the top on the 
 
 <Example part="docs_coords" caption="The SVG coordinate system" />
 
-Which means that on the X-axis, `20` is further to the right than `10`.  
-Likewise, on the Y-axis, `50` is lower than `20`.
+Which means that on the X-axis, `20` is further to the right than `10`. Likewise, on the Y-axis, `50` is lower than `20`.
 
 > The Y-axis is inverted in many drawing programs, with the origin `(0,0)` being the lower left corner, rather than the upper left corner.
 > 

@@ -1,7 +1,6 @@
 ---
 layout: onecol
 title: Knippen
-path: /en/docs/sewing/cutting
 ---
 
 ![Ik, druk t-shirts aan het uitknippen](cutting.jpg)
@@ -10,4 +9,4 @@ Knippen slaat op het uit de stof knippen van de verschillende patroondelen.
 
 Knippen wordt meestal met een schaar of rolmes gedaan.
 
-> De **snit van een kledingstuk**, hoe het eruitziet, refereert naar hoe het uitgeknipt werd. Bijvoorbeeld, een laag uitgesneden top.
+> The **cut of a garment**, the way it looks, refers to how it was cut out. Bijvoorbeeld, een laag uitgesneden top.

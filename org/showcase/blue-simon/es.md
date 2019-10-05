@@ -15,9 +15,10 @@ author: K
 <Note>
 
 ###### See the original on Instagram
-
-This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
+This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) 
+on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
 
 It is reposted here with permission.
 
 </Note>
+

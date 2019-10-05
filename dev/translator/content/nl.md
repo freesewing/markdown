@@ -2,17 +2,17 @@
 title: Materiaal vertalen
 ---
 
-Crowdin maakt het vertalen van tekst erg gemakkelijk.  
-Als je een vertaling van een tekst maakt, zorgt Crowdin ervoor dat deze vertaling uiteindelijk in de repository wordt opgenomen. De development mensen zorgen er daarna voor dat hij deel gaat uitmaken van de teksten.
+Crowdin makes translations of strings very easy. If you provide the translation, Crowdin will make sure your changes make it back into our repository, where they will be picked up and merged by one of the development people.
 
 Hier is wat je moet weten om aan de slag te gaan:
 
-- Crowdin link: https://crowdin.com/project/fs-markdown
-- Verzoek een uitnodiging: https://gitter.im/freesewing/freesewing
+ - Crowdin link: https://crowdin.com/project/fs-markdown
+ - Verzoek een uitnodiging: https://gitter.im/freesewing/freesewing
 
 <Tip>
 
-Als je gaat vertalen, geef dan voorang aan de inhoud van freesewing.org, voordat je aan de ontwikkel inhoud van freesewing.dev gaat denken. In andere woorden, doe de `org` folder eerst.
+Als je gaat vertalen, geef dan voorang aan de inhoud van freesewing.org, voordat je aan de ontwikkel inhoud van freesewing.dev gaat denken.
+In other words, do the `org` folder first.
 
 </Tip>
 
@@ -22,10 +22,10 @@ Translating content used to be very different from translating strings, because 
 
 Tegenwoordig worden ze vrijwel hetzelfde behandeld, want Crowdin breek alle inhoud (blog posts, documentatie, enzovoort) op in individuele zinnen. Dit lijkt vreemd in het begin, maar het heeft een aantal voordelen:
 
-- Je hoeft nooit een grote heoveelheid tekst in een keer te vertalen. Als je wat tijd hebt kun je gewoon een paar zinnen vertalen. Dit maakt het een stuk makkelijker om met anderen samen te werken.
-- When (part) of the original (English) content is changed, Crowdin will detect that and let you know exactly what sentences need to be updated.
-- It's easier to keep track of how much has been done/remains to be done
-- Content is more consistent across languages
+ - Je hoeft nooit een grote heoveelheid tekst in een keer te vertalen. Als je wat tijd hebt kun je gewoon een paar zinnen vertalen. Dit maakt het een stuk makkelijker om met anderen samen te werken.
+ - When (part) of the original (English) content is changed, Crowdin will detect that and let you know exactly what sentences need to be updated.
+ - It's easier to keep track of how much has been done/remains to be done
+ - Content is more consistent across languages
 
 ## Syntax
 

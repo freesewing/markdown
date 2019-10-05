@@ -22,13 +22,14 @@ export default function(part) {
 }
 ```
 
-Tot nu toe hebben we ons beperkt tot het onderdeel *// Design pattern here*. Nu gaan we verder met het stuk onder *// Complete?*.
+So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?* 
 
 <Note>
 
-###### Het nut van (niet-)complete patronen
+###### The point of (non) complete patterns
 
-Gebruikers kunnen de instelling `complete` als `false` opgeven. Als dat het geval is, moet je een basisversie van het patroon ontwerpen in plaats van een volledig gedetailleerd patroon.
+Users can set the `complete` setting to `false`. When that's the case, you
+should draft a base outline of the pattern, rather than a fully detailed pattern.i
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
@@ -104,7 +105,7 @@ Ons slabbetje heeft geen naadwaarde omdat we het afwerken met biaislint. Je kan 
 
 Maar voor een volgende keer, wanneer je wél de optie van naadwaarde nodig hebt: `sa` (kort voor 'seam allowance' of naadwaarde) is een variabele die je instelt in `part.shorthand()`, net zoals `complete`. In plaats van `true` of `false` voeg je hier de naadwaarde toe in millimeter.
 
-Je kan `if (sa)` hier nog altijd toevoegen. De naadwaarde is dan nul, want nul is *falsy*.
+Note that you can still do `if (sa)` because zero is *falsy*.
 
 We voegen hier dus geen naadwaarde toe, maar we doen iets dat op hetzelfde neerkomt. In plaats van een extra lijn toe te voegen aan de buitenkant van het slabbetje om de naadwaarde aan te geven, tekenen we een lijn aan de binnenkant om de rand van het biaislint aan te geven:
 
@@ -144,8 +145,9 @@ points.scalebox = points.title.shift(-90, 55);
 macro("scalebox", { at: points.scalebox });
 ```
 
-En daarmee is het patroon *complete*.
+And with that, our pattern is now *complete*:
 
 <Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
-We zijn nog niet helemaal klaar. Er is nog één ding waar de gebruiker om kan vragen: een *paperless* patroon.
+We zijn nog niet helemaal klaar. There's one more thing the user can ask for: a *paperless* pattern.
+

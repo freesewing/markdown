@@ -2,6 +2,6 @@
 title: Polsomtrek
 ---
 
-De **polsomtrek** is de omtrek van je pols.
+The **wrist circumference** measurement is the circumference of your wrist.
 
-Om je **polsomtrek** te meten wikkel je de lintmeter om je pols, waar je arm overgaat in je hand.
+To measure your **wrist circumference**, run the tape measure around your wrist, where your arm joins your hand.

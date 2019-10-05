@@ -17,7 +17,8 @@ npm init freesewing-pattern@beta
 
 <Note>
 
-The `@beta` in the end is required while FreeSewing v2 is still in beta. Once we release 2.0, it won't be needed
+The `@beta` in the end is required while FreeSewing v2 is still
+in beta. Once we release 2.0, it won't be needed
 
 </Note>
 
@@ -37,16 +38,17 @@ In addition, you'll see an `example` folder to help your while developing.
 
 Now you need to run two commands in two different terminals (because they need to be running side by side):
 
-- In the newly created folder that bears the name of your pattern, run `npm start`
-- In the `example` subfolder within, also run `npm start`
+ - In the newly created folder that bears the name of your pattern, run `npm start`
+ - In the `example` subfolder within, also run `npm start`
 
 Your browser will spin up and open http://localhost:3000
 
+
 That's it. You got started. Here are some links to continue reading:
 
-- [Tutorial](/tutorial): A step-by-step guide to designing your first pattern
-- [API reference](/): Documentation for the FreeSewing API
-- [Concepts](/concepts): A list of basic concepts explained
-- [Advanced guides](/advanced): Guides on more advanced topics
-- [Plugins](/plugins): A list of all the plugins that you can use in your pattern
-- [Get help](/help): Where to turn to with your questions
+ - [Tutorial](/tutorial): A step-by-step guide to designing your first pattern
+ - [API reference](/): Documentation for the FreeSewing API
+ - [Concepts](/concepts): A list of basic concepts explained
+ - [Advanced guides](/advanced): Guides on more advanced topics
+ - [Plugins](/plugins): A list of all the plugins that you can use in your pattern
+ - [Get help](/help): Where to turn to with your questions

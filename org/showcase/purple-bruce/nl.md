@@ -8,4 +8,4 @@ patterns:
 author: Latitia B
 ---
 
-Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) van [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/)  van [zephine_malvimavie](https://instagram.com/zephine_malvimavie).

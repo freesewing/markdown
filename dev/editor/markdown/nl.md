@@ -20,8 +20,7 @@ To start a new paragraph, leave a white line:
 
 If you want to insert a linebreak, but not a new paragraph, simply leave 2 spaces at the end of the line.
 
-Like  
-this.
+Like this.
 
 ## Italic and bold
 
@@ -48,13 +47,13 @@ or
 
 Gives you:
 
-- a bullet
-- list
+ - a bullet
+ - list
 
 or
 
-1. A numbered
-2. list
+ 1. A numbered
+ 2. list
 
 ## Links
 
@@ -69,3 +68,5 @@ Links combine square brackets for the link text with round brackets for the desi
 ## More reading
 
 This will be enough to get you started. If you'd like to learn more, visit [markdownguide.org](https://www.markdownguide.org/).
+
+

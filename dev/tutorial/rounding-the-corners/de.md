@@ -5,6 +5,7 @@ order: 240
 
 We already know how to round corners, let the `round` macro do it:
 
+
 ```js
 macro("round", {
   from: points.topLeft,
@@ -61,3 +62,6 @@ and keep the rest of the path as it was.
 The shape our bib is now completed:
 
 <Example pattern="tutorial" part="step10" caption="That is looking a lot like a bib" />
+
+
+

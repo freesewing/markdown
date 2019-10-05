@@ -8,4 +8,4 @@ patterns:
 author: Natalie
 ---
 
-Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BAqm70Lqg9o/) van [taliajane_designs](https://www.instagram.com/taliajane_designs/).
+Deze afbeelding is van [de Instagram feed](https://www.instagram.com/p/BAqm70Lqg9o/)  van [taliajane_designs](https://www.instagram.com/taliajane_designs/).

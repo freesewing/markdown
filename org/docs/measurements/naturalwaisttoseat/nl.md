@@ -2,6 +2,6 @@
 title: Natuurlijke taille tot zitvlak
 ---
 
-De afmeting **natuurlijke taille tot zitvlak** is de afstand tussen je natuurlijke taille en het breedste deel van je kont, gemeten aan de zijkant van je lichaam.
+The **natural waist to seat** is the measurement from your natural waist down towards the fullest part of your bum, measured on the side of your body.
 
-Om je **natuurlijke taille tot zitvlak** te meten bepaal je de hoogte van zowel je natuurlijke taille als de omtrek van je kont, en meet je de verticale afstand tussen de twee. Neem deze maat aan de zijkant van je lichaam.
+To measure your **natural waist to seat**, locate the height of both your natural waist and seat circumference, and measure the vertical distance between them. Neem deze maat aan de zijkant van je lichaam.

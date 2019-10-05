@@ -1,6 +1,5 @@
 ---
 title: Tweelingnaald
-path: /en/docs/sewing/twin-needle
 ---
 
 ![Een tweelingnaald van Schmetz](twin-needle.jpg)

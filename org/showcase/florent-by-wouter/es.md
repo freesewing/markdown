@@ -15,3 +15,4 @@ Wouter writes:
 > This was made as a toile, and although precision was used, some aspects could have been improved by using hand stitching, instead of machine stitching.
 > 
 > Also, the pattern was printed with the standard `ease` of 1cm, and that was taken in at the back seam after the pieces were cut out.
+

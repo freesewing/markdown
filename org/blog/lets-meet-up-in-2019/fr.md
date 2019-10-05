@@ -19,10 +19,11 @@ So if this sounds like something you'd like to attend, please share your thought
 
 Input on what, you ask? Well, here's some questions that need answers:
 
-- When are we going to do this? Next week? August? The last blood moon before the reckoning?
-- Where are we going to do this? Your mom's basement? The parish hall of Oostrozebeke? London? Paris? Montreal? Mar-a-Lago?
-- Is this going to be a 2-hour thing, a Thursday afternoon, or a full weekend?
-- What are we going to talk about. What are we going to do? What would you like to see or hear?
+ - When are we going to do this? Next week? August? The last blood moon before the reckoning?
+ - Where are we going to do this? Your mom's basement? The parish hall of Oostrozebeke? London? Paris? Montreal? Mar-a-Lago?
+ - Is this going to be a 2-hour thing, a Thursday afternoon, or a full weekend?
+ - What are we going to talk about. What are we going to do? What would you like to see or hear?
+
 
 Once again, nothing is set in stone, and I'm looking forward to hearing from you guys how we could make this memorable.
 
@@ -30,7 +31,7 @@ So don't be shy, just share.
 
 ## freesewing 2.0
 
-We have done a lot of work since freesewing.org was launched (only) 16 months ago. We've added new patterns, built a new website, and we've translated freesewing.org into 4 additional languages in order to remove knowledge of English as a barrier to using the site.
+We have done a lot of work since freesewing.org was launched (only) 16 months ago. We've added new patterns,  built a new website, and we've translated freesewing.org into 4 additional languages in order to remove knowledge of English as a barrier to using the site.
 
 But we actually did much more this year. For the last 6 months or so, I've been working like crazy on [freesewing 2.0.](https://github.com/freesewing/freesewing). It's a complete rewrite of pretty much every aspect of the project. My reasons for doing so are simple: With the project growing as it does, the fact that I only have two hands and 24 hours in a day is quickly becoming a bottleneck. For freesewing to thrive we must make it simpler for other people to [dive in](https://developer.freesewing.org), and get involved.
 

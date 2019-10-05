@@ -1,7 +1,3 @@
----
-title: Overwijdte heup
----
-
 ![De optie voor overwijdte aan de heupen bij Aaron](./hipsease.svg)
 
 Hoeveel ruimte wil je aan je heupen?

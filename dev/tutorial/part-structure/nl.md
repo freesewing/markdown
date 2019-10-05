@@ -42,7 +42,7 @@ Dit is de boilerplate van de `draftBib`-methode. Het gebruikt het onderdeel als 
 
 <Note>
 
-Als JavaScript nieuw is voor jou, en je bent hier niet meteen intuïtief mee méé ... bijt dan gewoon even door. Het wordt al snel een tweede natuur.
+If you're new to JavaScript, and don't intuitively *get this*, stick with it. Het wordt al snel een tweede natuur.
 
 </Note>
 
@@ -57,18 +57,19 @@ let {
 } = part.shorthand();
 ```
 
-Dit is de **shorthand**-methode van FreeSewing. Het geeft een object terug met een hoop handige hulpmiddelen. Je gebruikt de *object destructuring* van JavaScript om alleen de elementen te krijgen die je nodig hebt.
+This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers and you use JavaScript's *object destructuring* to only get what you need.
 
 Het voorbeeld hierboven maakt de volgende variabelen beschikbaar:
 
-- `Point`: de Point constructor, die punten creëert
-- `points`: een verwijzing naar de punten van het onderdeel
-- `Path`: de Path constructor, die paden creëert
-- `paths`: een verwijzing naar de paden van het onderdeel
+ - `Point`: de Point constructor, die punten creëert
+ - `points`: een verwijzing naar de punten van het onderdeel
+ - `Path`: de Path constructor, die paden creëert
+ - `paths`: een verwijzing naar de paden van het onderdeel
 
 <Note>
 
-Dit wordt allemaal nog duidelijker. Maar als je nieuwsgierig bent, kan je al in de API-documenten gaan kijken voor meer details over [de Part.shorthand()-methode](/api/part#shorthand).
+This will all become clear, but if you're curious, the API docs have all the details 
+on [the Part.shorthand() method](/api/part#shorthand)
 
 </Note>
 
