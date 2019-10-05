@@ -1,9 +1,12 @@
+<Note>
 
-> #### Documentation under construction
-> First the good news: There's a video series that shows how to make Hugo from start to finish.
-> Scroll down, it's embedded in this page.
->
-> Now the bad news: The written instructions for Hugo are not complete yet.
+###### Documentation under construction
+First the good news: There's a video series that shows how to make Hugo from start to finish.
+Scroll down, it's embedded in this page.
+
+Now the bad news: The written instructions for Hugo are not complete yet.
+
+</Note>
 
 ## Video
 Text a bit dry for you? I try to make videos available as part of the pattern documentation.
@@ -11,57 +14,6 @@ Text a bit dry for you? I try to make videos available as part of the pattern do
 This 6-episode series shows you how to make your hoodie start to finish:
 
 @[youtube](https://www.youtube.com/playlist?list=PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO)
-
-## What you need
-
-To make Hugo, you will need the following:
-
-- Basic sewing supplies
-- About 2 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- Ribbing fabric for the hem and cuffs
-
-## Fabric options
-
-You may find a dedicated sweatshirt/tracksuit fabric section in your fabric store of choice. If you don't, just head for the knitwear section and look for a thicker comfortable knit fabric.
-
-As far as fibers go, you can go all cotton, or opt for a poly or acryl cotton blend.
-
-Make sure to pay attention to the inside of the fabric. Sweatshirt fabrics come in loopback and brushed back. If you want that OMG-it-feels-so-soft-on-my-skin feeling, go for brushed.
-
-> You don't have to use sweatshirt fabric. Other options are available, from fashion-forward neoprene (aka scuba) to a more eyebrow-rising choice like crushed velour (aka velvet).
-> 
-> Or if you have given up on class, you could go for fleece.
-
-## Cutting
-
- - **Main fabric**
-   - Cut **1 front** on the fold
-   - Cut **1 back** on the fold
-   - Cut **2 sleeves**, good sides together
-   - Cut **1 pocket** on the fold
-   - Cut **2 pocket facing(s)**, good sides together
-   - Cut **4 Hood side(s)**, 2x2 good sides together
-   - Cut **2 hood center(s)**, good sides together
-   - Cut **1 neck binding**
- - **Ribbing**
-   - Cut **2 cuff(s)**
-   - Cut **1 waistband**
-
-### Caveats
-
-**sleeve** 
-  - There's a single notch at the front, and a double notch at the back. These notches match on the front and back parts respectively.
-**pocket facing** and **hood**
-  - Watch out for the grainlines on these parts
-
-Because Hugo's raglan sleeve also covers a portion of the back and front,
-the sleeve is the dominant feature of your draft.
-
-Below is a typical draft layout:
-
-![A typical Hugo draft](layout.svg)
-
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 

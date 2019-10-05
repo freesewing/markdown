@@ -1,4 +1,4 @@
-![The downward spread in the first quadrant of the sleevecap](./sleevecapq1spread1.svg)
+![The downward spread in the first quadrant of the sleevecap](./sleevecapq1downwardspread.svg)
 
 This option controls the downward spread in the first quadrant of the sleevecap.
 
