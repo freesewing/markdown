@@ -17,7 +17,7 @@ There are 3 new patterns in this release:
  - [Waralee](/patterns/waralee) are wrap pants, also by [Wouter](/users/wouter.vdub)
  - [Simone](/pattern/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
 
-All of these patterns are either womenswear or, in the case of Waralee, unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
+All of these patterns are either womenswear or -- in the case of Waralee -- unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
 
 Apart from creating new patterns, a lot of efforts have gone into making things simpler, without making them dumber. Let me explain:
 
@@ -36,13 +36,32 @@ While we're certainly not there yet, we've made progress on both of these. Let's
 
 ### Pattern options: We now have an expert mode, and it's off by default
 
-(some of) Our patterns have had *advanced options* for a while, but they are now hidden by default. That is until you turn on the **Expert mde** in the settings (below the pattern options).
+(some of) Our patterns have had *advanced options* for a while, but they are now hidden by default. That is until you turn on the **Expert mode** in the settings (below the pattern options).
 
-Apart from advanced pattern options, export mode also reveals the lesser-user draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
+Apart from advanced pattern options, export mode also reveals the lesser-used draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
+
+![Advanced mode](recreate.png)
+
+<Note> 
+
+###### Also shown: Pattern vs Recipe defaults
+
+When configuring your draft, every option has a little button to restore the default value for that option.
+Things get more complicated when you're re-creating a recipe. Now when you restore the default, is it the pattern default, or the recipe's default?
+
+The answer used to be the pattern default, but with this release, you'll find that options where the recipe default is different from the pattern
+default will have two buttons. Once to restore the pattern default, and another to restore the recipe default. 
+
+You can see this in the screenshot above.
+
+</Note>
+
 
 ### Measurements: Helping you spot mistakes in your measurements
 
 We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
+
+^[A graphical representation of your model's measurements](model.png)
 
 In addition, we are showing you an estimate of your different measurements (based on your neck circumference) next to the actual value. If the difference gets larger, we'll draw your attention to that.
 
