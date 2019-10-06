@@ -61,7 +61,7 @@ You can see this in the screenshot above.
 
 We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
 
-^[A graphical representation of your model's measurements](model.png)
+![A graphical representation of your model's measurements](model.png)
 
 In addition, we are showing you an estimate of your different measurements (based on your neck circumference) next to the actual value. If the difference gets larger, we'll draw your attention to that.
 
