@@ -28,3 +28,5 @@ const myAaron = new Aaron()
 ```
 
 You should pass a second argument which holds key-value pairs of the attributes you want to add to the SVG tag.
+
+

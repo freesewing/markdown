@@ -1,8 +1,3 @@
----
-title: Hem curve
-pattern: simon
-option: hemCurve
----
 
 How much do you want the hem to curve upwards?
 

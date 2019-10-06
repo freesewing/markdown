@@ -4,7 +4,7 @@ caption: Your login background for October
 date: 2018-09-30T00:00:00.000Z
 img: leaves.jpg
 linktitle: Monthly roundup; September 2018 edition
-title: "Monthly roundup - September 2018: Shin, loads of JavaScript, and a long TODO\nlist"
+title: "Monthly roundup - September 2018: Shin, loads of JavaScript, and a long TODO list"
 ---
 
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
@@ -21,7 +21,7 @@ But not all, because between all the other stuff, I did find time to release the
 
 Also new are a bunch of showcases, which is always nice, including this Jaeger jacket by [Paul](/users/Tiger751023):
 
-![A Jaeger jacket by Paul](https://freesewing.org/img/showcase/linnen-jaeger-by-paul/high_showcase.jpg)
+![A Jaeger jacket by Paul](/showcase/linnen-jaeger-by-paul/showcase.jpg)
 
 If you're making our patterns, please don't hesitate to send in your pictures so we can add some more!
 
@@ -34,6 +34,7 @@ The opposite is true. I am working harder on this project than ever, but for now
 To try shine some light on what's going on, I have created [a long todo-list](https://github.com/freesewing/todo), so if you'd like to help out (or if you're just curious what we're up to) go ahead and have a look.
 
 Note that not all tasks are technical. We also need to pick pretty colors for the new patterns for example.
+
 
 ## Looking ahead to October
 

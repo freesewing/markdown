@@ -1,7 +1,2 @@
----
-title: Button placket width
-pattern: simon
-option: buttonPlacketWidth
----
 
-The width of your button placket.
+De breedte van het knopenpat.

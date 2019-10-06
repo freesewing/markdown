@@ -1,5 +1,5 @@
 ---
-title: Natural waist
+title: Natuurlijke taille
 ---
 
 The **natural waist** measurement is the circumference of your waist below your ribcage.

@@ -1,7 +1,4 @@
----
-title: Hips ease
-pattern: jaeger
-option: hipsEase
----
 
-The amount of ease at your hips.
+![Overwijdte heup](hipsease.svg)
+
+De hoeveelheid overwijdte aan je heupen.

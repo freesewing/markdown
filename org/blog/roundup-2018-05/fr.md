@@ -33,4 +33,4 @@ I can't — and won't — make any promises and expect other people to keep them
 
 I'm also thrilled that this translation work is turning out to be a good on-ramp for people with no prior experience as open source contributors. Not only that, but translators are now actually fixing small bugs left and right which is really terrific.
 
-Obviously there's a lot of work that remains to be done, so if you're still standing on the sidelines wondering whether this is something for you, don't be shy. [Stop by our chat room to say hello](https://gitter.im/freesewing/freesewing), we don't bite ☺️
+Obviously there's a lot of work that remains to be done, so if you're still standing on the sidelines wondering whether this is something for you, don't be shy. [Stop by our chat room to say hello](https://gitter.im/freesewing/chat), we don't bite ☺️

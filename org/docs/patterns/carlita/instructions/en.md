@@ -1,6 +1,3 @@
----
-title: Making Carlita
----
 
 ## Maker's notes
 

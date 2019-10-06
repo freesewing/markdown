@@ -1,9 +1,9 @@
 ---
-title: Setting up the development environment
+title: De development-omgeving opzetten
 order: 100
 ---
 
-Open a terminal and enter the following command:
+Open een terminal en voer de volgende opdracht in:
 
 ```bash
 npm init freesewing-pattern@beta
@@ -15,62 +15,65 @@ The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
 
 </Note>
 
-This will load a few dependencies, and then ask you the following questions:
+Deze opdracht laadt een aantal dependencies en stelt je dan de volgende vragen:
 
-- **Language**: Use the arrow keys to select the language of your choice
-- **Pattern name**: Enter `tutorial` 
-- **description**: Enter `The FreeSewing tutorial`
-- **Pattern type**: Use the arrow key to select `Pattern`
-- **Department**: Use the arrow keys to select `Accessories`
-- **Author**: Enter your GitHub username
-- **GitHub repository**: This will be prefilled for you, so just hit Enter
-- **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
+ - **Language**: Use the arrow keys to select the language of your choice
+ - **Pattern name**: Enter `tutorial`
+ - **description**: Enter `The FreeSewing tutorial`
+ - **Pattern type**: Use the arrow key to select `Pattern`
+ - **Department**: Use the arrow keys to select `Accessories`
+ - **Author**: Enter your GitHub username
+ - **GitHub repository**: This will be prefilled for you, so just hit Enter
+ - **Package manager**: Use the arrow to choose. Kies `NPM` als je het niet zeker weet.
 
-After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
+Nadat je deze vragen beantwoord hebt, wordt er een standaardtemplate gekopieerd. Daarna worden alle dependencies geïnstalleerd.
 
 <Note>
 
-This will take a few minutes because we're loading some software for your development environment.
+Dit duurt een paar minuten aangezien we software voor je development-omgeving aan het laden zijn. 
 
 </Note>
 
-When it's ready, you'll need to run two commands in parallel. In the current terminal, enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
+Als het klaar is, moet je twee opdrachten parallel invoeren. In de huidige terminal geef je de directory in die we net gemaakt hebben voor het `tutorial`-patroon en begin rollup in de volgmodus:
 
 ```bash
 cd tutorial
 npm run start
 ```
 
-Or if you chose to use Yarn as package manager:
+Of als je Yarn gekozen hebt als package manager:
 
 ```bash
 cd tutorial
 yarn start
 ```
 
-Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
+Open nu een tweede terminal en navigeer naar de subfolder `example`. Voer daar dezelfde opdracht in:
 
-<pre><code class="bash:">cd tutorial/example
+```bash:
+cd tutorial/example
 npm run start
-</code></pre>
+```
 
-Or if you chose to use Yarn as package manager:
+Of als je Yarn gekozen hebt als package manager:
 
 ```bash
 cd tutorial/example
 yarn start
 ```
 
-If all goes well, your browser will open and show the following landing page:
+Als alles goed gaat, gaat je browser nu open met de volgende landingspagina:
 
-![The FreeSewing development environment](./cfp.png)
+![De development-omgeving van FreeSewing](./cfp.png)
 
 <Note>
 
 ###### Using Windows?
 
-We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have a Windows machine I can test this on.
+We hebben dit getest op Linux en MacOS, maar nog niet op Windows.
 
-If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and we'll figure it out together.
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+we'll figure it out together.
 
 </Note>
+

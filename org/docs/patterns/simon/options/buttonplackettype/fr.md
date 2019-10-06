@@ -1,8 +1,3 @@
----
-title: Button placket type
-pattern: simon
-option: buttonPlacketType
----
 
 Do you want the button placket to be part of the right front pattern part (cut-on), or rather an individual part that you sew on (seperate)?
 
@@ -15,5 +10,5 @@ Do you want the button placket to be part of the right front pattern part (cut-o
 > #### Why pick grown on?
 > 
 > It's less work, and you can go for that seamless look.
-> 
+
 > It's worth pointing out that unlike the buttonhole placket, you cannot see the button placket when your shirt is closed all the way up.

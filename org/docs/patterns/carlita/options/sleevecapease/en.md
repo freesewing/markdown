@@ -1,8 +1,4 @@
----
-title: Sleevecap ease
-pattern: carlita
-option: sleevecapEase
----
+![Sleevecap ease](./sleevecapease.svg)
 
 How much sleevecap ease do you want?
 

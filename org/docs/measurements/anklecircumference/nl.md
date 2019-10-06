@@ -1,7 +1,7 @@
 ---
-title: Ankle circumference
+title: Omtrek Enkel
 ---
 
 The **ankle circumference** measurement goes around your ankle.
 
-To measure your ankle circumference, run the tape measure around your leg, just above your ankle.
+Om de omtrek van je enkel te meten wikkel je het meetlint om je been, net boven je enkel.

@@ -71,6 +71,7 @@ let class = paths.demo.attributes.get('class');
 // class now holds: "classA classB"
 ```
 
+
 ## getAsArray()
 
 ```js

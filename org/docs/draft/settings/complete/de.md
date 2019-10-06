@@ -11,3 +11,4 @@ This is useful particularly for people looking to use a laser cutter or other au
 If you're working with a complex pattern, this can also help (a bit) to keep re-rendering snappy.
 
 </Note>
+

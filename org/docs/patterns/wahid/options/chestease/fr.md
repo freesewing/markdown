@@ -1,8 +1,3 @@
----
-title: Chest ease
-pattern: wahid
-option: chestEase
----
 
 How much room do you want at the chest? In centimeter.
 

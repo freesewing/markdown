@@ -1,7 +1,4 @@
----
-title: Waist ease
-pattern: jaeger
-option: waistEase
----
+
+![Waist ease](waistease.svg)
 
 The amount of ease at your waist.

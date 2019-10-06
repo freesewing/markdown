@@ -1,9 +1,3 @@
----
-title: Back rise
-pattern: bruce
-option: backRise
----
-
 ![The back rise option on Bruce](./backrise.svg)
 
 How much extra rise do you want at the back?

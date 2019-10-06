@@ -1,7 +1,3 @@
----
-title: Biceps ease
-pattern: carlita
-option: bicepsEase
----
+![Biceps ease](./bicepsease.svg)
 
 The amount of ease at your upper arm.

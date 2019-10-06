@@ -21,9 +21,9 @@ With the migration demanding less of our time and attention, we've turned our at
 
 The pattern was designed by [@woutervdub](/users/woutervdub), it's his second pattern after he previously made [Benjamin](/patterns/benjamin).
 
-To make certain the release wouldn't go unnoticed, we asked freesewing's illustrator [Romy van der Hel](https://www.deviantart.com/romyvdhel-art) to drew an illustration for Penelope, and as always, she nailed it.
+To make certain the release wouldn't go unnoticed, we asked freesewing's illustrator [Roy van der Hel](https://www.deviantart.com/royvdhel-art) to drew an illustration for Penelope, and as always, he nailed it.
 
-![Fun fact: Romy van der Hel means: Romy from Hel, and that's her real name](penelope.jpg)
+![Fun fact: Roy van der Hel means: Roy from Hel, and that's his real name](penelope.jpg)
 
 Oh, and I'd almost forgot. The website is now available in German, so tell your German-speaking friends about it!
 

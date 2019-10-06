@@ -1,7 +1,3 @@
----
-title: Cuff ease
-pattern: carlita
-option: cuffEase
----
+![Cuff ease](./cuffease.svg)
 
 The amount of ease at your cuff/wrist.

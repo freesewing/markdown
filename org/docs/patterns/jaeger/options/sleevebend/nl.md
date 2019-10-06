@@ -1,7 +1,5 @@
----
-title: Sleeve bend
-pattern: jaeger
-option: sleeveBend
----
+
+![Mouw kromming](sleevebend.svg)
 
 The bend at the elbow of your sleeve.
+

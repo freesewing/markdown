@@ -1,7 +1,2 @@
----
-title: Back vent length
-pattern: penelope
-option: backVentLength
----
+This controls the length of the back vent as a percentage of the skirt length.
 
-Controls the length of the back vent. Lower numbers result in a shorter vent.

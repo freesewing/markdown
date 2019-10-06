@@ -1,7 +1,4 @@
----
-title: Waistband width
-pattern: sandy
-option: waistbandWidth
----
+
+![Waistband width](waistbandwidth.svg)
 
 The width of the waistband

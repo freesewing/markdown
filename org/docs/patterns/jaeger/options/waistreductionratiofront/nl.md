@@ -1,7 +1,4 @@
----
-title: Waist reduction ratio front
-pattern: jaeger
-option: waistReductionRatioFront
----
 
-Proportion of the waist to be reduced in the front dart. Will also impact side panel shaping.
+![Ratio reductie taille voorpand](waistreductionratiofront.svg)
+
+Proportion of the waist to be reduced in the front dart. Dit heeft ook invloed op de vorm van het zijpand.

@@ -1,8 +1,3 @@
----
-title: Chest ease
-pattern: aaron
-option: chestEase
----
 ![The chest ease option on Aaron](./chestease.svg)
 
 How much room do you want at the chest?

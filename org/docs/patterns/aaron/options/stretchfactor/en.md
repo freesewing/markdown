@@ -1,8 +1,3 @@
----
-title: Stretch
-pattern: aaron
-option: stretchFactor
----
 ![The stretch factor option on Aaron](./stretchfactor.svg)
 
 How much does your fabric stretch?  Choose 0% if your fabric does not stretch.

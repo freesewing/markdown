@@ -1,7 +1,4 @@
----
-title: Front pocket width
-pattern: jaeger
-option: frontPocketWidth
----
+
+![Breedte voorzak](frontpocketwidth.svg)
 
 The front of the chest pocket, as a factor of your chest circumference.

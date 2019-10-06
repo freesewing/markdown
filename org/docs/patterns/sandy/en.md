@@ -1,3 +1,0 @@
----
-title: Sandy circle skirt
----

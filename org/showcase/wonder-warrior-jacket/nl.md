@@ -1,11 +1,11 @@
 ---
 date: 2017-10-01
-title: A wonder woman themed jacket based on the Brian Body Block by Myxter Hyde
+title: Een wonder woman jasje gebaseerd op de Brian basisvorm, door Myxter Hyde
 img: showcase.jpg
-caption: This is the Wonder Warrior jacket, looking pretty great
+caption: Dit is het Wonder Warrior jasje, en het ziet er vrij fantastisch uit
 patterns:
   - brian
 author: 'JV Hampton-VanSant'
 ---
 
-This image was republished (with permission) from [the Twitter account](https://twitter.com/MyxterHyde/status/914274197345570816) of [@MyxterHyde](https://twitter.com/MyxterHyde)
+Deze afbeelding is hier (met toestemming) gepubliceerd en verscheen eerst op de [Twitter account](https://twitter.com/MyxterHyde/status/914274197345570816) van [@MyxterHyde](https://twitter.com/MyxterHyde)

@@ -1,8 +1,3 @@
----
-title: Elastic width
-pattern: shin
-option: elasticWidth
----
 
 > #### What's the point?
 > 

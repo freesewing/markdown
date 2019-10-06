@@ -1,7 +1,4 @@
----
-title: Sleevecap height factor
-pattern: jaeger
-option: sleevecapHeightFactor
----
+
+![Sleevecap height factor](sleevecapheightfactor.svg)
 
 This factor controls the height of the sleevecap.

@@ -1,8 +1,3 @@
----
-title: Rise
-pattern: shin
-option: rise
----
 
 This option controls the overal height of the waist.
 

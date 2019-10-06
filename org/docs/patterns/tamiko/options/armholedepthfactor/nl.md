@@ -1,7 +1,2 @@
----
-title: Armhole depth factor
-pattern: tamiko
-option: armholeDepthFactor
----
 
-Controls the depth of your armhole, as a factor of your shoulder to shoulder measurement.
+Geeft controle over de diepte van je armsgat, als een factor van je schouder tot schouder maat.

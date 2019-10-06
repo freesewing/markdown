@@ -1,9 +1,3 @@
----
-title: Cuff ease
-pattern: brian
-option: cuffEase
----
+![De factor voor overwijdte pols bij Brian](./cuffease.svg)
 
-![The cuff ease factor on Brian](./cuffease.svg)
-
-This option controls the ease at your wrist.
+Deze optie bepaalt de hoeveelheid overwijdte aan je pols.

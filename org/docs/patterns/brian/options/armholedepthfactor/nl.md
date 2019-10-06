@@ -1,9 +1,3 @@
----
-title: Armhole depth factor
-pattern: brian
-option: armholeDepthFactor
----
+![De factor armsgatdiepte bij Brian](./armholedepthfactor.svg)
 
-![The armhole depth factor on Brian](./armholedepthfactor.svg)
-
-This option controls the depth of the armhole.
+Deze optie bepaalt de diepte van het armsgat.

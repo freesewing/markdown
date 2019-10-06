@@ -1,7 +1,4 @@
----
-title: Roll line collar height
-pattern: jaeger
-option: rollLineCollarHeight
----
+
+![Roll line collar height](rolllinecollarheight.svg)
 
 The amount by which the roll line hugs the neck.

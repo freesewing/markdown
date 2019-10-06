@@ -23,11 +23,11 @@ In other words, we wanted to reach people who speak different languages, and wan
 
 We've done remarkably well on this front. While you won't find every last bit of content translated, this website's main features are now available in five languages:
 
-- English
-- German
-- Spanish
-- French
-- Dutch
+ - English
+ - German
+ - Spanish
+ - French
+ - Dutch
 
 Which really is 100% thanks to the great work of [our wonderful translators](/i18n/).
 
@@ -59,9 +59,10 @@ Which is good news, in case you were wondering.
 
 A lot of work needs to be done before we can actually use this on freesewing.org:
 
-- All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
-- Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
-- Build a new website using the freesewing library and our new data back-end.
+
+ - All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
+ - Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
+ - Build a new website using the freesewing library and our new data back-end.
 
 This really is a lot of work, and while I hope that by the end of the year we'll have made good progress, I can't promise it will be done.
 

@@ -1,5 +1,4 @@
 ---
-title: Patterns
+title: Patronen
 ---
 
-Documentation on the FreeSewing patterns:

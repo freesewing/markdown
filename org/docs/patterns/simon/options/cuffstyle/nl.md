@@ -1,14 +1,9 @@
----
-title: Cuff style
-pattern: simon
-option: cuffStyle
----
 
-What style of cuff do you want?
+Wat voor manchet wil je?
 
-- Rounded barrel cuff
-- Chamfer barrel cuff
-- Straight barrel cuff
-- Rounded French cuff
-- Chamfer French cuff
-- Straight French cuff
+ - Afgeronde klassieke manchet
+ - Chamfer barrel cuff
+ - Rechte klassieke manchet
+ - Afgeronde Franse manchet
+ - Chamfer French cuff
+ - Rechte Franse manchet

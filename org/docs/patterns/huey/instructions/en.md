@@ -1,6 +1,3 @@
----
-title: Making Huey
----
 
 > ##### Huey is currently in beta, documentation is missing
 >

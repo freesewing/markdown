@@ -1,9 +1,3 @@
----
-title: Waist reduction
-pattern: cathrin
-option: waistReduction
----
+![De optie voor reductie taille bij Cathrin](./waistreduction.svg)
 
-![The waist reduction option on Cathrin](./waistreduction.svg)
-
-The amount you want the corset to be smaller than your natural waist. In other words, how much do you want it to squeeze you.
+Hoeveel kleiner je wil dat het korset is dan je natuurlijke tailleomtrek. In andere woorden, hoe hard wil je dat het korset je samenknijpt.

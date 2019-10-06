@@ -1,8 +1,4 @@
----
-title: Hem style
-pattern: simon
-option: hemStyle
----
+![Hem style](hemstyle.svg)
 
 What style of hem line do you want?
 

@@ -1,14 +1,8 @@
----
-title: Bow style
-pattern: benjamin
-option: bowStyle
----
+Vier verschillende stijlen van vlinderdas!
 
-Four different bow tie styles!
+De Benjamin kan op vier manieren gestrikt worden.
 
-The benjamin allows you to make four different bow ties.
-
-- Contemporary Diamond
-- Traditional Butterfly
-- Classic Square
-- Whimsical Wide Square
+ - Hedendaagse diamant
+ - Traditionele vinder
+ - Klassiek vierkant
+ - Speels wijd vierkant

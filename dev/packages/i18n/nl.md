@@ -9,3 +9,4 @@ These are the translations for FreeSewing's websites and patterns.
 FIXME: Documentation is missing
 
 </Warning>
+

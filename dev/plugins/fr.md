@@ -7,21 +7,22 @@ Plugins allow you to extend freesewing beyond the basic functionality.
 
 The following plugins are available from FreeSewing:
 
-- [plugin-bundle](/plugins/bundle): Bundles the most common build-time plugins
-- [plugin-bust](/plugins/bust): A plugin to help you adapt menswear patterns for breasts
-- [plugin-buttons](/plugins): Adds the `button` and `buttonhole` snippets. Part of [plugin-bundle](/plugins/bundle)
-- [plugin-cutonfold](/plugins): Adds the `cutunfold` macro.
-- [plugin-dimension](/plugins): Adds various dimension macros.
-- [plugin-flip](/plugins): Adds the `flip` macro
-- [plugin-grainline](/plugins): Adds the `grainline` macro
-- [plugin-i18n](/plugins): Provides translation
-- [plugin-logo](/plugins): Adds the `logo` snippet
-- [plugin-round](/plugins): Adds the `round` macro
-- [plugin-scalebox](/plugins): Adds the `scalebox` macro
-- [plugin-sprinkle](/plugins): Allows bulk-adding of snippets
-- [plugin-svgattr](/plugins): A plugin to set SVG attributes
-- [plugin-theme](/plugins): Provides CSS styles for SVG
-- [plugin-title](/plugins): Adds the `title` macro
+  - [plugin-bundle](/plugins/bundle): Bundles the most common build-time plugins
+  - [plugin-bust](/plugins/bust): A plugin to help you adapt menswear patterns for breasts
+  - [plugin-buttons](/plugins): Adds the `button` and `buttonhole` snippets. Part of [plugin-bundle](/plugins/bundle)
+  - [plugin-cutonfold](/plugins): Adds the `cutunfold` macro.
+  - [plugin-dimension](/plugins): Adds various dimension macros.
+  - [plugin-flip](/plugins): Adds the `flip` macro
+  - [plugin-grainline](/plugins): Adds the `grainline` macro
+  - [plugin-i18n](/plugins): Provides translation
+  - [plugin-logo](/plugins): Adds the `logo` snippet
+  - [plugin-round](/plugins): Adds the `round` macro
+  - [plugin-scalebox](/plugins): Adds the `scalebox` macro
+  - [plugin-sprinkle](/plugins): Allows bulk-adding of snippets
+  - [plugin-svgattr](/plugins): A plugin to set SVG attributes
+  - [plugin-theme](/plugins): Provides CSS styles for SVG
+  - [plugin-title](/plugins): Adds the `title` macro
+
 
 If you can't find what you're looking for, you can write your own plugin.
 
@@ -29,8 +30,8 @@ If you can't find what you're looking for, you can write your own plugin.
 
 Plugins can do two things:
 
-- They can use hooks 
-- They can provide macros
+ - They can use hooks
+ - They can provide macros
 
 Your plugin should export an object with the following structure:
 
@@ -49,18 +50,18 @@ The `name` and `version` attributes are self-explanatory. But `hooks` and `macro
 
 A **hook** is a lifecycle event. The available hooks are:
 
-- [preRender](#prerender): Called at the start of [`Pattern.render()`](/api/pattern#render)
-- [postRender](#postrender): Called at the end of [`Pattern.render()`](/api/pattern#render)
-- [insertText](#inserttext): Called when inserting text
-- [preDraft](#predraft): Called at the start of [`Pattern.draft()`](/api/pattern#draft)
-- [postDraft](#postdraft): Called at the end of [`Pattern.draft()`](/api/pattern#draft)
-- [preSample](#presample): Called at the start of [`Pattern.sample()`](/api/pattern#sample)
-- [postSample](#postsample): Called at the end of [`Pattern.sample()`](/api/pattern#sample)
+ -  [preRender](#prerender): Called at the start of [`Pattern.render()`](/api/pattern#render)
+ -  [postRender](#postrender): Called at the end of [`Pattern.render()`](/api/pattern#render)
+ -  [insertText](#inserttext): Called when inserting text
+ -  [preDraft](#predraft): Called at the start of [`Pattern.draft()`](/api/pattern#draft)
+ -  [postDraft](#postdraft): Called at the end of [`Pattern.draft()`](/api/pattern#draft)
+ -  [preSample](#presample): Called at the start of [`Pattern.sample()`](/api/pattern#sample)
+ -  [postSample](#postsample): Called at the end of [`Pattern.sample()`](/api/pattern#sample)
 
 You can register a method for a hook. When the hook is triggered, your method will be called. It will receive two parameters:
 
-- An object relevant to the hook (see below for details)
-- Data passed when the hook was registered (optional)
+ - An object relevant to the hook (see below for details)
+ - Data passed when the hook was registered (optional)
 
 ### preRender
 
@@ -88,8 +89,8 @@ The `insertText` hook is called when text is about to be inserted during renderi
 
 Methods attached to the `insertText` hook will receive 2 parameters:
 
-- `locale` : The language code of the language requested by the user (defaults to `en`)
-- `text`: The text to be inserted
+ - `locale` : The language code of the language requested by the user (defaults to `en`)
+ - `text`: The text to be inserted
 
 Unlike most hooks that receive an object that you can make changes to, for this hook you need to return a string.
 
@@ -99,10 +100,11 @@ This hook is typically used for translation, as is the case in [our i18n plugin]
 
 ###### Understanding the insertText hook
 
-When we say that *this hook is called when text is about to be inserted*, that is a simplified view. In reality, this hook is called:
+When we say that *this hook is called when text is about to be inserted*, that is a simplified view.
+In reality, this hook is called:
 
-- For every value set on data-text
-- For the combined result of these values, joined together with spaces
+ - For every value set on data-text
+ - For the combined result of these values, joined together with spaces
 
 Let's use an example to clarify things:
 
@@ -114,15 +116,17 @@ points.example
 
 For the example point above, the `insertText` hook will end up being called 3 times:
 
-- First it will pass `Seam allowance` to the plugin
-- Then it will pass `: 1cm` to the plugin
-- Finally it will pass `Seam allowance : 1cm` to the plugin
+ - First it will pass `Seam allowance` to the plugin
+ - Then it will pass `: 1cm` to the plugin
+ - Finally it will pass `Seam allowance : 1cm` to the plugin
 
-Having the `insertText` hook only run once with `Seam allowance: 1cm` would be problematic because the seam allowance may differ, or perhaps we're using imperial units, and so on.
+Having the `insertText` hook only run once with `Seam allowance: 1cm` would be problematic because
+the seam allowance may differ, or perhaps we're using imperial units, and so on.
 
 Instead, you can (and should) divide your text into chunks that need translating, and chunks that do not.
 
-This is also why we're not inserting **Seam allowance** but rather **seamAllowance**; It is merely a key to indicate what translation we want to replace this text with.
+This is also why we're not inserting **Seam allowance** but rather **seamAllowance**; 
+It is merely a key to indicate what translation we want to replace this text with.
 
 </Note>
 
@@ -130,7 +134,7 @@ This is also why we're not inserting **Seam allowance** but rather **seamAllowan
 
 The `preDraft` hook runs just before your pattern is drafted.
 
-Your plugin will receive the Pattern object.
+Your plugin will receive the Pattern object. 
 
 <Note>
 
@@ -142,7 +146,7 @@ The `preDraft` hook is rarely used.
 
 The `preDraft` hook runs just after your pattern is drafted.
 
-Your plugin will receive the Pattern object.
+Your plugin will receive the Pattern object. 
 
 <Note>
 
@@ -154,13 +158,14 @@ The `postDraft` hook is rarely used.
 
 The `preSample` hook runs just before your pattern is sampled.
 
+
 It is triggered at the very start of either:
 
-- the [Pattern.sampleOption()](/en/docs/developer/api/pattern/#patternsampleoption) method
-- the [Pattern.sampleMeasurement()](/en/docs/developer/api/pattern/#patternsamplemeasurement) method
-- the [Pattern.sampleModels()](/en/docs/developer/api/pattern/#patternsamplemodels) method
+ - the [Pattern.sampleOption()](/en/docs/developer/api/pattern/#patternsampleoption) method
+ - the [Pattern.sampleMeasurement()](/en/docs/developer/api/pattern/#patternsamplemeasurement) method
+ - the [Pattern.sampleModels()](/en/docs/developer/api/pattern/#patternsamplemodels) method
 
-Your plugin will receive the Pattern object.
+Your plugin will receive the Pattern object. 
 
 <Note>
 
@@ -174,9 +179,9 @@ The `postSample` hook runs just after your pattern is sampled. Your plugin will 
 
 It is triggered just before the end of either:
 
-- the [Pattern.sampleOption()](/en/docs/developer/api/pattern/#patternsampleoption) method
-- the [Pattern.sampleMeasurement()](/en/docs/developer/api/pattern/#patternsamplemeasurement) method
-- the [Pattern.sampleModels()](/en/docs/developer/api/pattern/#patternsamplemodels) method
+ - the [Pattern.sampleOption()](/en/docs/developer/api/pattern/#patternsampleoption) method
+ - the [Pattern.sampleMeasurement()](/en/docs/developer/api/pattern/#patternsamplemeasurement) method
+ - the [Pattern.sampleModels()](/en/docs/developer/api/pattern/#patternsamplemodels) method
 
 <Note>
 
@@ -190,10 +195,10 @@ For each hook, your plugin should provide a method that takes the relevant data 
 
 Remember that:
 
-- The `insertText` hook will receive a locale and string and you should return a string.
-- All other hooks receive an object. You don't need to return anything, but rather modify the object you receive.
+ - The `insertText` hook will receive a locale and string and you should return a string.
+ - All other hooks receive an object. You don't need to return anything, but rather modify the object you receive.
 
-Let's look at an example:
+Regardons un exemple :
 
 ```js
 import myStyle from './style';
@@ -220,18 +225,21 @@ export default {
 
 This is a complete plugin, ready to be published on NPM. It uses two hooks:
 
-- `preRender` : We add some style and defs to our SVG
-- `insertText` : We transfer all text to UPPERCASE
+ - `preRender` : We add some style and defs to our SVG
+ - `insertText` : We transfer all text to UPPERCASE
 
 <Note>
 
 ###### Note that we avoid running our hook twice
 
-As you can see, the last thing we do in the `preRender` hook is set an attribute on the SVG tag with the name and version of our plugin.
+As you can see, the last thing we do in the `preRender` hook is set an attribute on
+the SVG tag with the name and version of our plugin.
 
-We check for this attribute when the `preRender` hook runs, thereby avoiding that our styles and defs will be added twice.
+We check for this attribute when the `preRender` hook runs, thereby avoiding that
+our styles and defs will be added twice.
 
-It is good practice to wrap you hook methods in a call like this, because you have no guarantee the user won't render your pattern more than once.
+It is good practice to wrap you hook methods in a call like this, because you have 
+no guarantee the user won't render your pattern more than once.
 
 </Note>
 
@@ -262,8 +270,8 @@ export default {
 
 Plugin structure for macros is similar, with a few changes:
 
-- Rather than the hook name, you provide the macro name (that you choose yourself)
-- The context (`this`) of a macro method is **always** a [Part](/api/part) object.
+ - Rather than the hook name, you provide the macro name (that you choose yourself)
+ - The context (`this`) of a macro method is **always** a [Part](/api/part) object.
 
 Apart from these, the structure is very similar:
 
@@ -310,7 +318,8 @@ Obviously, you can expect to learn how to call a macro in its documentation, rat
 
 ###### Macros take only 1 argument
 
-When writing a macro, keep in mind that all information that needs to be passed to a macro needs to be contained in a single argument.
+When writing a macro, keep in mind that all information that needs to be passed
+to a macro needs to be contained in a single argument.
 
 Typically, you use a single plain object to configure the macro.
 
@@ -320,8 +329,8 @@ Typically, you use a single plain object to configure the macro.
 
 Plugins come in two flavours:
 
-- Build-time plugins
-- Run-time plugins
+ - Build-time plugins
+ - Run-time plugins
 
 When writing a plugin, ask yourself whether it's a run-time or a build-time plugin. And if the answer is both, please split them into two plugins.
 

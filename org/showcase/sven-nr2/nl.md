@@ -1,8 +1,8 @@
 ---
 date: 2017-02-18
-title: The world's most boring sweater, perfect for the office
+title: De saaiste trui ter wereld, perfect voor op kantoor
 img: showcase.jpg
-caption: This fabric has wool in it a is super warm.
+caption: Deze stof bevat wol en is super warm.
 patterns:
   - sven
 author: joost

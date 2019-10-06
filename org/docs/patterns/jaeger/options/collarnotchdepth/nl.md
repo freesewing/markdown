@@ -1,7 +1,4 @@
----
-title: Collar notch depth
-pattern: jaeger
-option: collarNotchDepth
----
+
+![Diepte inkeping kraag](collarnotchdepth.svg)
 
 Depth of the collar notch.

@@ -1,11 +1,11 @@
 ---
 date: 2018-12-19
-title: Bruces by Paul
+title: Bruce door Paul
 img: showcase.jpg
-caption: "A few bruces to use up left over textile from t-shirts and dresses"
+caption: "Een paar exemplaren van Bruce om resten stof van t-shirts en jurken op te gebruiken"
 patterns:
   - bruce
 author: Tiger751023
 ---
 
-![View of the back](back.jpg)
+![Zicht op de achterkant](back.jpg)

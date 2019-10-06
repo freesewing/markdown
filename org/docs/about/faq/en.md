@@ -55,6 +55,12 @@ You can be a patron for as little as 2 euro per month. So why not
 
 </Note>
 
+## Can I use FreeSewing patterns for commercial purposes?
+
+Yes you can. Open Source is a development model, not a business model.
+
+If our work can help you put food on the table, by all means take it.
+
 ## What's your end game?
 
 We would like freesewing.org to become the WikiPedia of sewing patterns.  

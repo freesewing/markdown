@@ -1,13 +1,7 @@
----
-title: Elastic width
-pattern: bruce
-option: elasticWidth
----
+![De optie voor breedte elastiek bij Bruce](./elasticwidth.svg)
 
-![The elastic width option on Bruce](./elasticwidth.svg)
-
-> #### What's the point?
+> #### Waarom?
 > 
 > This option is closely linked to the **rise** option that determines how high your boxers will rise on your waist.
 > 
-> However, the width of your elastic is also a factor to take into account, so that's where this option comes in.
+> De breedte van je elastiek heeft hier echter ook invloed op, en daarom is deze optie van belang.

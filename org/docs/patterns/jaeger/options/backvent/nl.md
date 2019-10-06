@@ -1,11 +1,9 @@
----
-title: Back vent
-pattern: jaeger
-option: backVent
----
+
+![Rugsplit](backvent.svg)
 
 How do you like your back vents?
 
-- Two back vents (shown on the left)
-- One central back vent (shown in the middle)
-- No back vents (shown on the right)
+ - Twee rugsplitten (zoals links)
+ - Eén rugsplit in het midden (zoals in het midden)
+ - Geen rugsplitten (zoals rechts)
+

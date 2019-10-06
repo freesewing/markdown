@@ -38,7 +38,6 @@ For a more detailed description, please refer to [the core 1.8 release blog post
 Last month we [outlined our GDPR battle plan](/blog/gdpr-plan/) and shortly afterwards I made a decision: Rather than implement all these changes in the site, I would start over from scratch.
 
 Or rather, I've given myself until the end of April to work on this. At which time I will need to decide whether it's possible to migrate the entire site before GDPR doomsday (May 25th) or should I abandon this effort and do what needs to be done in the current site.
-
 > Rather than implement all these changes in the site, I would start over from scratch.
 
 I like the first scenario better and have been working on it pretty much day and (part of the) night during the last couple of weeks.
@@ -60,3 +59,5 @@ Now I'm hopeful that I'll be able to take care of the technical aspects of makin
 > #### If you're willing to help with the effort of translating freesewing, please [get in touch](/contact). We need your help.
 
 It would also help if you could spread the word a bit :)
+
+

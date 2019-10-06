@@ -1,7 +1,3 @@
----
-title: Button placket width
-pattern: simon
-option: buttonPlacketWidth
----
+![Button placket width](buttonplacketwidth.svg)
 
 The width of your button placket.

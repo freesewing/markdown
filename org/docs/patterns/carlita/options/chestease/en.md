@@ -1,7 +1,3 @@
----
-title: Chest ease
-pattern: carlita
-option: chestEase
----
+![Chest ease](./chestease.svg)
 
 The amount of ease at your chest.

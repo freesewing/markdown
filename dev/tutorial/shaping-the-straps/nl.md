@@ -1,13 +1,15 @@
 ---
-title: Shaping the straps
+title: De bandjes vormgeven
 order: 200
 ---
 
-Our straps should follow the neck opening, which isn't that hard to do. We just need to keep the control points of our curves at similar proportions. Which means, halfway between the start of the curve, and the corner of our rectangle.
+De bandjes van het slabbetje moeten de halsopening volgen. Dat is niet zo moeilijk. We moeten alleen maar de controlepunten van de curves op vergelijkbare proporties behouden. Dus halverwege het begin van de curve, en aan de hoek van onze rechthoek.
 
 <Note>
 
-For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`. As always, [the API docs](/api/point) have all the details.
+For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
+used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
+As always, [the API docs](/api/point) have all the details.
 
 </Note>
 
@@ -25,7 +27,7 @@ points.edgeTopLeftCp = points.edgeTop.shiftFractionTowards(
 points.edgeTopRightCp = points.edgeTopLeftCp.flipX();
 ```
 
-Now, adapt our `rect` path so it's no longer a rectangle:
+Pas nu het `rect`-pad aan zodat het geen rechthoek meer is:
 
 ```js
 paths.rect = new Path()
@@ -38,6 +40,7 @@ paths.rect = new Path()
   .close();
 ```
 
-All of a sudden, things are starting to look like a bib:
+Plots begint het er echt als een slabbetje uit te zien:
 
 <Example pattern="tutorial" part="step6" caption="Pretty good, but how are we going to fit it over the baby's head?" />
+

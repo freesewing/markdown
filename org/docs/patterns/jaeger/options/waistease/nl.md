@@ -1,7 +1,4 @@
----
-title: Waist ease
-pattern: jaeger
-option: waistEase
----
 
-The amount of ease at your waist.
+![Overwijdte taille](waistease.svg)
+
+De hoeveelheid overwijdte aan je taille.

@@ -1,7 +1,2 @@
----
-title: Seat ease
-pattern: penelope
-option: seatEase
----
+Amount of ease around the fullest part of your bum.
 
-The amount of ease at your seat.

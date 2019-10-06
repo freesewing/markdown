@@ -1,7 +1,4 @@
----
-title: Sleevecap height factor
-pattern: jaeger
-option: sleevecapHeightFactor
----
 
-This factor controls the height of the sleevecap.
+![Factor hoogte mouwkop](sleevecapheightfactor.svg)
+
+Deze factor bepaalt de hoogte van de mouwkop.

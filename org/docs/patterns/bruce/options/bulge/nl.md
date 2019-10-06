@@ -1,13 +1,7 @@
----
-title: Bulge
-pattern: bruce
-option: bulge
----
+![De optie voor kruisstuk bij Bruce](./bulge.svg)
 
-![The bulge option on Bruce](./bulge.svg)
+Hoeveel ruimte wil je in het kruis vooraan?
 
-How much room do you want in the front pouch?
-
-This option will increase the front dart, thereby creating more room in the front.
+Deze optie maakt de voorste neep meer uitgesproken, en creëert zo meer ruimte vooraan.
 
 > If it's vertical room you're looking for, that's what the **rise** option does

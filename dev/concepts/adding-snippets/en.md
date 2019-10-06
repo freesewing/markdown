@@ -26,14 +26,4 @@ See [Using attributes](/concepts/attributes) for details on how to set attribute
 
 Below is an example of the available snippets, and the use of the `data-scale` and `data-rotate` attributes:
 
-<Example
-  pattern="rendertest"
-  caption="Overview of available snippets"
-  options={{
-    colors: false,
-    text: false,
-    macros: false,
-    circles: false,
-    widthHd: false
-  }}
-/>
+<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: false, macros: false, circles: false, widthHd: false }} />

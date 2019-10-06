@@ -22,13 +22,14 @@ export default function(part) {
 }
 ```
 
-Jusqu'à présent, nous en sommes restés à la zone *// Design pattern here* (concevoir le patron ici), mais maintenant nous allons travailler sur la zone sous-jacente *// Complete?* (compléter ?)
+So far, we've kept to the *// Design pattern here* area, but now we're going to work on the area under *// Complete?* 
 
 <Note>
 
-###### L'intérêt des patrons (non) complétés
+###### The point of (non) complete patterns
 
-Les utilisateurs peuvent régler le réglage `complete` sur `false`. Lorsque c'est le cas, vous devriez ébaucher un contour de base du patron, plutôt qu'un patron totalement détaillé.
+Users can set the `complete` setting to `false`. When that's the case, you
+should draft a base outline of the pattern, rather than a fully detailed pattern.i
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
@@ -104,7 +105,7 @@ Notre bavoir n'utilise pas de marge de couture. Nous allons employer du biais po
 
 Toutefois, pour de futures références, `sa` (pour seam allowance) est la variable que vous pouvez obtenir de `part.shorthand()` tout comme `complete`. Mais au lieu des valeurs `true` ou `false`, elle contiendra la quantité de marge de couture en mm.
 
-Notez que vous pouvez toujours écrire `if (sa)` parce qu'une valeur nulle est équivalente à un *false*.
+Note that you can still do `if (sa)` because zero is *falsy*.
 
 Nous n'ajouterons pas de marge de couture, mais nous allons faire quelque chose qui s'en rapproche dans l'absolu. Plutôt que de dessiner un contour hors de notre bavoir pour indiquer la marge de couture, nous allons en dessiner un au sein de notre bavoir pour signifier le ruban de biais :
 
@@ -144,8 +145,9 @@ points.scalebox = points.title.shift(-90, 55);
 macro("scalebox", { at: points.scalebox });
 ```
 
-Et avec ça, notre patron est maintenant *complet* :
+And with that, our pattern is now *complete*:
 
 <Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
 
-Nous n'avons pas tout à fait terminé cependant. Il y a une chose supplémentaire que l'utilisateur peut demander : un patron *sans papier*.
+Nous n'avons pas tout à fait terminé cependant. There's one more thing the user can ask for: a *paperless* pattern.
+

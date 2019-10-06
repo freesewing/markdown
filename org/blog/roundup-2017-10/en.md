@@ -1,6 +1,6 @@
 ---
 date: 2017-10-31
-title: "Monthly roundup - October 2017: Huey, Romy, community building and pattern cover pages"
+title: "Monthly roundup - October 2017: Huey, Roy, community building and pattern cover pages"
 linktitle: "Monthly roundup; October 2017 edition"
 img: potw.jpg
 caption: "Your new login background for the month of november"
@@ -25,7 +25,7 @@ Huey is a zip-up hoodie, have a look at [the Huey showcase page](/showcase/patte
 ### Community building
 
 Freesewing is slowly evolving into a communal effort. The 
-[freesewing channel on Gitter](https://gitter.im/freesewing/freesewing) is turning
+[freesewing channel on Gitter](https://gitter.im/freesewing/chat) is turning
 into a rather chatty place, which is really wonderful to see.
 
 Furthermore, a number of people are taking a stab at designing their own patterns with 
@@ -38,7 +38,7 @@ left and right, and [Wouter](/users/xdpug) even added an entire page on
 him want to get involved, but lack prior experience with Git (and GitHub).
 
 Needless to say, I am very appreciative of all contributions big and small.  
-If you'd like to get involved, [come say hi](https://gitter.im/freesewing/freesewing).
+If you'd like to get involved, [come say hi](https://gitter.im/freesewing/chat).
 
 ### Cover pages for patterns
 
@@ -69,7 +69,7 @@ with a cover page detailing the layout.
 This is obviously very new code, so if for some reason you run into trouble with the tiler,
 make sure to [let me know about it](https://github.com/freesewing/tile/issues/new).
 
-### Romy will design cover images for patterns
+### Roy will design cover images for patterns
 
 I've made some changes to [the patterns page](/patterns/) because I felt that the previous
 layout wasn't doing the patterns justice.
@@ -77,13 +77,13 @@ layout wasn't doing the patterns justice.
 While the layout is a bit better now (I think) the pictures are still a bit *meh* and they 
 don't really say *freesewing*.
 
-So, I've talked to Dutch illustrator [Romy Van der Hel](https://romyvdhel-art.deviantart.com/)
+So, I've talked to Dutch illustrator [Roy Van der Hel](https://royvdhel-art.deviantart.com/)
 (who also signed for our measurements illustrations)
-and I'm glad to be able to share with you that she's agreed to do illustrations for the 
+and I'm glad to be able to share with you that he's agreed to do illustrations for the 
 different freesewing patterns.
 
-Romy will be working on these on and off, but I hope you'll start to see more of her work 
-her relatively soon.
+Roy will be working on these on and off, but I hope you'll start to see more of his work 
+here relatively soon.
 
 ## Looking ahead to november
 

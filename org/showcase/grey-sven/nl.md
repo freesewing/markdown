@@ -1,13 +1,13 @@
 ---
 date: 2018-02-05
-title: Sven in grey terry A grey terry Sven
+title: Sven in grijze terry
 img: sven.jpg
-caption: Ksenia made this Sven for her man.
+caption: Ksenia maakte deze Sven voor haar (s)vent.
 patterns:
   - sven
 author: Ksenia
 ---
 
-[This image](https://www.instagram.com/p/BehvZ1fj4yo/) is from [the Instagram feed of Ksenia](https://www.instagram.com/owl.laughing/).
+[Deze afbeelding](https://www.instagram.com/p/BehvZ1fj4yo/) komt van [de Instagram feed van Ksenia](https://www.instagram.com/owl.laughing/).
 
-It is published here with permission.
+Ze werd hier gepost met toestemming.

@@ -1,7 +1,4 @@
----
-title: Hem width
-pattern: sandy
-option: hemWidth
----
+
+![Hem width](hemwidth.svg)
 
 The width of the hem.

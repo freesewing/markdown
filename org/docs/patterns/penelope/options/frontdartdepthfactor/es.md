@@ -1,7 +1,2 @@
----
-title: Front dart depth factor
-pattern: penelope
-option: frontdartdepthfactor
----
+How far down does the front dart go from the waistband. This is a factor of the natural waist To seat measurement.
 
-The depth of the front dart as a percentage of the Waist to Hip measurement

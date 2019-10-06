@@ -1,8 +1,8 @@
 ---
 date: 2018-09-29
-title: Huey by Paul
+title: Huey door Paul
 img: showcase.jpg
-caption: "Cotton hoodie with contrasting lining by Paul"
+caption: "Katoenen hoodie met contrasterende voering door Paul"
 patterns:
   - huey
 author: Tiger751023

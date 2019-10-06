@@ -14,7 +14,6 @@ But I'm also realistic, and understand that you don't have time to plow through 
 So instead, here's a story to give you the essence of freesewing in a nutshell:
 
 ## The freesewing origin story
-
 Sewing is easy. It really is. What's hard is getting things to fit properly. That's why you use a sewing pattern. It's a blueprint for whatever it is you are making. A good pattern gives you good fit. Most patterns don't.
 
 That's because &mdash; much like clothes in the shop &mdash; patterns come in sizes. And sizes are a crude way to put people in boxes. They are made for an imaginary average person, rather than for you.
@@ -34,7 +33,6 @@ Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's no
 joost
 
 ## Shout-outs
-
 Freesewing is a project by [Joost De Cock](https://github.com/joostdecock) and contributors.
 
 Hat-tip to [@jakesgordon](https://github.com/jakesgordon) and [Kevin Lindsey](http://www.kevlindev.com) for allowing me to port some of their code.

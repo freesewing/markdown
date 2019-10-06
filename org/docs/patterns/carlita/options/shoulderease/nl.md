@@ -1,7 +1,2 @@
----
-title: Shoulder ease
-pattern: carlita
-option: shoulderEase
----
 
-The amount of ease at your shoulders. This is an option specific to coats/overwear to allow room for garments worn under the coat.
+De hoeveelheid overwijdte aan je schouders. Dit is een specifieke optie voor jassen/buitenkleding om toe te laten andere kleding onder de jas te dragen.

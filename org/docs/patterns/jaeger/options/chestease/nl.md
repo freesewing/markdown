@@ -1,7 +1,4 @@
----
-title: Chest ease
-pattern: jaeger
-option: chestEase
----
 
-The amount of ease at your chest.
+![Overwijdte borst](chestease.svg)
+
+De hoeveelheid overwijdte aan je borst.

@@ -1,7 +1,2 @@
----
-title: Hips ease
-pattern: huey
-option: hipsEase
----
 
-The amount of ease at your hips.
+De hoeveelheid overwijdte aan je heupen.

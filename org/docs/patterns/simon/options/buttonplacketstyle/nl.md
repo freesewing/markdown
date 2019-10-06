@@ -1,11 +1,6 @@
----
-title: Button placket style
-pattern: simon
-option: buttonPlacketStyle
----
 
-Do you want the button placket to be sewn in place (classic style), or folded back and held in place by the buttons (seamless style)?
+Wil je dat het knopenpat vastgenaaid wordt (klassieke stijl), of omgeplooid en op zijn plaats gehouden met knopen (naadloze stijl)?
 
-> Seamless is less work, and it looks great.
-> 
-> As seamless is only possible on a **cut-on** on placket, this option is ignored if you chose **seperate** as your button placket type.
+> Naadloos is minder werk, en ziet er geweldig uit.
+
+> As seamless is only possible on a <strong>cut-on</strong> on placket, this option is ignored if you chose <strong>seperate</strong> as your button placket type.

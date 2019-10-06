@@ -17,11 +17,10 @@ For freesewing, the roll-out of GDPR doesn't pose a problem as such. Not only di
 
 So, we have two types of questions to ask you:
 
-- Do you give your consent to process your profile data?
-- Do you give your consent to process your model data?
+ - Do you give your consent to process your profile data?
+ - Do you give your consent to process your model data?
 
-We make the distinction because they are different things. A profile/account is required to login to the site, post comments, and so on.  
-Model data is required to generate made-to-measure sewing patterns.
+We make the distinction because they are different things. A profile/account is required to login to the site, post comments, and so on. Model data is required to generate made-to-measure sewing patterns.
 
 You will be greeted by these questions when they are relevant (as in, when we do need to access that specific data), and you can revisit them at any time [in your account settings](/account).
 
@@ -39,8 +38,8 @@ With these changes, we've covered your right to be informed.
 
 One of the more vague yet impactful requirements of GDPR is so-called *privacy-by-design*. We took the advice to heart and have made two changes inspired by this:
 
-- Encryption of data at rest
-- Termination of dormant accounts
+ - Encryption of data at rest
+ - Termination of dormant accounts
 
 We now encrypt your profile data at rest. In other words, our database holds your info, but it's encrypted. We only decrypt it when we need it.
 
@@ -54,8 +53,8 @@ These GDPR-related changes seemed like a good opportunity to re-vist some of the
 
 Our previous website used [Jekyll](https://jekyllrb.com/) as a static site generator, with a pile of javascript code to make add the dynamic elements to the site. While that did do the trick, there were two important downsides:
 
-- Jekyll uses the Ruby programming language. That's another programming language, another package manager, and another ecosystem that potential contributors have to wrap their heads around. We wanted to avoid that.
-- That *pile* of JavaScript code was rather literal. Maintainability was starting to become an issue, not to mention that it would be difficult for new developers to jump in and understand what's going on.
+ - Jekyll uses the Ruby programming language. That's another programming language, another package manager, and another ecosystem that potential contributors have to wrap their heads around. We wanted to avoid that.
+ - That *pile* of JavaScript code was rather literal. Maintainability was starting to become an issue, not to mention that it would be difficult for new developers to jump in and understand what's going on.
 
 So, to kill two birds with one stone, we rewrote the entire site using [Vue.js](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Our entire frontend is written in JavaScript now — no more Ruby required — and due to Vue's modular nature and component-based approach, it should be a lot easier to maintain.
 

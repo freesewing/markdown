@@ -267,7 +267,7 @@ Returns a new point that mirrors this point around the Y-value of the point your
 
 If you don't pass it a point, it will mirror around a Y-value of zero.
 
-### Point.flipX() example
+### Point.flipY() example
 
 <Example 
   part="point_flipy"

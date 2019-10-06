@@ -1,9 +1,4 @@
----
-title: Sleeve placket length
-pattern: simon
-option: sleevePlacketLengthe
----
 
-How long do you want the sleeve placket to be?
+Hoe lang wil je dat het mouwsplit is?
 
-> The longer your sleeve placket is, the easier it is to get out of your shirt sleeve. It also influences what things will look like when you roll up your sleeves
+> Hoe langer je mouwsplit, hoe makkelijker je mouw uit te trekken is. De lengte heeft ook invloed op hoe het eruitziet als je je mouwen oprolt

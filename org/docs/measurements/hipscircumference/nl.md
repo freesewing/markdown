@@ -1,5 +1,5 @@
 ---
-title: Hips circumference
+title: Heupomtrek
 ---
 
 The **hips circumference** is measured at the top of your hipbones.

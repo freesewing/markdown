@@ -1,9 +1,2 @@
----
-title: Length bonus
-pattern: penelope
-option: lengthBonus
----
+This controls the length of the skirt. Percentage of the natural waist to knee measurement.
 
-How much longer than the default length to make your skirt.
-
-> This option allows negative values, which will shorten the skirt.

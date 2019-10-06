@@ -12,7 +12,7 @@ A while ago I found myself in need of some new swim trunks. So I drafted a patte
 
 I asked if people would be interested in a pattern like this, and turns out that yes, they were.
 
-So, after some more tweaking, I think this is ready for you guys, and meanwhile Romy
+So, after some more tweaking, I think this is ready for you guys, and meanwhile Roy
 has already provided an illustration for it too.
 
 ![I'll be the first to admit that this guy wears it better than me](cover.jpg)

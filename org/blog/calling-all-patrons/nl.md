@@ -30,7 +30,6 @@ Yes, it's still early days. But I think it's safe to say that the decision to re
 Speaking of which.
 
 ## MakeMyPattern.com is no more
-
 Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
 
 You can try to visit that link, but you'll only end up back here.
@@ -42,7 +41,6 @@ MakeMyPattern.com saw the light of day in 2012. It went through a number of iter
 We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
 
 ## Let's talk money
-
 Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
 
 This year we came in at **673.14€**, so that's what I've transferred.
@@ -63,8 +61,7 @@ But I wanted to be completely transparent about what's going on, so I made the e
 > 
 > I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 > 
-> Could I use the money? Yes I could.  
-> Do I need the money? No I don’t.
+> Could I use the money? Yes I could. Do I need the money? No I don’t.
 > 
 > ##### The value of your support
 > 
@@ -100,8 +97,7 @@ So, as of today, we are calling all Patrons.
 
 ## Become a Patron of Freesewing
 
-To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters.  
-Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
+To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters. Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
 
 ![We have three tiers of Patronage](patron-medals.jpg)
 
@@ -123,6 +119,7 @@ Thank you, and have a great year.
 
 joost
 
-<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. So perhaps you could share <a href="patrons-ig.png">this image</a> on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
+<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. 
+So perhaps you could share [this image](patrons-ig.png) on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
 
 ![Sharing is caring!](patrons-ig.png)

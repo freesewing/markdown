@@ -1,7 +1,4 @@
----
-title: Collar notch angle
-pattern: jaeger
-option: collarNotchAngle
----
+
+![Hoek inkeping kraag](collarnotchangle.svg)
 
 Angle of the collar notch.

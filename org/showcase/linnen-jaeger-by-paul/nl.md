@@ -1,8 +1,8 @@
 ---
 date: 2018-09-29
-title: Jaeger by Paul
+title: Jaeger door Paul
 img: showcase.jpg
-caption: "Linnen Jaeger Sports Jacket by Paul"
+caption: "Een linnen Jaeger jasje door Paul"
 patterns:
   - jaeger
 author: Tiger751023

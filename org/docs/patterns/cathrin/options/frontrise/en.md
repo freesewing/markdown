@@ -1,8 +1,3 @@
----
-title: Front rise
-pattern: cathrin
-option: frontRise
----
 ![The front rise option on Cathrin](./frontrise.svg)
 
 How high do you want the corset to rise up at the center front.

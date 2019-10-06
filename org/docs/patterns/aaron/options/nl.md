@@ -1,4 +1,4 @@
 ---
-title: Pattern options
+title: Patroon opties
 ---
 

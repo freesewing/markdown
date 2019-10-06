@@ -1,7 +1,4 @@
----
-title: Hem width
-pattern: sandy
-option: hemWidth
----
+
+![Breedte zoom](hemwidth.svg)
 
 The width of the hem.

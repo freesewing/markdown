@@ -1,13 +1,8 @@
----
-title: End style
-pattern: benjamin
-option: endStyle
----
+Drie verschillende puntjes
 
-Three different tip shapes
+Naast vier verschillende knoopwijzen kan elke stijl individueel gemaakt worden met drie verschillende punten:
 
-In addition to having four different bow tie styles, each style can be individualized with three different tip options:
+ - Recht
+ - Puntig
+ - Rond
 
-- Straight
-- Pointed
-- Round

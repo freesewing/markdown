@@ -1,7 +1,3 @@
----
-title: Buttonhole placket width
-pattern: simon
-option: buttonholePlacketWidth
----
+![Buttonhole placket width](buttonholeplacketwidth.svg)
 
 The width of your buttonhole placket.

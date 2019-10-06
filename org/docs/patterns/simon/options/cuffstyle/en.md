@@ -1,8 +1,4 @@
----
-title: Cuff style
-pattern: simon
-option: cuffStyle
----
+![Cuff style](cuffstyle.svg)
 
 What style of cuff do you want?
 

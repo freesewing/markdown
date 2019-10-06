@@ -1,7 +1,3 @@
----
-title: Seat ease
-pattern: carlita
-option: seatEase
----
+![Seat ease](./seatease.svg)
 
 The amount of ease at your seat.

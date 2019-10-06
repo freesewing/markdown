@@ -22,21 +22,19 @@ The GDPR is no different. It's an important piece of legislation that raises the
 Allow me to explain.
 
 ### Privacy needs protection
-
 For better or for worse (I believe for worse) the internet has settled into a modus operandi where you pay for *free stuff* with your personal data. Some people call it [people farming](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), and I think that's a great term.
 
 The [frightful five](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) are vacuuming up ever more of our personal lives. Short of never going online, there seems to be precious little we can do about it.
 
 ### Why the EU is the best
-
 This problem is too big to tackle by any of us. Who could possibly stand up to the combined power of the tech giants?
 
 Well, how's this for a CV:
 
-- Fined Facebook 110 million euro for misleading statements about their WhatsApp purchase
-- Ordered Amazon to pay 250 million euro extra taxes in Luxembourg 
-- Fined Google 2.4 billion euro for abusing its dominant position in search
-- Ordered Apple to pay 13 billion euro extra taxes in Ireland
+  - Fined Facebook 110 million euro for misleading statements about their WhatsApp purchase
+  - Ordered Amazon to pay 250 million euro extra taxes in Luxembourg
+  - Fined Google 2.4 billion euro for abusing its dominant position in search
+  - Ordered Apple to pay 13 billion euro extra taxes in Ireland
 
 ![We're the EU, bitch](titanfall.gif)
 
@@ -63,6 +61,7 @@ The practical implementation is in the hands of the so-called *Article 29 Workin
 ## The GDPR in practice
 
 If you're looking for expert advice on GDPR compliance, this is not the place for you.
+
 
 But if you are curious about the GDPR and what it takes for a website like freesewing.org to be compliant, read on.
 
@@ -100,10 +99,10 @@ This was cause for concern because we collect body measurements, and one of our 
 
 Turns out it doesn't. Biometric data is what you can use to identify a person, like a fingerprint or iris scan. Body measurements alone are not sensitive data.
 
+
 ### Collecting data through consent
 
-To collect data, you need a so-called *lawful basis for data processing*.  
-There are different types, but the one that applies to us (and to most online services) is **consent**.
+To collect data, you need a so-called *lawful basis for data processing*. There are different types, but the one that applies to us (and to most online services) is **consent**.
 
 In this scenario, your legal basis for processing the data is that you've asked the person to get their data and they've freely given it to you.
 
@@ -111,13 +110,13 @@ That is straight-forward, and makes sense. But the GDPR is really serious about 
 
 To prevent companies from throwing up a big wall of legalese that people have to agree to, the GDPR outlines a number of principles this consent should adhere to. Here's a non-exhaustive list:
 
-- people should have real choice and control
-- consent requires a positive opt-in, pre-ticked boxes or anything like that are not allowed
-- there should be a very clear statement explaining what people are agreeing to
-- these requests for consent must be separate from any terms & conditions
-- consent needs to be granular, you need individual consent for different things, and can't ask for blanket consent
-- it must be easy for people to redraw consent
-- consent of data processing should not be a precondition for a service
+ - people should have real choice and control
+ - consent requires a positive opt-in, pre-ticked boxes or anything like that are not allowed
+ - there should be a very clear statement explaining what people are agreeing to
+ - these requests for consent must be separate from any terms & conditions
+ - consent needs to be granular, you need individual consent for different things, and can't ask for blanket consent
+ - it must be easy for people to redraw consent
+ - consent of data processing should not be a precondition for a service
 
 Looking at that list, I can't help but feel that legislation would be a lot simpler if lawmakers could just write *don't be a dick* and call it a day.
 
@@ -127,9 +126,9 @@ Remember, we can't just get blanket consent. We need to get consent for every ty
 
 For freesewing.org, we have identified three different types of data processing:
 
-- Profile data
-- Model data
-- Patron data
+ - Profile data
+ - Model data
+ - Patron data
 
 For each of these, we'll need to get consent from the user, making sure it's *real consent* as intended in the GDPR.
 
@@ -145,9 +144,9 @@ The GDPR states that you should ask for consent when the data is collected.
 
 With our three types of data processing, that means that consent must be asked at different times:
 
-- **Profile data**: When signing up on the site
-- **Model data**: When creating the first model
-- **Patron data**: When becoming a patron
+ - **Profile data**: When signing up on the site
+ - **Model data**: When creating the first model
+ - **Patron data**: When becoming a patron
 
 This will (also) require some extra work to integrate this in the site.
 
@@ -239,14 +238,14 @@ It seems obvious that the EU is going to come down harder on the company who did
 
 We already do a number of things that are driven by a *privacy by design* approach. For example:
 
-- We use pseudonyms for user accounts
-- We don't share any data with any third party
-- We don't include any tracking code, or analytics
-- We don't use cookies
-- We don't have any social logins, like buttons, or other such things
-- We don't run/show any ads
-- We don't run any third-party JavaScript code
-- We use encryption on all transport
+ - We use pseudonyms for user accounts
+ - We don't share any data with any third party
+ - We don't include any tracking code, or analytics
+ - We don't use cookies
+ - We don't have any social logins, like buttons, or other such things
+ - We don't run/show any ads
+ - We don't run any third-party JavaScript code
+ - We use encryption on all transport
 
 There's some more info on this in this blog post: [The choices I've made to protect your privacy. Or why you won't be getting any cookies](/blog/privacy-choices/).
 
@@ -268,10 +267,10 @@ We already encrypt all data in transit. But, we are currently considering to add
 
 The idea is to encrypt all data that could potentially identify a user. Such as:
 
-- Email address
-- User name
-- Model names
-- Model notes
+ - Email address
+ - User name
+ - Model names
+ - Model notes
 
 This would add an extra layer of defense for our users' privacy in case somehow our database gets dumped.
 
@@ -281,14 +280,14 @@ While this change will be non-trivial to implement and come with a performance p
 
 While we still have some work to do, we are already compliant with large parts of the GDPR, especially when it comes to respecting users rights:
 
-- The right to be informed
-- The right of access
-- The right to rectification
-- The right to erasure
-- The right to restrict processing
-- The right to data portability
-- The right to object
-- Rights in relation to automated decision making and profiling
+ - The right to be informed
+ - The right of access
+ - The right to rectification
+ - The right to erasure
+ - The right to restrict processing
+ - The right to data portability
+ - The right to object
+ - Rights in relation to automated decision making and profiling
 
 We are currently working on *the right to be informed* and have a plan for the changes required to respect *the right to restrict processing* and *the right to object*.
 
@@ -298,15 +297,15 @@ We'll need to add changes to the user on-boarding to make sure notices are prese
 
 ### Action points
 
-- Draft privacy notices for profile/model/patron data
-- Integrate consent in user on-boarding, model creation, and patron sign-up
-- Make site functionality depend on consent
-- Provide a centralized privacy dashboard where people can review their privacy settings/consent
-- Add email notifications every time consent is changed
-- Provide a way for people to *freeze* their account
-- Provide a way for people to object to their model data being used for research and statistics
-- Write and publish an overall privacy policy
-- Encrypt sensitive data in the database
+ - Draft privacy notices for profile/model/patron data
+ - Integrate consent in user on-boarding, model creation, and patron sign-up
+ - Make site functionality depend on consent
+ - Provide a centralized privacy dashboard where people can review their privacy settings/consent
+ - Add email notifications every time consent is changed
+ - Provide a way for people to *freeze* their account
+ - Provide a way for people to object to their model data being used for research and statistics
+ - Write and publish an overall privacy policy
+ - Encrypt sensitive data in the database
 
 Seems like we've got a lot of work ahead of us.
 
@@ -315,3 +314,4 @@ Seems like we've got a lot of work ahead of us.
 It is my personal opinion that the GDPR is a good thing. But I want to hear from you about the changes outlined in this blog post.
 
 So please reach out with your feedback and comments. It is after all your data we're talking about.
+

@@ -1,7 +1,4 @@
----
-title: Sleevecap ease
-pattern: jaeger
-option: sleevecapEase
----
+
+![Extra ruimte mouwkop](sleevecapease.svg)
 
 The ease on the sleevecap.

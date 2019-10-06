@@ -1,7 +1,2 @@
----
-title: Back vent
-pattern: penelope
-option: backVent
----
+This adds a vent to the back of the skirt.
 
-Do you want a vent at the back or not?

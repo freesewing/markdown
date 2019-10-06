@@ -1,8 +1,3 @@
----
-title: Hips ease
-pattern: aaron
-option: hipsEase
----
 ![The hips ease option on Aaron](./hipsease.svg)
 
 How much room do you want at the hips?

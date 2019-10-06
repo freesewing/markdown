@@ -1,7 +1,4 @@
----
-title: Chest ease
-pattern: jaeger
-option: chestEase
----
+
+![Chest ease](chestease.svg)
 
 The amount of ease at your chest.

@@ -1,11 +1,6 @@
----
-title: Neck inset
-pattern: wahid
-option: neckInset
----
 
-How far do you want your waistcoat to sit away from your collar on your shoulder seam? The default is 2cm.
+Hoe ver wil je dat je gilet aan de schoudernaad weg zit van je kraag? De standaard is 2 cm.
 
-> #### What's the point?
+> #### Waarom?
 > 
-> The shoulder seam of a waistcoat is typically more narrow than your shirt. This option controls how narrow it gets (on the collar side).
+> De schoudernaad van een gilet is gewoonlijk smaller dan die van je hemd. Deze optie controleert hoe smal de naad wordt (aan de kant van de kraag).

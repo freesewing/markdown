@@ -19,7 +19,10 @@ points.anchor = new Point(100, 25)
 
 <Note>
 
-You may have noticed that the text we inserted isn't the text that's shown. That is because, in line with our [best practices](/do) we allow translation of our pattern by inserting a key that is used to lookup the string in the language of the pattern, using [the i18n plugin](/plugins/i18n).
+You may have noticed that the text we inserted isn't the text that's shown.
+That is because, in line with our [best practices](/do) we allow translation of
+our pattern by inserting a key that is used to lookup the string in the language
+of the pattern, using [the i18n plugin](/plugins/i18n).
 
 </Note>
 

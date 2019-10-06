@@ -1,8 +1,3 @@
----
-title: Collar ease
-pattern: simon
-option: collarEase
----
 
 How much ease do you want for your collar?
 

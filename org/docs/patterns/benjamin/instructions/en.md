@@ -1,17 +1,3 @@
----
-title: Making Benjamin
----
-
-## What you need
-
-To make Benjamin, you will need the following:
-
-  - Basic sewing supplies
-  - About 0.5 meter of a suitable fabric ([see Fabric options](#fabric-options)). Left over 
-  pieces of a recent project could work too.
-  - About the same amount of interfacing
-  - Optionally: Bow tie adjustment ribbon and hardware
-
 ## Notes and tips
 
 ### Precision
@@ -29,49 +15,6 @@ that you are not using too much heat on a delicate fabric that can't handle it.
 It's a good idea to try pressing some fabric scraps before you start. This will allow you to 
 figure out what is a good heat setting for the fabric you are using.
 
-### Bow tie fabrics
-
-The bow ties you find in the store are typically make out of silk or some imitation silk poly. 
-So it will come as no surprise that those are good options. Any type of fabric that you like
-the pattern or looks of can become a candidate for a bow tie. The only real limitation is 
-that the bow tie will have to be turned inside out through a tube that is only 2cm across. 
-With some thicker fabrics, this will be a difficult proposition. 
-
-Bow ties are more whimsical than normal ties, so having a fun pattern or loud colour is not
-as much of a problem as it would be with a regular tie. 
-
-Silk and silk imitation is slippery and tricky to work with. This can be compensated for with 
-a fusible interfacing.
-
-### Interfacing
-
-Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing
-comes in two main types; fusible and sew-in. 
-
-The fusible variety has some adhesive attached to one side that is activated with the heat 
-of your iron. This attaches the interfacing to the fabric and the two can then be used as one. 
-Fusible interfacing can be a great option if your fabric allows the heat required, and you 
-use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, 
-and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good
-quality interfacings and correctly following the guidelines for adhering the interfacing 
-will not present these problems.
-
-Sew-in interfacing is sew into place before the fabric pieces are used. You attach the 
-interfacing to the fabric by sewing the two together inside the seam allowance. If you use
-a seam allowance of 6mm, you will sew the interfacing at 3mm. 
-Anything may work as a sew-in interfacing, including an extra layer of the same fabric. 
-
-The key part of the interfacing is to give your bow tie the structure you like. You can have 
-a bow tie that stands proud and crisp. Or one that droops a bit at the tips. This is all about
-your preference. 
-
-It is good to experiment with the interfacing on a scrap piece of your fabric, specially with
-the fusible kind. You want ot make sure you get the structure you like before commiting it 
-to your pattern pieces.
-
-Although the pattern calls for applying interfacing to all parts, if you have thick or stiff 
-fabric, you may be able to only do one side, or no sides at all.
-
 ### Choosing your grain
 
 This pattern includes a grain line. This grain line is mostly there to be used with 
@@ -79,8 +22,12 @@ the interfacing. Since each pattern piece is interfaced, the grain line of the f
 itself is not so important. You can even change this from the standard for more 
 informal impressions.
 
-> If this all sounds very confusing, might I suggest reading the help 
-> page on [Fabric grain](/en/docs/sewing/fabric-grain).
+<Note>
+
+If this all sounds very confusing, might I suggest reading the help 
+page on [Fabric grain](/docs/sewing/fabric-grain).
+
+</Note>
 
 ### Bow tie adjustment ribbon
 
@@ -98,37 +45,6 @@ Since the bow tie is constructed with the right sides of the fabric against each
 the whole thing will have to be turned inside out. You probably want to consider using 
 a small seam allowance of 6mm (¼ inch) to reduce the bulk. 
 
-
-## Cutting
-
-Benjamin is ar rather simple pattern, but your options will determine what
-needs to be cut out. Below are two typicaly layouts.
-
-**Without adjustment ribbon**
-
- - **Main fabric**
-   - Cut **4 Knot**
-   - Cut **2 Collar band** 
- - **Interfacing**
-   - Cut **4 interfacing knot**
-   - Cut **2 interfacing collar band** 
-
-![A typical Benjamin draft without adjustment ribbon](layout1.svg)
- 
-**With adjustment ribbon**
-
- - **Main fabric**
-   - Cut **1 Knot 1**
-   - Cut **1 Knot 2**
-   - Cut **2 Knot 3**
- - **Interfacing**
-   - Cut **1 interfacing knot 1**
-   - Cut **1 interfacing knot 2**
-   - Cut **2 interfacing knot 3**
-
-![A typical Benjamin draft with adjustment ribbon](layout2.svg)
-
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
 
 ## Construction
 

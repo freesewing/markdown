@@ -1,9 +1,3 @@
----
-title: Leg stretch
-pattern: bruce
-option: legStretch
----
+![De optie voor stretch pijp bij Bruce](./legstretch.svg)
 
-![The leg stretch option on Bruce](./legstretch.svg)
-
-The amount of stretch at the (upper) legs.
+De hoeveelheid stretch aan het (boven)been.

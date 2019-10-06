@@ -1,15 +1,25 @@
 ---
 date: 2018-02-05
-title: A Wonder Women simon by JV
+title: Een Wonder Woman Simon door JV
 img: showcase.jpg
-caption: There's some really quality posing in this set.
+caption: Hier wordt geweldig goed geposeerd.
 patterns:
   - simon
 author: 'MyxterHyde'
 ---
 
-![](/img/showcase/wonder-woman-simon/view2.jpg) ![](/img/showcase/wonder-woman-simon/view3.jpg) ![](/img/showcase/wonder-woman-simon/view4.jpg) ![](/img/showcase/wonder-woman-simon/view5.jpg)
+![Een andere kant](view2.jpg) ![Een andere kant](view3.jpg) ![Een andere kant](view4.jpg) ![Een andere kant](view5.jpg)
 
-> ##### See the originals on the Instragram feed of funloveadventure
-> 
-> These images are from [the Instagram feed](https://www.instagram.com/myxterhyde/) of [@MyxterHyde](/users/MyxterHyde). They are published here with permission.
+<Note>
+
+###### See the originals on the Instragram feed of funloveadventure
+
+These images are from 
+[the Instagram feed](https://www.instagram.com/myxterhyde/)
+of [@MyxterHyde](/users/MyxterHyde).
+They are published here with permission.
+
+</Note>
+
+
+

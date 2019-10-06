@@ -1,8 +1,5 @@
----
-title: Back vent
-pattern: jaeger
-option: backVent
----
+
+![Back vent](backvent.svg)
 
 How do you like your back vents?
 

@@ -1,6 +1,6 @@
 ---
 date: 2017-10-31
-title: "Monthly roundup - October 2017: Huey, Romy, community building and pattern cover pages"
+title: "Monthly roundup - October 2017: Huey, Roy, community building and pattern cover pages"
 linktitle: "Monthly roundup; October 2017 edition"
 img: potw.jpg
 caption: "Your new login background for the month of november"
@@ -10,7 +10,6 @@ author: joost
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
 ## Looking back at october
-
 In retrospect, I should have made the october background image haloween themed. I guess I'll try to remember that for next year.
 
 ### Meet Huey
@@ -23,14 +22,13 @@ Huey is a zip-up hoodie, have a look at [the Huey showcase page](/showcase/patte
 
 ### Community building
 
-Freesewing is slowly evolving into a communal effort. The [freesewing channel on Gitter](https://gitter.im/freesewing/freesewing) is turning into a rather chatty place, which is really wonderful to see.
+Freesewing is slowly evolving into a communal effort. The [freesewing channel on Gitter](https://gitter.im/freesewing/chat) is turning into a rather chatty place, which is really wonderful to see.
 
 Furthermore, a number of people are taking a stab at designing their own patterns with freesewing. I think that's very exciting and I'm looking forward to the day we'll all be able to enjoy the fruits of that labour.
 
 Meanwhile, people are also helping out with the site, suggesting fixes and improvements left and right, and [Wouter](/users/xdpug) even added an entire page on [Git basics](/docs/git-basics) which should be a great stepping stone for people who like him want to get involved, but lack prior experience with Git (and GitHub).
 
-Needless to say, I am very appreciative of all contributions big and small.  
-If you'd like to get involved, [come say hi](https://gitter.im/freesewing/freesewing).
+Needless to say, I am very appreciative of all contributions big and small. If you'd like to get involved, [come say hi](https://gitter.im/freesewing/chat).
 
 ### Cover pages for patterns
 
@@ -48,15 +46,15 @@ So for the longest time, I felt it was simply not possible to add an coverpage w
 
 This is obviously very new code, so if for some reason you run into trouble with the tiler, make sure to [let me know about it](https://github.com/freesewing/tile/issues/new).
 
-### Romy will design cover images for patterns
+### Roy will design cover images for patterns
 
 I've made some changes to [the patterns page](/patterns/) because I felt that the previous layout wasn't doing the patterns justice.
 
 While the layout is a bit better now (I think) the pictures are still a bit *meh* and they don't really say *freesewing*.
 
-So, I've talked to Dutch illustrator [Romy Van der Hel](https://romyvdhel-art.deviantart.com/) (who also signed for our measurements illustrations) and I'm glad to be able to share with you that she's agreed to do illustrations for the different freesewing patterns.
+So, I've talked to Dutch illustrator [Roy Van der Hel](https://royvdhel-art.deviantart.com/) (who also signed for our measurements illustrations) and I'm glad to be able to share with you that he's agreed to do illustrations for the different freesewing patterns.
 
-Romy will be working on these on and off, but I hope you'll start to see more of her work her relatively soon.
+Roy will be working on these on and off, but I hope you'll start to see more of his work here relatively soon.
 
 ## Looking ahead to november
 

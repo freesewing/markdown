@@ -1,5 +1,5 @@
 ---
-title: Wrist circumference
+title: Polsomtrek
 ---
 
 The **wrist circumference** measurement is the circumference of your wrist.

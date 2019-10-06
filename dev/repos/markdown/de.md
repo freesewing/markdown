@@ -4,7 +4,7 @@ title: markdown
 
 import RepoPage from "../../../../src/components/repo-page";
 
-<repopage repo="markdown" />
+<RepoPage repo="markdown" />
 
 This holds all our MarkDown content: documentation, blog posts, and showcases.
 

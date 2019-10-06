@@ -1,8 +1,5 @@
----
-title: Sleeve bend
-pattern: jaeger
-option: sleeveBend
----
+
+![Sleeve bend](sleevebend.svg)
 
 The bend at the elbow of your sleeve.
 

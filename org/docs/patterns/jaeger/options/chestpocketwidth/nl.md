@@ -1,7 +1,4 @@
----
-title: Chest pocket width
-pattern: jaeger
-option: chestPocketWidth
----
+
+![Borstzakbreedte](chestpocketwidth.svg)
 
 The width of the chest pocket, as a factor of your chest circumference.

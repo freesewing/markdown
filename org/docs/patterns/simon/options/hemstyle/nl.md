@@ -1,11 +1,6 @@
----
-title: Hem style
-pattern: simon
-option: hemStyle
----
 
-What style of hem line do you want?
+Wat voor zoom wil je?
 
-- Straight
-- Baseball
-- Slashed
+ - Recht
+ - Baseball
+ - Slashed

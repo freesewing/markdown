@@ -1,6 +1,3 @@
----
-title: Making Aaron
----
 
 ## Step 1: Close seams
 

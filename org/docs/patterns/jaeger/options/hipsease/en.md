@@ -1,7 +1,4 @@
----
-title: Hips ease
-pattern: jaeger
-option: hipsEase
----
+
+![Hips ease](hipsease.svg)
 
 The amount of ease at your hips.

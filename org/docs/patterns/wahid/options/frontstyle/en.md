@@ -1,7 +1,3 @@
----
-title: Front style
-pattern: wahid
-option: frontStyle
----
+![Front style](frontstyle.svg)
 
 Do you want a classic straight neckline, or a curved neckline?

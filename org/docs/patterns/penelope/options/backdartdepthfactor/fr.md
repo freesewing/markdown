@@ -1,7 +1,2 @@
----
-title: Back dart depth factor
-pattern: penelope
-option: backdartdepthfactor
----
+How far down does the back dart go from the waistband. This is a factor of the Natural Waist To Seat measurement.
 
-The depth of the back dart as a percentage of the Waist to Hip measurement

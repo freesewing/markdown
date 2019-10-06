@@ -4,7 +4,7 @@ title: tile
 
 import RepoPage from "../../../../src/components/repo-page";
 
-<repopage repo="tile" />
+<RepoPage repo="tile" />
 
 This is a PostScript tiler, a command line utility written in C.
 

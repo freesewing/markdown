@@ -1,7 +1,4 @@
----
-title: Sleevecap ease
-pattern: jaeger
-option: sleevecapEase
----
+
+![Sleevecap ease](sleevecapease.svg)
 
 The ease on the sleevecap.

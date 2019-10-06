@@ -17,5 +17,4 @@ As many patterns here at freesewing, Sandy comes with a bunch of options to allo
 
 There's options for how much of circle you want (half? full? Something else?), how long you want it, the shape and overlap of the waistband, whether you want pleats, how much hem, and so on.
 
-I can see this becoming rather the success story.  
-So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.
+I can see this becoming rather the success story. So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.

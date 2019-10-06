@@ -1,12 +1,3 @@
----
-title: Zipper placement
-pattern: penelope
-option: zipperlocation
----
+Controls the location of the zipper.
+Either at the back seam, or at the side seam
 
-Where do you want to place the zipper in your skirt?
-
- - In the side seam
- - In the back seam
-
- Default is to place the zipper in the back seam.

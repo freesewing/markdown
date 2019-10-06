@@ -1,14 +1,11 @@
----
-title: Making Simon
----
 
 ## What you need
 
 To make Simon, you will need the following:
 
-- About two meters of a suitable fabric (see [Fabric options](#fabric-options)
-- Buttons
-- Fusible interfacing for collar and cuffs (and possibly for the front placket)
+ - About two meters of a suitable fabric (see [Fabric options](#fabric-options)
+ - Buttons
+ - Fusible interfacing for collar and cuffs (and possibly for the front placket)
 
 ## Fabric options
 
@@ -84,35 +81,34 @@ When shopping online, it can be harder to get a good idea of what you're looking
 
 ## Cutting
 
-- **Main fabric** 
- - Cut **1 front left**
- - Cut **1 button placket** (only if you opted for a separate button placket)
- - Cut **1 front right**
- - Cut **1 buttonhole placket** (only if you opted for a separate buttonhole placket)
- - Cut **1 back**
- - Cut **1 collar**
- - Cut **1 undercollar**
- - Cut **2 yoke(s)** or **4 yokes** if you've chosen a split yoke
- - Cut **2 sleeve(s)**
- - Cut **2 collar stand(s)**
- - Cut **2 sleeve placket underlap(s)**
- - Cut **2 sleeve placket overlap(s)**
- - Cut **4 cuff(s)**
-- **Fusible interfacing** 
- - Cut **1 collar**
- - Cut **1 undercollar**
- - Cut **2 collar stand(s)**
- - Cut **2 cuff(s)**
+ - **Main fabric**
+   - Cut **1 front left**
+   - Cut **1 button placket** (only if you opted for a separate button placket)
+   - Cut **1 front right**
+   - Cut **1 buttonhole placket** (only if you opted for a separate buttonhole placket)
+   - Cut **1 back**
+   - Cut **1 collar**
+   - Cut **1 undercollar**
+   - Cut **2 yoke(s)** or **4 yokes** if you've chosen a split yoke
+   - Cut **2 sleeve(s)**
+   - Cut **2 collar stand(s)**
+   - Cut **2 sleeve placket underlap(s)**
+   - Cut **2 sleeve placket overlap(s)**
+   - Cut **4 cuff(s)**
+ - **Fusible interfacing**
+   - Cut **1 collar**
+   - Cut **1 undercollar**
+   - Cut **2 collar stand(s)**
+   - Cut **2 cuff(s)**
 
 > When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together). However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
 > 
 > When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one.
 
 ### Caveats
-
-- The **front right**, **front left**, and **sleeve** have seams that should be made into flat-felled seams. As such, they have extra seam allowance on those seams. When cutting out these pieces, you **must** include this extra seam allowance.
-- The cuff guard and cuff placket have no seam allowance. That is normal, just cut them out as they are drawn on the pattern.
-- Do not cut out the darts in the **back** piece. You should mark them, but not cut them out.
+ - The **front right**, **front left**, and **sleeve** have seams that should be made into flat-felled seams. As such, they have extra seam allowance on those seams. When cutting out these pieces, you **must** include this extra seam allowance.
+ - The cuff guard and cuff placket have no seam allowance. That is normal, just cut them out as they are drawn on the pattern.
+ - Do not cut out the darts in the **back** piece. You should mark them, but not cut them out.
 
 Simon is a very versatile pattern, so your draft may differ from the example layout below:
 
@@ -127,7 +123,6 @@ Simon is a very versatile pattern, so your draft may differ from the example lay
 ![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
 
 #### Press interfacing to cuffs
-
 To make two cuffs, you have cut out your cuff piece four times in fabric, and twice in interfacing.
 
 For each cuff, press the interfacing piece to the bad side of the cuff piece.
@@ -135,7 +130,7 @@ For each cuff, press the interfacing piece to the bad side of the cuff piece.
 > If the inside and outside of your cuff are the same fabric, it does not matter what cuff piece you press it to.
 > 
 > However, a popular style detail is to have a different fabric for the inside of the cuff. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
-> 
+
 > Depending on what cuff you have chosen, the shape of the cuff will be different.
 > 
 > In the first illustration, you can see both a round barrel cuff and a French cuff as example.
@@ -143,7 +138,6 @@ For each cuff, press the interfacing piece to the bad side of the cuff piece.
 > Going forward, the round barrel cuff will be used in the illustrations, but the process is the same for the other cuffs.
 
 #### Press interfacing to collar and undercollar, and collar stand
-
 To make your collar, you need to cut one undercollar, one collar, and two collar stands. All of this both in fabric and interfacing.
 
 For each piece, press the interfacing piece to the bad side.
@@ -334,7 +328,6 @@ Place the Front Right (piece 1) down with the good side up, and place the Button
 Sew it in place with the default seam allowance.
 
 #### Press seam allowance to placket side
-
 Place your front with the good side down, and press the seam allowance to the button placket side.
 
 #### Fold the button placket
@@ -359,6 +352,7 @@ From the good side of your shirt, sew down the folded placket by stitching in th
 
 To do so, sew exactly on top of your earlier seam. Since you folded the fabric of your placket a bit passed this seam, it will get caught at the back, fixing your folded placket in place, and locking the seam allowance inside.
 
+
 ### Step 10: Prepare the buttonhole placket
 
 > If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to Understanding a classic buttonhole placket.
@@ -376,7 +370,6 @@ Sew it in place with the default seam allowance.
 When you're done, don't forget to give it a good press. Press the seam allowance towards the placket side.
 
 #### Press seam allowance to the placket side
-
 Place your front with the good side down, and press the seam allowance to the buttonhole placket side.
 
 #### Understanding a classic buttonhole placket
@@ -389,9 +382,9 @@ Place your front with the good side down, and press the seam allowance to the bu
 
 Your placket has a bunch of lines on it, so let's first clarify what they are:
 
-- The buttonhole line has long dashes with buttonholes on it. It marks where the buttonholes should go
-- The two fold lines have long dashes and sit at an equal distance right and left of the buttonhole line
-- The two+two sew lines are dotted lines that sit at an equal distance of each fold line
+ - The buttonhole line has long dashes with buttonholes on it. It marks where the buttonholes should go
+ - The two fold lines have long dashes and sit at an equal distance right and left of the buttonhole line
+ - The two+two sew lines are dotted lines that sit at an equal distance of each fold line
 
 #### Trim back seam allowance
 
@@ -464,7 +457,6 @@ Pin them in place, and then sew the shoulder seams, making sure to keep your sau
 > However, the seamlines are the same lenght, so make sure to match them carfully using the notches.
 
 #### Flip it inside out through the neck opening
-
 When you've sewn both shoulder seams, reach in through the neck opening, and pull out the back and front parts to inside-out your burrito.
 
 #### Press the shoulder seams
@@ -489,17 +481,17 @@ Since you've just pressed these shoulder seams, everything should lie nice and f
 
 ![Sew in the cuff guard](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
 
-- Place your sleeve with the good side down, and your cuff guard on top, also with the good side down.
-- Align the edge of your cuff guard (aka sleeve placket underlap) with the cut in your sleeve, on the side shortest to the side seam.
-- Now sew along the fold line marked on the cuff guard, closest to the edge.
+ - Place your sleeve with the good side down, and your cuff guard on top, also with the good side down.
+ - Align the edge of your cuff guard (aka sleeve placket underlap) with the cut in your sleeve, on the side shortest to the side seam.
+ - Now sew along the fold line marked on the cuff guard, closest to the edge.
 
 > If during cutting out your pattern pieces you had not cut into your sleeve on the line where the sleeve placket needs to be put in, you need to do that first.
 
-- Fold over the cuff guard, and press down this seam.
-- Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
-- Fold it twice on the lines so that the unfinished seam is tucked inwards.
-- Make your folds so that the upper folds sits ever so slightly further than the seam you already made.
-- Press everything down, and then edge-stitch the cuff guard in place.
+ - Fold over the cuff guard, and press down this seam.
+ - Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
+ - Fold it twice on the lines so that the unfinished seam is tucked inwards.
+ - Make your folds so that the upper folds sits ever so slightly further than the seam you already made.
+ - Press everything down, and then edge-stitch the cuff guard in place.
 
 #### Fold and press the placket
 
@@ -507,10 +499,10 @@ Since you've just pressed these shoulder seams, everything should lie nice and f
 
 Origami time! We're going to fold the sleeve placket overlap using the marked fold lines as our guide. This will be a lot easier if you press between each fold.
 
-- First, fold the outer edges of the placket inwards.
-- Next, fold the entire thing double.
-- Then, fold down both tips into a nice pointy shape.
-- Now give it a final good press.
+ - First, fold the outer edges of the placket inwards.
+ - Next, fold the entire thing double.
+ - Then, fold down both tips into a nice pointy shape.
+ - Now give it a final good press.
 
 @[youtube](kgd5eubxShM)
 
@@ -548,6 +540,7 @@ Then, sew horizontal to the other side of the placket to finish.
 
 ![Aligning the fabric for a flat-felled seam](14c.png)
 
+
 > **Careful with the extra seam allowance for the flat-felled seam** There is extra seam allowance on the sleeve to allow for the creation of the flat-felled seam.
 > 
 > As such, be careful to not align the fabric edge, but align the seam so that the sleeve sits out 1cm.
@@ -566,9 +559,9 @@ Now place your sleeve on top with the good side down, matching the notch at the 
 
 You now need to pin the sleeve to the armhole. To do so, make sure to:
 
-- Match the start and end of the sleevehead to the start and end of the armhole
-- Match the notches on the sleevehead to the notches on the back and fronts
-- Distribute the sleevecap ease between the notches as shown
+ - Match the start and end of the sleevehead to the start and end of the armhole
+ - Match the notches on the sleevehead to the notches on the back and fronts
+ - Distribute the sleevecap ease between the notches as shown
 
 #### Distribute sleavecap ease
 
@@ -579,7 +572,6 @@ The default sleevecap ease for this pattern is 0.5cm. If you have sleevecap ease
 > If you are unsure what sleevecap ease is, have a look at the [documentation for the sleevecap ease pattern option](/en/docs/patterns/simon/options#sleevecapEase).
 
 #### Sew sleeve in armhole
-
 When you've got your sleeve neatly pinned in your armhole, sew it in place. Be careful to avoid any pleats in the part between the notches where you need to ease in the sleevecap ease.
 
 > Needless to say, but I'll say it anyway: Repeat this step for the other sleeve.
@@ -609,7 +601,6 @@ You can use pins to hold this in place, but it's simpler to just press it.
 > This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
 
 #### Sew the flat-felled seam
-
 Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
 
 Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
@@ -617,7 +608,6 @@ Important here it to keep an even distance from the seam of your sleeve. If you 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
 #### Press the flat-felled seam
-
 When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
 
 ### Step 16: Close the side/sleeve seams
@@ -651,7 +641,6 @@ You can use pins to hold this in place, but it's simpler to just press it.
 > This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
 
 #### Sew the flat-felled seam
-
 Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
 
 Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
@@ -659,7 +648,6 @@ Important here it to keep an even distance from the seam of your sleeve. If you 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
 #### Press the flat-felled seam
-
 When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
 
 ### Step 18: Attach cuffs to sleeves
@@ -675,7 +663,7 @@ You will need to pin this in place, because depending on how long your sleeve pl
 Also note that your sleeve edge will be longer than your cuff (how much longer depends on the sleeve drape). You need to make one or a few folds in your sleeve to accommodate for this.
 
 > Your pattern contains helplines on the sleeve to help you place to folds.
-> 
+
 > Take your time to pin everything carefully in place. We are going to edge-stitch this later, so it's important that front and back of your cuff align nicely.
 
 #### Edge-stitch cuffs to sleeves
@@ -767,3 +755,4 @@ When you've marked where buttons should go, sew them on.
 > This way, if a buttonhole sits a little bit out of place, the button will simply follow it.
 
 ![That's it, you're done](finished.gif)
+

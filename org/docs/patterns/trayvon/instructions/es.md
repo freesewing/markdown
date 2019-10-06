@@ -1,22 +1,17 @@
----
-title: Making Trayvon
----
 
 ## What you need
 
 To make Trayvon, you will need the following:
 
 - Basic sewing supplies
-- Between 0.5 meter and 1.5 meter of a suitable fabric ([see Fabric options](#fabric-options)), depending on whether you're cutting on bias, on grain, or cross-grain. 
+- Between 0.5 meter and 1.5 meter of a suitable fabric ([see Fabric options](#fabric-options)), depending on whether you're cutting on bias, on grain, or cross-grain.
 
 ## Just the tip
-
 The tip is the most sensitive part of the tie. If you have never made a tie before, I would advise you to make a few tie tips in scrap fabric before taking scissors and needles to your nice tie fabric.
 
 To practice tip-making, execute constructions steps 1 through 4 a couple of times until you get the hang of it.
 
 ## Press wisely
-
 Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
 
 It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
@@ -24,7 +19,6 @@ It's a good idea to try pressing some fabric scraps before you start. This will 
 ## Fabric options
 
 ### Tie fabric
-
 The ties you find in the store are typically make out of silk or some imitation silk poly. So it will come as no surprise that those are good options.
 
 In general, you want something with good drape so that you tie hangs nicely. Cutting your tie on bias can help here too.
@@ -36,7 +30,6 @@ Additionally, silk and silk imitation is slippery and tricky to work with. If th
 Just make sure you pick a fabric that does not stretch or lose its shape easily. You want your tie to look sharp, not saggy.
 
 ### Tie lining
-
 The lining of the tie is the bit that is used at the tip to cover up the back. If you are not sure what I mean, look at the back of the tip of an existing tie. See that rectangular patch of fabric you can see there? That is the tie lining.
 
 Your tie lining will add an extra fabric inside a part of your tie. So it is important to avoid bulk. Go for something thin, even when using a thicker tie fabric.
@@ -46,7 +39,6 @@ Make sure your lining drapes at least as good as your tie fabric, so that it doe
 When in doubt, go for imitation silk. Do make sure to pick something that is a nice match, or contrast, with your tie fabric.
 
 ### Tie interfacing
-
 Your tie interfacing is the skeleton of your tie. It is the part that sits in the middle and that you will only see while constructing your tie.
 
 Tie interfacing can be notoriously hard to get. The best tie interfacing is soft, fuzzy woven lambswool, but I have yet to walk into a fabric store that carries this.
@@ -71,22 +63,22 @@ That being said, a lot of ties are cut on bias, as this results in the best drap
 
 ## Cutting
 
-- **Main fabric** 
- - Cut **1 tip**
- - Cut **1 tail** 
-- **Lining fabric** 
- - Cut **1 lining tip**
- - Cut **1 lining tail** 
- - Cut **1 loop** 
-- **Interfacing** 
- - Cut **1 interfacing tip**
- - Cut **1 interfacing tail** 
+ - **Main fabric**
+   - Cut **1 tip**
+   - Cut **1 tail**
+ - **Lining fabric**
+   - Cut **1 lining tip**
+   - Cut **1 lining tail**
+   - Cut **1 loop**
+ - **Interfacing**
+   - Cut **1 interfacing tip**
+   - Cut **1 interfacing tail**
 
 ### Caveat
 
-- There is no seam allowance on the **interfacing** parts and the **loop**
-- The **lining** **tip** and **tail** have only seam allowance at the tip
-- The **fabric** **tip** and **tail** have only seam allowance at the tip and center
+ - There is no seam allowance on the **interfacing** parts and the **loop**
+ - The **lining** **tip** and **tail** have only seam allowance at the tip
+ - The **fabric** **tip** and **tail** have only seam allowance at the tip and center
 
 Trayvon a very simply pattern, below is a typical layout:
 

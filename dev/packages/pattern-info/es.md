@@ -9,3 +9,4 @@ This provides information about FreeSewing patterns.
 FIXME: Documentation is missing
 
 </Warning>
+

@@ -1,13 +1,8 @@
----
-title: Split yoke
-pattern: simon
-option: splitYoke
----
 
-Do you want a split yoke?
+Wil je een tweedelige schouderpas?
 
-> #### What's the point?
-> 
-> With a split yoke, only half the yoke is included on the pattern, and you'll have to cut 4 parts instead of 2, and sew them together.
-> 
-> It's a bit more work, but it allows you to align the grain line differently on both halves of the yoke, an effect that some people like.
+> #### Waarom?
+
+> Bij een tweedelige schouderpas staat maar de helft van de schouderpas op het patroon, en zal je 4 delen moeten knippen in plaats van 2, en deze aan elkaar naaien.
+
+> Het is een beetje meer werk, maar zo kan je de draadrichting aan beide kanten anders leggen, een effect dat sommige mensen mooi vinden.

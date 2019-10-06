@@ -46,3 +46,4 @@ points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
 <Example pattern="tutorial" part="step8" caption="The right part looks a bit wonky now, but we'll get to that" />
 
 Now let's mirror this on the other side, and replace our `neck` and `rect` paths with a new path.
+

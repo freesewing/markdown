@@ -76,22 +76,23 @@ void macro("round", {
   render: bool,
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
-| Property | Default | Type                | Description                                                    |
-| -------- | ------- | ------------------- | -------------------------------------------------------------- |
-| `from`   |         | [Point](/api/point) | The startpoint towards the corner to round                     |
-| `to`     |         | [Point](/api/point) | The endpoint away from the corner to round                     |
-| `via`    |         | [Point](/api/point) | The corner to round                                            |
-| `radius` | Maximum | Number              | The radius in mm in not the maximum                            |
-| `prefix` |         | String              | A prefix to give to the points and paths created by this macro |
-| `render` | `false` | Boolean             | Whether to render the path created by this macro               |
-| `class`  |         | String              | Class(es) to assign to the path created by this macro          |
-
+| Propriété | Défaut  | Type                 | Description                                                         |
+| --------- | ------- | -------------------- | ------------------------------------------------------------------- |
+| `from`    |         | [Point](/api/point)  | Le point de départ de l'arrondi                                     |
+| `to`      |         | [Point](/api/point)  | Le point final de l'arrondi                                         |
+| `via`     |         | [Point](/api/point)  | Le coin à arrondir                                                  |
+| `radius`  | Maximum | Nombre               | Le rayon en mm si c'est pas le maximum                              |
+| `prefix`  |         | Chaîne de caractères | Un préfixe à donner aux points et aux chemins créés par cette macro |
+| `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |
+| `class`   |         | Chaîne de caractères | Classe(s) à assigner au chemin créé par cette macro                 |
 
 <Warning>
 
 The round macro intended for rounding 90° angles
 
 </Warning>
+
+
+

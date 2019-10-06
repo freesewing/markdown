@@ -8,9 +8,10 @@ When designing patterns, re-use the measurements that are already in use as much
 
 <Tip>
 
-###### See our models packages for standard measurement names
+######  See our models packages for standard measurement names
 
-The [freesewing models](/packages/models) package contains all our standard measurement names.
+The [freesewing models](/packages/models)
+package contains all our standard measurement names.
 
 </Tip>
 

@@ -1,7 +1,4 @@
----
-title: Front dart placement
-pattern: jaeger
-option: frontDartPlacement
----
 
-Location of the front dart as a proportion of your chest circumference. Higher numbers move it more to the side.
+![Plaatsing neep vooraan](frontdartplacement.svg)
+
+Location of the front dart as a proportion of your chest circumference. Een hoger nummer schuift de zak naar opzij.

@@ -1,11 +1,6 @@
----
-title: Bulge
-pattern: shin
-option: bulge
----
 
-How much room do you want in the front?
+Hoeveel ruimte wil je vooraan?
 
-Increasing this will creating more room in the front.
+Dit vergroten zal meer ruimte maken aan de voorkant.
 
 > If it's vertical room you're looking for, that's what the **rise** option does

@@ -1,47 +1,45 @@
----
-title: Making Tamiko
----
 
-## What you need
+## Wat je nodig hebt
 
-To make Tamiko, you will need the following:
+Om Tamiko te maken heb je het volgende nodig:
 
-- Basic sewing supplies
-- About 1 meter of a suitable fabric ([see Fabric options](#fabric-options))
+- Basis naaimateriaal
+- Ongeveer 1 m geschikte stof ([zie Optionele stoffen](#fabric-options))
 
-## Fabric options
+## Stofkeuze
 
-This pattern has a lot of unfinished edges, so you need something that does not ravel. And you want to go for something with a nice drape.
+Dit patroon heeft veel onafgewerkte randen, dus je hebt iets nodig dat niet uitrafelt. Je kiest ook best iets dat soepel valt.
 
-Long story short, go for a knitted fabric, or some light scuba or something. No wovens.
+Om een lang verhaal kort te maken: kies voor een jersey, of een lichte scuba of zo. Geen geweven stoffen.
 
-## Cutting
+## Knippen
 
-- **Main fabric** 
- - Cut **1 Tamiko top** on the fold
+ - **Buitenstof**
+   - Cut **1 Tamiko top** on the fold
 
-Tamiko is a zero-waste pattern. It's a rectangle that's cut out on the fold. Not more than that. There's only one part to this top, we will simply refer to it at the **Tamiko top**. It needs to be cut on the fold along the bottom.
+Tamiko is een top die geen stof verspilt. Het is een rechthoek die aan de stofvouw geknipt wordt. Niet meer dan dat. There's only one part to this top, we will simply refer to it at the **Tamiko top**. Het moet aan de stofvouw geknipt worden langs de onderrand.
 
-> Cut out the armhole, but leave seam allowance
+> Knip het armsgat uit, maar laat naadwaarde over
 
-Below is a typical Tamiko draft:
+Hier is een typisch Tamiko patroon:
 
-![A typical Tamiko draft](layout.svg)
+![Een typisch Tamiko patroon](layout.svg)
 
-> The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
 
-## Construction
 
-### Step 1: Finish the armhole seam
+## Constructie
 
-![Finsh the armhole seam](step03.png)
+### Stap 1: werk het armsgat af
 
-Finish the armhole seam with a narrow hem.
+![Werk het armsgat af](step03.png)
 
-### Step 2: Finish the top
+Werk het armsgat af met een smalle zoom.
 
-![Sew the three seamlines that are marked on your draft](step04.png)
+### Stap 2: Maak de top af
 
-> As your top is folded, it's a good idea to pin both halves together. This way, your top can't shift around while we finish it.
+![Stik de drie naadlijnen die op je patroon aangegeven staan](step04.png)
 
-Sew the three seamlines that are marked on your draft.
+> Het is een goed idee om de twee helften samen te spelden terwijl je de top plooit. Zo kan de boel niet verschuiven terwijl we alles afwerken.
+
+Stik de drie naadlijnen die op je patroon aangegeven staan.

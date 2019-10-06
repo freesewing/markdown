@@ -22,8 +22,8 @@ The 5th and last parameter controls the *sorting* of the found intersections. Th
 
 Set sort to:
 
-- `x` : The point with the lowest X-coordinate will go first (left to right)
-- `y` : The point with the lowest Y-coordinate will go first (top to bottom)
+ - `x` : The point with the lowest X-coordinate will go first (left to right)
+ - `y` : The point with the lowest Y-coordinate will go first (top to bottom)
 
 ### Utils.beamIntersectsCircle() example
 
@@ -214,8 +214,8 @@ The 5th and last parameter controls the *sorting* of the found intersections. Wh
 
 Set sort to:
 
-- `x` : The point with the lowest X-coordinate will go first (left to right)
-- `y` : The point with the lowest Y-coordinate will go first (top to bottom)
+ - `x` : The point with the lowest X-coordinate will go first (left to right)
+ - `y` : The point with the lowest Y-coordinate will go first (top to bottom)
 
 ### Utils.circlesIntersect() example
 
@@ -484,8 +484,8 @@ The 5th and last parameter controls the *sorting* of the found intersections. Wh
 
 Set sort to:
 
-- `x` : The point with the lowest X-coordinate will go first (left to right)
-- `y` : The point with the lowest Y-coordinate will go first (top to bottom)
+ - `x` : The point with the lowest X-coordinate will go first (left to right)
+ - `y` : The point with the lowest Y-coordinate will go first (top to bottom)
 
 ### Utils.lineIntersectsCircle() example
 
@@ -638,6 +638,7 @@ snippets.X = new Snippet(
 );
 ```
 
+
 ## pointOnBeam()
 
 ```js
@@ -655,7 +656,9 @@ Returns `true` if the point `check` lies on the endless line that goes through `
 
 ###### Tweak precision only when needed
 
-Typically, you don't need to worry about precision. But occasionally, you may get unexpected results because of floating point errors, rounding errors, or cubic bezier juggling.
+Typically, you don't need to worry about precision. But occasionally, you may get 
+unexpected results because of floating point errors, rounding errors, or 
+cubic bezier juggling.
 
 When that happens, you can lower the precision so you get what you expect.
 
@@ -716,6 +719,7 @@ paths.lne2 = new Path()
   .line(points.b2)
   .attr("class", "fabric dashed");
 ```
+
 
 ## pointOnCurve()
 
@@ -863,8 +867,8 @@ float utils.round(float value)
 
 Rounds a value to two decimals. For example:
 
-- 0.1234 becomes 0.12
-- 5.6789 becomes 5.68
+ - 0.1234 becomes 0.12
+ - 5.6789 becomes 5.68
 
 > The [Part.shorthand](/en/docs/developer/api/part#partshorthand) exposes a context-aware `unit()` method that will call this method and pass it the units requested by the user.
 
@@ -893,3 +897,5 @@ string utils.units(float value, string format = 'metric')
 Converts the units `value` you pass it into a formatted string for the `format` you pass it.
 
 Format must be either `imperial` or `metric` (the default).
+
+

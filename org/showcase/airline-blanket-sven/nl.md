@@ -1,11 +1,11 @@
 ---
 date: 2018-02-05
-title: A Sven made out of two airline blankets
+title: Een Sven gemaakt uit twee vliegtuigdekens
 img: showcase.jpg
-caption: "You'll never look at those blankets on a plane the same way again."
+caption: "Die dekentjes op het vliegtuig zullen nooit meer hezelfde zijn."
 patterns:
   - sven
 author: funloveadventure
 ---
 
-[This image](https://www.instagram.com/p/BeKLaPfhGbU/) is from [the Instagram feed of funloveadventure](https://www.instagram.com/funloveadventure/). It is published here with permission.
+[Deze afbeelding](https://www.instagram.com/p/BeKLaPfhGbU/) komt van [de Instagram feed van funloveadventure](https://www.instagram.com/funloveadventure/). Ze werd hier gepost met toestemming.

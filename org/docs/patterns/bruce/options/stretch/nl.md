@@ -1,9 +1,3 @@
----
-title: Stretch
-pattern: bruce
-option: stretch
----
+![De optie voor stretch bij Bruce](./stretch.svg)
 
-![The stretch option on Bruce](./stretch.svg)
-
-The amount of overal (horizontal) stretch.
+De hoeveelheid algemene (horizontale) stretch.

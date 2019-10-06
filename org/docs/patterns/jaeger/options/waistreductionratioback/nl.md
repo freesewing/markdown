@@ -1,7 +1,4 @@
----
-title: Waist reduction ratio back
-pattern: jaeger
-option: waistReductionRatioBack
----
 
-Proportion of the waist to be reduced in back panel shaping. Will also impact side panel shaping.
+![Ratio reductie taille rug](waistreductionratioback.svg)
+
+Proportion of the waist to be reduced in back panel shaping. Dit heeft ook invloed op de vorm van het zijpand.

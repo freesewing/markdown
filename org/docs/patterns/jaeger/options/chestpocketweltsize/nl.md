@@ -1,7 +1,5 @@
----
-title: Chest pocket welt size
-pattern: jaeger
-option: chestPocketWeltSize
----
+
+![Afmeting paspel borstzak](chestpocketweltsize.svg)
 
 The height of the chest pocket welt.
+

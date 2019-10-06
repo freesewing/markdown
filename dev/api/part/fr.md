@@ -2,16 +2,16 @@
 title: Part
 ---
 
-Part objects hold the actual information, and together they make up your pattern.
+Les objets partie (part) contiennent les informations importantes, et ensemble  composent votre modèle.
 
-Each Part object comes with the following properties:
+Chaque objet Part vient avec les propriétés suivantes :
 
-- `paths` : A plain object to store your paths in
-- `points` : A plain object to store your points in
-- `render` : A flag that controls whether to include the part in the render output
-- `snippets` : A plain object to store your snippets in
+ - `paths` : un objet simple dans lequel stocker vos chemins
+ - `points` : un objet simple dans lequel stocker vos points
+ - `render` : un drapeau qui contrôle le fait d'inclure la partie dans la sortie affichée
+ - `snippets` : un objet simple dans lequel stocker vos snippets
 
-In addition, a Part object exposes the following methods:
+De plus, un objet Part expose les méthodes suivantes :
 
 ## copy()
 
@@ -19,13 +19,14 @@ In addition, a Part object exposes the following methods:
 Part part.copy(Part original)
 ```
 
-This will copy the points, paths, and snippets from a part you pass into it.
+Cela copiera les points, les chemins et les snippets à partir d'une partie, que vous lui transmettez.
 
 <Note>
 
-This method is used internally, you are unlikely to need this.
+Cette méthode est utilisée en interne, vous n'en aurez probablement pas besoin.
 
-If you want one part to build on another, you should set up [part inheritance](/advanced/inject) in your pattern's [configuration](../config) file.
+If you want one part to build on another, you should set 
+up [part inheritance](/advanced/inject)  in your pattern's [configuration](../config) file.
 
 </Note>
 
@@ -34,10 +35,10 @@ If you want one part to build on another, you should set up [part inheritance](/
 ```js
 int part.getId()
 ```
+Retourne une valeur entière comme identifiant disponible que vous pouvez utiliser pour des Points/Chemins/Snippets.
 
-Returns a integer as an available ID that you can use as for Points/Paths/Snippets.
+C'est généralement utilisé lors de l'ajout programmé de points.
 
-This is typically used when adding points programmatically.
 
 ## shorthand()
 
@@ -45,30 +46,30 @@ This is typically used when adding points programmatically.
 object Part.shorthand();
 ```
 
-This method returns a plain object with the following properties:
+Cette méthode retourne un objet simple aux propriétés suivantes :
 
-- `Point` : the [Point](/api/point) constructor
-- `points` = `part.points`
-- `Path` : the [Path](/api/path) constructor
-- `paths` = `part.paths`
-- `Snippet` : the [Snippet](/api/snippet) constructor
-- `snippets` = `part.snippets`
-- `measurements` = `pattern.settings.measurements`
-- `options` = `pattern.settings.options`
-- `sa` = `pattern.settings.sa`
-- `utils` : A [Utils](/api/utils) instance with utility methods
-- `units` : A context-aware version of `utils.units`
-- `macro` : The macro runner
-- `store` = `pattern.store`, a [Store](/api/store) instance that is shared across parts
-- `final` : `true` is this is a full draft, or `false` if this is a sample.
-- `paperless` = `pattern.settings.paperless`
+  - `Point` : le constructeur [Point](/api/point)
+  - `points` = `part.points`
+  - `Path` : le constructeur [Path](/api/path)
+  - `paths` = `part.paths`
+  - `Snippet` : le constructeur [Snippet](/api/snippet)
+  - `snippets` = `part.snippets`
+  - `measurements` = `pattern.settings.measurements`
+  - `options` = `pattern.settings.options`
+  - `sa` = `pattern.settings.sa`
+  - `utils` : une instance [Utilitaires](/api/utils) avec les méthodes utilitaires
+  - `units` : une version consciente du contexte de `utils.units`
+  - `macro` : la macro runner
+  - `store` = `pattern.store`, une instance [Store](/api/store) qui est partagée entre les parties
+  - `final` : `true` si c'est une ébauche complète, ou `false` si c'est un échantillon.
+  - `paperless` = `pattern.settings.paperless`
 
-As the name implies, this method can save you a bunch of typing, and keep your code concise. We highly recommend it. Below are some examples:
+Comme son nom l'indique, cette méthode peut vous épargner pas mal d'écriture et garder votre code concis. Nous la recommandons vivement. En voici quelques exemples :
 
 ### Part.shorthand() example
 
 ```js{16}
-// You could write this:
+// vous pourriez écrire ceci :
 part.points.from = new part.Point(
   pattern.measurements.chestCircumference / 2, 
   pattern.options.armholeDepth);
@@ -81,7 +82,7 @@ part.paths.example = new part.Path()
   .move(parts.points.from)
   .line(parts.points.to);
 
-// Or use shorthand:
+// ou utiliser le raccourci :
 let { Point, points, measurements, options, sa } = part.shorthand();
 
 points.from = new Point(
@@ -99,17 +100,18 @@ paths.example = new Path()
 
 <Tip>
 
-As you can see in the example above, you can/should load only the shorthand you need by using object destructuring.
+Comme vous pouvez le voir dans l'exemple ci-dessus, vous pouvez/devriez charger seulement 
+le raccourci dont vous avez besoin en utilisant la déstructuration d'objet.
 
 </Tip>
 
 ## units()
 
 ```js
-string part.units(float number)
+string part.units(nombre décimal)
 ```
 
-Formats input (in mm) as the units requested by the user.
+Formate l'entrée (en mm) comme les unités demandées par l'utilisateur.
 
 <Tip>
 
@@ -122,3 +124,6 @@ let { units } = part.shorthand();
 ```
 
 </Tip>
+
+
+

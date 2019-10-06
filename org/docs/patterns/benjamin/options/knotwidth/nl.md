@@ -1,11 +1,5 @@
----
-title: Knot width
-pattern: benjamin
-option: knotWidth
----
+De breedte van de knoop is de breedte in het midden van de vlinderdas, waar je de knoop maakt.
 
-The knot width is the width in the middle of the bow tie, where you make the knot.
+Hoe breed je vlinderdas is in het midden heeft invloed op de knoop. Groter werkt beter bij grote vlinderdassen.
 
-How wide your bow tie is in the middle will influence the tie knot. Bigger works better with larger bow ties.
-
-> With the Square type bow tie, this value also dictates the width of the tips
+> Bij de vierkante vlinderdas bepaalt deze waarde ook de breedte van de punten

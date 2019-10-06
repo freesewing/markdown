@@ -1,6 +1,3 @@
----
-title: Making Tamiko
----
 
 ## What you need
 
@@ -17,8 +14,8 @@ Long story short, go for a knitted fabric, or some light scuba or something. No 
 
 ## Cutting
 
-- **Main fabric** 
- - Cut **1 Tamiko top** on the fold
+ - **Main fabric**
+   - Cut **1 Tamiko top** on the fold
 
 Tamiko is a zero-waste pattern. It's a rectangle that's cut out on the fold. Not more than that. There's only one part to this top, we will simply refer to it at the **Tamiko top**. It needs to be cut on the fold along the bottom.
 
@@ -29,6 +26,7 @@ Below is a typical Tamiko draft:
 ![A typical Tamiko draft](layout.svg)
 
 > The [notation legend](/en/docs/patterns/notation) explains all the different markings and lines on your draft.
+
 
 ## Construction
 

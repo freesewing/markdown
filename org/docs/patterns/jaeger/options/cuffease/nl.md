@@ -1,7 +1,4 @@
----
-title: Cuff ease
-pattern: jaeger
-option: cuffEase
----
 
-The amount of ease at your cuff/wrist.
+![Overwijdte manchet](cuffease.svg)
+
+De hoeveelheid overwijdte aan je manchet/pols.

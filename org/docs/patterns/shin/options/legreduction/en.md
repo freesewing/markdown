@@ -1,8 +1,3 @@
----
-title: Leg reduction
-pattern: shin
-option: legReduction
----
 
 The amount to further reduce the stretch at the (upper) legs.
 

@@ -1,7 +1,3 @@
----
-title: Waist ease
-pattern: carlita
-option: waistEase
----
+![Waist ease](./waistease.svg)
 
 The amount of ease at your waist.

@@ -7,13 +7,7 @@ into a little routine.
 
 Macros are provided by [plugins](/plugins/). Here are some examples:
 
-<Example pattern="rendertest" options={{
-  colors: false,
-  circles: false,
-  snippets: false,
-  text: false,
-  widthHd: false
-}}/>
+<Example pattern="rendertest" options={{ colors: false, circles: false, snippets: false, text: false, widthHd: false }}/>
 
 Refer to [the API documentation](/api/part#macro) for details on how to use macros,
 and the [extending FreeSewing](/extend) documentation for info on how to create your

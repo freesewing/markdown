@@ -1,8 +1,3 @@
----
-title: Shoulder inset
-pattern: wahid
-option: shoulderInset
----
 
 How far do you want your waistcoat to sit away from your shoulder on the shoulder seam? The default is 2cm.
 

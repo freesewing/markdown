@@ -8,4 +8,4 @@ patterns:
 author: Natalie
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BAqm70Lqg9o/) of [taliajane_designs](https://www.instagram.com/taliajane_designs/).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BAqm70Lqg9o/)  of [taliajane_designs](https://www.instagram.com/taliajane_designs/).

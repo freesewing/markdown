@@ -1,9 +1,4 @@
----
-title: Cuff button rows
-pattern: simon
-option: cuffButtonRows
----
 
-Do you want a single button on your barrelcuff, or two?
+Wil je een enkele knoop op je manchet, of twee?
 
-> This does only apply to barrelcuffs. So if you picked a French cuff as cuff style this will be ignored.
+> Dit is alleen van toepassing om de klassieke manhet. Dus als je een Franse manchet gekozen hebt wordt dit genegeerd.

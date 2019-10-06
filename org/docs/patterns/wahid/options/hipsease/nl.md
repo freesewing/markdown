@@ -1,7 +1,2 @@
----
-title: Hips ease
-pattern: wahid
-option: hipsEase
----
 
-How much room do you want at your hips?
+Hoeveel ruimte wil je aan je heupen?

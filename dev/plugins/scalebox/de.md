@@ -61,7 +61,6 @@ void macro("scalebox", {
   text: string
 });
 ```
-
 The macro takes a single configuration object with the following properties:
 
 | Property | Default                  | Type                | Description                            |
@@ -71,6 +70,5 @@ The macro takes a single configuration object with the following properties:
 | `title`  | *pattern name + version* | String              | The title text                         |
 | `text`   | (\*)                   | String              | The text below the title               |
 | `rotate` | 0                        | Number              | Rotation in degrees                    |
-
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`

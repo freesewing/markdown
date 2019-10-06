@@ -1,7 +1,3 @@
----
-title: Waist ease
-pattern: simon
-option: waistEase
----
+![Waist ease](waistease.svg)
 
 How much room do you want at the waist?

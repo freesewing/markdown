@@ -47,7 +47,11 @@ Go to [/account/export](/account/export) to export your data.
 You have the right to object to your personal data being used for scientific research.
 Go to [/account/consent](/account/consent) and object in the **model data** section to do so.
 
-> The right to object is broader, but this is how it applies to freesewing.
+<Note>
+
+The right to object is broader, but this is how it applies to freesewing.
+
+</Note>
 
 ## Rights in relation to automated decision making and profiling
 

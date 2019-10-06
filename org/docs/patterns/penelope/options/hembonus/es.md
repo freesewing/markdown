@@ -1,7 +1,2 @@
----
-title: Hem bonus
-pattern: penelope
-option: hemBonus
----
+This option will reduce the circumference of the skirt at the hem. Percentage of the seat measurement.
 
-This option allows for additional width at the hem.

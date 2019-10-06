@@ -1,7 +1,2 @@
----
-title: Waistband
-pattern: penelope
-option: waistband
----
+Adds a waistband to the pattern.
 
-Do you want a waistband or not?

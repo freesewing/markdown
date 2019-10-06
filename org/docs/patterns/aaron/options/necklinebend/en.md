@@ -1,8 +1,3 @@
----
-title: Neckline shape
-pattern: aaron
-option: necklineBend
----
 ![The neckline shape option on Aaron](./necklinebend.svg)
 
 Determines the bend of the front of the neck opening.

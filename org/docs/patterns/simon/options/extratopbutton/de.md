@@ -1,8 +1,3 @@
----
-title: Extra top button
-pattern: simon
-option: extraTopButton
----
 
 Do you want an extra button between the top front button and collar stand button?
 
@@ -13,5 +8,5 @@ Do you want an extra button between the top front button and collar stand button
 > It's an extra button you'll want if you plan to still look good in the bar after your work day with your top button undone and your tie somewhat loose. The extra button is also great if you are wearing your shirt under an overgarment with the top button undone. For example, under a sweater.
 > 
 > Do not include the top button if you want a more casual look.
-> 
+
 > This extra button is added to the number of buttons on the front. It does not replace another button.

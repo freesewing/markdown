@@ -4,7 +4,9 @@ title: FreeSewing revenue pledge
 
 <Note>
 
-I — Joost De Cock, maintainer of the FreeSewing project — hereby pledge that all FreeSewing revenue will be donated to [Doctors Without Borders (MSF)](http://www.msf.org/).
+I — Joost De Cock, maintainer of the FreeSewing 
+project — hereby pledge that all FreeSewing revenue will be donated 
+to [Doctors Without Borders (MSF)](http://www.msf.org/).
 
 </Note>
 
@@ -18,8 +20,7 @@ I don't know if you're familiar with the phrase **noblesse oblige** but it essen
 
 I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
-ould I use the money? Yes I could.  
-Do I need the money? No I don't.
+ould I use the money? Yes I could. Do I need the money? No I don't.
 
 ### The value of your support
 
@@ -40,7 +41,6 @@ I could volunteer at a soup kitchen, or teach underprivileged children how to se
 Which is why all the money raised through FreeSewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 
 ### Charity is not sexy
-
 Here's the tricky part: People give less once they know the money goes to charity in the end. I wish it wasn't the case, but it is.
 
 So we're presenting [our subscription options](/patrons/join) like you would see on a for-profit site. It seems more intuitive this way, and also just works better.
@@ -57,8 +57,7 @@ Yet somehow, in some of those worst places to be a human being, there is still a
 
 The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
 
-I can't think of a single symbol that reminds us that not everything is lost, and there's still good people out there.  
-I can't think of a single organisation more deserving of our support.
+I can't think of a single symbol that reminds us that not everything is lost, and there's still good people out there. I can't think of a single organisation more deserving of our support.
 
 So I am happy to make this pledge.
 
@@ -69,3 +68,4 @@ In practice, all revenue received in the previous 12 months will be transfered t
 If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
 
 </Note>
+

@@ -1,7 +1,3 @@
----
-title: Sleeve bend
-pattern: carlita
-option: sleeveBend
----
+![Sleeve bend](./sleevebend.svg)
 
-The angle of the sleeve.
+The angle of the sleeve at the elbow.

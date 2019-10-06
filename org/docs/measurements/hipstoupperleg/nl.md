@@ -1,5 +1,5 @@
 ---
-title: Hips to upper leg
+title: Heupen tot bovenbeen
 ---
 
 The **hips to upper leg** is measured at the side of your body from your hipline down to the upper part of your leg.

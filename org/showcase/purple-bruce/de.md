@@ -8,4 +8,4 @@ patterns:
 author: Laetitia B
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/) of [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
+This picture is from [the Instagram feed](https://www.instagram.com/p/BJcIzihhz-b-2_3G5FtvtsnUz1ZKoqADYPAyZw0/)  of [zephine_malvimavie](https://instagram.com/zephine_malvimavie).
