@@ -8,20 +8,20 @@ Ein Schnittmuster Objekt kommt mit folgenden Eigenschaften:
  - `Optionen` : die Optionen, wie sie vom Benutzer festgelegt werden
  - `config` : The pattern configuration
  - `Teile` : Ein einfaches Objekt, das die einzelnen Teile Ihres Schnittmusters enthält
- - `Part` : The [Part](/en/docs/developer/api/part) constructor
- - `store` : A [Store](/en/docs/developer/api/store) instance
- - `svg` : An [Svg](/en/docs/developer/api/svg) instance
- - `is` : A string that will be set to `draft` or `sample` when you respectively draft or sample a pattern. This allows plugins that hook into your pattern to determine what to do in a given scenario.
+ - `Teil` : Der [Schnitteil-](/en/docs/developer/api/part) Konstrukteur
+ - `Store` : Die [Speicher-](/en/docs/developer/api/store)Instanz
+ - `svg` : Ein [Svg](/en/docs/developer/api/svg) Instanz
+ - `ist` : Eine Zeichenkette, die auf `Entwürfe` oder `Beispiel` gesetzt wird, wenn Sie einen Entwurf anfertigen oder Beispiel erstellen. Dies ermöglicht Plugins, die sich in Ihr Schnittmuster einhaken um zu bestimmen, was in einem bestimmten Szenario zu tun ist.
 
-In addition, a Pattern object has the following methods:
+Zusätzlich enthält ein Schnittmuster-Objekt folgende Methoden:
 
-## draft()
+## Entwurf()
 
 ```js
-Pattern pattern.draft()
+Schnitmuster schnittmuster.entwurf()
 ```
 
-Does the actual work of drafting the pattern.
+Erledigt die eigentliche Arbeit der Erstellung des Schnittes.
 
 Your draft method should return the pattern object, thus making it chainable.
 
