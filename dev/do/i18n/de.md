@@ -10,12 +10,12 @@ Wenn Sie z. B. *mit Schrägband abschließen wollen,* auf Ihrem Schnittmuster, s
 path.seam.attr("data-text", "Abschluss mit Schrägband");
 ```
 
-Dieses (englische) Textfragment ist jetzt in Ihrem Schnittmuster hart codiert. As freesewing supports translation out of the box, it would be a real shame not to make use of it.
+Dieses (englische) Textfragment ist jetzt in Ihrem Schnittmuster hart codiert. Da Freesewing die Übersetzung out of the Box unterstützt, wäre es eine Schande, sie nicht zu nutzen.
 
-Instead, insert a key to identify the string:
+Stattdessen fügen Sie einen Schlüssel ein, um das Textfragment zu identifizieren:
 
 ```js
 path.seam.attr("data-text", "finishWithBiasTape");
 ```
 
-This way, it can be translated.
+So kann es übersetzt werden.
