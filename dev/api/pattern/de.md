@@ -23,9 +23,9 @@ Schnitmuster schnittmuster.entwurf()
 
 Erledigt die eigentliche Arbeit der Erstellung des Schnittes.
 
-Your draft method should return the pattern object, thus making it chainable.
+Ihre Entwurfmethode sollte das Schnittteilobjekt zurückgeben, damit auf diesem aufgebaut werden kann.
 
-FIXME: Insert draft example
+FIXME: Beispiel einfügen
 
 ```js
 import freesewing from "@freesewing/core"
@@ -42,17 +42,17 @@ let aaron = new Aaron({
 let svg = aaron.draft().render()
 ```
 
-## sample()
+## Beispiel()
 
 ```js
-Pattern pattern.sample()
+Schnitmuster schnittmuster.entwurf()
 ```
 
 This method calls either [sampleOption()](#sampleoption), [sampleMeasurement()](#samplemeasurement), or [sampleModels()](#samplemodels).
 
 Unlike those three methods who you need to pass the relevant info to, [sample()](#pattern-sample) will read the `pattern.settings.sample` object to determine what to do.
 
-The possiblities are:
+Die Möglichkeiten sind:
 
  - **type**: One of `option`, `measurement`, or `models`
  - **option**: An option name as defined in the pattern config file (only used when `type` is option).
