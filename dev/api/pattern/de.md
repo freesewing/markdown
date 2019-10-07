@@ -1,13 +1,13 @@
 ---
-title: Pattern
+title: Schnittmuster
 ---
 
-A Pattern object comes wih the following properties:
+Ein Schnittmuster Objekt kommt mit folgenden Eigenschaften:
 
- - `settings` : The settings as set by the user
- - `options` : the options as set by the user
+ - `Einstellungen` : Die Einstellungen, wie sie vom Benutzer gesetzt werden
+ - `Optionen` : die Optionen, wie sie vom Benutzer festgelegt werden
  - `config` : The pattern configuration
- - `parts` : A plain object to hold your parts
+ - `Teile` : Ein einfaches Objekt, das die einzelnen Teile Ihres Schnittmusters enthält
  - `Part` : The [Part](/en/docs/developer/api/part) constructor
  - `store` : A [Store](/en/docs/developer/api/store) instance
  - `svg` : An [Svg](/en/docs/developer/api/svg) instance
