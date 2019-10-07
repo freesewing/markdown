@@ -4,13 +4,13 @@ title: Verwende Übersetzungschlüssel, nicht Text
 
 Fügen Sie keine Texte in Ihre Schnittmuster ein. Stattdessen fügen Sie bitte einen Schlüssel ein, der übersetzt werden kann.
 
-For example, if you want to put *Finish with bias tape* on your pattern, don't be tempted to do this:
+Wenn Sie z. B. *mit Schrägband abschließen wollen,* auf Ihrem Schnittmuster, seien Sie nicht versucht, folgendes zu tun:
 
 ```js
-path.seam.attr("data-text", "Finish with bias tape");
+path.seam.attr("data-text", "Abschluss mit Schrägband");
 ```
 
-That (English) string is now hard-coded in your pattern. As freesewing supports translation out of the box, it would be a real shame not to make use of it.
+Dieses (englische) Textfragment ist jetzt in Ihrem Schnittmuster hart codiert. As freesewing supports translation out of the box, it would be a real shame not to make use of it.
 
 Instead, insert a key to identify the string:
 
