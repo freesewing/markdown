@@ -1,11 +1,11 @@
 ---
-title: Adding text
+title: Tekst toevoegen
 order: 310
 ---
 
-SVG is pretty great, but its text handling leaves much to be desired.
+SVG is vrij mooi, maar de tekstafhandeling laat veel te wensen over.
 
-To abstract away the intracacies of adding text to an SVG document, FreeSewing lets you add text to patterns by adding it to the attributes of points and paths.
+To abstract away the intricacies of adding text to an SVG document, FreeSewing lets you add text to patterns by adding it to the attributes of points and paths.
 
 All you have to do is set the `data-text` attribute to the text you want to add to the pattern:
 
