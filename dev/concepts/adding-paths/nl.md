@@ -1,5 +1,5 @@
 ---
-title: Adding paths
+title: Paths toevoegen
 order: 270
 ---
 
