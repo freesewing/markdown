@@ -1,11 +1,11 @@
 ---
-title: Community standards
+title: Gemeinschaftsstandards
 ---
 
-Thank you for being part of the freesewing community. When you engage with us, or when you engage with others, please remember the following simple rules:
+Vielen Dank, dass Sie Teil der FreeSewing-Community wurden. Wenn Sie mit uns in Verbindung treten oder sich mit anderen in Verbindung setzen, denken Sie bitte an folgende einfache Regeln:
 
-## Be nice
-We cannot accept comments that are either offensive in themselves or clearly offensive to others.
+## Seien Sie höflich
+Wir können keine Kommentare akzeptieren, die entweder anstößig an sich oder eindeutig anstößig für andere sind.
 
 We ask you to avoid obscenities and other insulting language, to show respect for fellow users, public figures and the fundamental principles we hopefully all share.
 
