@@ -1,13 +1,13 @@
 ---
-date: 2018-01-26
-title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+date: 26.01.2018
+title: "Ankündigung von Carlita, der Damenbekleidungs-Version unseres Carlton-Mantels."
+linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
 caption: "Picture you and him, in matching coats."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild von Frauenschwarm Benedict Cumberbatch am Anfang dieses Beitrags.
 
 Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
 
