@@ -39,7 +39,7 @@ Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo 
 
 ### Eine zusätzliche Option: Der Prinzessnaht-Glättungsfaktor
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita hat auch eine Option, die Carlton nicht hat, den etwas umständlich benannten [Prinzessnaht-Glättungsfaktor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
 This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
 
