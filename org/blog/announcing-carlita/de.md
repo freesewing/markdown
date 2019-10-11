@@ -9,11 +9,11 @@ author: joost
 
 Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild von Frauenschwarm Benedict Cumberbatch am Anfang dieses Beitrags.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita ist \--- du hast es erraten \--- die Damenbekleidungs-Version unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
-## How did we do it?
+## Wie haben wir es gemacht?
 
 For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
 
