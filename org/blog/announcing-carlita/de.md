@@ -11,15 +11,15 @@ Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild v
 
 Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita ist \--- du hast es erraten \--- die Damenbekleidungs-Version unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
+Carlita ist \--- du hast es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
 ## Wie haben wir es gemacht?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Für Details darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
 
 We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
 
-### Princess, meet your seam
+### Prinzessin, triff deine Naht
 
 We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
 
