@@ -33,9 +33,9 @@ Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann 
 
 ### Alle Taschen, aber wir mussten einige davon verschieben
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+Die Ergänzung der Prinzessnaht hat die Platzierung der Kartentasche etwas schwierig gemacht, also haben wir wir sie leicht verschoben und vertikal ausgerichtet statt leicht geneigt wie bei Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo in der Unterbrust-Region.
 
 ### One extra option: The princess seam smooth factor
 
