@@ -23,10 +23,10 @@ We wanted to stay as close to the original as possible, so all we did was make c
 
 We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
 
- - The [high bust](/docs/measurements/#highBust)
- - The [bust span](/docs/measurements/#bustSpan)
+ - Die [Oberbrustweite](/docs/measurements/#highBust)
+ - Die [Brustweite](/docs/measurements/#bustSpan)
  - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
 
 We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
