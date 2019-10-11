@@ -37,7 +37,7 @@ Die Ergänzung der Prinzessnaht hat die Platzierung der Kartentasche etwas schwi
 
 Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo in der Unterbrust-Region.
 
-### One extra option: The princess seam smooth factor
+### Eine zusätzliche Option: Der Prinzessnaht-Glättungsfaktor
 
 Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
