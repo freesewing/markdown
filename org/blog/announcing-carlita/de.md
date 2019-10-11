@@ -29,7 +29,7 @@ Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, z
  - Die [Brustweite](/docs/measurements/#bustSpan)
  - Der [höchste Punkt der Schulter zur Brust](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
 
 ### All of the pockets, but we had to move some of them
 
