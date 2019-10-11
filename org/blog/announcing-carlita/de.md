@@ -1,9 +1,9 @@
 ---
 date: 26.01.2018
-title: "Ankündigung von Carlita, der Damenbekleidungs-Version unseres Carlton-Mantels."
+title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Stell dir dich und ihn vor, in zusammenpassenden Mänteln."
 author: joost
 ---
 
@@ -31,7 +31,7 @@ Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, z
 
 Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
 
-### All of the pockets, but we had to move some of them
+### Alle Taschen, aber wir mussten einige davon verschieben
 
 The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
 
