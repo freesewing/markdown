@@ -1,20 +1,20 @@
 ---
-title: website
+title: Website
 ---
 
 import RepoPage from "../../../../src/components/repo-page";
 
 <RepoPage repo="website" />
 
-This is the source code for [FreeSewing.org](https://freesewing.org), our main website.
+Dies ist der Quellcode für [FreeSewing.org](https://freesewing.org), unsere Hauptseite.
 
 It's a [JAMStack](https://jamstack.org/) site powered by [Gatsby](https://www.gatsbyjs.org/) and hosted by [Netlify](https://www.netlify.com/).
 
-The content (documentation, blog posts, and so on) is kept in [our markdown repository](/repos/markdown) and included in this repository as a submodule.
+Der Inhalt (Dokumentation, Blogeinträge usw.) wird in [unseres markdown-Repositories](/repos/markdown) und als Submodul in diesem Repository gespeichert.
 
-## Getting started
+## Erste Schritte
 
-To run your own copy of our website, follow these steps:
+Um Ihre eigene Kopie unserer Website auszuführen, befolgen Sie diese folgenden Schritten:
 
 ```bash
 git clone --recurse-submodules git@github.com:freesewing/freesewing.org.git

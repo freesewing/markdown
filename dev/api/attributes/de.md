@@ -1,8 +1,8 @@
 ---
-title: Attributes
+title: Eigenschaften
 ---
 
-Attributes is an object that holds attributes for a variety of other objects.
+Attributes ist ein Objekt das Attribute für eine Vielzahl von anderen Objekten enthält.
 
 Attributes are attached to [`Point`](/api/point), [`Path`](/api/path), and [`Snippet`](/api/snippet) objects, as well as the internal [`Svg`](/api/svg) object.
 

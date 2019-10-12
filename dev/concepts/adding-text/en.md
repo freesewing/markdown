@@ -5,7 +5,7 @@ order: 310
 
 SVG is pretty great, but its text handling leaves much to be desired.
 
-To abstract away the intracacies of adding text to an SVG document, 
+To abstract away the intricacies of adding text to an SVG document, 
 FreeSewing lets you add text to patterns by adding it to the attributes 
 of points and paths.
 
