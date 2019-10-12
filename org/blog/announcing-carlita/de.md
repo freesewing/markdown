@@ -1,45 +1,45 @@
 ---
-date: 2018-01-26
-title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+date: 26.01.2018
+title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
+linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Stell dir dich und ihn vor, in zusammenpassenden Mänteln."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild von Frauenschwarm Benedict Cumberbatch am Anfang dieses Beitrags.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita ist \--- du hast es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
-## How did we do it?
+## Wie haben wir es gemacht?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Für Details darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
 
 We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
 
-### Princess, meet your seam
+### Prinzessin, triff deine Naht
 
 We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
 
- - The [high bust](/docs/measurements/#highBust)
- - The [bust span](/docs/measurements/#bustSpan)
- - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+ - Die [Oberbrustweite](/docs/measurements/#highBust)
+ - Die [Brustweite](/docs/measurements/#bustSpan)
+ - Der [höchste Punkt der Schulter zur Brust](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
 
-### All of the pockets, but we had to move some of them
+### Alle Taschen, aber wir mussten einige davon verschieben
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+Die Ergänzung der Prinzessnaht hat die Platzierung der Kartentasche etwas schwierig gemacht, also haben wir wir sie leicht verschoben und vertikal ausgerichtet statt leicht geneigt wie bei Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo in der Unterbrust-Region.
 
-### One extra option: The princess seam smooth factor
+### Eine zusätzliche Option: Der Prinzessnaht-Glättungsfaktor
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita hat auch eine Option, die Carlton nicht hat, den etwas umständlich benannten [Prinzessnaht-Glättungsfaktor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
 This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
 

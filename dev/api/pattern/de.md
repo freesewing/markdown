@@ -1,31 +1,31 @@
 ---
-title: Pattern
+title: Schnittmuster
 ---
 
-A Pattern object comes wih the following properties:
+Ein Schnittmuster Objekt kommt mit folgenden Eigenschaften:
 
- - `settings` : The settings as set by the user
- - `options` : the options as set by the user
+ - `Einstellungen` : Die Einstellungen, wie sie vom Benutzer gesetzt werden
+ - `Optionen` : die Optionen, wie sie vom Benutzer festgelegt werden
  - `config` : The pattern configuration
- - `parts` : A plain object to hold your parts
- - `Part` : The [Part](/en/docs/developer/api/part) constructor
- - `store` : A [Store](/en/docs/developer/api/store) instance
- - `svg` : An [Svg](/en/docs/developer/api/svg) instance
- - `is` : A string that will be set to `draft` or `sample` when you respectively draft or sample a pattern. This allows plugins that hook into your pattern to determine what to do in a given scenario.
+ - `Teile` : Ein einfaches Objekt, das die einzelnen Teile Ihres Schnittmusters enthält
+ - `Teil` : Der [Schnitteil-](/en/docs/developer/api/part) Konstrukteur
+ - `Store` : Die [Speicher-](/en/docs/developer/api/store)Instanz
+ - `svg` : Ein [Svg](/en/docs/developer/api/svg) Instanz
+ - `ist` : Eine Zeichenkette, die auf `Entwürfe` oder `Beispiel` gesetzt wird, wenn Sie einen Entwurf anfertigen oder Beispiel erstellen. Dies ermöglicht Plugins, die sich in Ihr Schnittmuster einhaken um zu bestimmen, was in einem bestimmten Szenario zu tun ist.
 
-In addition, a Pattern object has the following methods:
+Zusätzlich enthält ein Schnittmuster-Objekt folgende Methoden:
 
-## draft()
+## Entwurf()
 
 ```js
-Pattern pattern.draft()
+Schnitmuster schnittmuster.entwurf()
 ```
 
-Does the actual work of drafting the pattern.
+Erledigt die eigentliche Arbeit der Erstellung des Schnittes.
 
-Your draft method should return the pattern object, thus making it chainable.
+Ihre Entwurfmethode sollte das Schnittteilobjekt zurückgeben, damit auf diesem aufgebaut werden kann.
 
-FIXME: Insert draft example
+FIXME: Beispiel einfügen
 
 ```js
 import freesewing from "@freesewing/core"
@@ -42,17 +42,17 @@ let aaron = new Aaron({
 let svg = aaron.draft().render()
 ```
 
-## sample()
+## Beispiel()
 
 ```js
-Pattern pattern.sample()
+Schnitmuster schnittmuster.entwurf()
 ```
 
 This method calls either [sampleOption()](#sampleoption), [sampleMeasurement()](#samplemeasurement), or [sampleModels()](#samplemodels).
 
 Unlike those three methods who you need to pass the relevant info to, [sample()](#pattern-sample) will read the `pattern.settings.sample` object to determine what to do.
 
-The possiblities are:
+Die Möglichkeiten sind:
 
  - **type**: One of `option`, `measurement`, or `models`
  - **option**: An option name as defined in the pattern config file (only used when `type` is option).
