@@ -3,13 +3,13 @@
 
 ![Sluit de zij-en schoudernaden](step01.png)
 
-Leg het voorpand op het rugpand met de juiste kanten tegen elkaar. Overlock de zijnaden, en de korte naden aan de schouderbandjes.
+Put front and back on top of each other with _good sides together_. Overlock de zijnaden, en de korte naden aan de schouderbandjes.
 
 ## Stap 2: Werk de zoom af
 
 ![Werk de zoom af](step02.png)
 
-Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
+Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. If not, use a _twin needle_ or _zig-zag stitch_ to keep the seam stretchable.
 
 <Note>
 

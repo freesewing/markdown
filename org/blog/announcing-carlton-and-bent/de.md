@@ -1,27 +1,27 @@
 ---
-date: 2017-12-20
-title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
-linktitle: "Announcing the Carlton Coat and Bent Body Block"
+date: 20.12.2017
+title: "Ankündigung des Carlton-Mantels, auch bekannt als Sherlock Homes Mantel, und des Bent-Grundschnitts"
+linktitle: "Ankündigung des Carlton-Mantels und Gruntschnitts Bent"
 img: coat.jpg
-caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
+caption: "Auch Sie können diesen Mantel tragen. Was den Hut betrifft, sind Sie auf sich alleine gestellt. Auf jeden Fall bis jetzt."
 author: joost
 ---
 
-Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Gute Nachrichten für alle, wir haben Ihre Cosplay-Bedürfnisse abgedeckt. Das heißt, wenn Sie als Sherlock Holmes auftreten. Unsere neuestes Schnittmuster ist da, [der Carlton-Mantel.](/patterns/carlton) Er ist genau das, was der Arzt verschrieben würde, wenn aus einem seltsamen Grund Ihr Arzt möchte, dass Sie wie jedermans der Lieblingsdetektive aussehen.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Ich kann mich nicht mehr genau erinnern wie wir zu diesem Projekt kamen. Es hat vermutlich mit der Kälte draussen und meinem Nörgeln, dass ich keine warmen Wintermäntel habe, zu tun, aber abseits davon bin ich nicht mehr sicher.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Ich erinnere mich, dass [Anneke](http://www.annekecaramin.com/) und ich irgendwann beschlossen den Sherlock Holmes Mantel zu reverseengenieren. Konkreter, genau der Mantel den Benedict Cumberbatch in der BBC-Serie Sherlock Holmes getragen hat.
 
 ![That coat though](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+Der Mantel ist aus offensichtlichen Gründen bei Cosplayern beliebt, aber es ist auch ein wirklich schönes Kleidungsstück, und andere mutige Menschen wie zum Beispiel [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) haben sich auch schon daran versucht.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Ich muss gestehen, ich wusste nicht, dass Melissa auch so an so einem Mantel arbeitet, bis meiner fertig war. Außerdem erwähnt ihr Blogpost, dass sie die Anweisungen aus einem Livejournal-Beitrag verwendet hat, der nicht mehr verfügbar ist.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt anhand von Screenshot aus der Fernsehserie rekonstruiert. Wir sind diesbezüglich Hardcore.
 
-### About the coat
+### Über den Mantel
 
 Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
 

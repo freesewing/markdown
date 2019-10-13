@@ -3,7 +3,7 @@ date: 26.01.2018
 title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
-caption: "Stell dir dich und ihn vor, in zusammenpassenden Mänteln."
+caption: "Stell Sie sich und ihn vor, in zusammenpassenden Mänteln."
 author: joost
 ---
 
@@ -11,27 +11,27 @@ Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild v
 
 Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita ist \--- du hast es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
+Carlita ist \--- Sie haben es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
 ## Wie haben wir es gemacht?
 
-Für Details darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Für weitere Informationen darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Hier möchte ich den Fokus auf die Einzelheiten legen, wie wir diesen Herrenschnitt in eine Mantel für Damen verwandelt haben.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+Wir wollten so nahe am Original bleiben wie möglich. Alles was wir gemacht haben, diente dazu eine Herausforderung zu bewältigen: Den Schnitt an Brüste anpassen.
 
 ### Prinzessin, triff deine Naht
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+Wir haben im Vorderteil eine Prinzessinnennaht hinzugefügt, durch die wir die Brust abbilden konnten.
 
-Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
+Um das exakt machen zu können, benötigt Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
 
  - Die [Oberbrustweite](/docs/measurements/#highBust)
  - Die [Brustweite](/docs/measurements/#bustSpan)
- - Der [höchste Punkt der Schulter zur Brust](/docs/measurements/#highPointShoulderToBust)
+ - Der [höchste Punkt der Schulter bis zur Brust](/docs/measurements/#highPointShoulderToBust)
 
-Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
+Wir benutzen Ihre Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
 
-### Alle Taschen, aber wir mussten einige davon verschieben
+### Alle Taschen blieben erhalten, aber wir mussten einige davon verschieben
 
 Die Ergänzung der Prinzessnaht hat die Platzierung der Kartentasche etwas schwierig gemacht, also haben wir wir sie leicht verschoben und vertikal ausgerichtet statt leicht geneigt wie bei Carlton.
 
@@ -41,33 +41,33 @@ Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo 
 
 Carlita hat auch eine Option, die Carlton nicht hat, den etwas umständlich benannten [Prinzessnaht-Glättungsfaktor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Dieser legt fest, wie stark die Prinzessinen naht unterhalb der Brust wieder an den Körper anliegt, nach dem sie für die Mehrweite für die Brüste sorgte.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Ein Bild sagt mehr als tausend Worte, nachstehend seht Ihr eine Grafik wo dies mit den beiden relevanten Schnittteilen veranschaulicht wurde:
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![Der Effekt der Option, wie er von unserem Beispiel gezeigt wird](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Wie Sie sehen können, kontrolliert die Option, wie rasch sich die Prinzessinnennaht nach dem Erreichen der maximalen Ausdehnung über der Brust zur Taille hin verjüngt.
 
 A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Ein höhere Wert des Glättungsfaktors lässt den Schnitt weniger figurbetont werden und die Form ist gerader zum unteren Saum hin. Dies macht den Mantel weniger eng anliegend unterhalb der Brust, was auch leichter zu nähen ist.
 
-## A reminder about made-to-measure patterns
+## Eine Erinnerung bezüglich Maßschnitten
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Das versteht sich von selbst für regelmäßige Besucher dieser Website, aber wenn Sie neu hier sind, lohnt es sich, dies für Sie zu wiederholen:
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Dieser Mantel wurde nicht auf eine bestimmten Cup-Grösse hin entworfen. Stattdessen wird er an Ihre Brust angepasst, basierend auf Ihren Massen.
 
-## Ladies, we need your feedback
+## Meine Damen, Ihre Rückmeldungen sind uns sehr willkommen
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpsrtie. Wir betreten damit neuen Boden. Ich würde gerne erfahren, wie gut dieser Schnitt an verschiedenen Figurtypen / Cup-Grössen sitzt.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Wenn Sie vorhaben, diesen Schnitt für einen Mantel zu verwenden oder ein Nesselmodell davon zu erstellen, teilen Sie bitte Ihre Erfahrungen mit uns. Und bitte zögern Sie nicht mit uns in Kontakt zu treten, falls irgendwelche Schwierigkeiten auftreten.
 
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Ich habe vor noch andere Damenschnitte zu entwerfen. Wenn es irgendwelche Passformprobleme gibt, so möchte ich davon lieber früher als später erfahren.
 
-## Shout-out
+## Zum Schluss
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Zu guter Letzt, möchte ich [Anneke](http://www.annekecaramin.com/) ganz herzlich für Ihre Unterstützung bei diesem Projekt danken und dass Sie meine zahllosen Tiraden über meine Hassliebe zu Brüsten im Schnittdesign ertragen hat.

@@ -3,13 +3,13 @@
 
 ![Close the side and shoulder seams](step01.png)
 
-Put front and back on top of each other with good sides together. Serge the side seams, and the short seams at the shoulder straps.
+Put front and back on top of each other with _good sides together_. Serge the side seams, and the short seams at the shoulder straps.
 
 ## Step 2: Finish hem
 
 ![Finish the hem](step02.png)
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
+Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a _twin needle_ or _zig-zag stitch_ to keep the seam stretchable.
 
 <Note>
 
