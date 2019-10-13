@@ -41,17 +41,17 @@ Auf diese Weise kann die Tasche in der Prinzessnaht integriert werden, irgendwo 
 
 Carlita hat auch eine Option, die Carlton nicht hat, den etwas umständlich benannten [Prinzessnaht-Glättungsfaktor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Dieser legt fest, wie stark die Prinzessinen naht unterhalb der Brust wieder an den Körper anliegt, nach dem sie für die Mehrweite für die Brüste sorgte.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Ein Bild sagt mehr als tausend Worte, nachstehend seht Ihr eine Grafik wo dies mit den beiden relevanten Schnittteilen veranschaulicht wurde:
 
 ![The effect of the option as shown by our sampler service](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Wie Sie sehen können, kontrolliert die Option, wie rasch sich die Prinzessinnennaht nach dem Erreichen der maximalen Ausdehnung über der Brust zur Taille hin verjüngt.
 
 A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Ein höhere Wert des Glättungsfaktors lässt den Schnitt weniger figurbetont werden und die Form ist gerader zum unteren Saum hin. Dies macht den Mantel weniger eng anliegend unterhalb der Brust, was auch leichter zu nähen ist.
 
 ## A reminder about made-to-measure patterns
 
