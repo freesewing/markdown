@@ -17,21 +17,21 @@ Carlita ist \--- Sie haben es erraten \--- die Damenversion unseres Carlton-Mant
 
 Für weitere Informationen darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Hier möchte ich den Fokus auf die Einzelheiten legen, wie wir diesen Herrenschnitt in eine Mantel für Damen verwandelt haben.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+Wir wollten so nahe am Original bleiben wie möglich. Alles was wir gemacht haben, diente dazu eine Herausforderung zu bewältigen: Den Schnitt an Brüste anpassen.
 
 ### Prinzessin, triff deine Naht
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+Wir haben im Vorderteil eine Prinzessinnennaht hinzugefügt, durch die wir die Brust abbilden konnten.
 
-Um das exakt machen zu können, benötigt man für Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
+Um das exakt machen zu können, benötigt Carlita drei weitere Maße, zusätzlich zu den für Carlton erforderlichen. Das sind:
 
  - Die [Oberbrustweite](/docs/measurements/#highBust)
  - Die [Brustweite](/docs/measurements/#bustSpan)
- - Der [höchste Punkt der Schulter zur Brust](/docs/measurements/#highPointShoulderToBust)
+ - Der [höchste Punkt der Schulter bis zur Brust](/docs/measurements/#highPointShoulderToBust)
 
-Wir benutzen deine Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
+Wir benutzen Ihre Oberbrust-Maße, um den Mantel zu entwerfen, und machen dann eine FBA an der Prinzessnaht anhand deines (vollen) Brustumfangs, deiner Brustweite und deines Abstands zwischen Brust und höchstem Punkt der Schulter.
 
-### Alle Taschen, aber wir mussten einige davon verschieben
+### Alle Taschen blieben erhalten, aber wir mussten einige davon verschieben
 
 Die Ergänzung der Prinzessnaht hat die Platzierung der Kartentasche etwas schwierig gemacht, also haben wir wir sie leicht verschoben und vertikal ausgerichtet statt leicht geneigt wie bei Carlton.
 
