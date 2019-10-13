@@ -1,5 +1,5 @@
 ---
-title: Frequently asked questions
+title: Häufig gestellte Fragen
 ---
 
 ## Why do I need to create an account just to download a pattern?
