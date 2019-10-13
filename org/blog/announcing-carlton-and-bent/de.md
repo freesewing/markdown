@@ -17,11 +17,11 @@ Ich erinnere mich, dass [Anneke](http://www.annekecaramin.com/) und ich irgendwa
 
 Der Mantel ist aus offensichtlichen Gründen bei Cosplayern beliebt, aber es ist auch ein wirklich schönes Kleidungsstück, und andere mutige Menschen wie zum Beispiel [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) haben sich auch schon daran versucht.
 
-Ich muss gestehen, ich wusste nicht, dass Melissa auch so an so einem Mantel arbeitet, bis meiner fertig war. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Ich muss gestehen, ich wusste nicht, dass Melissa auch so an so einem Mantel arbeitet, bis meiner fertig war. Außerdem erwähnt ihr Blogpost, dass sie die Anweisungen aus einem Livejournal-Beitrag verwendet hat, der nicht mehr verfügbar ist.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt anhand von Screenshot aus der Fernsehserie rekonstruiert. Wir sind diesbezüglich Hardcore.
 
-### About the coat
+### Über den Mantel
 
 Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
 
