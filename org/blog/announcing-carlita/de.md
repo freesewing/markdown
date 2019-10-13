@@ -45,7 +45,7 @@ Dieser legt fest, wie stark die Prinzessinen naht unterhalb der Brust wieder an 
 
 Ein Bild sagt mehr als tausend Worte, nachstehend seht Ihr eine Grafik wo dies mit den beiden relevanten Schnittteilen veranschaulicht wurde:
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![Der Effekt der Option, wie er von unserem Beispiel gezeigt wird](smooth.png)
 
 Wie Sie sehen können, kontrolliert die Option, wie rasch sich die Prinzessinnennaht nach dem Erreichen der maximalen Ausdehnung über der Brust zur Taille hin verjüngt.
 
@@ -70,4 +70,4 @@ Ich habe vor noch andere Damenschnitte zu entwerfen. Wenn es irgendwelche Passfo
 
 ## Zum Schluss
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Zu guter Letzt, möchte ich [Anneke](http://www.annekecaramin.com/) ganz herzlich für Ihre Unterstützung bei diesem Projekt danken und dass Sie meine zahllosen Tiraden über meine Hassliebe zu Brüsten im Schnittdesign ertragen hat.
