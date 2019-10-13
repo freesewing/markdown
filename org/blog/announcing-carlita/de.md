@@ -3,7 +3,7 @@ date: 26.01.2018
 title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
-caption: "Stell dir dich und ihn vor, in zusammenpassenden Mänteln."
+caption: "Stell Sie sich und ihn vor, in zusammenpassenden Mänteln."
 author: joost
 ---
 
@@ -11,11 +11,11 @@ Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild v
 
 Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita ist \--- du hast es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
+Carlita ist \--- Sie haben es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
 ## Wie haben wir es gemacht?
 
-Für Details darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Für weitere Informationen darüber, wie dieses Projekt entstanden ist, verweise ich auf [den Carlton Ankündigungs-Post](/blog/announcing-carlton-and-bent/). Hier möchte ich den Fokus auf die Einzelheiten legen, wie wir diesen Herrenschnitt in eine Mantel für Damen verwandelt haben.
 
 We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
 
