@@ -2,20 +2,19 @@
 title: Häufig gestellte Fragen
 ---
 
-## Why do I need to create an account just to download a pattern?
+## Warum muss ich ein Benutzerkonto erstellen, nur um ein Muster herunterzuladen?
 
-For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
+Aus praktischen Gründen. Da wir maßgeschneiderte Schnittmuster erzeugen, benötigen wir Ihre Maße, um ein Schnittmuster für Sie zu erstellen. Wir müssen auch wissen, ob Sie metrische oder imperiale Maßeinheiten verwenden.
 
-Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Wenn wir Sie jedes Mal nach Informationen müssten, wäre dies eher umständlich, daher speichern wir diese Informationen für Sie. Und in Ihrem Benutzerkonto werden diese Informationen hinterlegt.
 
-So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
+Wir könnten diese Seite prinzipiell so aufbauen, dass ein Konto nicht benötigt wird, dies wäre in der Realität jedoch sehr unpraktisch.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Fragen Sie, weil Sie uns nicht trauen?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+Dies Frage deutet oft auf ein Unbehagen, ein Benutzerkonto zu erstellen, hin. As such, the following questions and answers may also be relevant:
 
  - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
  - [Who pays for all of this?](#who-pays-for-all-of-this)
