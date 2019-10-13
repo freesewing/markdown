@@ -1,8 +1,8 @@
 ---
-title: Contact info
+title: Kontaktinformationen
 ---
 
-You can contact us in more than one way. Here are the options, ranked by how well they scale:
+Sie können uns über mehrere Kanäle kontaktieren. Here are the options, ranked by how well they scale:
 
 ## Chat with us on Gitter
 The freesewing community on Gitter is the best place to ask questions, meet other freesewers, or just hang out and share a laugh.
