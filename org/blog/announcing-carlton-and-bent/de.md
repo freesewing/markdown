@@ -23,11 +23,11 @@ Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt
 
 ### Über den Mantel
 
-Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmantels, der statt eines Geschlitzes mehrere weite Falten hat, die sich über den Pferderücken ausbreiten können. Or, more realistically, fan open behind you as you walk about.
+Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmantels, der statt eines Geschlitzes mehrere weite Falten hat, die sich über den Pferderücken ausbreiten können. Oder, realistischer, die schön hinter Ihnen herflattern, wenn Sie raschen Schrittes dahin eilen.
 
 ![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+Er ist mit zwei Pattentaschen am Vorderteil, zwei Kartentaschen an der Brust und zwei innere Taschen. Six pockets in total, so you'll have plenty of room for all your belongings.
 
 ![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
 
