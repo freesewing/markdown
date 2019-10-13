@@ -35,9 +35,9 @@ Ich stellte meinen rechtzeitig fertig für meine Reise nach Köln, zu meinem gut
 
 ![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Brennt das Patriarchat nieder mit der Macht von Taschen
 
-Ladies take note: Carlita \--- a female version of Carlton \--- is currently on the drawing board.
+Meine Damen bitte beachten Sie, Carlita — Die Damenvariante von Carlton — wird aktuell erstellt.
 
 Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
 
