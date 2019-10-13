@@ -61,13 +61,13 @@ Das versteht sich von selbst für regelmäßige Besucher dieser Website, aber we
 
 ## Meine Damen, Ihre Rückmeldungen sind uns sehr willkommen
 
-Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpsrtie. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpsrtie. Wir betreten damit neuen Boden. Ich würde gerne erfahren, wie gut dieser Schnitt an verschiedenen Figurtypen / Cup-Grössen sitzt.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Wenn Sie vorhaben, diesen Schnitt für einen Mantel zu verwenden oder ein Nesselmodell davon zu erstellen, teilen Sie bitte Ihre Erfahrungen mit uns. Und bitte zögern Sie nicht mit uns in Kontakt zu treten, falls irgendwelche Schwierigkeiten auftreten.
 
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Ich habe vor noch andere Damenschnitte zu entwerfen. Wenn es irgendwelche Passformprobleme gibt, so möchte ich davon lieber früher als später erfahren.
 
-## Shout-out
+## Zum Schluss
 
 Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
