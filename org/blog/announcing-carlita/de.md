@@ -53,15 +53,15 @@ A low factor will make for a more fitted coat, but also a more curvy seam that i
 
 Ein höhere Wert des Glättungsfaktors lässt den Schnitt weniger figurbetont werden und die Form ist gerader zum unteren Saum hin. Dies macht den Mantel weniger eng anliegend unterhalb der Brust, was auch leichter zu nähen ist.
 
-## A reminder about made-to-measure patterns
+## Eine Erinnerung bezüglich Maßschnitten
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Das versteht sich von selbst für regelmäßige Besucher dieser Website, aber wenn Sie neu hier sind, lohnt es sich, dies für Sie zu wiederholen:
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Dieser Mantel wurde nicht auf eine bestimmten Cup-Grösse hin entworfen. Stattdessen wird er an Ihre Brust angepasst, basierend auf Ihren Massen.
 
-## Ladies, we need your feedback
+## Meine Damen, Ihre Rückmeldungen sind uns sehr willkommen
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpsrtie. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
 
 If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
 
