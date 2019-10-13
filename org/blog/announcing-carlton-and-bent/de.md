@@ -27,11 +27,11 @@ Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmant
 
 ![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
-Er ist mit zwei Pattentaschen am Vorderteil, zwei Kartentaschen an der Brust und zwei innere Taschen. Six pockets in total, so you'll have plenty of room for all your belongings.
+Er ist mit zwei Pattentaschen am Vorderteil, zwei Kartentaschen an der Brust und zwei innere Taschen. Sechs Taschen im Ganzen, so haben Sie viel Platz um all Ihre Dinge zu verstauen.
 
 ![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+Ich stellte meinen rechtzeitig fertig für meine Reise nach Köln, zu meinem guten Freund und Schneidermeister [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). Es war sehr kalt da drüben, der Mantel hat mich aber schön warm gehalten. Dies ist nicht verwunderlich, da ich den Mantel aus einer schweren Wolltuche genäht habe, die ich im Sommer bei [ Bacci in Florenz](http://www.baccitessuti.it/en/index.html) erworben hatte. Und ich habe das Stück extra mit French Terry abgefüttert (ich hasse Kälte).
 
 ![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
 
