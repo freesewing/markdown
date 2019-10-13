@@ -7,17 +7,17 @@ caption: "Auch Sie können diesen Mantel tragen. Was den Hut betrifft, sind Sie 
 author: joost
 ---
 
-Gute Nachrichten für alle, wir haben Ihre Cosplay-Bedürfnisse abgedeckt. Das heißt, wenn Sie als Sherlock Holmes auftreten. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Gute Nachrichten für alle, wir haben Ihre Cosplay-Bedürfnisse abgedeckt. Das heißt, wenn Sie als Sherlock Holmes auftreten. Unsere neuestes Schnittmuster ist da, [der Carlton-Mantel.](/patterns/carlton) Er ist genau das, was der Arzt verschrieben würde, wenn aus einem seltsamen Grund Ihr Arzt möchte, dass Sie wie jedermans der Lieblingsdetektive aussehen.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Ich kann mich nicht mehr genau erinnern wie wir zu diesem Projekt kamen. Es hat vermutlich mit der Kälte draussen und meinem Nörgeln, dass ich keine warmen Wintermäntel habe, zu tun, aber abseits davon bin ich nicht mehr sicher.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Ich erinnere mich, dass [Anneke](http://www.annekecaramin.com/) und ich irgendwann beschlossen den Sherlock Holmes Mantel zu reverseengenieren. Konkreter, genau der Mantel den Benedict Cumberbatch in der BBC-Serie Sherlock Holmes getragen hat.
 
 ![That coat though](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+Der Mantel ist aus offensichtlichen Gründen bei Cosplayern beliebt, aber es ist auch ein wirklich schönes Kleidungsstück, und andere mutige Menschen wie zum Beispiel [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) haben sich auch schon daran versucht.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Ich muss gestehen, ich wusste nicht, dass Melissa auch so an so einem Mantel arbeitet, bis meiner fertig war. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
 
 Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
 
