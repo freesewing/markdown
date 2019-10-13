@@ -1,13 +1,13 @@
 ---
-date: 2017-12-20
-title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
-linktitle: "Announcing the Carlton Coat and Bent Body Block"
+date: 20.12.2017
+title: "Ankündigung des Carlton-Mantels, auch bekannt als Sherlock Homes Mantel, und des Bent-Grundschnitts"
+linktitle: "Ankündigung des Carlton-Mantels und Gruntschnitts Bent"
 img: coat.jpg
-caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
+caption: "Auch Sie können diesen Mantel tragen. Was den Hut betrifft, sind Sie auf sich alleine gestellt. Auf jeden Fall bis jetzt."
 author: joost
 ---
 
-Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Gute Nachrichten für alle, wir haben Ihre Cosplay-Bedürfnisse abgedeckt. Das heißt, wenn Sie als Sherlock Holmes auftreten. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
 
 My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
 
