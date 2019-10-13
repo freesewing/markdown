@@ -23,7 +23,7 @@ Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt
 
 ### Über den Mantel
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmantels, der statt eines Geschlitzes mehrere weite Falten hat, die sich über den Pferderücken ausbreiten können. Or, more realistically, fan open behind you as you walk about.
 
 ![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
