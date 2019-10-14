@@ -43,12 +43,12 @@ Ursprünglich war es geplant, männliche und weibliche Version gleichzeitig zu p
 
 Ich habe das gefühlt, ich muss zur Zeit auf zu vielen Hochzeiten gleichzeitig tanzen, deswegen hoffe ich, dass ich nach dem Release von Carlton die nötige Zeit und Ruhe finde, um Carlita so bald wie möglich zu nachzureichen. Auf jeden Fall habe ich Anneke versprochen, dass es eine weibliche Version geben wird und sie ist zwischenzeitlich [ein FreeSewing Kapitän](/patrons) geworden, also sollte ich dies Versprechen einhalten.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Ah und diesbezüglich, Carlita wird genau so viele Taschen haben wie Carlton.
 
-## Also, this: Introducing the Bent Body Block
-We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
+## Und nun weiter: darf ich vorstellen: der Grundschnitt Bent
+Wir publizieren heute als nicht bloss ein sondern gleich zwei Schnittmuster. Neben dem Mangel Carlton haben wir auch noch [den Grundschnitt Bent](/patterns/bent)fertiggestellt.
 
-Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
+Bent ist eine modifizierte Variante unseres Grundschnits [Brian](/patterns/bent) mit einem zweiteiligen Ärmel. It's essentially a base for coat and jacket patterns for menswear.
 
 I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
 
