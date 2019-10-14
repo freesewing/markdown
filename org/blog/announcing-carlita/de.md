@@ -49,7 +49,7 @@ Ein Bild sagt mehr als tausend Worte, nachstehend seht Ihr eine Grafik wo dies m
 
 Wie Sie sehen können, kontrolliert die Option, wie rasch sich die Prinzessinnennaht nach dem Erreichen der maximalen Ausdehnung über der Brust zur Taille hin verjüngt.
 
-A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
+Ein geringerer Faktor macht den Mantel körpernäher, was aber auch kurvigere Nähte nach sich zieht, die schwieriger zu nähen sind.
 
 Ein höhere Wert des Glättungsfaktors lässt den Schnitt weniger figurbetont werden und die Form ist gerader zum unteren Saum hin. Dies macht den Mantel weniger eng anliegend unterhalb der Brust, was auch leichter zu nähen ist.
 

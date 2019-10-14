@@ -13,7 +13,7 @@ Ich kann mich nicht mehr genau erinnern wie wir zu diesem Projekt kamen. Es hat 
 
 Ich erinnere mich, dass [Anneke](http://www.annekecaramin.com/) und ich irgendwann beschlossen den Sherlock Holmes Mantel zu reverseengenieren. Konkreter, genau der Mantel den Benedict Cumberbatch in der BBC-Serie Sherlock Holmes getragen hat.
 
-![That coat though](bc.jpg)
+![Aber dieser Mantel](bc.jpg)
 
 Der Mantel ist aus offensichtlichen Gründen bei Cosplayern beliebt, aber es ist auch ein wirklich schönes Kleidungsstück, und andere mutige Menschen wie zum Beispiel [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) haben sich auch schon daran versucht.
 
@@ -23,35 +23,35 @@ Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt
 
 ### Über den Mantel
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmantels, der statt eines Geschlitzes mehrere weite Falten hat, die sich über den Pferderücken ausbreiten können. Oder, realistischer, die schön hinter Ihnen herflattern, wenn Sie raschen Schrittes dahin eilen.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Vorderseite des Carlton-Mantels](front.jpg) ![Rückseite des Carlton-Mantels](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+Er ist mit zwei Pattentaschen am Vorderteil, zwei Kartentaschen an der Brust und zwei innere Taschen. Sechs Taschen im Ganzen, so haben Sie viel Platz um all Ihre Dinge zu verstauen.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Karten- und Pattentasche auf der Aussenseite](pockets.jpg) ![Innere Taschen im Futter](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+Ich stellte meinen rechtzeitig fertig für meine Reise nach Köln, zu meinem guten Freund und Schneidermeister [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). Es war sehr kalt da drüben, der Mantel hat mich aber schön warm gehalten. Dies ist nicht verwunderlich, da ich den Mantel aus einer schweren Wolltuche genäht habe, die ich im Sommer bei [ Bacci in Florenz](http://www.baccitessuti.it/en/index.html) erworben hatte. Und ich habe das Stück extra mit French Terry abgefüttert (ich hasse Kälte).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Ich werde nicht von Bacci gesponsert, ich liebe einfach gute Stoffläden](bacci.jpg) ![Sie können hier das Terry-Zwischenfutter sehen, so ich das Ärmelfutter zurückgezogen habe](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Brennt das Patriarchat nieder mit der Macht von Taschen
 
-Ladies take note: Carlita \--- a female version of Carlton \--- is currently on the drawing board.
+Meine Damen bitte beachten Sie, Carlita — Die Damenvariante von Carlton — wird aktuell erstellt.
 
-Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
+Ursprünglich war es geplant, männliche und weibliche Version gleichzeitig zu publizieren, aber die Anpassung des Mantels für Personen mit Brüsten hat weitaus mehr Zeit in Anspruch genommen als ursprünglich gedacht.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+Ich habe das gefühlt, ich muss zur Zeit auf zu vielen Hochzeiten gleichzeitig tanzen, deswegen hoffe ich, dass ich nach dem Release von Carlton die nötige Zeit und Ruhe finde, um Carlita so bald wie möglich zu nachzureichen. Auf jeden Fall habe ich Anneke versprochen, dass es eine weibliche Version geben wird und sie ist zwischenzeitlich [ein FreeSewing Kapitän](/patrons) geworden, also sollte ich dies Versprechen einhalten.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Ah und diesbezüglich, Carlita wird genau so viele Taschen haben wie Carlton.
 
-## Also, this: Introducing the Bent Body Block
-We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
+## Und nun weiter: darf ich vorstellen: der Grundschnitt Bent
+Wir publizieren heute als nicht bloss ein sondern gleich zwei Schnittmuster. Neben dem Mangel Carlton haben wir auch noch [den Grundschnitt Bent](/patterns/bent)fertiggestellt.
 
-Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
+Bent ist eine modifizierte Variante unseres Grundschnits [Brian](/patterns/bent) mit einem zweiteiligen Ärmel. Es ist im Wesentlichen eine Grundlage für Mäntel und Sakkos in der Herrenmode.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+Ich habe Bent ursprünglich als Basis für meine [Refashioners 2017 Zebrajacket](/blog/the-refashioners-2017/) entworfen, sodass Sie die Sie erwarten dürfen, dass das Jacket-Schnittmuster in den kommenden Monaten auf die Website erscheint.
 
-Carlton is also based on Bent, so we're giving you both today.
+Auch Carlton ist auf Grundlage von Bent entworfen, so geben wir beide Schnitte heute frei.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Ich wünsche Ihnen schöne und angenehme Festtage, falls Sie diese faiern. Und viel Freude beim Schneidern!
