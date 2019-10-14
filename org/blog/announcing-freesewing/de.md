@@ -1,5 +1,5 @@
 ---
-date: 2017-03-24
+date: 24.03.2017
 title: "Ankündigung von FreeSewing, eine Opensourceplattform für Schnittmuster auf Mass"
 linktitle: "Ankündigung von FreeSewing"
 img: "logo.jpg"
@@ -7,14 +7,14 @@ caption: "Das FreeSewing-Logo"
 author: joost
 ---
 
-I am are proud to announce [freesewing core v1.0.0](https://github.com/freesewing/core) and the accompanying [documentation](/docs) that describes the freesewing project in detail.
+Stolz darf ich euch die Veröffentlichung von [freesewing core v1.0.0](https://github.com/freesewing/core) und der zugehörigen [Dokumentation](/docs), die das FreeSewing Projekt im Detail beschreibt.
 
-But I'm also realistic, and understand that you don't have time to plow through pages upon pages of documentation.
+Aber ich bin auch Realist und weiss, dass Sie nicht die Zeit haben, sich durch Seiten über Seiten an Dokumentation zu wühlen.
 
-So instead, here's a story to give you the essence of freesewing in a nutshell:
+Stattdessen ist hier eine Abriss, um Ihnen den Kern von FreeSewing in aller Kürze zu präsentieren:
 
-## The freesewing origin story
-Sewing is easy. It really is. What's hard is getting things to fit properly. That's why you use a sewing pattern. It's a blueprint for whatever it is you are making. A good pattern gives you good fit. Most patterns don't.
+## Die Herkunft von FreeSewing
+Nähen ist einfach. Ja wirklich. Was schwierig ist, ist zu erreichen, dass die Kleidung gut sitzt. Das ist der Grund, warum wir Schnittmuster verwenden. Es ist ein Blaupause für das, was Sie kreieren möchten. Ein guter Schnitt gibt Ihnen eine gute Passform. Die meisten Schnittmuster verfehlen dieses Ziel.
 
 That's because &mdash; much like clothes in the shop &mdash; patterns come in sizes. And sizes are a crude way to put people in boxes. They are made for an imaginary average person, rather than for you.
 
