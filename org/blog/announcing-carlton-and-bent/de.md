@@ -41,7 +41,7 @@ Meine Damen bitte beachten Sie, Carlita — Die Damenvariante von Carlton — wi
 
 Ursprünglich war es geplant, männliche und weibliche Version gleichzeitig zu publizieren, aber die Anpassung des Mantels für Personen mit Brüsten hat weitaus mehr Zeit in Anspruch genommen als ursprünglich gedacht.
 
-Ich habe das gefühlt, ich muss zur Zeit auf zu vielen Hochzeiten gleichzeitig tanzen, deswegen hoffe ich, dass ich nach dem Release von Carlton die nötige Zeit und Ruhe finde, um Carlita so bald wie möglich zu nachzureichen. Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+Ich habe das gefühlt, ich muss zur Zeit auf zu vielen Hochzeiten gleichzeitig tanzen, deswegen hoffe ich, dass ich nach dem Release von Carlton die nötige Zeit und Ruhe finde, um Carlita so bald wie möglich zu nachzureichen. Auf jeden Fall habe ich Anneke versprochen, dass es eine weibliche Version geben wird und sie ist zwischenzeitlich [ein FreeSewing Kapitän](/patrons) geworden, also sollte ich dies Versprechen einhalten.
 
 Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
 
