@@ -1,5 +1,5 @@
 ---
-date: 24.03.2017
+date: 2017-03-24
 title: "Ankündigung von FreeSewing, eine Opensourceplattform für Schnittmuster auf Mass"
 linktitle: "Ankündigung von FreeSewing"
 img: "logo.jpg"
