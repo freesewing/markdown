@@ -13,7 +13,7 @@ Ich kann mich nicht mehr genau erinnern wie wir zu diesem Projekt kamen. Es hat 
 
 Ich erinnere mich, dass [Anneke](http://www.annekecaramin.com/) und ich irgendwann beschlossen den Sherlock Holmes Mantel zu reverseengenieren. Konkreter, genau der Mantel den Benedict Cumberbatch in der BBC-Serie Sherlock Holmes getragen hat.
 
-![That coat though](bc.jpg)
+![Aber dieser Mantel](bc.jpg)
 
 Der Mantel ist aus offensichtlichen Gründen bei Cosplayern beliebt, aber es ist auch ein wirklich schönes Kleidungsstück, und andere mutige Menschen wie zum Beispiel [Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) haben sich auch schon daran versucht.
 
@@ -25,15 +25,15 @@ Anneke und ich hab uns nicht an solche Anleitung gehalten. Wir haben den Schnitt
 
 Carlton ist ein zweireihiger Mantel in der Tradition eines Kavallerieuniformmantels, der statt eines Geschlitzes mehrere weite Falten hat, die sich über den Pferderücken ausbreiten können. Oder, realistischer, die schön hinter Ihnen herflattern, wenn Sie raschen Schrittes dahin eilen.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Vorderseite des Carlton-Mantels](front.jpg) ![Rückseite des Carlton-Mantels](back.jpg)
 
 Er ist mit zwei Pattentaschen am Vorderteil, zwei Kartentaschen an der Brust und zwei innere Taschen. Sechs Taschen im Ganzen, so haben Sie viel Platz um all Ihre Dinge zu verstauen.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Karten- und Pattentasche auf der Aussenseite](pockets.jpg) ![Innere Taschen im Futter](innerpocket.jpg)
 
 Ich stellte meinen rechtzeitig fertig für meine Reise nach Köln, zu meinem guten Freund und Schneidermeister [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). Es war sehr kalt da drüben, der Mantel hat mich aber schön warm gehalten. Dies ist nicht verwunderlich, da ich den Mantel aus einer schweren Wolltuche genäht habe, die ich im Sommer bei [ Bacci in Florenz](http://www.baccitessuti.it/en/index.html) erworben hatte. Und ich habe das Stück extra mit French Terry abgefüttert (ich hasse Kälte).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Ich werde nicht von Bacci gesponsert, ich liebe einfach gute Stoffläden](bacci.jpg) ![Sie können hier das Terry-Zwischenfutter sehen, so ich das Ärmelfutter zurückgezogen habe](interlining.jpg)
 
 ### Brennt das Patriarchat nieder mit der Macht von Taschen
 
@@ -48,10 +48,10 @@ Ah und diesbezüglich, Carlita wird genau so viele Taschen haben wie Carlton.
 ## Und nun weiter: darf ich vorstellen: der Grundschnitt Bent
 Wir publizieren heute als nicht bloss ein sondern gleich zwei Schnittmuster. Neben dem Mangel Carlton haben wir auch noch [den Grundschnitt Bent](/patterns/bent)fertiggestellt.
 
-Bent ist eine modifizierte Variante unseres Grundschnits [Brian](/patterns/bent) mit einem zweiteiligen Ärmel. It's essentially a base for coat and jacket patterns for menswear.
+Bent ist eine modifizierte Variante unseres Grundschnits [Brian](/patterns/bent) mit einem zweiteiligen Ärmel. Es ist im Wesentlichen eine Grundlage für Mäntel und Sakkos in der Herrenmode.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+Ich habe Bent ursprünglich als Basis für meine [Refashioners 2017 Zebrajacket](/blog/the-refashioners-2017/) entworfen, sodass Sie die Sie erwarten dürfen, dass das Jacket-Schnittmuster in den kommenden Monaten auf die Website erscheint.
 
-Carlton is also based on Bent, so we're giving you both today.
+Auch Carlton ist auf Grundlage von Bent entworfen, so geben wir beide Schnitte heute frei.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Ich wünsche Ihnen schöne und angenehme Festtage, falls Sie diese faiern. Und viel Freude beim Schneidern!
