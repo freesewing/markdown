@@ -39,9 +39,9 @@ Ich stellte meinen rechtzeitig fertig für meine Reise nach Köln, zu meinem gut
 
 Meine Damen bitte beachten Sie, Carlita — Die Damenvariante von Carlton — wird aktuell erstellt.
 
-Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
+Ursprünglich war es geplant, männliche und weibliche Version gleichzeitig zu publizieren, aber die Anpassung des Mantels für Personen mit Brüsten hat weitaus mehr Zeit in Anspruch genommen als ursprünglich gedacht.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+Ich habe das gefühlt, ich muss zur Zeit auf zu vielen Hochzeiten gleichzeitig tanzen, deswegen hoffe ich, dass ich nach dem Release von Carlton die nötige Zeit und Ruhe finde, um Carlita so bald wie möglich zu nachzureichen. Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
 
 Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
 
