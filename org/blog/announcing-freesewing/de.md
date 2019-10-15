@@ -20,7 +20,7 @@ Dies ist &mdash; wie bei Kleidung aus dem Laden &mdash; weil Schnitte nach Grös
 
 Es gibt einen anderen Weg, nämlich den Schnitt direkt mit Ihren Massen zu konstruieren. Diese maßgeschneiderten Schnittmuster sind den Grössenschnitten weit überlegen, aber sie erfordern viel Arbeit, um sie zu erstellen.
 
-I wanted to change that, and that effort evolved into [MakeMyPattern.com](https://makemypattern.com/). I ran that site for a number of years, and it was a remarkable success. Probably helped by the fact that I gave away all patterns for free.
+Ich wollte diesbezüglich Abhilfe schaffen und diese Anstrengungen mündeten in [MakeMyPattern.com](https://makemypattern.com/). Und diese Seite lief für einige Jahre und hatte erstaunlichen Erfolg. Probably helped by the fact that I gave away all patterns for free.
 
 In the world of home sewing, it tends to require a bit of explaining why one would choose to give away their work for free. Things are different in the open source world where the idea of sharing your work with others for the benefit of all is the very thread from which communities are woven.
 
