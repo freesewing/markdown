@@ -7,9 +7,9 @@ caption: "Ich trinke nicht, aber das schien für einen Festbeitrag angemessen zu
 author: joost
 ---
 
-Exactly one year ago, the doors of freesewing.org swung open for our users, while those of makemypattern.com get one of those *we've moved* signs.
+Vor genau einem Jahr öffneten sich die Türen von FreeSewing.org für unsere Nutzer,während die von makemypattern.com eines dieser *Wir sind umgezogen*-Schilder erhielten.
 
-Looking back at [that blog post from 12 months ago](/blog/open-for-business), it almost beggars belief that the things announced then are only one year old. The concept of a draft, the comparison functionality, or even paperless patterns. They all celebrate their first birthday today.
+Rückblickend auf [den Blogbeitrag von vor 12 Monaten](/blog/open-for-business), es ist fast unglaublich, dass die damals angekündigten Dinge erst ein Jahr alt sind. Das Konzept eines Entwurfs, die Vergleichsfunktion oder auch die Möglichkeit Schnittmuster papierlos zu übertragen. Sie alle feiern heute ihren ersten Geburtstag.
 
 Not this site though, because [driven by the looming GDPR deadline](/blog/gdpr-plan), we dumped our Jekyll based site for a new front end sometime in May.
 
