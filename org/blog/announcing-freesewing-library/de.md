@@ -1,9 +1,9 @@
 ---
 date: 2018-08-25
-title: "Celebrating one year of freesewing.org: Announcing the freesewing library"
-linktitle: "Announcing the freesewing library"
+title: "Wir feiern ein Jahr von FreeSewing.org: Ankündigung der FreeSewing-Bibliothek"
+linktitle: "Ankündigung der FreeSewing-Bibliothek"
 img: uncork.jpg
-caption: "I don't drink, but this seemed appropriate for a celebration post ¯\_(ツ)_/¯"
+caption: "Ich trinke nicht, aber das schien für einen Festbeitrag angemessen zu sein ¯\_(ツ)_/¯"
 author: joost
 ---
 
