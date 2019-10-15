@@ -11,11 +11,11 @@ Vor genau einem Jahr öffneten sich die Türen von FreeSewing.org für unsere Nu
 
 Rückblickend auf [den Blogbeitrag von vor 12 Monaten](/blog/open-for-business), es ist fast unglaublich, dass die damals angekündigten Dinge erst ein Jahr alt sind. Das Konzept eines Entwurfs, die Vergleichsfunktion oder auch die Möglichkeit Schnittmuster papierlos zu übertragen. Sie alle feiern heute ihren ersten Geburtstag.
 
-Not this site though, because [driven by the looming GDPR deadline](/blog/gdpr-plan), we dumped our Jekyll based site for a new front end sometime in May.
+Aber nicht diese Website, weil [die bevorstehende DSGVO-Einführung](/blog/gdpr-plan) uns zwang unsere jekyll-basierte Website zugunsten eines neuen Frontends zu beerdigen. Dies geschah irgendwann im Mai.
 
-## More languages with less languages
+## Weitere Sprachen mit weniger Sprachen
 
-GDPR was only part of that story. Other reasons for the rewrite were our desire to support multiple languages, and to simplify our technology stack.
+DSGVO war nur Teil dieser Geschichte. Other reasons for the rewrite were our desire to support multiple languages, and to simplify our technology stack.
 
 In other words, we wanted to reach people who speak different languages, and wanted to limit the number of programming languages required to do so.
 
