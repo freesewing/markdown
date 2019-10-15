@@ -20,13 +20,13 @@ Dies ist &mdash; wie bei Kleidung aus dem Laden &mdash; weil Schnitte nach Grös
 
 Es gibt einen anderen Weg, nämlich den Schnitt direkt mit Ihren Massen zu konstruieren. Diese maßgeschneiderten Schnittmuster sind den Grössenschnitten weit überlegen, aber sie erfordern viel Arbeit, um sie zu erstellen.
 
-Ich wollte diesbezüglich Abhilfe schaffen und diese Anstrengungen mündeten in [MakeMyPattern.com](https://makemypattern.com/). Und diese Seite lief für einige Jahre und hatte erstaunlichen Erfolg. Probably helped by the fact that I gave away all patterns for free.
+Ich wollte diesbezüglich Abhilfe schaffen und diese Anstrengungen mündeten in [MakeMyPattern.com](https://makemypattern.com/). Und diese Seite lief für einige Jahre und hatte erstaunlichen Erfolg. Vermutlich half die Tatsache, dass ich alle Schnittmuster kostenlos zur Verfügung stellte.
 
-In the world of home sewing, it tends to require a bit of explaining why one would choose to give away their work for free. Things are different in the open source world where the idea of sharing your work with others for the benefit of all is the very thread from which communities are woven.
+Im Umfeld von Hobbynähern braucht es meistens etwas Erläuterung, warum jemand etwas kostenlos zur Verfügung stellt. Die Dinge stehen ganz anders in der Opensource-Welt, wo die Idee Wissen und Arbeit mit anderen zu teilen, zum Nutzen aller, die Grundlage der Communities darstellt.
 
-While I can't magically bring the culture of open source to sewing patterns, I certainly can bring sewing patterns into the open source world.
+Da ich die Opensource-Kultur nicht in die Welt des Nähens bringen kann, kann ich aber auf jeden Fall Schnittmuster in die Opensource-Sphären bringen.
 
-[Freesewing.org](https://freesewing.org/) will continue to offer what [Makemypattern.com](https://makemypattern.com/) does today: free sewing patterns drafted to your measurements. But additionally, it will be open to your contributions.
+[FreeSewing.org](https://freesewing.org/) wird weiterhin zur Verfügung stellen, was [Makemypattern.com](https://makemypattern.com/) heute anbieten: Kostenfreie opensource Schnittmuster, die nach Ihren individuellen Massen erstellt werden. Jedoch wird es zusätzlich offen für Ihre Mitgestaltung sein.
 
 Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
 
