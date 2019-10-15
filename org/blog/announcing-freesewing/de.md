@@ -28,21 +28,21 @@ Da ich die Opensource-Kultur nicht in die Welt des Nähens bringen kann, kann ic
 
 [FreeSewing.org](https://freesewing.org/) wird weiterhin zur Verfügung stellen, was [Makemypattern.com](https://makemypattern.com/) heute anbieten: Kostenfreie opensource Schnittmuster, die nach Ihren individuellen Massen erstellt werden. Jedoch wird es zusätzlich offen für Ihre Mitgestaltung sein.
 
-Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
+In der Hoffnung, dass die Schnittmenge von Nähen und Geeks nicht nur mich enthält.
 
 joost
 
-## Shout-outs
-Freesewing is a project by [Joost De Cock](https://github.com/joostdecock) and contributors.
+## Zum Schluss
+Freesewing ist ein Projekt von [Joost De Cock](https://github.com/joostdecock) und Beitragenden.
 
-Hat-tip to [@jakesgordon](https://github.com/jakesgordon) and [Kevin Lindsey](http://www.kevlindev.com) for allowing me to port some of their code.
+Ich danke [@jakesgordon](https://github.com/jakesgordon) und [Kevin Lindsey](http://www.kevlindev.com), dass Sie mir gestatten ein Teil ihres Codes zu portieren.
 
-The early-stage enthusiasm and input of [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), and [@fightingrabbit](https://github.com/fightingrabbit) has been a great boon to this project.
+Die Begeisterung und der Input im Frühstadium von [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), und [@fightingrabbit](https://github.com/fightingrabbit) war eine große Bereicherung für dieses Projekt.
 
-Thanks to [@annekecaramin](https://twitter.com/annekecaramin) for designing a logo cool enough to put on a Tshirt.
+Vielen Dank an [@annekecaramin](https://twitter.com/annekecaramin) für die Gestaltung eines Logos, das cool genug ist, um es auf ein T-Shirt zu drucken.
 
-Special thanks to [@scorchtorch](https://twitter.com/scorchtorch) for being the best at that heart/salad/antlers thing.
+Besonderen Dank an [@scorchtorch](https://twitter.com/scorchtorch) dafür, dass du der Beste in dieser Herz-/Salat-/Sondersituation bist.
 
-Last but not least, this project would not exist without the users, supporters, and donors of [makemypattern.com](https://makemypattern.com/).
+Last but not least wäre dieses Projekt ohne die Nutzer, Unterstützer und Spender von [makemypattern.com](https://makemypattern.com/) nicht möglich.
 
-Thanks guys!
+Danke Leute!
