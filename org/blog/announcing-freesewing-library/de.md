@@ -37,9 +37,9 @@ Der Wechsel von [Jekyll]() zu einem [Nuxt](https://nuxtjs.org/)-basierten Fronte
 
 Aber das Entfernen von Programmiersprachen ist kein *Selbstzweck*. Vielmehr besteht das zugrunde liegende Ziel darin, die Dinge zu vereinfachen, es den Menschen leichter zu machen, sich einzubringen und letztlich mehr Mitwirkende anzuziehen, damit das Projekt wachsen und florieren kann.
 
-Jetzt ist die Gestaltung/Entwicklung von Schnittmustern kein unüberwindliches Hindernis mehr. Wir haben nun [Benjamin](/patterns/benjamin), [Florent](/patterns/florent), und [Sandy](/patterns/sandy), um dies aufzuzeigen. All of these were contributed by people for whom freesewing was initially new, they went through the design tutorial, and in the end created a pattern of their own.
+Jetzt ist die Gestaltung/Entwicklung von Schnittmustern kein unüberwindliches Hindernis mehr. Wir haben nun [Benjamin](/patterns/benjamin), [Florent](/patterns/florent), und [Sandy](/patterns/sandy), um dies aufzuzeigen. All diese Schnitte wurde von Menschen beigesteuert, für die Freewing zunächst neu war, sie gingen durch das Design-Tutorial und schufen am Ende ein eigenes Schnittmuster.
 
-We'd like more people to follow in their footsteps. So making the process as simple as possible is a worthy investment of our time.
+Wir würden uns wünschen, dass mehr Menschen in ihre Fußstapfen treten. So making the process as simple as possible is a worthy investment of our time.
 
 ## Announcing freesewing, the library
 
