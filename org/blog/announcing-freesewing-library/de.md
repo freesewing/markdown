@@ -39,13 +39,13 @@ Aber das Entfernen von Programmiersprachen ist kein *Selbstzweck*. Vielmehr best
 
 Jetzt ist die Gestaltung/Entwicklung von Schnittmustern kein unüberwindliches Hindernis mehr. Wir haben nun [Benjamin](/patterns/benjamin), [Florent](/patterns/florent), und [Sandy](/patterns/sandy), um dies aufzuzeigen. All diese Schnitte wurde von Menschen beigesteuert, für die Freewing zunächst neu war, sie gingen durch das Design-Tutorial und schufen am Ende ein eigenes Schnittmuster.
 
-Wir würden uns wünschen, dass mehr Menschen in ihre Fußstapfen treten. So making the process as simple as possible is a worthy investment of our time.
+Wir würden uns wünschen, dass mehr Menschen in ihre Fußstapfen treten. Den Gestaltungsprozess so einfach wie möglich zu gestalten war lohnenswerte Zeitinvestition.
 
-## Announcing freesewing, the library
+## Wir künden die FreeSewing-Bibliothek an
 
-For the past 2 months, I have taken time off from pattern making and sewing to tackle our [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
+In den letzten zwei Monaten habe ich mir eine Auszeit vom Schnitte entwerfen und dem Nähen genommen, um an der nötigen [Technischen Weiterentwicklung ](Yhttps://en.wikipedia.org/wiki/Technical_debt) zu arbeitet.
 
-Specifically, I've set out to rewrite our core back-end from the ground up in JavaScript. But there's a twist. It's no longer a back-end. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
+Konkret habe ich mich dazu entschlossen, unser Core-Backend von Grund auf in JavaScript neu zu schreiben. Aber es gibt eine Wendung. It's no longer a back-end. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
 
 It is currently in version 0.10, and feature complete with freesewing core. It's [available on GitHub](https://github.com/freesewing/freesewing) and [NPM](https://www.npmjs.com/package/freesewing), and is fully documented at [developer.freesewing.org](https://developer.freesewing.org/).
 
