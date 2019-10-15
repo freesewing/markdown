@@ -33,11 +33,11 @@ Das ist wirklich zu 100% der großartigen Arbeit von [unseren wunderbaren Übers
 
 ### Weniger Programmiersprachen
 
-The switch from [Jekyll]() to a [Nuxt](https://nuxtjs.org/)-based front-end has removed [Ruby](https://www.ruby-lang.org/) from our technology stack. Freesewing.org now runs on JavaScript, PHP and a little bit of C (which we'll ignore for now).
+Der Wechsel von [Jekyll]() zu einem [Nuxt](https://nuxtjs.org/)-basierten Frontend hat [Ruby](https://www.ruby-lang.org/) aus unserem Technologystack entfernt. Freesewing.org läuft jetzt auf JavaScript, PHP und ein wenig C (was wir jetzt ignorieren werden).
 
-But removing programming languages is not a goal *an sich*. Rather, the underlying ambition is to simplify things, make it easier for people to get involved, and ultimately attract more contributors so that the project can grow and flourish.
+Aber das Entfernen von Programmiersprachen ist kein *Selbstzweck*. Vielmehr besteht das zugrunde liegende Ziel darin, die Dinge zu vereinfachen, es den Menschen leichter zu machen, sich einzubringen und letztlich mehr Mitwirkende anzuziehen, damit das Projekt wachsen und florieren kann.
 
-Today, designing/developing patterns is not an insurmountable obstacle. We've got [benjamin](/patterns/benjamin), [florent](/patterns/florent), and [sandy](/patterns/sandy) to show for it. All of these were contributed by people for whom freesewing was initially new, they went through the design tutorial, and in the end created a pattern of their own.
+Jetzt ist die Gestaltung/Entwicklung von Schnittmustern kein unüberwindliches Hindernis mehr. Wir haben nun [Benjamin](/patterns/benjamin), [Florent](/patterns/florent), und [Sandy](/patterns/sandy), um dies aufzuzeigen. All of these were contributed by people for whom freesewing was initially new, they went through the design tutorial, and in the end created a pattern of their own.
 
 We'd like more people to follow in their footsteps. So making the process as simple as possible is a worthy investment of our time.
 
