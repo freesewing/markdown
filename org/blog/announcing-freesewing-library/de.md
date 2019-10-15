@@ -15,23 +15,23 @@ Aber nicht diese Website, weil [die bevorstehende DSGVO-Einführung](/blog/gdpr-
 
 ## Weitere Sprachen mit weniger Sprachen
 
-DSGVO war nur Teil dieser Geschichte. Other reasons for the rewrite were our desire to support multiple languages, and to simplify our technology stack.
+DSGVO war nur Teil dieser Geschichte. Weitere Gründe für den Rewrite unserer Seite waren unser Wunsch, mehrere Sprachen zu unterstützen und unseren Technologie-Stack zu vereinfachen.
 
-In other words, we wanted to reach people who speak different languages, and wanted to limit the number of programming languages required to do so.
+Mit anderen Worten, wir wollten Menschen erreichen, die verschiedene Sprachen sprechen, und wollten die Anzahl der dafür erforderlichen Programmiersprachen überschaubar halten.
 
-### More natural languages
+### Mehr natürliche Sprachen
 
-We've done remarkably well on this front. While you won't find every last bit of content translated, this website's main features are now available in five languages:
+In dieser Hinsicht haben wir uns bemerkenswert gut geschlagen. Sie werden zwar nicht alle Inhalte übersetzt vorfinden, aber die wichtigsten Funktionen dieser Website sind sind nun in fünf Sprachen verfügbar:
 
- - English
- - German
- - Spanish
- - French
- - Dutch
+ - Englisch
+ - Deutsch
+ - Spanisch
+ - Französisch
+ - Holländisch
 
-Which really is 100% thanks to the great work of [our wonderful translators](/i18n/).
+Das ist wirklich zu 100% der großartigen Arbeit von [unseren wunderbaren Übersetzern](/i18n/) zu verdanken.
 
-### Less programming languages
+### Weniger Programmiersprachen
 
 The switch from [Jekyll]() to a [Nuxt](https://nuxtjs.org/)-based front-end has removed [Ruby](https://www.ruby-lang.org/) from our technology stack. Freesewing.org now runs on JavaScript, PHP and a little bit of C (which we'll ignore for now).
 
