@@ -45,7 +45,7 @@ Wir würden uns wünschen, dass mehr Menschen in ihre Fußstapfen treten. Den Ge
 
 In den letzten zwei Monaten habe ich mir eine Auszeit vom Schnitte entwerfen und dem Nähen genommen, um an der nötigen [Technischen Weiterentwicklung ](Yhttps://en.wikipedia.org/wiki/Technical_debt) zu arbeitet.
 
-Konkret habe ich mich dazu entschlossen, unser Core-Backend von Grund auf in JavaScript neu zu schreiben. Aber es gibt eine Wendung. It's no longer a back-end. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
+Konkret habe ich mich dazu entschlossen, unser Core-Backend von Grund auf in JavaScript neu zu schreiben. Aber es gibt eine Wendung. Es ist nicht länger ein Backend. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
 
 It is currently in version 0.10, and feature complete with freesewing core. It's [available on GitHub](https://github.com/freesewing/freesewing) and [NPM](https://www.npmjs.com/package/freesewing), and is fully documented at [developer.freesewing.org](https://developer.freesewing.org/).
 
