@@ -1,9 +1,9 @@
 ---
 date: 2018-09-29
-title: "Announcing Shin, a swim trunks pattern"
-linktitle: "Announcing the Shin swim trunks"
+title: "Ankündigung von Shin, einem Badehosenschnitt"
+linktitle: "Ankündigung de Badehosen Shin"
 img: shin.jpg
-caption: "I guess this is what augmented reality looks like?"
+caption: "Ich schätze, so sieht Augmented Reality aus?"
 author: joost
 ---
 
