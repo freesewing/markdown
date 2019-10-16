@@ -17,13 +17,13 @@ Penelope wurde entworfen von [@woutervdub](/users/woutervdub) der auch für [Ben
 
 Dieser neue Ausflug in die Damenmode deutet auf unsere Pläne für die zweite Jahreshälfte hin. Das ist richtig, wir werden mehr Schnitte für Damen herausbringen.
 
-FreeSewing hat einen gewissen Ruf als Herrenmode-Anbieter, weil wir in der Vergangenheit viel mehr Schnittmuster für Männer als für Frauen hatten. Aber das bedeutet nicht, dass Frauen hier Bürger zweiter Klasse sind. Es ist nur ein Nebeneffekt davon, dass dieses Projekt in der Vergangenheit von einem Mann betrieben wurde. Can you blame a brother for designing patterns he'd like to wear himself?
+FreeSewing hat einen gewissen Ruf als Herrenmode-Anbieter, weil wir in der Vergangenheit viel mehr Schnittmuster für Männer als für Frauen hatten. Aber das bedeutet nicht, dass Frauen hier Bürger zweiter Klasse sind. Es ist nur ein Nebeneffekt davon, dass dieses Projekt in der Vergangenheit von einem Mann betrieben wurde. Kannst du es einem Bruder verübeln, dass er Schnitte entworfen hat, die er selbst tragen möchte?
 
-Today, freesewing is a communal effort, and there's plenty of ladies involved. So it only make sense to make a conscious effort to do something for our sisters. And that's exactly what we'll be doing.
+Heute ist das FreeSewing eine gemeinschaftliche Anstrengung, und es sind viele Damen beteiligt. Es macht also nur Sinn, sich bewusst zu bemühen, etwas für unsere Schwestern zu tun. Und genau das werden wir tun.
 
-We've got another pattern in the pipeline that is not only for women, but also by a woman. By [@AlfaLyr](/users/alfalyr) in particular, who has designed a circle skirt pattern that is going to land here real soon.
+Wir haben ein weiteres Modell in der Pipeline, das nicht nur für Frauen, sondern auch für eine Frau gemacht ist. Das von [@AlfaLyr](/users/alfalyr) entworfene Tellerrockschnittmuster wird hier schon bald aufgeschaltet.
 
-In parallel, I'll be working with [@AnnekeCaramin](/users/annekecaramin) on a female equivalent for [Brian](/patterns/brian), our basic body block on which many of our patterns are based. The idea is to make a quality bodice block for ladies that is made-to-measure and can handle the common fitting issues automatically. I'm talking about full bust adjustment, sway back, these kind of things.
+Parallel dazu werde ich mit [@AnnekeCaramin](/users/annekecaramin) an einem weiblichen Äquivalent für [Brian](/patterns/brian) arbeiten, unser Grundschnitt, auf dem viele unserer Muster basieren. Die Idee ist es, einen hochwertigen Oberteilgrundschnitt für Damen herzustellen, der nach Maß gefertigt wird, so können die häufigsten Passformprobleme automatisch gehandhabt werden. I'm talking about full bust adjustment, sway back, these kind of things.
 
 Once we have that block, expect us to spin it into a bunch of dresses and tops.
 
