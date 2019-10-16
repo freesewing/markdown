@@ -1,7 +1,7 @@
 ---
 date: 2018-08-25
-title: "Wir feiern ein Jahr von FreeSewing.org: Ankündigung der FreeSewing-Bibliothek"
-linktitle: "Ankündigung der FreeSewing-Bibliothek"
+title: "Wir feiern ein Jahr von FreeSewing.org: Ankündigung der FreeSewing-Library"
+linktitle: "Ankündigung der FreeSewing-Library"
 img: uncork.jpg
 caption: "Ich trinke nicht, aber das schien für einen Festbeitrag angemessen zu sein ¯\_(ツ)_/¯"
 author: joost
@@ -41,39 +41,39 @@ Jetzt ist die Gestaltung/Entwicklung von Schnittmustern kein unüberwindliches H
 
 Wir würden uns wünschen, dass mehr Menschen in ihre Fußstapfen treten. Den Gestaltungsprozess so einfach wie möglich zu gestalten war lohnenswerte Zeitinvestition.
 
-## Wir künden die FreeSewing-Bibliothek an
+## Wir künden die FreeSewing-Library an
 
 In den letzten zwei Monaten habe ich mir eine Auszeit vom Schnitte entwerfen und dem Nähen genommen, um an der nötigen [Technischen Weiterentwicklung ](Yhttps://en.wikipedia.org/wiki/Technical_debt) zu arbeitet.
 
-Konkret habe ich mich dazu entschlossen, unser Core-Backend von Grund auf in JavaScript neu zu schreiben. Aber es gibt eine Wendung. Es ist nicht länger ein Backend. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
+Konkret habe ich mich dazu entschlossen, unser Core-Backend von Grund auf in JavaScript neu zu schreiben. Aber es gibt eine Wendung. Es ist nicht länger ein Backend. Es ist eine Library, die Sie benutzen können. sowohl in Ihrem Browser, als auch auf dem Server mit [node.js](https://nodejs.org/).
 
-It is currently in version 0.10, and feature complete with freesewing core. It's [available on GitHub](https://github.com/freesewing/freesewing) and [NPM](https://www.npmjs.com/package/freesewing), and is fully documented at [developer.freesewing.org](https://developer.freesewing.org/).
+Sie befindet sich aktuell in der Version 0.10 und ist zusammen mit dem FreeSewing-Core feature complete. Sie ist [auf GitHub](https://github.com/freesewing/freesewing) und [NPM](https://www.npmjs.com/package/freesewing)verfügbar und ist vollständig dokumentiert unter [developer.freesewing.org](https://developer.freesewing.org/).
 
-And while its API is richer than core's, it's footprint is actually a lot smaller:
+Obwohl die API mehr kann als der Core ist sie trotzdem schlanker:
 
-![Lines of code comparison between the new library and (the relevant portion of) freesewing core](corevsfreesewing.svg)
+![Zeilen des Codevergleichs zwischen der neuen Library und dem (dem relevanten Teil des) FreeSewing-Core](corevsfreesewing.svg)
 
-Which is good news, in case you were wondering.
+Das ist eine gute Nachricht, wenn Sie sich fragen.
 
-## What happens next?
+## Was passiert als Nächstes?
 
-A lot of work needs to be done before we can actually use this on freesewing.org:
+Es muss noch viel Arbeit geleistet werden, bevor wir sie auf freesewing.org einsetzen können:
 
 
- - All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
- - Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
- - Build a new website using the freesewing library and our new data back-end.
+ - Alle unsere bestehenden Schnittmuster müssen auf die JS-Version abgestimmt werden. [Brian](https://github.com/freesewing/brian) ist der erste Schnitt, der portiert wurde.
+ - Ein Rewrite unseres Datenbackends in JS. Da wir dadurch die PHP-Programmiersprache aus unserem Stack entfernen können.
+ - Eine neue Website mit der FreeSewing-Library und unserem neuen Daten-Backend erstellen.
 
-This really is a lot of work, and while I hope that by the end of the year we'll have made good progress, I can't promise it will be done.
+Das ist wirklich eine Menge Arbeit, und obwohl ich hoffe, dass wir bis Ende des Jahres gute Fortschritte gemacht haben, kann ich nicht versprechen, dass dies geschehen wird.
 
-## But I just want patterns
+## Aber ich will nur Schnittmuster
 
-Chances are, all you care about is patterns. What you want is more patterns, better patterns, different patterns. And all of this rewriting is not exactly pushing your buttons.
+Die Chancen stehen gut, dass Sie sich nur für Schnittmuster interessieren. Was du willst, sind mehr Schnittmuster, bessere Schnitte, mehr verschiedene Schnittmuster. Und all dieses Neuschreiben ist nicht unbedingt das, womit wir Ihr Interesse wecken können.
 
-I get that. I really do. I for one have a list of patterns I'd like to see added to the site. And my work on other aspects of the project keeps me from adding them.
+Ich weiss das. Ja wirklich. Ich für meinen Teil habe eine Liste von Mustern, die ich gerne der Seite hinzugefügt sehen möchte. Und meine Arbeit an den anderen Bereichen des Projekts hält mich davon ab, sie hinzuzufügen.
 
-But I believe that investing now in a streamlined developer experience will have a knock-on effect in the long term.
+Aber ich glaube, dass die Investition in eine optimierte Entwicklungsarbeit langfristig einen positiven Effekt haben wird.
 
-If we want a few extra patterns, this is not the right approach. But if we want a lot more patterns, I believe it is.
+Wenn wir nur ein paar zusätzliche Muster wollten, wäre dies nicht der richtige Ansatz. Aber wenn wir viele neue Schnittmuster wollen, glaube ich, dass es sich auszahlt.
 
-And I want a lot more patterns.
+Und ich möchte viele Schnittmuster haben.
