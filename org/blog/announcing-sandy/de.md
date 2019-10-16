@@ -17,4 +17,4 @@ Wie viele Muster hier beim FreeSewing, kommt Sandy mit einer Reihe von Optionen,
 
 Es gibt Optionen dafür, wie viel vom Kreis Sie haben wollen (halb? voll? Etwas dazwischen?), wie lange Sie ihn haben wollen, die Form und Überlappung des Taillenbundes, ob Sie Falten wollen, wie viel Saum, und so weiter.
 
-I can see this becoming rather the success story. So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.
+Ich sehe, dass dies mehr und mehr zur Erfolgsgeschichte wird. Also los und [ gönnen Sie sich einen neuen Rock](/draft/sandy), und lassen Sie [@AlfyLyr](/users/alfalyr) wissen, wie es für Sie funktioniert.
