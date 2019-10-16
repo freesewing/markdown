@@ -7,17 +7,17 @@ caption: "Die Schnittmusterdarstellung für Penelope"
 author: joost
 ---
 
-I'm very happy to announce the immeadiate availability of [the Penelope Pencil Skirt](/patterns/penelope), out in beta today.
+Ich freue mich sehr die sofortige Verfügbarkeit des [Bleistiftrock Penelope](/patterns/penelope)in der Beta-Version bekanntzugeben.
 
 ![A linedrawing of Penelope](linedrawing.svg)
 
-Penelope was designed by [@woutervdub](/users/woutervdub) who also signed for [benjamin](/patterns/benjamin).
+Penelope wurde entworfen von [@woutervdub](/users/woutervdub) der auch für [Benjamin](/patterns/benjamin) verantwortlich zeichnet.
 
-## Freesewing is not (just) for menswear
+## Freies Nähen ist nicht (nur) für Herrenmode
 
-This new foray into womenswear foreshadows our plans for the second half of this year. That's right, we're going to be making more patterns for ladies.
+Dieser neue Ausflug in die Damenmode deutet auf unsere Pläne für die zweite Jahreshälfte hin. Das ist richtig, wir werden mehr Schnitte für Damen herausbringen.
 
-Freesewing has a bit of a menswear reputation, since historically we've had a lot more patterns for men than for ladies. But that doesn't mean women are second-class citizens here. It's just a side-effect of how this project was historically run by a man. Can you blame a brother for designing patterns he'd like to wear himself?
+FreeSewing hat einen gewissen Ruf als Herrenmode-Anbieter, weil wir in der Vergangenheit viel mehr Schnittmuster für Männer als für Frauen hatten. Aber das bedeutet nicht, dass Frauen hier Bürger zweiter Klasse sind. Es ist nur ein Nebeneffekt davon, dass dieses Projekt in der Vergangenheit von einem Mann betrieben wurde. Can you blame a brother for designing patterns he'd like to wear himself?
 
 Today, freesewing is a communal effort, and there's plenty of ladies involved. So it only make sense to make a conscious effort to do something for our sisters. And that's exactly what we'll be doing.
 
