@@ -1,9 +1,9 @@
 ---
 date: 2018-06-29
-title: "Announcing the Penelope Pencil Skirt; And our womenswear roadmap"
-linktitle: "Announcing the Penelope Pencil Skirt"
+title: "Ankündigung des Penelope Bleistiftrockes; Und unsere Damenmode-Roadmap"
+linktitle: "Ankündigung des Bleistiftrock Penelope"
 img: penelope.jpg
-caption: "The pattern illustration for Penelope"
+caption: "Die Schnittmusterdarstellung für Penelope"
 author: joost
 ---
 
