@@ -1,19 +1,19 @@
 ---
 date: 2019-08-25
-title: "Announcing FreeSewing v2.0"
-linktitle: "Announcing FreeSewing v2.0"
+title: "Ankündigung von FreeSewing v2.0"
+linktitle: "Ankündigung von FreeSewing v2.0"
 img: v2.jpg
-caption: "This release really is a sea-change"
+caption: "Diese Version ist wirklich eine grundlegende Veränderung"
 author: joost
 ---
 
-# Announcing FreeSewing v2.0
+# Ankündigung von FreeSewing v2.0
 
-Welcome to version 2 of FreeSewing, the open source platform for made-to-measure sewing patterns.
+Ankündigung von der Version 2 von FreeSewing, der Opensourceplattform für Schnittmuster auf Mass.
 
-This release culminates more than a year of work, and comes two years to the day since FreeSewing first went live. Today, we once again raise the bar for what you can expect from modern-day sewing patterns.
+Diese Veröffentlichung gipfelt in mehr als einem Jahr Arbeit und kommt auf den Tag genau zwei Jahre nach dem ersten Produktivstart von FreeSewing. Heute legen wir wieder einmal die Messlatte höher, was Sie von modernen Schnittmustern erwarten können.
 
-## 🦄 Harder, better, faster, stronger [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
+## 🦄 Höher, besser, schneller, stärker [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
 
 
 We are *extremely* excited about this release, which is not just merely a new major version with some breaking changes, but a complete rewrite in JavaScript/Node.js.  We won't go into the nitty gritty here, but if you'd like to know how we've done it, check out [the developer docs](https://freesewing.dev) or [FreeSewing on GitHub](https://github.com/freesewing).
