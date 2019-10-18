@@ -7,22 +7,22 @@ caption: "Ich schätze, so sieht Augmented Reality aus?"
 author: joost
 ---
 
-A while ago I found myself in need of some new swim trunks. So I drafted a pattern and made some:
+Vor einer Weile stellte ich fest, dass ich Badehosen benötige. Also habe ich ein Schnittmuster gezeichnet und hab mir welche genäht:
 
-![An early tryout of the Shin pattern](sample.jpg)
+![Ein früher Versuch des Shin-Schnitmusters](sample.jpg)
 
-I asked if people would be interested in a pattern like this, and turns out that yes, they were.
+Ich fragte, ob die Leute an einem solchen Muster interessiert wären, und stellte fest, dass sie es waren.
 
-So, after some more tweaking, I think this is ready for you guys, and meanwhile Roy has already provided an illustration for it too.
+Also, nach einigen weiteren Optimierungen, denke ich, dass dies für euch Jungs bereit ist, und inzwischen hat Roy auch schon eine Illustration dafür geliefert.
 
-![I'll be the first to admit that this guy wears it better than me](cover.jpg)
+![Ich werde der Erste sein, der zugibt, dass dieser Typ es besser trägt als ich](cover.jpg)
 
-## Options and documentation available
+## Optionen und Dokumentation verfügbar
 
-Shin comes with options, and they are very close to the options available for [Bruce](/patterns/bruce).
+Shin kommt mit Optionen, und sie sind sehr nahe an den verfügbaren Optionen für [Bruce](/patterns/bruce).
 
-All [options are documented](/docs/patterns/shin/options), as are the [required measurements](/docs/patterns/shin/measurements), and I've also written [instructions for how to make this](/docs/patterns/shin).
+Alle [Optionen sind dokumentiert](/docs/patterns/shin/options), sowie die [benötigten Maße](/docs/patterns/shin/measurements), und ich habe auch eine [Anleitung geschrieben, wie man das macht](/docs/patterns/shin).
 
-I still have to do the illustrations, but it's really not hard so you'll probably figure it out without them. Essentially, you can go and make this right now.
+Ich muss noch die Illustrationen dazu machen, aber es ist wirklich nicht schwer, also werden Sie die Anleitung wahrscheinlich es ohne sie verstehen. Im Grunde genommen können Sie jetzt sofort loslegen und das Ganze durchziehen.
 
-Enjoy!
+Viel Spaß!
