@@ -21,15 +21,15 @@ Wir sind von dieser Veröffentlichung *extrem* begeistert, die nicht nur eine ne
 
 ## ✨ Live-Vorschau
 
-FreeSewing hatte schon immer den Ruf, Schnittmuster mit jeder Menge Optionen und Variationen bereitzustellen. Das ist sehr cool, aber das Resultat war jeweils erst ganz am Ende ersichtlich, weshalb es manchmal die Vorstellungskraft übersteigen konnte. Aber diese Tage sind vorbei. Now, no matter what changes you make, you get a live preview of what your pattern will look like, taking the guesswork out of configuring your pattern exactly as you like it.
+FreeSewing hatte schon immer den Ruf, Schnittmuster mit jeder Menge Optionen und Variationen bereitzustellen. Das ist sehr cool, aber das Resultat war jeweils erst ganz am Ende ersichtlich, weshalb es manchmal die Vorstellungskraft übersteigen konnte. Aber diese Tage sind vorbei. Ab jetzt, egal welche Einstellungen Sie am Schnitt vornehmen, werden Sie immer eine Live-Vorschau des fertigen Schnittmusters haben.
 
-## 🧂  Recipes
+## 🧂  Rezepte
 
-Where we used to store your patterns for you, now we'll store your *recipes* instead. You can go through as many pattern iterations as you want. And when you're happy, we'll save all the settings it takes to create that exact pattern in a so-called recipe.
+Statt dass wir die fertig konfigurierten Schnittmuster für Sie speichern, speichern wir ab jetzt Ihre *Rezepte* zum erstellen der Schnittmuster. Sie können so viele Schnittmuster-Iteration wie Sie wollen erstellen. Und wenn Sie mit dem Ergebnis zufrieden sind, werden wir alle notwendigen Einstellungen speichern, die es benötigt, um dieses genaue Muster nach einem so genannten Rezept zu erstellen.
 
-You can then at any time re-use that recipe to recreate your pattern, or use it as a starting point to make a slightly different pattern. You can also share these recipes, allowing others to generate the same look for their own measurements.
+Sie können das Rezept jederzeit wieder hervor nehmen um das Schnittmuster erneut zu erstellen oder es als Ausgangspunkt für eine andere Variante verwenden. Sie könne Rezepte auch teilen, erlauben Sie anderen genau den selben Look zu erstellen auf Grundlage ihrer eigenen Maße.
 
-## 🤝 Getting involved was never easier
+## 🤝 Sich zu beteiligen war nie einfacher
 
 What hasn't changed is that we still support 5 languages (shout-out to all translators) and that FreeSewing is still a 100% communal effort (shout-out to all contributors). There's only volunteers here, and if you'd like to help out, it's never been easier.
 
