@@ -16,12 +16,12 @@ Diese Veröffentlichung gipfelt in mehr als einem Jahr Arbeit und kommt auf den 
 ## 🦄 Höher, besser, schneller, stärker [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
 
 
-We are *extremely* excited about this release, which is not just merely a new major version with some breaking changes, but a complete rewrite in JavaScript/Node.js.  We won't go into the nitty gritty here, but if you'd like to know how we've done it, check out [the developer docs](https://freesewing.dev) or [FreeSewing on GitHub](https://github.com/freesewing).
+Wir sind von dieser Veröffentlichung *extrem* begeistert, die nicht nur eine neue Hauptversion mit einigen grundlegenden Änderungen ist, sondern eine vollständiger Rewrite in JavaScript/Node.js.  Wir werden hier nicht ins kleinste Detail gehen. Wenn Sie sich dafür interessieren, dann schauen Sie mal [in der Entwicklerdokumentation](https://freesewing.dev) oder auf [GitHub](https://github.com/freesewing)vorbei.
 
 
-## ✨ Live preview
+## ✨ Live-Vorschau
 
-FreeSewing has always had a reputation for publishing sewing patterns with tons of options for you to tweak. Which is great, but can be a bit overwhelming because you only got to see the result of all those tweaks at the very end. But those days are gone. Now, no matter what changes you make, you get a live preview of what your pattern will look like, taking the guesswork out of configuring your pattern exactly as you like it.
+FreeSewing hatte schon immer den Ruf, Schnittmuster mit jeder Menge Optionen und Variationen bereitzustellen. Das ist sehr cool, aber das Resultat war jeweils erst ganz am Ende ersichtlich, weshalb es manchmal die Vorstellungskraft übersteigen konnte. Aber diese Tage sind vorbei. Now, no matter what changes you make, you get a live preview of what your pattern will look like, taking the guesswork out of configuring your pattern exactly as you like it.
 
 ## 🧂  Recipes
 
