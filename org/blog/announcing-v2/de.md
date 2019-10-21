@@ -31,19 +31,19 @@ Sie können das Rezept jederzeit wieder hervor nehmen um das Schnittmuster erneu
 
 ## 🤝 Sich zu beteiligen war nie einfacher
 
-What hasn't changed is that we still support 5 languages (shout-out to all translators) and that FreeSewing is still a 100% communal effort (shout-out to all contributors). There's only volunteers here, and if you'd like to help out, it's never been easier.
+Was sich nicht geändert hat, ist, dass wir immer noch 5 Sprachen unterstützen (Danke an alle Übersetzer) und dass FreeSewing immer noch eine 100%ige Gemeinschaftsleistung ist (Danke an alle Mitwirkenden). Hier gibt es nur Freiwillige, und wenn du mithelfen möchtest, war es noch nie so einfach.
 
-For those who are interested in our code, head over to our new developer documentation at [freesewing.dev](https://freesewing.dev) to learn about the new platform, our core API, our plugins, and more.
+Für diejenigen, die an unserem Code interessiert sind, besuchen Sie unsere neue Entwicklerdokumentation unter [freesewing.dev](https://freesewing.dev), um mehr über die neue Plattform, unsere Core-API, unsere Plugins und vieles mehr zu erfahren.
 
-For those of you who are interested in designing patterns, we have updated our [pattern design tutorial](https://freesewing.dev/tutorial) so you can hit the ground running.
+Für diejenigen unter Ihnen, die an der Gestaltung von Schnittmustern interessiert sind, haben wir unser [Schnittmuster-Howto](https://freesewing.dev/tutorial) aktualisiert, damit Sie sofort loslegen können.
 
-There's good news for translators too, as we now use [Crowdin](https://crowdin.com/) which makes translation a breeze. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://gitter.im/freesewing/chat).
+Auch für Übersetzer gibt es gute Nachrichten, denn wir verwenden jetzt [Crowdin](https://crowdin.com/), was die Übersetzung zum Kinderspiel macht. Wenn Sie bei der Übersetzung helfen oder vielleicht sogar eine neue Sprache zu FreeSewing hinzufügen möchten, kontaktieren Sie uns [bitte in unserem Chat auf Gitter](https://gitter.im/freesewing/chat).
 
-## 💩 Usual caveats apply
+## 💩 Es gelten die üblichen Einschränkungen
 
-It's conventional wisdom in software development that refactoring code is good, but rewriting it from scratch is bad. Still, we did it anyway because we wanted to make it easier for people to get involved in the project, and generate patterns in real-time in the browser.
+In der Softwareentwicklung ist es üblich, dass die Umgestaltung von Code gut ist, aber das Neuschreiben von Grund auf ist schlecht. Dennoch haben wir es trotzdem getan, weil wir es den Menschen erleichtern wollten, sich am Projekt zu beteiligen und Muster in Echtzeit im Browser zu generieren.
 
-That being said, this is a .zero release so you may stumble upon an issue left or right. When you do, please [let us know](https://gitter.im/freesewing/chat) or submit an issue.
+Abgesehen davon ist dies eine .Null-Version, sodass Sie über das ein oder andere Problem stolpern könnten. Wenn ja, bitte [lassen Sie es uns wissen](https://gitter.im/freesewing/chat) oder reichen Sie ein Issue ein.
 
 ## 🤞 Tell us what you think
 
