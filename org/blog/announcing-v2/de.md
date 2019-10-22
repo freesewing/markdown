@@ -45,6 +45,6 @@ In der Softwareentwicklung ist es üblich, dass die Umgestaltung von Code gut is
 
 Abgesehen davon ist dies eine .Null-Version, sodass Sie über das ein oder andere Problem stolpern könnten. Wenn ja, bitte [lassen Sie es uns wissen](https://gitter.im/freesewing/chat) oder reichen Sie ein Issue ein.
 
-## 🤞 Tell us what you think
+## 🤞 Verraten Sie uns Ihre Meinung
 
-We'd love to hear your feedback. We're **@freesewing\_org** on [Twitter](https://twitter.com/freesewing_org) and [Instagram](https://instagram.com/freesewing_org), use the **#freesewing** hashtag, or [check our share page](/share).
+Wir würden uns über Ihr Feedback freuen. Wir sind **@freesewing\_org** auf [Twitter](https://twitter.com/freesewing_org) und [Instagram](https://instagram.com/freesewing_org) vertreten, verwenden Sie das **#freesewing** Hashtag oder [schauen Sie sich unsere Share-Seite](/share) an.
