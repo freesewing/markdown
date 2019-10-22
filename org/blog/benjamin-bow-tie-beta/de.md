@@ -1,17 +1,17 @@
 ---
 date: 2017-11-14
-title: "The Benjamin Bow Tie pattern is now available in beta. And I didn't even have to do anything."
-linktitle: "The Benjamin Bow Tie is now available in beta"
+title: "Das Schnittmuster für die Fliege Benjamin ist jetzt in der Beta-Version erhältlich. Und ich musste nicht einmal etwas tun."
+linktitle: "Die Fliege Benjamin ist jetzt als Beta-Version erhältlich"
 img: bowtie.jpg
-caption: "If you like it, put a bow on it"
+caption: "Wenn es Ihnen gefällt, lassen Sie es uns wissen"
 author: joost
 ---
 
-Our family of freesewing patterns has grown once again, and the benjamin of the family is... [Benjamin](/patterns/benjamin).
+Unsere Familie an freien und opensource Schnittmustern ist wieder gewachsen, und das neueste Mitglied der Familie ist... [Benjamin](/patterns/benjamin).
 
-Benjamin is a bow tie that comes with a variety of options to control pretty much every aspect of your bow tie.
+Benjamin ist eine Fliege, die mit einer Vielzahl von Optionen ausgestattet ist, um so ziemlich jeden Aspekt Ihrer Fliege einstellen zu können.
 
-You can opt for a made-to-measure bow tie, or draft Benjamin with an adjustment ribbon to allow some flexibility in the fit. Something that makes this a great handmade gift for the opcoming holiday season.
+Sie können sich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mit einem Einstellband entwerfen, das Ihnen etwas Flexibilität in der Passform ermöglicht. Something that makes this a great handmade gift for the opcoming holiday season.
 
 ## Benjamin is more special than you realize
 
