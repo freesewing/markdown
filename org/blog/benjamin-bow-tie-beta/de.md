@@ -11,17 +11,17 @@ Unsere Familie an freien und opensource Schnittmustern ist wieder gewachsen, und
 
 Benjamin ist eine Fliege, die mit einer Vielzahl von Optionen ausgestattet ist, um so ziemlich jeden Aspekt Ihrer Fliege einstellen zu können.
 
-Sie können sich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mit einem Einstellband entwerfen, das Ihnen etwas Flexibilität in der Passform ermöglicht. Something that makes this a great handmade gift for the opcoming holiday season.
+Sie können sich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mit einem Einstellband entwerfen, das Ihnen etwas Flexibilität in der Passform ermöglicht. Eine Eigenschaft, die diese Fliege zu einem großartigen handgefertigten Geschenk für die bevorstehende Weihnachtszeit macht.
 
-## Benjamin is more special than you realize
+## Benjamin ist vielseitiger und ausgefallener, als man denkt
 
-Here's the thing about Benjamin that I'm most excited about: I didn't do anything.
+Hier ist die Geschichte von Benjamin, über die ich mich am meisten freue: Ich habe nichts getan.
 
 ![A collection of bow ties from Wouter, who designed and coded this pattern](benjamins.jpg)
 
-That's right, Benjamin was designed and coded by [Wouter Van Wageningen](/users/xdpug) who has over the last couple of months been teaching himself the ins and outs of the freesewing platform:
+So ist es, Benjamin wurde von [Wouter van Wageningen](/users/xdpug) designed und erstellt, der sich in den letzten Monaten das Arbeiten mit FreeSewing selbst beigebracht hat:
 
-> I had a blast making the Bow Tie pattern. I basically used it to move from the BabyBib tutorial into something that was original and not too complex (and actually useful). I wanted to get the whole process under control before venturing out into the real stuff. 
+> Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. I wanted to get the whole process under control before venturing out into the real stuff. 
 > 
 > That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](/docs/designer/tutorial/part-1) and the help you've provided [here](https://gitter.im/freesewing/chat).
 
