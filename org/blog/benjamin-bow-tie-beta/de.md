@@ -17,20 +17,20 @@ Sie können sich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mi
 
 Hier ist die Geschichte von Benjamin, über die ich mich am meisten freue: Ich habe nichts getan.
 
-![A collection of bow ties from Wouter, who designed and coded this pattern](benjamins.jpg)
+![Eine Kollektion von Fliegen von Wouter, der dieses Muster entworfen und programmiert hat](benjamins.jpg)
 
 So ist es, Benjamin wurde von [Wouter van Wageningen](/users/xdpug) designed und erstellt, der sich in den letzten Monaten das Arbeiten mit FreeSewing selbst beigebracht hat:
 
-> Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. I wanted to get the whole process under control before venturing out into the real stuff. 
+> Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. Ich wollte den gesamten Prozess verstehen und beherrschen bevor ich mich an grössere Projekte wage. 
 > 
-> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](/docs/designer/tutorial/part-1) and the help you've provided [here](https://gitter.im/freesewing/chat).
+> Dass ich die Dinge mir so einfach selbst erarbeiten konnte, liegt vor allem an der großartigen   [Babylätzchen Tutorial](/docs/designer/tutorial/part-1) und an der Hilfestellungen, die ich im [Chat](https://gitter.im/freesewing/chat)erhalten habe. Jeder darf in dem Chat Fragen stellen.
 
-## Who will be next to contribute a pattern?
+## Wer wird als Nächstes ein Schnittmuster beisteuern?
 
-When I released freesewing as an open source platform, I obviously hoped that others would join the effort.
+Als ich Freesewing als Open-Source-Plattform veröffentlichte, hatte ich die Hoffnung, dass sich andere an den Bemühungen beteiligen würden.
 
-But I never thought that less than 3 months after the public release of freesewing, we'd have our first pattern from the freesewing community.
+Aber ich hätte nie gedacht, dass weniger als drei Monate nach der öffentlichen Veröffentlichung von FreeSewing, wir bereits das erste Schnittmuster, das aus der Community beigesteuert wird, auf FreeSewing veröffentlichen können.
 
-![Benjamin is kind of a big deal](giphy.gif)
+![Benjamin ist eine große Sache](giphy.gif)
 
-So yeah, Benjamin is a BFD, Wouter is a badass, and I am hopeful that this will be the first of many patterns that we as a community will be able to make available to all.
+Also ja, Benjamin ist ein BFD, Wouter ist ein saucooler Typ, und ich bin zuversichtlich, dass dies das erste von vielen Schnittmustern ist, die wir als Gemeinschaft allen zugänglich machen können.
