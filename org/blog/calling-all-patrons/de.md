@@ -1,15 +1,15 @@
 ---
 date: 2017-12-10
-title: "Calling all Patrons; Join our bedrock of loyal supporters."
-linktitle: "Calling all Patrons"
+title: "Aufruf an alle Gönner; Schließen Sie sich unserem Fundament treuer Unterstützer an."
+linktitle: "Aufruf an alle Gönner"
 img: phone.jpg
-caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
+caption: "Wir bauen ein Fundament aus treuen Unterstützern, um eine nachhaltige Zukunft für freesewing.org, unseren Code, unsere Schnittmuster und unsere Community zu sichern."
 author: joost
 ---
 
-Every year, on this day, I write about what happened in the previous 12 months, and look ahead at what you can expect in the year ahead.
+Jedes Jahr, an diesem Tag, schreibe ich über die Ereignisse der letzten 12 Monate, und schaue nach vorne, was Sie im kommenden Jahr erwarten können.
 
-This year is no different, but boy do I have a lot to talk about.
+Dieses Jahr ist es nicht anders, aber Junge, ich habe viel zu bereden.
 
 ## 2017: the year freesewing was born
 
