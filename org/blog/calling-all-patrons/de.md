@@ -21,20 +21,20 @@ Viel, wie es sich herausstellt. Etwas, das offensichtlicher geworden ist, seit d
 
 ![Image from the original announcement blog post](open.jpg)
 
-Am Weihnachtstag werden (erst) vier Monate verstrichen sein, seit dieser Veröffentlichung. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Am Weihnachtstag werden (erst) vier Monate verstrichen sein, seit dieser Veröffentlichung. Doch in dieser Zeit haben sich **2735 Benutzer** bei uns angemeldet, für die wir **1522 Entwürfe**und **2359 Modelle** speichern.
 
-We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
+Wir starteten mit 11 Schnittmustern und haben inzwischen 4 weitere hinzugefügt, was die aktuelle Summe der verfügbaren Schnittmuster auf 15 erhöht. Die Hälfte dieser neuen Schnitte wurden von der Gemeinschaft beigesteuert, was besonders vielversprechend ist.
 
-Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
+Ja, es ist noch früh. Aber ich denke, es ist sicher zu sagen, dass die Entscheidung, makemypattern.com als Open-Source-Projekt neu zu erfinden, die richtige Entscheidung war.
 
-Speaking of which.
+Da wir gerade davon sprechen.
 
-## MakeMyPattern.com is no more
-Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
+## MakeMyPattern.com gibt es nicht mehr
+Kurz vor der Veröffentlichung dieses Blog-Posts habe ich den Stecker gezogen bei [makemypattern.com](https://makemypattern.com/).
 
-You can try to visit that link, but you'll only end up back here.
+Du kannst versuchen, diesen Link zu besuchen, aber du wirst nur hier hinten landen.
 
-MakeMyPattern.com saw the light of day in 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
+MakeMyPattern.com sah das Licht des Tages im Jahr 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
 
 ![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
 
