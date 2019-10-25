@@ -34,13 +34,13 @@ Kurz vor der Veröffentlichung dieses Blog-Posts habe ich den Stecker gezogen be
 
 Du kannst versuchen, diesen Link zu besuchen, aber du wirst nur hier hinten landen.
 
-MakeMyPattern.com sah das Licht des Tages im Jahr 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
+MakeMyPattern.com sah das Licht des Tages im Jahr 2012. Es hat seitdem eine Reihe von Iterationen durchlaufen, und heute wird es schließlich durch freesewing.org ersetzt.
 
 ![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
 
-We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
+Es lief gut, und ich denke, dass es für jedes Projekt ein guter Weg ist, wenn es von etwas Besserem, zu dem es einen inspiriert hat, kannibalisiert wird.
 
-## Let's talk money
+## Lass uns über Geld reden
 Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
 
 This year we came in at **673.14€**, so that's what I've transferred.
