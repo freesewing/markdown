@@ -14,29 +14,29 @@ to [Doctors Without Borders (MSF)](http://www.msf.org/).
 
 ### Noblesse oblige
 
-You probably assume that we ask for money to keep the servers running. But that's not exactly true.
+Sie gehen wahrscheinlich davon aus, dass wir Geld bitten, um die Server zu betreiben. But that's not exactly true.
 
 I don't know if you're familiar with the phrase **noblesse oblige** but it essentially means that privilege entails responsibility.
 
-I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+Ich bin privilegiert, und damit habe ich Verantwortung. Ich habe das große Glück, in Westeuropa geboren zu sein, einen guten Job und ein Dach über dem Kopf zu haben.
 
-ould I use the money? Yes I could. Do I need the money? No I don't.
+ould I use the money? Ja, ich könnte es. Brauche ich das Geld? No I don't.
 
-### The value of your support
+### Der Wert Ihrer Unterstützung
 
 The main risk to FreeSewing is the same as any open source project out there: maintainer burnout.
 
 While I no longer carry FreeSewing alone — and I can't overstate the value of the work of all contributors — that doesn't make me immune to feelings of *Why the hell am I doing this?*
 
-When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you're doing a worthwhile thing. Keep up the good work*.
+Wenn Menschen Gönner werden (oder spenden), geben sie mehr als nur Geld. Für mich ist der Hauptwert die Botschaft, die sie mir und anderen Menschen, die daran arbeiten, vermitteln. And that message is: *Hey, you're doing a worthwhile thing. Macht weiter mit der guten Arbeit*.
 
-### The value of your money
+### Der Wert Ihres Geldes
 
-It is not *just* about the money. But that doesn't mean the money is not important. Much to the contrary.
+It is not *just* about the money. But that doesn't mean the money is not important. Ganz im Gegenteil.
 
-Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+Geld zu sammeln, indem ich etwas tue, das ich liebe, und es dann an die Wohltätigkeitsorganisation weiterzugeben, erlaubt es mir, nachts zu schlafen.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on FreeSewing.
+Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. But instead I’m working on FreeSewing.
 
 Which is why all the money raised through FreeSewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 
