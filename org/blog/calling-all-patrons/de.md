@@ -41,43 +41,43 @@ MakeMyPattern.com sah das Licht des Tages im Jahr 2012. Es hat seitdem eine Reih
 Es lief gut, und ich denke, dass es für jedes Projekt ein guter Weg ist, wenn es von etwas Besserem, zu dem es einen inspiriert hat, kannibalisiert wird.
 
 ## Lass uns über Geld reden
-Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
+Wie jedes Jahr an diesem Tag, habe ich alle eingegangenen Spenden auf das Konto von [Ärtze ohne Grenzen](http://www.msf.org/) überwiesen.
 
-This year we came in at **673.14€**, so that's what I've transferred.
+In diesem Jahr kamen wir auf **673,14€**, diese Summe habe ich überwiesen.
 
-> Why should we give you money in the first place if you're just going to give it away?
+> Warum sollten wir Ihnen Geld in geben, wenn Sie es einfach weggeben?
 
-I've also come to understand that people have a bunch of questions about this. Like *Why are you doing this?* and *Why should we give you money in the first place if you're just going to give it away?*
+Ich habe auch verstanden, dass die Leute eine Reihe von Fragen dazu haben. *Warum machen Sie das?* und *Warum sollten wir Ihnen Geld in geben, wenn Sie einfach weiterspenden?*
 
-These questions have led to some soul-searching recently. What I've learned is that it's not easy to talk about money. Nor is it easy to put in words things that you know to be right, almost instinctively.
+Diese Fragen haben in letzter Zeit zu einer gewissen Selbstbeobachtung geführt. Was ich gelernt habe ist, dass es nicht einfach ist, über Geld zu sprechen. Es ist auch nicht einfach, Dinge, von denen man fast instinktiv weiß, dass sie richtig sind, in Worte zu fassen.
 
-But I wanted to be completely transparent about what's going on, so I made the effort to write about these things on [our pledge page](/about/pledge). And I'm copying them here verbatim:
+Aber ich wollte völlig transparent sein, was vor sich geht, also habe ich mich bemüht, über diese Dinge auf [unserer Versprechenseite](/about/pledge) zu schreiben. Und ich kopiere sie hierher, wörtlich:
 
 > ##### Noblesse oblige
 > 
-> You probably assume that we ask for money to keep the servers running. But that’s not exactly true.
+> Sie gehen wahrscheinlich davon aus, dass wir Geld bitten, um die Server zu betreiben. Aber das stimmt nicht genau.
 > 
-> I don’t know if you’re familiar with the phrase *noblesse oblige* but it essentially means that privilege entails responsibility.
+> Ich weiß nicht, ob Sie mit dem Satz *noblesse oblige* vertraut sind, aber es bedeutet im Wesentlichen, dass Privilegien Verantwortung bedeutet.
 > 
-> I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+> Ich bin privilegiert, und damit habe ich Verantwortung. Ich habe das große Glück, in Westeuropa geboren zu sein, einen guten Job und ein Dach über dem Kopf zu haben.
 > 
-> Could I use the money? Yes I could. Do I need the money? No I don’t.
+> Könnte ich das Geld gebrauchen? Ja, ich könnte es. Brauche ich das Geld? Nein ich bin nicht darauf angewiesen.
 > 
-> ##### The value of your support
+> ##### Der Wert Ihrer Unterstützung
 > 
-> The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
+> Das Hauptrisiko für Freesewing ist das gleiche wie bei jedem Open-Source-Projekt da draußen: Maintainer-Burnout.
 > 
-> While I no longer carry Freesewing alone — and I can’t stress enough how much I value the work of all contributors — that doesn’t make me immune to feelings of *Why the fuck am I doing this?*
+> Obwohl ich FreeSewing nicht mehr alleine stemme — und ich kann nicht genug betonen, wie sehr ich die Arbeit aller Mitwirkenden schätze - macht mich das nicht immun gegen Gefühle von der Sorte: *Warum zum Teufel tu ich mir das an?*
 > 
-> When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you’re doing a worthwhile thing. Keep up the good work*.
+> Wenn Menschen Gönner werden (oder spenden), geben sie mehr als nur Geld. Für mich ist der Hauptwert die Botschaft, die sie mir und anderen Menschen, die daran arbeiten, vermitteln. Und diese Botschaft ist: *Hey, Ihr machst eine sinnvolle Sache. Macht weiter mit der guten Arbeit*.
 > 
-> ##### The value of your money
+> ##### Der Wert Ihres Geldes
 > 
-> It is not just about the money. But that doesn’t mean the money is not important. Much to the contrary.
+> Es geht nicht nur um das Geld. Aber das bedeutet nicht, dass das Geld nicht wichtig ist. Ganz im Gegenteil.
 > 
-> Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+> Geld zu sammeln, indem ich etwas tue, das ich liebe, und es dann an die Wohltätigkeitsorganisation weiterzugeben, erlaubt es mir, nachts zu schlafen.
 > 
-> I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
+> Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. But instead I’m working on Freesewing.
 > 
 > Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it’s OK to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 > 
