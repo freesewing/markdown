@@ -38,9 +38,9 @@ Geld zu sammeln, indem ich etwas tue, das ich liebe, und es dann an die Wohltät
 
 Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. But instead I’m working on FreeSewing.
 
-Which is why all the money raised through FreeSewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+Which is why all the money raised through FreeSewing goes to charity. So macht dieses Projekt nicht nur Spaß, sondern auch sozial verantwortlich. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
 
-### Charity is not sexy
+### Gemeinnützigkeit ist nicht sexy
 Here's the tricky part: People give less once they know the money goes to charity in the end. I wish it wasn't the case, but it is.
 
 So we're presenting [our subscription options](/patrons/join) like you would see on a for-profit site. It seems more intuitive this way, and also just works better.
