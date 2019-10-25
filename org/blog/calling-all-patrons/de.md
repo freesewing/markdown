@@ -19,7 +19,7 @@ Core FreeSewing v1.0.0 [wurde im März dieses Jahres](/blog/announcing-freesewin
 
 Viel, wie es sich herausstellt. Etwas, das offensichtlicher geworden ist, seit der [die Veröffentlichung von freesewing.org](/blog/open-for-business/) Ende August.
 
-![Image from the original announcement blog post](open.jpg)
+![Bild aus dem ursprünglichen Ankündigungs-Blog-Beitrag](open.jpg)
 
 Am Weihnachtstag werden (erst) vier Monate verstrichen sein, seit dieser Veröffentlichung. Doch in dieser Zeit haben sich **2735 Benutzer** bei uns angemeldet, für die wir **1522 Entwürfe**und **2359 Modelle** speichern.
 
@@ -36,7 +36,7 @@ Du kannst versuchen, diesen Link zu besuchen, aber du wirst nur hier hinten land
 
 MakeMyPattern.com sah das Licht des Tages im Jahr 2012. Es hat seitdem eine Reihe von Iterationen durchlaufen, und heute wird es schließlich durch freesewing.org ersetzt.
 
-![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
+![War es ein M? Ein Buch? Ein Vogel? Brüste? Wir wissen vielleicht nie](mmp.png)
 
 Es lief gut, und ich denke, dass es für jedes Projekt ein guter Weg ist, wenn es von etwas Besserem, zu dem es einen inspiriert hat, kannibalisiert wird.
 
@@ -99,7 +99,7 @@ Deshalb nennen wir seit heute alle Gönner.
 
 Um eine nachhaltige Zukunft für freesewing.org, unseren Code, unsere Muster und unsere Community zu gewährleisten, müssen wir ein Fundament aus treuen Unterstützern aufbauen. Gönner, die uns in unserer Kernarbeit unterstützen: Entwicklung einer Open-Source-Plattform für maßgeschneiderte Schnittmuster.
 
-![We have three tiers of Patronage](patron-medals.jpg)
+![Wir haben drei Stufen der Gönnerschaft](patron-medals.jpg)
 
 Wir haben verschiedene Stufen der Gönnerschaft, jede mit ihren eigenen Vergünstigungen. Sie können uns für nur 2€ unterstützen, und es dauert nur eine Minute.
 
@@ -119,7 +119,7 @@ Vielen Dank und ich wünsche Ihnen ein gutes Wahr.
 
 joost
 
-<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. 
-So perhaps you could share [this image](patrons-ig.png) on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
+<small>PS: Es wäre eine Schande, wenn dort Leute draußen bereit sind, uns zu unterstützen, die aber nicht wissen wie. 
+Vielleicht könnten Sie also [dieses Bild](patrons-ig.png) auf sozialen Medien teilen? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
 
-![Sharing is caring!](patrons-ig.png)
+![Sharing is Caring!](patrons-ig.png)
