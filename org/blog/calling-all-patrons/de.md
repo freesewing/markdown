@@ -11,17 +11,17 @@ Jedes Jahr, an diesem Tag, schreibe ich über die Ereignisse der letzten 12 Mona
 
 Dieses Jahr ist es nicht anders, aber Junge, ich habe viel zu bereden.
 
-## 2017: the year freesewing was born
+## 2017: Das Jahr in dem FreeSewing geboren wurde
 
-While freesewing was conceived in 2016 -- that's when I started working on it -- 2017 was the year it saw the light of day.
+Während FreeSewing im Jahr 2016 konzipiert wurde - das ist der Zeitpunkt, an dem ich anfing, daran zu arbeiten - war 2017 das Jahr, in dem es das Licht der Welt erblickte.
 
-Freesewing core v1.0.0 [was released in March this year](/blog/announcing-freesewing/). For most people, that event passed under the radar. An open source platform for made-to-measure sewing patterns? What does this thing actually do?
+Core FreeSewing v1.0.0 [wurde im März dieses Jahres](/blog/announcing-freesewing/) veröffentlicht. Für die meisten Menschen ging dieses Ereignis unter dem Radar durch. Eine Open-Source-Plattform für Nähmuster nach Maß? Was macht dieses Ding eigentlich?
 
-A lot, as it turns out. Something that's become more obvious since [the release of freesewing.org](/blog/open-for-business/) at the end of August.
+Viel, wie es sich herausstellt. Etwas, das offensichtlicher geworden ist, seit der [die Veröffentlichung von freesewing.org](/blog/open-for-business/) Ende August.
 
 ![Image from the original announcement blog post](open.jpg)
 
-On Christmas day, it will (only) have been four months since this release. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Am Weihnachtstag werden (erst) vier Monate verstrichen sein, seit dieser Veröffentlichung. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
 
 We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
 
