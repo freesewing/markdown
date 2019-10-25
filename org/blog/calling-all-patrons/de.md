@@ -87,35 +87,35 @@ Aber ich wollte völlig transparent sein, was vor sich geht, also habe ich mich 
 > 
 > Deshalb erwähne ich es nicht ausdrücklich auf unserer Gönnerseite, die so aufgemacht ist als würden Sie eine Geschäftsseite sehen.
 > 
-> Yes, everything is free, and the money doesn’t actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn’t mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+> Ja, alles ist kostenlos, und das Geld geht nicht wirklich zur Bezahlung der Serverrechnungen (weil ich sie aus den oben genannten Gründen aus eigener Tasche bezahle). Aber das bedeutet nicht, dass diese Beiträge nicht entscheidend für das Wohlergehen des Projekts sind, oder zumindest sein Betreuer (das wäre ich).
 
-Did you notice that in the text above I mentioned our Patrons page? That is because I've rolled out a bunch of changes today.
+Hast du bemerkt, dass ich im obigen Text unsere Gönnerseite erwähnt habe? Das liegt daran, dass ich heute eine Reihe von Änderungen vorgenommen habe.
 
-Having taken the time to reflect on the money side of things, I've realized that it's an important factor in the well-being of this project. I also believe that donations -- while motivating and appreciated -- are not the best way to go about this.
+Nachdem ich mir die Zeit genommen habe, über die finanzielle Seite der Dinge nachzudenken, habe ich erkannt, dass es ein wichtiger Faktor für das Wohlergehen dieses Projekts ist. Ich glaube auch, dass Spenden - obwohl motivierend und geschätzt - nicht der beste Weg sind, um dies zu erreichen.
 
-So, as of today, we are calling all Patrons.
+Deshalb nennen wir seit heute alle Gönner.
 
-## Become a Patron of Freesewing
+## Werde ein Gönner von FreeSewing
 
-To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters. Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
+Um eine nachhaltige Zukunft für freesewing.org, unseren Code, unsere Muster und unsere Community zu gewährleisten, müssen wir ein Fundament aus treuen Unterstützern aufbauen. Gönner, die uns in unserer Kernarbeit unterstützen: Entwicklung einer Open-Source-Plattform für maßgeschneiderte Schnittmuster.
 
 ![We have three tiers of Patronage](patron-medals.jpg)
 
-We have different tiers of Patronage, each with their own perks. You can support us for as little as 2€, and it only takes a minute.
+Wir haben verschiedene Stufen der Gönnerschaft, jede mit ihren eigenen Vergünstigungen. Sie können uns für nur 2€ unterstützen, und es dauert nur eine Minute.
 
-> We are not changing the nature of the site. All patterns, and all our code, will remain free.
+> Wir ändern nicht die Art der Website. All unsere Schnittmuster und unser Code bleiben frei und opensource.
 
-We are not changing the nature of the site. All patterns, and all our code, will remain free. What we are changing is the way we raise funds. From a system of impulsive donations to a community of caring Patrons. If you are someone who cares, then [check out what we have to offer](/patrons/join).
+Wir ändern nicht die Art der Website. All unsere Schnittmuster und unser Code bleiben frei und opensource. Was wir ändern, ist die Art und Weise, wie wir fundraising betreiben. Von einem System gelegentlicher Spenden in eine Gemeinschaft fürsorglicher Gönner. Wenn Sie jemand sind, der sich darum kümmert, dann schauen Sie sich an, [was wir zu bieten haben](/patrons/join).
 
-I sincerely believe we are doing a worthwhile thing here. If you feel that way too, then I ask you to pledge whatever you can so that we can write many more chapters in this book.
+Ich glaube aufrichtig, dass wir hier etwas Gutes tun. Wenn Sie auch so denken, dann bitte ich Sie, die Gönnerschaft auszuwählen, die Sie vermögen, damit wir noch viele weitere Kapitel in diesem Buch schreiben können.
 
-> ### Become a Patron today
+> ### Werden Sie noch heute ein Gönner
 > 
-> #### You can sign up for as little as 2€, and it only takes a minute.
+> #### Sie sind bereits mit einem Betrag von 2€ dabei, und es dauert nur eine Minute.
 > 
-> [Find out more](/patrons/join)
+> [Erfahren Sie mehr](/patrons/join)
 
-Thank you, and have a great year.
+Vielen Dank und ich wünsche Ihnen ein gutes Wahr.
 
 joost
 
