@@ -77,15 +77,15 @@ Aber ich wollte völlig transparent sein, was vor sich geht, also habe ich mich 
 > 
 > Geld zu sammeln, indem ich etwas tue, das ich liebe, und es dann an die Wohltätigkeitsorganisation weiterzugeben, erlaubt es mir, nachts zu schlafen.
 > 
-> Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. But instead I’m working on Freesewing.
+> Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. Aber stattdessen arbeite ich an FreeSewing.
 > 
-> Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it’s OK to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+> Darum gehen alle Einnahmen und Spenden, die ich durch FreeSewing erziele an eine gemeinnützige Organisation. So macht dieses Projekt nicht nur Spaß, sondern auch sozial verantwortlich. Und ich brauche das, um mich davon zu überzeugen, dass es in Ordnung ist, meine ganze Zeit damit zu verbringen, denn am Ende des Jahres kann ich einen Scheck an Leute schreiben, die ihn viel mehr brauchen als ich.
 > 
-> ##### Charity is not sexy
+> ##### Gemeinnützigkeit ist nicht sexy
 > 
-> Here’s the tricky part: People donate less once they know the money goes to charity in the end. I wish it wasn’t the case, but it is.
+> Hier ist der heikle Teil: Die Menschen spenden weniger, wenn sie wissen, dass das Geld an Wohltätigkeitsarbeit geht. Ich wünschte, das wäre nicht der Fall, aber es so.
 > 
-> So I’m not explicitly mentioning it on our Patrons page, which is presented like you would see on a business site.
+> Deshalb erwähne ich es nicht ausdrücklich auf unserer Gönnerseite, die so aufgemacht ist als würden Sie eine Geschäftsseite sehen.
 > 
 > Yes, everything is free, and the money doesn’t actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn’t mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
 
