@@ -2,7 +2,7 @@
 title: Héritage de partie
 ---
 
-L'héritage de partie au sein de votre propre patron est géré via les paramètres `inject` dans la [configuration du patron](/config). Voici un exemple simple :
+Part inheritance within your own pattern is handled via the `inject` settings in the [pattern configuration](/reference/config/). Voici un exemple simple :
 
 ```js
 inject: {
@@ -20,7 +20,7 @@ Utiliser `inject` va faire que FreeSewing ébauchera toujours la partie injecté
 
 <Note>
 
-For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
+For inheriting parts from other patterns, please refer to [pattern inheritance](/howtos/core/inheritance/).
 
 </Note>
 
