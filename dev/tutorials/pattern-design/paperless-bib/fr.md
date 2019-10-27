@@ -1,6 +1,5 @@
 ---
-title: Rendre votre patron sans papier
-order: 270
+title: 270|Making your pattern paperless
 ---
 
 Les utilisateurs peuvent demander des patrons sans papier en réglant le paramètre `paperless` sur `true`.
@@ -32,13 +31,7 @@ Tandis que la grille est ajoutée automatiquement, vous aurez à ajouter les dim
  - La macro `hd` qui ajoute une mesure horizontale
  - La macro `vd` qui ajoute une mesure verticale
  - La macro `ld` qui ajoute une mesure linéaire
- - La macro `pd` qui ajoute une mesure de chemin suivant ce même chemin
-
-<Warning>
-
-FIXME: Ajouter les liens à la doc
-
-</Warning>
+ - La macro `pd` qui ajoute une mesure de chemin suivant ce même chemin<Fixme> Add links to macro docs </Fixme>
 
 Jetons un coup d'oeil à ce code :
 
