@@ -1,6 +1,5 @@
 ---
-title: Completing the neck opening
-order: 180
+title: 180|Completing the neck opening
 ---
 
 As the neck opening is symmetrical, there's no need to re-calculate the points on the other side. You can just flip them over, so to speak. And that's exactly what you'll do:
@@ -23,7 +22,7 @@ points.topCp2 = points.bottomCp1.flipY();
 <Note>
 
 We're using the `Point.flipX()` and `Point.flipY()` methods here.
-Perhaps you can figure out what they do? If not, check [the API documentation](/api/point).
+Perhaps you can figure out what they do? If not, check [the API documentation](/reference/api/point/).
 
 </Note>
 
