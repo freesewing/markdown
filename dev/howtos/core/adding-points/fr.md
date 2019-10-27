@@ -3,7 +3,7 @@ title: Adding points
 order: 260
 ---
 
-After using the [shorthand](/concepts/shorthand) call, `Point` contains the point constructor, while `points` is a reference to `part.points`, which is where you should store your points.
+After using the [shorthand](/howtos/core/shorthand/) call, `Point` contains the point constructor, while `points` is a reference to `part.points`, which is where you should store your points.
 
 Things will now *just work* when you do this:
 

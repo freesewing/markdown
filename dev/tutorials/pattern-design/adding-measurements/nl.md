@@ -22,7 +22,7 @@ measurements: ["headCircumference"],
 
 Let erop dat je de namen van bestaande afmetingen gebruikt in plaats van er zelf nieuwe te verzinnen.
 
-See our [best practices](/do/names#re-use-measurements) on this topic for details.
+See our [best practices](/guides/best-practices/names#re-use-measurements) on this topic for details.
 
 </Tip>
 

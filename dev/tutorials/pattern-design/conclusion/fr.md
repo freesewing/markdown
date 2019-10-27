@@ -22,7 +22,7 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 
  - Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](fr/concepts)
  - Mettez en marque page les [docs API de FreeSewing](fr/api), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
- - Prenez en considération [nos meilleures pratiques](/do) qui vous aideront à réaliser des patrons optimaux
+ - Prenez en considération [nos meilleures pratiques](/guides/best-practices) qui vous aideront à réaliser des patrons optimaux
 
 ## Pour la suite
 

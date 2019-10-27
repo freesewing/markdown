@@ -3,7 +3,7 @@ title: Adding paths
 order: 270
 ---
 
-After using the [shorthand](/concepts/shorthand) call, 
+After using the [shorthand](/howtos/core/shorthand/) call, 
 `Path` contains the path constructor, while `paths` is a reference to `part.paths`,
 which is where you should store your paths.
 

@@ -12,7 +12,7 @@ certain measurements differently.
 
 ######  See our models packages for standard measurement names
 
-The [freesewing models](/packages/models)
+The [@freesewing/models](/reference/packages/models/)
 package contains all our standard measurement names.
 
 </Tip>
@@ -27,6 +27,6 @@ As in, `bicepsEase` exists. So don't go creating an `upperArmEase` option.
 ## Re-use CSS classes
 
 While you can style your pattern however you want, try to re-use the CSS class names that
-are in use in our default [theme plugin](/packages/theme).
+are in use in our default [theme plugin](/reference/packages/plugin-theme/).
 
 Doing so will ensure consistent styling for patterns.

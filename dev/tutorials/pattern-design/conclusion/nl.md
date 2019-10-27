@@ -22,7 +22,7 @@ Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvo
 
  - Als je dat nog niet gedaan hebt, kan je hier [de basisconcepten van FreeSewing](/concepts) nalezen
  - Sla de [FreeSewing API-documenten](/api) op bij je favorieten; je kan ze gebruiken als referentie telkens wanneer je niet zeker weet hoe iets werkt
- - Neem onze [best practices](/do) door; ze helpen je om de best mogelijke patronen te ontwerpen
+ - Neem onze [best practices](/guides/best-practices) door; ze helpen je om de best mogelijke patronen te ontwerpen
 
 ## En wat nu?
 

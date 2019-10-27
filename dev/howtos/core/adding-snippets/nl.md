@@ -3,7 +3,7 @@ title: Snippets toevoegen
 order: 280
 ---
 
-Nadat je de [shorthand](/concepts/shorthand) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
+Nadat je de [shorthand](/howtos/core/shorthand/) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
 
 De dingen werken nu *gewoon* als je dit doet:
 

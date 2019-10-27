@@ -4,7 +4,7 @@ title: Partager des données entre des parties
 
 Parfois, vous voudrez accéder aux données d'une partie dans une autre partie. Par exemple, vous pourriez stocker la longueur de l'emmanchure de vos parties devant et dos, puis lire cette valeur lorsque vous ébauchez la manche de façon à pouvoir vérifier que la manche s'ajuste bien à l'emmanchure.
 
-Pour cela, vous devriez utiliser le [Store](/api/store) (Boutique), qui est disponible via l'appel au [shorthand](/concepts/shorthand) (raccourci) :
+Pour cela, vous devriez utiliser le [Store](/api/store) (Boutique), qui est disponible via l'appel au [shorthand](/howtos/core/shorthand/) (raccourci) :
 
 ```js
 export default function(part) {

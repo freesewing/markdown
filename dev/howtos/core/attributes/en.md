@@ -3,7 +3,7 @@ title: Using attributes
 order: 300
 ---
 
-Points, Paths, and Snippets all have [attributes](/api/attributes) that you can use to
+Points, Paths, and Snippets all have [attributes](/reference/api/attributes/) that you can use to
 influence how they behave.
 
 A common scenario is to apply CSS classes to style a path:

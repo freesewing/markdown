@@ -3,7 +3,7 @@ title: Accessing measurements
 order: 240
 ---
 
-Measusuremnets are stored in `pattern.settings.measurements`, but thanks to the [shorthand](/concepts/shorthand) call, you can simply write:
+Measusuremnets are stored in `pattern.settings.measurements`, but thanks to the [shorthand](/howtos/core/shorthand/) call, you can simply write:
 
 ```js
 let quarterChest = measurements.chestCircumference / 4;

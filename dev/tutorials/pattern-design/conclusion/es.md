@@ -22,7 +22,7 @@ Congratulations, you have created your first pattern. And while it's arguably ra
 
  - If you haven't done so already, read through [the basic concepts of FreeSewing](/concepts)
  - Bookmark [the FreeSewing API docs](/api), they are your reference every time you're not entirely certain how something works
- - Have a look at [our best practices](/do) that will help you make the best possible patterns
+ - Have a look at [our best practices](/guides/best-practices) that will help you make the best possible patterns
 
 ## What to do next
 

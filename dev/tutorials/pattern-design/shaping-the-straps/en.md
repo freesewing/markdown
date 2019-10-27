@@ -10,7 +10,7 @@ Which means, halfway between the start of the curve, and the corner of our recta
 
 For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
 used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
-As always, [the API docs](/api/point) have all the details.
+As always, [the API docs](/reference/api/point/) have all the details.
 
 </Note>
 

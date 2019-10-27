@@ -3,7 +3,7 @@ title: Part inheritance
 ---
 
 Part inheritance within your own pattern is handled via the `inject` settings in
-the [pattern configuration](/config). Here is a simple example:
+the [pattern configuration](/reference/config/). Here is a simple example:
 
 ```js
 inject: {
@@ -27,6 +27,6 @@ drafting the part it gets injected to. It will, in other words, influece the dra
 
 <Note>
 
-For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
+For inheriting parts from other patterns, please refer to [pattern inheritance](/howtos/core/inheritance/).
 
 </Note>

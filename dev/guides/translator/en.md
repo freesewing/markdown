@@ -29,8 +29,8 @@ please [come and talk to us on Gitter](https://gitter.im/freesewing/freesewing).
 
 FreeSewing has two different projects on crowdin:
 
- - [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. See [Translating strings](/translator/strings) for more info.
- - [freesewing/markdown](https://crowdin.com/project/fs-markdown) holds **content**; Things like documentation, blog posts, and so on. See [Translating content](/translator/content) for more info. 
+ - [freesewing/i18n](https://crowdin.com/project/freesewing) holds **strings**; All of the words and sentences that are used in our code. See [Translating strings](/guides/translator/strings/) for more info.
+ - [freesewing/markdown](https://crowdin.com/project/fs-markdown) holds **content**; Things like documentation, blog posts, and so on. See [Translating content](/guides/translator/content/) for more info. 
 
 <Note>
 

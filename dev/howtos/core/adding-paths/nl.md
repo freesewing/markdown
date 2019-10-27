@@ -3,7 +3,7 @@ title: Paths toevoegen
 order: 270
 ---
 
-Nadat je de [shorthand](/concepts/shorthand) hebt gebruikt, heeft `Path` de constructor voor nieuwe Paths, en is `paths` een referentie naar `part.paths`, waar je je nieuwe Paths moet bewaren.
+Nadat je de [shorthand](/howtos/core/shorthand/) hebt gebruikt, heeft `Path` de constructor voor nieuwe Paths, en is `paths` een referentie naar `part.paths`, waar je je nieuwe Paths moet bewaren.
 
 De dingen werken nu *gewoon* als je dit doet:
 

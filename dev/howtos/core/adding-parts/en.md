@@ -1,10 +1,9 @@
 ---
 title: Adding pattern parts
-order: 210
 ---
 
 Since the patterns parts are listed 
-in [the configuration file](/en/docs/developer/config), freesewing knows about
+in [the configuration file](/reference/config/), freesewing knows about
 all the parts that belong to your pattern.
 
 It expects that each pattern has it's own draft method, that is called `draft`
