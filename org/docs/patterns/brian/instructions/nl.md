@@ -1,8 +1,11 @@
+<Note>
 
-## Brian is een basis, geen patroon
+###### Brian is a block, not a pattern
 
-Een basisvorm is een basispatroon waar andere patronen op gebaseerd worden. Dit wordt soms ook een paspatroon genoemd, alhoewel puristen zeggen dat dit twee verschillende dingen zijn.
+A block is a basic shape on which other patterns are based.
+Dit wordt soms ook een paspatroon genoemd, alhoewel puristen zeggen dat dit twee verschillende dingen zijn.
 
-Het punt is dat het geen nut heeft om instructies te schrijven over hoe Brian gemaakt wordt.
+Blocks are typically not made as-is but rather serve as a basis for other patterns.
 
-Dat is omdat Brian niet bedoeld is om zo gemaakt te worden, maar als basis kan dienen voor je eigen ontwerpen.
+</Note>
+

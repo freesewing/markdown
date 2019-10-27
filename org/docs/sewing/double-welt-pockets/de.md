@@ -32,7 +32,7 @@ To make double welt pockets, you will need:
 
 ### Parameters
 
-Two values determine the size of your double welt pocket. They are:
+Two values determine the size of your double welt pocket. Das sind:
 
  - The pocket width: This is the width of the opening of the finalized double welt pocket
  - The welt height: This is the height of a single welt, and this half of the height of our double welt pocket

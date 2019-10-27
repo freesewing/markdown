@@ -2,17 +2,17 @@
 title: Basic sewing supplies
 ---
 
-> What exactly constitutes the bare necessities for sewing is subject to debate. Some people like more tools, others say that even a sewing machine is optional as you can sew by hand.
+> Was genau die unerlässliche Grundausstattung fürs Nähen umfasst, ist Gegenstand dieser Aufstellung. Einige Leute mögen mehr Zubehör, andere Mensch sagen selbst die Nähmaschine sei nicht wirklich nötig, da auch von Hand genäht werden kann.
 
-For the sake of clarity, when I refer to basic sewing supplies on this website, I mean the following:
+Zur Klarstellung, wenn ich auf dieser Seite von grundlegendem Nähzubehör spreche, meine ich folgendes:
 
- - Tape measure
- - Sewing machine
-   - Sewing machine needles
-   - Bobbins
- - Sewing thread
- - Fabric scissors
- - Seam ripper
- - Pins and hand sewing needles
- - Fabric marker/Pencils
- - An iron
+ - Massband
+ - Nähmaschine
+   - Nähmaschinennadeln
+   - Unterfadenspulen
+ - Nähfaden
+ - Stoffschere
+ - Nahtauftrenner
+ - Stecknadeln und Handnähnadeln
+ - Stoffmarker/-markierstifte
+ - Ein Bügeleisen

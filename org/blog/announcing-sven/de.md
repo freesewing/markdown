@@ -1,18 +1,18 @@
 ---
 date: 2017-07-09
-title: "Announcing the Sven Sweater; A basic sweater based on the Brian body block"
-linktitle: "Announcing the Sven Sweater"
+title: "Ankündigung des Pullovers Sven; ein einfacher Pullover, der auf dem Grundschnitt von Brian basiert"
+linktitle: "Ankündigung des Pullovers Sven"
 img: showcase.jpg
-caption: "A Sven made for the office. As in, kinda boring"
+caption: "Ein Sven für das Büro. Wie in, irgendwie langweilig"
 author: joost
 ---
 
-Winter caused me to design this pattern. I was cold, and needed some sweaters, so what does one do?
+Winter veranlasste mich, dieses Schnitt zu entwerfen. Mir war kalt und ich brauchte ein paar Pullover, also was macht man da?
 
-Sven stayed under the radar until now because I designed it on the (then unreleased) freesewing platform, and until now I didn't have a place to show it to people.
+Sven blieb bisher unter dem Radar, weil ich es auf der (damals unveröffentlichten) Freewing-Plattform entworfen habe, und bis jetzt hatte ich keinen geeigneten Ort, um es den Leuten zu zeigen.
 
-That's how we got here. Now about that sweater: It's a simple design based on the Brian body block. I've made three different version myself, changing the neckline and fabrics, and it really does what it needs to do very well (as in, keep me warm).
+So sind wir hierher gekommen. Nun zu dem Pullover: Es ist ein einfaches Design, das auf dem Grundschnitt Brian basiert. Ich habe selbst drei verschiedene Versionen gemacht, bei denen ich den Ausschnitt und die Stoffaiswahl variiert habe, und er tut was er soll (hält mich warm).
 
-## Pictures or it didn't happen
+## Bilder oder es ist nicht passiert
 
-Check out the [Sven showcases](/showcase/pattern/sven) for some samples.
+Schauen Sie sich die [Sven Gallerie](/showcase/pattern/sven) für einige Beispiele an.

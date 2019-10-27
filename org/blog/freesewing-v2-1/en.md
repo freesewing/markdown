@@ -15,7 +15,7 @@ There are 3 new patterns in this release:
 
  - [Penelope](/patterns/penelope) is a pencil skirt by [Wouter Van Wageningen](/users/wouter.vdub)
  - [Waralee](/patterns/waralee) are wrap pants, also by [Wouter](/users/wouter.vdub)
- - [Simone](/pattern/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
+ - [Simone](/patterns/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
 
 All of these patterns are either womenswear or -- in the case of Waralee -- unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
 

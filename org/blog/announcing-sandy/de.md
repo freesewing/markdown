@@ -1,20 +1,20 @@
 ---
 date: 2018-08-01
-title: "Announcing Sandy, a circle skirt designed by @AlfyLyr"
-linktitle: "Announcing the Sandy circle skirt"
+title: "Ankündigung von Sandy, einem Tellerrock, der von @AlfyLyr entworfen wurde"
+linktitle: "Ankündigung des Tellerrocks Sandy"
 img: sandy.jpg
-caption: "Did you know that Sandy was named after Olivia Newton-John's character in the move Grease?"
+caption: "Wusstest du, dass Sandy nach Olivia Newton-Johns Figur im Film \"Grease\" benannt wurde?"
 author: joost
 ---
 
-Ladies and gentlemen \--- because who says men can't wear skirts \--- I am happy to announce the immeadiate availability of our latest freesewing pattern: [the Sandy circle skirt](/patterns/sandy).
+Meine Damen und Herren \--- denn wer sagt, dass Männer keine Röcke tragen können \--- Ich freue mich, die sofortige Verfügbarkeit unseres neuesten FreeSewing-Schnittmusters bekannt zu geben: [der Tellerrock Sandy](/patterns/sandy).
 
-Sandy was designed by [@AlfaLyr](/users/alfalyr) who really did a stellar job. This makes it also another pattern from the freesewing community, something that I'm very excited about.
+Sandy wurde von [@AlfaLyr](/users/alfalyr) entworfen, die wirklich einen hervorragenden Job gemacht haben. Das macht es auch zu einem weiteren Schnittmuster aus der Freesewing-Community, wovon ich sehr begeistert bin.
 
-## All the options
+## Alle die Optionen
 
-As many patterns here at freesewing, Sandy comes with a bunch of options to allow you to customize your skirt to your wishes.
+Wie viele Muster hier beim FreeSewing, kommt Sandy mit einer Reihe von Optionen, die es Ihnen ermöglichen, Ihren Rock nach Ihren Wünschen zu gestalten.
 
-There's options for how much of circle you want (half? full? Something else?), how long you want it, the shape and overlap of the waistband, whether you want pleats, how much hem, and so on.
+Es gibt Optionen dafür, wie viel vom Kreis Sie haben wollen (halb? voll? Etwas dazwischen?), wie lange Sie ihn haben wollen, die Form und Überlappung des Taillenbundes, ob Sie Falten wollen, wie viel Saum, und so weiter.
 
-I can see this becoming rather the success story. So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.
+Ich sehe, dass dies mehr und mehr zur Erfolgsgeschichte wird. Also los und [ gönnen Sie sich einen neuen Rock](/draft/sandy), und lassen Sie [@AlfyLyr](/users/alfalyr) wissen, wie es für Sie funktioniert.
