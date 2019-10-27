@@ -1,5 +1,6 @@
 ---
-title: Howtos
+title: Reference
 ---
 
 <ReadMore />
+

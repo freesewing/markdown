@@ -1,5 +1,6 @@
 ---
-title: Howtos
+title: Tutorials
 ---
 
 <ReadMore />
+
