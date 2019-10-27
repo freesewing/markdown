@@ -1,20 +1,6 @@
 ---
-title: Code of conduct
+title: zzzz|Code of conduct
 ---
-
-<!-- 
-
-TIP FOR TRANSLATORS
-
-This is an almost verbatim copy of the Contributor Covenant of which
-translations in many languages are available at:
-
-  https://www.contributor-covenant.org/translations
-
-The only change is that we've put the contact info in a different
-section at the end, rather than in the 'Enforcement' section.
-
--->
 
 ## Our pledge
 
