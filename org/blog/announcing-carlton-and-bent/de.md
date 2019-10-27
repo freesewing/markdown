@@ -1,5 +1,5 @@
 ---
-date: 2017-12-20
+date: 20.12.2017
 title: "Ankündigung des Carlton-Mantels, auch bekannt als Sherlock Homes Mantel, und des Bent-Grundschnitts"
 linktitle: "Ankündigung des Carlton-Mantels und Gruntschnitts Bent"
 img: coat.jpg

@@ -1,5 +1,5 @@
 ---
-date: 2018-01-26
+date: 26.01.2018
 title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
@@ -61,7 +61,7 @@ Das versteht sich von selbst für regelmäßige Besucher dieser Website, aber we
 
 ## Meine Damen, Ihre Rückmeldungen sind uns sehr willkommen
 
-Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpsrtie. Wir betreten damit neuen Boden. Ich würde gerne erfahren, wie gut dieser Schnitt an verschiedenen Figurtypen / Cup-Grössen sitzt.
+Dies ist unser erstes Damenschnittmuster mit einer anliegenden Brustpartie. Wir betreten damit neuen Boden. Ich würde gerne erfahren, wie gut dieser Schnitt an verschiedenen Figurtypen / Cup-Grössen sitzt.
 
 Wenn Sie vorhaben, diesen Schnitt für einen Mantel zu verwenden oder ein Nesselmodell davon zu erstellen, teilen Sie bitte Ihre Erfahrungen mit uns. Und bitte zögern Sie nicht mit uns in Kontakt zu treten, falls irgendwelche Schwierigkeiten auftreten.
 
