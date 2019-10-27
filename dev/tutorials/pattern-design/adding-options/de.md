@@ -1,6 +1,5 @@
 ---
-title: Adding options
-order: 140
+title: 140|Adding options
 ---
 
 You know what your bib should look like, and you have the *headCircumference* measurement to work with. But there's still a number of choices you have to make:
@@ -38,7 +37,7 @@ Can you guess what it means?
 <Note>
 
 There are different types of options, but percentages are the most common ones.
-They are all documentation [in the API docs](/api/config#options).
+They are all documentation [in the API docs](/reference/api/config/#options).
 
 </Note>
 
