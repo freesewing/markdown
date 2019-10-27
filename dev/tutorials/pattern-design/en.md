@@ -1,5 +1,5 @@
 ---
-title: Pattern design
+title: Pattern design tutorial
 ---
 
 Welcome to the FreeSewing tutorial, where you'll learn how to create a made-to-measure

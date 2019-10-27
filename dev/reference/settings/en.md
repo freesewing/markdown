@@ -1,5 +1,5 @@
 --- 
-title: Pattern settings
+title: Draft settings
 ---
 
 <Note>
