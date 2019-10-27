@@ -1,9 +1,8 @@
 ---
 title: Patroondelen toevoegen
-order: 210
 ---
 
-Omdat alle patroondelen opgelijst staan in het [configuratiebestand](/en/docs/developer/config) weet FreeSewing precies welke delen er bij jouw patroon horen.
+Since the patterns parts are listed in [the configuration file](/reference/config/), freesewing knows about all the parts that belong to your pattern.
 
 Het gaat ervan uit dat elk patroon zijn eigen tekenmethode heeft met de naam `draft` gevolgd door de naam van het patroondeel met een hoofdletter.
 
