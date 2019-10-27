@@ -1,6 +1,5 @@
 ---
-title: De halsopening uitwerken
-order: 160
+title: 160|Constructing the neck opening
 ---
 
 Wat je nodig hebt, is een licht ovale halsopening met een doorsnee die overeenkomt met de hoofdomtrek `headCircumference`, vermenigvuldigd met de optie `neckRatio`.
@@ -68,7 +67,7 @@ Het volgende punt is weer heel gelijkaardig, behalve dat we het deze keer naar r
 <Tip>
 
 Er bestaan een hele hoop van dit soort methodes voor punten. 
-You can find them all in [the Point API docs](/api/point).
+You can find them all in [the Point API docs](/referene/api/point/).
 
 </Tip>
 
@@ -85,7 +84,7 @@ paths.neck = new Path()
  - Dat volgen we op met een `Path.move()`-call die één punt als argument gebruikt
  - En dan is er een `Path.curve()`-call die drie punten als argumenten gebruikt
 
-Als je de [basisconcepten van FreeSewing](/concepts) gelezen hebt, weet je dat paden altijd beginnen met een `move()`-operatie. In dit geval hebben we onze `right`-punten verplaatst.
+If you've read through [the high-level overview of FreeSewing](/guides/overview/) you will have learned that paths always start with a `move()` operation. In dit geval hebben we onze `right`-punten verplaatst.
 
 Van daar hebben we een Béziercurve getekend naar het `bottom`-punt door `rightCp1` en `bottomCp2` als controlepunten te gebruiken.
 
