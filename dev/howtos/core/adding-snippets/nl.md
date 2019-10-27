@@ -3,7 +3,7 @@ title: Snippets toevoegen
 order: 280
 ---
 
-Nadat je de [shorthand](/concepts/shorthand) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
+After using the [shorthand](/howtos/core/shorthand/) call, `Snippet` contains the path constructor, while `snippets` is a reference to `part.snippets`, which is where you should store your paths.
 
 De dingen werken nu *gewoon* als je dit doet:
 
@@ -18,10 +18,10 @@ Je kunt een snippet vergoten/verkleinen en roteren met de `data-scale` en `data-
 
 <Tip>
 
-Zie [attributen gebruiken](/concepten/attributen) voor meer informatie over het gebruik van attributen.
+See [Using attributes](/howtos/core/attributes/) for details on how to set attributes.
 
 </Tip>
 
 Hieronder is een voorbeeld van `data-scale` en `data-rotate`:
 
-<Example pattern="rendertest" caption="Overzicht van de verschillende snippets" options={{ colors: false, text: false, macros: false, circles: false, widthHd: false }} />
+<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: macros: circles: widthHd: false }} />
