@@ -1,6 +1,5 @@
 ---
-title: De structuur van een onderdeel
-order: 150
+title: 150|Structure of a part
 ---
 
 Laten we eerst het voorbeeldvak weghalen. Open `scr/bib.js` en controleer of het er als volgt uitziet:
@@ -69,7 +68,7 @@ Het voorbeeld hierboven maakt de volgende variabelen beschikbaar:
 <Note>
 
 This will all become clear, but if you're curious, the API docs have all the details 
-on [the Part.shorthand() method](/api/part#shorthand)
+on [the Part.shorthand() method](/reference/api/part/#shorthand)
 
 </Note>
 
