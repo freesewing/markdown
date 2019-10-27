@@ -1,6 +1,5 @@
 ---
-title: De halsopening afwerken
-order: 180
+title: 180|Completing the neck opening
 ---
 
 Aangezien de halsopening symmetrisch is, hoeven we de punten aan de andere kant niet opnieuw te berekenen. Je kan ze gewoon omdraaien. Dat is dus precies wat we gaan doen:
@@ -23,7 +22,7 @@ points.topCp2 = points.bottomCp1.flipY();
 <Note>
 
 We're using the `Point.flipX()` and `Point.flipY()` methods here.
-Je kan misschien wel raden wat ze doen. If not, check [the API documentation](/api/point).
+Je kan misschien wel raden wat ze doen. If not, check [the API documentation](/reference/api/point/).
 
 </Note>
 
