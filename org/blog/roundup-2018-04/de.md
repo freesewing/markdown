@@ -11,14 +11,14 @@ This is your monthly roundup of the freesewing news of the last four weeks, and 
 
 ## Rückblick auf April
 
-Hast du sie bekommen? All those emails, notifications, and popups from companies informing you that they've made some changes to their privacy policy, or the way they handle your data, and would you please agree to these changes?
+Hast du sie bekommen? Alle diese E-Mails, Benachrichtigungen und Popups von Unternehmen, die Sie informieren. dass sie einige Änderungen an ihrer Datenschutzerklärung vorgenommen haben oder wie sie mit Ihren Daten umgehen, und würden Sie bitte diesen Änderungen zustimmen?
 
-I bet you did, as did I. And with each one of them, I grow a bit more nervous as the GDPR deadline of May 25th is approaching, yet I'm not ready yet to send you one of those emails.
+Ich wette, das haben Sie, genau wie ich. Und mit jedem von ihnen werde ich etwas nervöser, wenn die GDPR-Frist am 25. Mai näher rückt, aber ich bin noch nicht bereit, Ihnen eine dieser E-Mails zu schicken.
 
-Our [carefully laid plans](/blog/gdpr-plan/) are but a small part of the changes we're working on, and that's why it's all taking a bit longer than expected.
+Unsere [sorgfältig ausgearbeiteten Pläne](/blog/gdpr-plan/) sind nur ein kleiner Teil der Änderungen, an denen wir arbeiten, und deshalb dauert es etwas länger als erwartet.
 
-I could write a bit more about it, but I've got a ton of work to do and very little time to do it in. So if it's all the same, I think I'd rather get back to work.
+Ich könnte ein wenig mehr darüber schreiben, aber ich habe eine Menge Arbeit zu erledigen und sehr wenig Zeit, um es zu tun. Also, wenn es trotzdem so ist, denke ich, dass ich lieber wieder an die Arbeit gehen möchte.
 
-## Looking ahead to May
+## Ausblick auf den Mai
 
-Expect changes. A lot of changes. Nothing to worry about though 😉
+Erwarten Sie Änderungen. Viele Änderungen. Nichts, worüber man sich Sorgen machen müsste.😉
