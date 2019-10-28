@@ -1,17 +1,17 @@
 ---
 date: 2018-04-30
 title: "Monatliche Übersicht - April 2018: Ruhe vor dem Sturm"
-linktitle: "Monthly roundup; April 2018 edition"
+linktitle: "Monatsübersicht, April 2018 Edition"
 img: sky.jpg
-caption: "Your login background for May"
+caption: "Ihr Login-Hintergrund für Mai"
 author: joost
 ---
 
 This is your monthly roundup of the freesewing news of the last four weeks, and a look at what lies ahead in the next month.
 
-## Looking back at April
+## Rückblick auf April
 
-Did you get them? All those emails, notifications, and popups from companies informing you that they've made some changes to their privacy policy, or the way they handle your data, and would you please agree to these changes?
+Hast du sie bekommen? All those emails, notifications, and popups from companies informing you that they've made some changes to their privacy policy, or the way they handle your data, and would you please agree to these changes?
 
 I bet you did, as did I. And with each one of them, I grow a bit more nervous as the GDPR deadline of May 25th is approaching, yet I'm not ready yet to send you one of those emails.
 
