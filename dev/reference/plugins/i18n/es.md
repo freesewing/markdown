@@ -13,7 +13,7 @@ It uses the [`insertText`](/plugins#inserttext) hook to do so.
 <Note>
 
 This plugin provides the mechanism for translation, but does not come with translations itself.
-For this, you can use our [i18n package](/packages/i18n).
+For this, you can use our [i18n package](/reference/packages/i18n).
 
 </Note>
 
@@ -25,7 +25,7 @@ npm install @freesewing/plugin-i18n
 
 ## Usage
 
-Like all [run-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`Pattern`](/api/pattern) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import Aaron from "@freesewing/aaron";
