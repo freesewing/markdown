@@ -13,7 +13,7 @@ It uses the [`preRender`](/plugins#prerender) hook to do so.
 <Note>
 
 This plugin only applies to rendered SVG output. If you use our React component to display
-patterns, you should style our component or use our [css-theme](/packages/css-theme) package.
+patterns, you should style our component or use our [css-theme](/reference/packages/css-theme) package.
 
 </Note>
 
@@ -25,7 +25,7 @@ npm install @freesewing/plugin-theme
 
 ## Usage
 
-Like all [run-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`Pattern`](/api/pattern) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import Aaron from "@freesewing/aaron";
