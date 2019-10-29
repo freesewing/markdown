@@ -63,7 +63,7 @@ macro("pd", {
 
 <Tip>
 
-The dimension plugin is part of our [plugin-bundle](/plugins/bundle)
+The dimension plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -75,7 +75,7 @@ npm install @freesewing/plugin-dimension
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -99,14 +99,14 @@ void macro("hd", {
 
 The `hd` macro draws a horizontal dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default             | Type                | Description                                                            |
-| --------------- | ------------------- | ------------------- | ---------------------------------------------------------------------- |
-| `from`          |                     | [Point](/api/point) | The startpoint of the dimension                                        |
-| `to`            |                     | [Point](/api/point) | The endpoint of the dimension                                          |
-| `y`             |                     | Number              | The Y-value at which to draw the dimension                             |
-| `text`          | Horizontal distance | Number              | The text to go on the dimension if not the from-to horizontal distance |
-| `noStartMarker` | `false`             | Boolean             | Whether to not draw a start marker                                     |
-| `noEndMarker`   | `false`             | Boolean             | Whether to not draw an end marker                                      |
+| Property        | Default             | Type                          | Description                                                            |
+| --------------- | ------------------- | ----------------------------- | ---------------------------------------------------------------------- |
+| `from`          |                     | [Point](/reference/api/point) | The startpoint of the dimension                                        |
+| `to`            |                     | [Point](/reference/api/point) | The endpoint of the dimension                                          |
+| `y`             |                     | Number                        | The Y-value at which to draw the dimension                             |
+| `text`          | Horizontal distance | Number                        | The text to go on the dimension if not the from-to horizontal distance |
+| `noStartMarker` | `false`             | Boolean                       | Whether to not draw a start marker                                     |
+| `noEndMarker`   | `false`             | Boolean                       | Whether to not draw an end marker                                      |
 
 ### vd
 
@@ -120,14 +120,14 @@ void macro("vd", {
 
 The `vd` macro draws a vertical dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default           | Type                | Description                                                          |
-| --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
-| `from`          |                   | [Point](/api/point) | The startpoint of the dimension                                      |
-| `to`            |                   | [Point](/api/point) | The endpoint of the dimension                                        |
-| `x`             |                   | Number              | The X-value at which to draw the dimension                           |
-| `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
-| `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
-| `noEndMarker`   | `false`           | Boolean             | Whether to not draw an end marker                                    |
+| Property        | Default           | Type                          | Description                                                          |
+| --------------- | ----------------- | ----------------------------- | -------------------------------------------------------------------- |
+| `from`          |                   | [Point](/reference/api/point) | The startpoint of the dimension                                      |
+| `to`            |                   | [Point](/reference/api/point) | The endpoint of the dimension                                        |
+| `x`             |                   | Number                        | The X-value at which to draw the dimension                           |
+| `text`          | Vertical distance | Number                        | The text to go on the dimension if not the from-to vertical distance |
+| `noStartMarker` | `false`           | Boolean                       | Whether to not draw a start marker                                   |
+| `noEndMarker`   | `false`           | Boolean                       | Whether to not draw an end marker                                    |
 
 ### ld
 
@@ -141,14 +141,14 @@ void macro("ld", {
 
 The `ld` macro draws a linear dimenstion. It takes a single configuration object with the following properties:
 
-| Property        | Default         | Type                | Description                                                        |
-| --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
-| `from`          |                 | [Point](/api/point) | The startpoint of the dimension                                    |
-| `to`            |                 | [Point](/api/point) | The endpoint of the dimension                                      |
-| `d`             | 0               | Number              | The offset at which to draw the dimension                          |
-| `text`          | Linear distance | Number              | The text to go on the dimension if not the from-to linear distance |
-| `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
-| `noEndMarker`   | `false`         | Boolean             | Whether to not draw an end marker                                  |
+| Property        | Default         | Type                          | Description                                                        |
+| --------------- | --------------- | ----------------------------- | ------------------------------------------------------------------ |
+| `from`          |                 | [Point](/reference/api/point) | The startpoint of the dimension                                    |
+| `to`            |                 | [Point](/reference/api/point) | The endpoint of the dimension                                      |
+| `d`             | 0               | Number                        | The offset at which to draw the dimension                          |
+| `text`          | Linear distance | Number                        | The text to go on the dimension if not the from-to linear distance |
+| `noStartMarker` | `false`         | Boolean                       | Whether to not draw a start marker                                 |
+| `noEndMarker`   | `false`         | Boolean                       | Whether to not draw an end marker                                  |
 
 ### pd
 
@@ -159,13 +159,13 @@ void macro("pd", {
 });
 ```
 
-The `ld` macro draws a dimenstion parallel to a [Path](/api/path). It takes a single configuration object with the following properties:
+The `ld` macro draws a dimenstion parallel to a [Path](/reference/api/path). It takes a single configuration object with the following properties:
 
-| Property        | Default     | Type              | Description                                                   |
-| --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
-| `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
-| `offset`        | 0           | Number            | The offset at which to draw the dimension                     |
-| `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
-| `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
-| `noEndMarker`   | `false`     | Boolean           | Whether to not draw an end marker                             |
+| Property        | Default     | Type                        | Description                                                   |
+| --------------- | ----------- | --------------------------- | ------------------------------------------------------------- |
+| `path`          |             | [Path](/reference/api/path) | The path to draw the dimension along                          |
+| `offset`        | 0           | Number                      | The offset at which to draw the dimension                     |
+| `text`          | Path length | Number                      | The text to go on the dimension if not the length of the path |
+| `noStartMarker` | `false`     | Boolean                     | Whether to not draw a start marker                            |
+| `noEndMarker`   | `false`     | Boolean                     | Whether to not draw an end marker                             |
 
