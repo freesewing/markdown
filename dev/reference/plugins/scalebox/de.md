@@ -28,7 +28,7 @@ A scalebox allows people to verify the pattern is printed at the correct scale
 
 <Tip>
 
-The scalebox plugin is part of our [plugin-bundle](/plugins/bundle)
+The scalebox plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -40,7 +40,7 @@ npm install @freesewing/plugin-scalebox
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -63,12 +63,12 @@ void macro("scalebox", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Property | Default                  | Type                | Description                            |
-| -------- | ------------------------ | ------------------- | -------------------------------------- |
-| `at`     |                          | [Point](/api/point) | The point to anchor the *scale box* on |
-| `lead`   | FreeSewing               | String              | The lead text above the title          |
-| `title`  | *pattern name + version* | String              | The title text                         |
-| `text`   | (\*)                   | String              | The text below the title               |
-| `rotate` | 0                        | Number              | Rotation in degrees                    |
+| Property | Default                  | Type                          | Description                            |
+| -------- | ------------------------ | ----------------------------- | -------------------------------------- |
+| `at`     |                          | [Point](/reference/api/point) | The point to anchor the *scale box* on |
+| `lead`   | FreeSewing               | String                        | The lead text above the title          |
+| `title`  | *pattern name + version* | String                        | The title text                         |
+| `text`   | (\*)                   | String                        | The text below the title               |
+| `rotate` | 0                        | Number                        | Rotation in degrees                    |
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`
