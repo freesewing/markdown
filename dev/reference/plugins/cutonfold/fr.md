@@ -41,7 +41,7 @@ will not go all the way to the `to` and `from` points.
 
 <Tip>
 
-The cutonfold plugin is part of our [plugin-bundle](/plugins/bundle)
+The cutonfold plugin is part of our [plugin-bundle](/reference/plugins/bundle/)
 
 </Tip>
 
@@ -53,7 +53,7 @@ npm install @freesewing/plugin-cutonfold
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -74,10 +74,10 @@ void macro("cutonfold", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Propriété   | Défaut  | Type                | Description                                                                 |
-| ----------- | ------- | ------------------- | --------------------------------------------------------------------------- |
-| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                               |
-| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                                 |
-| `margin`    | 5       | [Point](/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
-| `offset`    | 50      | Nombre              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
-| `grainline` | `false` | Booléen             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
+| Propriété   | Défaut  | Type                          | Description                                                                 |
+| ----------- | ------- | ----------------------------- | --------------------------------------------------------------------------- |
+| `from`      |         | [Point](/reference/api/point) | The startpoint of the *cut on fold* indicator                               |
+| `to`        |         | [Point](/reference/api/point) | The endpoint of the *cut on fold* indicator                                 |
+| `margin`    | 5       | [Point](/reference/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
+| `offset`    | 50      | Nombre                        | La distance en mm de décalage par rapport à la ligne du début à la fin      |
+| `grainline` | `false` | Booléen                       | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
