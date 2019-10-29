@@ -41,7 +41,7 @@ will not go all the way to the `to` and `from` points.
 
 <Tip>
 
-The cutonfold plugin is part of our [plugin-bundle](/plugins/bundle)
+The cutonfold plugin is part of our [plugin-bundle](/reference/plugins/bundle/)
 
 </Tip>
 
@@ -53,7 +53,7 @@ npm install @freesewing/plugin-cutonfold
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -74,10 +74,10 @@ void macro("cutonfold", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Property    | Default | Type                | Description                                                  |
-| ----------- | ------- | ------------------- | ------------------------------------------------------------ |
-| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                |
-| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                  |
-| `margin`    | 5       | [Point](/api/point) | The distance in % to keep from the start/end edge            |
-| `offset`    | 50      | Number              | The distance in mm to offset from the line from start to end |
-| `grainline` | `false` | Boolean             | Whether this cutonfold indicator is also the grainline       |
+| Property    | Default | Type                          | Description                                                  |
+| ----------- | ------- | ----------------------------- | ------------------------------------------------------------ |
+| `from`      |         | [Point](/reference/api/point) | The startpoint of the *cut on fold* indicator                |
+| `to`        |         | [Point](/reference/api/point) | The endpoint of the *cut on fold* indicator                  |
+| `margin`    | 5       | [Point](/reference/api/point) | The distance in % to keep from the start/end edge            |
+| `offset`    | 50      | Number                        | The distance in mm to offset from the line from start to end |
+| `grainline` | `false` | Boolean                       | Whether this cutonfold indicator is also the grainline       |
