@@ -42,7 +42,7 @@ macro("round", {
 
 <Tip>
 
-The round plugin is part of our [plugin-bundle](/plugins/bundle)
+The round plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -80,9 +80,9 @@ The macro takes a single configuration object with the following properties:
 
 | Propriété | Défaut  | Type                 | Description                                                         |
 | --------- | ------- | -------------------- | ------------------------------------------------------------------- |
-| `from`    |         | [Point](/api/point)  | Le point de départ de l'arrondi                                     |
-| `to`      |         | [Point](/api/point)  | Le point final de l'arrondi                                         |
-| `via`     |         | [Point](/api/point)  | Le coin à arrondir                                                  |
+| `from`    |         | [Point](/reference/api/point)  | Le point de départ de l'arrondi                                     |
+| `to`      |         | [Point](/reference/api/point)  | Le point final de l'arrondi                                         |
+| `via`     |         | [Point](/reference/api/point)  | Le coin à arrondir                                                  |
 | `radius`  | Maximum | Nombre               | Le rayon en mm si c'est pas le maximum                              |
 | `prefix`  |         | Chaîne de caractères | Un préfixe à donner aux points et aux chemins créés par cette macro |
 | `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |

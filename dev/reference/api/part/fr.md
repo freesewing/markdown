@@ -48,19 +48,19 @@ object Part.shorthand();
 
 Cette méthode retourne un objet simple aux propriétés suivantes :
 
-  - `Point` : le constructeur [Point](/api/point)
+  - `Point` : le constructeur [Point](/reference/api/point)
   - `points` = `part.points`
-  - `Path` : le constructeur [Path](/api/path)
+  - `Path` : le constructeur [Path](/reference/api/path)
   - `paths` = `part.paths`
-  - `Snippet` : le constructeur [Snippet](/api/snippet)
+  - `Snippet` : le constructeur [Snippet](/reference/api/snippet)
   - `snippets` = `part.snippets`
   - `measurements` = `pattern.settings.measurements`
   - `options` = `pattern.settings.options`
   - `sa` = `pattern.settings.sa`
-  - `utils` : une instance [Utilitaires](/api/utils) avec les méthodes utilitaires
+  - `utils` : une instance [Utilitaires](/reference/api/utils) avec les méthodes utilitaires
   - `units` : une version consciente du contexte de `utils.units`
   - `macro` : la macro runner
-  - `store` = `pattern.store`, une instance [Store](/api/store) qui est partagée entre les parties
+  - `store` = `pattern.store`, une instance [Store](/reference/api/store) qui est partagée entre les parties
   - `final` : `true` si c'est une ébauche complète, ou `false` si c'est un échantillon.
   - `paperless` = `pattern.settings.paperless`
 

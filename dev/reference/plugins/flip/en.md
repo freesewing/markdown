@@ -10,7 +10,7 @@ title: flip
 &nbsp;
 [![Open issues tagged pkg:plugin-flip](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-flip.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-flip)
 
-The **flip** plugin provides `flip` [macro](/plugins#macros) which flips (mirrors) an entire part vertically around the Y-axis.
+The **flip** plugin provides `flip` [macro](//guides/plugins/macros/) which flips (mirrors) an entire part vertically around the Y-axis.
 
 ```js
 let { macro } = part.shorthand();
@@ -26,8 +26,8 @@ npm install @freesewing/plugin-flip
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

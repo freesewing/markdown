@@ -42,7 +42,7 @@ macro("round", {
 
 <Tip>
 
-The round plugin is part of our [plugin-bundle](/plugins/bundle)
+The round plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -80,9 +80,9 @@ The macro takes a single configuration object with the following properties:
 
 | Property | Default | Type                | Description                                                    |
 | -------- | ------- | ------------------- | -------------------------------------------------------------- |
-| `from`   |         | [Point](/api/point) | The startpoint towards the corner to round                     |
-| `to`     |         | [Point](/api/point) | The endpoint away from the corner to round                     |
-| `via`    |         | [Point](/api/point) | The corner to round                                            |
+| `from`   |         | [Point](/reference/api/point) | The startpoint towards the corner to round                     |
+| `to`     |         | [Point](/reference/api/point) | The endpoint away from the corner to round                     |
+| `via`    |         | [Point](/reference/api/point) | The corner to round                                            |
 | `radius` | Maximum | Number              | The radius in mm in not the maximum                            |
 | `prefix` |         | String              | A prefix to give to the points and paths created by this macro |
 | `render` | `false` | Boolean             | Whether to render the path created by this macro               |

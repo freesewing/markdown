@@ -16,15 +16,15 @@ Adds a *cut on fold* indicator to your pattern.
 
 | Propriété   | Défaut  | Type                | Description                                                                 |
 | ----------- | ------- | ------------------- | --------------------------------------------------------------------------- |
-| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                               |
-| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                                 |
-| `margin`    | 5       | [Point](/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
+| `from`      |         | [Point](/reference/api/point) | The startpoint of the *cut on fold* indicator                               |
+| `to`        |         | [Point](/reference/api/point) | The endpoint of the *cut on fold* indicator                                 |
+| `margin`    | 5       | [Point](/reference/api/point) | La distance en % à garder à partir du bord de départ/fin                    |
 | `offset`    | 50      | Nombre              | La distance en mm de décalage par rapport à la ligne du début à la fin      |
 | `grainline` | `false` | Booléen             | Si cet indicateur de découpage correspond également à la ligne de droit-fil |
 
 <Note>
 
-The `cutonfold` macro is provided by the [cutonfold plugin](/plugins/cutonfold).
+The `cutonfold` macro is provided by the [cutonfold plugin](/reference/plugins/cutonfold).
 
 </Note>
 
@@ -34,12 +34,12 @@ Adds a *grainline* indicator to your pattern.
 
 | Propriété | Défaut | Type                | Description                                 |
 | --------- | ------ | ------------------- | ------------------------------------------- |
-| `from`    |        | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`      |        | [Point](/api/point) | The endpoint of the *grainline* indicator   |
+| `from`    |        | [Point](/reference/api/point) | The startpoint of the *grainline* indicator |
+| `to`      |        | [Point](/reference/api/point) | The endpoint of the *grainline* indicator   |
 
 <Note>
 
-The `grainline` macro is provided by the [grainline plugin](/plugins/grainline).
+The `grainline` macro is provided by the [grainline plugin](/reference/plugins/grainline).
 
 </Note>
 
@@ -49,8 +49,8 @@ Adds a *horizontal dimension* to your pattern.
 
 | Propriété       | Défaut               | Type                | Description                                                                                       |
 | --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
-| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                                                |
-| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                                                    |
+| `from`          |                      | [Point](/reference/api/point) | Le point de départ de la dimension                                                                |
+| `to`            |                      | [Point](/reference/api/point) | Le point final de la dimension                                                                    |
 | `y`             |                      | Nombre              | La valeur en Y où dessiner la dimension                                                           |
 | `text`          | Distance horizontale | Nombre              | Le texte à indiquer sur une dimension s'il ne s'agit pas de la de la distance horizontale from-to |
 | `noStartMarker` | `false`              | Booléen             | Ne pas dessiner un marqueur de début                                                              |
@@ -58,7 +58,7 @@ Adds a *horizontal dimension* to your pattern.
 
 <Note>
 
-The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `hd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -68,8 +68,8 @@ Adds a *linear dimension* to your pattern.
 
 | Propriété       | Défaut            | Type                | Description                                                                    |
 | --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
-| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                             |
-| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                                 |
+| `from`          |                   | [Point](/reference/api/point) | Le point de départ de la dimension                                             |
+| `to`            |                   | [Point](/reference/api/point) | Le point final de la dimension                                                 |
 | `d`             | 0                 | Nombre              | Le décalage avec lequel dessiner la dimension                                  |
 | `text`          | Distance linéaire | Nombre              | Le texte à accoler à la dimension si ce n'est pas la distance linéaire from-to |
 | `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                           |
@@ -77,7 +77,7 @@ Adds a *linear dimension* to your pattern.
 
 <Note>
 
-The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
+The `ld` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -87,7 +87,7 @@ Adds a *path dimension* to your pattern.
 
 | Propriété       | Défaut             | Type                | Description                                                        |
 | --------------- | ------------------ | ------------------- | ------------------------------------------------------------------ |
-| `path`          |                    | [Chemin](/api/path) | Le chemin le long duquel dessiner la dimension                     |
+| `path`          |                    | [Chemin](/reference/api/path) | Le chemin le long duquel dessiner la dimension                     |
 | `offset`        | 0                  | Nombre              | Le décalage avec lequel dessiner la dimension                      |
 | `text`          | Longueur du chemin | Nombre              | Le texte à accoler au chemin si ce n'est pas la longueur du chemin |
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                               |
@@ -95,7 +95,7 @@ Adds a *path dimension* to your pattern.
 
 <Note>
 
-The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `pd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -105,9 +105,9 @@ Arrondit un coin. Notez que cela ne s'adresse qu'aux coins à 90 degrés.
 
 | Propriété | Défaut  | Type                 | Description                                                         |
 | --------- | ------- | -------------------- | ------------------------------------------------------------------- |
-| `from`    |         | [Point](/api/point)  | Le point de départ de l'arrondi                                     |
-| `to`      |         | [Point](/api/point)  | Le point final de l'arrondi                                         |
-| `via`     |         | [Point](/api/point)  | Le coin à arrondir                                                  |
+| `from`    |         | [Point](/reference/api/point)  | Le point de départ de l'arrondi                                     |
+| `to`      |         | [Point](/reference/api/point)  | Le point final de l'arrondi                                         |
+| `via`     |         | [Point](/reference/api/point)  | Le coin à arrondir                                                  |
 | `radius`  | Maximum | Nombre               | Le rayon en mm si c'est pas le maximum                              |
 | `prefix`  |         | Chaîne de caractères | Un préfixe à donner aux points et aux chemins créés par cette macro |
 | `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |
@@ -115,7 +115,7 @@ Arrondit un coin. Notez que cela ne s'adresse qu'aux coins à 90 degrés.
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+The `round` macro is provided by the [round plugin](/reference/plugins/round).
 
 </Note>
 
@@ -125,7 +125,7 @@ Adds a *scale box* to your pattern.
 
 | Propriété | Défaut                     | Type                 | Description                            |
 | --------- | -------------------------- | -------------------- | -------------------------------------- |
-| `at`      |                            | [Point](/api/point)  | The point to anchor the *scale box* on |
+| `at`      |                            | [Point](/reference/api/point)  | The point to anchor the *scale box* on |
 | `lead`    | FreeSewing                 | Chaîne de caractères | Le texte au dessus du titre            |
 | `title`   | *nom du patron et version* | Chaîne de caractères | Le texte du titre                      |
 | `text`    | (\*)                     | Chaîne de caractères | Le texte en dessous du titre           |
@@ -135,7 +135,7 @@ Adds a *scale box* to your pattern.
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+The `round` macro is provided by the [round plugin](/reference/plugins/round).
 
 </Note>
 
@@ -150,7 +150,7 @@ Ajoute en brut des snippets à votre patron.
 
 <Note>
 
-The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
+The `sprinkle` macro is provided by the [sprinkle plugin](/reference/plugins/sprinkle).
 
 </Note>
 
@@ -160,7 +160,7 @@ Ajoute en brut des snippets à votre patron.
 
 | Propriété  | Défaut  | Type                 | Description                                                                                                                                                                |
 | ---------- |:-------:| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `at`       |         | [Point](/api/point)  | Le point où insérer le titre                                                                                                                                               |
+| `at`       |         | [Point](/reference/api/point)  | Le point où insérer le titre                                                                                                                                               |
 | `nr`       |         | Chaîne de caractères | Le nombre de parties de patron                                                                                                                                             |
 | `title`    |         | Chaîne de caractères | Le nom de la partie de patron. Si le titre n'est pas paramétré ou bien une chaîne de caractères vide, cela ne sera pas affiché, et la version apparaîtra en dessous de nr. |
 | `prefix`   |         | Chaîne de caractères | Un préfixe à ajouter aux points créés. Cela autorise plus d'un titre par partie, du moment que vous leur donnez un préfixe différent.                                      |
@@ -170,7 +170,7 @@ Ajoute en brut des snippets à votre patron.
 
 <Note>
 
-The `title` macro is provided by the [title plugin](/plugins/title).
+The `title` macro is provided by the [title plugin](/reference/plugins/title).
 
 </Note>
 
@@ -180,8 +180,8 @@ Adds a *vertical dimension* to your pattern.
 
 | Propriété       | Défaut             | Type                | Description                                                                         |
 | --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
-| `from`          |                    | [Point](/api/point) | Le point de départ de la dimension                                                  |
-| `to`            |                    | [Point](/api/point) | Le point final de la dimension                                                      |
+| `from`          |                    | [Point](/reference/api/point) | Le point de départ de la dimension                                                  |
+| `to`            |                    | [Point](/reference/api/point) | Le point final de la dimension                                                      |
 | `x`             |                    | Nombre              | La valeur en X à laquelle dessiner la dimension                                     |
 | `text`          | Distance verticale | Nombre              | Le texte correspondant à la dimension si ce n'est pas la distance verticale from-to |
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
@@ -189,7 +189,7 @@ Adds a *vertical dimension* to your pattern.
 
 <Note>
 
-The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `vd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 

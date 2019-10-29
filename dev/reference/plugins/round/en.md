@@ -48,7 +48,7 @@ macro("round", {
 
 <Tip>
 
-The round plugin is part of our [plugin-bundle](/plugins/bundle)
+The round plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -60,8 +60,8 @@ npm install @freesewing/plugin-round
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -87,9 +87,9 @@ The macro takes a single configuration object with the following properties:
 
 | Property    | Default | Type                | Description | 
 |-------------|---------|---------------------|-------------|
-| `from`      |         | [Point](/api/point) | The startpoint towards the corner to round |
-| `to`        |         | [Point](/api/point) | The endpoint away from the corner to round |
-| `via`       |         | [Point](/api/point) | The corner to round |
+| `from`      |         | [Point](/reference/api/point) | The startpoint towards the corner to round |
+| `to`        |         | [Point](/reference/api/point) | The endpoint away from the corner to round |
+| `via`       |         | [Point](/reference/api/point) | The corner to round |
 | `radius`    | Maximum | Number              | The radius in mm in not the maximum |
 | `prefix`    |         | String              | A prefix to give to the points and paths created by this macro |
 | `render`    | `false` | Boolean             | Whether to render the path created by this macro |
@@ -97,7 +97,7 @@ The macro takes a single configuration object with the following properties:
 
 <Warning>
 
-The round macro intended for rounding 90° angles
+The round macro is intended for rounding 90° angles
 
 </Warning>
 

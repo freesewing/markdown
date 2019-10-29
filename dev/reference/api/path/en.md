@@ -13,7 +13,7 @@ Path new Path();
 A Path objects comes with the following properties:
 
  - `render` : Set this to `false` to not render the path (exclude it from the output)
- - `attributes` : An [Attributes](/api/attributes) instance holding the path's attributes
+ - `attributes` : An [Attributes](/reference/api/attributes) instance holding the path's attributes
 
 In addition, a Path object exposes the following methods:
 
@@ -365,7 +365,7 @@ Returns the Point object(s) where the path intersects with a path you pass it.
 This is an expensive (read: slow) method that you should only use when you don't know
 in advance in what segment of your path the intersection will occur.
 
-If you do know, use one of the intersection methods in [Utils](/api/utils).
+If you do know, use one of the intersection methods in [Utils](/reference/api/utils).
 
 </Tip>
 

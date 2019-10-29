@@ -63,7 +63,7 @@ macro("pd", {
 
 <Tip>
 
-The dimension plugin is part of our [plugin-bundle](/plugins/bundle)
+The dimension plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -101,8 +101,8 @@ The `hd` macro draws a horizontal dimenstion. It takes a single configuration ob
 
 | Propriété       | Défaut               | Type                | Description                                                                                       |
 | --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
-| `from`          |                      | [Point](/api/point) | Le point de départ de la dimension                                                                |
-| `to`            |                      | [Point](/api/point) | Le point final de la dimension                                                                    |
+| `from`          |                      | [Point](/reference/api/point) | Le point de départ de la dimension                                                                |
+| `to`            |                      | [Point](/reference/api/point) | Le point final de la dimension                                                                    |
 | `y`             |                      | Nombre              | La valeur en Y où dessiner la dimension                                                           |
 | `text`          | Distance horizontale | Nombre              | Le texte à indiquer sur une dimension s'il ne s'agit pas de la de la distance horizontale from-to |
 | `noStartMarker` | `false`              | Booléen             | Ne pas dessiner un marqueur de début                                                              |
@@ -122,8 +122,8 @@ The `vd` macro draws a vertical dimenstion. It takes a single configuration obje
 
 | Propriété       | Défaut             | Type                | Description                                                                         |
 | --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
-| `from`          |                    | [Point](/api/point) | Le point de départ de la dimension                                                  |
-| `to`            |                    | [Point](/api/point) | Le point final de la dimension                                                      |
+| `from`          |                    | [Point](/reference/api/point) | Le point de départ de la dimension                                                  |
+| `to`            |                    | [Point](/reference/api/point) | Le point final de la dimension                                                      |
 | `x`             |                    | Nombre              | La valeur en X à laquelle dessiner la dimension                                     |
 | `text`          | Distance verticale | Nombre              | Le texte correspondant à la dimension si ce n'est pas la distance verticale from-to |
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
@@ -143,8 +143,8 @@ The `ld` macro draws a linear dimenstion. It takes a single configuration object
 
 | Propriété       | Défaut            | Type                | Description                                                                    |
 | --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
-| `from`          |                   | [Point](/api/point) | Le point de départ de la dimension                                             |
-| `to`            |                   | [Point](/api/point) | Le point final de la dimension                                                 |
+| `from`          |                   | [Point](/reference/api/point) | Le point de départ de la dimension                                             |
+| `to`            |                   | [Point](/reference/api/point) | Le point final de la dimension                                                 |
 | `d`             | 0                 | Nombre              | Le décalage avec lequel dessiner la dimension                                  |
 | `text`          | Distance linéaire | Nombre              | Le texte à accoler à la dimension si ce n'est pas la distance linéaire from-to |
 | `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                           |
@@ -159,11 +159,11 @@ void macro("pd", {
 });
 ```
 
-The `ld` macro draws a dimenstion parallel to a [Path](/api/path). It takes a single configuration object with the following properties:
+The `ld` macro draws a dimenstion parallel to a [Path](/reference/api/path). It takes a single configuration object with the following properties:
 
 | Propriété       | Défaut             | Type                | Description                                                        |
 | --------------- | ------------------ | ------------------- | ------------------------------------------------------------------ |
-| `path`          |                    | [Chemin](/api/path) | Le chemin le long duquel dessiner la dimension                     |
+| `path`          |                    | [Chemin](/reference/api/path) | Le chemin le long duquel dessiner la dimension                     |
 | `offset`        | 0                  | Nombre              | Le décalage avec lequel dessiner la dimension                      |
 | `text`          | Longueur du chemin | Nombre              | Le texte à accoler au chemin si ce n'est pas la longueur du chemin |
 | `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                               |

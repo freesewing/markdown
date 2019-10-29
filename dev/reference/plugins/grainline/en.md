@@ -28,7 +28,7 @@ macro("grainline", {
 
 <Tip>
 
-The grainline plugin is part of our [plugin-bundle](/plugins/bundle)
+The grainline plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -40,8 +40,8 @@ npm install @freesewing/plugin-grainline
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -63,5 +63,5 @@ The macro takes a single configuration object with the following properties:
 
 | Property    | Default | Type                | Description | 
 |-------------|---------|---------------------|-------------|
-| `from`      |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`        |         | [Point](/api/point) | The endpoint of the *grainline* indicator |
+| `from`      |         | [Point](/reference/api/point) | The startpoint of the *grainline* indicator |
+| `to`        |         | [Point](/reference/api/point) | The endpoint of the *grainline* indicator |

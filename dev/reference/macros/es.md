@@ -16,15 +16,15 @@ Adds a *cut on fold* indicator to your pattern.
 
 | Property    | Default | Type                | Description                                                  |
 | ----------- | ------- | ------------------- | ------------------------------------------------------------ |
-| `from`      |         | [Point](/api/point) | The startpoint of the *cut on fold* indicator                |
-| `to`        |         | [Point](/api/point) | The endpoint of the *cut on fold* indicator                  |
-| `margin`    | 5       | [Point](/api/point) | The distance in % to keep from the start/end edge            |
+| `from`      |         | [Point](/reference/api/point) | The startpoint of the *cut on fold* indicator                |
+| `to`        |         | [Point](/reference/api/point) | The endpoint of the *cut on fold* indicator                  |
+| `margin`    | 5       | [Point](/reference/api/point) | The distance in % to keep from the start/end edge            |
 | `offset`    | 50      | Number              | The distance in mm to offset from the line from start to end |
 | `grainline` | `false` | Boolean             | Whether this cutonfold indicator is also the grainline       |
 
 <Note>
 
-The `cutonfold` macro is provided by the [cutonfold plugin](/plugins/cutonfold).
+The `cutonfold` macro is provided by the [cutonfold plugin](/reference/plugins/cutonfold).
 
 </Note>
 
@@ -34,12 +34,12 @@ Adds a *grainline* indicator to your pattern.
 
 | Property | Default | Type                | Description                                 |
 | -------- | ------- | ------------------- | ------------------------------------------- |
-| `from`   |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`     |         | [Point](/api/point) | The endpoint of the *grainline* indicator   |
+| `from`   |         | [Point](/reference/api/point) | The startpoint of the *grainline* indicator |
+| `to`     |         | [Point](/reference/api/point) | The endpoint of the *grainline* indicator   |
 
 <Note>
 
-The `grainline` macro is provided by the [grainline plugin](/plugins/grainline).
+The `grainline` macro is provided by the [grainline plugin](/reference/plugins/grainline).
 
 </Note>
 
@@ -49,8 +49,8 @@ Adds a *horizontal dimension* to your pattern.
 
 | Property        | Default             | Type                | Description                                                            |
 | --------------- | ------------------- | ------------------- | ---------------------------------------------------------------------- |
-| `from`          |                     | [Point](/api/point) | The startpoint of the dimension                                        |
-| `to`            |                     | [Point](/api/point) | The endpoint of the dimension                                          |
+| `from`          |                     | [Point](/reference/api/point) | The startpoint of the dimension                                        |
+| `to`            |                     | [Point](/reference/api/point) | The endpoint of the dimension                                          |
 | `y`             |                     | Number              | The Y-value at which to draw the dimension                             |
 | `text`          | Horizontal distance | Number              | The text to go on the dimension if not the from-to horizontal distance |
 | `noStartMarker` | `false`             | Boolean             | Whether to not draw a start marker                                     |
@@ -58,7 +58,7 @@ Adds a *horizontal dimension* to your pattern.
 
 <Note>
 
-The `hd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `hd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -68,8 +68,8 @@ Adds a *linear dimension* to your pattern.
 
 | Property        | Default         | Type                | Description                                                        |
 | --------------- | --------------- | ------------------- | ------------------------------------------------------------------ |
-| `from`          |                 | [Point](/api/point) | The startpoint of the dimension                                    |
-| `to`            |                 | [Point](/api/point) | The endpoint of the dimension                                      |
+| `from`          |                 | [Point](/reference/api/point) | The startpoint of the dimension                                    |
+| `to`            |                 | [Point](/reference/api/point) | The endpoint of the dimension                                      |
 | `d`             | 0               | Number              | The offset at which to draw the dimension                          |
 | `text`          | Linear distance | Number              | The text to go on the dimension if not the from-to linear distance |
 | `noStartMarker` | `false`         | Boolean             | Whether to not draw a start marker                                 |
@@ -77,7 +77,7 @@ Adds a *linear dimension* to your pattern.
 
 <Note>
 
-The `ld` macro is provided by the [dimension plugin](/plugins/dimension).
+The `ld` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -87,7 +87,7 @@ Adds a *path dimension* to your pattern.
 
 | Property        | Default     | Type              | Description                                                   |
 | --------------- | ----------- | ----------------- | ------------------------------------------------------------- |
-| `path`          |             | [Path](/api/path) | The path to draw the dimension along                          |
+| `path`          |             | [Path](/reference/api/path) | The path to draw the dimension along                          |
 | `offset`        | 0           | Number            | The offset at which to draw the dimension                     |
 | `text`          | Path length | Number            | The text to go on the dimension if not the length of the path |
 | `noStartMarker` | `false`     | Boolean           | Whether to not draw a start marker                            |
@@ -95,7 +95,7 @@ Adds a *path dimension* to your pattern.
 
 <Note>
 
-The `pd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `pd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 
@@ -105,9 +105,9 @@ Rounds a corner. Note that this is only intended for 90 degree corners.
 
 | Property | Default | Type                | Description                                                    |
 | -------- | ------- | ------------------- | -------------------------------------------------------------- |
-| `from`   |         | [Point](/api/point) | The startpoint towards the corner to round                     |
-| `to`     |         | [Point](/api/point) | The endpoint away from the corner to round                     |
-| `via`    |         | [Point](/api/point) | The corner to round                                            |
+| `from`   |         | [Point](/reference/api/point) | The startpoint towards the corner to round                     |
+| `to`     |         | [Point](/reference/api/point) | The endpoint away from the corner to round                     |
+| `via`    |         | [Point](/reference/api/point) | The corner to round                                            |
 | `radius` | Maximum | Number              | The radius in mm in not the maximum                            |
 | `prefix` |         | String              | A prefix to give to the points and paths created by this macro |
 | `render` | `false` | Boolean             | Whether to render the path created by this macro               |
@@ -115,7 +115,7 @@ Rounds a corner. Note that this is only intended for 90 degree corners.
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+The `round` macro is provided by the [round plugin](/reference/plugins/round).
 
 </Note>
 
@@ -125,7 +125,7 @@ Adds a *scale box* to your pattern.
 
 | Property | Default                  | Type                | Description                            |
 | -------- | ------------------------ | ------------------- | -------------------------------------- |
-| `at`     |                          | [Point](/api/point) | The point to anchor the *scale box* on |
+| `at`     |                          | [Point](/reference/api/point) | The point to anchor the *scale box* on |
 | `lead`   | FreeSewing               | String              | The lead text above the title          |
 | `title`  | *pattern name + version* | String              | The title text                         |
 | `text`   | (\*)                   | String              | The text below the title               |
@@ -135,7 +135,7 @@ Adds a *scale box* to your pattern.
 
 <Note>
 
-The `round` macro is provided by the [round plugin](/plugins/round).
+The `round` macro is provided by the [round plugin](/reference/plugins/round).
 
 </Note>
 
@@ -150,7 +150,7 @@ Bulk-adds snippets to your pattern.
 
 <Note>
 
-The `sprinkle` macro is provided by the [sprinkle plugin](/plugins/sprinkle).
+The `sprinkle` macro is provided by the [sprinkle plugin](/reference/plugins/sprinkle).
 
 </Note>
 
@@ -160,7 +160,7 @@ Bulk-adds snippets to your pattern.
 
 | Property   | Default | Type                | Description                                                                                                                              |
 | ---------- |:-------:| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `at`       |         | [Point](/api/point) | The point at which to insert the title                                                                                                   |
+| `at`       |         | [Point](/reference/api/point) | The point at which to insert the title                                                                                                   |
 | `nr`       |         | String              | The number of the pattern part                                                                                                           |
 | `title`    |         | String              | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr. |
 | `prefix`   |         | String              | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.           |
@@ -170,7 +170,7 @@ Bulk-adds snippets to your pattern.
 
 <Note>
 
-The `title` macro is provided by the [title plugin](/plugins/title).
+The `title` macro is provided by the [title plugin](/reference/plugins/title).
 
 </Note>
 
@@ -180,8 +180,8 @@ Adds a *vertical dimension* to your pattern.
 
 | Property        | Default           | Type                | Description                                                          |
 | --------------- | ----------------- | ------------------- | -------------------------------------------------------------------- |
-| `from`          |                   | [Point](/api/point) | The startpoint of the dimension                                      |
-| `to`            |                   | [Point](/api/point) | The endpoint of the dimension                                        |
+| `from`          |                   | [Point](/reference/api/point) | The startpoint of the dimension                                      |
+| `to`            |                   | [Point](/reference/api/point) | The endpoint of the dimension                                        |
 | `x`             |                   | Number              | The X-value at which to draw the dimension                           |
 | `text`          | Vertical distance | Number              | The text to go on the dimension if not the from-to vertical distance |
 | `noStartMarker` | `false`           | Boolean             | Whether to not draw a start marker                                   |
@@ -189,7 +189,7 @@ Adds a *vertical dimension* to your pattern.
 
 <Note>
 
-The `vd` macro is provided by the [dimension plugin](/plugins/dimension).
+The `vd` macro is provided by the [dimension plugin](/reference/plugins/dimension).
 
 </Note>
 

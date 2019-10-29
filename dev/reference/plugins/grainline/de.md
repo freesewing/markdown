@@ -22,7 +22,7 @@ macro("grainline", {
 
 <Tip>
 
-The grainline plugin is part of our [plugin-bundle](/plugins/bundle)
+The grainline plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -56,5 +56,5 @@ The macro takes a single configuration object with the following properties:
 
 | Property | Default | Type                | Description                                 |
 | -------- | ------- | ------------------- | ------------------------------------------- |
-| `from`   |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`     |         | [Point](/api/point) | The endpoint of the *grainline* indicator   |
+| `from`   |         | [Point](/reference/api/point) | The startpoint of the *grainline* indicator |
+| `to`     |         | [Point](/reference/api/point) | The endpoint of the *grainline* indicator   |

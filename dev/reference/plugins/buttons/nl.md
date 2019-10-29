@@ -4,7 +4,7 @@ title: knopen
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins) &nbsp; [![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-buttons.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-buttons) &nbsp; [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256) &nbsp; [![Open issues tagged pkg:plugin-buttons](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-buttons.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-buttons)
 
-The **buttons** plugin provides `button` and `buttonhold` [snippets](/api/snippet):
+The **buttons** plugin provides `button` and `buttonhold` [snippets](/reference/api/snippet):
 
 <Example part="plugin_buttons" caption="An example of the button and buttonhole snippets" design={false} />
 
@@ -17,7 +17,7 @@ snippets.buttonhole = new Snippet('buttonhole', new Point(80, 10));
 
 <Tip>
 
-The buttons plugin is part of our [plugin-bundle](/plugins/bundle)
+The buttons plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 

@@ -22,7 +22,7 @@ macro("title", {
 
 <Tip>
 
-The title plugin is part of our [plugin-bundle](/plugins/bundle)
+The title plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -61,7 +61,7 @@ The macro takes a single configuration object with the following properties:
 
 | Propriété  | Défaut  | Type                 | Description                                                                                                                                                                |
 | ---------- |:-------:| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `at`       |         | [Point](/api/point)  | Le point où insérer le titre                                                                                                                                               |
+| `at`       |         | [Point](/reference/api/point)  | Le point où insérer le titre                                                                                                                                               |
 | `nr`       |         | Chaîne de caractères | Le nombre de parties de patron                                                                                                                                             |
 | `title`    |         | Chaîne de caractères | Le nom de la partie de patron. Si le titre n'est pas paramétré ou bien une chaîne de caractères vide, cela ne sera pas affiché, et la version apparaîtra en dessous de nr. |
 | `prefix`   |         | Chaîne de caractères | Un préfixe à ajouter aux points créés. Cela autorise plus d'un titre par partie, du moment que vous leur donnez un préfixe différent.                                      |

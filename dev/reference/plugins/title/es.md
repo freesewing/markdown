@@ -22,7 +22,7 @@ macro("title", {
 
 <Tip>
 
-The title plugin is part of our [plugin-bundle](/plugins/bundle)
+The title plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -61,7 +61,7 @@ The macro takes a single configuration object with the following properties:
 
 | Property   | Default | Type                | Description                                                                                                                              |
 | ---------- |:-------:| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `at`       |         | [Point](/api/point) | The point at which to insert the title                                                                                                   |
+| `at`       |         | [Point](/reference/api/point) | The point at which to insert the title                                                                                                   |
 | `nr`       |         | String              | The number of the pattern part                                                                                                           |
 | `title`    |         | String              | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr. |
 | `prefix`   |         | String              | A prefix to add to the created points. This allow for more than 1 title per part, as long as you give them a different prefix.           |

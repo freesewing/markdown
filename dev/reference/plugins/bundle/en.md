@@ -13,14 +13,14 @@ title: bundle
 
 The bundle plugin bundles the most common FreeSewing build-time plugins:
 
- 1. [plugin-cutonfold](/plugins/cutonfold) : Add cut-on-fold indicators to your patterns 
- 2. [plugin-dimension](/plugins/dimension) : Add dimensions to your (paperless) patterns 
- 3. [plugin-grainline](plugins/grainline) : Add grainline indicators to your patterns 
- 4. [plugin-logo](/plugins/logo) : Add a scalebox to your patterns
- 5. [plugin-scalebox](/plugins/scalebox) : Add pretty titles to your pattern parts 
- 6. [plugin-title](/plugins/title) : Add pretty titles to your pattern parts 
- 7. [plugin-round](/plugins/round) : Rounds corners
- 8. [plugin-sprinkle](/plugins/sprinkle) : Add multiple snippets to your pattern
+ 1. [plugin-cutonfold](/reference/plugins/cutonfold) : Add cut-on-fold indicators to your patterns 
+ 2. [plugin-dimension](/reference/plugins/dimension) : Add dimensions to your (paperless) patterns 
+ 3. [plugin-grainline](/reference/plugins/grainline) : Add grainline indicators to your patterns 
+ 4. [plugin-logo](/reference/plugins/logo) : Add a scalebox to your patterns
+ 5. [plugin-scalebox](/reference/plugins/scalebox) : Add pretty titles to your pattern parts 
+ 6. [plugin-title](/reference/plugins/title) : Add pretty titles to your pattern parts 
+ 7. [plugin-round](/reference/plugins/round) : Rounds corners
+ 8. [plugin-sprinkle](/reference/plugins/sprinkle) : Add multiple snippets to your pattern
 
 Almost all patterns use these plugins, so it made sense to bundle them.
 
@@ -32,7 +32,7 @@ npm install @freesewing/plugin-bundle
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
 by passing them to the [`freesewing.Design`](/api#design) constructor:
 
 ```js

@@ -10,7 +10,7 @@ title: logo
 &nbsp;
 [![Open issues tagged pkg:plugin-logo](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-logo.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-logo)
 
-The **logo** plugin provides `logo` [snippet](/api/snippet):
+The **logo** plugin provides `logo` [snippet](/reference/api/snippet):
 
 <Example part="plugin_logo" caption="An example of the logo snippet" design={false} />
 
@@ -22,7 +22,7 @@ snippets.logo = new Snippet("logo", new Point(50, 30));
 
 <Tip>
 
-The logo plugin is part of our [plugin-bundle](/plugins/bundle)
+The logo plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -34,8 +34,8 @@ npm install @freesewing/plugin-logo
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

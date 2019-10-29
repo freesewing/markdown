@@ -7,14 +7,14 @@ title: bundle
 
 The bundle plugin bundles the most common FreeSewing build-time plugins:
 
- 1. [plugin-cutonfold](/plugins/cutonfold) : Add cut-on-fold indicators to your patterns
- 2. [plugin-dimension](/plugins/dimension) : Add dimensions to your (paperless) patterns
+ 1. [plugin-cutonfold](/reference/pluginscutonfold) : Add cut-on-fold indicators to your patterns
+ 2. [plugin-dimension](/reference/pluginsdimension) : Add dimensions to your (paperless) patterns
  3. [plugin-grainline](plugins/grainline) : Add grainline indicators to your patterns
- 4. [plugin-logo](/plugins/logo) : Add a scalebox to your patterns
- 5. [plugin-scalebox](/plugins/scalebox) : Add pretty titles to your pattern parts
- 6. [plugin-title](/plugins/title) : Add pretty titles to your pattern parts
- 7. [plugin-round](/plugins/round) : Rounds corners
- 8. [plugin-sprinkle](/plugins/sprinkle) : Add multiple snippets to your pattern
+ 4. [plugin-logo](/reference/pluginslogo) : Add a scalebox to your patterns
+ 5. [plugin-scalebox](/reference/pluginsscalebox) : Add pretty titles to your pattern parts
+ 6. [plugin-title](/reference/pluginstitle) : Add pretty titles to your pattern parts
+ 7. [plugin-round](/reference/pluginsround) : Rounds corners
+ 8. [plugin-sprinkle](/reference/pluginssprinkle) : Add multiple snippets to your pattern
 
 Almost all patterns use these plugins, so it made sense to bundle them.
 

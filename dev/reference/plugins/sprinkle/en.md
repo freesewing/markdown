@@ -35,7 +35,7 @@ macro("sprinkle", {
 
 <Tip>
 
-The sprinkle plugin is part of our [plugin-bundle](/plugins/bundle)
+The sprinkle plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -47,8 +47,8 @@ npm install @freesewing/plugin-sprinkle
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

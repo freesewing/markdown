@@ -28,7 +28,7 @@ A scalebox allows people to verify the pattern is printed at the correct scale
 
 <Tip>
 
-The scalebox plugin is part of our [plugin-bundle](/plugins/bundle)
+The scalebox plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -65,7 +65,7 @@ The macro takes a single configuration object with the following properties:
 
 | Propriété | Défaut                     | Type                 | Description                            |
 | --------- | -------------------------- | -------------------- | -------------------------------------- |
-| `at`      |                            | [Point](/api/point)  | The point to anchor the *scale box* on |
+| `at`      |                            | [Point](/reference/api/point)  | The point to anchor the *scale box* on |
 | `lead`    | FreeSewing                 | Chaîne de caractères | Le texte au dessus du titre            |
 | `title`   | *nom du patron et version* | Chaîne de caractères | Le texte du titre                      |
 | `text`    | (\*)                     | Chaîne de caractères | Le texte en dessous du titre           |

@@ -29,7 +29,7 @@ macro("sprinkle", {
 
 <Tip>
 
-The sprinkle plugin is part of our [plugin-bundle](/plugins/bundle)
+The sprinkle plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 

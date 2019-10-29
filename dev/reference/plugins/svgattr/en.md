@@ -22,8 +22,8 @@ npm install @freesewing/plugin-svgattr
 
 ## Usage
 
-Like all [run-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`Pattern`](/api/pattern) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import Aaron from "@freesewing/aaron";

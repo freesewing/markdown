@@ -10,7 +10,7 @@ title: buttons
 &nbsp;
 [![Open issues tagged pkg:plugin-buttons](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-buttons.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-buttons)
 
-The **buttons** plugin provides `button` and `buttonhold` [snippets](/api/snippet):
+The **buttons** plugin provides `button` and `buttonhold` [snippets](/reference/api/snippet/):
 
 <Example part="plugin_buttons" caption="An example of the button and buttonhole snippets" design={false} />
 
@@ -23,7 +23,7 @@ snippets.buttonhole = new Snippet('buttonhole', new Point(80, 10));
 
 <Tip>
 
-The buttons plugin is part of our [plugin-bundle](/plugins/bundle)
+The buttons plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -35,8 +35,8 @@ npm install @freesewing/plugin-buttons
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

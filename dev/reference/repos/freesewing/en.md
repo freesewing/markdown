@@ -7,5 +7,7 @@ import RepoPage from "../../../../../src/components/repo-page";
 <RepoPage repo="freesewing" />
 
 This is a [monorepo](https://en.wikipedia.org/wiki/Monorepo) holding all 
-our [NPM packages](/packages). 
+our [NPM packages](/reference/packages/). 
 We use [Lerna](https://lerna.js.org/) and [Yarn workspaces](https://yarnpkg.com/en/docs/workspaces) to manage the repo.
+
+<ReadMore root="/reference/packages/" title="List of NPM packages in this repository"/>
