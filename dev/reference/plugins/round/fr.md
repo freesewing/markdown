@@ -42,7 +42,7 @@ macro("round", {
 
 <Tip>
 
-The round plugin is part of our [plugin-bundle](/plugins/bundle)
+The round plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -54,7 +54,7 @@ npm install @freesewing/plugin-round
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -78,19 +78,19 @@ void macro("round", {
 ```
 The macro takes a single configuration object with the following properties:
 
-| Propriété | Défaut  | Type                 | Description                                                         |
-| --------- | ------- | -------------------- | ------------------------------------------------------------------- |
-| `from`    |         | [Point](/api/point)  | Le point de départ de l'arrondi                                     |
-| `to`      |         | [Point](/api/point)  | Le point final de l'arrondi                                         |
-| `via`     |         | [Point](/api/point)  | Le coin à arrondir                                                  |
-| `radius`  | Maximum | Nombre               | Le rayon en mm si c'est pas le maximum                              |
-| `prefix`  |         | Chaîne de caractères | Un préfixe à donner aux points et aux chemins créés par cette macro |
-| `render`  | `false` | Booléen              | Afficher le chemin créé par cette macro                             |
-| `class`   |         | Chaîne de caractères | Classe(s) à assigner au chemin créé par cette macro                 |
+| Propriété | Défaut  | Type                          | Description                                                         |
+| --------- | ------- | ----------------------------- | ------------------------------------------------------------------- |
+| `from`    |         | [Point](/reference/api/point) | Le point de départ de l'arrondi                                     |
+| `to`      |         | [Point](/reference/api/point) | Le point final de l'arrondi                                         |
+| `via`     |         | [Point](/reference/api/point) | Le coin à arrondir                                                  |
+| `radius`  | Maximum | Nombre                        | Le rayon en mm si c'est pas le maximum                              |
+| `prefix`  |         | Chaîne de caractères          | Un préfixe à donner aux points et aux chemins créés par cette macro |
+| `render`  | `false` | Booléen                       | Afficher le chemin créé par cette macro                             |
+| `class`   |         | Chaîne de caractères          | Classe(s) à assigner au chemin créé par cette macro                 |
 
 <Warning>
 
-The round macro intended for rounding 90° angles
+The round macro is intended for rounding 90° angles
 
 </Warning>
 
