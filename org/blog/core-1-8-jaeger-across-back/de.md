@@ -1,7 +1,7 @@
 ---
 date: 2018-03-21
-title: "Freesewing core 1.8: Jaeger Jacket is in, across back measurement is out"
-linktitle: "Core 1.8: Jaeger and no more across back"
+title: "FreeSewing Core 1.8: Jeager-Sakko ist drin, die Rückenbreite ist raus"
+linktitle: "Core 1.8: Jaeger in, Rückenbreite out"
 img: bangkok.jpg
 caption: "This release brought to you from Bangkok"
 author: joost
