@@ -3,7 +3,7 @@ date: 2018-03-21
 title: "FreeSewing Core 1.8: Jeager-Sakko ist drin, die Rückenbreite ist raus"
 linktitle: "Core 1.8: Jaeger in, Rückenbreite out"
 img: bangkok.jpg
-caption: "This release brought to you from Bangkok"
+caption: "Diese Version übermitteln wir Ihnen aus Bangkok"
 author: joost
 ---
 
