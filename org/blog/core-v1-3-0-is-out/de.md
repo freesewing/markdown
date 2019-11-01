@@ -9,19 +9,19 @@ author: joost
 
 Am letzten Tag des Jahres 2017 haben wir in unserer [monatlichen Zusammenfassung aller FreeSewing-News](/blog/roundup-2017-12/) über die sich abzeichnende Herausforderung mit falsch skalierten Entwürfen, auch bekannt als [Ticket #204 - The Inkscape default units quandary](https://github.com/freesewing/core/issues/204), geschrieben.
 
-I won't go over [all that](/blog/roundup-2017-12/) again, but it boils down to the fact that the [Inkscape](http://inkscape.org/) maintainers have changed Inkscape's internal DPI (dots per inch) from 90 to 96. A change that goes in effect from version 0.92 onwards.
+Ich werde nicht noch einmal über [all das](/blog/roundup-2017-12/) gehen, aber es läuft darauf hinaus, dass die [Inkscape](http://inkscape.org/) Maintainer Inkscape's internes DPI (dots per inch) von 90 auf 96 geändert haben. Eine Änderung, die ab der Version 0.92 wirksam wird.
 
-Left unchecked, this change would cause all freesewing patterns to be incorrectly scaled. That's because we assume 90DPI in our SVG output, and scale accordingly.
+Wenn diese Änderung nicht korrekt berücksichtigt wird, würde dies dazu führen, dass alle FreeSewing-Schnittmuster falsch skaliert werden. Das liegt daran, dass wir 90DPI in unserer SVG-Ausgabe annehmen und dementsprechend skalieren.
 
 ![That 'oh-shit' moment when we realized the full impact of the DPI change](oh-shit.gif)
 
-When the switch to 96DPI goes into effect, all patterns would be off by 6.66%. Which is really the kind of difference that is too small to notice when eyeballing a pattern, yet large enough to completely mess up your garment.
+Wenn der Wechsel zu 96DPI in Kraft tritt, würden alle Muster um 6,66 % zu klein ausgegeben. Das ist wirklich die Art von Unterschied, der zu klein ist, um ihn beim in Augenschein nehmen eines Schnittmuster zu bemerken, aber dennoch groß genug, um Ihr Kleidungsstück komplett zu verunstalten.
 
-The issue is also more troublesome than it would seem at the surface. First of all because we can't just switch to 96DPI as there are now two versions out there that use a different default DPI under the hood. We need a solution that works for both.
+Das Problem ist auch problematischer, als es an der Oberfläche scheint. Erstens, weil wir nicht einfach auf 96DPI umsteigen können, da es jetzt zwei Versionen gibt, die ein anderes Standard-DPI unter der Haube verwenden. Wir brauchen eine Lösung, die für beide funktioniert.
 
 ![Screenshot of a freesewing pattern that is incorrectly scaled in the latest Inkscape release](inkscape.png)
 
-Furthermore, while any fix we implement would apply to new drafts, all existing drafts generated before the fix would still be impacted.
+Darüber hinaus würde jede Korrektur, die wir implementieren, für neue Entwürfe gelten, alle existierenden Entwürfe, die vor der Korrektur erstellt wurden, jedoch würden beeinträchtigt werden.
 
 In other words, if you drafted a pattern last week, or a month ago, that pattern would not scale correctly in a recent version of Inkscape. And since we use Inkscape in our SVG-to-PDF tool-chain, it would also be incorrectly scaled if you came here and downloaded a PDF.
 
