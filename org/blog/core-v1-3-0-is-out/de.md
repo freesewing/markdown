@@ -44,27 +44,27 @@ Um Probleme mit bereits bestehenden Entwürfen zu vermeiden, mussten wir auch da
 Wir haben im Wesentlichen zwei Möglichkeiten:
 
  - Alle Entwürfe neu erstellen
- - Patch them in-place without changing the draft itself
+ - Sie an Ort und Stelle zu patchen ohne den Entwurf selbst zu ändern
 
-Re-drafting fixes the issue as every new draft will be handled by the latest core version that does include the fix.
+Das Re-Drafting behebt das Problem, da jeder neue Entwurf von dem neuesten Core bearbeitet wird, der den Fix bereits enthält.
 
-However, core also ships with regular updates, tweaks, and fixes in the patterns themselves. So by re-drafting a draft generated on a previous version of core, there's no guarantee the draft won't change.
+Core liefert jedoch auch reguläre Updates, Optimierungen und Korrekturen in den Schnitten selbst. Wenn Sie also einen Entwurf, der auf einer früheren Version des Cores erstellt wurde, neu entwerfen, gibt es keine Garantie, dass sich der Entwurf nicht ändert.
 
-In principle that change would always be an improvement. But one person's bug is another person's feature, and we do prefer not to [move your cheese](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F).
+Grundsätzlich wäre diese Veränderung immer eine Verbesserung. Aber der Fehler einer Person ist das Feature einer anderen Person, und wir möchten Ihren Käse [nicht verschieben](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F).
 
 ![Don't touch my stuff](who-moved-my-cheese.jpg)
 
-So, instead we decided to patch all drafts we have on file in-place with the new scaling code, without touching any other aspect of the draft.
+Stattdessen haben wir uns entschieden, alle Entwürfe, die wir auf der Datei haben, mit dem neuen Skalierungscode zu patchen ohne einen anderen Aspekt des Entwurfs zu berühren.
 
-As you're reading this, this has already been done, and all freesewing drafts should now scale correctly. Everywhere.
+Während Sie dies lesen, wurde dies bereits erledigt und alle FreeSewing-Entwürfe sollten nun korrekt skaliert werden. Überall
 
-## Also: version awareness
+## Auch: Versionsbewusstsein
 
-We've also made changes to our backend systems to store the version of freesewing core that generated your draft.
+Wir haben auch Änderungen an unseren Backend-Systemen vorgenommen, um die Version des Freesewing-Cores zu speichern, die Ihren Entwurf generiert.
 
-If since you generated your draft we've rolled out new features or fixes, you'll be notified that an update is available:
+Wenn wir seit der Erstellung Ihres Entwurfs neue Funktionen oder Korrekturen erstellt haben, werden Sie darüber informiert, dass ein Update verfügbar ist:
 
 ![If you draft is generated with an old version of freesewing core, we'll tell you about it](upgrade.png)
 
-Whether you update your draft or not is up to you. If you don't want to loose the info in your *old* draft, rather than update it in-place, you can fork it.
+Ob Sie Ihren Entwurf aktualisieren oder nicht, liegt bei Ihnen. If you don't want to loose the info in your *old* draft, rather than update it in-place, you can fork it.
 
