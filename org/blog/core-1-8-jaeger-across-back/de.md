@@ -22,17 +22,17 @@ Wie sich herausstellt, bedeutet es, wenn ich sage * dass ein bisschen mehr Zeit 
 
 ![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
 
-### Jaeger Sport Coat is not an alliteration
+### Das Jaeger-Sport-Sakko ist keine Alliteration
 
-Jaeger is a sport coat style of jacket. As in, a single-breasted jacket with a 2-button closure, and patch pockets.
+Jaeger ist ein Sakko im sportlichen Look. In der Form eines einreihigen Sakko mit zwei Knöpfen und aufgesetzten Taschen.
 
-In other words, this is a garment that's typically worn on jeans or other trousers, and not as part of a suit.
+Mit anderen Worten, es ist ein Kleidungsstück, das üblicherweise auf Jeans oder anderen Hosen getragen wird und nicht als Teil eines Anzuges.
 
-### Options galore
+### Optionen in Hülle und Fülle
 
-Jaeger comes with 38 options, so you can change *a lot* about this pattern.
+Jaeger verfügt über 38 Optionen, so dass Sie *viel* an diesem Schnittmuster ändern können.
 
-No need to worry though, it also comes with sensible defaults, so you can just as well ignore all those choices.
+Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso gut alle diese Einstellungsmöglichkeiten ignorieren können.
 
 ## The across back measurement is no more
 
