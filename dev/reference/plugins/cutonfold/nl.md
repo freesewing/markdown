@@ -4,7 +4,7 @@ title: cutonfold
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins) &nbsp; [![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-cutonfold.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-cutonfold) &nbsp; [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256) &nbsp; [![Open issues tagged pkg:plugin-cutonfold](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-cutonfold.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-cutonfold)
 
-The **cutonfold** plugin provides the `cutonfold` macro:
+The **cutonfold** plugin provides [the cutonfold macro](/reference/macros/cutonfold/):
 
 <Example part="plugin_cutonfold" caption="An example of the cutonfold macro" design={false} />
 
@@ -63,21 +63,4 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, cutonfold);
 ```
 
-Now you can use the macro in your parts:
-
-```js
-void macro("cutonfold", {
-  from: Point,
-  to: Point,
-  grainline: bool
-});
-```
-The macro takes a single configuration object with the following properties:
-
-| Property    | Default | Type                          | Description                                                  |
-| ----------- | ------- | ----------------------------- | ------------------------------------------------------------ |
-| `from`      |         | [Point](/reference/api/point) | The startpoint of the *cut on fold* indicator                |
-| `to`        |         | [Point](/reference/api/point) | The endpoint of the *cut on fold* indicator                  |
-| `margin`    | 5       | [Point](/reference/api/point) | The distance in % to keep from the start/end edge            |
-| `offset`    | 50      | Number                        | The distance in mm to offset from the line from start to end |
-| `grainline` | `false` | Boolean                       | Whether this cutonfold indicator is also the grainline       |
+Now you can use [the cutonfold macro](/reference/macros/cutonfold/) in your parts.
