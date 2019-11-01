@@ -20,7 +20,7 @@ Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/
 
 Wie sich herausstellt, bedeutet es, wenn ich sage * dass ein bisschen mehr Zeit brauchte* es am Ende 6,5 Monate sind, also verzeihen Sie mir bitte die Verzögerung, aber hier ist es, [das Jaeger-Sakko](/patterns/jaeger).
 
-![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
+![Beachten Sie, dass ich damals in meinem Beitrag über den Blake Blazer gesprochen habe, aber ich habe ihn seitdem umbenannt, weil Jaeger-Sakko einfach cooler ist](jaeger.jpg)
 
 ### Das Jaeger-Sport-Sakko ist keine Alliteration
 
@@ -36,26 +36,26 @@ Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso g
 
 ## Das Mass Rückenbreite gibt es nicht
 
-Speaking of sensible defaults, Jaeger is not the only new thing in freesewing core 1.8.0, which is out today.
+Apropos vernünftige Vorgaben: Jaeger ist nicht das Einzige, was an Freewing Core 1.8.0, das heute erhältlich ist, neu ist.
 
-We've also gotten rid of the *across back* measurement.
+Wir haben auch das Mass *Rückenbreite * abgeschafft.
 
-The across back measurement was cause of a great deal of confusion among our users. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meistens, wenn jemand mit uns Kontakt aufnahm, weil sein Muster unrealistisch aussah, war eine unmögliches Rückenbreitenmass schuld.
 
-The roots of the across back measurement go back to a time when, instead of the *shoulder to shoulder* measurement we use now, we had the *shoulder length* measurement. That one was also source of some confusion, so we phased it out in favour of the *shoulder to shoulder* measurement.
+Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anstelle des *Schulter-zu-Schulter-*Mass, das wir jetzt verwenden, das *Schulterlänge-*Mass verwendet hatten. Dieses war auch Quelle einiger Verwirrung, also haben wir es zugunsten des *Schulter-zu-Schulter-* Mass eingestellt.
 
-The thing is that if we know the *shoulder to shoulder* measurement, we can guestimate with reasonable accuracy what the *across back* measurement will be. So, instead of asking you for it, we simply assume now.
+Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter*Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass*mit ausreichender Genauigkeit extrapolieren können. Also, anstatt Sie im die Angabe zu bitten, errechnen wir diese jetzt einfach.
 
-### But you're dumbing down the pattern
+### Aber Sie vereinfachen das Muster zu sehr
 
-In case the *this pattern comes with 38 options* bit above wasn't enough of a giveaway, we're pretty committed here at freesewing to give you all the knobs to tweak your drafts.
+Dies ist nicht der Fall *dieses Schnittmuster kommt mit 38 Optionen*. Als ob dies nicht schon genug Einstellungsmöglichkeiten wären, setzen wir hier bei FreeSewing alles daran Ihnen möglich alle Regler zur Optimierung des Schnittes an die an die Hand zu geben.
 
-Replacing a measurement with a value calculated based on another measurement may seem to go against that, but there's no need to worry. We've made sure you can still muck about with your across back.
+Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. Wir haben dafür gesorgt, dass Sie sich immer noch und die Passform am Rücken kümmern können.
 
-Patterns that used to require the *across back* measurement now have a new advanced option: the *across back factor*. It allows you to tweak how we calculate your across back measurement, but does make sure to keep it within boundaries that are sensible.
+Muster, die früher die *die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.</p>
 
-![The across back factor option](acrossback.png)
+![Der Rückenbreitenfaktor](acrossback.png)
 
-As such, we feel we're preventing mistakes for the casual user, without taking away power from you, the pattern option guru.
+Wir tun dies in der Überzeugung, dass wir Fehler für den gelegentlichen Benutzer vermeiden, ohne Ihnen, den Schnittmuster-Optionsguru, in Ihren Möglichkeiten einzuschränken.
 
-Or to put it differently, you can still muck about with your across back, but by default, you don't have to worry about it anymore.
+Oder anders ausgedrückt, Sie können immer noch mit der Rückenbreite herumalbern, aber standardmäßig müssen Sie sich keine Gedanken mehr darüber machen.
