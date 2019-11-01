@@ -7,16 +7,16 @@ caption: "Diese Version übermitteln wir Ihnen aus Bangkok"
 author: joost
 ---
 
-We've just pushed the *release* button on core 1.8.0. That bump in minor number is typically because we have a new pattern, but in this case, there's two reasons:
+Wir haben gerade den *Release* Button auf Core 1.8.0 gedrückt. Diesmal ist es eher ein kleineres Update, weil wir ein neues Schnittmuster haben, aber in diesem Fall gibt es zwei Gründe:
 
- - The [Jaeger Jacket](/patterns/jaeger) is now available
- - We've gotten rid of the *across back* measurement
+ - Das[Jaeger-Sakko](/patterns/jaeger) ist jetzt verfügbar
+ - Und wir haben uns von der *Rückenbreite* verabschiedet
 
-Read on for the details.
+Lesen Sie weiter für die Details.
 
-## Announcing the Jaeger Jacket
+## Ankündigung deS Jäger-Sakko
 
-For [my refasioners entry last year](/blog/the-refashioners-2017/) I designed a jacket pattern that I intially wanted to release alongside my make. It didn't work out that way, and I asked for a bit more time to get the pattern out the door.
+Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/) habe ich ein Sakko-Muster entworfen, das ich ich eigentlich parallel zur Produktion des Sakkos publizieren wollt. It didn't work out that way, and I asked for a bit more time to get the pattern out the door.
 
 Turns out that when I say *a bit more time* it means 6 and a half months, so please forgive me for the delay, but here it is, [the Jaeger Jacket](/patterns/jaeger).
 
