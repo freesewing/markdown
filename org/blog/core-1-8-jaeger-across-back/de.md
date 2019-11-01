@@ -14,11 +14,11 @@ Wir haben gerade den *Release* Button auf Core 1.8.0 gedrückt. Diesmal ist es e
 
 Lesen Sie weiter für die Details.
 
-## Ankündigung deS Jäger-Sakko
+## Ankündigung des Jäger-Sakko
 
 Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/) habe ich ein Sakko-Muster entworfen, das ich ich eigentlich parallel zur Produktion des Sakkos publizieren wollt. Es lief jedoch nicht nach Plan, deshalb habe ich mir für die Publikation etwas mehr Zeit genommen.
 
-Turns out that when I say *a bit more time* it means 6 and a half months, so please forgive me for the delay, but here it is, [the Jaeger Jacket](/patterns/jaeger).
+Wie sich herausstellt, bedeutet es, wenn ich sage * dass ein bisschen mehr Zeit brauchte* es am Ende 6,5 Monate sind, also verzeihen Sie mir bitte die Verzögerung, aber hier ist es, [das Jaeger-Sakko](/patterns/jaeger).
 
 ![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
 
