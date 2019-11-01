@@ -50,9 +50,9 @@ Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter*Mass kennen, wir mit
 
 Dies ist nicht der Fall *dieses Schnittmuster kommt mit 38 Optionen*. Als ob dies nicht schon genug Einstellungsmöglichkeiten wären, setzen wir hier bei FreeSewing alles daran Ihnen möglich alle Regler zur Optimierung des Schnittes an die an die Hand zu geben.
 
-Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. We've made sure you can still muck about with your across back.
+Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. Wir haben dafür gesorgt, dass Sie sich immer noch und die Passform am Rücken kümmern können.
 
-Patterns that used to require the *across back* measurement now have a new advanced option: the *across back factor*. It allows you to tweak how we calculate your across back measurement, but does make sure to keep it within boundaries that are sensible.
+Muster, die früher die *die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.</p>
 
 ![The across back factor option](acrossback.png)
 
