@@ -27,7 +27,7 @@ Das bedeutet, dass ein Teil des MailGun Netzwerks auf ihrer Blockliste steht. Im
 
 Auch andere Leute nutzen diesen Dienst auch, und vielleicht haben einige von ihnen irgendwann Spam per Mailgun versendet. Oder es war vielleicht nur ein Mann mit einem Nachnamen, der dazu neigt, Spamfilter auszulösen.
 
-![Some other MailGun customers. Not exactly a dodgy service is it?](mailgun.png)
+![Einige andere MailGun Kunden. Nicht gerade ein zwielichtiger Dienst, oder?](mailgun.png)
 
 Der Punkt ist, diese IP-Adresse oder einer ihrer Nachbarn hat *eine schlechte Reputation*. Das passiert. Aber sich zu weigern, Nachrichten von diesem Host (oder einem ganzen Netzwerk von Hosts) anzunehmen, ist gleichbedeutend mit dem Abschalten einer Autobahnspur (oder einer ganzen Autobahn), weil ein Auto in dieser Spur seine Musik einmal unangenehm laut wiedergab.
 
@@ -37,7 +37,7 @@ Was uns zu der nächsten Frage bringt:
 
 Gute Frage. Hier sind ein paar Beispiele:
 
-![A graph of mail delivery since the launch of this site](emailgraph.png)
+![Ein Graph der Zustellung von E-Mails seit dem Start dieser Seite](emailgraph.png)
 
 Der obige Graph stellt E-Mails dar, die seit dem Start dieser Website verschickt wurden. Der kleine Abschnitt des roten Graphen sind E-Mails, die nicht ausgeliefert werden.
 
@@ -73,7 +73,7 @@ Welche Auswirkungen hat das auf die Menschen?
 
 Nun, zu dem Zeitpunkt, zu dem ich dies schreibe, gibt es 817 registrierte Benutzer, und ca. 80% (661) haben auch ihr Konto aktiviert.
 
-![A disproportionate amount of pending activations is from users with an email address managed by Microsoft](activations.svg)
+![Eine unverhältnismäßige Anzahl an ausstehenden Aktivierungen ist von Benutzern mit einer von Microsoft verwalteten E-Mail-Adresse](activations.svg)
 
 Von diesen Personen, die in der Lage waren, ihr Konto zu aktivieren, haben weniger als 1% (6) eine E-Mail-Adresse, die von Microsoft verwaltet wird. In der Gruppe von Personen, die ihr Konto nicht aktiviert haben oder nicht in der Lage waren, ihr Konto zu aktivieren, haben mehr als die Hälfte eine solche Adresse.
 
@@ -89,7 +89,7 @@ Microsofts grobe Methoden der Spam-Filterung entkräften keinen dieser Gründe.
 
 MailGun zu benutzen bedeutet, ihre SMTP-Relais zu benutzen und dem Reputation dieses Relais ausgeliefert zu sein. Der einzige Weg, das zu umgehen, ist, ein dediziertes Relais in MailGun so zu konfigurieren, dass der FreeSewing.org-Traffic abgeschirmt ist vom Rest, und wir die Kontrolle über die Reputation unseres Smtp-Relais haben.
 
-![$59 per month? Perhaps not](pricing.png)
+![$59 monatlich? Vielleicht nicht](pricing.png)
 
 Für dieses Privileg berechnet MailGun 59 Dollar pro Monat, was sich auf 708 Dollar jährlich beläuft. Wenn Sie einen Blick in die [Spendenhistory](/about/pledge#donations-history) werfen, werden Sie feststellen, dass dies nicht drin liegt.
 
@@ -99,16 +99,16 @@ Es scheint, dass ich kaum Optionen mehr habe, und ganz ehrlich, mir reisst auch 
 
 ## Was ich dagegen tun werde
 
-Microsoft ist ein Moloch, und ich bin nur ein Kerl. Ich kann sie hier nicht bekämpfen. Unless I Titanfall their ass.
+Microsoft ist ein Moloch, und ich bin nur ein Kerl. Ich kann sie hier nicht bekämpfen. Ausser ich „titanfalle“ ihre Ärsche.
 
-![Block this, bitch](titanfall.gif)
+![Blockiere dies, Schlampe](titanfall.gif)
 
-Do you think Gmail is ever abused to send out spam? You know it is. Do you think they would ever block all email coming from Gmail? You know they won't.
+Glauben Sie, dass Gmail niemals missbraucht wird, um Spam zu versenden? Sie wissen, dass es das wird. Glauben Sie, dass sie jemals alle E-Mails von Google Mail blockieren würden? Sie wissen, dass das nicht der Fall ist.
 
-So last night, I rolled out some changes to work around the issue. If you have a *problemtic* email address, in addition to the regular email, this site will send out a second email through Gmail.
+Also habe ich gestern Abend einige Änderungen vorgenommen, um das Thema zu umgehen. Wenn Sie eine *problematische* E-Mail-Adresse haben, zusätzlich zu der regulären E-Mail, verschickt Ihnen diese Seite eine zweite E-Mail über Gmail.
 
-I'd like to see them block that.
+Ich möchte sehen, dass sie das blockieren.
 
-> ##### Signup trouble? Help is available
+> ##### Registrierungsprobleme? Hilfe ist verfügbar
 > 
-> If you are (still) having problems signing up, don't hesitate to [get in touch](/contact).
+> Wenn Sie (noch immer) Probleme mit der Registrierung haben, zögern Sie nicht, [Kontakt aufzunehmen](/contact).
