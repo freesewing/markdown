@@ -1,28 +1,27 @@
 ---
-title: Conclusion
-order: 280
+title: 280|Conclusion
 ---
 
 Félicitations, vous avez créé votre premier patron. Et tandis que c'est discutablement assez simple, vous avez appris un tas de choses en cours de route. Listons toutes ces choses que vous avez apprises :
 
- - Vous avez appris à [configurer votre environnement de programmation](fr/tutorial/create-freesewing-pattern) avec `npm init freesewing-pattern`
- - Vous avez appris à [ajouter des parties](fr/tutorial/your-first-part), [des mesures](fr/tutorial/adding-measurements), et [des options](http://localhost:8000/fr/tutorial/adding-options) à votre fichier de configuration de patron
- - Vous avez appris à quoi ressemble [un bon standard pour démarrer une nouvelle partie](/tutorial/part-structure)
- - Vous avez appris [comment ajouter des points et dessiner des chemins](fr/tutorial/constructing-the-neck-opening)
- - Vous avez appris que vous pouvez effectuer des modifications dans une boucle pour [adapter une encolure](fr/tutorial/fitting-the-neck-opening) ou [faire pivoter des attaches](/tutorial/avoiding-overlap) jusqu'à ce qu'elles soient bien placées
- - Vous avez appris ce que sont des [macros et comment les utiliser](fr/tutorial/creating-the-closure)
- - Vous avez appris différentes méthodes pour manipuler des [points](fr/api/point) et des [chemins](fr/api/path)
- - Vous avez appris à utiliser des [attributes](fr/api/attributes) pour influencer l'apparence des points et des chemins
- - Vous avez appris ce que cela signifie d'ébaucher [un patron complet](fr/tutorial/completing-your-pattern)
- - Vous avez appris ce que sont les [snippets et comment les ajouter](fr/tutorial/completing-your-pattern#adding-snippets)
- - Vous avez appris [comment décaler un chemin](/tutorial/completing-your-pattern#seam-allowance) pour créer une marge de couture, ou dans notre cas, marquer la ligne pour le ruban de biais
- - Vous avez appris comment créer un [patron sans papier](/tutorial/paperless-bib) en ajoutant des dimensions
+ - You have learned how to [setup your development environment](/tutorials/pattern-design/create-freesewing-pattern) with `npm init freesewing-pattern`
+ - You learned how to [add parts](/tutorials/pattern-design/your-first-part), [measurements](/tutorials/pattern-design/adding-measurements), and [options](/tutorials/pattern-design/adding-options) to your pattern's configuration file
+ - You learned what [a good boilerplate is to start with a new part](/tutorials/pattern-design/part-structure)
+ - You've learned [how to add points and draw paths](/tutorials/pattern-design/constructing-the-neck-opening)
+ - You learned how you can make changes in a loop to [adapt the neckopening](/tutorials/pattern-design/fitting-the-neck-opening) or [rotate the straps](/tutorials/pattern-design/avoiding-overlap) until they were just right
+ - You learned about [macros and how to use them](/tutorials/pattern-design/creating-the-closure)
+ - You learned different methods to manipulate [points](/reference/api/point/) and [paths](/reference/api/path/)
+ - You learned about using [attributes](/reference/api/attributes/) to influence the appearance of points and paths
+ - Your learned about what it means to draft [a complete pattern](/tutorials/pattern-design/completing-your-pattern)
+ - Your learned about [snippets and how to add them](/tutorials/pattern-design/completing-your-pattern#adding-snippets)
+ - You learned [how to offset a path](/tutorials/pattern-design/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
+ - You learned how to create a [paperless pattern](/tutorials/pattern-design/paperless-bib) by adding dimensions
 
 ## Un peu plus de lecture
 
- - Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](fr/concepts)
- - Mettez en marque page les [docs API de FreeSewing](fr/api), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
- - Prenez en considération [nos meilleures pratiques](/guides/best-practices) qui vous aideront à réaliser des patrons optimaux
+ - Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](/guides/overview/)
+ - Mettez en marque page les [docs API de FreeSewing](/reference/api/), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
+ - Prenez en considération [nos meilleures pratiques](/guides/best-practices/) qui vous aideront à réaliser des patrons optimaux
 
 ## Pour la suite
 

@@ -13,7 +13,7 @@ paths.example = new Path();
 
 <Tip>
 
-The [Path API docs](/api/point) list all the things you can do with a path object.
+The [Path API docs](/api/path) list all the things you can do with a path object.
 
 </Tip>
 

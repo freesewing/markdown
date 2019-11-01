@@ -1,6 +1,5 @@
 ---
-title: Je patroon papierloos maken
-order: 270
+title: 270|Making your pattern paperless
 ---
 
 Gebruikers kunnen papierloze patronen opvragen door `paperless` in te stellen als `true`.
@@ -32,13 +31,7 @@ Het grid wordt automatisch toegevoegd, maar de afmetingen moet je zelf toevoegen
  - De `hd`-macro voegt een horizontale afmeting toe
  - De `vd`-macro voegt een verticale afmeting toe
  - De `ld`-macro voegt een lineaire afmeting toe
- - De `pd`-macro voegt een padafmeting toe die een specifiek pad volgt
-
-<Warning>
-
-FIXME: link naar macrodocumenten toevoegen
-
-</Warning>
+ - De `pd`-macro voegt een padafmeting toe die een specifiek pad volgt<Fixme> Add links to macro docs </Fixme>
 
 Zo ziet dat eruit in de code:
 

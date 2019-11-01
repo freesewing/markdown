@@ -1,28 +1,27 @@
 ---
-title: Conclusion
-order: 280
+title: 280|Conclusion
 ---
 
 Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvoudig patroon, maar je hebt er wel veel bij geleerd. Even opsommen:
 
- - Je hebt geleerd om [je eigen developmentomgeving te bouwen](/tutorial/create-freesewing-pattern) met `npm init freesewing-pattern`
- - Je hebt geleerd om [onderdelen](/tutorial/your-first-part), [afmetingen](/tutorial/adding-measurements) en [opties](http://localhost:8000/tutorial/adding-options) toe te voegen aan het configuratiebestand van je patroon
- - Je hebt geleerd wat [een goede boilerplate is om met een nieuw patroondeel te beginnen](/tutorial/part-structure)
- - Je hebt geleerd om [punten toe te voegen en paden te tekenen](/tutorial/constructing-the-neck-opening)
- - Je hebt geleerd om herhaaldelijke aanpassingen te doen om [de halsopening aan te passen](/tutorial/fitting-the-neck-opening) of [de koordjes te roteren](/tutorial/avoiding-overlap) tot ze precies goed waren
- - Je hebt geleerd [wat macro's zijn en hoe je ze gebruikt](/tutorial/creating-the-closure)
- - Je hebt verschillende methodes geleerd om [punten](/api/point) en [paden](/api/path) te manipuleren
- - Je hebt geleerd hoe je met [attributen](/api/attributes) het uitzicht van punten en paden kan veranderen
- - Je hebt geleerd wat het betekent om een [compleet patroon](/tutorial/completing-your-pattern) te ontwerpen
- - Je hebt geleerd [wat snippets zijn en hoe je ze toevoegt](/tutorial/completing-your-pattern#adding-snippets)
- - Je hebt geleerd [hoe je een pad verdubbelt](/tutorial/completing-your-pattern#seam-allowance) om naadwaarde toe te voegen of, in ons geval, een lijn voor de toevoeging van biaislint aan te geven
- - Je hebt geleerd hoe je een [papierloos patroon](/tutorial/paperless-bib) maakt door dimensies toe te voegen
+ - You have learned how to [setup your development environment](/tutorials/pattern-design/create-freesewing-pattern) with `npm init freesewing-pattern`
+ - You learned how to [add parts](/tutorials/pattern-design/your-first-part), [measurements](/tutorials/pattern-design/adding-measurements), and [options](/tutorials/pattern-design/adding-options) to your pattern's configuration file
+ - You learned what [a good boilerplate is to start with a new part](/tutorials/pattern-design/part-structure)
+ - You've learned [how to add points and draw paths](/tutorials/pattern-design/constructing-the-neck-opening)
+ - You learned how you can make changes in a loop to [adapt the neckopening](/tutorials/pattern-design/fitting-the-neck-opening) or [rotate the straps](/tutorials/pattern-design/avoiding-overlap) until they were just right
+ - You learned about [macros and how to use them](/tutorials/pattern-design/creating-the-closure)
+ - You learned different methods to manipulate [points](/reference/api/point/) and [paths](/reference/api/path/)
+ - You learned about using [attributes](/reference/api/attributes/) to influence the appearance of points and paths
+ - Your learned about what it means to draft [a complete pattern](/tutorials/pattern-design/completing-your-pattern)
+ - Your learned about [snippets and how to add them](/tutorials/pattern-design/completing-your-pattern#adding-snippets)
+ - You learned [how to offset a path](/tutorials/pattern-design/completing-your-pattern#seam-allowance) to create seam allowance, or in our case, mark the bias tape line
+ - You learned how to create a [paperless pattern](/tutorials/pattern-design/paperless-bib) by adding dimensions
 
 ## Meer leesmateriaal
 
- - Als je dat nog niet gedaan hebt, kan je hier [de basisconcepten van FreeSewing](/concepts) nalezen
- - Sla de [FreeSewing API-documenten](/api) op bij je favorieten; je kan ze gebruiken als referentie telkens wanneer je niet zeker weet hoe iets werkt
- - Neem onze [best practices](/guides/best-practices) door; ze helpen je om de best mogelijke patronen te ontwerpen
+ - Als je dat nog niet gedaan hebt, kan je hier [de basisconcepten van FreeSewing](/guides/overview/) nalezen
+ - Sla de [FreeSewing API-documenten](/reference/api/) op bij je favorieten; je kan ze gebruiken als referentie telkens wanneer je niet zeker weet hoe iets werkt
+ - Neem onze [best practices](/guides/best-practices/) door; ze helpen je om de best mogelijke patronen te ontwerpen
 
 ## En wat nu?
 

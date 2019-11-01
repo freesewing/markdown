@@ -1,6 +1,5 @@
 ---
-title: Construire l'encolure
-order: 160
+title: 160|Constructing the neck opening
 ---
 
 Votre but est de construire une encolure légèrement ovale qui a une circonférence égale à la mesure `headCircumference` multipliée par l'option `neckRatio`.
@@ -68,7 +67,7 @@ Le point suivant est très similaire de nouveau, excepté que cette fois nous no
 <Tip>
 
 Points vient avec une ribambelle de ces méthodes. 
-You can find them all in [the Point API docs](/api/point).
+You can find them all in [the Point API docs](/referene/api/point/).
 
 </Tip>
 
@@ -85,7 +84,7 @@ paths.neck = new Path()
  - Nous poursuivons avec l'appel à `Path.move()` qui prend un Point comme argument
  - Puis, il y a un appel à `Path.curve()` qui prend 3 points comme arguments
 
-Si vous avez lu les [concepts de base de FreeSewing](/fr/concepts), vous aurez appris que les chemins commencent toujours avec une opération `move()`. Dans ce cas, nous avons bougé depuis notre point `right`.
+If you've read through [the high-level overview of FreeSewing](/guides/overview/) you will have learned that paths always start with a `move()` operation. Dans ce cas, nous avons bougé depuis notre point `right`.
 
 A partir de là, nous avons dessiné une courbe de Bézier vers notre point `bottom` en utilisant `rightCp1` et `bottomCp2` comme points de contrôle.
 

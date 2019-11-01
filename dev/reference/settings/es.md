@@ -1,12 +1,12 @@
 ---
-title: Settings
+title: Draft settings
 ---
 
 <Note>
 
 Settings are what the user passes to your pattern at run-time.
 
-Don't confuse them with the [pattern configuration](/config) that is determined by
+Don't confuse them with the [pattern configuration](/reference/config/) that is determined by
 the designer at build-time.
 
 </Note>
@@ -33,7 +33,7 @@ let pattern = new Brian({
 When designing a pattern, you want to test it with a bunch of different,
 yet realistic, measurements.
 
-We publish the [@freesewing/models](/packages/models)
+We publish the [@freesewing/models](/reference/packages/models/)
 package exactly for this purpose. It comes with a set of models (with and 
 without breasts) with (probaly) all the measurements you need.
 
@@ -100,7 +100,11 @@ let pattern = new Brian({
 })
 ```
 
-> This is ignored if [settings.complete](#complete) is `false`
+<Note>
+
+This is ignored if [settings.complete](#complete) is `false`
+
+</Note>
 
 ## units
 
@@ -120,7 +124,7 @@ let pattern = new Brian({
 
 A 2-letter language code that indicates what language the user wants.
 
-This will be used to set the `xml:lang` attribute in the `svg` tag when rendering to SVG, and by [the i18n plugin](/plugins/i18n) to translate the pattern.
+This will be used to set the `xml:lang` attribute in the `svg` tag when rendering to SVG, and by [the i18n plugin](/reference/plugins/i18n/) to translate the pattern.
 
 ```js
 import brian from "@freesewing/brian";
@@ -215,17 +219,13 @@ Allows you to control the way pattern parts are laid out on the pattern. There a
 
 ### layout is true
 
-This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible. 
-
-<Note>FIXME: Insert example</Note>
+This is the default behaviour. Parts will be laid without overlap in a space that's a small as possible. <Fixme>Insert example</Fixme>
 
 ### layout is false
 
 This will cause all parts to be laid out on top of each other.
 
-It is almost certainly not what you want, but having all parts piled on top of each other in the top left corner can be a good starting point for a custom layout.
-
-<Note>FIXME: Insert example</Note>
+It is almost certainly not what you want, but having all parts piled on top of each other in the top left corner can be a good starting point for a custom layout.<Fixme>Insert example</Fixme>
 
 ### layout is a layout object
 

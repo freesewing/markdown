@@ -1,19 +1,12 @@
 ---
-title: Paramétrer l'environnement de développement
-order: 100
+title: 100|Setting up the development environment
 ---
 
 Ouvrez un terminal et entrez la commande suivante :
 
 ```bash
-npm init freesewing-pattern@beta
+npm init freesewing-pattern
 ```
-
-<Note>
-
-The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
-
-</Note>
 
 Cela va charger quelques dépendances, puis vous demander les questions suivantes :
 

@@ -1,6 +1,5 @@
 ---
-title: Ajouter des mesures
-order: 130
+title: 130|Adding measurements
 ---
 
 FreeSewing is all about *made-to-measure* sewing patterns; We are going to draft our pattern according to the measurements provided to us.

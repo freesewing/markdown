@@ -10,7 +10,7 @@ title: sprinkle
 &nbsp;
 [![Open issues tagged pkg:plugin-sprinkle](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-sprinkle.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-sprinkle)
 
-The **sprinkle** plugin provides the `sprinkle` macro:
+The **sprinkle** plugin provides [the sprinkle macro](/reference/macros/sprinkle/):
 
 <Example part="plugin_sprinkle" caption="An example of the sprinkle macro" design={false} />
 
@@ -58,17 +58,4 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, sprinkle);
 ```
 
-Now you can use the macro in your parts:
-
-```js
-void macro("sprinkle", {
-  snippet: string,
-  on: [string]
-});
-```
-The macro takes a single configuration object with the following properties:
-
-| Property    | Default | Type             | Description | 
-|-------------|---------|------------------|-------------|
-| `snippet`   |         | String           | Name of the snippet to sprinkle |
-| `on`        | `[]`    | Array of strings | An array with *the names* of points to add the snippet on |
+Now you can use [the sprinkle macro](/reference/macros/sprinkle/) in your parts.

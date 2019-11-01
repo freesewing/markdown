@@ -1,6 +1,5 @@
 ---
 title: Toegang tot opties
-order: 250
 ---
 
 Opties worden opgeslagen in `pattern.settings.options`, maar dankzij [shorthand](/howtos/core/shorthand/) kan je gewoon schrijven:

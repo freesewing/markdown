@@ -1,6 +1,5 @@
 ---
 title: Snippets toevoegen
-order: 280
 ---
 
 Nadat je de [shorthand](/howtos/core/shorthand/) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
@@ -18,10 +17,10 @@ Je kunt een snippet vergoten/verkleinen en roteren met de `data-scale` en `data-
 
 <Tip>
 
-Zie [attributen gebruiken](/concepten/attributen) voor meer informatie over het gebruik van attributen.
+See [Using attributes](/howtos/core/attributes/) for details on how to set attributes.
 
 </Tip>
 
 Hieronder is een voorbeeld van `data-scale` en `data-rotate`:
 
-<Example pattern="rendertest" caption="Overzicht van de verschillende snippets" options={{ colors: false, text: false, macros: false, circles: false, widthHd: false }} />
+<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: macros: circles: widthHd: false }} />

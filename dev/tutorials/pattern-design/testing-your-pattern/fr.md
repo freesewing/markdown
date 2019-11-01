@@ -1,6 +1,5 @@
 ---
-title: Tester votre patron
-order: 250
+title: 250|Testing your pattern
 ---
 
 Avec le contour de base de votre patron prêt, il est maintenant temps de le tester pour voir à quel point il s'adapte bien à différentes mesures, et à l'étendue des options que nous avons fournie.
@@ -21,7 +20,7 @@ Si le fait de tester votre patron vous semble une masse de travail conséquente,
  - Tester les mesures
  - Tester les modèles
 
-Les [docs API sur l'échantillonnage](/api/pattern#sample) contiennent tous les détails de fonctionnement, mais pour le moment jetons juste un œil sur le résultat final de chacun de ces choix.
+The [API docs on sampling](/reference/api/pattern/#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
 
 ## Tester les options du patron
 
@@ -76,28 +75,7 @@ Sur la surface, le résultat ci-dessous est le même que pour notre test de mesu
 
 Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera un aperçu de la façon dont votre patron s'adapte à différentes morphologies.
 
-<Example 
-  sample 
-  caption="Your bib sampled for a range of baby sizes" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        baby1: { headCircumference: 340 },
-        baby2: { headCircumference: 350 },
-        baby3: { headCircumference: 360 },
-        baby4: { headCircumference: 370 },
-        baby5: { headCircumference: 380 },
-        baby6: { headCircumference: 390 },
-        baby7: { headCircumference: 400 },
-        baby8: { headCircumference: 410 },
-        baby9: { headCircumference: 420 }
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Your bib sampled for a range of baby sizes" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { baby1: headCircumference: 340 }, baby2: 350 baby3: 360 baby4: 370 baby5: 380 baby6: 390 baby7: 400 baby8: 410 baby9: 420 } } }} />
 
 ## Le test de l'homme fourmi
 
@@ -109,20 +87,6 @@ Le but du test de l'homme fourmi est de mettre en évidence les zones de votre p
 
 Les meilleurs patrons passeront le test de l'homme fourmi avec 2 patrons identiques. L'un sera simplement le dixième de l'autre en termes d'échelle.
 
-<Example 
-  sample 
-  caption="Congratulations, your bib passes the antman test" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        ant: { headCircumference: 39 },
-        man: { headCircumference: 390 },
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Congratulations, your bib passes the antman test" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { ant: headCircumference: 39 }, man: 390 } } }} />
 
 Lorsque vous êtes satisfait de la façon dont votre patron passe les tests, il est temps de le compléter.

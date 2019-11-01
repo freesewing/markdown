@@ -2,7 +2,13 @@
 title: dimension
 ---
 
-[![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins) &nbsp; [![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-dimension.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-dimension) &nbsp; [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256) &nbsp; [![Open issues tagged pkg:plugin-dimension](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-dimension.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-dimension)
+[![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins)
+&nbsp;
+[![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-dimension.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-dimension)
+&nbsp;
+[![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256)
+&nbsp;
+[![Open issues tagged pkg:plugin-dimension](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-dimension.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-dimension)
 
 The **dimension** plugin provides the following [macros](/plugins#macros):
 
@@ -75,7 +81,8 @@ npm install @freesewing/plugin-dimension
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -85,87 +92,9 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, dimension);
 ```
 
-Now you can use the macros in your parts:
+Now you can use the following macros in your parts:
 
-### hd
-
-```js
-void macro("hd", {
-  from: Point,
-  to: Point,
-  y: number
-});
-```
-
-The `hd` macro draws a horizontal dimenstion. It takes a single configuration object with the following properties:
-
-| Propriété       | Défaut               | Type                | Description                                                                                       |
-| --------------- | -------------------- | ------------------- | ------------------------------------------------------------------------------------------------- |
-| `from`          |                      | [Point](/reference/api/point) | Le point de départ de la dimension                                                                |
-| `to`            |                      | [Point](/reference/api/point) | Le point final de la dimension                                                                    |
-| `y`             |                      | Nombre              | La valeur en Y où dessiner la dimension                                                           |
-| `text`          | Distance horizontale | Nombre              | Le texte à indiquer sur une dimension s'il ne s'agit pas de la de la distance horizontale from-to |
-| `noStartMarker` | `false`              | Booléen             | Ne pas dessiner un marqueur de début                                                              |
-| `noEndMarker`   | `false`              | Booléen             | Ne pas dessiner un marqueur de fin                                                                |
-
-### vd
-
-```js
-void macro("vd", {
-  from: Point,
-  to: Point,
-  x: number
-});
-```
-
-The `vd` macro draws a vertical dimenstion. It takes a single configuration object with the following properties:
-
-| Propriété       | Défaut             | Type                | Description                                                                         |
-| --------------- | ------------------ | ------------------- | ----------------------------------------------------------------------------------- |
-| `from`          |                    | [Point](/reference/api/point) | Le point de départ de la dimension                                                  |
-| `to`            |                    | [Point](/reference/api/point) | Le point final de la dimension                                                      |
-| `x`             |                    | Nombre              | La valeur en X à laquelle dessiner la dimension                                     |
-| `text`          | Distance verticale | Nombre              | Le texte correspondant à la dimension si ce n'est pas la distance verticale from-to |
-| `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                                                |
-| `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                                  |
-
-### ld
-
-```js
-void macro("ld", {
-  from: Point,
-  to: Point,
-  d: number
-});
-```
-
-The `ld` macro draws a linear dimenstion. It takes a single configuration object with the following properties:
-
-| Propriété       | Défaut            | Type                | Description                                                                    |
-| --------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------ |
-| `from`          |                   | [Point](/reference/api/point) | Le point de départ de la dimension                                             |
-| `to`            |                   | [Point](/reference/api/point) | Le point final de la dimension                                                 |
-| `d`             | 0                 | Nombre              | Le décalage avec lequel dessiner la dimension                                  |
-| `text`          | Distance linéaire | Nombre              | Le texte à accoler à la dimension si ce n'est pas la distance linéaire from-to |
-| `noStartMarker` | `false`           | Booléen             | Ne pas dessiner un marqueur de début                                           |
-| `noEndMarker`   | `false`           | Booléen             | Ne pas dessiner un marqueur de fin                                             |
-
-### pd
-
-```js
-void macro("pd", {
-  path: Path,
-  d: number
-});
-```
-
-The `ld` macro draws a dimenstion parallel to a [Path](/reference/api/path). It takes a single configuration object with the following properties:
-
-| Propriété       | Défaut             | Type                | Description                                                        |
-| --------------- | ------------------ | ------------------- | ------------------------------------------------------------------ |
-| `path`          |                    | [Chemin](/reference/api/path) | Le chemin le long duquel dessiner la dimension                     |
-| `offset`        | 0                  | Nombre              | Le décalage avec lequel dessiner la dimension                      |
-| `text`          | Longueur du chemin | Nombre              | Le texte à accoler au chemin si ce n'est pas la longueur du chemin |
-| `noStartMarker` | `false`            | Booléen             | Ne pas dessiner un marqueur de début                               |
-| `noEndMarker`   | `false`            | Booléen             | Ne pas dessiner un marqueur de fin                                 |
-
+ - [hd](/reference/macros/hd/)
+ - [vd](/reference/macros/vd/)
+ - [ld](/reference/macros/ld/)
+ - [pd](/reference/macros/pd/)

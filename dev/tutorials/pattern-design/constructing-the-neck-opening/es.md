@@ -1,6 +1,5 @@
 ---
-title: Constructing the neck opening
-order: 160
+title: 160|Constructing the neck opening
 ---
 
 Your goal is to construct a slightly oval neck opening that has a circumference that is the `headCircumference` measurements multiplied by the `neckRatio` option.
@@ -68,7 +67,7 @@ The next point is very similar again, except that this time we're shifting to th
 <Tip>
 
 Points come with a bunch of these methods. 
-You can find them all in [the Point API docs](/api/point).
+You can find them all in [the Point API docs](/referene/api/point/).
 
 </Tip>
 
@@ -85,7 +84,7 @@ paths.neck = new Path()
  - We're following up with a `Path.move()` call that takes one Point as argument
  - Then, there's a `Path.curve()` call that takes 3 points as arguments
 
-If you've read about [FreeSewing's basic concepts](/concepts) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
+If you've read through [the high-level overview of FreeSewing](/guides/overview/) you will have learned that paths always start with a `move()` operation. In this case, we moved to our `right` points.
 
 From there, we drew a Bezier curve to our `bottom` point by using `rightCp1` and `bottomCp2` as control points.
 

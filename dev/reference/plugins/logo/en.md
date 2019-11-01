@@ -10,7 +10,7 @@ title: logo
 &nbsp;
 [![Open issues tagged pkg:plugin-logo](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-logo.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-logo)
 
-The **logo** plugin provides `logo` [snippet](/reference/api/snippet):
+The **logo** plugin provides [the logo snippet](/reference/snippets/):
 
 <Example part="plugin_logo" caption="An example of the logo snippet" design={false} />
 

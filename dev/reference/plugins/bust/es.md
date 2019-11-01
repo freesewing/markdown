@@ -25,7 +25,7 @@ It's used by our [Carlita](/reference/packages/carlita) pattern, which extends t
 
 <Tip>
 
-To learn more about extending a pattern, see [Pattern inheritance](/advanced/inheritance)
+To learn more about extending a pattern, see [Pattern inheritance](/howtos/core/inheritance/)
 
 </Tip>
 
@@ -37,7 +37,7 @@ npm install @freesewing/plugin-bust
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

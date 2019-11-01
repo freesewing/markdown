@@ -1,6 +1,5 @@
 ---
-title: Créer la fermeture
-order: 210
+title: 210|Creating the closure
 ---
 
 Les choses commencent à prendre forme, mais nous ne pouvons pas passer le bavoir sur la tête du bébé comme ça. Alors nous devons créer un système de fermeture. Nous allons faire chevaucher les attaches à leurs extrémités, et y mettre un bouton pression.
@@ -49,12 +48,7 @@ macro("round", {
   render: true
 });
 ```
-
-<Warning>
-
-FIXME: Ajouter le lien vers les docs macro/extend
-
-</Warning>
+<Fixme> Add link to macro/extend docs </Fixme>
 
 <Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 

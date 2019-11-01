@@ -13,7 +13,7 @@ points.centerBack  = new Point(0,0);
 
 <Tip>
 
-The [Point API docs](/api/point) list many ways to create a point.
+The [Point API docs](/reference/api/point/) list many ways to create a point.
 
 </Tip>
 

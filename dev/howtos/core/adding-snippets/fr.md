@@ -18,10 +18,10 @@ You can scale and rotate a snippet by setting the `data-scale` and `data-rotate`
 
 <Tip>
 
-See [Using attributes](/concepts/attributes) for details on how to set attributes.
+See [Using attributes](/howtos/core/attributes/) for details on how to set attributes.
 
 </Tip>
 
 Below is an example of the available snippets, and the use of the `data-scale` and `data-rotate` attributes:
 
-<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: false, macros: false, circles: false, widthHd: false }} />
+<Example pattern="rendertest" caption="Overview of available snippets" options={{ colors: false, text: macros: circles: widthHd: false }} />

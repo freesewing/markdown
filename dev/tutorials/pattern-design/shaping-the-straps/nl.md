@@ -1,6 +1,5 @@
 ---
-title: De bandjes vormgeven
-order: 200
+title: 200|Shaping the straps
 ---
 
 De bandjes van het slabbetje moeten de halsopening volgen. Dat is niet zo moeilijk. We moeten alleen maar de controlepunten van de curves op vergelijkbare proporties behouden. Dus halverwege het begin van de curve, en aan de hoek van onze rechthoek.
@@ -9,7 +8,7 @@ De bandjes van het slabbetje moeten de halsopening volgen. Dat is niet zo moeili
 
 For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
 used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
-As always, [the API docs](/api/point) have all the details.
+As always, [the API docs](/reference/api/point/) have all the details.
 
 </Note>
 

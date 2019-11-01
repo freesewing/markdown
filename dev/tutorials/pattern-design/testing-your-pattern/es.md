@@ -1,6 +1,5 @@
 ---
-title: Testing your pattern
-order: 250
+title: 250|Testing your pattern
 ---
 
 With the basic outline of your pattern ready, now would be a good time to test it to see how well it adapts to different measurements, and the range of options we provided.
@@ -21,7 +20,7 @@ If testing your pattern sounds like a lot of work, you're in luck. FreeSewing ca
  - Test measurements
  - Test models
 
-The [API docs on sampling](/api/pattern#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
+The [API docs on sampling](/reference/api/pattern/#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
 
 ## Testing pattern options
 
@@ -76,28 +75,7 @@ On the surface, the result below is the same as our measurement test. But that i
 
 But most patterns use multiple measurements, and you'll find this test gives you insight into how your pattern will adapt to differently sizes bodies.
 
-<Example 
-  sample 
-  caption="Your bib sampled for a range of baby sizes" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        baby1: { headCircumference: 340 },
-        baby2: { headCircumference: 350 },
-        baby3: { headCircumference: 360 },
-        baby4: { headCircumference: 370 },
-        baby5: { headCircumference: 380 },
-        baby6: { headCircumference: 390 },
-        baby7: { headCircumference: 400 },
-        baby8: { headCircumference: 410 },
-        baby9: { headCircumference: 420 }
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Your bib sampled for a range of baby sizes" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { baby1: headCircumference: 340 }, baby2: 350 baby3: 360 baby4: 370 baby5: 380 baby6: 390 baby7: 400 baby8: 410 baby9: 420 } } }} />
 
 ## The antman test
 
@@ -109,20 +87,6 @@ The purpose of the antman test is to bring out areas in your pattern where you m
 
 The best patterns will pass the antman test with 2 exact pattern. One will simply be 1/10th the scale of the other.
 
-<Example 
-  sample 
-  caption="Congratulations, your bib passes the antman test" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        ant: { headCircumference: 39 },
-        man: { headCircumference: 390 },
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Congratulations, your bib passes the antman test" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { ant: headCircumference: 39 }, man: 390 } } }} />
 
 When you're happy with how your pattern passes these tests, it's time to complete it.
