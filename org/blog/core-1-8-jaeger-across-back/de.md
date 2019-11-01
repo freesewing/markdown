@@ -46,11 +46,11 @@ Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anste
 
 Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter*Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass*mit ausreichender Genauigkeit extrapolieren können. Also, anstatt Sie im die Angabe zu bitten, errechnen wir diese jetzt einfach.
 
-### But you're dumbing down the pattern
+### Aber Sie vereinfachen das Muster zu sehr
 
-In case the *this pattern comes with 38 options* bit above wasn't enough of a giveaway, we're pretty committed here at freesewing to give you all the knobs to tweak your drafts.
+Dies ist nicht der Fall *dieses Schnittmuster kommt mit 38 Optionen*. Als ob dies nicht schon genug Einstellungsmöglichkeiten wären, setzen wir hier bei FreeSewing alles daran Ihnen möglich alle Regler zur Optimierung des Schnittes an die an die Hand zu geben.
 
-Replacing a measurement with a value calculated based on another measurement may seem to go against that, but there's no need to worry. We've made sure you can still muck about with your across back.
+Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. We've made sure you can still muck about with your across back.
 
 Patterns that used to require the *across back* measurement now have a new advanced option: the *across back factor*. It allows you to tweak how we calculate your across back measurement, but does make sure to keep it within boundaries that are sensible.
 
