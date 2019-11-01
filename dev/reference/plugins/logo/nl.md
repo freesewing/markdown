@@ -4,7 +4,7 @@ title: logo
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins) &nbsp; [![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-logo.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-logo) &nbsp; [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256) &nbsp; [![Open issues tagged pkg:plugin-logo](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-logo.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-logo)
 
-The **logo** plugin provides `logo` [snippet](/reference/api/snippet):
+The **logo** plugin provides [the logo snippet](/reference/snippets/):
 
 <Example part="plugin_logo" caption="An example of the logo snippet" design={false} />
 
