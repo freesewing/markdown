@@ -16,7 +16,7 @@ Lesen Sie weiter für die Details.
 
 ## Ankündigung deS Jäger-Sakko
 
-Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/) habe ich ein Sakko-Muster entworfen, das ich ich eigentlich parallel zur Produktion des Sakkos publizieren wollt. It didn't work out that way, and I asked for a bit more time to get the pattern out the door.
+Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/) habe ich ein Sakko-Muster entworfen, das ich ich eigentlich parallel zur Produktion des Sakkos publizieren wollt. Es lief jedoch nicht nach Plan, deshalb habe ich mir für die Publikation etwas mehr Zeit genommen.
 
 Turns out that when I say *a bit more time* it means 6 and a half months, so please forgive me for the delay, but here it is, [the Jaeger Jacket](/patterns/jaeger).
 
