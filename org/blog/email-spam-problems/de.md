@@ -1,19 +1,19 @@
 ---
 date: 2017-09-07
-title: "Thanks for nothing Microsoft; Email shouldn't be this hard"
-linktitle: "Thanks for nothing Microsoft"
+title: "Danke für nichts Microsoft; E-Mail sollte nicht so schwierig sein"
+linktitle: "Vielen Dank für nichts, Microsoft"
 img: full.jpg
-caption: "Would you close a lane because one driver was playing their music too loud?"
+caption: "Würden Sie eine Spur schließen, weil ein Fahrer seine Musik zu laut spielte?"
 author: joost
 ---
 
-People with an email address from Microsoft \--- think Hotmail, MSN, live.com, outlook.com and their numerous variants \--- are significantly less likely to sign up for this website.
+Menschen mit einer E-Mail-Adresse von Microsoft \--- denken Sie an Hotmail, MSN, live.com, outlook.com und ihre zahlreichen Varianten \--- melden sich, statistisch gesehen, deutlich weniger für diese Website an.
 
-That's because more than 4 times out of 10, they never receive their account activation email.
+Der Grund dafür ist, dass mehr als 4 mal von 10, sie nie ihre Kontoaktivierungs-E-Mail erhalten.
 
-## What's going on?
+## Was ist hier los?
 
-Let's first look at what's happening. Here's a relevant snippet from the logs:
+Schauen wir uns zunächst an, was passiert. Hier ist ein relevantes Snippet aus den Logs:
 
 ````
 Failed: postmaster@mg.freesewing.org -> ********@hotmail.co.uk 'Confirm your freesewing account' 
@@ -21,37 +21,37 @@ Server response: 550 5.7.1 Unfortunately, messages from [104.130.122.15] weren't
 Please contact your Internet service provider since part of their network is on our block list. 
 ````
 
-What this means is that part of the MailGun network is on their block list. As a result, they (more on who they are later) are not delivering any messages that go out.
+Das bedeutet, dass ein Teil des MailGun Netzwerks auf ihrer Blockliste steht. Im Endeffekt liefer Die (wer die sind mehr dazu später) die ausgehenden Nachrichten nicht aus an die Empfänger.
 
-[MailGun](https://www.mailgun.com/) is a popular email service for developers. It's used by this site to send out emails, like the account activation emails.
+[MailGun](https://www.mailgun.com/) ist ein beliebter E-Mail-Dienst für Entwickler. Es wird von dieser Seite verwendet, um E-Mails zu verschicken, wie zum Beispiel die Aktivierungs-E-Mails.
 
-Other people use this service too, and perhaps some of them, at some point, delivered some spam messages through mailgun. Or it may just have been some guy with a last name that tends to trigger spam filters.
+Auch andere Leute nutzen diesen Dienst auch, und vielleicht haben einige von ihnen irgendwann Spam per Mailgun versendet. Oder es war vielleicht nur ein Mann mit einem Nachnamen, der dazu neigt, Spamfilter auszulösen.
 
 ![Some other MailGun customers. Not exactly a dodgy service is it?](mailgun.png)
 
-Point is, this IP address or one of its neighbours got *a bad rep*. It happens. But to flat-out refuse to accept any messages from this host (or an entire network of hosts) is the equivalent of shutting down a highway lane (or entire highway) because one car in that lane played its music obnoxiously loud that one time.
+Der Punkt ist, diese IP-Adresse oder einer ihrer Nachbarn hat *eine schlechte Reputation*. Das passiert. Aber sich zu weigern, Nachrichten von diesem Host (oder einem ganzen Netzwerk von Hosts) anzunehmen, ist gleichbedeutend mit dem Abschalten einer Autobahnspur (oder einer ganzen Autobahn), weil ein Auto in dieser Spur seine Musik einmal unangenehm laut wiedergab.
 
-Which brings me to our next question:
+Was uns zu der nächsten Frage bringt:
 
 ## Who would do something like that?
 
-Good question. Here are some numbers:
+Gute Frage. Hier sind ein paar Beispiele:
 
 ![A graph of mail delivery since the launch of this site](emailgraph.png)
 
-The graph above represents emails that were sent out since the launch of this site. The small subsection of the graph that is red are emails that are dropped.
+Der obige Graph stellt E-Mails dar, die seit dem Start dieser Website verschickt wurden. Der kleine Abschnitt des roten Graphen sind E-Mails, die nicht ausgeliefert werden.
 
-This website sends out different kinds of email:
+Diese Website versendet verschiedene Arten von E-Mails:
 
- - The account confirmation email
- - The *I forgot my password* emails
- - Comment reply notifications
+ - Benutzerkonto-Bestätigungs-E-Mail
+ - Die *Ich habe mein Passwort vergessen* E-Mails
+ - Kommentarantwort-Benachrichtigungen
 
-The graph represents all email, but I'm focussing on the account confirmation emails only. They are the most important after all.
+Der Graph steht für alle E-Mails, aber ich konzentriere mich nur auf das Konto-Bestätigungs-E-Mails. Sie sind schließlich die Wichtigsten.
 
-> Apart from the 1 outlier, every message that was blocked, was blocked by Microsoft
+> Außer dem 1 Auslöser wurde jede blockierte Nachricht von Microsoft blockiert
 
-Here's a list of all domains that blocked legitimate activation emails to their users:
+Hier ist eine Liste aller Domains, die legitime Aktivierungs-E-Mails an ihre Benutzer blockiert haben:
 
  - btinternet.com
  - hotmail.com
@@ -63,15 +63,15 @@ Here's a list of all domains that blocked legitimate activation emails to their 
  - msn.com
  - outlook.com
 
-Apart from that very first entry in the list (on which only 1 message was blocked) all of these are Microsoft domains.
+Abgesehen von diesem ersten Eintrag in der Liste (bei dem nur eine Nachricht blockiert wurde) handelt es sich um Microsoft-Domains.
 
-Let me restate that: Apart from the 1 outlier, every message that was blocked, was blocked by Microsoft.
+Lassen Sie mich das noch einmal klar sagen: Abgesehen von dem 1 Auslöser wurde jede Meldung, die blockiert wurde, von Microsoft blockiert.
 
-## What's the impact?
+## Was sind die Auswirkungen?
 
-So what sort of impact does that have on people?
+Welche Auswirkungen hat das auf die Menschen?
 
-Well, at the time I'm writing this, there are 817 registered users, and about 80% (661) have also activated their account.
+Nun, zu dem Zeitpunkt, zu dem ich dies schreibe, gibt es 817 registrierte Benutzer, und ca. 80% (661) haben auch ihr Konto aktiviert.
 
 ![A disproportionate amount of pending activations is from users with an email address managed by Microsoft](activations.svg)
 
