@@ -4,7 +4,7 @@ title: round
 
 [![Build-time plugin](https://img.shields.io/badge/Type-build--time-purple.svg)](/plugins) &nbsp; [![License: MIT](https://img.shields.io/npm/l/@freesewing/plugin-round.svg?label=License)](https://www.npmjs.com/package/@freesewing/plugin-round) &nbsp; [![Code quality on DeepScan](https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256) &nbsp; [![Open issues tagged pkg:plugin-round](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-round.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-round)
 
-The **round** plugin provides the `round` macro:
+The **round** plugin provides [the round macro](/reference/macros/round/):
 
 <Example part="plugin_round" caption="An example of the round macro" design={false} />
 
@@ -64,29 +64,7 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, round);
 ```
 
-Now you can use the macro in your parts:
-
-```js
-void macro("round", {
-  from: Point,
-  to: Point,
-  via: Point,
-  radius: Point,
-  prefix: string,
-  render: bool,
-});
-```
-The macro takes a single configuration object with the following properties:
-
-| Propriété | Défaut  | Type                          | Description                                                         |
-| --------- | ------- | ----------------------------- | ------------------------------------------------------------------- |
-| `from`    |         | [Point](/reference/api/point) | Le point de départ de l'arrondi                                     |
-| `to`      |         | [Point](/reference/api/point) | Le point final de l'arrondi                                         |
-| `via`     |         | [Point](/reference/api/point) | Le coin à arrondir                                                  |
-| `radius`  | Maximum | Nombre                        | Le rayon en mm si c'est pas le maximum                              |
-| `prefix`  |         | Chaîne de caractères          | Un préfixe à donner aux points et aux chemins créés par cette macro |
-| `render`  | `false` | Booléen                       | Afficher le chemin créé par cette macro                             |
-| `class`   |         | Chaîne de caractères          | Classe(s) à assigner au chemin créé par cette macro                 |
+Now you can use [the round macro](/reference/macros/round/): in your parts.
 
 <Warning>
 
