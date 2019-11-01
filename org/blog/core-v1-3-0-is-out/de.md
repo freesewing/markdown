@@ -13,13 +13,13 @@ Ich werde nicht noch einmal über [all das](/blog/roundup-2017-12/) gehen, aber 
 
 Wenn diese Änderung nicht korrekt berücksichtigt wird, würde dies dazu führen, dass alle FreeSewing-Schnittmuster falsch skaliert werden. Das liegt daran, dass wir 90DPI in unserer SVG-Ausgabe annehmen und dementsprechend skalieren.
 
-![That 'oh-shit' moment when we realized the full impact of the DPI change](oh-shit.gif)
+![Dieser 'oh-shit'-Moment, als wir die vollen Auswirkungen der DPI-Änderung erkannt haben](oh-shit.gif)
 
 Wenn der Wechsel zu 96DPI in Kraft tritt, würden alle Muster um 6,66 % zu klein ausgegeben. Das ist wirklich die Art von Unterschied, der zu klein ist, um ihn beim in Augenschein nehmen eines Schnittmuster zu bemerken, aber dennoch groß genug, um Ihr Kleidungsstück komplett zu verunstalten.
 
 Das Problem ist auch problematischer, als es an der Oberfläche scheint. Erstens, weil wir nicht einfach auf 96DPI umsteigen können, da es jetzt zwei Versionen gibt, die ein anderes Standard-DPI unter der Haube verwenden. Wir brauchen eine Lösung, die für beide funktioniert.
 
-![Screenshot of a freesewing pattern that is incorrectly scaled in the latest Inkscape release](inkscape.png)
+![Screenshot eines Freesewing-Musters, das in der neuesten Inkscape-Version falsch skaliert ist](inkscape.png)
 
 Darüber hinaus würde jede Korrektur, die wir implementieren, für neue Entwürfe gelten, alle existierenden Entwürfe, die vor der Korrektur erstellt wurden, jedoch würden beeinträchtigt werden.
 
@@ -52,7 +52,7 @@ Core liefert jedoch auch reguläre Updates, Optimierungen und Korrekturen in den
 
 Grundsätzlich wäre diese Veränderung immer eine Verbesserung. Aber der Fehler einer Person ist das Feature einer anderen Person, und wir möchten Ihren Käse [nicht verschieben](https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F).
 
-![Don't touch my stuff](who-moved-my-cheese.jpg)
+![Meine Sachen nicht berühren](who-moved-my-cheese.jpg)
 
 Stattdessen haben wir uns entschieden, alle Entwürfe, die wir auf der Datei haben, mit dem neuen Skalierungscode zu patchen ohne einen anderen Aspekt des Entwurfs zu berühren.
 
@@ -64,7 +64,7 @@ Wir haben auch Änderungen an unseren Backend-Systemen vorgenommen, um die Versi
 
 Wenn wir seit der Erstellung Ihres Entwurfs neue Funktionen oder Korrekturen erstellt haben, werden Sie darüber informiert, dass ein Update verfügbar ist:
 
-![If you draft is generated with an old version of freesewing core, we'll tell you about it](upgrade.png)
+![Wenn Sie den Entwurf mit einer alten Version des FreeSewing-Cores generiert haben, werden wir Sie darauf aufmerksam machen](upgrade.png)
 
-Ob Sie Ihren Entwurf aktualisieren oder nicht, liegt bei Ihnen. If you don't want to loose the info in your *old* draft, rather than update it in-place, you can fork it.
+Ob Sie Ihren Entwurf aktualisieren oder nicht, liegt bei Ihnen. Wenn Sie die Informationen in Ihrem *alten* Entwurf nicht verlieren wollen, anstatt sie an Ort zu aktualisieren, können Sie ihn auch forken.
 
