@@ -40,7 +40,7 @@ Apropos vernünftige Vorgaben: Jaeger ist nicht das Einzige, was an Freewing Cor
 
 Wir haben auch das Mass *Rückenbreite * abgeschafft.
 
-Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meistens, wenn jemand mit uns Kontakt aufnahm, weil sein Muster unrealistisch aussah, war eine unmögliches Rückenbreitenmass schuld.
 
 The roots of the across back measurement go back to a time when, instead of the *shoulder to shoulder* measurement we use now, we had the *shoulder length* measurement. That one was also source of some confusion, so we phased it out in favour of the *shoulder to shoulder* measurement.
 
