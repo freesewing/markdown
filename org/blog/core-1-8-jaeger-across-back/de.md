@@ -20,7 +20,7 @@ Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/
 
 Wie sich herausstellt, bedeutet es, wenn ich sage * dass ein bisschen mehr Zeit brauchte* es am Ende 6,5 Monate sind, also verzeihen Sie mir bitte die Verzögerung, aber hier ist es, [das Jaeger-Sakko](/patterns/jaeger).
 
-![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
+![Beachten Sie, dass ich damals in meinem Beitrag über den Blake Blazer gesprochen habe, aber ich habe ihn seitdem umbenannt, weil Jaeger-Sakko einfach cooler ist](jaeger.jpg)
 
 ### Das Jaeger-Sport-Sakko ist keine Alliteration
 
@@ -54,8 +54,8 @@ Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage e
 
 Muster, die früher die *die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.</p>
 
-![The across back factor option](acrossback.png)
+![Der Rückenbreitenfaktor](acrossback.png)
 
-As such, we feel we're preventing mistakes for the casual user, without taking away power from you, the pattern option guru.
+Wir tun dies in der Überzeugung, dass wir Fehler für den gelegentlichen Benutzer vermeiden, ohne Ihnen, den Schnittmuster-Optionsguru, in Ihren Möglichkeiten einzuschränken.
 
-Or to put it differently, you can still muck about with your across back, but by default, you don't have to worry about it anymore.
+Oder anders ausgedrückt, Sie können immer noch mit der Rückenbreite herumalbern, aber standardmäßig müssen Sie sich keine Gedanken mehr darüber machen.
