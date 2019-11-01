@@ -44,7 +44,7 @@ Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meis
 
 Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anstelle des *Schulter-zu-Schulter-*Mass, das wir jetzt verwenden, das *Schulterlänge-*Mass verwendet hatten. Dieses war auch Quelle einiger Verwirrung, also haben wir es zugunsten des *Schulter-zu-Schulter-* Mass eingestellt.
 
-The thing is that if we know the *shoulder to shoulder* measurement, we can guestimate with reasonable accuracy what the *across back* measurement will be. So, instead of asking you for it, we simply assume now.
+Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter*Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass*mit ausreichender Genauigkeit extrapolieren können. So, instead of asking you for it, we simply assume now.
 
 ### But you're dumbing down the pattern
 
