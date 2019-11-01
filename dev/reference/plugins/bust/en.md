@@ -10,7 +10,7 @@ title: bust
 &nbsp;
 [![Open issues tagged pkg:plugin-bust](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-bust.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-bust)
 
-The [@freesewing/plugin-bust](/packages/plugin-bust) packages provides a plugin to help you adapt menswear patterns for breasts.
+The [@freesewing/plugin-bust](/reference/packages/plugin-bust) packages provides a plugin to help you adapt menswear patterns for breasts.
 
 If you are designing a womenswear pattern, you won't need this plugin. But if you're adapting
 a menswear pattern for breasts, this plugin can help you.
@@ -30,11 +30,11 @@ This plugin helps you by:
 This way you can extend a menswear pattern and have it drafted with the high bust measurement
 as chest measurment, after which you can create room for the breasts.
 
-It's used by our [Carlita](/packages/carlita) pattern, which extends the menswear [Carlton](/packages/carlton) pattern.
+It's used by our [Carlita](/reference/packages/carlita) pattern, which extends the menswear [Carlton](/reference/packages/carlton) pattern.
 
 <Tip>
 
-To learn more about extending a pattern, see [Pattern inheritance](/advanced/inheritance)
+To learn more about extending a pattern, see [Pattern inheritance](/howtos/core/inheritance/)
 
 </Tip>
 
@@ -46,8 +46,8 @@ npm install @freesewing/plugin-bust
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";

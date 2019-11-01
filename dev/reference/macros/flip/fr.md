@@ -2,7 +2,8 @@
 title: flip
 ---
 
-The `flip` macro flips (mirrors) an entire part vertically around the Y-axis. It takes no arguments.
+The `flip` macro flips (mirrors) an entire part vertically around the Y-axis.  
+It takes no arguments.
 
 Under the hood, this macro will:
 
@@ -15,6 +16,4 @@ Under the hood, this macro will:
 The `flip` macro is provided by the [flip plugin](/reference/plugins/flip).
 
 </Note>
-
-
 

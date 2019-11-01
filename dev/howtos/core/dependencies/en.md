@@ -32,6 +32,6 @@ but it will only render the `sleeve` part, as that's the only thing the user req
 
 <Note>
 
-For inheriting parts, please refer to [part inheritance](/advanced/inject).
+For inheriting parts, please refer to [part inheritance](/howtos/core/inject/).
 
 </Note>

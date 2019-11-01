@@ -40,7 +40,7 @@ Can you guess what it means?
 <Note>
 
 There are different types of options, but percentages are the most common ones.
-They are all documentation [in the API docs](/api/config#options).
+They are all documentation [in the API docs](/reference/api/config/#options).
 
 </Note>
 

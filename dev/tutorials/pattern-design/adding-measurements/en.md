@@ -24,7 +24,7 @@ measurements: ["headCircumference"],
 
 Make sure to re-use the names of existing measurements, rather than invent your own.
 
-See our [best practices](/do/names#re-use-measurements) on this topic for details.
+See our [best practices](/guides/best-practices/names#re-use-measurements) on this topic for details.
 
 </Tip>
 

@@ -19,9 +19,9 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 
 ## Un peu plus de lecture
 
- - If you haven't done so already, read through [the high-level overview of FreeSewing](/guides/overview/)
- - Bookmark [the FreeSewing API docs](/reference/api/), they are your reference every time you're not entirely certain how something works
- - Have a look at [our best practices](/guides/best-practices/) that will help you make the best possible patterns
+ - Si vous ne l'avez pas encore fait, jetez un oeil aux [ concepts de base de FreeSewing](/guides/overview/)
+ - Mettez en marque page les [docs API de FreeSewing](/reference/api/), elles seront votre référence à chaque fois que vous aurez un doute sur le fonctionnement de quelque chose
+ - Prenez en considération [nos meilleures pratiques](/guides/best-practices/) qui vous aideront à réaliser des patrons optimaux
 
 ## Pour la suite
 

@@ -1,6 +1,5 @@
 ---
 title: Documentation for contributors
-order: 700
 ---
 
 Are you interested in contributing to freesewing? 
@@ -9,7 +8,7 @@ That's awesome, and exactly why this thing is open source in the first place.
 ## Code of conduct
 
 Freesewing strives to be an open and inclusive community.
-To keep the trolls at bay, we have a [code of conduct](/code-of-conduct).  
+To keep the trolls at bay, we have a [code of conduct](/guides/code-of-conduct/).  
 As a contributor, you are expected to uphold it.
 
 ## Where to get help or report a problem
@@ -48,7 +47,7 @@ clarification or more detail, please suggest your improvements.
 Translation is one of the most important aspects to bring FreeSewing to all corners of the world.
 It's also something for which we are completely dependent on the community.
 
-Our [documentation for translators](/translator) will tell you all you need to know to get started.
+Our [documentation for translators](/guides/translator/) will tell you all you need to know to get started.
 
 ### Test, make, or showcase our patterns
 
@@ -61,7 +60,7 @@ We'd love to get pictures to [showcase](https://freesewing.org/showcase) on our 
 
 Desiging more FreeSewing patterns is a great way to help out. 
 
-You can [take the tutorial](/tutorial) and jump right in.
+You can [take the tutorial](/tutorials/pattern-design/) and jump right in.
 Or, join [our chat 
 room on Gitter](https://gitter.im/freesewing/freesewing) to discuss ideas, or find 
 designers or developers to team up with.
@@ -69,7 +68,7 @@ designers or developers to team up with.
 ### Contribute to our code
 
 Interested in submitting a pull request for our code? Awesome. 
-All [our repositories](/repos) are available [on GitHub](https://github.com/freesewing).
+All [our repositories](/reference/repos/) are available [on GitHub](https://github.com/freesewing).
 
 Our [chat room on Gitter](https://gitter.im/freesewing/freesewing) is the best place to discuss ideas or ask questions. 
 

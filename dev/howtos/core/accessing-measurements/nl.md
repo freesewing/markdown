@@ -3,7 +3,7 @@ title: Afmetingen oproepen
 order: 240
 ---
 
-Measusuremnets are stored in `pattern.settings.measurements`, but thanks to the [shorthand](/howtos/core/shorthand/) call, you can simply write:
+Afmetingen worden opgeslagen in `pattern.settings.measurements.`, maar dankzij [shorthand](/howtos/core/shorthand/) kan je gewoon schrijven:
 
 ```js
 let quarterChest = measurements.chestCircumference / 4;

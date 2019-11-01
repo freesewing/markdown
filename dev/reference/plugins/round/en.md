@@ -10,7 +10,7 @@ title: round
 &nbsp;
 [![Open issues tagged pkg:plugin-round](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-round.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-round)
 
-The **round** plugin provides the `round` macro:
+The **round** plugin provides [the round macro](/reference/macros/round/):
 
 <Example part="plugin_round" caption="An example of the round macro" design={false} />
 
@@ -48,7 +48,7 @@ macro("round", {
 
 <Tip>
 
-The round plugin is part of our [plugin-bundle](/plugins/bundle)
+The round plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -60,8 +60,8 @@ npm install @freesewing/plugin-round
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -71,33 +71,11 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, round);
 ```
 
-Now you can use the macro in your parts:
-
-```js
-void macro("round", {
-  from: Point,
-  to: Point,
-  via: Point,
-  radius: Point,
-  prefix: string,
-  render: bool,
-});
-```
-The macro takes a single configuration object with the following properties:
-
-| Property    | Default | Type                | Description | 
-|-------------|---------|---------------------|-------------|
-| `from`      |         | [Point](/api/point) | The startpoint towards the corner to round |
-| `to`        |         | [Point](/api/point) | The endpoint away from the corner to round |
-| `via`       |         | [Point](/api/point) | The corner to round |
-| `radius`    | Maximum | Number              | The radius in mm in not the maximum |
-| `prefix`    |         | String              | A prefix to give to the points and paths created by this macro |
-| `render`    | `false` | Boolean             | Whether to render the path created by this macro |
-| `class`     |         | String              | Class(es) to assign to the path created by this macro |
+Now you can use [the round macro](/reference/macros/round/): in your parts.
 
 <Warning>
 
-The round macro intended for rounding 90° angles
+The round macro is intended for rounding 90° angles
 
 </Warning>
 

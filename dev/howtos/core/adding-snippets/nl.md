@@ -1,9 +1,8 @@
 ---
 title: Snippets toevoegen
-order: 280
 ---
 
-After using the [shorthand](/howtos/core/shorthand/) call, `Snippet` contains the path constructor, while `snippets` is a reference to `part.snippets`, which is where you should store your paths.
+Nadat je de [shorthand](/howtos/core/shorthand/) hebt gebruikt, heeft `Snippet` de constructor voor nieuwe snippets, en is `snippets` een referentie naar `part.snippets`, waar je je nieuwe snippets moet bewaren.
 
 De dingen werken nu *gewoon* als je dit doet:
 
