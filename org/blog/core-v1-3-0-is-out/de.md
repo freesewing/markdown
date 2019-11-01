@@ -1,13 +1,13 @@
 ---
 date: 2018-01-04
-title: "Freesewing core v1.3.0 is out; Comes with fixes so good that we back-ported them to all your drafts"
-linktitle: "Freesewing core v1.3.0 is out"
-img: scales.jpg
-caption: "Scales, how do they work?"
+title: "Freenewing Core v1.3.0 ist verfügbar; Kommt mit Korrekturen, die so gut sind, dass wir sie zu all Ihren Entwürfen zurückportiert haben"
+linktitle: "FreeSewing Core v1.3.0 ist released"
+img: skales.jpg
+caption: "Skalen, wie funktionieren sie?"
 author: joost
 ---
 
-On the last day of 2017, in our [monthly roundup of all the freesewing news](/blog/roundup-2017-12/) , we wrote about the looming issue with incorrectly scaled drafts, aka [Core issue #204 - The Inkscape default units quandary](https://github.com/freesewing/core/issues/204).
+Am letzten Tag des Jahres 2017 haben wir in unserer [monatlichen Zusammenfassung aller FreeSewing-News](/blog/roundup-2017-12/) über die sich abzeichnende Herausforderung mit falsch skalierten Entwürfen, auch bekannt als [Ticket #204 - The Inkscape default units quandary](https://github.com/freesewing/core/issues/204), geschrieben.
 
 I won't go over [all that](/blog/roundup-2017-12/) again, but it boils down to the fact that the [Inkscape](http://inkscape.org/) maintainers have changed Inkscape's internal DPI (dots per inch) from 90 to 96. A change that goes in effect from version 0.92 onwards.
 
