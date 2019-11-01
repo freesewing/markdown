@@ -34,7 +34,7 @@ Jaeger verfügt über 38 Optionen, so dass Sie *viel* an diesem Schnittmuster ä
 
 Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso gut alle diese Einstellungsmöglichkeiten ignorieren können.
 
-## The across back measurement is no more
+## Das Mass Rückenbreite gibt es nicht
 
 Speaking of sensible defaults, Jaeger is not the only new thing in freesewing core 1.8.0, which is out today.
 
