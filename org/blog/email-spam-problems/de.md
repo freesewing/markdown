@@ -75,31 +75,31 @@ Nun, zu dem Zeitpunkt, zu dem ich dies schreibe, gibt es 817 registrierte Benutz
 
 ![A disproportionate amount of pending activations is from users with an email address managed by Microsoft](activations.svg)
 
-From those people who were able to activate their account, less than 1% (6) have an email address managed by Microsoft. In the group of people who did not, or were not able to, activate their account, more than half have such an address.
+Von diesen Personen, die in der Lage waren, ihr Konto zu aktivieren, haben weniger als 1% (6) eine E-Mail-Adresse, die von Microsoft verwaltet wird. In der Gruppe von Personen, die ihr Konto nicht aktiviert haben oder nicht in der Lage waren, ihr Konto zu aktivieren, haben mehr als die Hälfte eine solche Adresse.
 
-More than 40% of account confirmation emails are simply blocked by Microsoft and, based on the number of activations, it seems likely that even when they aren't block at the SMTP relay, they get filtered somewhere further down the line.
+Mehr als 40% der E-Mail-Nachrichten zur Kontobestätigung werden einfach von Microsoft blockiert, und je nach Anzahl der Aktivierungen scheint es wahrscheinlich, dass sie, selbst wenn sie nicht am SMTP-Relay blockiert werden, irgendwo weiter hinten gefiltert werden.
 
-As things stand, it seems almost impossible for the average hotmail/outlook/live/MSN/... user to sign up for this site.
+So wie die Dinge liegen, scheint es fast unmöglich für die durchschnittliche Hotmail/outlook/live/MSN/... Benutzer, um sich für diese Seite zu registrieren.
 
-## What can we do about it?
+## Was können wir dagegen tun?
 
-I chose mailgun for a number of reasons. Not having to handle SMTP outselves simplifies the code. Not depending on a local SMTP deamon makes the code more portable, and MailGun has a bunch of cool features that allow you to do things like replying to comments via email.
+Ich habe mailgun aus einer Reihe von Gründen gewählt. Das Fehlen von SMTP-Outselves vereinfacht den Code. Nicht abhängig von einem lokalen SMTP-Deamon zu sein macht den Code portabler, und MailGun hat eine Reihe cooler Funktionen, die es einem erlauben auf Kommentare per E-Mail zu antworten.
 
-Microsoft's crude methods of spam filtering don't invalidate any of those reasons.
+Microsofts grobe Methoden der Spam-Filterung entkräften keinen dieser Gründe.
 
-Using MailGun means using their SMTP relays, and being at the mercy of the reputation of that relay. The only way around that is to configure a dedicated relay in MailGun so that freesewing.org traffic is shielded from others, and we become masters of our own reputation.
+MailGun zu benutzen bedeutet, ihre SMTP-Relais zu benutzen und dem Reputation dieses Relais ausgeliefert zu sein. Der einzige Weg, das zu umgehen, ist, ein dediziertes Relais in MailGun so zu konfigurieren, dass der FreeSewing.org-Traffic abgeschirmt ist vom Rest, und wir die Kontrolle über die Reputation unseres Smtp-Relais haben.
 
 ![$59 per month? Perhaps not](pricing.png)
 
-For that priviledge, MailGun charges 59 dollar per month, which amounts to 708 dollar yearly. I invite you to take a look at [the donations history](/about/pledge#donations-history), and you'll understand that's not going to happen either.
+Für dieses Privileg berechnet MailGun 59 Dollar pro Monat, was sich auf 708 Dollar jährlich beläuft. Wenn Sie einen Blick in die [Spendenhistory](/about/pledge#donations-history) werfen, werden Sie feststellen, dass dies nicht drin liegt.
 
-I could challenge the block list, and try to get the relay unblocked. But that's pretty much tilting at windmills when the host is not under my control. Not to mention that MailGun doesn't just have that one host.
+Ich könnte die Blockliste herausfordern und versuchen, das Relais entsperrt zu bekommen. Aber das ist so ziemlicher Kampf gegen Windmühlen, wenn der Host nicht unter meiner Kontrolle ist. Ganz zu schweigen davon, dass MailGun nicht nur diesen einen Host hat.
 
-It seems that I'm running low on options and quiet frankly, I'm also running out of patience.
+Es scheint, dass ich kaum Optionen mehr habe, und ganz ehrlich, mir reisst auch der Geduldsfaden.
 
-## What I'm going to do about it
+## Was ich dagegen tun werde
 
-Microsoft is a behemoth, and I'm just a guy. I can't fight them on this. Unless I Titanfall their ass.
+Microsoft ist ein Moloch, und ich bin nur ein Kerl. Ich kann sie hier nicht bekämpfen. Unless I Titanfall their ass.
 
 ![Block this, bitch](titanfall.gif)
 
