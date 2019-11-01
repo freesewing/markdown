@@ -23,27 +23,27 @@ Das Problem ist auch problematischer, als es an der Oberfläche scheint. Erstens
 
 Darüber hinaus würde jede Korrektur, die wir implementieren, für neue Entwürfe gelten, alle existierenden Entwürfe, die vor der Korrektur erstellt wurden, jedoch würden beeinträchtigt werden.
 
-In other words, if you drafted a pattern last week, or a month ago, that pattern would not scale correctly in a recent version of Inkscape. And since we use Inkscape in our SVG-to-PDF tool-chain, it would also be incorrectly scaled if you came here and downloaded a PDF.
+Mit anderen Worten, wenn Sie letzte Woche oder vor einem Monat ein Schnittmuster erstellt haben, würde dieses Muster in einer aktuellen Version von Inkscape nicht korrekt skaliert werden. Und da wir Inkscape in unserer SVG-zu-PDF-Toolkette verwenden, würde es auch falsch skaliert sein, wenn Sie hierher kommen und ein PDF herunterladen.
 
-Clearly, something needed to be done. And fast.
+Natürlich musste etwas getan werden. Und zwar schnell.
 
-## The fix for new drafts
+## Die Korrektur für neue Entwürfe
 
-From today's release of core v1.3.0 onwards, our SVG files no longer depend on any DPI setting.
+Seit der heutigen Veröffentlichung von Core v1.3.0 sind unsere SVG-Dateien nicht mehr von einer DPI-Einstellung abhängig.
 
-Rather than use the internal units and apply an SVG transform to scale the entire pattern, we've bolted down the units to mm and updated the SVG viewBox to apply the scaling.
+Anstatt die internen Einheiten zu verwenden und eine SVG-Transformation anzuwenden, um das gesamte Muster zu skalieren, haben wir die Einheiten auf mm fixiert und die SVG viewBox aktualisiert, um die Skalierung anzuwenden.
 
-Obviously, this is how we should have done it from the start. Everyday is a school day.
+Natürlich hätten wir das von Anfang an tun sollen. Man hat nie ausgelernt.
 
-If you're worried about the use of mm in your draft (because you're used to imperial units), rest assured that those mm will stay under the hood. You won't be able to tell the difference.
+Wenn Sie sich Sorgen über die Verwendung von mm in Ihrem Entwurf machen (weil Sie an imperiale Einheiten gewöhnt sind), seien Sie versichert, dass diese mm unter der Haube bleiben werden. Sie werden nicht in der Lage sein, den Unterschied festzustellen.
 
-## The fix for pre-existing drafts
+## Die Korrektur für bereits vorhandene Entwürfe
 
-To avoid problems with pre-existing drafts, we needed to come up with a solution for those too.
+Um Probleme mit bereits bestehenden Entwürfen zu vermeiden, mussten wir auch dafür eine Lösung finden.
 
-We essentially have two options:
+Wir haben im Wesentlichen zwei Möglichkeiten:
 
- - Re-draft all those drafts
+ - Alle Entwürfe neu erstellen
  - Patch them in-place without changing the draft itself
 
 Re-drafting fixes the issue as every new draft will be handled by the latest core version that does include the fix.
