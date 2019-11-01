@@ -36,13 +36,13 @@ Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso g
 
 ## Das Mass Rückenbreite gibt es nicht
 
-Speaking of sensible defaults, Jaeger is not the only new thing in freesewing core 1.8.0, which is out today.
+Apropos vernünftige Vorgaben: Jaeger ist nicht das Einzige, was an Freewing Core 1.8.0, das heute erhältlich ist, neu ist.
 
-We've also gotten rid of the *across back* measurement.
+Wir haben auch das Mass *Rückenbreite * abgeschafft.
 
-The across back measurement was cause of a great deal of confusion among our users. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meistens, wenn jemand mit uns Kontakt aufnahm, weil sein Muster unrealistisch aussah, war eine unmögliches Rückenbreitenmass schuld.
 
-The roots of the across back measurement go back to a time when, instead of the *shoulder to shoulder* measurement we use now, we had the *shoulder length* measurement. That one was also source of some confusion, so we phased it out in favour of the *shoulder to shoulder* measurement.
+Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anstelle des *Schulter-zu-Schulter-*Mass, das wir jetzt verwenden, das *Schulterlänge-*Mass verwendet hatten. Dieses war auch Quelle einiger Verwirrung, also haben wir es zugunsten des *Schulter-zu-Schulter-* Mass eingestellt.
 
 The thing is that if we know the *shoulder to shoulder* measurement, we can guestimate with reasonable accuracy what the *across back* measurement will be. So, instead of asking you for it, we simply assume now.
 
