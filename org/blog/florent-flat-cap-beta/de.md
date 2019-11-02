@@ -1,9 +1,9 @@
 ---
 date: 2017-12-06
-title: "The Florent Flat Cap pattern is now available in beta. That's another gift sorted."
-linktitle: "The Florent Flat Cap is now available in beta"
+title: "Das Schnittmuster der Schiebermütze Florent ist jetzt in der Beta-Version erhältlich. Da ist ein weiteres Geschenk erschienen."
+linktitle: "Die Schiebermütze Florent ist jetzt in der Beta-Version erhältlich"
 img: quentin.jpg
-caption: "Quentin surrounded by our future robot overlords."
+caption: "Quentin umgeben von unseren zukünftigen Roboter-Overlords."
 author: joost
 ---
 
