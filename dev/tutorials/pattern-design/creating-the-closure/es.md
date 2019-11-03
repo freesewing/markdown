@@ -1,6 +1,5 @@
 ---
-title: Creating the closure
-order: 210
+title: 210|Creating the closure
 ---
 
 Things are starting to look good, but we can't fit the bib over the baby's head like this. So we must create a closure. We'll let the straps overlap at the end, and put in a snap.
@@ -49,12 +48,7 @@ macro("round", {
   render: true
 });
 ```
-
-<Warning>
-
-FIXME: Add link to macro/extend docs
-
-</Warning>
+<Fixme> Add link to macro/extend docs </Fixme>
 
 <Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 

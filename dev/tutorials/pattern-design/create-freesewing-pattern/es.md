@@ -1,19 +1,12 @@
 ---
-title: Setting up the development environment
-order: 100
+title: 100|Setting up the development environment
 ---
 
 Open a terminal and enter the following command:
 
 ```bash
-npm init freesewing-pattern@beta
+npm init freesewing-pattern
 ```
-
-<Note>
-
-The `@beta` suffix is needed while FreeSewing 2.0 is still in beta.
-
-</Note>
 
 This will load a few dependencies, and then ask you the following questions:
 

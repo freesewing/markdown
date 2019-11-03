@@ -1,6 +1,5 @@
 ---
-title: Opties toevoegen
-order: 140
+title: 140|Adding options
 ---
 
 You know what your bib should look like, and you have the *headCircumference* measurement to work with. Maar je moet nog een aantal keuzes maken:
@@ -38,7 +37,7 @@ De betekenis hiervan kan je wel raden:
 <Note>
 
 Er zijn verschillende types van opties, maar percentages zijn de meest voorkomende.
-They are all documentation [in the API docs](/api/config#options).
+They are all documentation [in the API docs](/reference/api/config/#options).
 
 </Note>
 

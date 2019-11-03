@@ -17,8 +17,4 @@ use the *ant-man* test by sampling the pattern for 2 models:
 A well-designed pattern will scale a factor 10 down and hold its shape.
 If your pattern makes assumptions about size, this test will show that.
 
-<Warning>
-
-FIXME: Add instructions on how to test this
-
-</Warning>
+<Fixme> Add instructions on how to test this </Fixme>

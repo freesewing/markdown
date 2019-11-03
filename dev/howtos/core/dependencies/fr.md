@@ -26,7 +26,7 @@ mais elle va seulement rendre visuellement la partie `manche`, puisque c'est la 
 
 <Note>
 
-For inheriting parts, please refer to [part inheritance](/advanced/inject).
+For inheriting parts, please refer to [part inheritance](/howtos/core/inject/).
 
 </Note>
 

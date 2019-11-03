@@ -53,11 +53,7 @@ macro("round", {
 });
 ```
 
-<Warning>
-
-FIXME: Add link to macro/extend docs
-
-</Warning>
+<Fixme> Add link to macro/extend docs </Fixme>
 
 <Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 

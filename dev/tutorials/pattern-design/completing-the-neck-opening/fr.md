@@ -1,6 +1,5 @@
 ---
-title: Compléter l'encolure
-order: 180
+title: 180|Completing the neck opening
 ---
 
 Comme l'encolure est symétrique, il n'est pas nécessaire de recalculer les points de l'autre côté. Vous pouvez tout simplement les retourner, pour ainsi dire. Et c'est exactement ce que vous allez faire :
@@ -23,7 +22,7 @@ points.topCp2 = points.bottomCp1.flipY();
 <Note>
 
 We're using the `Point.flipX()` and `Point.flipY()` methods here.
-Peut-être pouvez-vous deviner à quoi elles servent ? If not, check [the API documentation](/api/point).
+Peut-être pouvez-vous deviner à quoi elles servent ? If not, check [the API documentation](/reference/api/point/).
 
 </Note>
 

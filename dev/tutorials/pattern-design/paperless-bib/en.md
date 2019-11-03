@@ -39,11 +39,7 @@ Thankfully, there's macros that can help you with that, specifically:
  - The `ld` macro adds a linear dimension
  - The `pd` macro adds a path dimension that follows a given path
 
-<Warning>
-
-FIXME: Add links to macro docs
-
-</Warning>
+<Fixme> Add links to macro docs </Fixme>
 
 Let's look at the code:
 

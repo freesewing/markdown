@@ -1,6 +1,5 @@
 ---
-title: Mettre en forme les attaches
-order: 200
+title: 200|Shaping the straps
 ---
 
 Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. Il nous faut juste nous assurer que les points de contrôle de nos courbes aient des proportions similaires. Ce qui signifie, à la moitié entre le début de la courbe et le coin de notre rectangle.
@@ -9,7 +8,7 @@ Nos attaches devraient suivre l'encolure, ce qui n'est pas difficile à faire. I
 
 For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
 used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
-As always, [the API docs](/api/point) have all the details.
+As always, [the API docs](/reference/api/point/) have all the details.
 
 </Note>
 

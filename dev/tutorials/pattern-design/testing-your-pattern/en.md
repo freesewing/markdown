@@ -24,7 +24,7 @@ development environment, and you'll see a number of choices at the right:
  - Test measurements
  - Test models
 
-The [API docs on sampling](/api/pattern#sample) have all the details on how this works, but
+The [API docs on sampling](/reference/api/pattern/#sample) have all the details on how this works, but
 for now we'll just look at the end result of each of these.
 
 ## Testing pattern options

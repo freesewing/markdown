@@ -2,7 +2,7 @@
 title: Part inheritance
 ---
 
-Part inheritance within your own pattern is handled via the `inject` settings in the [pattern configuration](/config). Here is a simple example:
+Part inheritance within your own pattern is handled via the `inject` settings in the [pattern configuration](/reference/config/). Here is a simple example:
 
 ```js
 inject: {
@@ -20,7 +20,7 @@ Using `inject` will cause FreeSewing to always draft the injected part prior to 
 
 <Note>
 
-For inheriting parts from other patterns, please refer to [pattern inheritance](/advanced/inheritance).
+For inheriting parts from other patterns, please refer to [pattern inheritance](/howtos/core/inheritance/).
 
 </Note>
 

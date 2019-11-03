@@ -11,11 +11,4 @@ To check how well your pattern scales, you can use the *ant-man* test by samplin
  - A model with measurements of avarage person (the man)
  - A model with measurements 1/10th of an average person (the ant)
 
-A well-designed pattern will scale a factor 10 down and hold its shape. If your pattern makes assumptions about size, this test will show that.
-
-<Warning>
-
-FIXME: Add instructions on how to test this
-
-</Warning>
-
+A well-designed pattern will scale a factor 10 down and hold its shape. If your pattern makes assumptions about size, this test will show that.<Fixme> Add instructions on how to test this </Fixme>

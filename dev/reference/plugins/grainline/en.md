@@ -10,7 +10,7 @@ title: grainline
 &nbsp;
 [![Open issues tagged pkg:plugin-grainline](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-grainline.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-grainline)
 
-The **grainline** plugin provides the `grainline` macro:
+The **grainline** plugin provides [the grainline macro](/reference/macros/grainline/):
 
 <Example part="plugin_grainline" caption="An example of the grainline macro" design={false} />
 
@@ -28,7 +28,7 @@ macro("grainline", {
 
 <Tip>
 
-The grainline plugin is part of our [plugin-bundle](/plugins/bundle)
+The grainline plugin is part of our [plugin-bundle](/reference/plugins/bundle)
 
 </Tip>
 
@@ -40,8 +40,8 @@ npm install @freesewing/plugin-grainline
 
 ## Usage
 
-Like all [build-time plugins](/plugins#build-time-plugins), you load them 
-by passing them to the [`freesewing.Design`](/api#design) constructor:
+Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load them 
+by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
 import freesewing from "@freesewing/core";
@@ -51,17 +51,4 @@ import config from "../config";
 const Pattern = new freesewing.Design(config, grainline);
 ```
 
-Now you can use the macro in your parts:
-
-```js
-void macro("grainline", {
-  from: Point,
-  to: Point
-});
-```
-The macro takes a single configuration object with the following properties:
-
-| Property    | Default | Type                | Description | 
-|-------------|---------|---------------------|-------------|
-| `from`      |         | [Point](/api/point) | The startpoint of the *grainline* indicator |
-| `to`        |         | [Point](/api/point) | The endpoint of the *grainline* indicator |
+Now you can use [the grainline macro](/reference/macros/grainline) in your parts.

@@ -1,6 +1,5 @@
 ---
-title: De sluiting ontwerpen
-order: 210
+title: 210|Creating the closure
 ---
 
 Het begint er goed uit te zien, maar op deze manier krijgen we het slabbetje niet over baby's hoofdje. We hebben een sluiting nodig. We gaan de bandjes aan het uiteinde laten overlappen en er een drukknoop op zetten.
@@ -49,12 +48,7 @@ macro("round", {
   render: true
 });
 ```
-
-<Warning>
-
-FIXME: link toevoegen naar macro/extend docs
-
-</Warning>
+<Fixme> Add link to macro/extend docs </Fixme>
 
 <Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 

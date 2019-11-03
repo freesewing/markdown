@@ -4,7 +4,7 @@ title: Eigenschaften
 
 Attributes ist ein Objekt das Attribute für eine Vielzahl von anderen Objekten enthält.
 
-Attributes are attached to [`Point`](/api/point), [`Path`](/api/path), and [`Snippet`](/api/snippet) objects, as well as the internal [`Svg`](/api/svg) object.
+Attributes are attached to [`Point`](/reference/api/point), [`Path`](/reference/api/path), and [`Snippet`](/reference/api/snippet) objects, as well as the internal [`Svg`](/reference/api/svg) object.
 
 All of these have an instantiated Attributes object in their `attributes` property.
 

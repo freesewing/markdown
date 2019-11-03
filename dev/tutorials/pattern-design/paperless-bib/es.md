@@ -1,6 +1,5 @@
 ---
-title: Making your pattern paperless
-order: 270
+title: 270|Making your pattern paperless
 ---
 
 Users can request paperless patterns by setting the `paperless` setting to `true`.
@@ -32,13 +31,7 @@ While the grid gets added automatically, the dimensions you have to add yourself
  - The `hd` macro adds a horizontal dimension
  - The `vd` macro adds a vertical dimension
  - The `ld` macro adds a linear dimension
- - The `pd` macro adds a path dimension that follows a given path
-
-<Warning>
-
-FIXME: Add links to macro docs
-
-</Warning>
+ - The `pd` macro adds a path dimension that follows a given path<Fixme> Add links to macro docs </Fixme>
 
 Let's look at the code:
 

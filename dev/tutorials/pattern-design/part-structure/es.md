@@ -1,6 +1,5 @@
 ---
-title: Structure of a part
-order: 150
+title: 150|Structure of a part
 ---
 
 Let's get rid of the example box first. Open `src/bib.js` and make sure it looks like this:
@@ -69,7 +68,7 @@ The example above makes the following variables available:
 <Note>
 
 This will all become clear, but if you're curious, the API docs have all the details 
-on [the Part.shorthand() method](/api/part#shorthand)
+on [the Part.shorthand() method](/reference/api/part/#shorthand)
 
 </Note>
 

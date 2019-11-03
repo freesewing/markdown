@@ -3,7 +3,9 @@ title: Adding snippets
 order: 280
 ---
 
-After using the [shorthand](/concepts/shorthand) call, `Snippet` contains the path constructor, while `snippets` is a reference to `part.snippets`, which is where you should store your paths.
+After using the [shorthand](/howtos/core/shorthand/) call, 
+`Snippet` contains the path constructor, while `snippets` is a reference to `part.snippets`,
+which is where you should store your paths.
 
 Things will now *just work* when you do this:
 
@@ -18,7 +20,7 @@ You can scale and rotate a snippet by setting the `data-scale` and `data-rotate`
 
 <Tip>
 
-See [Using attributes](/concepts/attributes) for details on how to set attributes.
+See [Using attributes](/howtos/core/attributes/) for details on how to set attributes.
 
 </Tip>
 

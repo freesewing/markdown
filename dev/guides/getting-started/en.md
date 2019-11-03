@@ -48,6 +48,6 @@ That's it. You got started. Here are some links to continue reading:
 
  - [Pattern design tutorial](/tutorials/pattern-design/): A step-by-step guide to designing your first pattern
  - [Core API reference](/reference/api/): Documentation for the FreeSewing core API
- - [Core concepts](/guides/concepts/): A list of basic concepts explained
+ - [High-level overview](/guides/overview/): A list of basic concepts explained
  - [Plugins](/reference/plugins/): A list of all the plugins that you can use in your pattern
- - [Get help](/help): Where to turn to with your questions
+ - [Get help](https://freesewing.org/docs/about/contact/): Where to turn to with your questions

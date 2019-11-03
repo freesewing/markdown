@@ -72,7 +72,7 @@ The example above makes the following variables available:
 <Note>
 
 This will all become clear, but if you're curious, the API docs have all the details 
-on [the Part.shorthand() method](/api/part#shorthand)
+on [the Part.shorthand() method](/reference/api/part/#shorthand)
 
 </Note>
 

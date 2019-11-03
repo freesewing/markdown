@@ -1,21 +1,21 @@
 ---
 date: 2017-12-06
-title: "The Florent Flat Cap pattern is now available in beta. That's another gift sorted."
-linktitle: "The Florent Flat Cap is now available in beta"
+title: "Das Schnittmuster der Schiebermütze Florent ist jetzt in der Beta-Version erhältlich. Da ist ein weiteres Geschenk erschienen."
+linktitle: "Die Schiebermütze Florent ist jetzt in der Beta-Version erhältlich"
 img: quentin.jpg
-caption: "Quentin surrounded by our future robot overlords."
+caption: "Quentin umgeben von unseren zukünftigen Roboter-Overlords."
 author: joost
 ---
 
-After last month's release of [Benjamin](/patterns/benjamin), here's another pattern release to channel the dapper gentleman within: the [Florent Flat Cap](/patterns/florent).
+Nach der Veröffentlichung von [Benjamin](/patterns/benjamin) im letzten Monat, gibt es hier eine weitere Schnittmuster-Freigabe, um den schlanken Gentleman zu kanalisieren: die [Florent Flat Cap](/patterns/florent).
 
-Like Benjamin, this pattern was contributed by the freesewing community, rather than yours truly. In this case, it was [Quentin Felix](/users/ptzcb) who signed for the design.
+Wie Benjamin wurde auch dieses Muster von der FreeSewing-Community und nicht von mir selbst erstellt. In diesem Fall war es [Quentin Felix](/users/ptzcb) der für das Design verantwortlich zeichnet.
 
-I asked Quentin if he wanted to write this announcement blog post himself, but he argued that it was time I did something too. He did have this to share though, on his reasons for designing this pattern in the first place:
+Ich fragte Quentin, ob er diesen Ankündigungsblogpost selbst schreiben wollte, aber er argumentierte, dass es an der Zeit sei, dass ich auch was tue. Es hat jedoch hier den Platz, aus welchen Gründen er das Schnittmuster überhaupt entworfen hat:
 
-> ##### Quentin on his reasons for designing Florent
+> ##### Quentin zu seinen Gründen, warum er Florent entworfen hat
 > 
-> I like wearing flat caps myself. I didn't use to, but I have a friend Florent who inspired me to wear them (now you know where the name comes from).
+> Ich trage gerne selbst Schiebermützen. I didn't use to, but I have a friend Florent who inspired me to wear them (now you know where the name comes from).
 > 
 > The first time I made a flat cap, it took me ages to scale the pattern to an exact fit, involving a lot of messing about with tracing paper. There's a number of patterns available online for flat caps. But they all come in one size only. 
 > 

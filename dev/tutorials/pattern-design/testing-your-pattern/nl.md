@@ -1,6 +1,5 @@
 ---
-title: Je patroon uittesten
-order: 250
+title: 250|Testing your pattern
 ---
 
 Nu de basisschets van je patroon klaar is, is dit een goed moment om te testen of het zich vlot aanpast aan andere afmetingen en de reeks opties die we hebben voorzien.
@@ -20,7 +19,7 @@ Als het klinkt als een hoop werk om je patroon te testen, dan heb je geluk. Free
  - Test afmetingen
  - Test modellen
 
-In de [API-documenten over *sampling*](/api/pattern#sample) staan alle details over hoe dit werkt, maar voorlopig gaan we gewoon het eindresultaat van elk van deze keuzes bekijken.
+The [API docs on sampling](/reference/api/pattern/#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
 
 ## Patroonopties testen
 
@@ -65,7 +64,18 @@ Testing a measurement will vary that measurement 10% up or down while leaving ev
 
 For our bib, we only use one measurement, so it influences the entire pattern:
 
-<Example caption="Your bib with the head circumference measurement sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "measurement", measurement: "headCircumference" } }} />
+<Example 
+  caption="Your bib with the head circumference measurement sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "measurement", 
+      measurement: "headCircumference" 
+    } 
+  }} 
+/>
 
 ## Testing models
 

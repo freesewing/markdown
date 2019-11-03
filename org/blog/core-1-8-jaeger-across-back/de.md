@@ -1,61 +1,61 @@
 ---
 date: 2018-03-21
-title: "Freesewing core 1.8: Jaeger Jacket is in, across back measurement is out"
-linktitle: "Core 1.8: Jaeger and no more across back"
+title: "FreeSewing Core 1.8: Jeager-Sakko ist drin, die Rückenbreite ist raus"
+linktitle: "Core 1.8: Jaeger in, Rückenbreite out"
 img: bangkok.jpg
-caption: "This release brought to you from Bangkok"
+caption: "Diese Version übermitteln wir Ihnen aus Bangkok"
 author: joost
 ---
 
-We've just pushed the *release* button on core 1.8.0. That bump in minor number is typically because we have a new pattern, but in this case, there's two reasons:
+Wir haben gerade den *Release* Button auf Core 1.8.0 gedrückt. Diesmal ist es eher ein kleineres Update, weil wir ein neues Schnittmuster haben, aber in diesem Fall gibt es zwei Gründe:
 
- - The [Jaeger Jacket](/patterns/jaeger) is now available
- - We've gotten rid of the *across back* measurement
+ - Das[Jaeger-Sakko](/patterns/jaeger) ist jetzt verfügbar
+ - Und wir haben uns von der *Rückenbreite* verabschiedet
 
-Read on for the details.
+Lesen Sie weiter für die Details.
 
-## Announcing the Jaeger Jacket
+## Ankündigung des Jäger-Sakko
 
-For [my refasioners entry last year](/blog/the-refashioners-2017/) I designed a jacket pattern that I intially wanted to release alongside my make. It didn't work out that way, and I asked for a bit more time to get the pattern out the door.
+Für [meine Refasioner Einreichung im letzten Jahr](/blog/the-refashioners-2017/) habe ich ein Sakko-Muster entworfen, das ich ich eigentlich parallel zur Produktion des Sakkos publizieren wollt. Es lief jedoch nicht nach Plan, deshalb habe ich mir für die Publikation etwas mehr Zeit genommen.
 
-Turns out that when I say *a bit more time* it means 6 and a half months, so please forgive me for the delay, but here it is, [the Jaeger Jacket](/patterns/jaeger).
+Wie sich herausstellt, bedeutet es, wenn ich sage * dass ein bisschen mehr Zeit brauchte* es am Ende 6,5 Monate sind, also verzeihen Sie mir bitte die Verzögerung, aber hier ist es, [das Jaeger-Sakko](/patterns/jaeger).
 
-![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
+![Beachten Sie, dass ich damals in meinem Beitrag über den Blake Blazer gesprochen habe, aber ich habe ihn seitdem umbenannt, weil Jaeger-Sakko einfach cooler ist](jaeger.jpg)
 
-### Jaeger Sport Coat is not an alliteration
+### Das Jaeger-Sport-Sakko ist keine Alliteration
 
-Jaeger is a sport coat style of jacket. As in, a single-breasted jacket with a 2-button closure, and patch pockets.
+Jaeger ist ein Sakko im sportlichen Look. In der Form eines einreihigen Sakko mit zwei Knöpfen und aufgesetzten Taschen.
 
-In other words, this is a garment that's typically worn on jeans or other trousers, and not as part of a suit.
+Mit anderen Worten, es ist ein Kleidungsstück, das üblicherweise auf Jeans oder anderen Hosen getragen wird und nicht als Teil eines Anzuges.
 
-### Options galore
+### Optionen in Hülle und Fülle
 
-Jaeger comes with 38 options, so you can change *a lot* about this pattern.
+Jaeger verfügt über 38 Optionen, so dass Sie *viel* an diesem Schnittmuster ändern können.
 
-No need to worry though, it also comes with sensible defaults, so you can just as well ignore all those choices.
+Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso gut alle diese Einstellungsmöglichkeiten ignorieren können.
 
-## The across back measurement is no more
+## Das Mass Rückenbreite gibt es nicht
 
-Speaking of sensible defaults, Jaeger is not the only new thing in freesewing core 1.8.0, which is out today.
+Apropos vernünftige Vorgaben: Jaeger ist nicht das Einzige, was an Freewing Core 1.8.0, das heute erhältlich ist, neu ist.
 
-We've also gotten rid of the *across back* measurement.
+Wir haben auch das Mass *Rückenbreite * abgeschafft.
 
-The across back measurement was cause of a great deal of confusion among our users. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meistens, wenn jemand mit uns Kontakt aufnahm, weil sein Muster unrealistisch aussah, war eine unmögliches Rückenbreitenmass schuld.
 
-The roots of the across back measurement go back to a time when, instead of the *shoulder to shoulder* measurement we use now, we had the *shoulder length* measurement. That one was also source of some confusion, so we phased it out in favour of the *shoulder to shoulder* measurement.
+Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anstelle des *Schulter-zu-Schulter-*Mass, das wir jetzt verwenden, das *Schulterlänge-*Mass verwendet hatten. Dieses war auch Quelle einiger Verwirrung, also haben wir es zugunsten des *Schulter-zu-Schulter-* Mass eingestellt.
 
-The thing is that if we know the *shoulder to shoulder* measurement, we can guestimate with reasonable accuracy what the *across back* measurement will be. So, instead of asking you for it, we simply assume now.
+Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter*Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass*mit ausreichender Genauigkeit extrapolieren können. Also, anstatt Sie im die Angabe zu bitten, errechnen wir diese jetzt einfach.
 
-### But you're dumbing down the pattern
+### Aber Sie vereinfachen das Muster zu sehr
 
-In case the *this pattern comes with 38 options* bit above wasn't enough of a giveaway, we're pretty committed here at freesewing to give you all the knobs to tweak your drafts.
+Dies ist nicht der Fall *dieses Schnittmuster kommt mit 38 Optionen*. Als ob dies nicht schon genug Einstellungsmöglichkeiten wären, setzen wir hier bei FreeSewing alles daran Ihnen möglich alle Regler zur Optimierung des Schnittes an die an die Hand zu geben.
 
-Replacing a measurement with a value calculated based on another measurement may seem to go against that, but there's no need to worry. We've made sure you can still muck about with your across back.
+Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. Wir haben dafür gesorgt, dass Sie sich immer noch und die Passform am Rücken kümmern können.
 
-Patterns that used to require the *across back* measurement now have a new advanced option: the *across back factor*. It allows you to tweak how we calculate your across back measurement, but does make sure to keep it within boundaries that are sensible.
+Muster, die früher die *die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.</p>
 
-![The across back factor option](acrossback.png)
+![Der Rückenbreitenfaktor](acrossback.png)
 
-As such, we feel we're preventing mistakes for the casual user, without taking away power from you, the pattern option guru.
+Wir tun dies in der Überzeugung, dass wir Fehler für den gelegentlichen Benutzer vermeiden, ohne Ihnen, den Schnittmuster-Optionsguru, in Ihren Möglichkeiten einzuschränken.
 
-Or to put it differently, you can still muck about with your across back, but by default, you don't have to worry about it anymore.
+Oder anders ausgedrückt, Sie können immer noch mit der Rückenbreite herumalbern, aber standardmäßig müssen Sie sich keine Gedanken mehr darüber machen.

@@ -1,6 +1,5 @@
 ---
-title: Shaping the straps
-order: 200
+title: 200|Shaping the straps
 ---
 
 Our straps should follow the neck opening, which isn't that hard to do. We just need to keep the control points of our curves at similar proportions. Which means, halfway between the start of the curve, and the corner of our rectangle.
@@ -9,7 +8,7 @@ Our straps should follow the neck opening, which isn't that hard to do. We just 
 
 For this, you'll be using a new method: `Point.shiftFractionTowards()`. We've already
 used `Point.shift()` and there's also `Point.shiftTowards()` and `Point.shiftOutwards()`.
-As always, [the API docs](/api/point) have all the details.
+As always, [the API docs](/reference/api/point/) have all the details.
 
 </Note>
 

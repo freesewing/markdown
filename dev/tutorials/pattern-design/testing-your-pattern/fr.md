@@ -1,6 +1,5 @@
 ---
-title: Tester votre patron
-order: 250
+title: 250|Testing your pattern
 ---
 
 Avec le contour de base de votre patron prêt, il est maintenant temps de le tester pour voir à quel point il s'adapte bien à différentes mesures, et à l'étendue des options que nous avons fournie.
@@ -21,7 +20,7 @@ Si le fait de tester votre patron vous semble une masse de travail conséquente,
  - Tester les mesures
  - Tester les modèles
 
-Les [docs API sur l'échantillonnage](/api/pattern#sample) contiennent tous les détails de fonctionnement, mais pour le moment jetons juste un œil sur le résultat final de chacun de ces choix.
+The [API docs on sampling](/reference/api/pattern/#sample) have all the details on how this works, but for now we'll just look at the end result of each of these.
 
 ## Tester les options du patron
 
@@ -66,7 +65,18 @@ Tester une mesure va faire varier cette mesure de 10% de plus ou de moins tout e
 
 Pour notre bavoir, nous employons uniquement une mesure, alors elle influence le patron en entier :
 
-<Example caption="Your bib with the head circumference measurement sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "measurement", measurement: "headCircumference" } }} />
+<Example 
+  caption="Your bib with the head circumference measurement sampled" 
+  sample 
+  part="bib" 
+  pattern="tutorial" 
+  settings={{ 
+    sample: { 
+      type: "measurement", 
+      measurement: "headCircumference" 
+    } 
+  }} 
+/>
 
 ## Tester les modèles
 

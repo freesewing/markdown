@@ -1,5 +1,5 @@
 ---
-title: 130|Afmetingen toevoegen
+title: 130|Adding measurements
 ---
 
 FreeSewing is all about *made-to-measure* sewing patterns; We are going to draft our pattern according to the measurements provided to us.
@@ -22,7 +22,7 @@ measurements: ["headCircumference"],
 
 Let erop dat je de namen van bestaande afmetingen gebruikt in plaats van er zelf nieuwe te verzinnen.
 
-See our [best practices](/do/names#re-use-measurements) on this topic for details.
+See our [best practices](/guides/best-practices/names#re-use-measurements) on this topic for details.
 
 </Tip>
 
