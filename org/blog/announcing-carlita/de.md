@@ -1,5 +1,5 @@
 ---
-date: 26.01.2018
+date: 2018-01-26
 title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
