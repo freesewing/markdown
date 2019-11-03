@@ -1,4 +1,1 @@
----
-title: Cutting
----
-
+FIXME: Add cutting instructions
