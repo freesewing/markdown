@@ -1,4 +1,2 @@
----
-title: Fabric options
----
+FIXME: Add fabric guidelines
 

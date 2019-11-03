@@ -1,4 +1,2 @@
----
-title: Stofkeuze
----
+FIXME: Add fabric guidelines
 
