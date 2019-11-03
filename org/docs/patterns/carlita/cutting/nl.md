@@ -1,4 +1,1 @@
----
-title: Knippen
----
-
+FIXME: Add cutting instructions
