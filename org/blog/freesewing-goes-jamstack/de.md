@@ -34,37 +34,47 @@ Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch
 
 Ich habe zum ersten Mal von JAMstack erfahren, als ich anfing, mich mit dem Hosting für diese zentrale Dokumentationsseite zu befassen. Es wurde ursprünglich auf GitHub-Seiten gehostet, die kostenloses Hosting anbieten. Sie haben auch SSL oder einen benutzerdefinierten Domänennamen, aber Sie können nicht beides haben. Was eine Art Deal-Breaker war.
 
-Looking for alternatives, I stumbled onto [Netlify](https://www.netlify.com/), who do both SSL and custom domains and have a free-tier for open source projects (thanks guys). Furthermore, [this video by Netlify CEO Mathias Biilmann](https://vimeo.com/163522126) got me really excited about JAMstack.
+Auf der Suche nach Alternativen stolperte ich über [Netlify](https://www.netlify.com/), die sowohl SSL- als auch kundenspezifische Domains betreiben und ein kostenloses Angebot für Open-Source-Projekte haben (danke Jungs). Außerdem hat mich dieses Video von Netlify CEO Mathias Biilmann
 
-Unless you're familiar with JAMstack, I suggest you check out the video, but it boils down to this:
+ sehr begeistert für JAMstack.</p> 
+
+Sofern Sie nicht mit JAMstack vertraut sind, schlage ich vor, dass Sie sich das Video ansehen, aber es läuft darauf hinaus:
 
  - **J** = JavaScript
  - **A** = APIs
- - **M** = Markup
+ - **J** = Markup
 
-The idea is that you build your static site (markup) that you then make interactive with JavaScript that hooks up to one or more APIs.
+Die Idee ist, dass Sie Ihre statische Website (Markup) erstellen, die Sie dann mit JavaScript interaktiv machen, das an eine oder mehrere APIs angeschlossen ist.
 
-So in our case, rather than having a straight-forward documentation site with easy-to-edit markdown and a complex CMS to handle the dymanic stuff, let's just build one simple site that is statically generated, yet uses JavaScript and APIs to do the smart stuff.
+Anstatt also in unserem Fall eine einfache Dokumentationsseite mit einfach zu bearbeitendem Markdown und einem komplexen CMS zur Handhabung des dymanischen Materials zu haben, lassen Sie uns einfach eine einfache Seite erstellen, die statisch generiert wird, aber JavaScript und APIs verwendet, um das interaktive Material bereitzustellen.
 
-## Running before you can walk
 
-I must admit that in my enthousiasm to embrace this new approach I got a little ahead of myself. Suddenly, I was no longer building a simple site, but I was up to my eyeballs in isomorphic rendering, client-side routing, React and Redux, Node.js and ES6 transpiling.
 
-> If you don't know what any of that means, you might get a hint of the frustration I felt as I was trying to tame all these new beasts.
+## Laufen, bevor Sie gehen können
+
+Ich muss zugeben, dass ich in meiner Begeisterung, diesen neuen Ansatz anzunehmen, ein wenig über mich selbst hinausgewachsen bin. Plötzlich baute ich keine einfache Website mehr, aber ich war bis zum Anschlag in isomorphem Rendering, client-seitigem Routing, React and Redux, Node.js und ES6 Transpiling verwickelt.
+
+
+
+> Wenn Sie nicht wissen, was das alles bedeutet, werden Sie vielleicht einen Eindruck von der Frustration bekommen, die ich empfand, als ich versuchte, all diese neuen Bestien zu zähmen.
 > 
-> If you do know what it all means, where were you back in April when I walked through the valley of the React of death?
+> Wenn Sie wissen, was das alles bedeutet, wo waren Sie dann im April, als ich durch das Tal des Todes ging? 
 
-Point is, I'm not a developer and I was in way over my head. While I was learning new things every day, I wasn't making much progress on the actual task at hand, and felt frustrated with my inability to do even the most mundane things.
+Der Punkt ist, ich bin kein Entwickler und ich war weit über meinem Level. Während ich jeden Tag neue Dinge lernte, machte ich bei der eigentlichen Aufgabe nicht viel Fortschritte und war frustriert über meine Unfähigkeit, selbst die alltäglichsten Dinge zu tun.
 
-After a month of frustration, loads of trial and seemingly even more error, I threw in the towel. Eff this newfangled shiny JavaScript all the young kids are using, I'll stick to what I know.
+Nach einem Monat der Frustration, vielen Versuchen und scheinbar noch mehr Fehlern warf ich das Handtuch. Eff this newfangled shiny JavaScript all the young kids are using, I'll stick to what I know. 
 
 Which is essentially the basics of jQuery. In other words, stuff that was pretty cool 10 years ago.
+
+
 
 ## 10 year old jam is still jam right?
 
 So here we are, freesewing.org is a site powered by the JAMstack. And you know what, it seems to do what it needs to do.
 
 We have Jekyll build out static site, and when we push to our master branch, it gets autmatically deployed to Netlify.
+
+
 
 > Eff this newfangled shiny JavaScript all the young kids are using
 
@@ -73,6 +83,8 @@ We have [a brand new data API](https://github.com/freesewing/data) build on [the
 It also talks to core for us, and every time you draft a pattern, we don't just give you the pattern, but we also run a comparison of your pattern to a range of standard sizes, which is kinda cool.
 
 And we have other cool stuff, like the ability to fork or redraft an existing draft.
+
+
 
 ## This is a starting point
 
