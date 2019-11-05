@@ -88,15 +88,15 @@ Und wir haben noch andere coole Dinge, wie die Möglichkeit, einen bestehenden E
 
 ## Das ist ein Ausgangspunkt
 
-Ich hoffe, dass die Benutzererfahrung/Benutzeroberfläche kein Hindernis für Menschen sein wird. I've made a great deal of effort to make the drafting process as intuitive as possible and I think that in comparison to our demo (or the makemypattern interface for that matter) it's a vast improvement.
+Ich hoffe, dass die Benutzererfahrung/Benutzeroberfläche kein Hindernis für Menschen sein wird. Ich habe große Anstrengungen unternommen, um den Entwurfvorgang so intuitiv wie möglich zu machen und ich denke, dass es im Vergleich zu unserer Demo (oder der Makemypattern-Schnittstelle für diese Angelegenheit) eine enorme Verbesserung ist.
 
-Then again, I'm sure things will break left or right, or that some of you don't like the colours or whatnot.
+Andererseits bin ich sicher, dass die Dinge nach links oder rechts brechen werden, oder dass einige von euch die Farben nicht mögen oder was auch immer.
 
-The point is that I set out to build something that can replace makemypattern.com so that I could tell all of you _Hey, come over and play with this new thing_.
+Der Punkt ist, dass ich mich daran gemacht habe, etwas zu bauen, das makemypattern.com ersetzen kann, damit ich euch allen sagen kann _Hey, kommt vorbei und spielt mit diesem neuen Ding_.
 
-I think if nothing else, I can do that now. And if you see room for improvement, please [join the effort](/contribute), we're only getting started.
+Ich denke, das kann ich das jetzt tun. Und wenn Sie Verbesserungspotenzial sehen, nehmen Sie bitte [an der Anstrengung teil](/contribute), wir fangen gerade erst an.
 
-<small>PS: For those of you wondering about the title of this post:</small>
+<small>PS: Für diejenigen von euch, die sich über den Titel dieses Beitrags Gedanken machen:</small>
 
 @[youtube](oFRbZJXjWIA)
 
