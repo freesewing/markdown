@@ -27,12 +27,12 @@ Eine Balance zu finden, die es unseren Nutzern ermöglicht, die gesamte Leistung
 
 Die Idee - die wir nicht erfunden haben, aber ein Konzept im UX-Design ist - ist es, die Erfahrung für die meisten Menschen zu vereinfachen, ohne die Fähigkeiten fortgeschrittenerer Benutzer einzuschränken.
 
-We are focusing our attention for progressive disclosure on two areas that are the ones that our users most often struggle with:
+Wir konzentrieren unsere Aufmerksamkeit für eine schrittweise Offenlegung auf zwei Bereiche, die diejenigen sind, mit denen unsere Benutzer am häufigsten zu kämpfen haben:
 
- - **Pattern options**: Our patterns often come with dozens of options. That is great for those who like to fine-tune every detail of their pattern, but can be a bit overwhelming for newcomers
- - **Measurements**: Taking accurate measurements is crucial for good results with our patterns, yet not as trivial as you would think.
+ - **Schnittmusteroptionen**: Unsere Schnittmuster haben oft Dutzende von Optionen. Das ist großartig für diejenigen, die gerne jedes Detail ihres Musters abstimmen, aber für Neulinge kann ein wenig überwältigend sein
+ - **Masse**: Genaues Massnehmen ist entscheidend für gute Ergebnisse mit unseren Schnittmustern, aber nicht so trivial, wie Sie denken würden.
 
-While we're certainly not there yet, we've made progress on both of these. Let's look at what we've been up to:
+Obwohl wir noch nicht da sind wo wir hin wollen, haben wir bei beidem Fortschritte gemacht. Schauen wir uns an, worum es geht:
 
 ### Pattern options: We now have an expert mode, and it's off by default
 
