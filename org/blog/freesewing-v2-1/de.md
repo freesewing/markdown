@@ -47,10 +47,9 @@ Neben den erweiterten Musteroptionen zeigt der Exportmodus auch die weniger verw
 ######## Auch angezeigt: Muster vs. Rezeptvorgaben
 
 Wenn Sie Ihren Entwurf konfigurieren, verfügt jede Option über eine kleine Schaltfläche, um den Standardwert für diese Option wiederherzustellen.
-Things get more complicated when you're re-creating a recipe. Now when you restore the default, is it the pattern default, or the recipe's default?
+Die Dinge werden komplizierter, wenn Sie ein Rezept erneut erstellen. Wenn Sie nun den Standardwert wiederherstellen, ist es dann der Musterstandard oder der Standard des Rezepts?
 
-The answer used to be the pattern default, but with this release, you'll find that options where the recipe default is different from the pattern
-default will have two buttons. Once to restore the pattern default, and another to restore the recipe default. 
+Die Antwort war bisher: der Schnittmusterstandardwert, aber mit dieser Version werden Sie feststellen, dass Optionen, bei denen der Rezeptstandard vom Musterstandard abweicht, zwei Schaltflächen haben. Once to restore the pattern default, and another to restore the recipe default. 
 
 You can see this in the screenshot above.
 
