@@ -1,17 +1,17 @@
 ---
 date: 2017-06-12
-title: "We're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, and I hope you like JAMstack too"
-linktitle: "I hope you like JAMstack too"
+title: "Wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, und ich hoffe, dass du auch JAMstack magst"
+linktitle: "Ich hoffe, du magst JAMstack auch"
 img: pipes.jpg
-caption: "Picture by <a href='https://stock.tookapic.com/jenniferforjoy' target='_BLANK' rel='nofollow'>Jennifer</a>"
+caption: "Bild von"
 author: joost
 ---
 
-When we released freesewing core at the end of March, my focus immeadiatly shifted to building our front-end so that [freesewing.org](/) could fully replace [makemypattern.com](https://makemypattern.com/).
+Als wir Ende März den FreeSewing Core veröffentlichten, verlagerte sich mein Fokus sofort auf den Aufbau unseres Frontends, sodass [freesewing.org](/) [makemypattern.com](https://makemypattern.com/) vollständig ersetzen konnte.
 
-I believe that the value of freesewing lies with the core platform and our patterns. But without a user friendly way to expose that value, it will largely go ignored.
+Ich glaube, dass der Wert von FreeSewing bei dem Core der Plattform und unseren Schnittmustern liegt. Aber ohne eine benutzerfreundliche Möglichkeit, diese Werte zu präsentieren, werden sie weitgehend ignoriert werden.
 
-So we needed a website that lets people generate patterns. Makemypattern.com &mdash; arguably the best comparison of something similar &mdash; runs on Drupal 7, and my initial idea was to run the new site on Drupal 8. I went down that path far enought to be confident I could get it to work, and hook it up to our backend. At which point I switched gears and turned my attention to what is now known as freesewing core.
+Deshalb brauchten wir eine Website, die es den Leuten ermöglicht, Schnittmuster zu generieren. Makemypattern.com &mdash; arguably the best comparison of something similar &mdash; runs on Drupal 7, and my initial idea was to run the new site on Drupal 8. I went down that path far enought to be confident I could get it to work, and hook it up to our backend. At which point I switched gears and turned my attention to what is now known as freesewing core.
 
 Core took about 7 months to build, and a lot has changed since then. Or perhaps I have changed, I certainly learned a lot along the way. Either way, I've decided to do things different.
 
