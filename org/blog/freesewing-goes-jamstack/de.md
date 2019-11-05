@@ -62,33 +62,33 @@ Ich muss zugeben, dass ich in meiner Begeisterung, diesen neuen Ansatz anzunehme
 
 Der Punkt ist, ich bin kein Entwickler und ich war weit über meinem Level. Während ich jeden Tag neue Dinge lernte, machte ich bei der eigentlichen Aufgabe nicht viel Fortschritte und war frustriert über meine Unfähigkeit, selbst die alltäglichsten Dinge zu tun.
 
-Nach einem Monat der Frustration, vielen Versuchen und scheinbar noch mehr Fehlern warf ich das Handtuch. Eff this newfangled shiny JavaScript all the young kids are using, I'll stick to what I know. 
+Nach einem Monat der Frustration, vielen Versuchen und scheinbar noch mehr Fehlern warf ich das Handtuch. Ich lass diesen neumodischen Kram namens JavaScript, den alle Kiddies heutzutage nutzen, und bleibe bei dem, was ich kenne. 
 
-Which is essentially the basics of jQuery. In other words, stuff that was pretty cool 10 years ago.
-
-
-
-## 10 year old jam is still jam right?
-
-So here we are, freesewing.org is a site powered by the JAMstack. And you know what, it seems to do what it needs to do.
-
-We have Jekyll build out static site, and when we push to our master branch, it gets autmatically deployed to Netlify.
+Was im Wesentlichen die Grundlagen von jQuery ist. Mit anderen Worten, Sachen, die vor 10 Jahren ziemlich cool waren.
 
 
 
-> Eff this newfangled shiny JavaScript all the young kids are using
+## 10 Jahre alte Marmelade ist immer noch Marmelade, oder?
 
-We have [a brand new data API](https://github.com/freesewing/data) build on [the Slim framework](https://www.slimframework.com/). It handles all user data. Things like accounts, measurements, models, and drafts, but also comments on this website and so on.
+Hier sind wir also, freesewing.org ist eine Seite, die vom JAMstack betrieben wird. Und wissen Sie was, es scheint zu tun, was es tun soll.
 
-It also talks to core for us, and every time you draft a pattern, we don't just give you the pattern, but we also run a comparison of your pattern to a range of standard sizes, which is kinda cool.
-
-And we have other cool stuff, like the ability to fork or redraft an existing draft.
+Wir lassen Jekyll eine statische Website erstellen, und wenn wir etwas in unserem Masterbranch pushen, wird es automatisch auf Netlify bereitgestellt.
 
 
 
-## This is a starting point
+> Effektiv dieses neumodisch glänzende JavaScript, das alle kleinen Kiddies benutzen
 
-I hope the user experience/interface is not going to be a roadblock for people. I've made a great deal of effort to make the drafting process as intuitive as possible and I think that in comparison to our demo (or the makemypattern interface for that matter) it's a vast improvement.
+Wir haben [eine brandneue Daten-API](https://github.com/freesewing/data), die auf [dem Slim Framework](https://www.slimframework.com/) basiert. Es verwaltet alle Benutzerdaten. Dinge wie Benutzerkonten, Maße, Modelle und Entwürfe, aber auch Kommentare zu dieser Website und so weiter.
+
+Es spricht auch für uns, und jedes Mal, wenn Sie ein Muster entwerfen, geben wir Ihnen nicht nur das Muster, sondern führen auch einen Vergleich Ihres Musters mit einer Reihe von Standardgrößen durch, was irgendwie cool ist.
+
+Und wir haben noch andere coole Dinge, wie die Möglichkeit, einen bestehenden Entwurf zu duplizieren oder neu zu entwerfen.
+
+
+
+## Das ist ein Ausgangspunkt
+
+Ich hoffe, dass die Benutzererfahrung/Benutzeroberfläche kein Hindernis für Menschen sein wird. I've made a great deal of effort to make the drafting process as intuitive as possible and I think that in comparison to our demo (or the makemypattern interface for that matter) it's a vast improvement.
 
 Then again, I'm sure things will break left or right, or that some of you don't like the colours or whatnot.
 
