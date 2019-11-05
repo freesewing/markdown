@@ -21,12 +21,12 @@ Ich fragte Quentin, ob er diesen Ankündigungsblogpost selbst schreiben wollte, 
 > 
 > Ich wollte das den Menschen zugänglicher machen. Und während ich dabei war, habe ich auch meine Erfahrung genutzt, um einige Optimierungen für eine bessere Passform vorzunehmen. 
 > 
-> For example, this design extends lower at the back of the head, which gives it better hold.
+> Dieses Design erstreckt sich beispielsweise tiefer an der Rückseite des Kopfes, was ihm einen besseren Halt gibt.
 
-This *why should we always have to re-invent the wheel?* could pretty much be freesewing's slogan.
+Dieses *warum sollten wir das Rad immer wieder neu erfinden müssen?* könnte so ziemlich der Slogan von FreeSewing sein.
 
-## It's the season for giving
+## Es ist die Zeit des Schenkens
 
-Florent requires only one measurement: the head circumference. As such, this release is perfectly timed. With the holiday season coming up, here's another gift you can make yourself.
+Florent benötigt nur eine Messung: den Kopfumfang. Somit ist diese Veröffentlichung genau zum richtigen Zeitpunkt erfolgt. Mit der bevorstehenden Weihnachtszeit, hier ist ein weiteres Geschenk, das Sie selbst machen können.
 
-Thanks Quentin!
+Danke Quentin!
