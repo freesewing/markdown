@@ -15,11 +15,11 @@ Ich fragte Quentin, ob er diesen Ankündigungsblogpost selbst schreiben wollte, 
 
 > ##### Quentin zu seinen Gründen, warum er Florent entworfen hat
 > 
-> Ich trage gerne selbst Schiebermützen. I didn't use to, but I have a friend Florent who inspired me to wear them (now you know where the name comes from).
+> Ich trage gerne selbst Schiebermützen. Das habe ich früher nicht, aber ich habe einen Freund Florent, der mich inspiriert hat, sie zu tragen (jetzt wißen Sie, woher der Name kommt).
 > 
-> The first time I made a flat cap, it took me ages to scale the pattern to an exact fit, involving a lot of messing about with tracing paper. There's a number of patterns available online for flat caps. But they all come in one size only. 
+> Als ich das erste Mal eine Schiebermütze herstellte, dauerte es ewig, bis ich das Muster passgenau skaliert hatte, wobei ich viel mit Transparentpapier herumbastelte. Es gibt eine Reihe von Schnittmuster für Schiebermützen, die online erhältlich sind. Aber sie sind alle nur in einer Größe erhältlich. 
 > 
-> I wanted to make this more accessible to people. And, while I was at it, I also drew on my experience to add some tweaks for a better fit. 
+> Ich wollte das den Menschen zugänglicher machen. Und während ich dabei war, habe ich auch meine Erfahrung genutzt, um einige Optimierungen für eine bessere Passform vorzunehmen. 
 > 
 > For example, this design extends lower at the back of the head, which gives it better hold.
 
