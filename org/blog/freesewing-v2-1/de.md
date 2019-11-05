@@ -1,31 +1,31 @@
 ---
 date: 2019-10-06
-title: "FreeSewing v2.1: Three new patterns, expert mode, and help with measurements"
-linktitle: "Three new patterns in FreeSewing v2.1"
+title: "FreeSewing v2.1: Drei neue Muster, Expertenmodus und Hilfe beim Massnehmen"
+linktitle: "Drei neue Muster in FreeSewing v2.1"
 img: ceiling.jpg
-caption: "This post is mostly about our work on progressive disclosure. Also: Three new patterns!"
+caption: "In diesem Beitrag geht es hauptsächlich um unsere Arbeit an der progressiven Offenlegung. Außerdem: Drei neue Schnittmuster!"
 author: joost
 ---
 
-We've just release FreeSewing v2.1 🎉
+Wir haben gerade FreeSewing v2.1 veröffentlicht 🎉
 
-## Meet Penelope, Waralee, and Simone
+## Treffen Sie Penelope, Waralee und Simone
 
-There are 3 new patterns in this release:
+Es gibt 3 neue Schnittmuster in dieser Version:
 
- - [Penelope](/patterns/penelope) is a pencil skirt by [Wouter Van Wageningen](/users/wouter.vdub)
- - [Waralee](/patterns/waralee) are wrap pants, also by [Wouter](/users/wouter.vdub)
- - [Simone](/patterns/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
+ - [Penelope](/patterns/penelope) ist ein Bleistiftrock von [Wouter Van Wageningen](/users/wouter.vdub)
+ - [Waralee](/patterns/waralee) sind Wickelhosen, auch von [Wouter](/users/wouter.vdub)
+ - [Simone](/patterns/simone) ist Simon (unser vielseitiges Button-Down-Muster) für Brüste angepasst durch [Joost De Cock](/users/joost)
 
-All of these patterns are either womenswear or -- in the case of Waralee -- unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
+Alle diese Muster sind entweder Damenmode oder - im Falle von Waralee - Unisex-Kleidung. Was ein Zeichen für unser Engagement ist, mehr Damenmode auf die Website zu bringen.
 
-Apart from creating new patterns, a lot of efforts have gone into making things simpler, without making them dumber. Let me explain:
+Neben der Entwicklung neuer Muster sind viele Anstrengungen unternommen worden, um die Dinge einfacher zu machen, ohne sie dümmer zu machen. Lassen Sie mich das erklären:
 
-## Our work on progressive disclosure
+## Unsere Arbeit an der progressiven Offenlegung
 
-Striking a balance between giving our users all the power of the platform, yet making it easy for newcomers to get started, is an ongoing challenge. We have started making inroads into addressing that issue with so-called *progressive disclosure of complexity*.
+Eine Balance zu finden, die es unseren Nutzern ermöglicht, die gesamte Leistungsfähigkeit der Plattform zu nutzen und gleichzeitig den Einstieg für Neueinsteiger zu erleichtern, ist eine ständige Herausforderung. Wir haben begonnen, dieses Problem mit der sogenannten *progressiven Offenlegung der Komplexität* anzugehen.
 
-The idea -- which we didn't make up, but is a concept in UX design -- is to simplify the experience for most people without limiting the abilities of more advanced users.
+Die Idee - die wir nicht erfunden haben, aber ein Konzept im UX-Design ist - ist es, die Erfahrung für die meisten Menschen zu vereinfachen, ohne die Fähigkeiten fortgeschrittenerer Benutzer einzuschränken.
 
 We are focusing our attention for progressive disclosure on two areas that are the ones that our users most often struggle with:
 
