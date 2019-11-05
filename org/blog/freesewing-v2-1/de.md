@@ -34,19 +34,19 @@ Wir konzentrieren unsere Aufmerksamkeit für eine schrittweise Offenlegung auf z
 
 Obwohl wir noch nicht da sind wo wir hin wollen, haben wir bei beidem Fortschritte gemacht. Schauen wir uns an, worum es geht:
 
-### Pattern options: We now have an expert mode, and it's off by default
+### Schnittmusteroptionen: Hier haben wir jetzt einen Expertenmodus, und der ist standardmäßig ausgeschaltet
 
-(some of) Our patterns have had *advanced options* for a while, but they are now hidden by default. That is until you turn on the **Expert mode** in the settings (below the pattern options).
+(einige von) unseren Schnitten haben seit einiger Zeit *erweiterte Optionen*, aber die sind nun standardmäßig ausgeblendet. Das heißt, bis Sie den **Expertenmodus** in den Einstellungen (unterhalb der Schnittmusteroptionen) einschalten.
 
-Apart from advanced pattern options, export mode also reveals the lesser-used draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
+Neben den erweiterten Musteroptionen zeigt der Exportmodus auch die weniger verwendeten Entwurfseinstellungen wie die Möglichkeit, Sprache, Einheiten, Details, Nahtzugabe und Inhalt Ihres Entwurfs zu ändern.
 
 ![Advanced mode](recreate.png)
 
 <Note> 
 
-###### Also shown: Pattern vs Recipe defaults
+######## Auch angezeigt: Muster vs. Rezeptvorgaben
 
-When configuring your draft, every option has a little button to restore the default value for that option.
+Wenn Sie Ihren Entwurf konfigurieren, verfügt jede Option über eine kleine Schaltfläche, um den Standardwert für diese Option wiederherzustellen.
 Things get more complicated when you're re-creating a recipe. Now when you restore the default, is it the pattern default, or the recipe's default?
 
 The answer used to be the pattern default, but with this release, you'll find that options where the recipe default is different from the pattern
