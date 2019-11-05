@@ -23,16 +23,16 @@ Einer der Hauptgründe ist, dass so viele Informationen unter einer undurchsicht
 
 > Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
-Als wir den Kern fertiggestellt haben, habe ich eine Dokumentationsseite dafür erstellt, die auf [Jekyll](https://jekyllrb.com/) basiert. It felt like a breath of fresh air in comparison. Just a bunch of markdown files, with some SASS, images, and some JavaScript thrown in the mix, and it all compiles into a neat static website.
+Als wir den Kern fertiggestellt haben, habe ich eine Dokumentationsseite dafür erstellt, die auf [Jekyll](https://jekyllrb.com/) basiert. Im Vergleich zu Drupal fühlte es sich wie ein Hauch von frischer Luft an. Nur ein Haufen Markdown-Dateien, mit einigen SASS, Bildern und etwas JavaScript, die in den Mixxer geworfen wurden, und alles wird zu einer ordentlichen statischen Website zusammengefügt.
 
-It's easy to manage, and it integrates nicely with a GitHub-centered workflow that is going to be famliar to potential contributors.
+Es ist einfach zu verwalten und lässt sich gut in einen GitHub-zentrierten Workflow integrieren, der potenziellen Mitwirkenden vertraut sein dürfte.
 
 Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
 
-## An alternative approach: JAMstack
+## Ein alternativer Ansatz: JAMstack
 
-I first learned about JAMstack when I started looking into hosting for said core documentation site. It was initially hosted on GitHub pages which provides free hosting. They also have SSL or a custom domain name, but you can't have both. Which was kind of a deal breaker.
+Ich habe zum ersten Mal von JAMstack erfahren, als ich anfing, mich mit dem Hosting für diese zentrale Dokumentationsseite zu befassen. Es wurde ursprünglich auf GitHub-Seiten gehostet, die kostenloses Hosting anbieten. Sie haben auch SSL oder einen benutzerdefinierten Domänennamen, aber Sie können nicht beides haben. Was eine Art Deal-Breaker war.
 
 Looking for alternatives, I stumbled onto [Netlify](https://www.netlify.com/), who do both SSL and custom domains and have a free-tier for open source projects (thanks guys). Furthermore, [this video by Netlify CEO Mathias Biilmann](https://vimeo.com/163522126) got me really excited about JAMstack.
 
