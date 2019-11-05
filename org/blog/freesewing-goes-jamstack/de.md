@@ -11,23 +11,23 @@ Als wir Ende März den FreeSewing Core veröffentlichten, verlagerte sich mein F
 
 Ich glaube, dass der Wert von FreeSewing bei dem Core der Plattform und unseren Schnittmustern liegt. Aber ohne eine benutzerfreundliche Möglichkeit, diese Werte zu präsentieren, werden sie weitgehend ignoriert werden.
 
-Deshalb brauchten wir eine Website, die es den Leuten ermöglicht, Schnittmuster zu generieren. Makemypattern.com &mdash; arguably the best comparison of something similar &mdash; runs on Drupal 7, and my initial idea was to run the new site on Drupal 8. I went down that path far enought to be confident I could get it to work, and hook it up to our backend. At which point I switched gears and turned my attention to what is now known as freesewing core.
+Deshalb brauchten wir eine Website, die es den Leuten ermöglicht, Schnittmuster zu generieren. Makemypattern.com &mdash; wohl der beste Vergleich von etwas Ähnlichem &mdash; läuft auf Drupal 7, und meine erste Idee war es, die neue Seite auf Drupal 8 zu betreiben. Ich ging diesen Weg weit genug, um sicher zu sein, dass ich ihn zum Laufen bringen und an unser Backend anschließen konnte. An diesem Punkt habe ich das Ruder herumgerissen und mich dem FreeSewing Core zugewendet.
 
-Core took about 7 months to build, and a lot has changed since then. Or perhaps I have changed, I certainly learned a lot along the way. Either way, I've decided to do things different.
+Der Bau des Cores dauerte etwa 7 Monate, und seitdem hat sich viel verändert. Oder vielleicht habe ich mich verändert, ich habe auf jeden Fall viel gelernt. So oder so, ich habe mich entschieden, die Dinge anders zu machen.
 
-## The problem with a CMS
+## Das Problem mit einem CMS
 
-I have no beef with Drupal but the idea of managing the freesewing website through any Content Management System (CMS) does not appeal to me.
+Ich habe kein Problem mit Drupal, aber die Idee, die FreeSewing-Website über ein Content Management System (CMS) zu verwalten, gefällt mir nicht.
 
-One of the main reason is that so much information is stored under an opaque database layer which makes it difficult to manage. That goes for content where posts, metadata, images, and so on is all spread across tables, locations, and folders. But there's also the theme that has a bunch of stuff in it, there's the custom Drupal modules to connect to the backend, and so on and so forth.
+Einer der Hauptgründe ist, dass so viele Informationen unter einer undurchsichtigen Datenbankschicht gespeichert sind, was die Verwaltung erschwert. Das gilt für Inhalte, bei denen Beiträge, Metadaten, Bilder usw. über Tabellen, Speicherorte und Ordner verteilt sind. Aber es gibt auch das Theme, das einen Haufen Zeug enthält, es gibt die benutzerdefinierten Drupal-Module, um sich mit dem Backend zu verbinden, und so weiter und so fort.
 
-> I wanted that same approach in a website. Except, it can't be static because it has to, you know, do stuff.
+> Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
-When we were finalizing core, I built a documentation site for it based on [Jekyll](https://jekyllrb.com/). It felt like a breath of fresh air in comparison. Just a bunch of markdown files, with some SASS, images, and some JavaScript thrown in the mix, and it all compiles into a neat static website.
+Als wir den Kern fertiggestellt haben, habe ich eine Dokumentationsseite dafür erstellt, die auf [Jekyll](https://jekyllrb.com/) basiert. It felt like a breath of fresh air in comparison. Just a bunch of markdown files, with some SASS, images, and some JavaScript thrown in the mix, and it all compiles into a neat static website.
 
 It's easy to manage, and it integrates nicely with a GitHub-centered workflow that is going to be famliar to potential contributors.
 
-I wanted that same approach in a website. Except, it can't be static because it has to, you know, do stuff.
+Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
 
 ## An alternative approach: JAMstack
