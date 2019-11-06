@@ -57,11 +57,11 @@ Sie können dies im Screenshot oben sehen.
 
 ### Masse: Helfen Ihnen die Fehler in Ihren gemessenen Massen zu entdecken
 
-We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
+We've added a few indicators to help you spot mistakes or problems in your measurements. Ihre Modelle zeigen nun eine grafische Darstellung Ihrer Körpermaße, mit der Sie Ausreißer erkennen können.
 
 ![A graphical representation of your model's measurements](model.png)
 
-In addition, we are showing you an estimate of your different measurements (based on your neck circumference) next to the actual value. If the difference gets larger, we'll draw your attention to that.
+Zusätzlich zeigen wir Ihnen neben dem Istwert eine Schätzung Ihrer verschiedenen Maße (bezogen auf Ihren Halsumfang). Wenn der Unterschied größer wird, werden wir Sie darauf aufmerksam machen.
 
 This is a difficult area for us to work in. We want to help you get the best results, and that includes helping you spot issues with your measurements. On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.
 
