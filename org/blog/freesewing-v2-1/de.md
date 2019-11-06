@@ -49,13 +49,13 @@ Neben den erweiterten Musteroptionen zeigt der Exportmodus auch die weniger verw
 Wenn Sie Ihren Entwurf konfigurieren, verfügt jede Option über eine kleine Schaltfläche, um den Standardwert für diese Option wiederherzustellen.
 Die Dinge werden komplizierter, wenn Sie ein Rezept erneut erstellen. Wenn Sie nun den Standardwert wiederherstellen, ist es dann der Musterstandard oder der Standard des Rezepts?
 
-Die Antwort war bisher: der Schnittmusterstandardwert, aber mit dieser Version werden Sie feststellen, dass Optionen, bei denen der Rezeptstandard vom Musterstandard abweicht, zwei Schaltflächen haben. Once to restore the pattern default, and another to restore the recipe default. 
+Die Antwort war bisher: der Schnittmusterstandardwert, aber mit dieser Version werden Sie feststellen, dass Optionen, bei denen der Rezeptstandard vom Musterstandard abweicht, zwei Schaltflächen haben. Das eine stellt die Schnittmusterstandardwerte wieder her, das an die Standardwerte des Rezepts. 
 
-You can see this in the screenshot above.
+Sie können dies im Screenshot oben sehen.
 
 </Note>
 
-### Measurements: Helping you spot mistakes in your measurements
+### Masse: Helfen Ihnen die Fehler in Ihren gemessenen Massen zu entdecken
 
 We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
 
