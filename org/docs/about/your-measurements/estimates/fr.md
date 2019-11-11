@@ -1,16 +1,16 @@
 ---
-title: Estimates
+title: Estimation
 ---
 
-To help you spot measuring mistakes, we show an estimate of your different measurements next to the actual value. When the difference gets large, we'll draw your attention to that.
+Pour vous aider à repérer les erreurs de mesure, nous affichons une estimation de vos différentes mesures à côté de la valeur réelle. Si la différence s'accentue, nous attirerons votre attention sur ce point.
 
 <Note>
 
-This estimate is based on your neck circumference, so this won't show up until you've measured your neck.
+Cette estimation est basée sur votre circonférence du cou et n'apparaîtra donc pas avant que vous ayez mesuré votre cou.
 
 </Note>
 
-This is a difficult area for us to work in. We want to help you get the best results, and that includes helping you spot issues with your measurements. On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.
+C'est un travail difficile pour nous. Nous voulons vous aider à obtenir les meilleurs résultats, notamment en vous aidant à repérer les problèmes liés à vos mesures. D'un autre côté, nous ne voulons en aucun cas impliquer que les mesures de quelqu'un sont *erronées* d'une manière ou d'une autre.
 
 We are an extremely size-inclusive pattern outlet, and a disproportionate amount of our users are people who struggle to find clothes or patterns from other outlets. So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. But you know your body. You know which of your measurements deviate from the average. And us pointing out that they do is in a way only confirmation that you've been measuring correctly. On the other hand, if something jumps out where you are fairly average sized, you know to double-check those measurements.
 
