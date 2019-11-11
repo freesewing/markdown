@@ -7,7 +7,7 @@ Freesewing is proudly multilingual, and for this we depend on translators to hel
 
 We use [crowdin](https://crowdin.com/) to manage all translations for FreeSewing. It's an online platform that makes translation a breeze.
 
-## Languages
+## Langues
 
 English is our origin language. Which means that everything is written in English and then translated from English into other languages.
 
