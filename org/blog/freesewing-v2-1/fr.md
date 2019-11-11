@@ -66,9 +66,9 @@ De plus, nous vous présentons une estimation de vos différentes mensurations (
 
 C'est un travail difficile pour nous. Nous voulons vous aider à obtenir les meilleurs résultats, notamment en vous aidant à repérer les problèmes liés à vos mesures. D'un autre côté, nous ne voulons en aucun cas impliquer que les mesures de quelqu'un sont *erronées* d'une manière ou d'une autre.
 
-We are an extremely size-inclusive pattern outlet, and a disproportionate amount of our users are people who struggle to find clothes or patterns from other outlets. So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. But you know your body. You know which of your measurements deviate from the average. And us pointing out that they do is in a way only confirmation that you've been measuring correctly. On the other hand, if something jumps out where you are fairly average sized, you know to double-check those measurements.
+Nous sommes une boutique de patrons qui se veut destiné pour toutes les tailles, et une grande quantité de nos utilisateurs sont des personnes qui luttent pour trouver des vêtements ou des patrons. Donc d'une part. il peut sembler que nous nous mettons en échecs en comparant les mesures à un ensemble de mesures plus ou moins *standards*. Mais vous connaissez votre corps. Vous savez laquelle de vos mesures s'écarte de la moyenne. Et nous signalons que ce n'est d'une certaine manière que la confirmation que vous avez mesuré correctement. D'un autre côté, si une mesure s'éloigne là où vous êtes plutôt dans la moyenne, alors vous savez que vous devez vérifier cette mesure.
 
-Enfin et surtout, alors que nous essayons de fournir des conseils sur les mesures pour aider à détecter les erreurs, nous n'excluons jamais quiconque en fonction de sa taille ou de ses mensurations. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
+Enfin et surtout, alors que nous essayons de fournir des conseils sur les mesures pour aider à détecter les erreurs, nous n'excluons jamais quiconque en fonction de sa taille ou de ses mensurations. Peu importe ce que vous nous envoyez, nous élaborerons un modèle qui fonctionne pour vous, ou on (ou plutôt notre logiciel) se tuera à essayer.
 
 ## Autres modifications
 
