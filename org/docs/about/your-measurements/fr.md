@@ -16,9 +16,9 @@ Nous avons ajouté quelques indicateurs pour vous aider à repérer des erreurs 
 Il s'agit d'une toute nouvelle fonctionnalité, et nous travaillons toujours sur les détails. Plus vous vous écartez de la circonférence du cou (nos prédictions sont basées sur 42cm pour les modèles sans seins, 36cm pour les modèles
 avec des seins), plus il est probable que les projections ne correspondent pas.
 
-###### Breasts are tricky
+###### Les poitrines sont épineuses
 
-Particularly for models with breasts, we are aware that there's some fine-tuning yet to be done.
+En particulier pour les modèles avec seins, nous sommes conscients qu'il reste encore quelques ajustements à faire.
 
 </Note>
 
