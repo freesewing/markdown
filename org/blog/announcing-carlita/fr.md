@@ -45,7 +45,7 @@ Ceci contrôle la netteté de la découpe princesse après avoir ajouté le volu
 
 Une image en dit plus que mille mots, donc voici une illustration de l'option sur la partie concernée du modèle :
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![L'effet de l'option comme le montre notre exemple](smooth.png)
 
 Comme vous pouvez le voir, l'option gère l'a rapidité avec laquelle la découpe princesse rejoint votre taille après avoir passé le point le plus large de votre buste.
 
@@ -70,4 +70,4 @@ Je prévois de concevoir plus de modèles de vêtements féminins, donc s'il y a
 
 ## Dédicace spéciale
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Enfin et surtout, je voudrais remercier [Anneke](http://www.annekecaramin.com/) pour son aide tout au long de ce projet et d'avoir toléré le nombre incalculable de fois où j'ai pesté à propos de ma relation amour/haine avec les seins.
