@@ -36,29 +36,29 @@ Bien que nous n'en soyons certainement pas encore là, nous avons fait des progr
 
 ### Options de patron : Nous avons maintenant un mode expert, et il est désactivé par défaut
 
-(certains de) Nos patrons ont des *options avancées* depuis un certain temps, mais ils sont maintenant cachés par défaut. That is until you turn on the **Expert mode** in the settings (below the pattern options).
+(certains de) Nos patrons ont des *options avancées* depuis un certain temps, mais ils sont maintenant cachés par défaut. Ceci jusqu'à ce que vous activez le **Mode Expert** dans les paramètres (ci-dessous les options de patron).
 
-Apart from advanced pattern options, export mode also reveals the lesser-used draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
+Hormis les options avancées de patron, le mode export révèle également les paramètres de brouillon moins utilisés comme la possibilité de changer la langue, l'unité, les détails, les marges et le contenu de votre brouillon.
 
 ![Advanced mode](recreate.png)
 
 <Note> 
 
-###### Also shown: Pattern vs Recipe defaults
+###### Également affiché : Patron vs Recette par défaut
 
-When configuring your draft, every option has a little button to restore the default value for that option.
-Things get more complicated when you're re-creating a recipe. Now when you restore the default, is it the pattern default, or the recipe's default?
+Lors de la configuration de votre brouillon, chaque option a un petit bouton pour restaurer la valeur par défaut de cette option.
+Les choses deviennent plus compliquées lorsque vous recréez une recette. Maintenant, lorsque vous restaurez la valeur par défaut, est-ce le patron par défaut ou la recette par défaut ?
 
-The answer used to be the pattern default, but with this release, you'll find that options where the recipe default is different from the pattern
-default will have two buttons. Once to restore the pattern default, and another to restore the recipe default. 
+La réponse était le modèle par défaut, mais avec cette nouvelle version, vous verrez que les options où la valeur par défaut de la recette est différente du patron
+auront deux boutons. Un pour restaurer le patron par défaut, et un autre pour restaurer la recette par défaut. 
 
-You can see this in the screenshot above.
+Vous pouvez le voir dans la capture d'écran ci-dessus.
 
 </Note>
 
-### Measurements: Helping you spot mistakes in your measurements
+### Mesures : Vous aider à détecter les erreurs dans vos mensurations
 
-We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
+We've added a few indicators to help you spot mistakes or problems in your measurements. Vos modèles afficheront maintenant une représentation graphique de vos mensurations, ce qui vous permettra de repérer les erreurs potentielles.
 
 ![A graphical representation of your model's measurements](model.png)
 
