@@ -40,7 +40,7 @@ Bien que nous n'en soyons certainement pas encore là, nous avons fait des progr
 
 Hormis les options avancées de patron, le mode export révèle également les paramètres de brouillon moins utilisés comme la possibilité de changer la langue, l'unité, les détails, les marges et le contenu de votre brouillon.
 
-![Advanced mode](recreate.png)
+![Mode avancé](recreate.png)
 
 <Note> 
 
@@ -60,25 +60,25 @@ Vous pouvez le voir dans la capture d'écran ci-dessus.
 
 We've added a few indicators to help you spot mistakes or problems in your measurements. Vos modèles afficheront maintenant une représentation graphique de vos mensurations, ce qui vous permettra de repérer les erreurs potentielles.
 
-![A graphical representation of your model's measurements](model.png)
+![Une représentation graphique des mensurations de votre modèle](model.png)
 
-In addition, we are showing you an estimate of your different measurements (based on your neck circumference) next to the actual value. If the difference gets larger, we'll draw your attention to that.
+De plus, nous vous présentons une estimation de vos différentes mensurations (basées sur votre circonférence du cou) comparées à la valeur réelle. Si la différence s'accentue, nous attirerons votre attention sur ce point.
 
 This is a difficult area for us to work in. We want to help you get the best results, and that includes helping you spot issues with your measurements. On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.
 
 We are an extremely size-inclusive pattern outlet, and a disproportionate amount of our users are people who struggle to find clothes or patterns from other outlets. So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. But you know your body. You know which of your measurements deviate from the average. And us pointing out that they do is in a way only confirmation that you've been measuring correctly. On the other hand, if something jumps out where you are fairly average sized, you know to double-check those measurements.
 
-Last but not least, while we try to provide guidance about measurements to help spot mistakes, we never exclude anyone based on size or measurement. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
+Enfin et surtout, alors que nous essayons de fournir des conseils sur les mesures pour aider à détecter les erreurs, nous n'excluons jamais quiconque en fonction de sa taille ou de ses mensurations. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
 
-## Other changes
+## Autres modifications
 
- - We have extended our size ranges for our comparison views. Menswear sizes are now sampled from size 32 up to 48, while womenswear is sampled from size 28 up to 46.
- - We've made some changes to the defaults in the Simon pattern, based on our tests with Simone
- - We've added support for preloading models with breasts to our development environment for pattern designers
- - We've implemented fixes and improvements in our Jaeger, Bruce, Benajamin, Simon, Carlton, and Carlita patterns
- - We've added a bunch of missing images in the documentation, and [started an effort to make sure all options have an image to illustrate their purpose](https://github.com/freesewing/freesewing.org/issues/190).
+ - Nous avons étendu notre gamme de tailles pour nos vues de comparaison. Les tailles de vêtements pour hommes sont maintenant échantillonnées de la taille 32 à 48, tandis que les vêtements pour femmes sont échantillonnés de la taille 28 à 46.
+ - Nous avons modifié les paramètres par défaut dans le modèle Simon, basé sur nos tests avec Simone
+ - Nous avons ajouté la prise en charge des modèles prédéfinis avec seins dans notre environnement de développement pour les concepteurs de patrons
+ - Nous avons implémenté des corrections et des améliorations dans nos patrons Jaeger, Bruce, Benajamin, Simon, Carlton et Carlita
+ - Nous avons ajouté un tas d'images manquantes dans la documentation, et [ débuté un travail pour s'assurer que toutes les options ont une image pour illustrer leur objectif](https://github.com/freesewing/freesewing.org/issues/190).
 
-More information is available [in the changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
+Plus d'informations sont disponibles [dans le suivi des modifications](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
 
-We hope you enjoy this release, and please [stop by our chat room](https://gitter.im/freesewing/chat) to share your thoughts, feedback, suggestions, or ideas. We'd love to hear from you 
+Nous espérons que vous apprécierez cette version, et [passerez dans notre salon de discussion](https://gitter.im/freesewing/chat) pour partager vos pensées, vos commentaires, vos suggestions ou vos idées. Nous aimerions connaître votre avis. 
 
