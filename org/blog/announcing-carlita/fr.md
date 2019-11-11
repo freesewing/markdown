@@ -61,13 +61,13 @@ Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes n
 
 ## Mesdames, nous avons besoin de vos avis
 
-Il s'agit de notre premier modèle de vêtement féminin avec un ajustement poitrine. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Il s'agit de notre premier modèle de vêtement féminin avec un ajustement poitrine. En tant que tel, nous innovons ici, et je serais intéressé de voir comment ce modèle s'adapte à une variété de morphologies/tailles de bonnet.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Si vous prévoyez de fabriquer ce manteau, veuillez partager votre expérience, et n'hésitez pas à entrer nous contacter si vous rencontrez des problèmes.
 
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Je prévois de concevoir plus de modèles de vêtements féminins, donc s'il y a des problèmes de tombé ou d'ajustement, je voudrais le savoir le plus tôt possible.
 
-## Shout-out
+## Dédicace spéciale
 
 Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
