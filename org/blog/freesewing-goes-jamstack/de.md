@@ -1,90 +1,102 @@
 ---
 date: 2017-06-12
-title: "We're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, we're JAMstack, and I hope you like JAMstack too"
-linktitle: "I hope you like JAMstack too"
+title: "Wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, wir sind JAMstack, und ich hoffe, dass du auch JAMstack magst"
+linktitle: "Ich hoffe, du magst JAMstack auch"
 img: pipes.jpg
-caption: "Picture by <a href='https://stock.tookapic.com/jenniferforjoy' target='_BLANK' rel='nofollow'>Jennifer</a>"
+caption: "Bild von"
 author: joost
 ---
 
-When we released freesewing core at the end of March, my focus immeadiatly shifted to building our front-end so that [freesewing.org](/) could fully replace [makemypattern.com](https://makemypattern.com/).
+Als wir Ende März den FreeSewing Core veröffentlichten, verlagerte sich mein Fokus sofort auf den Aufbau unseres Frontends, sodass [freesewing.org](/) [makemypattern.com](https://makemypattern.com/) vollständig ersetzen konnte.
 
-I believe that the value of freesewing lies with the core platform and our patterns. But without a user friendly way to expose that value, it will largely go ignored.
+Ich glaube, dass der Wert von FreeSewing bei dem Core der Plattform und unseren Schnittmustern liegt. Aber ohne eine benutzerfreundliche Möglichkeit, diese Werte zu präsentieren, werden sie weitgehend ignoriert werden.
 
-So we needed a website that lets people generate patterns. Makemypattern.com &mdash; arguably the best comparison of something similar &mdash; runs on Drupal 7, and my initial idea was to run the new site on Drupal 8. I went down that path far enought to be confident I could get it to work, and hook it up to our backend. At which point I switched gears and turned my attention to what is now known as freesewing core.
+Deshalb brauchten wir eine Website, die es den Leuten ermöglicht, Schnittmuster zu generieren. Makemypattern.com &mdash; wohl der beste Vergleich von etwas Ähnlichem &mdash; läuft auf Drupal 7, und meine erste Idee war es, die neue Seite auf Drupal 8 zu betreiben. Ich ging diesen Weg weit genug, um sicher zu sein, dass ich ihn zum Laufen bringen und an unser Backend anschließen konnte. An diesem Punkt habe ich das Ruder herumgerissen und mich dem FreeSewing Core zugewendet.
 
-Core took about 7 months to build, and a lot has changed since then. Or perhaps I have changed, I certainly learned a lot along the way. Either way, I've decided to do things different.
+Der Bau des Cores dauerte etwa 7 Monate, und seitdem hat sich viel verändert. Oder vielleicht habe ich mich verändert, ich habe auf jeden Fall viel gelernt. So oder so, ich habe mich entschieden, die Dinge anders zu machen.
 
-## The problem with a CMS
+## Das Problem mit einem CMS
 
-I have no beef with Drupal but the idea of managing the freesewing website through any Content Management System (CMS) does not appeal to me.
+Ich habe kein Problem mit Drupal, aber die Idee, die FreeSewing-Website über ein Content Management System (CMS) zu verwalten, gefällt mir nicht.
 
-One of the main reason is that so much information is stored under an opaque database layer which makes it difficult to manage. That goes for content where posts, metadata, images, and so on is all spread across tables, locations, and folders. But there's also the theme that has a bunch of stuff in it, there's the custom Drupal modules to connect to the backend, and so on and so forth.
+Einer der Hauptgründe ist, dass so viele Informationen unter einer undurchsichtigen Datenbankschicht gespeichert sind, was die Verwaltung erschwert. Das gilt für Inhalte, bei denen Beiträge, Metadaten, Bilder usw. über Tabellen, Speicherorte und Ordner verteilt sind. Aber es gibt auch das Theme, das einen Haufen Zeug enthält, es gibt die benutzerdefinierten Drupal-Module, um sich mit dem Backend zu verbinden, und so weiter und so fort.
 
-> I wanted that same approach in a website. Except, it can't be static because it has to, you know, do stuff.
+> Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
-When we were finalizing core, I built a documentation site for it based on [Jekyll](https://jekyllrb.com/). It felt like a breath of fresh air in comparison. Just a bunch of markdown files, with some SASS, images, and some JavaScript thrown in the mix, and it all compiles into a neat static website.
+Als wir den Kern fertiggestellt haben, habe ich eine Dokumentationsseite dafür erstellt, die auf [Jekyll](https://jekyllrb.com/) basiert. Im Vergleich zu Drupal fühlte es sich wie ein Hauch von frischer Luft an. Nur ein Haufen Markdown-Dateien, mit einigen SASS, Bildern und etwas JavaScript, die in den Mixxer geworfen wurden, und alles wird zu einer ordentlichen statischen Website zusammengefügt.
 
-It's easy to manage, and it integrates nicely with a GitHub-centered workflow that is going to be famliar to potential contributors.
+Es ist einfach zu verwalten und lässt sich gut in einen GitHub-zentrierten Workflow integrieren, der potenziellen Mitwirkenden vertraut sein dürfte.
 
-I wanted that same approach in a website. Except, it can't be static because it has to, you know, do stuff.
+Ich wollte den gleichen Ansatz in einer Website. Außer, dass sie nicht statisch sein kann, weil sie, Sie wissen schon, Dinge tun muss.
 
 
-## An alternative approach: JAMstack
+## Ein alternativer Ansatz: JAMstack
 
-I first learned about JAMstack when I started looking into hosting for said core documentation site. It was initially hosted on GitHub pages which provides free hosting. They also have SSL or a custom domain name, but you can't have both. Which was kind of a deal breaker.
+Ich habe zum ersten Mal von JAMstack erfahren, als ich anfing, mich mit dem Hosting für diese zentrale Dokumentationsseite zu befassen. Es wurde ursprünglich auf GitHub-Seiten gehostet, die kostenloses Hosting anbieten. Sie haben auch SSL oder einen benutzerdefinierten Domänennamen, aber Sie können nicht beides haben. Was eine Art Deal-Breaker war.
 
-Looking for alternatives, I stumbled onto [Netlify](https://www.netlify.com/), who do both SSL and custom domains and have a free-tier for open source projects (thanks guys). Furthermore, [this video by Netlify CEO Mathias Biilmann](https://vimeo.com/163522126) got me really excited about JAMstack.
+Auf der Suche nach Alternativen stolperte ich über [Netlify](https://www.netlify.com/), die sowohl SSL- als auch kundenspezifische Domains betreiben und ein kostenloses Angebot für Open-Source-Projekte haben (danke Jungs). Außerdem hat mich dieses Video von Netlify CEO Mathias Biilmann
 
-Unless you're familiar with JAMstack, I suggest you check out the video, but it boils down to this:
+ sehr begeistert für JAMstack.</p> 
+
+Sofern Sie nicht mit JAMstack vertraut sind, schlage ich vor, dass Sie sich das Video ansehen, aber es läuft darauf hinaus:
 
  - **J** = JavaScript
  - **A** = APIs
- - **M** = Markup
+ - **J** = Markup
 
-The idea is that you build your static site (markup) that you then make interactive with JavaScript that hooks up to one or more APIs.
+Die Idee ist, dass Sie Ihre statische Website (Markup) erstellen, die Sie dann mit JavaScript interaktiv machen, das an eine oder mehrere APIs angeschlossen ist.
 
-So in our case, rather than having a straight-forward documentation site with easy-to-edit markdown and a complex CMS to handle the dymanic stuff, let's just build one simple site that is statically generated, yet uses JavaScript and APIs to do the smart stuff.
+Anstatt also in unserem Fall eine einfache Dokumentationsseite mit einfach zu bearbeitendem Markdown und einem komplexen CMS zur Handhabung des dymanischen Materials zu haben, lassen Sie uns einfach eine einfache Seite erstellen, die statisch generiert wird, aber JavaScript und APIs verwendet, um das interaktive Material bereitzustellen.
 
-## Running before you can walk
 
-I must admit that in my enthousiasm to embrace this new approach I got a little ahead of myself. Suddenly, I was no longer building a simple site, but I was up to my eyeballs in isomorphic rendering, client-side routing, React and Redux, Node.js and ES6 transpiling.
 
-> If you don't know what any of that means, you might get a hint of the frustration I felt as I was trying to tame all these new beasts.
+## Laufen, bevor Sie gehen können
+
+Ich muss zugeben, dass ich in meiner Begeisterung, diesen neuen Ansatz anzunehmen, ein wenig über mich selbst hinausgewachsen bin. Plötzlich baute ich keine einfache Website mehr, aber ich war bis zum Anschlag in isomorphem Rendering, client-seitigem Routing, React and Redux, Node.js und ES6 Transpiling verwickelt.
+
+
+
+> Wenn Sie nicht wissen, was das alles bedeutet, werden Sie vielleicht einen Eindruck von der Frustration bekommen, die ich empfand, als ich versuchte, all diese neuen Bestien zu zähmen.
 > 
-> If you do know what it all means, where were you back in April when I walked through the valley of the React of death?
+> Wenn Sie wissen, was das alles bedeutet, wo waren Sie dann im April, als ich durch das Tal des Todes ging? 
 
-Point is, I'm not a developer and I was in way over my head. While I was learning new things every day, I wasn't making much progress on the actual task at hand, and felt frustrated with my inability to do even the most mundane things.
+Der Punkt ist, ich bin kein Entwickler und ich war weit über meinem Level. Während ich jeden Tag neue Dinge lernte, machte ich bei der eigentlichen Aufgabe nicht viel Fortschritte und war frustriert über meine Unfähigkeit, selbst die alltäglichsten Dinge zu tun.
 
-After a month of frustration, loads of trial and seemingly even more error, I threw in the towel. Eff this newfangled shiny JavaScript all the young kids are using, I'll stick to what I know.
+Nach einem Monat der Frustration, vielen Versuchen und scheinbar noch mehr Fehlern warf ich das Handtuch. Ich lass diesen neumodischen Kram namens JavaScript, den alle Kiddies heutzutage nutzen, und bleibe bei dem, was ich kenne. 
 
-Which is essentially the basics of jQuery. In other words, stuff that was pretty cool 10 years ago.
+Was im Wesentlichen die Grundlagen von jQuery ist. Mit anderen Worten, Sachen, die vor 10 Jahren ziemlich cool waren.
 
-## 10 year old jam is still jam right?
 
-So here we are, freesewing.org is a site powered by the JAMstack. And you know what, it seems to do what it needs to do.
 
-We have Jekyll build out static site, and when we push to our master branch, it gets autmatically deployed to Netlify.
+## 10 Jahre alte Marmelade ist immer noch Marmelade, oder?
 
-> Eff this newfangled shiny JavaScript all the young kids are using
+Hier sind wir also, freesewing.org ist eine Seite, die vom JAMstack betrieben wird. Und wissen Sie was, es scheint zu tun, was es tun soll.
 
-We have [a brand new data API](https://github.com/freesewing/data) build on [the Slim framework](https://www.slimframework.com/). It handles all user data. Things like accounts, measurements, models, and drafts, but also comments on this website and so on.
+Wir lassen Jekyll eine statische Website erstellen, und wenn wir etwas in unserem Masterbranch pushen, wird es automatisch auf Netlify bereitgestellt.
 
-It also talks to core for us, and every time you draft a pattern, we don't just give you the pattern, but we also run a comparison of your pattern to a range of standard sizes, which is kinda cool.
 
-And we have other cool stuff, like the ability to fork or redraft an existing draft.
 
-## This is a starting point
+> Effektiv dieses neumodisch glänzende JavaScript, das alle kleinen Kiddies benutzen
 
-I hope the user experience/interface is not going to be a roadblock for people. I've made a great deal of effort to make the drafting process as intuitive as possible and I think that in comparison to our demo (or the makemypattern interface for that matter) it's a vast improvement.
+Wir haben [eine brandneue Daten-API](https://github.com/freesewing/data), die auf [dem Slim Framework](https://www.slimframework.com/) basiert. Es verwaltet alle Benutzerdaten. Dinge wie Benutzerkonten, Maße, Modelle und Entwürfe, aber auch Kommentare zu dieser Website und so weiter.
 
-Then again, I'm sure things will break left or right, or that some of you don't like the colours or whatnot.
+Es spricht auch für uns, und jedes Mal, wenn Sie ein Muster entwerfen, geben wir Ihnen nicht nur das Muster, sondern führen auch einen Vergleich Ihres Musters mit einer Reihe von Standardgrößen durch, was irgendwie cool ist.
 
-The point is that I set out to build something that can replace makemypattern.com so that I could tell all of you _Hey, come over and play with this new thing_.
+Und wir haben noch andere coole Dinge, wie die Möglichkeit, einen bestehenden Entwurf zu duplizieren oder neu zu entwerfen.
 
-I think if nothing else, I can do that now. And if you see room for improvement, please [join the effort](/contribute), we're only getting started.
 
-<small>PS: For those of you wondering about the title of this post:</small>
+
+## Das ist ein Ausgangspunkt
+
+Ich hoffe, dass die Benutzererfahrung/Benutzeroberfläche kein Hindernis für Menschen sein wird. Ich habe große Anstrengungen unternommen, um den Entwurfvorgang so intuitiv wie möglich zu machen und ich denke, dass es im Vergleich zu unserer Demo (oder der Makemypattern-Schnittstelle für diese Angelegenheit) eine enorme Verbesserung ist.
+
+Andererseits bin ich sicher, dass die Dinge nach links oder rechts brechen werden, oder dass einige von euch die Farben nicht mögen oder was auch immer.
+
+Der Punkt ist, dass ich mich daran gemacht habe, etwas zu bauen, das makemypattern.com ersetzen kann, damit ich euch allen sagen kann _Hey, kommt vorbei und spielt mit diesem neuen Ding_.
+
+Ich denke, das kann ich das jetzt tun. Und wenn Sie Verbesserungspotenzial sehen, nehmen Sie bitte [an der Anstrengung teil](/contribute), wir fangen gerade erst an.
+
+<small>PS: Für diejenigen von euch, die sich über den Titel dieses Beitrags Gedanken machen:</small>
 
 @[youtube](oFRbZJXjWIA)
 

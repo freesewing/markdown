@@ -15,18 +15,18 @@ Ich fragte Quentin, ob er diesen Ankündigungsblogpost selbst schreiben wollte, 
 
 > ##### Quentin zu seinen Gründen, warum er Florent entworfen hat
 > 
-> Ich trage gerne selbst Schiebermützen. I didn't use to, but I have a friend Florent who inspired me to wear them (now you know where the name comes from).
+> Ich trage gerne selbst Schiebermützen. Das habe ich früher nicht, aber ich habe einen Freund Florent, der mich inspiriert hat, sie zu tragen (jetzt wißen Sie, woher der Name kommt).
 > 
-> The first time I made a flat cap, it took me ages to scale the pattern to an exact fit, involving a lot of messing about with tracing paper. There's a number of patterns available online for flat caps. But they all come in one size only. 
+> Als ich das erste Mal eine Schiebermütze herstellte, dauerte es ewig, bis ich das Muster passgenau skaliert hatte, wobei ich viel mit Transparentpapier herumbastelte. Es gibt eine Reihe von Schnittmuster für Schiebermützen, die online erhältlich sind. Aber sie sind alle nur in einer Größe erhältlich. 
 > 
-> I wanted to make this more accessible to people. And, while I was at it, I also drew on my experience to add some tweaks for a better fit. 
+> Ich wollte das den Menschen zugänglicher machen. Und während ich dabei war, habe ich auch meine Erfahrung genutzt, um einige Optimierungen für eine bessere Passform vorzunehmen. 
 > 
-> For example, this design extends lower at the back of the head, which gives it better hold.
+> Dieses Design erstreckt sich beispielsweise tiefer an der Rückseite des Kopfes, was ihm einen besseren Halt gibt.
 
-This *why should we always have to re-invent the wheel?* could pretty much be freesewing's slogan.
+Dieses *warum sollten wir das Rad immer wieder neu erfinden müssen?* könnte so ziemlich der Slogan von FreeSewing sein.
 
-## It's the season for giving
+## Es ist die Zeit des Schenkens
 
-Florent requires only one measurement: the head circumference. As such, this release is perfectly timed. With the holiday season coming up, here's another gift you can make yourself.
+Florent benötigt nur eine Messung: den Kopfumfang. Somit ist diese Veröffentlichung genau zum richtigen Zeitpunkt erfolgt. Mit der bevorstehenden Weihnachtszeit, hier ist ein weiteres Geschenk, das Sie selbst machen können.
 
-Thanks Quentin!
+Danke Quentin!

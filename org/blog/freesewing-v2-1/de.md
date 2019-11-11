@@ -1,68 +1,67 @@
 ---
 date: 2019-10-06
-title: "FreeSewing v2.1: Three new patterns, expert mode, and help with measurements"
-linktitle: "Three new patterns in FreeSewing v2.1"
+title: "FreeSewing v2.1: Drei neue Muster, Expertenmodus und Hilfe beim Massnehmen"
+linktitle: "Drei neue Muster in FreeSewing v2.1"
 img: ceiling.jpg
-caption: "This post is mostly about our work on progressive disclosure. Also: Three new patterns!"
+caption: "In diesem Beitrag geht es hauptsächlich um unsere Arbeit an der progressiven Offenlegung. Außerdem: Drei neue Schnittmuster!"
 author: joost
 ---
 
-We've just release FreeSewing v2.1 🎉
+Wir haben gerade FreeSewing v2.1 veröffentlicht 🎉
 
-## Meet Penelope, Waralee, and Simone
+## Treffen Sie Penelope, Waralee und Simone
 
-There are 3 new patterns in this release:
+Es gibt 3 neue Schnittmuster in dieser Version:
 
- - [Penelope](/patterns/penelope) is a pencil skirt by [Wouter Van Wageningen](/users/wouter.vdub)
- - [Waralee](/patterns/waralee) are wrap pants, also by [Wouter](/users/wouter.vdub)
- - [Simone](/patterns/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
+ - [Penelope](/patterns/penelope) ist ein Bleistiftrock von [Wouter Van Wageningen](/users/wouter.vdub)
+ - [Waralee](/patterns/waralee) sind Wickelhosen, auch von [Wouter](/users/wouter.vdub)
+ - [Simone](/patterns/simone) ist Simon (unser vielseitiges Button-Down-Muster) für Brüste angepasst durch [Joost De Cock](/users/joost)
 
-All of these patterns are either womenswear or -- in the case of Waralee -- unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
+Alle diese Muster sind entweder Damenmode oder - im Falle von Waralee - Unisex-Kleidung. Was ein Zeichen für unser Engagement ist, mehr Damenmode auf die Website zu bringen.
 
-Apart from creating new patterns, a lot of efforts have gone into making things simpler, without making them dumber. Let me explain:
+Neben der Entwicklung neuer Muster sind viele Anstrengungen unternommen worden, um die Dinge einfacher zu machen, ohne sie dümmer zu machen. Lassen Sie mich das erklären:
 
-## Our work on progressive disclosure
+## Unsere Arbeit an der progressiven Offenlegung
 
-Striking a balance between giving our users all the power of the platform, yet making it easy for newcomers to get started, is an ongoing challenge. We have started making inroads into addressing that issue with so-called *progressive disclosure of complexity*.
+Eine Balance zu finden, die es unseren Nutzern ermöglicht, die gesamte Leistungsfähigkeit der Plattform zu nutzen und gleichzeitig den Einstieg für Neueinsteiger zu erleichtern, ist eine ständige Herausforderung. Wir haben begonnen, dieses Problem mit der sogenannten *progressiven Offenlegung der Komplexität* anzugehen.
 
-The idea -- which we didn't make up, but is a concept in UX design -- is to simplify the experience for most people without limiting the abilities of more advanced users.
+Die Idee - die wir nicht erfunden haben, aber ein Konzept im UX-Design ist - ist es, die Erfahrung für die meisten Menschen zu vereinfachen, ohne die Fähigkeiten fortgeschrittenerer Benutzer einzuschränken.
 
-We are focusing our attention for progressive disclosure on two areas that are the ones that our users most often struggle with:
+Wir konzentrieren unsere Aufmerksamkeit für eine schrittweise Offenlegung auf zwei Bereiche, die diejenigen sind, mit denen unsere Benutzer am häufigsten zu kämpfen haben:
 
- - **Pattern options**: Our patterns often come with dozens of options. That is great for those who like to fine-tune every detail of their pattern, but can be a bit overwhelming for newcomers
- - **Measurements**: Taking accurate measurements is crucial for good results with our patterns, yet not as trivial as you would think.
+ - **Schnittmusteroptionen**: Unsere Schnittmuster haben oft Dutzende von Optionen. Das ist großartig für diejenigen, die gerne jedes Detail ihres Musters abstimmen, aber für Neulinge kann ein wenig überwältigend sein
+ - **Masse**: Genaues Massnehmen ist entscheidend für gute Ergebnisse mit unseren Schnittmustern, aber nicht so trivial, wie Sie denken würden.
 
-While we're certainly not there yet, we've made progress on both of these. Let's look at what we've been up to:
+Obwohl wir noch nicht da sind wo wir hin wollen, haben wir bei beidem Fortschritte gemacht. Schauen wir uns an, worum es geht:
 
-### Pattern options: We now have an expert mode, and it's off by default
+### Schnittmusteroptionen: Hier haben wir jetzt einen Expertenmodus, und der ist standardmäßig ausgeschaltet
 
-(some of) Our patterns have had *advanced options* for a while, but they are now hidden by default. That is until you turn on the **Expert mode** in the settings (below the pattern options).
+(einige von) unseren Schnitten haben seit einiger Zeit *erweiterte Optionen*, aber die sind nun standardmäßig ausgeblendet. Das heißt, bis Sie den **Expertenmodus** in den Einstellungen (unterhalb der Schnittmusteroptionen) einschalten.
 
-Apart from advanced pattern options, export mode also reveals the lesser-used draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
+Neben den erweiterten Musteroptionen zeigt der Exportmodus auch die weniger verwendeten Entwurfseinstellungen wie die Möglichkeit, Sprache, Einheiten, Details, Nahtzugabe und Inhalt Ihres Entwurfs zu ändern.
 
 ![Advanced mode](recreate.png)
 
 <Note> 
 
-###### Also shown: Pattern vs Recipe defaults
+######## Auch angezeigt: Muster vs. Rezeptvorgaben
 
-When configuring your draft, every option has a little button to restore the default value for that option.
-Things get more complicated when you're re-creating a recipe. Now when you restore the default, is it the pattern default, or the recipe's default?
+Wenn Sie Ihren Entwurf konfigurieren, verfügt jede Option über eine kleine Schaltfläche, um den Standardwert für diese Option wiederherzustellen.
+Die Dinge werden komplizierter, wenn Sie ein Rezept erneut erstellen. Wenn Sie nun den Standardwert wiederherstellen, ist es dann der Musterstandard oder der Standard des Rezepts?
 
-The answer used to be the pattern default, but with this release, you'll find that options where the recipe default is different from the pattern
-default will have two buttons. Once to restore the pattern default, and another to restore the recipe default. 
+Die Antwort war bisher: der Schnittmusterstandardwert, aber mit dieser Version werden Sie feststellen, dass Optionen, bei denen der Rezeptstandard vom Musterstandard abweicht, zwei Schaltflächen haben. Das eine stellt die Schnittmusterstandardwerte wieder her, das an die Standardwerte des Rezepts. 
 
-You can see this in the screenshot above.
+Sie können dies im Screenshot oben sehen.
 
 </Note>
 
-### Measurements: Helping you spot mistakes in your measurements
+### Masse: Helfen Ihnen die Fehler in Ihren gemessenen Massen zu entdecken
 
-We've added a few indicators to help you spot mistakes or problems in your measurements. Your models will now show a graphical representation of your body measurements, which will allow you to spot any outliers.
+We've added a few indicators to help you spot mistakes or problems in your measurements. Ihre Modelle zeigen nun eine grafische Darstellung Ihrer Körpermaße, mit der Sie Ausreißer erkennen können.
 
 ![A graphical representation of your model's measurements](model.png)
 
-In addition, we are showing you an estimate of your different measurements (based on your neck circumference) next to the actual value. If the difference gets larger, we'll draw your attention to that.
+Zusätzlich zeigen wir Ihnen neben dem Istwert eine Schätzung Ihrer verschiedenen Maße (bezogen auf Ihren Halsumfang). Wenn der Unterschied größer wird, werden wir Sie darauf aufmerksam machen.
 
 This is a difficult area for us to work in. We want to help you get the best results, and that includes helping you spot issues with your measurements. On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.
 
