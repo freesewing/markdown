@@ -1,55 +1,37 @@
-> **Note**: This is part of version 2 of FreeSewing.  
-> It is a work in progress, and not ready for prime-time yet
-> 
-> For all questions, please come say hello in [our chatroom on Gitter](https://gitter.im/).
+![FreeSewing](https://freesewing.org/banner.jpg)
+<p align="center">
+  <a href="https://gitter.im/freesewing/freesewing"><img src="https://badgen.net/badge/chat/on%20Gitter/cyan" alt="Chat on Gitter"></a>
+  <a href="https://freesewing.org/patrons/join"><img src="https://badgen.net/badge/become/a%20Patron/FF5B77" alt="Become a Patron"></a>
+</p>
 
-<p align="center"><a title="Go to freesewing.org" href="https://freesewing.org/"><img src="https://freesewing.org/img/logo/black.svg" align="center" width="150px" alt="Freesewing logo"/></a></p>
-<p align="center">FreeSewing is a free and open source library for made-to-measure sewing patterns</p>
-<p align='center'><a
-  href="https://twitter.com/freesewing_org"
-  title="Follow @freesewing_org on Twitter"
-  ><img src="https://img.shields.io/badge/%F3%A0%80%A0-Follow%20us-blue.svg?logo=twitter&logoColor=white&logoWidth=15"
-  alt="Follow @freesewing_org on Twitter"/>
-  </a><a
-  href="https://gitter.im/freesewing/freesewing"
-  title="Chat with us on Gitter"
-  ><img src="https://img.shields.io/badge/%F3%A0%80%A0-Chat%20with%20us-CA0547.svg?logo=gitter&logoColor=white&logoWidth=15"
-  alt="Chat with us on Gitter"/>
-  </a><a
-  href="https://freesewing.org/patrons/join"
-  title="Become a FreeSewing Patron"
-  ><img src="https://img.shields.io/badge/%F3%A0%80%A0-Support%20us-blueviolet.svg?logo=cash-app&logoColor=white&logoWidth=15"
-  alt="Become a FreeSewing Patron"/>
-  </a><a
-  href="https://instagram.com/freesewing_org"
-  title="Follow @freesewing_org on Twitter"
-  ><img src="https://img.shields.io/badge/%F3%A0%80%A0-Follow%20us-E4405F.svg?logo=instagram&logoColor=white&logoWidth=15"
-  alt="Follow @freesewing_org on Twitter"/>
-  </a></p>
+## What am I looking at? 🤔
 
-# Markdown content for freesewing
+This repository holds the markdown content for both
+the [freesewing.org](https://freesewing.org),
+and [freesewing.dev](https://freesewing.dev),
+websites.
 
-This contains the markdown files for our websites. Blog posts, documentation, everything.
+You should only update English content via this repository. Translation is handled
+via [Crowdin](https://crowdin.com/project/fs-markdown).  
+See the [documentation for translators](https://freesewing.dev/guides/translator/) for more info.
 
-
-
-## About FreeSewing 🤔
+## About FreeSewing 💀
 
 Where the world of makers and developers collide, that's where you'll find FreeSewing.
 
-Our [core library](https://freesewing.dev/en/freesewing) is a *batteries-included* toolbox
+Our [core library](https://freesewing.dev/) is a *batteries-included* toolbox
 for parametric design of sewing patterns. It's a modular system (check our list
-of [plugins](https://freesewing.dev/en/plugins) and getting started is as simple as:
+of [plugins](https://freesewing.dev/plugins) and getting started is as simple as:
 
 ```bash
 npm init freesewing-pattern
 ```
 
-The [getting started] section on [freesewing.dev](https://freesewing.dev/) is a good
+The [getting started](https://freesewing.dev/start) section on [freesewing.dev](https://freesewing.dev/) is a good
 entrypoint to our documentation, but you'll find a lot more there, including
-our [API documentation](https://freesewing.dev/en/freesewing/api),
-as well as [examples](https://freesewing.dev/en/freesewing/examples),
-and [best practices](https://freesewing.dev/en/do).
+our [API reference](https://freesewing.dev/api),
+as well as [our turorial](https://freesewing.dev/tutorial),
+and [best practices](https://freesewing.dev/do).
 
 If you're a maker, checkout [freesewing.org](https://freesewing/) where you can generate
 our sewing patterns adapted to your measurements.
@@ -65,8 +47,8 @@ should [become a patron](https://freesewing.org/patrons/join).
 ## Links 👩‍💻
 
  - 💻 Makers website: [freesewing.org](https://freesewing.org)
- - 💻 Developers website: [freesewing.dev](https://freesewing.org)
- - 💬 Chat: [gitter.im/freesewing](https://gitter.im/freesewing/freesewing)
+ - 💻 Developers website: [freesewing.dev](https://freesewing.dev)
+ - 💬 Chat: [gitter.im/freesewing](https://gitter.im/freesewing/chat)
  - 🐦 Twitter: [@freesewing_org](https://twitter.com/freesewing_org)
  - 📷 Instagram: [@freesewing_org](https://instagram.com/freesewing_org)
 
@@ -77,7 +59,7 @@ See [the license file](https://github.com/freesewing/freesewing/blob/develop/LIC
 
 ## Where to get help 🤯
 
-Our [chatroom on Gitter](https://gitter.im) is the best place to ask questions,
+Our [chatroom on Gitter](https://gitter.im/freesewing/chat) is the best place to ask questions,
 share your feedback, or just hang out.
 
 If you want to report a problem, please [create an issue](https://github.com/freesewing/freesewing/issues/new).
