@@ -37,31 +37,31 @@ L'ajout des découpes princesse a rendu le placement de la poche de carte un peu
 
 De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus sous la poitrine.
 
-### Une option supplémentaire: L'intensité de la découpe princesse
+### Une option supplémentaire : L'intensité de la découpe princesse
 
 Carlita a aussi une option supplémentaire que Carlton n'a pas, du nom un peu élaboré [Intensité de la découpe princesse](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Ceci contrôle la netteté de la découpe princesse après avoir ajouté le volume supplémentaire de votre poitrine.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Une image en dit plus que mille mots, donc voici une illustration de l'option sur la partie concernée du modèle :
 
 ![The effect of the option as shown by our sampler service](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Comme vous pouvez le voir, l'option gère l'a rapidité avec laquelle la découpe princesse rejoint votre taille après avoir passé le point le plus large de votre buste.
 
-A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
+Une faible intensité permettra un manteau plus ajusté, mais aussi une couture plus courbée plus difficile à coudre.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Une intensité plus lisse permettra de lisser la découpe de façon à ce qu'elle fasse un repli plus incliné vers la couture descendante. Cela rendra le manteau moins ajusté sous votre poitrine mais la couture plus facile à coudre.
 
-## A reminder about made-to-measure patterns
+## Un rappel sur les patrons sur-mesure
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes nouveau ici, cela vaut la peine de le répéter :
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Ce manteau n'est pas conçu pour une certaine taille de bonnet prédéfini. Au lieu de cela, il s’adaptera à votre poitrine en fonction de vos mesures.
 
-## Ladies, we need your feedback
+## Mesdames, nous avons besoin de vos avis
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Il s'agit de notre premier modèle de vêtement féminin avec un ajustement poitrine. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
 
 If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
 
