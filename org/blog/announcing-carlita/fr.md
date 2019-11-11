@@ -37,9 +37,9 @@ L'ajout des découpes princesse a rendu le placement de la poche de carte un peu
 
 De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus sous la poitrine.
 
-### One extra option: The princess seam smooth factor
+### Une option supplémentaire: L'intensité de la découpe princesse
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita a aussi une option supplémentaire que Carlton n'a pas, du nom un peu élaboré [Intensité de la découpe princesse](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
 This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
 
