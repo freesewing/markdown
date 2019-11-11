@@ -30,13 +30,13 @@ L'idée -- que nous n'avons pas inventée, mais c'est un concept dans la concept
 Nous concentrons notre attention pour la révélation progressive sur deux sujets pour lesquels nos utilisateurs débattent le plus souvent :
 
  - **Options des patrons** : Nos patrons offrent souvent une douzaine d'options. C'est génial pour ceux qui aiment affiner chaque détail de leur modèle, mais peut-être un peu accablant pour les nouveaux arrivants
- - **Mesures**: Il est essentiel de prendre des mesures précises pour obtenir de bons résultats avec nos modèles ; ce n'est pas aussi futile que vous le pensez.
+ - **Mesures** : Il est essentiel de prendre des mesures précises pour obtenir de bons résultats avec nos modèles ; ce n'est pas aussi futile que vous le pensez.
 
 Bien que nous n'en soyons certainement pas encore là, nous avons fait des progrès sur ces deux points. Voyons ce que nous avons déjà réussi :
 
 ### Options de patron : Nous avons maintenant un mode expert, et il est désactivé par défaut
 
-(certains de) Nos patrons ont des *options avancées* depuis un certain temps, mais ils sont maintenant cachés par défaut. Ceci jusqu'à ce que vous activez le **Mode Expert** dans les paramètres (ci-dessous les options de patron).
+(certains de) Nos patrons ont des *options avancées* depuis un certain temps, mais ils sont maintenant cachés par défaut. Ceci jusqu'à ce que vous activiez le **Mode Expert** dans les paramètres (ci-dessous les options de patron).
 
 Hormis les options avancées de patron, le mode export révèle également les paramètres de brouillon moins utilisés comme la possibilité de changer la langue, l'unité, les détails, les marges et le contenu de votre brouillon.
 
@@ -58,7 +58,7 @@ Vous pouvez le voir dans la capture d'écran ci-dessus.
 
 ### Mesures : Vous aider à détecter les erreurs dans vos mensurations
 
-We've added a few indicators to help you spot mistakes or problems in your measurements. Vos modèles afficheront maintenant une représentation graphique de vos mensurations, ce qui vous permettra de repérer les erreurs potentielles.
+Nous avons ajouté quelques indicateurs pour vous aider à repérer des erreurs ou des problèmes dans vos mesures. Vos modèles afficheront maintenant une représentation graphique de vos mensurations, ce qui vous permettra de repérer les erreurs potentielles.
 
 ![Une représentation graphique des mensurations de votre modèle](model.png)
 
