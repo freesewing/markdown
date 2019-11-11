@@ -1,23 +1,23 @@
 ---
 date: 2019-10-06
-title: "FreeSewing v2.1: Three new patterns, expert mode, and help with measurements"
-linktitle: "Three new patterns in FreeSewing v2.1"
+title: "FreeSewing v2.1 : Trois nouveaux modèles, un mode expert et l'aide aux mesures"
+linktitle: "Trois nouveaux modèles dans FreeSewing v2.1"
 img: ceiling.jpg
-caption: "This post is mostly about our work on progressive disclosure. Also: Three new patterns!"
+caption: "Ce message traite principalement de notre travail sur la diffusion progressive. De plus : trois nouveaux modèles !"
 author: joost
 ---
 
-We've just release FreeSewing v2.1 🎉
+Nous venons juste de publier FreeSewing v2.1 <unk> 🎉
 
-## Meet Penelope, Waralee, and Simone
+## Rencontrez Pénelope, Waralee et Simone
 
-There are 3 new patterns in this release:
+Il y a 3 nouveaux modèles dans cette nouvelle version :
 
- - [Penelope](/patterns/penelope) is a pencil skirt by [Wouter Van Wageningen](/users/wouter.vdub)
- - [Waralee](/patterns/waralee) are wrap pants, also by [Wouter](/users/wouter.vdub)
- - [Simone](/patterns/simone) is Simon (our versatile button-down pattern) adapted for breasts by [Joost De Cock](/users/joost)
+ - [Penelope](/patterns/penelope) est une jupe crayon de [Wouter Van Wageningen](/users/wouter.vdub)
+ - [Waralee](/patterns/waralee) est un pantalon "pareo" (aussi dit thaïlandais), aussi de [Wouter](/users/wouter.vdub)
+ - [Simone](/patterns/simone) est Simon (notre versatile patron boutonné) adapté pour les seins, de [Joost De Cock](/users/joost)
 
-All of these patterns are either womenswear or -- in the case of Waralee -- unisex clothing. Which in an indication of our commitment to bring more womenswear patterns to the site.
+Tous ces patrons sont des vêtements féminins ou -- dans le cas de Waralee -- unisexes. Ceci est donc une démonstration de notre engagement à apporter plus de modèles de vêtements féminins sur le site.
 
 Apart from creating new patterns, a lot of efforts have gone into making things simpler, without making them dumber. Let me explain:
 
