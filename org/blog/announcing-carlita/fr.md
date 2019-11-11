@@ -9,15 +9,15 @@ author: joost
 
 Celui-ci pour les dames \--- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui en version bêta à compter d'aujourd'hui.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita est \--- vous l'avez deviné \--- la version féminine de notre manteau de Carlton, qui recrée l'emblématique manteau Sherlock Holmes porté par Benoit C. dans la série sur BBC.
 
-## How did we do it?
+## Comment y sommes-nous parvenus ?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Pour plus de détails sur la manière dont ce projet est né, je vous renvoie à [l'article sur annonce de Carlton](/blog/announcing-carlton-and-bent/). Je voudrais ici me concentrer sur la façon dont nous avons transformé ce patron masculin en manteau pour dames.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+Nous voulions rester aussi près que possible de l'original donc tout ce que nous avons fait a été faire des changements pour répondre à un seul défi : ajuster les seins.
 
 ### Princess, meet your seam
 
