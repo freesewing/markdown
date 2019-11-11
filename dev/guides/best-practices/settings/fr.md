@@ -4,7 +4,7 @@ title: Respect draft settings
 
 Apart from the pattern options that you configure for your pattern, all FreeSewing patterns have a set of [draft settings](/reference/settings/) that can be tweaked by the user.
 
-While many of these will automatically be handled by FreeSewing, there are some that you should take into account while developing your pattern. They are:
+While many of these will automatically be handled by FreeSewing, there are some that you should take into account while developing your pattern. Il y a :
 
 ## Complete
 
