@@ -19,13 +19,13 @@ Pour plus de détails sur la manière dont ce projet est né, je vous renvoie à
 
 Nous voulions rester aussi près que possible de l'original donc tout ce que nous avons fait a été faire des changements pour répondre à un seul défi : ajuster les seins.
 
-### Princess, meet your seam
+### Princesse, réalisez votre version
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant du manteau, par laquelle nous avons ajouté du galbe pour le buste.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplémentaires en plus des mesures requises par Carlton. Il y a :
 
- - The [high bust](/docs/measurements/#highBust)
+ - La [hauteur de buste](/docs/measurements/#highBust)
  - The [bust span](/docs/measurements/#bustSpan)
  - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
 
