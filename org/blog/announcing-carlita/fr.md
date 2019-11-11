@@ -25,9 +25,9 @@ Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant 
 
 Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplémentaires en plus des mesures requises par Carlton. Il y a :
 
- - La [hauteur de buste](/docs/measurements/#highBust)
- - The [bust span](/docs/measurements/#bustSpan)
- - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+ - Le [tour de sur-poitrine](/docs/measurements/#highBust)
+ - L'[écart poitrine](/docs/measurements/#bustSpan)
+ - La [hauteur épaule poitrine](/docs/measurements/#highPointShoulderToBust)
 
 We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
 
