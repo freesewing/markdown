@@ -3,7 +3,7 @@ date: 2019-10-06
 title: "FreeSewing v2.1 : Trois nouveaux modèles, un mode expert et l'aide aux mesures"
 linktitle: "Trois nouveaux modèles dans FreeSewing v2.1"
 img: ceiling.jpg
-caption: "Ce message traite principalement de notre travail sur la diffusion progressive. De plus : trois nouveaux modèles !"
+caption: "Ce message traite principalement de notre travail sur la révélation progressive. De plus : trois nouveaux modèles !"
 author: joost
 ---
 
@@ -19,24 +19,24 @@ Il y a 3 nouveaux modèles dans cette nouvelle version :
 
 Tous ces patrons sont des vêtements féminins ou -- dans le cas de Waralee -- unisexes. Ceci est donc une démonstration de notre engagement à apporter plus de modèles de vêtements féminins sur le site.
 
-Apart from creating new patterns, a lot of efforts have gone into making things simpler, without making them dumber. Let me explain:
+En plus de créer de nouveaux modèles, de nombreux efforts ont été réalisés pour simplifier les choses, sans les rendre plus limitées. Je m’explique :
 
-## Our work on progressive disclosure
+## Notre travail sur la révélation progressive
 
-Striking a balance between giving our users all the power of the platform, yet making it easy for newcomers to get started, is an ongoing challenge. We have started making inroads into addressing that issue with so-called *progressive disclosure of complexity*.
+Trouver un équilibre entre donner à nos utilisateurs toute la puissance de la plate-forme, tout en facilitant le démarrage des nouveaux arrivants, est un défi permanent. Nous avons commencé à faire des progrès dans la résolution de ce problème avec ce que l'on appelle *révélation progressive de la complexité*.
 
-The idea -- which we didn't make up, but is a concept in UX design -- is to simplify the experience for most people without limiting the abilities of more advanced users.
+L'idée -- que nous n'avons pas inventée, mais c'est un concept dans la conception d'UX (= expérience utilisateur) -- est de simplifier l'expérience pour la majorité des gens sans limiter les capacités des utilisateurs plus avancés.
 
-We are focusing our attention for progressive disclosure on two areas that are the ones that our users most often struggle with:
+Nous concentrons notre attention pour la révélation progressive sur deux sujets pour lesquels nos utilisateurs débattent le plus souvent :
 
- - **Pattern options**: Our patterns often come with dozens of options. That is great for those who like to fine-tune every detail of their pattern, but can be a bit overwhelming for newcomers
- - **Measurements**: Taking accurate measurements is crucial for good results with our patterns, yet not as trivial as you would think.
+ - **Options des patrons** : Nos patrons offrent souvent une douzaine d'options. C'est génial pour ceux qui aiment affiner chaque détail de leur modèle, mais peut-être un peu accablant pour les nouveaux arrivants
+ - **Mesures**: Il est essentiel de prendre des mesures précises pour obtenir de bons résultats avec nos modèles ; ce n'est pas aussi futile que vous le pensez.
 
-While we're certainly not there yet, we've made progress on both of these. Let's look at what we've been up to:
+Bien que nous n'en soyons certainement pas encore là, nous avons fait des progrès sur ces deux points. Voyons ce que nous avons déjà réussi :
 
-### Pattern options: We now have an expert mode, and it's off by default
+### Options de patron : Nous avons maintenant un mode expert, et il est désactivé par défaut
 
-(some of) Our patterns have had *advanced options* for a while, but they are now hidden by default. That is until you turn on the **Expert mode** in the settings (below the pattern options).
+(certains de) Nos patrons ont des *options avancées* depuis un certain temps, mais ils sont maintenant cachés par défaut. That is until you turn on the **Expert mode** in the settings (below the pattern options).
 
 Apart from advanced pattern options, export mode also reveals the lesser-used draft settings such as the ability to change the language, units, details, margin, and contents of your draft.
 
