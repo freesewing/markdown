@@ -29,13 +29,13 @@ Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplém
  - L'[écart poitrine](/docs/measurements/#bustSpan)
  - La [hauteur épaule poitrine](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+Nous utilisons vos mesures de tour de sur-poitrine pour dessiner le manteau, puis effectuons un "full bust adjustment" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart poitrine et de la hauteur épaule poitrine.
 
-### All of the pockets, but we had to move some of them
+### Toutes les poches, mais nous avons dû déplacer certaines d'entre elles
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+L'ajout des découpes princesse a rendu le placement de la poche de carte un peu difficile, donc nous l'avons légèrement déplacée et alignée verticalement, plutôt que légèrement inclinée comme c'est dans Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus sous la poitrine.
 
 ### One extra option: The princess seam smooth factor
 
