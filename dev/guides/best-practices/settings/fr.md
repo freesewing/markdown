@@ -22,7 +22,7 @@ The [sa](/reference/settings/#sa) setting is a number that controls the seam all
 
 Unless `sa` is zero, you should add the requested seam allowance to your pattern.
 
-## Example
+## Exemple
 
 To respect the `complete`, `paperless`, and `sa` draft settings, structure your parts as such:
 
