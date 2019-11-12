@@ -18,7 +18,7 @@ Cette question suggère souvent une méfiance liée à la création d'un compte.
 
  - [Que faites-vous de mes données personnelles ? (#what-are you-doing-with-my-personal-data)
  - [Qui paie pour tout ça ?](#who-pays-for-all-of-this)
- - [Quelle est votre objectif ?](#whats-your-end-game)
+ - [Quel est votre objectif ?](#whats-your-end-game)
 
 </Note>
 
@@ -26,34 +26,34 @@ Cette question suggère souvent une méfiance liée à la création d'un compte.
 
 La conception de patron de couture sur mesure est vraiment *notre spécialité*. Si vous insistez pour obtenir un patron de taille standard, FreeSewing n'est pas fait pour vous.
 
-No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, FreeSewing is the only one on that list to not provide sewing patterns in standardized sizes.
+Pas besoin de désespérer donc, Fiona fournit [une liste de concepteurs de patrons indépendants](https://chainstitcher.blogspot.com/p/about-blog.html) et à notre connaissances, FreeSewing est le seul sur cette liste à ne pas proposer des patrons de couture en tailles standards.
 
-## What are you doing with my personal data?
+## Que faites-vous de mes données personnelles ?
 
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
+La manière dont nous traitons vos données personnelles est documentée dans [notre politique de confidentialité](/docs/about/privacy/).
 
-## Who pays for all of this?
+## Qui paie pour tout ça ?
 
-The FreeSewing project is supported financially by [our patrons](/patrons).
+Le projet FreeSewing est soutenu financièrement par [nos mécènes](/patrons).
 
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Les mécènes sont des utilisateurs réguliers comme vous qui ont accepté de faire une petite contribution mensuelle pour le maintien et le fonctionnement de Freesewing.
 
 <Note>
 
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+##### Rejoignez les mécènes de Freesewing
+Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas 
+[devenir mécène](/patrons/join) vous aussi ?
 
 </Note>
 
-## Can I use FreeSewing patterns for commercial purposes?
+## Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
 
-Yes you can. Open Source is a development model, not a business model.
+Oui, vous pouvez. L'Open Source est un modèle de développement, pas un modèle d'affaires.
 
-If our work can help you put food on the table, by all means take it.
+Si notre travail peut vous aider à joindre les deux bouts, alors profitez-en.
 
-## What's your end game?
+## Quel est votre objectif ?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+Nous aimerions que freesewing.org devienne le Wikipédia des patrons de couture.
 
-Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons plutôt donner des moyens de faire aux créateurs et réalisateurs en distillant les connaissances de la communauté couturière à travers des patrons et de la documentation, tout en rendant ces informations disponibles au plus grand nombre. 
