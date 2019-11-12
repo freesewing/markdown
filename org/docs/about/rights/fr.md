@@ -12,19 +12,19 @@ Vous avez le droit d'être informé de la collecte et de l'utilisation de vos do
 
 ## The right of access
 
-You have the right to access your personal data. Go to [/account](/account) to do so.
+Vous disposez d'un droit d'accès à vos données personnelles. Pour cela, allez dans la partie [/Mon compte](/account).
 
 ## The right to rectification
 
-You have the right to rectify your personal data, or complete it if it is incomplete. Go to [/account](/account) to do so.
+Vous avez le droit de rectifier vos données personnelles ou de les compléter si elles sont incomplètes. Pour cela, allez dans la partie [/Mon compte](/account).
 
 ## The right to erasure
 
-You have the right to have your personal data erased. Go to [/account/remove](/account/remove) to remove all your data.
+Vous disposez d'un droit de suppression de vos données personnelles. Allez dans [/Mon compte/supprimer](/account/remove) pour supprimer toutes vos données.
 
 ## The right to restrict processing
 
-You have the right to request a restriction on the processing of your personal data. Go to [/account/restrict](/account/restrict) to request we restrict processing of your personal data.  
+Vous avez le droit de demander une restriction sur le traitement de vos données personnelles. Allez dans [/mon compte/restriction](/account/restrict) pour demander que nous restreignons le traitement de vos données personnelles.  
 
 <Warning>
 
