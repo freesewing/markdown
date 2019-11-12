@@ -33,71 +33,71 @@ Ces rôles sont cumulatifs. Si vous êtes un utilisateur, vous êtes aussi un vi
  - **Les partageons-nous ?**
    - Non, jamais.
 
-This data is stored for anybody who visits our website or connects to our backend APIs.
+Ces données sont stockées pour toute personne qui visite notre site Web ou qui se connecte à nos API.
 
 </Note>
 
 <Note>
 
-#### Profile data
+#### Données de profil
 
- - **What personal data do we store?**
-   - Your E-mail address
-   - Your username and password
-   - Optional: A profile picture, bio, and your social media accounts
- - **Why do we need it?**
-   - To authenticate you
-   - To be able to contact you when required
-   - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
- - **How long do we keep it?**
-   - We keep profile data up to 12 months after your last login, or until you remove it.
+ - **Quelles données personnelles stockons-nous ? *
+   - Votre adresse e-mail
+   - Votre nom d'utilisateur et votre mot de passe
+   - Optionnel : une photo de profil, bio, et vos comptes de réseaux sociaux
+ - **Pourquoi en avons-nous besoin ? *
+   - Pour vous authentifier
+   - Pour être en mesure de vous contacter si besoin
+   - Facultatif : nous n'avons pas besoin d'une photo ou de vos comptes de réseaux sociaux, mais ils aident à construire une communauté en ligne
+ - **Combien de temps les conserverons-nous ? *
+   - Nous conservons les données de profil jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
  - **Les partageons-nous ?**
    - Non, jamais.
 
-This data is stored for anybody with an account on our website.
+Ces données sont stockées pour toute personne ayant un compte sur notre site Web.
 
 </Note>
 
 <Note>
 
-#### Model data
+#### Données de modèle
 
- - **What personal data do we store?**
-   - Body measurements
-   - Whether the model has breasts or not
-   - Optional: An avatar for the model
- - **Why do we need it?**
-   - We need the body measurements to draft made-to-measure sewing patterns
-   - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
-   - The model avatar only serves to help you differentiate between your different models
- - **How long do we keep it?**
-   - We keep model data up to 12 months after your last login, or until you remove it.
- - **Do we share it?**
-   - We never share personal model data
-   - We publish an open data set of measurements, containing fully anonymized data.
+ - **Quelles données personnelles stockons-nous ? *
+   - Mensurations
+   - Si le modèle a des seins ou pas
+   - Optionnel : Un avatar pour le modèle
+ - **Pourquoi en avons-nous besoin ? *
+   - Nous avons besoin des mensurations pour réaliser des patrons sur mesure
+   - Nous utilisons les informations pour savoir si un modèle a des seins seulement pour afficher les mesures pertinentes lors de la configuration du patron
+   - L'avatar de modèle ne sert qu'à vous aider à vous y retrouver entre vos différents modèles
+ - **Combien de temps les gardons-nous ? *
+   - Nous conservons les données de modèle jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
+ - **Les partageons-nous ? *
+   - Nous ne partageons jamais de données personnelles des modèles
+   - Nous publions un jeu de données ouvert de mensurations, contenant des données entièrement anonymisées.
 
-This data is stored for anybody with an account on our website which contains one or more models.
+Ces données sont stockées pour toute personne possédant un compte sur notre site web et qui possède un ou plusieurs modèles.
 
 </Note>
 
-## Part 2: Other topics
+## Partie 2 : Autres sujets
 
-### Full disclosure
+### Devoir de transparence
 
-If we learn of a security systems breach, we will inform both you and the authorities.
+Si nous décelons une violation des systèmes de sécurité, nous vous en informerons ainsi que les autorités.
 
-If you believe your personal data has been compromised, please contact joost@decock.org.
+Si vous pensez que vos données personnelles ont été compromises, veuillez contacter joost@decock.org.
 
 
-### Service Providers
+### Prestataires de services
 
-Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
+Notre hébergeur gère nos systèmes centraux pour nous. Cela inclut l'hébergement, le stockage et la sauvegarde.
 
-While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
+Bien que cela signifie qu'ils traitent vos données (au sens strict du mot), ils n'ont pas besoin d'accéder à des informations vous concernant. De plus, comme nous chiffrons les données de profil, ça ne leur sert à rien d'y accéder même s'ils le souhaitent.
 
-### Law enforcement
+### Application de la loi
 
-While we have no intention of sharing any of your personal data, we are not above the law.
+Bien que nous n'ayons aucune intention de partager vos données personnelles, nous ne sommes pas au-dessus des lois.
 
 If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
 
