@@ -12,12 +12,12 @@ Nous vous demandons d'éviter les obscénités et autres termes insultant, de fa
 Sans vouloir être exhaustif, cela ne signifie pas de racisme, de xénophobie, d'appels à la violence. discrimination basée sur la religion, l'origine ethnique, le sexe âge, l'aspect physique ou morphologique, la langue, &hellip;.
 
 ## Ne pas spammer
-We encourage you to post comments that stick to the subject and would appreciate it if you refrain from posting advertisements (for your businesses, blogs or websites, etc).
+Nous vous encourageons à poster des commentaires qui s'en tiennent au sujet et nous apprécierions que vous vous absteniez de poster des publicités (pour vos entreprises, blogs ou sites web, etc.).
 
-It is fine to post links to relevant information on other websites, but Spam and other off-topic items will be removed.
+Il est bon d'afficher des liens vers des informations pertinentes sur d'autres sites Web, mais le spam et d'autres éléments hors sujet seront supprimés.
 
-## Don't get us in trouble
-Comments that are defamatory, unlawful or include copyright infringements are also against the rules. Impersonating other people or using fake accounts is also not done.
+## Ne créez pas de problèmes
+Les commentaires qui sont diffamatoires, illégaux ou qui enfreignent les droits d'auteur sont également contraires aux règles. Il n'est pas non plus permis d'usurper l'identité d'autres personnes ou d'utiliser de faux comptes.
 
-We will delete these types of comments and may ban users who keep on disregarding these rules.
+Nous supprimerons ces types de commentaires et nous pourrons bannir les utilisateurs qui ne respectent pas ces règles.
 
