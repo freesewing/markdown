@@ -14,17 +14,17 @@ Alors que nous pourrions en principe construire ce site de manière à ce qu'auc
 
 ##### Vous demandez parce que vous ne nous faites pas confiance ?
 
-Cette question suggère souvent une méfiance liée à la création d'un compte. As such, the following questions and answers may also be relevant:
+Cette question suggère souvent une méfiance liée à la création d'un compte. Ainsi, les questions et réponses suivantes peuvent également être pertinentes :
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
+ - [Que faites-vous de mes données personnelles ? (#what-are you-doing-with-my-personal-data)
+ - [Qui paie pour tout ça ?](#who-pays-for-all-of-this)
+ - [Quelle est votre objectif ?](#whats-your-end-game)
 
 </Note>
 
-## I know my size. So why do I have to enter my measurements?
+## Je connais ma taille. Donc pourquoi devrais-je entrer mes mensurations ?
 
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+La conception de patron de couture sur mesure est vraiment *notre spécialité*. Si vous insistez pour obtenir un patron de taille standard, FreeSewing n'est pas fait pour vous.
 
 No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, FreeSewing is the only one on that list to not provide sewing patterns in standardized sizes.
 
