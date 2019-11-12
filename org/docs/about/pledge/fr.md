@@ -36,24 +36,24 @@ Il ne s'agit pas de *seulement* d'argent. Mais cela ne signifie pas que l'argent
 
 Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on FreeSewing.
+I could volunteer at a soup kitchen, or teach underprivileged children how to sew. Mais à la place, je travaille sur FreeSewing.
 
-Which is why all the money raised through FreeSewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it's ok to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. It makes this project not only fun to do, but also socially responsible. Et j'ai besoin de ça pour me convaincre que oui, il est bon de passer tout mon temps à le faire, parce qu'à la fin de l'année, cela me permet d'envoyer un chèque à des gens qui en ont vraiment besoin.
 
 ### Charity is not sexy
-Here's the tricky part: People give less once they know the money goes to charity in the end. I wish it wasn't the case, but it is.
+Voici la partie délicate : les gens donnent moins une fois qu'ils savent que l'argent est finalement reversé aux bonnes œuvres. Je voudrais que ce ne soit pas le cas, mais ça l'est.
 
-So we're presenting [our subscription options](/patrons/join) like you would see on a for-profit site. It seems more intuitive this way, and also just works better.
+Nous présentons donc [nos options d'abonnement](/patrons/join) comme vous le verriez sur un site à but lucratif. Cela semble plus intuitif ainsi, et ça fonctionne mieux aussi.
 
-Yes, everything is free, and the money doesn't actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn't mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+Oui, tout est gratuit et l'argent ne va pas vraiment payer les factures du serveur (parce que je choisis de les payer de ma poche pour les raisons décrites ci-dessus). Mais cela ne signifie pas que ces contributions ne sont pas cruciales pour le bien-être du projet. ou du moins son responsable (c'est-à-dire moi).
 
-## What charity does the money go to?
+## A quelle œuvre de charité va l'argent ?
 
-There's a lot of misery in the world. As I watch the news, I often feel my faith in humanity slipping.
+Il y a beaucoup de misère dans le monde. En regardant les nouvelles, je sens souvent que ma foi en l'humanité faillit.
 
-Some of the most vulnerable people on this planet seem largely abandoned by rich countries and supra-national organisations.
+Certaines des personnes les plus vulnérables de cette planète semblent largement abandonnées par les pays riches et les organisations internationales.
 
-Yet somehow, in some of those worst places to be a human being, there is still a banner flying that provides hope, and help. It's not the flag of the United Nations, nor is it the star spangled banner, or the blue and gold of the European Union.
+Pourtant, dans certains des pires endroits de la planète pour être un être humain, il y a encore un étendard qui apporte espoir et aide. It's not the flag of the United Nations, nor is it the star spangled banner, or the blue and gold of the European Union.
 
 The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
 
