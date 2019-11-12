@@ -57,15 +57,15 @@ Pourtant, dans certains des pires endroits de la planète pour être un être hu
 
 La seule chose qui me rappelle que l'humanité n'a pas complètement abandonné ces gens est de voir l'étendard de Médecins sans frontières voler parmi les décombres de leurs hôpitaux bombardés.
 
-Je ne peux imaginer meilleur seul symbole qui nous rappelle que tout n'est pas perdu, et qu'il y a encore de bonnes personnes là-bas. I can't think of a single organisation more deserving of our support.
+Je ne peux imaginer meilleur seul symbole qui nous rappelle que tout n'est pas perdu, et qu'il y a encore de bonnes personnes là-bas. Je n'envisage pas de meilleure organisation qui soit plus digne de notre soutien.
 
-So I am happy to make this pledge.
+Je suis donc heureux de faire cet engagement.
 
-In practice, all revenue received in the previous 12 months will be transfered to MSF once per year, on the 10th of December.
+En pratique, tous les revenus perçus au cours des 12 derniers mois seront reversés à MSF une fois par an, le 10 décembre.
 
 <Note>
 
-If you'd like to support FreeSewing, you can [subscribe here](/patrons/join)
+Si vous souhaitez supporter FreeSewing, vous pouvez [vous abonner ici](/patrons/join)
 
 </Note>
 
