@@ -1,8 +1,8 @@
 ---
-title: Frequently asked questions
+title: Foire Aux Questions (FAQ)
 ---
 
-## Why do I need to create an account just to download a pattern?
+## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
 
 For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
 
