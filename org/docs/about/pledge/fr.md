@@ -20,19 +20,19 @@ Je ne sais pas si vous êtes familier avec l'expression **noblesse oblige** mais
 
 I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
-ould I use the money? Yes I could. Do I need the money? No I don't.
+Pourrais-je utiliser cet argent ? Yes I could. Do I need the money? Non.
 
 ### The value of your support
 
-The main risk to FreeSewing is the same as any open source project out there: maintainer burnout.
+Le risque principal pour FreeSewing est le même que n'importe quel projet open source : le burnout du responsable.
 
-While I no longer carry FreeSewing alone — and I can't overstate the value of the work of all contributors — that doesn't make me immune to feelings of *Why the hell am I doing this?*
+Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 
-When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you're doing a worthwhile thing. Keep up the good work*.
+When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
 
 ### The value of your money
 
-It is not *just* about the money. But that doesn't mean the money is not important. Much to the contrary.
+Il ne s'agit pas de *seulement* d'argent. Mais cela ne signifie pas que l'argent n'est pas important. Much to the contrary.
 
 Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
 
