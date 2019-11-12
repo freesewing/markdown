@@ -16,22 +16,22 @@ Pour plus de clarté, nous avons divisé ceci en trois types de rôles différen
 
  - Pour les visiteurs, nous stockons [données de visiteur](#visitor-data)
  - Pour les utilisateurs, nous stockons [données de profil](#profile-data)
- - For users with one or more models, we store [model data](#model-data)
+ - Pour les utilisateurs ayant un ou plusieurs modèles, nous stockons [données de modèle](#model-data)
 
-These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
+Ces rôles sont cumulatifs. Si vous êtes un utilisateur, vous êtes aussi un visiteur. Et si vous êtes un utilisateur avec un ou plusieurs modèles, vous êtes aussi un utilisateur, ainsi qu'un visiteur.
 
 <Note>
 
-#### Visitor data
+#### Données du visiteur
 
- - **What personal data do we store?**
-   - Your IP address
- - **Why do we need it?**
-   - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
- - **How long do we keep it?**
-   - We keep these logs for 6 months.
- - **Do we share it?**
-   - No, never.
+ - **Quelles données personnelles stockons-nous ? *
+   - Votre adresse IP
+ - **Pourquoi en avons-nous besoin ? *
+   - Votre adresse IP est enregistrée sur nos systèmes de gestion. Nous utilisons ces activités et les informations liées uniquement pour diagnostiquer les problèmes.
+ - **Combien de temps les gardons-nous ?**
+   - Nous conservons ces données de suivi pendant 6 mois.
+ - **Les partageons-nous ?**
+   - Non, jamais.
 
 This data is stored for anybody who visits our website or connects to our backend APIs.
 
@@ -51,8 +51,8 @@ This data is stored for anybody who visits our website or connects to our backen
    - Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
  - **How long do we keep it?**
    - We keep profile data up to 12 months after your last login, or until you remove it.
- - **Do we share it?**
-   - No, never.
+ - **Les partageons-nous ?**
+   - Non, jamais.
 
 This data is stored for anybody with an account on our website.
 
