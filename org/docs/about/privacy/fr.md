@@ -1,21 +1,21 @@
 ---
-title: Privacy notice
+title: Politique de confidentialité
 ---
 
-**Last update**: 23 May 2018
+**Dernière mise à jour**: 23 Mai 2018
 
-## About
+## À propos
 
-This privacy notice describes the personal data we store. It outlines why we need the data, how long we keep it, and whether we share it with any third-parties.
+Cette politique de confidentialité décrit les données personnelles que nous stockons. Cela explique pourquoi nous avons besoin de ces données, combien de temps nous les conserverons et si nous les partageons avec des tiers.
 
-We are confident it will demonstrate our commitment to privacy.
+Nous sommes convaincus que ça prouve notre engagement en faveur de la protection de la vie privée.
 
-## Part 1: How we use your personal data
+## Partie 1 : Comment nous utilisons vos données personnelles
 
-For clarity, we've broken this up in three different types of roles:
+Pour plus de clarté, nous avons divisé ceci en trois types de rôles différents :
 
- - For visitors, we store [visitor data](#visitor-data)
- - For users, we store [profile data](#profile-data)
+ - Pour les visiteurs, nous stockons [données de visiteur](#visitor-data)
+ - Pour les utilisateurs, nous stockons [données de profil](#profile-data)
  - For users with one or more models, we store [model data](#model-data)
 
 These roles are cumulative. If you are a user, you are also a visitor. And if you are a user with one or more models, you are also a user, and also a visitor.
