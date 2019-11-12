@@ -1,37 +1,37 @@
 ---
 date: 2019-08-25
-title: "Announcing FreeSewing v2.0"
-linktitle: "Announcing FreeSewing v2.0"
+title: "Annonce de FreeSewing v2.0"
+linktitle: "Annonce de FreeSewing v2.0"
 img: v2.jpg
-caption: "This release really is a sea-change"
+caption: "Cette version est vraiment un changement de vue"
 author: joost
 ---
 
-# Announcing FreeSewing v2.0
+# Annonce de FreeSewing v2.0
 
-Welcome to version 2 of FreeSewing, the open source platform for made-to-measure sewing patterns.
+Bienvenue sur la version 2 de FreeSewing, la plate-forme open source pour les patrons de couture sur mesure.
 
-This release culminates more than a year of work, and comes two years to the day since FreeSewing first went live. Today, we once again raise the bar for what you can expect from modern-day sewing patterns.
+Cette version complète plus d'une année de travail, et vient deux ans après la première sortie de FreeSewing. Aujourd'hui, nous mettons une fois de plus le barre haute pour ce que vous pouvez attendre des patrons modernes de couture.
 
-## 🦄 Harder, better, faster, stronger [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
-
-
-We are *extremely* excited about this release, which is not just merely a new major version with some breaking changes, but a complete rewrite in JavaScript/Node.js.  We won't go into the nitty gritty here, but if you'd like to know how we've done it, check out [the developer docs](https://freesewing.dev) or [FreeSewing on GitHub](https://github.com/freesewing).
+## 🦄 Plus solide, meilleur, plus rapide, plus fort [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
 
 
-## ✨ Live preview
+Nous sommes *extrèmement* excités à propos de cette nouvelle version, qui n'est pas seulement une version améliorée avec quelques changements, mais une complète réécriture en JavaScript/Node.js.  Nous n'entrerons pas dans les détails ici, mais si vous voulez savoir comment nous avons fait, vérifiez [les documents de développement](https://freesewing.dev) ou [FreeSewing sur GitHub](https://github.com/freesewing).
 
-FreeSewing has always had a reputation for publishing sewing patterns with tons of options for you to tweak. Which is great, but can be a bit overwhelming because you only got to see the result of all those tweaks at the very end. But those days are gone. Now, no matter what changes you make, you get a live preview of what your pattern will look like, taking the guesswork out of configuring your pattern exactly as you like it.
 
-## 🧂  Recipes
+## ✨ Aperçu en direct
 
-Where we used to store your patterns for you, now we'll store your *recipes* instead. You can go through as many pattern iterations as you want. And when you're happy, we'll save all the settings it takes to create that exact pattern in a so-called recipe.
+FreeSewing a toujours eu la réputation de publier des patrons de couture avec des tonnes d'options pour fignoler. Ce qui est génial, mais peut être un peu accablant parce que vous voulez seulement voir le résultat de toutes ces améliorations à la fin. Mais cette époque est révolue. Maintenant, peu importe les changements que vous apportez, vous obtenez un aperçu en direct de ce à quoi ressemblera votre patron, en configurant votre patron exactement comme vous le souhaitez.
 
-You can then at any time re-use that recipe to recreate your pattern, or use it as a starting point to make a slightly different pattern. You can also share these recipes, allowing others to generate the same look for their own measurements.
+## 🧂  Recettes
 
-## 🤝 Getting involved was never easier
+Là où nous avions l'habitude de stocker vos patrons pour vous, maintenant nous allons stocker vos *recettes* à la place. Vous pouvez générer autant d'itérations de patrons que vous le souhaitez. Et lorsque vous êtes satisfait, nous enregistrerons tous les paramètres qui ont été nécessaires pour créer ce patron dans ce qui est appelé une recette.
 
-What hasn't changed is that we still support 5 languages (shout-out to all translators) and that FreeSewing is still a 100% communal effort (shout-out to all contributors). There's only volunteers here, and if you'd like to help out, it's never been easier.
+Vous pouvez alors à tout moment réutiliser cette recette pour recréer votre patron, ou l'utiliser comme point de départ pour créer un patron légèrement différent. Vous pouvez également partager ces recettes, permettant ainsi aux autres de générer le même aspect à leurs propres mensurations.
+
+## 🤝 Participer n'a jamais été aussi facile
+
+Ce qui n'a pas changé, c'est que nous supportons toujours 5 langues (appel à tous les traducteurs) et que FreeSewing reste un effort communautaire à 100% (appel à tous les contributeurs). Il n'y a que des volontaires ici, et si vous voulez aider, ça n'a jamais été aussi facile.
 
 For those who are interested in our code, head over to our new developer documentation at [freesewing.dev](https://freesewing.dev) to learn about the new platform, our core API, our plugins, and more.
 
