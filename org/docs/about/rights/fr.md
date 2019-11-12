@@ -2,13 +2,13 @@
 title: Vos droits
 ---
 
-Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
+Freesewing applique le Règlement Général sur la Protection des Données (RGPD) de l'Union Européenne (UE).
 
-EU citizen or not, for us these are your rights:
+Citoyen de l'UE ou pas, pour nous voici vos droits :
 
 ## The right to be informed
 
-You have the right to be informed about the collection and use of your personal data. Read [our privacy notice](/docs/about/privacy) to inform yourself.
+Vous avez le droit d'être informé de la collecte et de l'utilisation de vos données personnelles. Lisez [notre politique de confidentialité](/docs/about/privacy) pour vous informer.
 
 ## The right of access
 
