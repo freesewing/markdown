@@ -8,14 +8,13 @@ Pour des raisons pratiques. Comme nous générons des patrons de couture sur mes
 
 Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous devons stocker ces informations. Et c'est sur votre compte que nous le faisons.
 
-So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
+Alors que nous pourrions en principe construire ce site de manière à ce qu'aucun compte ne soit requis, ça ne serait tout simplement pas pratique du tout.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Vous demandez parce que vous ne nous faites pas confiance ?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+Cette question suggère souvent une méfiance liée à la création d'un compte. As such, the following questions and answers may also be relevant:
 
  - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
  - [Who pays for all of this?](#who-pays-for-all-of-this)
