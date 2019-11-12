@@ -4,7 +4,7 @@ title: Foire Aux Questions (FAQ)
 
 ## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
 
-For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
+Pour des raisons pratiques. Comme nous générons des patrons de couture sur mesure, nous avons besoin de vos mensurations pour générer un patron adapté pour vous. We also need to know whether you use metric or imperial units.
 
 Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
 
