@@ -99,27 +99,27 @@ Bien que cela signifie qu'ils traitent vos données (au sens strict du mot), ils
 
 Bien que nous n'ayons aucune intention de partager vos données personnelles, nous ne sommes pas au-dessus des lois.
 
-If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
+Si la loi nous oblige à le faire, ou si nous pensons que ce serait un moindre mal, nous divulguerons des données personnelles.
 
-So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
+Jusqu'à présent, nous n'avons reçu aucune demande de la part des forces de l'ordre pour divulguer des informations de nos utilisateurs. Nous n'avons pas non plus divulgué de renseignements personnels pour aucune autre raison.
 
-### Use by minors under the age of 16
+### Utilisation par les mineurs de moins de 16 ans
 
-You need to be at least 16 years old to use freesewing.
+Vous devez avoir au moins 16 ans pour utiliser freesewing.
 
-### Data Controller and Contact information
+### Gestionnaire des données et informations de contact
 
-For questions about this privacy notice, you can contact Joost De Cock at joost@decock.org.
+Pour toute question concernant cette politique de confidentialité, vous pouvez contacter Joost De Cock à joost@decock.org.
 
-### Changes and Updates to this Policy
+### Modifications et mises à jour de cette politique
 
-This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
+Cette politique peut être mise à jour occasionnellement. Nous l'indiquerons dans la date de **Dernière mise à jour** en haut de ce document.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
+Un aperçu plus complet de l'historique de ce document est [disponible sur GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/about/privacy)
 
-## See also
+## Voir aussi
 
- - [Your rights](/docs/about/rights)
- - [Your consent](/account/consent)
+ - [Vos droits](/docs/about/rights)
+ - [Votre consentement](/account/consent)
 
 
