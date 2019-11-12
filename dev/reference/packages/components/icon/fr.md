@@ -4,7 +4,7 @@ title: Icon
 
 The `Icon` component renders a couple of icons that we use, but are not available in the standard [material icon set](https://material.io/resources/icons/).<Fixme> Add more documentation for this component </Fixme>
 
-## Example
+## Exemple
 
 <table spaces-before="0" line-breaks-before="2">
   <tr>
