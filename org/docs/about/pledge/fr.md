@@ -53,11 +53,11 @@ Il y a beaucoup de misère dans le monde. En regardant les nouvelles, je sens so
 
 Certaines des personnes les plus vulnérables de cette planète semblent largement abandonnées par les pays riches et les organisations internationales.
 
-Pourtant, dans certains des pires endroits de la planète pour être un être humain, il y a encore un étendard qui apporte espoir et aide. It's not the flag of the United Nations, nor is it the star spangled banner, or the blue and gold of the European Union.
+Pourtant, dans certains des pires endroits de la planète pour être un être humain, il y a encore un étendard qui apporte espoir et aide. Ce n'est pas le drapeau des Nations Unies, ce n'est pas non plus le drapeau américain, ni le bleu et l'or de l'Union Européenne.
 
-The one thing that reminds me that humanity has not completely forsaken these people is to see the banner of M&eacute;decins Sans Fronti&egrave;res/Doctors Without Borders fly, precariously, among the rubble of their bombed hospitals.
+La seule chose qui me rappelle que l'humanité n'a pas complètement abandonné ces gens est de voir l'étendard de Médecins sans frontières voler parmi les décombres de leurs hôpitaux bombardés.
 
-I can't think of a single symbol that reminds us that not everything is lost, and there's still good people out there. I can't think of a single organisation more deserving of our support.
+Je ne peux imaginer meilleur seul symbole qui nous rappelle que tout n'est pas perdu, et qu'il y a encore de bonnes personnes là-bas. I can't think of a single organisation more deserving of our support.
 
 So I am happy to make this pledge.
 
