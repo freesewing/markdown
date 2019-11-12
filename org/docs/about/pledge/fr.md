@@ -1,22 +1,22 @@
 ---
-title: FreeSewing revenue pledge
+title: Engagement de revenus de FreeSewing
 ---
 
 <Note>
 
-I — Joost De Cock, maintainer of the FreeSewing 
-project — hereby pledge that all FreeSewing revenue will be donated 
-to [Doctors Without Borders (MSF)](http://www.msf.org/).
+Moi — Joost De Cock, responsable du projet FreeSewing 
+— je promets par la présente que tous les revenus de FreeSewing seront reversés
+à [Médecins sans frontières (MSF)](http://www. sf.org/).
 
 </Note>
 
-## Why we're doing this
+## Pourquoi nous faisons cela
 
 ### Noblesse oblige
 
-You probably assume that we ask for money to keep the servers running. But that's not exactly true.
+You probably assume that we ask for money to keep the servers running. Mais ce n'est pas tout à fait vrai.
 
-I don't know if you're familiar with the phrase **noblesse oblige** but it essentially means that privilege entails responsibility.
+Je ne sais pas si vous êtes familier avec l'expression **noblesse oblige** mais cela signifie essentiellement que le privilège implique une responsabilité.
 
 I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
