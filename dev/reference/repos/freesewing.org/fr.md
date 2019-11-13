@@ -88,7 +88,7 @@ This feature is not yet implemented.
 
 The following variables configure different aspects of our website. Only `GATSBY_LANGUAGE` is required to get the site up and running.
 
-| Var                         | Purpose                                                                               | Example                                                                    |
+| Var                         | Purpose                                                                               | Exemple                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | `GATSBY_LANGUAGE`           | Determines the language of the site                                                   | `en`                                                                       |
 | `GATSBY_FRONTEND`           | URL under which the website is served                                                 | `http://localhost:8000/`                                                   |

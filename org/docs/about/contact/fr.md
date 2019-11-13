@@ -1,34 +1,34 @@
 ---
-title: Contact info
+title: Informations de contact
 ---
 
-You can contact us in more than one way. Here are the options, ranked by how well they scale:
+Vous pouvez nous contacter de plusieurs façons. Voici les options, classées par niveau de préférence :
 
-## Chat with us on Gitter
-The freesewing community on Gitter is the best place to ask questions, meet other freesewers, or just hang out and share a laugh.
+## Discutez avec nous sur Gitter
+La communauté libre sur Gitter est le meilleur endroit pour poser des questions, rencontrer d'autres freesewers ou tout simplement se balader et partager un bon moment.
 
- - [Chat with us on Gitter](https://gitter.im/freesewing/chat)
+ - [Discutez avec nous sur Gitter](https://gitter.im/freesewing/chat)
 
-## Create an issue on GitHub
+## Créer un ticket sur GitHub
 
-Did you spot a mistake? Did something go wrong, or do you have a suggestion for an improvement? Please file an issue on GitHub. You'll need a GitHub account, but they are free.
+Avez-vous trouvé une erreur ? Quelque chose a-t-il mal tourné, ou vous avez une suggestion d'amélioration ? Veuillez tracer le problème sur GitHub. Vous aurez besoin d'un compte GitHub, mais ils sont gratuits.
 
- - [Create an issue on GitHub](https://github.com/freesewing/website/issues/new)
+ - [Créer un ticket sur GitHub](https://github.com/freesewing/website/issues/new)
 
-## Freesewing on social media
+## Freesewing sur les réseaux sociaux
 
-You can also reach us on social media, not to mention follow or like us.
+Vous pouvez aussi nous contacter sur les réseaux sociaux, sans parler de nous suivre ou de nous liker.
 
- - [@freesewing_org on Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
- - [@freesewing_org on Instagram](https://www.instagram.com/freesewing_org/)
+ - [@freesewing_org sur Twitter](https://twitter.com/intent/follow?screen_name=freesewing_org)
+ - [@freesewing_org sur Instagram](https://www.instagram.com/freesewing_org/)
 
 ## E-mail
 
-Send an email to [Joost](mailto:joost@decock.org?subject=Freesewing) or [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
+Envoyez un email à [Joost](mailto:joost@decock.org?subject=Freesewing) ou [Catherine](mailto:ji.catherine@gmail.com?subject=Freesewing)
 
 <Note>
 
-This option does not scale very well, so you might want to consider the other options first.
+Cette option n'est pas la préférée, vous devriez donc considérer les autres options en premier.
 
 </Note>
 

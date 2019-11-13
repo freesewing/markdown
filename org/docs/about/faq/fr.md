@@ -1,60 +1,59 @@
 ---
-title: Frequently asked questions
+title: Foire Aux Questions (FAQ)
 ---
 
-## Why do I need to create an account just to download a pattern?
+## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
 
-For practical reasons. As we generate made-to-measure sewing patterns, we need your measurements to generate a pattern for you. We also need to know whether you use metric or imperial units.
+Pour des raisons pratiques. Comme nous générons des patrons de couture sur mesure, nous avons besoin de vos mensurations pour générer un patron adapté pour vous. Nous devons également savoir si vous utilisez des unités métriques ou impériales.
 
-Asking you this information every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous devons stocker ces informations. Et c'est sur votre compte que nous le faisons.
 
-So while we could in principle build this site in such a way that an account is not required, it would just be hopelessly inpractical.
-
-<Note>
-
-##### Are you asking because you don't trust us?
-
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
-
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
-
-</Note>
-
-## I know my size. So why do I have to enter my measurements?
-
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
-
-No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, FreeSewing is the only one on that list to not provide sewing patterns in standardized sizes.
-
-## What are you doing with my personal data?
-
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
-
-## Who pays for all of this?
-
-The FreeSewing project is supported financially by [our patrons](/patrons).
-
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Alors que nous pourrions en principe construire ce site de manière à ce qu'aucun compte ne soit requis, ça ne serait tout simplement pas pratique du tout.
 
 <Note>
 
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+##### Vous demandez parce que vous ne nous faites pas confiance ?
+
+Cette question suggère souvent une méfiance liée à la création d'un compte. Ainsi, les questions et réponses suivantes peuvent également être pertinentes :
+
+ - [Que faites-vous de mes données personnelles ? (#what-are you-doing-with-my-personal-data)
+ - [Qui paie pour tout ça ?](#who-pays-for-all-of-this)
+ - [Quel est votre objectif ?](#whats-your-end-game)
 
 </Note>
 
-## Can I use FreeSewing patterns for commercial purposes?
+## Je connais ma taille. Donc pourquoi devrais-je entrer mes mensurations ?
 
-Yes you can. Open Source is a development model, not a business model.
+La conception de patron de couture sur mesure est vraiment *notre spécialité*. Si vous insistez pour obtenir un patron de taille standard, FreeSewing n'est pas fait pour vous.
 
-If our work can help you put food on the table, by all means take it.
+Pas besoin de désespérer donc, Fiona fournit [une liste de concepteurs de patrons indépendants](https://chainstitcher.blogspot.com/p/about-blog.html) et à notre connaissances, FreeSewing est le seul sur cette liste à ne pas proposer des patrons de couture en tailles standards.
 
-## What's your end game?
+## Que faites-vous de mes données personnelles ?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+La manière dont nous traitons vos données personnelles est documentée dans [notre politique de confidentialité](/docs/about/privacy/).
 
-Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+## Qui paie pour tout ça ?
+
+Le projet FreeSewing est soutenu financièrement par [nos mécènes](/patrons).
+
+Les mécènes sont des utilisateurs réguliers comme vous qui ont accepté de faire une petite contribution mensuelle pour le maintien et le fonctionnement de Freesewing.
+
+<Note>
+
+##### Rejoignez les mécènes de Freesewing
+Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas 
+[devenir mécène](/patrons/join) vous aussi ?
+
+</Note>
+
+## Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
+
+Oui, vous pouvez. L'Open Source est un modèle de développement, pas un modèle d'affaires.
+
+Si notre travail peut vous aider à joindre les deux bouts, alors profitez-en.
+
+## Quel est votre objectif ?
+
+Nous aimerions que freesewing.org devienne le Wikipédia des patrons de couture.
+
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons plutôt donner des moyens de faire aux créateurs et réalisateurs en distillant les connaissances de la communauté couturière à travers des patrons et de la documentation, tout en rendant ces informations disponibles au plus grand nombre. 

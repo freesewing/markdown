@@ -1,73 +1,73 @@
 ---
 date: 2018-01-26
-title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+title: "Annonce de Carlita, la version féminine de notre manteau Carlton."
+linktitle: "Annonce du manteau Carlita"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Imaginez vous et lui, dans des manteaux assortis."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Celui-ci pour les dames \--- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui en version bêta à compter d'aujourd'hui.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita est \--- vous l'avez deviné \--- la version féminine de notre manteau de Carlton, qui recrée l'emblématique manteau Sherlock Holmes porté par Benoit C. dans la série sur BBC.
 
-## How did we do it?
+## Comment y sommes-nous parvenus ?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Pour plus de détails sur la manière dont ce projet est né, je vous renvoie à [l'article sur annonce de Carlton](/blog/announcing-carlton-and-bent/). Je voudrais ici me concentrer sur la façon dont nous avons transformé ce patron masculin en manteau pour dames.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+Nous voulions rester aussi près que possible de l'original donc tout ce que nous avons fait a été faire des changements pour répondre à un seul défi : ajuster les seins.
 
-### Princess, meet your seam
+### Princesse, réalisez votre version
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant du manteau, par laquelle nous avons ajouté du galbe pour le buste.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplémentaires en plus des mesures requises par Carlton. Il y a :
 
- - The [high bust](/docs/measurements/#highBust)
- - The [bust span](/docs/measurements/#bustSpan)
- - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
+ - Le [tour de sur-poitrine](/docs/measurements/#highBust)
+ - L'[écart poitrine](/docs/measurements/#bustSpan)
+ - La [hauteur épaule poitrine](/docs/measurements/#highPointShoulderToBust)
 
-We use your high bust measurements to draft the coat, and then do a full bust adjustment on the princess seam based on your (full) chest circumference, bust span and HPS to bust.
+Nous utilisons vos mesures de tour de sur-poitrine pour dessiner le manteau, puis effectuons un "full bust adjustment" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart poitrine et de la hauteur épaule poitrine.
 
-### All of the pockets, but we had to move some of them
+### Toutes les poches, mais nous avons dû déplacer certaines d'entre elles
 
-The addition of the princess seam made the map pocket placement a bit difficult, so we've slightly moved it, and aligned it vertically, rather than slightly tilted as it is in Carlton.
+L'ajout des découpes princesse a rendu le placement de la poche de carte un peu difficile, donc nous l'avons légèrement déplacée et alignée verticalement, plutôt que légèrement inclinée comme c'est dans Carlton.
 
-This way, the pocket can be integrated in the princess seam, somewhere in the underboob region.
+De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus sous la poitrine.
 
-### One extra option: The princess seam smooth factor
+### Une option supplémentaire : L'intensité de la découpe princesse
 
-Carlita also has one extra option that Carlton doesn't have, the somewhat elaborately named [Princess seam smooth factor](/docs/patterns/carlita/options#princessSeamSmoothFactor).
+Carlita a aussi une option supplémentaire que Carlton n'a pas, du nom un peu élaboré [Intensité de la découpe princesse](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-This controls how sharply the princess seam will revert back after having added the extra volume for your chest.
+Ceci contrôle la netteté de la découpe princesse après avoir ajouté le volume supplémentaire de votre poitrine.
 
-A picture says more than a thousand words, so here's the option sampled on the relevant part of the pattern:
+Une image en dit plus que mille mots, donc voici une illustration de l'option sur la partie concernée du modèle :
 
-![The effect of the option as shown by our sampler service](smooth.png)
+![L'effet de l'option comme le montre notre exemple](smooth.png)
 
-As you can see, the option controls the urgency with which the princess seam reverts back to your waistline after passing the fullest point of your bust.
+Comme vous pouvez le voir, l'option gère l'a rapidité avec laquelle la découpe princesse rejoint votre taille après avoir passé le point le plus large de votre buste.
 
-A low factor will make for a more fitted coat, but also a more curvy seam that is harder to sew.
+Une faible intensité permettra un manteau plus ajusté, mais aussi une couture plus courbée plus difficile à coudre.
 
-A higher smooth factor will smooth this out so it's a more sloped retreat to the downward seam. This will make the coat less fitted under your chest, and the seam easier to sew.
+Une intensité plus lisse permettra de lisser la découpe de façon à ce qu'elle fasse un repli plus incliné vers la couture descendante. Cela rendra le manteau moins ajusté sous votre poitrine mais la couture plus facile à coudre.
 
-## A reminder about made-to-measure patterns
+## Un rappel sur les patrons sur-mesure
 
-This goes without saying for regular visitors to this site, but if you're new here, it's worth repeating:
+Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes nouveau ici, cela vaut la peine de le répéter :
 
-> This coat is not drafted with a certain cup size in mind. Instead, it will adapt to your chest based on your measurements.
+> Ce manteau n'est pas conçu pour une certaine taille de bonnet prédéfini. Au lieu de cela, il s’adaptera à votre poitrine en fonction de vos mesures.
 
-## Ladies, we need your feedback
+## Mesdames, nous avons besoin de vos avis
 
-This is our first womenswear pattern with a fitted chest. As such, we're breaking new ground here, and I'd be interested to see how this pattern adapts to a variety of body shapes/cup sizes.
+Il s'agit de notre premier modèle de vêtement féminin avec un ajustement poitrine. En tant que tel, nous innovons ici, et je serais intéressé de voir comment ce modèle s'adapte à une variété de morphologies/tailles de bonnet.
 
-If you're planning to make this coat, or a muslin of it, please share your experience, and don't hesitate to get in touch should you run into any issues.
+Si vous prévoyez de fabriquer ce manteau, veuillez partager votre expérience, et n'hésitez pas à entrer nous contacter si vous rencontrez des problèmes.
 
 
-I plan to design more womenswear patterns, so if there are any fit issues, I'd like to know about it sooner rather than later.
+Je prévois de concevoir plus de modèles de vêtements féminins, donc s'il y a des problèmes de tombé ou d'ajustement, je voudrais le savoir le plus tôt possible.
 
-## Shout-out
+## Dédicace spéciale
 
-Last but not least, I'd like to thank [Anneke](http://www.annekecaramin.com/) for her help throughout this project, and tolerating my countless rants about my love/hate relationship with boobs.
+Enfin et surtout, je voudrais remercier [Anneke](http://www.annekecaramin.com/) pour son aide tout au long de ce projet et d'avoir toléré le nombre incalculable de fois où j'ai pesté à propos de ma relation amour/haine avec les seins.

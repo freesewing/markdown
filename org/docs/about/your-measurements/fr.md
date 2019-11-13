@@ -1,25 +1,24 @@
 ---
-title: Your measurements
+title: Vos mensurations
 ---
 
-Taking accurate measurements is crucial for good results with our patterns, yet not as trivial as you would think.
+Il est essentiel de prendre des mesures précises pour obtenir de bons résultats avec nos patrons ; ce n'est pas aussi futile que vous le pensez.
 
-We've added a few indicators to help you spot mistakes or problems in your measurements.
+Nous avons ajouté quelques indicateurs pour vous aider à repérer des erreurs ou des problèmes dans vos mesures.
 
- - Your models show [a graphical representation of your body measurements](/docs/about/your-measurements/model-graph), which will allow you to spot any outliers.
- - We include [estimates for your different measurements](/docs/about/your-measurements/estimates), and highlight those measurements where your model differs significantly from the estimage.
+ - Vos modèles montrent [une représentation graphique de vos mensurations](/docs/about/your-measurements/model-graph), ce qui vous permettra de repérer tout ce qui peut dépasser.
+ - Nous incluons une [estimations pour vos différentes mesures](/docs/about/your-measurements/estimates), et soulignons les mesures où votre modèle diffère considérablement de l'estimation.
 
 <Note>
 
-###### Caveat: Work in progress
+###### Avertissement : Travaux en cours
 
-This is a very new feature, and we are still working out the details. The further you deviate from
-the neck circumference our predictions are based on (42cm for models without breasts, 36cm for models
-with breasts) the more likely it is that the projections aren't hitting home.
+Il s'agit d'une toute nouvelle fonctionnalité, et nous travaillons toujours sur les détails. Plus vous vous écartez de la circonférence du cou (nos prédictions sont basées sur 42cm pour les modèles sans seins, 36cm pour les modèles
+avec des seins), plus il est probable que les projections ne correspondent pas.
 
-###### Breasts are tricky
+###### Les poitrines sont épineuses
 
-Particularly for models with breasts, we are aware that there's some fine-tuning yet to be done.
+En particulier pour les modèles avec seins, nous sommes conscients qu'il reste encore quelques ajustements à faire.
 
 </Note>
 

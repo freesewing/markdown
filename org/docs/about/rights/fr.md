@@ -1,30 +1,30 @@
 ---
-title: Your rights
+title: Vos droits
 ---
 
-Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
+Freesewing applique le Règlement Général sur la Protection des Données (RGPD) de l'Union Européenne (UE).
 
-EU citizen or not, for us these are your rights:
+Citoyen de l'UE ou pas, pour nous voici vos droits :
 
 ## The right to be informed
 
-You have the right to be informed about the collection and use of your personal data. Read [our privacy notice](/docs/about/privacy) to inform yourself.
+Vous avez le droit d'être informé de la collecte et de l'utilisation de vos données personnelles. Lisez [notre politique de confidentialité](/docs/about/privacy) pour vous informer.
 
 ## The right of access
 
-You have the right to access your personal data. Go to [/account](/account) to do so.
+Vous disposez d'un droit d'accès à vos données personnelles. Pour cela, allez dans la partie [/Mon compte](/account).
 
 ## The right to rectification
 
-You have the right to rectify your personal data, or complete it if it is incomplete. Go to [/account](/account) to do so.
+Vous avez le droit de rectifier vos données personnelles ou de les compléter si elles sont incomplètes. Pour cela, allez dans la partie [/Mon compte](/account).
 
 ## The right to erasure
 
-You have the right to have your personal data erased. Go to [/account/remove](/account/remove) to remove all your data.
+Vous disposez d'un droit de suppression de vos données personnelles. Allez dans [/Mon compte/supprimer](/account/remove) pour supprimer toutes vos données.
 
 ## The right to restrict processing
 
-You have the right to request a restriction on the processing of your personal data. Go to [/account/restrict](/account/restrict) to request we restrict processing of your personal data.  
+Vous avez le droit de demander une restriction sur le traitement de vos données personnelles. Allez dans [/mon compte/restriction](/account/restrict) pour demander que nous restreignons le traitement de vos données personnelles.  
 
 <Warning>
 

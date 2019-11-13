@@ -13,7 +13,7 @@ The name `Draft` is deprecated and will be removed in a future release.
 
 </Warning>
 
-## Example
+## Exemple
 
 ![Screenshot of the component](example.png)
 
