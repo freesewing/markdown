@@ -1,9 +1,9 @@
 ---
 date: 2018-02-14
-title: "The General Data Protection Regulation of the European Union: Our battle plan."
-linktitle: "Our battle plan for GDPR compliance"
+title: "Le Règlement Général sur la Protection des Données de l'Union Européenne: Notre plan de bataille."
+linktitle: "Notre plan de bataille pour la conformité au RGPD"
 img: img.jpg
-caption: "This image is probably the only thing in the post you can skim diagonally"
+caption: "Cette image est probablement la seule chose dans le article que vous pourrez parcourir en diagonale"
 author: joost
 ---
 
@@ -54,7 +54,7 @@ Four percent of global turnover is *a very big stick*.
 
 The EU being the EU, the regulation is a mixed bag of lofty goals and ideals, watered down by lobbying groups, and further complicated by the compromise required to get 28 member states on board.
 
-The intentions are great, it's a great idea, but they are doing a terrible job at selling it \--- as usual.
+The intentions are great, it's a great idea, but they are doing a terrible job at selling it --- as usual.
 
 The practical implementation is in the hands of the so-called *Article 29 Working Party* which is currently keeping busy designing icons (I am [not making this up](https://www.google.be/search?q=standardised+icons+gdpr)) It will change its name to the *European Data Protection Board* come May 25th, because you wouldn't want to get too comfortable with all this jargon now, would you?
 
