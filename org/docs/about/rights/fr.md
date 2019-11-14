@@ -24,11 +24,11 @@ Vous disposez d'un droit de suppression de vos données personnelles. Allez dans
 
 ## The right to restrict processing
 
-Vous avez le droit de demander une restriction sur le traitement de vos données personnelles. Allez dans [/mon compte/restriction](/account/restrict) pour demander que nous restreignons le traitement de vos données personnelles.  
+Vous avez le droit de demander une restriction sur le traitement de vos données personnelles. Allez dans [/mon compte/restriction](/account/restrict) pour demander que nous restreignions le traitement de vos données personnelles.  
 
 <Warning>
 
-Your request will be granted immediately, and can only be undone by [contacting us](/contact) to lift the restriction.
+Votre requête sera satisfaite immédiatement, et ne pourra être annulée qu'en [nous contactant](/contact) pour lever la restriction.
 
 </Warning>
 
