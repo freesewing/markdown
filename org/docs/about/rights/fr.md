@@ -20,25 +20,25 @@ Vous avez le droit de rectifier vos données personnelles ou de les compléter s
 
 ## The right to erasure
 
-Vous disposez d'un droit de suppression de vos données personnelles. Allez dans [/Mon compte/supprimer](/account/remove) pour supprimer toutes vos données.
+Vous disposez d'un droit à l'effacement de vos données personnelles. Allez dans [/Mon compte/supprimer](/account/remove) pour supprimer toutes vos données.
 
 ## The right to restrict processing
 
-Vous avez le droit de demander une restriction sur le traitement de vos données personnelles. Allez dans [/mon compte/restriction](/account/restrict) pour demander que nous restreignions le traitement de vos données personnelles.  
+Vous avez le droit de demander une limitation au traitement de vos données personnelles. Allez dans [/mon compte/limitation](/account/restrict) pour demander que nous limitions le traitement de vos données personnelles.  
 
 <Warning>
 
-Votre requête sera satisfaite immédiatement, et ne pourra être annulée qu'en [nous contactant](/contact) pour lever la restriction.
+Votre requête sera satisfaite immédiatement, et ne pourra être annulée qu'en [nous contactant](/contact) pour lever la limitation.
 
 </Warning>
 
 ## The right to data portability
 
-You have the right to obtain and reuse your personal data for your own purposes or across different services. Go to [/account/export](/account/export) to export your data.
+Vous avez le droit d'obtenir et de réutiliser vos données personnelles à vos propres fins ou pour tout autre besoin. Allez dans [/Mon compte/exporter](/account/export) pour télécharger toutes vos données.
 
 ## The right to object
 
-You have the right to object to your personal data being used for scientific research. Go to [/account/consent](/account/consent) and object in the **model data** section to do so.
+Vous avez le droit de vous opposer à l'utilisation de vos données personnelles à des fins de recherche scientifique. Allez à [compte > paramètres > révisez votre consentement](/account/consent) et changez l'option sélectionnée dans la section concernant le consentement sur les **données modèles**.
 
 <Note>
 
