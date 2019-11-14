@@ -24,7 +24,7 @@ Vous disposez d'un droit à l'effacement de vos données personnelles. Allez dan
 
 ## The right to restrict processing
 
-Vous avez le droit de demander une limitation au traitement de vos données personnelles. Allez dans [/mon compte/limitation](/account/restrict) pour demander que nous limitions le traitement de vos données personnelles.  
+Vous avez le droit de demander une limitation au traitement de vos données personnelles. Allez dans [Mon compte > Paramètres > Restreindre le traitement de vos données](/account/restrict) pour demander que nous limitions le traitement de vos données personnelles.  
 
 <Warning>
 
@@ -34,7 +34,7 @@ Votre requête sera satisfaite immédiatement, et ne pourra être annulée qu'en
 
 ## The right to data portability
 
-Vous avez le droit d'obtenir et de réutiliser vos données personnelles à vos propres fins ou pour tout autre besoin. Allez dans [/Mon compte/exporter](/account/export) pour télécharger toutes vos données.
+Vous avez le droit d'obtenir et de réutiliser vos données personnelles à vos propres fins ou pour tout autre besoin. Allez dans [Mon compte > paramètres > Exportez vos données](/account/export) pour télécharger toutes vos données.
 
 ## The right to object
 
@@ -42,10 +42,10 @@ Vous avez le droit de vous opposer à l'utilisation de vos données personnelles
 
 <Note>
 
-The right to object is broader, but this is how it applies to freesewing.
+Le droit d'opposition est plus large, mais c'est ainsi que ça s'applique sur Freesewing.
 
 </Note>
 
 ## Rights in relation to automated decision making and profiling
 
-This right does not apply to FreeSewing as we do not use automated decision making or profiling.
+Ce droit ne s'applique pas à FreeSewing car nous n'utilisons pas de processus automatisé de prise de décision ou de profilage.
