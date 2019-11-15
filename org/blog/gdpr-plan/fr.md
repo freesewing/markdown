@@ -17,12 +17,12 @@ J'ai une relation d'amour/haine avec l'Union européenne. J'adore ce qu'ils font
 
 ![I totally get this dude](rage-quit.gif)
 
-Le RGPD ne fait pas exception. C'est un acte législatif important qui met la barre faute en matière de confidentialité en ligne ; ce qui est formidable. But as I was reading up on the subject, I felt the urge to rage-quit because OMG bureaucrats.
+Le RGPD ne fait pas exception. C'est un acte législatif important qui met la barre faute en matière de confidentialité en ligne ; ce qui est formidable. Mais alors qu'avançais dans la lecture à ce sujet, j'ai failli tout laisser tomber de rage car c'est un sacré boulot de bureaucrate !
 
-Allow me to explain.
+Permettez-moi de m'expliquer.
 
-### Privacy needs protection
-For better or for worse (I believe for worse) the internet has settled into a modus operandi where you pay for *free stuff* with your personal data. Some people call it [people farming](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), and I think that's a great term.
+### La vie privée a besoin d'être protégée
+Pour le meilleur ou pour le pire (je pense pour le pire) Internet s'est installé dans un mode opératoire où vous payez pour des *choses gratuites* avec vos données personnelles. Certains appellent ça [la culture des personnes](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), et je pense que c'est un bon terme.
 
 The [frightful five](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) are vacuuming up ever more of our personal lives. Short of never going online, there seems to be precious little we can do about it.
 
