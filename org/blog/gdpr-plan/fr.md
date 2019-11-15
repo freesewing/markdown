@@ -27,18 +27,18 @@ Pour le meilleur ou pour le pire (je pense pour le pire) Internet s'est install�
 Les [GAFAM](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) (Google/Apple/Facebook/Microsoft/Amazon) aspirent de plus en plus d'informations de nos vies personnelles. A part ne jamais se connecter sur Internet, il semble que nous ne puissions pas faire grand-chose à ce sujet.
 
 ### Pourquoi l'Union Européenne est la meilleure
-This problem is too big to tackle by any of us. Who could possibly stand up to the combined power of the tech giants?
+Ce problème est trop important pour que chacun d'entre nous s'y colle. Qui pourrait résister à la puissance combinée des géants technologiques ?
 
-Well, how's this for a CV:
+Eh bien, voici un quelques chiffres :
 
-  - Fined Facebook 110 million euro for misleading statements about their WhatsApp purchase
-  - Ordered Amazon to pay 250 million euro extra taxes in Luxembourg
-  - Fined Google 2.4 billion euro for abusing its dominant position in search
-  - Ordered Apple to pay 13 billion euro extra taxes in Ireland
+  - Facebook a reçu une amende de 110 millions d'euros pour des déclarations trompeuses à propos de leur achats WhatsApp
+  - Amazon a été condamné à payer 250 millions d'euros de taxes supplémentaires au Luxembourg
+  - Google a reçu une amende de 2,4 milliards d'euros pour avoir abusé de sa position dominante dans les moteurs de recherche
+  - Apple a été condamné à payer 13 milliards d'euros de taxes supplémentaires en Irlande
 
 ![We're the EU, bitch](titanfall.gif)
 
-When it comes to tech giants, the European Union is all stick/ no carrot.
+En ce qui concerne les géants du numérique, l'Union Européenne n'utilise que le bâton ; pas la carotte.
 
 The General Data Protection Regulation enforces privacy policies that respect users' rights. It applies to all EU citizens, all the time, everywhere.
 
