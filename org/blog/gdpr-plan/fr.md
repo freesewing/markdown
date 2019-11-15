@@ -52,9 +52,9 @@ Quatre pour cent du chiffre d'affaires global est *un très gros bâton*.
 
 ![What I imagine a Article 29 Working Party looks like](complicated.gif)
 
-The EU being the EU, the regulation is a mixed bag of lofty goals and ideals, watered down by lobbying groups, and further complicated by the compromise required to get 28 member states on board.
+L'UE étant l'UE, le règlement est un mélange d'objectifs et d'idéaux élevés, avec une pression des lobbies, est en plus complexifié par le compromis nécessaire pour rallier 28 États membres.
 
-The intentions are great, it's a great idea, but they are doing a terrible job at selling it --- as usual.
+Les intentions sont nobles, c'est une super idée, mais ils le vendent très mal --- comme d'habitude.
 
 The practical implementation is in the hands of the so-called *Article 29 Working Party* which is currently keeping busy designing icons (I am [not making this up](https://www.google.be/search?q=standardised+icons+gdpr)) It will change its name to the *European Data Protection Board* come May 25th, because you wouldn't want to get too comfortable with all this jargon now, would you?
 
