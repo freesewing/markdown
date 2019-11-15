@@ -40,15 +40,15 @@ Eh bien, voici un quelques chiffres :
 
 En ce qui concerne les géants du numérique, l'Union Européenne n'utilise que le bâton ; pas la carotte.
 
-The General Data Protection Regulation enforces privacy policies that respect users' rights. It applies to all EU citizens, all the time, everywhere.
+Le Règlement Général sur la Protection des Données applique des politiques de confidentialité qui respectent les droits des utilisateurs. Elle s'applique à tous les citoyens de l'UE, à tout moment, partout.
 
-Doesn't matter if you're a silicon valley juggernaut, respect the rights of the EU citizens or face the wrath of the eurocracy:
+Peu importe que vous soyez une poids lourd de la "silicon valley", que vous respectiez les droits des citoyens de l'UE ou que vous soyez confronté à la colère de l'eurocratie :
 
-> Organizations in breach of GDPR can be fined up to 4% of annual global turnover or 20 million euro (whichever is greater)
+> Les organisations qui violent le RGPD peuvent être condamnées à une amende allant jusqu'à 4 % de leur chiffre d'affaires mondial annuel ou 20 millions d'euros (selon le plus élevé des deux)
 
-Four percent of global turnover is *a very big stick*.
+Quatre pour cent du chiffre d'affaires global est *un très gros bâton*.
 
-### Why the EU is the worst
+### Pourquoi l'UE est la pire
 
 ![What I imagine a Article 29 Working Party looks like](complicated.gif)
 
