@@ -111,12 +111,12 @@ C'est direct et cela a du sens. Mais le RGPD est très sérieux pour s'assurer q
 Pour empêcher les entreprises de dresser un grand mur juridique contre lequel les gens se heurteraient, le RGPD décrit un certain nombre de de principes auxquels ce consentement devrait adhérer. Voici une liste non exhaustive :
 
  - les gens devraient avoir un vrai choix et un vrai contrôle
- - consent requires a positive opt-in, pre-ticked boxes or anything like that are not allowed
- - there should be a very clear statement explaining what people are agreeing to
- - these requests for consent must be separate from any terms & conditions
- - consent needs to be granular, you need individual consent for different things, and can't ask for blanket consent
- - it must be easy for people to redraw consent
- - consent of data processing should not be a precondition for a service
+ - le consentement requiert une action positive en ce sens, des cases pré-cochées ou quoique ce soit dans ce genre, ce n'est pas autorisé
+ - il devrait y avoir une déclaration très claire expliquant ce que les gens acceptent
+ - ces demandes de consentement doivent être distinctes de tout autres termes & conditions
+ - le consentement doit être granulaire, vous avez besoin d'un consentement individuel pour différentes choses, et ne pouvez pas demander un consentement général
+ - il doit être facile pour les gens de retracer leur consentement
+ - le consentement au traitement des données ne doit pas être une condition préalable à un service
 
 Looking at that list, I can't help but feel that legislation would be a lot simpler if lawmakers could just write *don't be a dick* and call it a day.
 
