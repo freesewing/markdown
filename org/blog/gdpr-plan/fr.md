@@ -56,18 +56,18 @@ L'UE étant l'UE, le règlement est un mélange d'objectifs et d'idéaux élevé
 
 Les intentions sont nobles, c'est une super idée, mais ils le vendent très mal --- comme d'habitude.
 
-The practical implementation is in the hands of the so-called *Article 29 Working Party* which is currently keeping busy designing icons (I am [not making this up](https://www.google.be/search?q=standardised+icons+gdpr)) It will change its name to the *European Data Protection Board* come May 25th, because you wouldn't want to get too comfortable with all this jargon now, would you?
+La mise en œuvre pratique est entre les mains du fameux *Groupe de travail de l'Article 29* qui est actuellement occupé à concevoir des icônes (je [n'invente rien](https://www.google.be/search?q=standardised+icons+gdpr)) Elle changera son nom en *Bureau Européen de Protection des Données* le 25 mai prochain, car qui ne voudrait pas être bien plus à l'aise avec tout ce jargon maintenant, n'est-ce- pas ?
 
-## The GDPR in practice
+## Le RGPD en pratique
 
-If you're looking for expert advice on GDPR compliance, this is not the place for you.
+Si vous cherchez des conseils d'experts sur la conformité au RGPD, ce n'est pas l'endroit idéal pour vous.
 
 
-But if you are curious about the GDPR and what it takes for a website like freesewing.org to be compliant, read on.
+Mais si vous êtes curieux à propos du RGPD et de ce qu'il faut pour qu'un site comme freesewing.org soit conforme, vous pouvez lire ce qui suit.
 
-> ##### Further reading
+> ##### Lectures additionnelles
 > 
-> If you really want to know what GDPR is, the best thing you can do is [read the damn thing](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679). It ain't no rocket science.
+> Si vous voulez vraiment savoir ce qu'est le RGPD, la meilleure chose que vous pouvez faire est de [lire ce sacré morceau](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679). Ce n'est pas sorcier.
 > 
 > If legislative texts make you run for the hills, the UKs ICO has [easily one of the best guides on GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
 
