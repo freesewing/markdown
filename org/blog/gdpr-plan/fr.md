@@ -7,17 +7,17 @@ caption: "Cette image est probablement la seule chose dans le article que vous p
 author: joost
 ---
 
-This blog post is about the General Data Protection Regulation (GDPR) of the European Union (EU). While I cover the basics of GDPR, the main focus is on how it impacts freesewing.org, and what we plan to do to in the 100 days that remain before GDPR goes into force.
+Cet article de blog traite du Règlement Général sur la Protection de Données (RGPD) de l'Union Européenne (EU). Bien que je couvre les bases du RGPD, l'accent est mis sur la façon dont il impacte freesewing.org et ce que nous prévoyons de faire dans les 100 jours qui viennent avant l'entrée en vigueur du RGPD.
 
-This is a bit of a long read, so here's a table of contents:
+Tout cela représente une sacré lecture, donc voici donc une table des matières :
 
-## Thoughts on the EU's GDPR
+## Pensées sur le RGPD de l'UE
 
-I have a love/hate relationship with the European Union. I love what they do and what they stand for, I hate how they do it.
+J'ai une relation d'amour/haine avec l'Union européenne. J'adore ce qu'ils font et ce qu'ils défendent, je déteste la façon dont ils le font.
 
 ![I totally get this dude](rage-quit.gif)
 
-The GDPR is no different. It's an important piece of legislation that raises the bar for online privacy, which is great. But as I was reading up on the subject, I felt the urge to rage-quit because OMG bureaucrats.
+Le RGPD ne fait pas exception. C'est un acte législatif important qui met la barre faute en matière de confidentialité en ligne ; ce qui est formidable. But as I was reading up on the subject, I felt the urge to rage-quit because OMG bureaucrats.
 
 Allow me to explain.
 
