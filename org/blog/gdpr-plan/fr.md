@@ -118,21 +118,21 @@ Pour empêcher les entreprises de dresser un grand mur juridique contre lequel l
  - il doit être facile pour les gens de retracer leur consentement
  - le consentement au traitement des données ne doit pas être une condition préalable à un service
 
-Looking at that list, I can't help but feel that legislation would be a lot simpler if lawmakers could just write *don't be a dick* and call it a day.
+En regardant cette liste, Je ne peux m'empêcher de penser que la législation serait beaucoup plus simple si les législateurs pouvaient juste écrire *ne faites pas le con* et s'en tenir à ça.
 
-#### Consent granularity
+#### Granularité du consentement
 
-Remember, we can't just get blanket consent. We need to get consent for every type of data processing we do.
+Rappelez-vous que nous ne pouvons pas seulement obtenir un consentement global. Nous devons obtenir le consentement de chaque type de traitement de données que nous faisons.
 
-For freesewing.org, we have identified three different types of data processing:
+Pour freesewing.org, nous avons identifié trois types différents de traitement de données:
 
- - Profile data
- - Model data
- - Patron data
+ - Données du profil
+ - Données de modèle
+ - Données de patron
 
-For each of these, we'll need to get consent from the user, making sure it's *real consent* as intended in the GDPR.
+Pour chacun d'entre eux, nous devrons obtenir le consentement de l'utilisateur, en s'assurant que c'est un *consentement réel* comme prévu dans le RGPD.
 
-Below is a mockup for what this could look like for each data type:
+Voici une maquette de ce à quoi cela pourrait ressembler à chaque type de données :
 
 > ##### These mockups are no longer available
 > 
