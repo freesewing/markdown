@@ -24,9 +24,9 @@ Permettez-moi de m'expliquer.
 ### La vie privée a besoin d'être protégée
 Pour le meilleur ou pour le pire (je pense pour le pire) Internet s'est installé dans un mode opératoire où vous payez pour des *choses gratuites* avec vos données personnelles. Certains appellent ça [la culture des personnes](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), et je pense que c'est un bon terme.
 
-The [frightful five](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) are vacuuming up ever more of our personal lives. Short of never going online, there seems to be precious little we can do about it.
+Les [GAFAM](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) (Google/Apple/Facebook/Microsoft/Amazon) aspirent de plus en plus d'informations de nos vies personnelles. A part ne jamais se connecter sur Internet, il semble que nous ne puissions pas faire grand-chose à ce sujet.
 
-### Why the EU is the best
+### Pourquoi l'Union Européenne est la meilleure
 This problem is too big to tackle by any of us. Who could possibly stand up to the combined power of the tech giants?
 
 Well, how's this for a CV:
