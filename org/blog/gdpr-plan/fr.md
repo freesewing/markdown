@@ -77,13 +77,13 @@ Quelques petites choses que vous devriez savoir avant de plonger dans le RGPD :
 
 #### Il reste 100 jours
 
-The GDPR was adopted back in 2016, but it won't grow its teeth until May 25th 2018.
+Le GDPR a été adopté en 2016, mais ses dents n'auront pas poussées avant le 25 mai 2018.
 
-Until that day, you get a pass. After that day, it's for real. Which means we have 100 days left to get our house in order.
+Jusqu’à ce jour, vous obtenez un laissez-passer. Après ce jour, ce sera réel. Ce qui signifie qu'il nous reste 100 jours pour remettre de l'ordre dans notre maison.
 
-#### There's exemptions for SMEs
+#### Il y a des exemptions pour les PME
 
-Organizations employing fewer than 250 people are exempt from some of the more bureaucratic aspects of the GDPR, such as a bunch of documenting requirements.
+Les organisations employant moins de 250 personnes sont exemptées de certains des aspects les plus bureaucratiques du RGPD, comme notamment tout un tas d'exigences documentaires.
 
 Essentially, while you still have to do the right thing, there's a lot less paperwork to fill out.
 
