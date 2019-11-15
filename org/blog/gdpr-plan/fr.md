@@ -69,13 +69,13 @@ Mais si vous êtes curieux à propos du RGPD et de ce qu'il faut pour qu'un site
 > 
 > Si vous voulez vraiment savoir ce qu'est le RGPD, la meilleure chose que vous pouvez faire est de [lire ce sacré morceau](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679). Ce n'est pas sorcier.
 > 
-> If legislative texts make you run for the hills, the UKs ICO has [easily one of the best guides on GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
+> Si des textes législatifs vous font prendre vos jambes à votre cou, l'ICO du Royaume-Uni a [clairement l'un des meilleurs guides sur le RGPD](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
 
-### Good to know
+### Bon à savoir
 
-A few things you should know before we dive into GDPR:
+Quelques petites choses que vous devriez savoir avant de plonger dans le RGPD :
 
-#### There's 100 days left
+#### Il reste 100 jours
 
 The GDPR was adopted back in 2016, but it won't grow its teeth until May 25th 2018.
 
