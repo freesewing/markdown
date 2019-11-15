@@ -91,16 +91,16 @@ Freesewing emploie zéro personnes, nous sommes donc tirés d'affaire.
 
 #### Il y a des dispositions supplémentaires pour les données sensibles
 
-> Body measurements alone are not sensitive data
+> Les mensurations seules ne sont pas des données sensibles en soi
 
-The GDPR has extra provisions for *sensitive data* such as biometric data, profiling, and a bunch of other stuff.
+Le RGPD a des dispositions supplémentaires pour *données sensibles* telles que les données biométriques, le profilage, et un tas d'autres choses.
 
-This was cause for concern because we collect body measurements, and one of our questions was whether that qualifies as biometric data.
+C'est ce qui est à l'origine de nos préoccupations car nous collectons des mensurations, et une de nos questions était de savoir si celles-ci sont qualifiées de données biométriques.
 
-Turns out it doesn't. Biometric data is what you can use to identify a person, like a fingerprint or iris scan. Body measurements alone are not sensitive data.
+Il s'avère que ce n'est pas le cas. Les données biométriques sont celles que vous pouvez utiliser pour identifier une personne, comme une empreinte digitale ou un scan d'iris. Les mensurations seules ne sont pas des données sensibles en soi.
 
 
-### Collecting data through consent
+### Collecte de données par consentement
 
 To collect data, you need a so-called *lawful basis for data processing*. There are different types, but the one that applies to us (and to most online services) is **consent**.
 
