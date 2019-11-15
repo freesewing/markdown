@@ -85,11 +85,11 @@ Jusqu’à ce jour, vous obtenez un laissez-passer. Après ce jour, ce sera rée
 
 Les organisations employant moins de 250 personnes sont exemptées de certains des aspects les plus bureaucratiques du RGPD, comme notamment tout un tas d'exigences documentaires.
 
-Essentially, while you still have to do the right thing, there's a lot less paperwork to fill out.
+Dans l'essentiel, même si vous devez quand même faire les choses bien, il y a beaucoup moins de paperasse à remplir.
 
-Freesewing employs zero people, so we're off the hook.
+Freesewing emploie zéro personnes, nous sommes donc tirés d'affaire.
 
-#### There's extra provisions for sensitive data
+#### Il y a des dispositions supplémentaires pour les données sensibles
 
 > Body measurements alone are not sensitive data
 
