@@ -126,27 +126,27 @@ Rappelez-vous que nous ne pouvons pas seulement obtenir un consentement global. 
 
 Pour freesewing.org, nous avons identifié trois types différents de traitement de données:
 
- - Données du profil
+ - Données de profil
  - Données de modèle
- - Données de patron
+ - Données de mécène
 
 Pour chacun d'entre eux, nous devrons obtenir le consentement de l'utilisateur, en s'assurant que c'est un *consentement réel* comme prévu dans le RGPD.
 
 Voici une maquette de ce à quoi cela pourrait ressembler à chaque type de données :
 
-> ##### These mockups are no longer available
+> ##### Ces maquettes ne sont plus disponibles
 > 
-> Please note that the mockups originally included in this post are no longer available. Instead, this functionality has been implemented in the website.
+> Veuillez noter que les maquettes initialement incluses dans ce message ne sont plus disponibles. A la place, cette fonctionnalité a été directement implémentée dans le site Web.
 
-#### Consent timing
+#### Temps du consentement
 
-The GDPR states that you should ask for consent when the data is collected.
+Le RGPD indique que vous devez demander votre consentement lors de la collecte des données.
 
-With our three types of data processing, that means that consent must be asked at different times:
+Avec nos trois types de traitement des données, cela signifie que le consentement doit être demandé à des moments différents :
 
- - **Profile data**: When signing up on the site
- - **Model data**: When creating the first model
- - **Patron data**: When becoming a patron
+ - **Données de profil**: lors de l'inscription sur le site
+ - **Données de modèle**: lors de la création du premier modèle
+ - **Données de mécène**: En devenant un mécène
 
 This will (also) require some extra work to integrate this in the site.
 
