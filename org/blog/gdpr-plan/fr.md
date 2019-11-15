@@ -102,15 +102,15 @@ Il s'avère que ce n'est pas le cas. Les données biométriques sont celles que 
 
 ### Collecte de données par consentement
 
-To collect data, you need a so-called *lawful basis for data processing*. There are different types, but the one that applies to us (and to most online services) is **consent**.
+Pour collecter des données, vous avez besoin d'une fameuse *base légale pour le traitement des données*. Il existe différents types, mais celui qui s'applique à nous (et à la plupart des services en ligne) est **le consentement**.
 
-In this scenario, your legal basis for processing the data is that you've asked the person to get their data and they've freely given it to you.
+Dans ce scénario, votre base légale pour le traitement des données est que vous avez demandé à la personne de récupérer ses données et qu'elle vous les a données librement.
 
-That is straight-forward, and makes sense. But the GDPR is really serious about making sure this consent is freely given, and not wrestled from you grudgingly.
+C'est direct et cela a du sens. Mais le RGPD est très sérieux pour s'assurer que ce consentement est donné librement et qu'il n'est pas obtenu à contre cœur.
 
-To prevent companies from throwing up a big wall of legalese that people have to agree to, the GDPR outlines a number of principles this consent should adhere to. Here's a non-exhaustive list:
+Pour empêcher les entreprises de dresser un grand mur juridique contre lequel les gens se heurteraient, le RGPD décrit un certain nombre de de principes auxquels ce consentement devrait adhérer. Voici une liste non exhaustive :
 
- - people should have real choice and control
+ - les gens devraient avoir un vrai choix et un vrai contrôle
  - consent requires a positive opt-in, pre-ticked boxes or anything like that are not allowed
  - there should be a very clear statement explaining what people are agreeing to
  - these requests for consent must be separate from any terms & conditions
