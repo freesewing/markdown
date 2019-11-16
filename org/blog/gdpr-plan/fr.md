@@ -251,23 +251,23 @@ Il y a plus d'informations à ce sujet dans cet article du blog : [Les choix que
 
 Ceci forme déjà une très bonne base pour un site web soucieux de la protection de la vie privée. Mais comme nous aurons besoin de faire des changements pour le RGPD de toute façon, nous envisageons d'autres options pour élever davantage le niveau de confidentialité. Plus précisément, ce que nous pouvons faire pour limiter les dégâts causés à nos utilisateurs en cas de fuite de données.
 
-#### Restriction of data storage
+#### Limiter la conservation des données
 
-Some of the most sensitive data we store today is the address and birthday of our higher-tier patrons.
+Parmi les des données les plus sensibles que nous enregistrons aujourd'hui il y a l'adresse et l'anniversaire de nos plus mécènes de niveau supérieur.
 
-However, the site does not need this information to function. We only need it for administrative purposes; Sending out gifts and birthday cards to our patrons.
+Toutefois, le site n'a pas besoin de ces informations pour fonctionner. Nous n'en avons besoin qu'à des fins administratives ; envoi de cadeaux et de cartes d'anniversaire à nos mécènes.
 
-As such, there's no real need to keep this data in the freesewing database. We could just as well write this information down in a notebook we keep on our coffee table.
+Il n'y a donc aucun besoin réel de conserver ces données dans la base de données freesewing. Nous pourrions aussi bien écrire ces informations dans un carnet que nous garderions sur notre table basse.
 
-So, as part of our GDPR-related changes, we will remove this information from the database, and store it offline.
+Donc, dans le cadre de nos changements pour le RGPD, nous supprimerons ces informations de la base de données et les stockerons hors ligne.
 
-#### Encryption of data at rest
+#### Chiffrement des données stockées
 
-We already encrypt all data in transit. But, we are currently considering to add encryption of data at rest.
+Nous cryptons déjà toutes les données en transit. Mais nous envisageons actuellement d'ajouter le chiffrement des données stockées.
 
-The idea is to encrypt all data that could potentially identify a user. Such as:
+L'idée est de chiffrer toutes les données qui pourraient potentiellement identifier un utilisateur. Telles que :
 
- - Email address
+ - Adresse E-mail
  - User name
  - Model names
  - Model notes
