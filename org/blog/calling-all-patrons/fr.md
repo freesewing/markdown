@@ -1,23 +1,23 @@
 ---
 date: 2017-12-10
-title: "Calling all Patrons; Join our bedrock of loyal supporters."
-linktitle: "Calling all Patrons"
+title: "Appel aux mécènes ; rejoignez notre cercle de soutiens fidèles."
+linktitle: "Appel aux mécènes"
 img: phone.jpg
-caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
+caption: "Nous construisons un cercle de soutiens fidèles pour assurer un avenir durable à freesewing.org, à notre code, à nos modèles et à notre communauté."
 author: joost
 ---
 
-Every year, on this day, I write about what happened in the previous 12 months, and look ahead at what you can expect in the year ahead.
+Chaque année, à ce jour, j'écris sur ce qui s'est passé au cours des 12 mois précédents, et annonce ce à quoi vous pouvez vous attendre pour l'année à venir.
 
-This year is no different, but boy do I have a lot to talk about.
+Cette année n'est pas différente, mais purée, que j'ai beaucoup à dire.
 
-## 2017: the year freesewing was born
+## 2017: année de naissance de freesewing. org
 
-While freesewing was conceived in 2016 -- that's when I started working on it -- 2017 was the year it saw the light of day.
+Bien que le freesewing ait été conçu en 2016 -- c'est là que j'ai commencé à travailler dessus -- 2017 a été l'année où il a vu le jour.
 
-Freesewing core v1.0.0 [was released in March this year](/blog/announcing-freesewing/). For most people, that event passed under the radar. An open source platform for made-to-measure sewing patterns? What does this thing actually do?
+La version 1.0.0 de freesewing [a été publiée en mars de cette année](/blog/announcing-freesewing/). Pour la plupart des gens, cet événement est passé sous le radar. Une plateforme open source pour les patrons de couture sur mesure ? Que fait-elle réellement ?
 
-A lot, as it turns out. Something that's become more obvious since [the release of freesewing.org](/blog/open-for-business/) at the end of August.
+Beaucoup de choses en l’occurrence. Quelque chose devient plus évident depuis [la sortie de freesewing.org](/blog/open-for-business/) à la fin du mois d'août.
 
 ![Image from the original announcement blog post](open.jpg)
 
@@ -29,7 +29,7 @@ Yes, it's still early days. But I think it's safe to say that the decision to re
 
 Speaking of which.
 
-## MakeMyPattern.com is no more
+## MakeMyPattern.com n'est plus
 Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
 
 You can try to visit that link, but you'll only end up back here.
@@ -40,7 +40,7 @@ MakeMyPattern.com saw the light of day in 2012. It went through a number of iter
 
 We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
 
-## Let's talk money
+## Parlons d'argent
 Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
 
 This year we came in at **673.14€**, so that's what I've transferred.
