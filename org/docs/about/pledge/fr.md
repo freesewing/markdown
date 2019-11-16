@@ -14,21 +14,21 @@ Moi — Joost De Cock, responsable du projet FreeSewing
 
 ### Noblesse oblige
 
-You probably assume that we ask for money to keep the servers running. Mais ce n'est pas tout à fait vrai.
+Vous supposez probablement que nous demandons de l'argent pour faire tourner les serveurs. Mais ce n'est pas tout à fait vrai.
 
 Je ne sais pas si vous êtes familier avec l'expression **noblesse oblige** mais cela signifie essentiellement que le privilège implique une responsabilité.
 
-I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+Je suis privilégié, et j'ai donc des responsabilités. J'ai la chance d'être né en Europe occidentale, d'avoir un bon travail et un toit au-dessus de ma tête.
 
-Pourrais-je utiliser cet argent ? Yes I could. Do I need the money? Non.
+Pourrais-je utiliser cet argent ? Oui. Ai-je besoin de cet argent ? Non.
 
-### The value of your support
+### La valeur de votre soutien
 
 Le risque principal pour FreeSewing est le même que n'importe quel projet open source : le burnout du responsable.
 
 Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 
-When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
+Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
 
 ### The value of your money
 
