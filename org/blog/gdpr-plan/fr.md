@@ -148,19 +148,19 @@ Avec nos trois types de traitement des données, cela signifie que le consenteme
  - **Données de modèle**: lors de la création du premier modèle
  - **Données de mécène**: En devenant un mécène
 
-This will (also) require some extra work to integrate this in the site.
+Cela nécessitera (également) un travail supplémentaire pour intégrer ceci dans le site.
 
-### Respecting basic rights when processing data
+### Respecter des droits fondamentaux lors du traitement des données
 
-The EU enshrines basic rights for its citizens that should be respected when processing data.
+L'UE garantit à ses citoyens des droits fondamentaux qui doivent être respectés lors du traitement des données.
 
-Let's look at each of these rights and their impact on freesewing.org.
+Examinons chacun de ces droits et leur impact sur freesewing.org.
 
-#### The right to be informed
+#### Le droit d’être informé
 
-> You need to be transparent about how you use personal data. Why you collect it, how you use it, and so on.
+> Vous devez être transparent quant à la façon dont vous utilisez les données personnelles. Pourquoi vous le collectez, comment vous les utilisez, etc.
 
-Informing users is something we are still working on. If anything, this blog post is part of that effort.
+nous travaillons encore sur l'information des utilisateurs. If anything, this blog post is part of that effort.
 
 We will need to design the individual privacy notices, but also a more overall privacy policy as well as making certain that users are informed of all their rights.
 
@@ -280,7 +280,7 @@ While this change will be non-trivial to implement and come with a performance p
 
 While we still have some work to do, we are already compliant with large parts of the GDPR, especially when it comes to respecting users rights:
 
- - The right to be informed
+ - Le droit d’être informé
  - The right of access
  - The right to rectification
  - The right to erasure
