@@ -10,15 +10,15 @@ Citoyen de l'UE ou pas, pour nous voici vos droits :
 
 Vous avez le droit d'être informé de la collecte et de l'utilisation de vos données personnelles. Lisez [notre politique de confidentialité](/docs/about/privacy) pour vous informer.
 
-## The right of access
+## Le droit d’accès
 
 Vous disposez d'un droit d'accès à vos données personnelles. Pour cela, allez dans la partie [/Mon compte](/account).
 
-## The right to rectification
+## Le droit de rectification
 
 Vous avez le droit de rectifier vos données personnelles ou de les compléter si elles sont incomplètes. Pour cela, allez dans la partie [/Mon compte](/account).
 
-## The right to erasure
+## Le droit à l’effacement
 
 Vous disposez d'un droit à l'effacement de vos données personnelles. Allez dans [/Mon compte/supprimer](/account/remove) pour supprimer toutes vos données.
 
