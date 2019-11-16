@@ -28,32 +28,32 @@ Le risque principal pour FreeSewing est le même que n'importe quel projet open 
 
 Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 
-Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
+Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Continuez à bien travailler*.
 
-### The value of your money
+### La valeur de votre argent
 
-Il ne s'agit pas de *seulement* d'argent. Mais cela ne signifie pas que l'argent n'est pas important. Much to the contrary.
+Il ne s'agit pas de *seulement* d'argent. Mais cela ne signifie pas que l'argent n'est pas important. Bien au contraire.
 
-Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+Gagner de l'argent en faisant quelque chose que j'aime et ensuite le transmettre aux œuvres caritatives me permet de dormir la nuit.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to sew. Mais à la place, je travaille sur FreeSewing.
+Je pourrais faire du bénévolat aux resto du cœur ou apprendre aux enfants défavorisés à coudre. Mais à la place, je travaille sur FreeSewing.
 
-C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. It makes this project not only fun to do, but also socially responsible. Et j'ai besoin de ça pour me convaincre que oui, il est bon de passer tout mon temps à le faire, parce qu'à la fin de l'année, cela me permet d'envoyer un chèque à des gens qui en ont vraiment besoin.
+C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. Il rend ce projet non seulement amusant à faire, mais aussi socialement responsable. Et j'ai besoin de ça pour me convaincre que oui, il est bon de passer tout mon temps à le faire, parce qu'à la fin de l'année, cela me permet d'envoyer un chèque à des gens qui en ont vraiment besoin.
 
-### Charity is not sexy
+### La charité n'est pas sexy
 Voici la partie délicate : les gens donnent moins une fois qu'ils savent que l'argent est finalement reversé aux bonnes œuvres. Je voudrais que ce ne soit pas le cas, mais ça l'est.
 
 Nous présentons donc [nos options d'abonnement](/patrons/join) comme vous le verriez sur un site à but lucratif. Cela semble plus intuitif ainsi, et ça fonctionne mieux aussi.
 
-Oui, tout est gratuit et l'argent ne va pas vraiment payer les factures du serveur (parce que je choisis de les payer de ma poche pour les raisons décrites ci-dessus). Mais cela ne signifie pas que ces contributions ne sont pas cruciales pour le bien-être du projet. ou du moins son responsable (c'est-à-dire moi).
+Oui, tout est gratuit et l'argent ne va pas vraiment payer les factures des serveurs (parce que je choisis de les payer de ma poche pour les raisons décrites ci-dessus). Mais cela ne signifie pas que ces contributions ne sont pas cruciales pour le bien-être du projet, ou du moins son responsable (c'est-à-dire moi).
 
 ## A quelle œuvre de charité va l'argent ?
 
-Il y a beaucoup de misère dans le monde. En regardant les nouvelles, je sens souvent que ma foi en l'humanité faillit.
+Il y a beaucoup de misère dans le monde. En regardant les informations, je sens souvent que ma foi en l'humanité faillit.
 
 Certaines des personnes les plus vulnérables de cette planète semblent largement abandonnées par les pays riches et les organisations internationales.
 
-Pourtant, dans certains des pires endroits de la planète pour être un être humain, il y a encore un étendard qui apporte espoir et aide. Ce n'est pas le drapeau des Nations Unies, ce n'est pas non plus le drapeau américain, ni le bleu et l'or de l'Union Européenne.
+Pourtant, dans certains des pires endroits de la planète pour tout être humain, il y a encore un étendard qui apporte espoir et aide. Ce n'est pas le drapeau des Nations Unies, ce n'est pas non plus le drapeau américain, ni le bleu et l'or de l'Union Européenne.
 
 La seule chose qui me rappelle que l'humanité n'a pas complètement abandonné ces gens est de voir l'étendard de Médecins sans frontières voler parmi les décombres de leurs hôpitaux bombardés.
 
