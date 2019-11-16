@@ -1,6 +1,6 @@
 ---
 date: 2017-12-10
-title: "Appel aux mécènes ; rejoignez notre cercle de soutiens fidèles."
+title: "Appel aux mécènes ; rejoignez notre socle de soutiens fidèles."
 linktitle: "Appel aux mécènes"
 img: phone.jpg
 caption: "Nous construisons un cercle de soutiens fidèles pour assurer un avenir durable à freesewing.org, à notre code, à nos modèles et à notre communauté."
@@ -19,26 +19,26 @@ La version 1.0.0 de freesewing [a été publiée en mars de cette année](/blog/
 
 Beaucoup de choses en l’occurrence. Quelque chose devient plus évident depuis [la sortie de freesewing.org](/blog/open-for-business/) à la fin du mois d'août.
 
-![Image from the original announcement blog post](open.jpg)
+![Image du blog de l'annonce originale](open.jpg)
 
 Le jour de Noël, il se sera écoulé (seulement) quatre mois depuis cette sortie. Pourtant dans ce délai, nous avons accueillis **2735 utilisateurs** pour qui nous hébergeons **1522 brouillons** et **2359 modèles**.
 
-Nous avons démarré avec 11 patrons et en avons depuis ajouté 4, portant le total actuel à 15. Half of those new patterns are a community effort, which is particularly promising.
+Nous avons démarré avec 11 patrons et en avons depuis ajouté 4, portant le total actuel à 15. La moitié de ces nouveaux patrons proviennent d'un effort communautaire, qui est particulièrement prometteur.
 
-Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
+Oui, nous n'en sommes qu'aux débuts. Mais je pense qu'il est sage de dire que la décision de réinventer makemypattern.com en tant que projet open source était le bon choix.
 
-Speaking of which.
+A ce propos.
 
 ## MakeMyPattern.com n'est plus
-Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
+Peu de temps avant de publier cet article de blog, j'ai débranché [makemypattern.com](https://makemypattern.com/).
 
-You can try to visit that link, but you'll only end up back here.
+Vous pouvez essayer de visiter ce lien, mais vous finirez par revenir ici.
 
-MakeMyPattern.com saw the light of day in 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
+MakeMyPattern.com a vu le jour en 2012. Il est passé par un certain nombre d'itérations depuis, et aujourd'hui est finalement remplacé par freesewing.org.
 
-![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
+![Était-ce un M ? Un livre ? Un oiseau ? Des seins ? Nous ne le saurons peut-être jamais](mmp.png)
 
-We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
+Nous en avons terminé, et je pense que pour n'importe quel projet, c'est une bonne façon de faire quand vous vous faites cannibaliser par quelque chose qui vous inspire davantage.
 
 ## Parlons d'argent
 Comme chaque année jusqu'à ce jour, j'ai transféré tous les dons sur le compte de [Médecins Sans Frontières](http://www.msf.org/).
@@ -95,31 +95,31 @@ Avoir pris le temps de me pencher sur l'aspect monétaire des choses m'a permis 
 
 Donc, dès aujourd'hui, nous en appelons à tous les Mécènes.
 
-## Become a Patron of Freesewing
+## Devenez un Mécène de Freesewing
 
-To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters. Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
+Pour assurer un avenir durable à freesewing.org, à notre code, à nos patrons et à notre communauté, nous avons besoin de construire un socle de soutiens fidèles. Les mécènes qui nous soutiennent sont au cœur de notre travail, en développant une plateforme open source pour les patrons de couture sur-mesure.
 
-![We have three tiers of Patronage](patron-medals.jpg)
+![Nous avons trois niveaux de Mécénat](patron-medals.jpg)
 
-We have different tiers of Patronage, each with their own perks. You can support us for as little as 2€, and it only takes a minute.
+Nous avons différents niveaux de Mécénat, chacun avec ses propres avantages. Vous pouvez nous soutenir à partir de 2€, et cela ne prend qu'une minute.
 
-> We are not changing the nature of the site. All patterns, and all our code, will remain free.
+> Nous ne changeons pas la nature du site. Tous les patrons, et tout notre code, resteront gratuits.
 
-We are not changing the nature of the site. All patterns, and all our code, will remain free. What we are changing is the way we raise funds. From a system of impulsive donations to a community of caring Patrons. If you are someone who cares, then [check out what we have to offer](/patrons/join).
+Nous ne changeons pas la nature du site. Tous les patrons, et tout notre code, resteront gratuits. Ce que nous changeons, c'est la manière dont nous collectons des fonds. D'un système de dons spontanés à une communauté de mécènes attentionnés. Si vous êtes quelqu'un d'intéressé, alors [regardez ce que nous avons à offrir](/patrons/join).
 
-I sincerely believe we are doing a worthwhile thing here. If you feel that way too, then I ask you to pledge whatever you can so that we can write many more chapters in this book.
+Je crois sincèrement que nous faisons une chose qui vaut la peine ici. Si vous vous avez le même sentiment vous aussi, alors je vous demande d'engager tout ce que vous pouvez pour que nous puissions écrire beaucoup plus de chapitres dans ce livre.
 
-> ### Become a Patron today
+> ### Devenez mécène aujourd'hui
 > 
-> #### You can sign up for as little as 2€, and it only takes a minute.
+> #### Vous pouvez nous soutenir à partir de 2€, et cela ne prend qu'une minute.
 > 
-> [Find out more](/patrons/join)
+> [En savoir plus](/patrons/join)
 
-Thank you, and have a great year.
+Merci et bonne année.
 
 joost
 
-<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. 
-So perhaps you could share [this image](patrons-ig.png) on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
+<small>PS: Il serait dommage qu'il y ait des gens prêts à nous soutenir qui ne soient pas au courant. 
+Alors, peut-être pourriez-vous partager [cette image](patrons-ig.png) sur les réseaux sociaux ? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
 
-![Sharing is caring!](patrons-ig.png)
+![Partager, c'est soutenir !](patrons-ig.png)
