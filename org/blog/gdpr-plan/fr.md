@@ -210,21 +210,21 @@ Cela s'appliquera à nous lorsque nous commencerons à publier des données de m
 
 La raison pour laquelle nous publions ces données est que nous voulons mettre à disposition un jeu de données de mensurations *réelles*, plutôt que des mensurations *standards* qui sont généralement utilisées dans l'industrie.
 
-C'est quelque chose que sur quoi écrirons davantage à une date ultérieure, mais globalement ça tombe dans la catégorie *recherche/statistiques scientifique*. And even though the data is anonimized, we still need to respect the right of users to object to this processing.
+C'est quelque chose que sur quoi écrirons davantage à une date ultérieure, mais globalement ça tombe dans la catégorie *recherche/statistiques scientifique*. Et même si les données sont anonymisées, nous devons toujours respecter le droit des utilisateurs de s'opposer à ce traitement.
 
-As such, we should add the possibility to object to this specific use of the data.
+À ce titre, nous devrions ajouter la possibilité de nous opposer à cette utilisation spécifique des données.
 
-#### Rights in relation to automated decision making and profiling
+#### Droits relatifs à l'automatisation de prise de décision et de profilage
 
-> People have extra rights when it comes to profiling or decisions made by AI or algorithms without human involvement.
+> Les gens ont des droits supplémentaires en matière de profilage ou de décisions prises par des IA ou des algorithmes sans implication humaine.
 
-This is not relevant in our situation.
+Cela n'est pas pertinent dans notre situation.
 
-### Privacy by design
+### Respect de la vie privée dès la conception
 
-The EU isn't content with throwing up a couple of consent questions and respecting people's rights when processing data. It also wants to make certain that your privacy is (better) protected when things go wrong.
+L'UE ne se contente pas de poser quelques questions de consentement et de respect les droits des personnes sur le traitement des données. Elle veut aussi s'assurer que votre vie privée est (mieux) protégée lorsque les choses tournent mal.
 
-That's why it advocates for *privacy by design*. While it's a concept that's hard to pin down in legislation, the purpose is clear: They want everyone to consider privacy from the very start of their project/product/business, and not as an afterthought.
+C'est pourquoi il préconise le *respect de la vie privée dès la conception*. While it's a concept that's hard to pin down in legislation, the purpose is clear: They want everyone to consider privacy from the very start of their project/product/business, and not as an afterthought.
 
 Things such as encryption (both in transit and for data at-rest), pseudonyms, and data expiry are suggested as things to keep in mind while designing.
 
@@ -287,7 +287,7 @@ While we still have some work to do, we are already compliant with large parts o
  - Le droit à la limitation du traitement
  - Le droit à la portabilité des données
  - Le droit d’opposition
- - Rights in relation to automated decision making and profiling
+ - Droits relatifs à l'automatisation de prise de décision et de profilage
 
 We are currently working on *the right to be informed* and have a plan for the changes required to respect *the right to restrict processing* and *the right to object*.
 
