@@ -268,17 +268,17 @@ Nous cryptons déjà toutes les données en transit. Mais nous envisageons actue
 L'idée est de chiffrer toutes les données qui pourraient potentiellement identifier un utilisateur. Telles que :
 
  - Adresse E-mail
- - User name
- - Model names
- - Model notes
+ - Nom d’utilisateur
+ - Noms de modèle
+ - Notes de modèle
 
-This would add an extra layer of defense for our users' privacy in case somehow our database gets dumped.
+Cela ajouterait une couche supplémentaire de défense de la vie privée de nos utilisateurs au cas où notre base de données serait détruite.
 
-While this change will be non-trivial to implement and come with a performance penalty, I feel it's worth looking in to.
+Bien que ce changement risque d'être difficile à mettre en œuvre et assorti d'une perte de performance, je pense que ça vaut la peine d'y travailler.
 
 ## Conclusion
 
-While we still have some work to do, we are already compliant with large parts of the GDPR, especially when it comes to respecting users rights:
+Bien que nous ayons encore du pain sur la planche, nous sommes déjà en conformité avec une grande partie du RGPD, en particulier quand il s'agit de respecter les droits des utilisateurs :
 
  - Le droit d’être informé
  - Le droit d’accès
@@ -289,7 +289,7 @@ While we still have some work to do, we are already compliant with large parts o
  - Le droit d’opposition
  - Droits relatifs à l'automatisation de prise de décision et de profilage
 
-We are currently working on *the right to be informed* and have a plan for the changes required to respect *the right to restrict processing* and *the right to object*.
+Nous travaillons actuellement sur *le droit à l'information* et avons un plan pour les changements requis afin de respecter *le droit de restreindre le traitement* et *le droit de contester*.
 
 On the data collection site, we need to hammer out the details for our privacy notices. We'll also write a detailed privacy policy that bundles all the info from the different notices.
 
