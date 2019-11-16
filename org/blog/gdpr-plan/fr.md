@@ -15,7 +15,7 @@ Tout cela représente une sacré lecture, donc voici donc une table des matière
 
 J'ai une relation d'amour/haine avec l'Union européenne. J'adore ce qu'ils font et ce qu'ils défendent, je déteste la façon dont ils le font.
 
-![I totally get this dude](rage-quit.gif)
+![Je comprends totalement ce gars](rage-quit.gif)
 
 Le RGPD ne fait pas exception. C'est un acte législatif important qui met la barre faute en matière de confidentialité en ligne ; ce qui est formidable. Mais alors qu'avançais dans la lecture à ce sujet, j'ai failli tout laisser tomber de rage car c'est un sacré boulot de bureaucrate !
 
@@ -36,7 +36,7 @@ Eh bien, voici un quelques chiffres :
   - Google a reçu une amende de 2,4 milliards d'euros pour avoir abusé de sa position dominante dans les moteurs de recherche
   - Apple a été condamné à payer 13 milliards d'euros de taxes supplémentaires en Irlande
 
-![We're the EU, bitch](titanfall.gif)
+![Nous sommes l'UE, garce](titanfall.gif)
 
 En ce qui concerne les géants du numérique, l'Union Européenne n'utilise que le bâton ; pas la carotte.
 
@@ -50,7 +50,7 @@ Quatre pour cent du chiffre d'affaires global est *un très gros bâton*.
 
 ### Pourquoi l'UE est la pire
 
-![What I imagine a Article 29 Working Party looks like](complicated.gif)
+![Ce que j'imagine à quoi ressemble un groupe de travail sur l'article 29](complicated.gif)
 
 L'UE étant l'UE, le règlement est un mélange d'objectifs et d'idéaux élevés, avec une pression des lobbies, est en plus complexifié par le compromis nécessaire pour rallier 28 États membres.
 
@@ -309,9 +309,9 @@ Nous devrons ajouter des modifications lors de la prise en main de l'utilisateur
 
 Il semble que nous ayons beaucoup de travail devant nous.
 
-### Retour d'expérience
+### Avis
 
-It is my personal opinion that the GDPR is a good thing. But I want to hear from you about the changes outlined in this blog post.
+Je pense personnellement que le RGPD est une bonne chose. Mais je veux entendre vos avis à propos des changements décrits dans ce billet de blog.
 
-So please reach out with your feedback and comments. It is after all your data we're talking about.
+Donc s'il vous plaît faites-nous part de vos commentaires et avis. Après tout, ce sont vos données dont nous parlons.
 
