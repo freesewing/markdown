@@ -249,7 +249,7 @@ Nous faisons déjà un certain nombre de choses qui sont animées par une approc
 
 Il y a plus d'informations à ce sujet dans cet article du blog : [Les choix que j'ai faits pour protéger votre vie privée. Ou pourquoi vous n'aurez pas de cookies](/blog/privacy-choices/).
 
-Ceci forme déjà une très bonne base pour un site web soucieux de la protection de la vie privée. Mais comme nous aurons besoin de faire des changements pour le RGPD de toute façon, nous envisageons d'autres options pour élever davantage le niveau de confidentialité. Specifically, what can we do to limit the damage to our users in case there is a data leak.
+Ceci forme déjà une très bonne base pour un site web soucieux de la protection de la vie privée. Mais comme nous aurons besoin de faire des changements pour le RGPD de toute façon, nous envisageons d'autres options pour élever davantage le niveau de confidentialité. Plus précisément, ce que nous pouvons faire pour limiter les dégâts causés à nos utilisateurs en cas de fuite de données.
 
 #### Restriction of data storage
 
