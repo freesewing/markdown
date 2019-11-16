@@ -38,7 +38,7 @@ With these changes, we've covered your right to be informed.
 
 One of the more vague yet impactful requirements of GDPR is so-called *privacy-by-design*. We took the advice to heart and have made two changes inspired by this:
 
- - Encryption of data at rest
+ - Chiffrement des données stockées
  - Termination of dormant accounts
 
 We now encrypt your profile data at rest. In other words, our database holds your info, but it's encrypted. We only decrypt it when we need it.
