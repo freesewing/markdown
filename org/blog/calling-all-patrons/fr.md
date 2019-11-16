@@ -41,35 +41,35 @@ MakeMyPattern.com saw the light of day in 2012. It went through a number of iter
 We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
 
 ## Parlons d'argent
-Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
+Comme chaque année jusqu'à ce jour, j'ai transféré tous les dons sur le compte de [Médecins Sans Frontières](http://www.msf.org/).
 
-This year we came in at **673.14€**, so that's what I've transferred.
+Cette année, nous sommes arrivés à **673.14€**, donc c'est ce que j'ai reversé.
 
-> Why should we give you money in the first place if you're just going to give it away?
+> Pourquoi devrions-nous vous donner de l'argent si c'est pour que vous le donniez ensuite ?
 
-I've also come to understand that people have a bunch of questions about this. Like *Why are you doing this?* and *Why should we give you money in the first place if you're just going to give it away?*
+J'ai compris que les gens ont un tas de questions à ce sujet. Telles que *Pouquoi faites-vous cela ?* et *Pourquoi devrions-nous vous donner de l'argent pour que vous le donniez ensuite ?*
 
-These questions have led to some soul-searching recently. What I've learned is that it's not easy to talk about money. Nor is it easy to put in words things that you know to be right, almost instinctively.
+Ces questions ont récemment fait l'objet d'un examen de conscience. Ce que j'ai appris, c'est qu'il n'est pas facile de parler d'argent. Il n'est pas non plus facile de mettre des mots sur ce que vous estimez être juste, instinctivement.
 
-But I wanted to be completely transparent about what's going on, so I made the effort to write about these things on [our pledge page](/about/pledge). And I'm copying them here verbatim:
+Mais je voulais être complètement transparent sur ce qui se passe, alors j'ai fait l'effort d'écrire à ce sujet sur [la page de nos engagement](/about/pledge). Et je les copie ici mot pour mot :
 
 > ##### Noblesse oblige
 > 
-> You probably assume that we ask for money to keep the servers running. But that’s not exactly true.
+> Vous supposez probablement que nous demandons de l'argent pour faire tourner les serveurs. Mais ce n'est pas tout à fait vrai.
 > 
-> I don’t know if you’re familiar with the phrase *noblesse oblige* but it essentially means that privilege entails responsibility.
+> Je ne sais pas si vous êtes familier avec l'expression *noblesse oblige* mais cela signifie essentiellement que le privilège implique une responsabilité.
 > 
-> I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+> Je suis privilégié, et j'ai donc des responsabilités. J'ai la chance d'être né en Europe occidentale, d'avoir un bon travail et un toit au-dessus de ma tête.
 > 
-> Could I use the money? Yes I could. Do I need the money? No I don’t.
+> Pourrais-je utiliser cet argent ? Oui. Ai-je besoin de cet argent ? Non.
 > 
-> ##### The value of your support
+> ##### La valeur de votre soutien
 > 
-> The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
+> Le risque principal pour FreeSewing est le même que n'importe quel projet open source : le burnout du responsable.
 > 
-> While I no longer carry Freesewing alone — and I can’t stress enough how much I value the work of all contributors — that doesn’t make me immune to feelings of *Why the fuck am I doing this?*
+> Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 > 
-> When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you’re doing a worthwhile thing. Keep up the good work*.
+> Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
 > 
 > ##### The value of your money
 > 
