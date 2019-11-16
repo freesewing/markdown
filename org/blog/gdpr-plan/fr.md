@@ -245,11 +245,11 @@ Nous faisons déjà un certain nombre de choses qui sont animées par une approc
  - Nous n'avons pas de connexions sociales, comme des boutons de "j'aime", ou autres choses de ce genre
  - Nous ne diffusons pas de publicités
  - Nous n'exécutons aucun code JavaScript tiers
- - We use encryption on all transport
+ - Nous utilisons le chiffrement pour tous les tranferts
 
-There's some more info on this in this blog post: [The choices I've made to protect your privacy. Or why you won't be getting any cookies](/blog/privacy-choices/).
+Il y a plus d'informations à ce sujet dans cet article du blog : [Les choix que j'ai faits pour protéger votre vie privée. Ou pourquoi vous n'aurez pas de cookies](/blog/privacy-choices/).
 
-These already form a very good basis for a privacy conscious website. But since we'll need to make changes for GDPR anyway, we're considering other options to further raise the privacy bar. Specifically, what can we do to limit the damage to our users in case there is a data leak.
+Ceci forme déjà une très bonne base pour un site web soucieux de la protection de la vie privée. Mais comme nous aurons besoin de faire des changements pour le RGPD de toute façon, nous envisageons d'autres options pour élever davantage le niveau de confidentialité. Specifically, what can we do to limit the damage to our users in case there is a data leak.
 
 #### Restriction of data storage
 
