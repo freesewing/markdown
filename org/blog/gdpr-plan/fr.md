@@ -160,29 +160,29 @@ Examinons chacun de ces droits et leur impact sur freesewing.org.
 
 > Vous devez être transparent quant à la façon dont vous utilisez les données personnelles. Pourquoi vous le collectez, comment vous les utilisez, etc.
 
-nous travaillons encore sur l'information des utilisateurs. If anything, this blog post is part of that effort.
+nous travaillons encore sur l'information des utilisateurs. En tout cas, cet article de blog participe à cet effort.
 
-We will need to design the individual privacy notices, but also a more overall privacy policy as well as making certain that users are informed of all their rights.
+Nous devrons concevoir la Politique de Confidentialité individuelle, mais aussi une politique de confidentialité plus générale tout en veillant à ce que les utilisateurs soient informés de tous leurs droits.
 
-While this will require some work, I don't expect any problems here.
+Bien que cela demande un peu de travail, je ne m'attends pas à ce qu'il y ait des problèmes ici.
 
-#### The right of access
+#### Le droit d’accès
 
-> People have the right to know their data is processed, and to access that data.
+> Les personnes ont le droit de savoir si leurs données sont traitées, et de pouvoir y accéder.
 
-We are already compliant, as all data users enter on the site can also be accessed by them.
+Nous sommes déjà conformes, puisque toutes les données que les utilisateurs saisissent sur le site sont également accessibles par eux.
 
-#### The right to rectification
+#### Le droit de rectification
 
-> People have the right to correct their data if it's not correct.
+> Les personnes ont le droit de corriger leurs données si elles ne sont pas correctes.
 
-We are already compliant, as all data users enter on the site can also be edited by them.
+Nous sommes déjà conformes, car toutes les données que les utilisateurs saisissent sur le site peuvent également être modifiées par eux.
 
-#### The right to erasure
+#### Le droit à l’effacement
 
-> People have the right to have their data removed/erased.
+> Les personnes ont le droit de supprimer/effacer leurs données.
 
-We are already compliant, as users can remove their models, or entire account at any time.
+Nous sommes déjà conformes, car les utilisateurs peuvent supprimer leurs modèles, ou tout le compte à tout moment.
 
 #### The right to restrict processing
 
@@ -281,9 +281,9 @@ While this change will be non-trivial to implement and come with a performance p
 While we still have some work to do, we are already compliant with large parts of the GDPR, especially when it comes to respecting users rights:
 
  - Le droit d’être informé
- - The right of access
- - The right to rectification
- - The right to erasure
+ - Le droit d’accès
+ - Le droit de rectification
+ - Le droit à l’effacement
  - The right to restrict processing
  - The right to data portability
  - The right to object
