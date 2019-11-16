@@ -224,27 +224,27 @@ Cela n'est pas pertinent dans notre situation.
 
 L'UE ne se contente pas de poser quelques questions de consentement et de respect les droits des personnes sur le traitement des données. Elle veut aussi s'assurer que votre vie privée est (mieux) protégée lorsque les choses tournent mal.
 
-C'est pourquoi il préconise le *respect de la vie privée dès la conception*. While it's a concept that's hard to pin down in legislation, the purpose is clear: They want everyone to consider privacy from the very start of their project/product/business, and not as an afterthought.
+C'est pourquoi il préconise le *respect de la vie privée dès la conception*. Bien que ce concept soit difficile à mettre en place dans la législation, le but est clair : ils veulent que tout le monde prenne en considération le respect de la vie privée dès le début de leur projet/produit/entreprise, et pas comme une réflexion a posteriori.
 
-Things such as encryption (both in transit and for data at-rest), pseudonyms, and data expiry are suggested as things to keep in mind while designing.
+Des choses telles que le chiffrement (tant en transit que pour les données en sommeil), les pseudonymes, et l'expiration des données, sont suggérées comme à garder à l'esprit dès la conception.
 
-Obviously, the EU is not going to come check your code to see whether you've taken privacy by design to heart. But it can (and probably will) have an influence when things to wrong.
+Évidemment, l'UE ne va pas venir vérifier votre code pour voir si vous avez pris à cœur le respect de la vie privée dès la conception. Mais elle peut (et elle aura sûrement) avoir une influence si les choses tournent mal.
 
-Imagine two companies who have a data leak, one of them hasn't done much to safeguard the privacy of their users, whereas the other has taken *privacy by design* measures to mitigate the damage.
+Imaginez deux entreprises qui ont une fuite de données, l'une d'entre elles n'a pas fait grand chose pour protéger la vie privée de leurs utilisateurs, alors que l'autre a pris des mesures pour *le respect de la vie privée dès la conception* afin d'atténuer les dégâts.
 
-It seems obvious that the EU is going to come down harder on the company who didn't even try.
+Il semble évident que l'UE va se montrer plus sévère à l'égard de la société qui n'a pas fait d'effort.
 
-#### What we're already doing
+#### Ce que nous faisons déjà
 
-We already do a number of things that are driven by a *privacy by design* approach. For example:
+Nous faisons déjà un certain nombre de choses qui sont animées par une approche de *respect de la vie privée dès la conception*. Par exemple :
 
- - We use pseudonyms for user accounts
- - We don't share any data with any third party
- - We don't include any tracking code, or analytics
- - We don't use cookies
- - We don't have any social logins, like buttons, or other such things
- - We don't run/show any ads
- - We don't run any third-party JavaScript code
+ - Nous utilisons des pseudonymes pour les comptes utilisateurs
+ - Nous ne partageons aucune donnée avec un tiers
+ - Nous n'incluons pas de code de suivi, ou d'analyse
+ - Nous n'utilisons pas de cookies
+ - Nous n'avons pas de connexions sociales, comme des boutons de "j'aime", ou autres choses de ce genre
+ - Nous ne diffusons pas de publicités
+ - Nous n'exécutons aucun code JavaScript tiers
  - We use encryption on all transport
 
 There's some more info on this in this blog post: [The choices I've made to protect your privacy. Or why you won't be getting any cookies](/blog/privacy-choices/).
