@@ -291,25 +291,25 @@ Bien que nous ayons encore du pain sur la planche, nous sommes déjà en conform
 
 Nous travaillons actuellement sur *le droit à l'information* et avons un plan pour les changements requis afin de respecter *le droit de restreindre le traitement* et *le droit de contester*.
 
-On the data collection site, we need to hammer out the details for our privacy notices. We'll also write a detailed privacy policy that bundles all the info from the different notices.
+Sur le site de collecte de données, nous devons préciser les détails de nos avis de confidentialité. Nous allons également écrire une politique de confidentialité détaillée qui inclut toutes les informations des différentes avis.
 
-We'll need to add changes to the user on-boarding to make sure notices are presented at the correct time. Not to mention that we'll need to keep track of who gave their consent for what.
+Nous devrons ajouter des modifications lors de la prise en main de l'utilisateur pour nous assurer que les avis sont présentés au bon moment. Sans oublier que nous devrons garder trace de qui a donné son consentement et pour quoi.
 
-### Action points
+### Points d'action
 
- - Draft privacy notices for profile/model/patron data
- - Integrate consent in user on-boarding, model creation, and patron sign-up
- - Make site functionality depend on consent
- - Provide a centralized privacy dashboard where people can review their privacy settings/consent
- - Add email notifications every time consent is changed
- - Provide a way for people to *freeze* their account
- - Provide a way for people to object to their model data being used for research and statistics
- - Write and publish an overall privacy policy
- - Encrypt sensitive data in the database
+ - Brouillon des avis de confidentialité pour les données du profil/modèle/patron
+ - Intégrer le consentement au démarrage, à la création de modèles et à l'inscription des mécènes
+ - Rendre la fonctionnalité du site dépendante du consentement
+ - Fournir un rapport de confidentialité centralisé où les personnes peuvent consulter leurs paramètres de confidentialité / consentement
+ - Ajouter des notifications par email chaque fois que le consentement est modifié
+ - Permettre aux personnes de *geler* leur compte
+ - Permettre aux personnes de s'opposer à l'utilisation de leurs données de modèle pour la recherche et les statistiques
+ - Écrire et publier une politique de confidentialité globale
+ - Chiffrer les données sensibles dans la base de données
 
-Seems like we've got a lot of work ahead of us.
+Il semble que nous ayons beaucoup de travail devant nous.
 
-### Feedback
+### Retour d'expérience
 
 It is my personal opinion that the GDPR is a good thing. But I want to hear from you about the changes outlined in this blog post.
 
