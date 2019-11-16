@@ -2,7 +2,7 @@
 title: Go counter-clockwise
 ---
 
-Follow your paths counter-clockwise.
+Follow your paths counter-clockwise. You have to pick a direction anyway, and going counter-clockwise is a bit of a convention.
 
 This applies both to naming points (specifically the control points of curves) and the order in which you define your points.
 
@@ -13,7 +13,7 @@ So pick a point, and make your way around counter-clockwise.
 When naming control points for curves, re-use the name of the point they are attached to and add `Cp1` to the control point before and `Cp2` to the control point after the point if , once again, you'd follow your path counter-clockwise.
 
 
-For example:
+Par exemple :
 
 ```js
 part.paths.seam = new Path()
