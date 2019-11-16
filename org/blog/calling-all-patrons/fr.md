@@ -21,9 +21,9 @@ Beaucoup de choses en l’occurrence. Quelque chose devient plus évident depuis
 
 ![Image from the original announcement blog post](open.jpg)
 
-On Christmas day, it will (only) have been four months since this release. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Le jour de Noël, il se sera écoulé (seulement) quatre mois depuis cette sortie. Pourtant dans ce délai, nous avons accueillis **2735 utilisateurs** pour qui nous hébergeons **1522 brouillons** et **2359 modèles**.
 
-We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
+Nous avons démarré avec 11 patrons et en avons depuis ajouté 4, portant le total actuel à 15. Half of those new patterns are a community effort, which is particularly promising.
 
 Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
 
@@ -69,31 +69,31 @@ Mais je voulais être complètement transparent sur ce qui se passe, alors j'ai 
 > 
 > Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 > 
-> Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Keep up the good work*.
+> Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Continuez à bien travailler*.
 > 
-> ##### The value of your money
+> ##### La valeur de votre argent
 > 
-> It is not just about the money. But that doesn’t mean the money is not important. Much to the contrary.
+> Il ne s'agit pas seulement d'argent. Mais cela ne signifie pas que l'argent n'est pas important. Bien au contraire.
 > 
-> Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+> Gagner de l'argent en faisant quelque chose que j'aime et ensuite le transmettre aux œuvres caritatives me permet de dormir la nuit.
 > 
-> I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
+> Je pourrais faire du bénévolat aux resto du cœur ou apprendre aux enfants défavorisés à coudre. Mais à la place, je travaille sur FreeSewing.
 > 
-> Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it’s OK to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+> C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. Il rend ce projet non seulement amusant à faire, mais aussi socialement responsable. Et j'ai besoin de ça pour me convaincre que oui, il est bon de passer tout mon temps à le faire, parce qu'à la fin de l'année, cela me permet d'envoyer un chèque à des gens qui en ont vraiment besoin.
 > 
-> ##### Charity is not sexy
+> ##### La charité n'est pas sexy
 > 
-> Here’s the tricky part: People donate less once they know the money goes to charity in the end. I wish it wasn’t the case, but it is.
+> Voici la partie délicate : les gens donnent moins une fois qu'ils savent que l'argent est finalement reversé aux bonnes œuvres. Je voudrais que ce ne soit pas le cas, mais ça l'est.
 > 
-> So I’m not explicitly mentioning it on our Patrons page, which is presented like you would see on a business site.
+> Je ne le mentionne donc pas explicitement sur notre page de Mécènes, qui est présentée comme vous pourrez le voir, comme un site marchand.
 > 
-> Yes, everything is free, and the money doesn’t actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn’t mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+> Oui, tout est gratuit et l'argent ne va pas vraiment payer les factures des serveurs (parce que je choisis de les payer de ma poche pour les raisons décrites ci-dessus). Mais cela ne signifie pas que ces contributions ne sont pas cruciales pour le bien-être du projet, ou du moins son responsable (c'est-à-dire moi).
 
-Did you notice that in the text above I mentioned our Patrons page? That is because I've rolled out a bunch of changes today.
+Avez-vous remarqué que dans le texte ci-dessus, j'ai mentionné notre page de Mécènes ? C'est parce que j'ai déployé un tas de changements aujourd'hui.
 
-Having taken the time to reflect on the money side of things, I've realized that it's an important factor in the well-being of this project. I also believe that donations -- while motivating and appreciated -- are not the best way to go about this.
+Avoir pris le temps de me pencher sur l'aspect monétaire des choses m'a permis de réaliser que c'est un facteur important dans le bien-être de ce projet. Je crois aussi que les dons – bien que motivants et les appréciés – ne sont pas la meilleure façon d’y parvenir.
 
-So, as of today, we are calling all Patrons.
+Donc, dès aujourd'hui, nous en appelons à tous les Mécènes.
 
 ## Become a Patron of Freesewing
 
