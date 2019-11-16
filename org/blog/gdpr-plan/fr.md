@@ -184,24 +184,24 @@ Nous sommes déjà conformes, car toutes les données que les utilisateurs saisi
 
 Nous sommes déjà conformes, car les utilisateurs peuvent supprimer leurs modèles, ou tout le compte à tout moment.
 
-#### The right to restrict processing
+#### Le droit à la limitation du traitement
 
-This right means that users must be able to put a *freeze* on all data processing, without going as far as to delete their data.
+Ce droit signifie que les utilisateurs doivent être en mesure de mettre une *limitation* sur tout traitement de données, sans aller jusqu'à supprimer leurs données.
 
-We do not currently offer this possibility, and will need to add this functionality to the site.
+Pour le moment, nous n'offrons pas cette possibilité, et nous devrons ajouter cette fonctionnalité au site.
 
-#### The right to data portability
+#### Le droit à la portabilité des données
 
-> People not only have a right to export all their data, that export should also be in a format that makes it easy for them to take their data elsewhere.
+> Les personnes n'ont pas seulement le droit d'exporter toutes leurs données, mais cette exportation doit également être dans un format qui leur permet de les utiliser ailleurs.
 
-We are already compliant, as we allow users to export all of their data, and make it available in different standard formats (YAML and JSON).
+Nous sommes déjà conformes, car nous permettons aux utilisateurs d'exporter toutes leurs données, et de les rendre disponibles dans différents formats standards (YAML et JSON).
 
-#### The right to object
+#### Le droit d’opposition
 
-> The right to object applies specifically to:
+> Le droit d'opposition s'applique spécifiquement à :
 > 
-> - processing for public interests or by official authorities
-> - processing for direct marketing
+> - traitement pour des intérêts publics ou par les autorités officielles
+> - traitement du marketing direct
 > - processing for science/historic research/statistics
 > 
 > In these cases, people can object to this specific processing.
@@ -284,9 +284,9 @@ While we still have some work to do, we are already compliant with large parts o
  - Le droit d’accès
  - Le droit de rectification
  - Le droit à l’effacement
- - The right to restrict processing
- - The right to data portability
- - The right to object
+ - Le droit à la limitation du traitement
+ - Le droit à la portabilité des données
+ - Le droit d’opposition
  - Rights in relation to automated decision making and profiling
 
 We are currently working on *the right to be informed* and have a plan for the changes required to respect *the right to restrict processing* and *the right to object*.
