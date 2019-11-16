@@ -46,6 +46,6 @@ Le droit d'opposition est plus large, mais c'est ainsi que ça s'applique sur Fr
 
 </Note>
 
-## Rights in relation to automated decision making and profiling
+## Droits relatifs à l'automatisation de prise de décision et de profilage
 
 Ce droit ne s'applique pas à FreeSewing car nous n'utilisons pas de processus automatisé de prise de décision ou de profilage.
