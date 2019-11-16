@@ -202,15 +202,15 @@ Nous sommes déjà conformes, car nous permettons aux utilisateurs d'exporter to
 > 
 > - traitement pour des intérêts publics ou par les autorités officielles
 > - traitement du marketing direct
-> - processing for science/historic research/statistics
+> - traitement des statistiques/recherches scientifiques/historiques
 > 
-> In these cases, people can object to this specific processing.
+> Dans ces cas, les personnes peuvent s'opposer à ce traitement spécifique.
 
-This is going to apply to us when we start publishing anonymized model data, something that's on our roadmap.
+Cela s'appliquera à nous lorsque nous commencerons à publier des données de modèles anonymisés ; chose qui est sur notre feuille de route.
 
-The reason for publishing this data is that we want to make a dataset available of *real* body measurements, rather than the *standard* measurements that are typically used in the industry.
+La raison pour laquelle nous publions ces données est que nous voulons mettre à disposition un jeu de données de mensurations *réelles*, plutôt que des mensurations *standards* qui sont généralement utilisées dans l'industrie.
 
-This is something we'll write about more at a later date, but essentially this falls under the *scientific research/statistics* category. And even though the data is anonimized, we still need to respect the right of users to object to this processing.
+C'est quelque chose que sur quoi écrirons davantage à une date ultérieure, mais globalement ça tombe dans la catégorie *recherche/statistiques scientifique*. And even though the data is anonimized, we still need to respect the right of users to object to this processing.
 
 As such, we should add the possibility to object to this specific use of the data.
 
