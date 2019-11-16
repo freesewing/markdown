@@ -34,7 +34,7 @@ In addition to our privacy notice, we've setup [a page that lists all of your ri
 
 With these changes, we've covered your right to be informed.
 
-## Privacy by design
+## Respect de la vie privée dès la conception
 
 One of the more vague yet impactful requirements of GDPR is so-called *privacy-by-design*. We took the advice to heart and have made two changes inspired by this:
 
