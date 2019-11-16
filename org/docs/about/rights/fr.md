@@ -6,7 +6,7 @@ Freesewing applique le Règlement Général sur la Protection des Données (RGPD
 
 Citoyen de l'UE ou pas, pour nous voici vos droits :
 
-## The right to be informed
+## Le droit d’être informé
 
 Vous avez le droit d'être informé de la collecte et de l'utilisation de vos données personnelles. Lisez [notre politique de confidentialité](/docs/about/privacy) pour vous informer.
 
