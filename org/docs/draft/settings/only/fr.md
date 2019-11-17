@@ -2,6 +2,6 @@
 title: Contents
 ---
 
-This setting allows you to manually pick which parts you want to include in your pattern.
+Ce paramètre vous permet de choisir manuellement les parties que vous voulez inclure dans votre patron.
 
-This is often useful when you want to combine different styles. For example, you could draft a shirt pattern, and then also draft different cuffs for it. There's no need to print all pattern parts, so you can only draft your second pair of cuffs.
+Ceci est souvent utile lorsque vous voulez combiner différents styles. Par exemple, vous pourriez tracer un patron de chemise, puis faire des poignets différents. Il n'est pas nécessaire d'imprimer toutes les pièces du patron, vous ne pouvez donc que dessiner votre deuxième paire de poignets.
