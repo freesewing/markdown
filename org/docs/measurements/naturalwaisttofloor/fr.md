@@ -1,9 +1,9 @@
 ---
-title: Natural waist to floor
+title: Longueur de jambe
 ---
 
-The **naturalWaistToFloor** is the measurement from your natural waist down to the floor.
+La **longueur de jambe** est la mesure depuis votre tour de taille jusqu'au sol.
 
-To measure your natural waist to floor measurement, locate the height of your natural waist, and measure how high it is from the floor.
+Pour mesurer votre longueur de jambe, identifiez votre taille naturelle et mesurer sa hauteur depuis le sol.
 
-It is often easiest to measure at the side of your body.
+Il est souvent plus facile de faire cette mesure sur le côté du corps.
