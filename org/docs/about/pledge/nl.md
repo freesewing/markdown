@@ -20,7 +20,7 @@ I don't know if you're familiar with the phrase **noblesse oblige** but it essen
 
 I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
 
-Zou ik het geld kunnen gebruiken? Yes I could. Do I need the money? Nee, eigenlijk niet.
+Could I use the money? Yes I could. Do I need the money? Nee, eigenlijk niet.
 
 ### The value of your support
 
