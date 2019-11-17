@@ -20,7 +20,7 @@ I don't know if you're familiar with the phrase **noblesse oblige** but it essen
 
 Ich bin privilegiert, und damit habe ich Verantwortung. Ich habe das große Glück, in Westeuropa geboren zu sein, einen guten Job und ein Dach über dem Kopf zu haben.
 
-ould I use the money? Ja, ich könnte es. Brauche ich das Geld? No I don't.
+Könnte ich das Geld gebrauchen? Ja, ich könnte es. Brauche ich das Geld? No I don't.
 
 ### Der Wert Ihrer Unterstützung
 
