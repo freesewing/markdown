@@ -10,13 +10,13 @@ While many of these will automatically be handled by FreeSewing, there are some 
 
 The [complete](/reference/settings/#complete) setting is a boolean that is either true or false. Its goal is to determine whether we should draft a *complete* pattern, or merely the outline.
 
-## Paperless
+## Sans papier
 
 The [paperless](/reference/settings/#paperless) setting is a boolean that is either true or false.
 
 A *paperless* pattern is a pattern that has extra dimensions so users can trace the paper on fabric or paper without having the need to print it.
 
-## Seam allowance
+## Marge de couture
 
 The [sa](/reference/settings/#sa) setting is a number that controls the seam allowance.
 
