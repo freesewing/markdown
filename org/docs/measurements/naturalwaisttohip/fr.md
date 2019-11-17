@@ -2,4 +2,4 @@
 title: Hauteur taille hanche
 ---
 
-The **natural waist to hip** is measured from your natural waist down to the top if your hip bone (where your trousers sit). Measure it a the side of your body.
+La **hauteur taille hanche** est mesurée du tour de taille jusqu'à l'os de la hanche. Elle se mesure sur le côté du corps.
