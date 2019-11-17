@@ -1,5 +1,5 @@
 ---
-title: Units
+title: Unité
 ---
 
 Ceci contrôle les unités utilisées (par le texte) sur les patrons.
