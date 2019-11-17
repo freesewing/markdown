@@ -1,5 +1,5 @@
 ---
-title: Notation legend
+title: Légende d'annotation
 ---
 
-FIXME: Document notation
+FIXME: Notation du document
