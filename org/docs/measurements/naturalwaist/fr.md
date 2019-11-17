@@ -1,7 +1,7 @@
 ---
-title: Natural waist
+title: Tour de taille
 ---
 
-The **natural waist** measurement is the circumference of your waist below your ribcage.
+Le **tour de taille** est la circonférence de votre taille sous votre cage thoracique.
 
-To measure your **natural waist**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.
+Pour mesurer votre **tour de taille**, enroulez le mètre-ruban autour de votre taille en dessous de votre cage thoracique, et assurez-vous de le garder bien horizontalement.
