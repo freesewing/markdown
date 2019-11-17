@@ -7,11 +7,11 @@ caption: "Imaginez vous et lui, dans des manteaux assortis."
 author: joost
 ---
 
-Celui-ci pour les dames \--- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
+Celui-ci pour les dames -- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
 
 Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui en version bêta à compter d'aujourd'hui.
 
-Carlita est \--- vous l'avez deviné \--- la version féminine de notre manteau de Carlton, qui recrée l'emblématique manteau Sherlock Holmes porté par Benoit C. dans la série sur BBC.
+Carlita est -- vous l'avez deviné -- la version féminine de notre manteau de Carlton, qui recrée l'emblématique manteau Sherlock Holmes porté par Benoit C. dans la série sur BBC.
 
 ## Comment y sommes-nous parvenus ?
 
@@ -25,11 +25,11 @@ Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant 
 
 Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplémentaires en plus des mesures requises par Carlton. Il y a :
 
- - Le [tour de sur-poitrine](/docs/measurements/#highBust)
+ - Le [Dessus poitrine](/docs/measurements/#highBust)
  - L'[écart poitrine](/docs/measurements/#bustSpan)
  - La [hauteur épaule poitrine](/docs/measurements/#highPointShoulderToBust)
 
-Nous utilisons vos mesures de tour de sur-poitrine pour dessiner le manteau, puis effectuons un "full bust adjustment" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart poitrine et de la hauteur épaule poitrine.
+Nous utilisons vos mensurations de dessus poitrine pour dessiner le manteau, puis effectuons un "full bust adjustment" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart poitrine et de la hauteur épaule poitrine.
 
 ### Toutes les poches, mais nous avons dû déplacer certaines d'entre elles
 
