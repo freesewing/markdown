@@ -1,5 +1,5 @@
 ---
-title: Seam allowance
+title: Marge de couture
 ---
 
 Cela contrôle si vous voulez ou non une marge de couture. Et si oui, de combien.
