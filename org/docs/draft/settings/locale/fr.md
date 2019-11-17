@@ -2,6 +2,6 @@
 title: Language
 ---
 
-This determines the language used on your pattern.
+Détermine la langue utilisée sur votre patron.
 
-By default, we use the same language as you're using on the website, but if for some reason you want a pattern in a different language, this is where to configure that.
+Par défaut, nous utilisons la même langue que vous utilisez sur le site web. mais si pour pour une raison quelconque vous voulez un modèle dans une autre langue, c'est ici que vous pouvez configurer cela.
