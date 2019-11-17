@@ -67,11 +67,11 @@ This is a difficult area for us to work in. We want to help you get the best res
 
 We are an extremely size-inclusive pattern outlet, and a disproportionate amount of our users are people who struggle to find clothes or patterns from other outlets. So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. But you know your body. You know which of your measurements deviate from the average. And us pointing out that they do is in a way only confirmation that you've been measuring correctly. On the other hand, if something jumps out where you are fairly average sized, you know to double-check those measurements.
 
-Last but not least, while we try to provide guidance about measurements to help spot mistakes, we never exclude anyone based on size or measurement. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
+Last but not least, während wir versuchen, eine Anleitung für Messungen zu geben, um Fehler zu erkennen, schließen wir niemanden aus egal in welcher Größe oder Abmessung. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
 
-## Other changes
+## Weitere Änderungen
 
- - We have extended our size ranges for our comparison views. Menswear sizes are now sampled from size 32 up to 48, while womenswear is sampled from size 28 up to 46.
+ - Für unsere Vergleichsansichten haben wir unsere Größenbereiche erweitert. Die Größen für Herrenmode werden jetzt von Größe 32 bis 48 gesampelt, während für Damenmode von Größe 28 bis 46.
  - We've made some changes to the defaults in the Simon pattern, based on our tests with Simone
  - We've added support for preloading models with breasts to our development environment for pattern designers
  - We've implemented fixes and improvements in our Jaeger, Bruce, Benajamin, Simon, Carlton, and Carlita patterns

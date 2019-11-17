@@ -1,125 +1,125 @@
 ---
 date: 2017-12-10
-title: "Calling all Patrons; Join our bedrock of loyal supporters."
-linktitle: "Calling all Patrons"
+title: "Appel aux mécènes ; rejoignez notre socle de soutiens fidèles."
+linktitle: "Appel aux mécènes"
 img: phone.jpg
-caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
+caption: "Nous construisons un cercle de soutiens fidèles pour assurer un avenir durable à freesewing.org, à notre code, à nos modèles et à notre communauté."
 author: joost
 ---
 
-Every year, on this day, I write about what happened in the previous 12 months, and look ahead at what you can expect in the year ahead.
+Chaque année, à ce jour, j'écris sur ce qui s'est passé au cours des 12 mois précédents, et annonce ce à quoi vous pouvez vous attendre pour l'année à venir.
 
-This year is no different, but boy do I have a lot to talk about.
+Cette année n'est pas différente, mais purée, que j'ai beaucoup à dire.
 
-## 2017: the year freesewing was born
+## 2017: année de naissance de freesewing. org
 
-While freesewing was conceived in 2016 -- that's when I started working on it -- 2017 was the year it saw the light of day.
+Bien que le freesewing ait été conçu en 2016 -- c'est là que j'ai commencé à travailler dessus -- 2017 a été l'année où il a vu le jour.
 
-Freesewing core v1.0.0 [was released in March this year](/blog/announcing-freesewing/). For most people, that event passed under the radar. An open source platform for made-to-measure sewing patterns? What does this thing actually do?
+La version 1.0.0 de freesewing [a été publiée en mars de cette année](/blog/announcing-freesewing/). Pour la plupart des gens, cet événement est passé sous le radar. Une plateforme open source pour les patrons de couture sur mesure ? Que fait-elle réellement ?
 
-A lot, as it turns out. Something that's become more obvious since [the release of freesewing.org](/blog/open-for-business/) at the end of August.
+Beaucoup de choses en l’occurrence. Quelque chose devient plus évident depuis [la sortie de freesewing.org](/blog/open-for-business/) à la fin du mois d'août.
 
-![Image from the original announcement blog post](open.jpg)
+![Image du blog de l'annonce originale](open.jpg)
 
-On Christmas day, it will (only) have been four months since this release. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Le jour de Noël, il se sera écoulé (seulement) quatre mois depuis cette sortie. Pourtant dans ce délai, nous avons accueillis **2735 utilisateurs** pour qui nous hébergeons **1522 brouillons** et **2359 modèles**.
 
-We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
+Nous avons démarré avec 11 patrons et en avons depuis ajouté 4, portant le total actuel à 15. La moitié de ces nouveaux patrons proviennent d'un effort communautaire, qui est particulièrement prometteur.
 
-Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
+Oui, nous n'en sommes qu'aux débuts. Mais je pense qu'il est sage de dire que la décision de réinventer makemypattern.com en tant que projet open source était le bon choix.
 
-Speaking of which.
+A ce propos.
 
-## MakeMyPattern.com is no more
-Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
+## MakeMyPattern.com n'est plus
+Peu de temps avant de publier cet article de blog, j'ai débranché [makemypattern.com](https://makemypattern.com/).
 
-You can try to visit that link, but you'll only end up back here.
+Vous pouvez essayer de visiter ce lien, mais vous finirez par revenir ici.
 
-MakeMyPattern.com saw the light of day in 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
+MakeMyPattern.com a vu le jour en 2012. Il est passé par un certain nombre d'itérations depuis, et aujourd'hui est finalement remplacé par freesewing.org.
 
-![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
+![Était-ce un M ? Un livre ? Un oiseau ? Des seins ? Nous ne le saurons peut-être jamais](mmp.png)
 
-We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
+Nous en avons terminé, et je pense que pour n'importe quel projet, c'est une bonne façon de faire quand vous vous faites cannibaliser par quelque chose qui vous inspire davantage.
 
-## Let's talk money
-Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
+## Parlons d'argent
+Comme chaque année jusqu'à ce jour, j'ai transféré tous les dons sur le compte de [Médecins Sans Frontières](http://www.msf.org/).
 
-This year we came in at **673.14€**, so that's what I've transferred.
+Cette année, nous sommes arrivés à **673.14€**, donc c'est ce que j'ai reversé.
 
-> Why should we give you money in the first place if you're just going to give it away?
+> Pourquoi devrions-nous vous donner de l'argent si c'est pour que vous le donniez ensuite ?
 
-I've also come to understand that people have a bunch of questions about this. Like *Why are you doing this?* and *Why should we give you money in the first place if you're just going to give it away?*
+J'ai compris que les gens ont un tas de questions à ce sujet. Telles que *Pouquoi faites-vous cela ?* et *Pourquoi devrions-nous vous donner de l'argent pour que vous le donniez ensuite ?*
 
-These questions have led to some soul-searching recently. What I've learned is that it's not easy to talk about money. Nor is it easy to put in words things that you know to be right, almost instinctively.
+Ces questions ont récemment fait l'objet d'un examen de conscience. Ce que j'ai appris, c'est qu'il n'est pas facile de parler d'argent. Il n'est pas non plus facile de mettre des mots sur ce que vous estimez être juste, instinctivement.
 
-But I wanted to be completely transparent about what's going on, so I made the effort to write about these things on [our pledge page](/about/pledge). And I'm copying them here verbatim:
+Mais je voulais être complètement transparent sur ce qui se passe, alors j'ai fait l'effort d'écrire à ce sujet sur [la page de nos engagement](/about/pledge). Et je les copie ici mot pour mot :
 
 > ##### Noblesse oblige
 > 
-> You probably assume that we ask for money to keep the servers running. But that’s not exactly true.
+> Vous supposez probablement que nous demandons de l'argent pour faire tourner les serveurs. Mais ce n'est pas tout à fait vrai.
 > 
-> I don’t know if you’re familiar with the phrase *noblesse oblige* but it essentially means that privilege entails responsibility.
+> Je ne sais pas si vous êtes familier avec l'expression *noblesse oblige* mais cela signifie essentiellement que le privilège implique une responsabilité.
 > 
-> I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+> Je suis privilégié, et j'ai donc des responsabilités. J'ai la chance d'être né en Europe occidentale, d'avoir un bon travail et un toit au-dessus de ma tête.
 > 
-> Could I use the money? Yes I could. Do I need the money? No I don’t.
+> Pourrais-je utiliser cet argent ? Oui. Ai-je besoin de cet argent ? Non.
 > 
-> ##### The value of your support
+> ##### La valeur de votre soutien
 > 
-> The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
+> Le risque principal pour FreeSewing est le même que n'importe quel projet open source : le burnout du responsable.
 > 
-> While I no longer carry Freesewing alone — and I can’t stress enough how much I value the work of all contributors — that doesn’t make me immune to feelings of *Why the fuck am I doing this?*
+> Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de *Pourquoi donc est-ce que je fais tout ça ?*
 > 
-> When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you’re doing a worthwhile thing. Keep up the good work*.
+> Quand les gens deviennent des mécènes (ou font des dons), ils donnent plus que de l'argent. Pour moi, la principale valeur est le message qu'ils m'envoient, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est: *Hey, vous faites quelque chose qui en vaut la peine. Continuez à bien travailler*.
 > 
-> ##### The value of your money
+> ##### La valeur de votre argent
 > 
-> It is not just about the money. But that doesn’t mean the money is not important. Much to the contrary.
+> Il ne s'agit pas seulement d'argent. Mais cela ne signifie pas que l'argent n'est pas important. Bien au contraire.
 > 
-> Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+> Gagner de l'argent en faisant quelque chose que j'aime et ensuite le transmettre aux œuvres caritatives me permet de dormir la nuit.
 > 
-> I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
+> Je pourrais faire du bénévolat aux resto du cœur ou apprendre aux enfants défavorisés à coudre. Mais à la place, je travaille sur FreeSewing.
 > 
-> Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it’s OK to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+> C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. Il rend ce projet non seulement amusant à faire, mais aussi socialement responsable. Et j'ai besoin de ça pour me convaincre que oui, il est bon de passer tout mon temps à le faire, parce qu'à la fin de l'année, cela me permet d'envoyer un chèque à des gens qui en ont vraiment besoin.
 > 
-> ##### Charity is not sexy
+> ##### La charité n'est pas sexy
 > 
-> Here’s the tricky part: People donate less once they know the money goes to charity in the end. I wish it wasn’t the case, but it is.
+> Voici la partie délicate : les gens donnent moins une fois qu'ils savent que l'argent est finalement reversé aux bonnes œuvres. Je voudrais que ce ne soit pas le cas, mais ça l'est.
 > 
-> So I’m not explicitly mentioning it on our Patrons page, which is presented like you would see on a business site.
+> Je ne le mentionne donc pas explicitement sur notre page de Mécènes, qui est présentée comme vous pourrez le voir, comme un site marchand.
 > 
-> Yes, everything is free, and the money doesn’t actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn’t mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+> Oui, tout est gratuit et l'argent ne va pas vraiment payer les factures des serveurs (parce que je choisis de les payer de ma poche pour les raisons décrites ci-dessus). Mais cela ne signifie pas que ces contributions ne sont pas cruciales pour le bien-être du projet, ou du moins son responsable (c'est-à-dire moi).
 
-Did you notice that in the text above I mentioned our Patrons page? That is because I've rolled out a bunch of changes today.
+Avez-vous remarqué que dans le texte ci-dessus, j'ai mentionné notre page de Mécènes ? C'est parce que j'ai déployé un tas de changements aujourd'hui.
 
-Having taken the time to reflect on the money side of things, I've realized that it's an important factor in the well-being of this project. I also believe that donations -- while motivating and appreciated -- are not the best way to go about this.
+Avoir pris le temps de me pencher sur l'aspect monétaire des choses m'a permis de réaliser que c'est un facteur important dans le bien-être de ce projet. Je crois aussi que les dons – bien que motivants et les appréciés – ne sont pas la meilleure façon d’y parvenir.
 
-So, as of today, we are calling all Patrons.
+Donc, dès aujourd'hui, nous en appelons à tous les Mécènes.
 
-## Become a Patron of Freesewing
+## Devenez un Mécène de Freesewing
 
-To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters. Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
+Pour assurer un avenir durable à freesewing.org, à notre code, à nos patrons et à notre communauté, nous avons besoin de construire un socle de soutiens fidèles. Les mécènes qui nous soutiennent sont au cœur de notre travail, en développant une plateforme open source pour les patrons de couture sur-mesure.
 
-![We have three tiers of Patronage](patron-medals.jpg)
+![Nous avons trois niveaux de Mécénat](patron-medals.jpg)
 
-We have different tiers of Patronage, each with their own perks. You can support us for as little as 2€, and it only takes a minute.
+Nous avons différents niveaux de Mécénat, chacun avec ses propres avantages. Vous pouvez nous soutenir à partir de 2€, et cela ne prend qu'une minute.
 
-> We are not changing the nature of the site. All patterns, and all our code, will remain free.
+> Nous ne changeons pas la nature du site. Tous les patrons, et tout notre code, resteront gratuits.
 
-We are not changing the nature of the site. All patterns, and all our code, will remain free. What we are changing is the way we raise funds. From a system of impulsive donations to a community of caring Patrons. If you are someone who cares, then [check out what we have to offer](/patrons/join).
+Nous ne changeons pas la nature du site. Tous les patrons, et tout notre code, resteront gratuits. Ce que nous changeons, c'est la manière dont nous collectons des fonds. D'un système de dons spontanés à une communauté de mécènes attentionnés. Si vous êtes quelqu'un d'intéressé, alors [regardez ce que nous avons à offrir](/patrons/join).
 
-I sincerely believe we are doing a worthwhile thing here. If you feel that way too, then I ask you to pledge whatever you can so that we can write many more chapters in this book.
+Je crois sincèrement que nous faisons une chose qui vaut la peine ici. Si vous vous avez le même sentiment vous aussi, alors je vous demande d'engager tout ce que vous pouvez pour que nous puissions écrire beaucoup plus de chapitres dans ce livre.
 
-> ### Become a Patron today
+> ### Devenez mécène aujourd'hui
 > 
-> #### You can sign up for as little as 2€, and it only takes a minute.
+> #### Vous pouvez nous soutenir à partir de 2€, et cela ne prend qu'une minute.
 > 
-> [Find out more](/patrons/join)
+> [En savoir plus](/patrons/join)
 
-Thank you, and have a great year.
+Merci et bonne année.
 
 joost
 
-<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. 
-So perhaps you could share [this image](patrons-ig.png) on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
+<small>PS: Il serait dommage qu'il y ait des gens prêts à nous soutenir qui ne soient pas au courant. 
+Alors, peut-être pourriez-vous partager [cette image](patrons-ig.png) sur les réseaux sociaux ? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
 
-![Sharing is caring!](patrons-ig.png)
+![Partager, c'est soutenir !](patrons-ig.png)
