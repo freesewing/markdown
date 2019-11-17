@@ -2,13 +2,13 @@
 title: Settings
 ---
 
-When you [draft a pattern](/draft) you can not only configure the pattern through its options. The following so-called *draft settings* can also be changed:
+Lorsque vous [élaborez un patron](/draft) vous ne pouvez pas seulement le configurer par ses options. Les fameux *paramètres de brouillon* peuvent également être modifiés :
 
- - [Contents](/docs/draft-settings/only)
+ - [Contenus](/docs/draft-settings/only)
  - [Détail](/docs/draft-settings/complete)
- - [Language](/docs/draft-settings/locale)
- - [Margin](/docs/draft-settings/margin)
- - [Paperless](/docs/draft-settings/paperless)
- - [Seam allowance](/docs/draft-settings/sa)
- - [Units](/docs/draft-settings/units)
+ - [Langue](/docs/draft-settings/locale)
+ - [Marges](/docs/draft-settings/margin)
+ - [Sans papier](/docs/draft-settings/paperless)
+ - [Marge de couture](/docs/draft-settings/sa)
+ - [Unité](/docs/draft-settings/units)
 
