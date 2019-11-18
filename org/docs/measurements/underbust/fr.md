@@ -1,9 +1,9 @@
 ---
-title: Underbust
+title: Sous-poitrine
 ---
 
-The **underbust** measurement is the circumference of your chest without taking your breasts into account.
+La mesure **sous-poitrine** est la circonférence de votre poitrine sans tenir compte de vos seins.
 
-To measure your **underbust**, wrap the tape measure around your chest just below your breasts, where your bra brand sits.
+Pour mesurer votre **sous-poitrine**, enroulez le mètre-ruban autour de votre poitrine juste en dessous de vos seins, où se trouve votre élastique de soutien-gorge.
 
-If you don’t have breasts, this measurements does not apply to you. Just use your chest circumference.
+Si vous n’avez pas de sein, ces mesures ne s’appliquent pas à vous. Il vous suffit d'utiliser votre tour de poitrine.
