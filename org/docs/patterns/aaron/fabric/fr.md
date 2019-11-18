@@ -1,7 +1,7 @@
 
-An A-shirt is essentially underwear. And in that capacity, you want something that is comfortable, feels nice on your skin and breaths.
+Un débardeur ou marcel est essentiellement porté en sous-vêtement. Dans ce cas, vous voulez quelque chose qui soit confortable, agréable sur votre peau et respirant.
 
-Cotton with a hint of something stretchy, maybe rayon, or a fine knit. I suggest you go to the fabric store and feel around a bit.
+Coton avec un soupçon d’élasticité, peut-être un jersey, ou un tricot fin. Je vous suggère d'aller dans un magasin de tissus et de tester le toucher et l'élasticité des tissus.
 
 <Note>
 
