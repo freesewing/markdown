@@ -1,13 +1,13 @@
 ---
-title: Shoulder slope
+title: Pente d'épaule
 ---
 
-The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward. You can not measure it directly, but need to calculate the difference between two measurements to find it.
+La mesure de **pente d'épaule** est un indicateur de la quantité dont vos épaules descendent. Vous ne pouvez pas la mesurer directement ; vous devez calculer la différence entre deux mesures pour la trouver.
 
-To calculate your **shoulder slope**, tie a ribbon or elastic around your chest, making sure to keep it horizontal.
+Pour calculer votre **pente d'épaule**, attachez un ruban ou un élastique autour de votre poitrine, assurez-vous de le garder horizontalement.
 
-Then, measure the distance from the front of the ribbon (at your chest) to the back of the ribbon (at your back). Do this both at the side of your neck right next to the base, and at the tip of your shoulder.
+Ensuite, mesurez la distance entre l'avant du ruban (à votre poitrine) et l'arrière du ruban (à votre dos). Faites cela à la fois sur le côté du cou juste à côté de la base, et à l'extrémité de votre épaule.
 
-Your shoulder slope is the measurement at the base of your neck minus the measurement at the tip of your shoulder.
+Votre pente d'épaule est la mesure à la base de votre cou moins la mesure à l'extrémité de votre épaule.
 
-If your shoulder perfectly horizontal (square shoulders) the shoulder slope will approach zero. The more your shoulders slope, the higher your shoulder slope will be.
+Si votre épaule est parfaitement horizontale (épaules carrées), la pente de l’épaule approchera de zéro. Plus vos épaules seront pentues, plus la pente d'épaule sera élevée.
