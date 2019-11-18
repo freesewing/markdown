@@ -24,7 +24,7 @@ When in doubt, go for rayon.
 ## Cutting
 
  - **Main fabric**
-   - Cut **1 back** on the fold
+   - Couper **1 dos** au pli
    - Cut **2 fronts** on the fold
    - Cut **2 insets**
    - Cut **2 sides**
