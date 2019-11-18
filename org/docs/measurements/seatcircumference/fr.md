@@ -1,7 +1,7 @@
 ---
-title: Seat circumference
+title: Tour de bassin
 ---
 
-The **seat circumference** is the measurement around the fullest part of your bum.
+La mesure de **tour de bassin** se fait autour de la partie la plus large de votre bassin et de vos fesses.
 
-To measure your **seat circumference**, run the tape measure around your bum at the fullest part. Make sure to keep the tape measure horizontal while doing so. In other words, parallel to the floor.
+Pour mesurer votre **tour de bassin**, enroulez le mètre-ruban autour de votre bassin, à l'endroit le plus fort des hanches et des fessiers. Assurez-vous de garder le mètre-ruban bien à l'horizontale. En d'autres termes, parallèle au sol.
