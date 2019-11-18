@@ -22,8 +22,8 @@ Have a look at [the Sven showcases](/showcase/pattern/sven) for inspiration.
 ## Cutting
 
  - **Main fabric**
-   - Cut **1 back** on the fold
-   - Cut **1 front** on the fold
+   - Couper **1 dos** au pli
+   - Couper **1 devant** au pli
    - Cut **2 sleeves** with good sides together
  - **Ribbing fabric**
    - Cut **1 strip** for the neck opening binding
