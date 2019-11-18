@@ -1,7 +1,7 @@
 ---
-title: Shoulder to wrist
+title: Longueur de bras
 ---
 
-The **shoulder to wrist** measurement determines your sleeve length, and runs from the shoulder point along the arm to your wrist.
+La **longueur de bras** détermine la longueur de votre manche, et court du point d'épaule le long du bras jusqu'à votre poignet.
 
-To measure your **shoulder to wrist** measurement, place your tape measure at your shoulder point. Let your arm hang naturally in a slight bend, and measure along your slightly bended arm up to your wrist.
+Pour mesurer votre **longueur de bras** , placez votre ruban à votre point d'épaule. Laissez votre bras pendre naturellement dans une légère courbure et mesurez le long de votre bras légèrement plié jusqu'au poignet.
