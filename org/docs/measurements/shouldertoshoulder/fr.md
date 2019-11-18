@@ -1,7 +1,7 @@
 ---
-title: Shoulder to shoulder
+title: Largeur d'épaules
 ---
 
-The **shoulder to shoulder** measurement runs from the tip of your shoulder on one side across your back to the tip of your other shoulder.
+La **largeur d'épaules** court du bout de votre épaule d'un côté sur votre dos jusqu'au bout de votre autre épaule.
 
-To measure your **shoulder to shoulder** find the edge of your shoulder where on a good fitting shirt the shoulder seam would sit. Then, measure from there across your back to the same point at the other side.
+Pour mesurer votre **largeur d'épaules** trouvez le bord de votre épaule où la couture de l’épaule tomberait sur une bonne chemise ajustée. Ensuite, mesurez à partir de là sur le dos jusqu'au même point de l'autre côté.
