@@ -1,9 +1,9 @@
 
-## Step 1: Close seams
+## Étape 1 : Faite les coutures d'assemblage
 
 ![Close the side and shoulder seams](step01.png)
 
-Put front and back on top of each other with _good sides together_. Serge the side seams, and the short seams at the shoulder straps.
+Mettez le devant et le dos l'un sur l'autre _endroit contre endroit_. Cousez les coutures latérales et les coutures d'épaules.
 
 ## Step 2: Finish hem
 
