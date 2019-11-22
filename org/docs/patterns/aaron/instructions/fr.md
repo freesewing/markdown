@@ -1,15 +1,15 @@
 
-## Étape 1 : Faite les coutures d'assemblage
+## Étape 1 : Faire les coutures d'assemblage
 
 ![Close the side and shoulder seams](step01.png)
 
 Mettez le devant et le dos l'un sur l'autre _endroit contre endroit_. Cousez les coutures latérales et les coutures d'épaules.
 
-## Step 2: Finish hem
+## Étape 2 : Faire l'ourlet
 
 ![Finish the hem](step02.png)
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a _twin needle_ or _zig-zag stitch_ to keep the seam stretchable.
+Pliez l'ourlet vers le haut, et cousez-le. Si vous avez une recouvreuse, utilisez-la. Sinon, utilisez une _aiguille double_ ou un _point zig-zag_ pour garder la couture extensible.
 
 <Note>
 
