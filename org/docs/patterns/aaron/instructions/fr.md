@@ -13,12 +13,12 @@ Pliez l'ourlet vers le haut, et cousez-le. Si vous avez une recouvreuse, utilise
 
 <Note>
 
-##### Fold only once, to avoid bulk
-Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
+##### Pliez une seule fois, pour éviter d'avoir trop d'épaisseur
+Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et le coudre, puis couper le tissu au plus près de la couture.
 
 </Note>
 
-## Step 3: Sew knit binding to the front
+## Étape 3 : Coudre le bord côte à l'avant
 
 <Note>
 
