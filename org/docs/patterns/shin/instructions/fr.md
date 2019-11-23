@@ -117,7 +117,7 @@ It's fine to not sew too close the first time around, and once your elastic is a
 
 ### Step 9: Hem the legs
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
+Pliez l'ourlet vers le haut, et cousez-le. Si vous avez une recouvreuse, utilisez-la. If not, use a twin needle or zig-zag stitch to keep the seam stretchable.
 
 > #### Fold only once, to avoid bulk
 > 

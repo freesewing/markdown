@@ -1,6 +1,6 @@
  - **Main fabric**
-   - Cut **1 front** on the fold
-   - Cut **1 back** on the fold
+   - Couper **1 devant** au pli
+   - Couper **1 dos** au pli
    - Cut **2 sleeves**, good sides together
    - Cut **1 pocket** on the fold
    - Cut **2 pocket facing(s)**, good sides together

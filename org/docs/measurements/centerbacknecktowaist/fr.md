@@ -1,7 +1,7 @@
 ---
-title: Center back neck to waist
+title: Longueur milieu dos
 ---
 
-The **center back neck to waist** is the measurement from the center back of your neck down to your natural waist.
+La **longueur milieu dos** est la mesure du centre arrière de votre cou jusqu'à votre taille naturelle.
 
-o measure your center back neck to waist, measure down from the center back of your neck towards your natural waist.
+Pour mesurer votre longueur de milieu dos, tirez le mètre ruban verticalement du centre de l'arrière de votre cou jusqu'à votre ligne de taille naturelle.

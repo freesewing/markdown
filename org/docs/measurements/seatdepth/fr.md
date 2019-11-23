@@ -1,7 +1,7 @@
 ---
-title: Seat depth
+title: Hauteur d'assise
 ---
 
-The **Seat depth** measurement is the height your trouser waist rises from the surface you are sitting on.
+La **hauteur d'assise** est la mesure entre la ceinture de votre pantalon jusqu'à la surface d'assise.
 
-To measure your seat depth, sit straight on a flat chair or table, and measure from hip line down to the chair/table.
+Pour mesurer la hauteur d'assise, asseyez-vous bien droit sur une chaise ou une table, et mesurez de votre ligne de hanche jusqu'à la chaise/table.

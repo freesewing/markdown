@@ -1,8 +1,8 @@
 ---
-title: Shoulder to elbow
+title: Longueur épaule au coude
 ---
 
-The **shoulder to elbow** measurement runs from the edge of your shoulder down to your elbow.
+La **longueur épaule au coude** va du bord de votre épaule jusqu'à votre coude.
 
-To measure your **shoulder to elbow**, start at the edge of your shoulder, where your sleeve starts at a well-fitting shirt. Follow your arm down to your elbow.
+Pour mesurer votre **longueur épaule au coude**, commencez au bord de votre épaule, où votre manche commence par une chemise bien ajustée. Suivez votre bras jusqu'à votre coude.
 

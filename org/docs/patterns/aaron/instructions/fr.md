@@ -1,24 +1,24 @@
 
-## Step 1: Close seams
+## Étape 1 : Faire les coutures d'assemblage
 
 ![Close the side and shoulder seams](step01.png)
 
-Put front and back on top of each other with _good sides together_. Serge the side seams, and the short seams at the shoulder straps.
+Mettez le devant et le dos l'un sur l'autre _endroit contre endroit_. Cousez les coutures latérales et les coutures d'épaules.
 
-## Step 2: Finish hem
+## Étape 2 : Faire l'ourlet
 
 ![Finish the hem](step02.png)
 
-Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a _twin needle_ or _zig-zag stitch_ to keep the seam stretchable.
+Pliez l'ourlet vers le haut, et cousez-le. Si vous avez une recouvreuse, utilisez-la. Sinon, utilisez une _aiguille double_ ou un _point zig-zag_ pour garder la couture extensible.
 
 <Note>
 
-##### Fold only once, to avoid bulk
-Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
+##### Pliez une seule fois, pour éviter d'avoir trop d'épaisseur
+Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et le coudre, puis couper le tissu au plus près de la couture.
 
 </Note>
 
-## Step 3: Sew knit binding to the front
+## Étape 3 : Coudre le bord côte à l'avant
 
 <Note>
 

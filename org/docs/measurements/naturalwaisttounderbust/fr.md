@@ -1,7 +1,7 @@
 ---
-title: Natural waist to underbust
+title: Hauteur taille sous-poitrine
 ---
 
-The **natural waist to underbust** is the measurement from your natural waist up towards your underbust link (where your bra band sits).
+La **hauteur taille sous-poitrine** est la mesure de votre taille naturelle jusqu'à votre dessous de poitrine (au niveau de l'élastique du soutien-gorge).
 
-To measure your **natural waist to underbust**, locate the height of both your natural waist and underbust, and measure the vertical distance between them. Make sure to measure at the side of your body.
+Pour mesurer votre **hauteur taille sous-poitrine**, Trouvez la hauteur de votre taille naturelle et de votre sous-poitrine, et mesurez la distance verticale entre les deux. Assurez-vous de mesurer sur le côté de votre corps.

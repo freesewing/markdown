@@ -1,7 +1,7 @@
 ---
-title: Bust span
+title: Ecart de poitrine
 ---
 
-The **bust span** is the horizontal distance between the two apex points of your bust.
+L'**écart de poitrine** est la distance horizontale entre les deux sommets de votre poitrine.
 
-To measure your bust span, run the tape measure horizontally in a straight line from the tip of your one breast to the tip of the other.
+Pour mesurer votre écart de poitrine, mesurez horizontalement avec le mètre-ruban en ligne droite d'un bout de votre poitrine à l'autre.

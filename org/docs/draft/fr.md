@@ -1,4 +1,4 @@
 ---
-title: Pattern drafting
+title: Conception de patron
 ---
 

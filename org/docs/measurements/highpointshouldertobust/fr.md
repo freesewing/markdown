@@ -1,9 +1,9 @@
 ---
-title: High point shoulder to bust
+title: Hauteur épaule poitrine
 ---
 
-The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms you bust span.
+La mesure de la **hauteur épaule poitrine** (aussi appelée nuque poitrine) se fait verticalement du point le plus haut de l'épaule jusqu'à la ligne qui forme votre tour de poitrine.
 
-The HPS is where your shoulder seam would meet your neck. The point is situated where your neck meets your shoulder. If you put a marble there, it should not roll forward or backward, but roll towards your shoulder (as in, it should sit in the middle) Tp measure your HPS to bust, first localize your HPS point. Then measure straight down to the line that forms your chest circumference/bust span.
+Le point le plus haut de l'épaule est l'endroit où votre couture de l'épaule rencontrerait votre cou. Le point est situé là où le cou se rencontre votre épaule. Si vous mettiez une bille à cet endroit, elle ne devrait pas rouler en avant ou en arrière, mais rouler vers votre épaule (et ainsi tomber au milieu) Pour mesurer hauteur épaule poitrine, il faut d'abord localiser votre point le plus haut de l'épaule. Mesurez alors de façon verticale la ligne qui va jusqu'à la ligne de votre tour de poitrine.
 
-The point of this measurement is to locate the fullest part of your bust vertically on your torso.
+L'objectif de cette mensuration est de situer la part la plus importante de votre buste avant.

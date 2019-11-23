@@ -1,9 +1,9 @@
 ---
-title: High bust
+title: Dessus poitrine
 ---
 
-The **high bust** measurement is your chest circumference measured just under your arms, above the fullest part of your bust.
+La mesure de **dessus poitrine** est votre circonférence thoracique mesurée juste sous vos bras, au-dessus de la partie la plus large de votre buste.
 
-The point of the high bust measurement is to get an idea of the chest circumference without taking breasts into account. As such, this measurements is only relevant for models with breasts.
+Le but de la mesure de dessus poitrine est de se faire une idée de la circonférence du buste sans prendre en compte les seins. À ce titre, ces mesures ne sont pertinentes que pour les modèles avec des seins.
 
-To measure your high bust, wrap the tape measure around your chest just under your arms. You might not be able to keep it horizontal (parallel to the floor), but that's ok.
+Pour mesurer votre dessus poitrine, enroulez le mètre ruban autour de votre poitrine juste sous vos bras. Il se peut que vous ne puissiez pas le garder horizontal (parallèle au sol), mais c'est normal.

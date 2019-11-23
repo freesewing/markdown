@@ -1,7 +1,7 @@
 ---
-title: Knee circumference
+title: Tour de genou
 ---
 
-The **knee circumference** is the measurement around your knee.
+Le **tour de genou** est la mesure autour de votre genou.
 
-To measure your **knee circumference**, wrap the tape measure around your knee. Make sure to keep the tape measure horizontal to the floor as you measure the circumference of your knee.
+Pour mesurer votre **tour de genou**, enroulez le mètre-ruban autour de votre genou. Assurez-vous de maintenir le mètre-ruban horizontal (parallèle au sol) lorsque vous mesurez votre tour de genou.

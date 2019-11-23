@@ -1,11 +1,11 @@
 
-An A-shirt is essentially underwear. And in that capacity, you want something that is comfortable, feels nice on your skin and breaths.
+Un débardeur ou marcel est essentiellement porté en sous-vêtement. Dans ce cas, vous voulez quelque chose qui soit confortable, agréable sur votre peau et respirant.
 
-Cotton with a hint of something stretchy, maybe rayon, or a fine knit. I suggest you go to the fabric store and feel around a bit.
+Coton avec un soupçon d’élasticité, peut-être un jersey, ou un tricot fin. Je vous suggère d'aller dans un magasin de tissus et de tester le toucher les tissus.
 
 <Note>
 
-While stretch is not required, it does make sense for underwear. That being said, you can make this in a non-stretch, just make sure pick loose or casual fit.
+Bien que l'élasticité ne soit pas indispensable, elle est quand même conseillée pour les sous-vêtements. Ceci étant dit, vous pouvez le faire en tissu non-stretch, mais assurez-vous de prévoir un ajustement plus ample ou décontracté.
 
 </Note>
 
