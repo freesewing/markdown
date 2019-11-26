@@ -26,7 +26,7 @@ of the pattern, using [the i18n plugin](/plugins/i18n).
 
 </Note>
 
-You can use the same approach to add text to a path:
+Je kunt dezelfde manier gebruiken om tekst aan een pad toe te voegen:
 
 ```js
 points.B = new Point(10, 50);
