@@ -7,7 +7,7 @@ SVG is vrij mooi, maar de tekstafhandeling laat veel te wensen over.
 
 Om de ingewikkelde details van het toevoegen van tekst aan een SVG-document te vermijden geeft FreeSewing je de optie om tekst aan patronen toe te voegen door het aan de attributen van punten en paden te koppelen.
 
-All you have to do is set the `data-text` attribute to the text you want to add to the pattern:
+Het enige wat u hoeft te doen is het `data-text` attribuut toe te voegen aan het patroon:
 
 ```js
 points.anchor = new Point(100, 25)
@@ -19,7 +19,7 @@ points.anchor = new Point(100, 25)
 
 <Note>
 
-You may have noticed that the text we inserted isn't the text that's shown.
+Misschien heeft U gemerkt dat de tekst die we hebben toegevoegd niet de tekst is die wordt getoond.
 That is because, in line with our [best practices](/do) we allow translation of
 our pattern by inserting a key that is used to lookup the string in the language
 of the pattern, using [the i18n plugin](/plugins/i18n).
