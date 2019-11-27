@@ -48,12 +48,12 @@ Je kan een beschermheer zijn voor minder dan 2 euro per maand. Dus waarom wordt 
 
 ## Mag ik FreeSewing patronen voor commerciële doeleinden gebruiken?
 
-Ja dat mag. Open Source is a development model, not a business model.
+Ja dat mag. Open Source is een ontwikkelingsmodel, geen bedrijfsmodel.
 
-If our work can help you put food on the table, by all means take it.
+Als ons werk U kan helpen voedsel op tafel te brengen, dan moet U het in ieder geval gebruiken.
 
 ## Wat is jullie uiteindelijke bedoeling?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+We willen dat FreeSewing.org de WikiPedia van naaipatronen wordt.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken. 
