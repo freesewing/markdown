@@ -14,7 +14,7 @@ For this first edition, I'm looking back a bit further than one month, because [
 
 ### My name is Simon, and I'm complicated
 
-Since the launch, there's been [3 new path releases of freesewing core](https://github.com/freesewing/core/releases) \--- you know, the thing that actually generates your sewing patterns \--- and all of them were due to issues with [the Simon Shirt pattern](/patterns/simon).
+Since the launch, there's been [3 new path releases of freesewing core](https://github.com/freesewing/core/releases) --- you know, the thing that actually generates your sewing patterns --- and all of them were due to issues with [the Simon Shirt pattern](/patterns/simon).
 
 Full details are available in [the changelog](https://github.com/freesewing/core/blob/develop/CHANGELOG.md), but here's the gist of it:
 
@@ -66,7 +66,7 @@ You can read [my blog post on the matter](/blog/email-spam-problems/) for all th
 ## Referrals
 When people link to your site, and visitors click that link, that's called a referral. The bloggers among you might be familiar with skimming through your Google Analytics reports to see who's been linking to you.
 
-This site does not use Google Analytics \--- there's [a blog post with details on that](/blog/privacy-choices/) too \--- but still captures referrals. The overview of recent referrals is available for all to see on [the status page](/status).
+This site does not use Google Analytics --- there's [a blog post with details on that](/blog/privacy-choices/) too --- but still captures referrals. The overview of recent referrals is available for all to see on [the status page](/status).
 
 Linking to freesewing.org is obviously a nice thing to do, so I keep an eye on the referrals, and if a site shows up that belongs to a user, you get the Ambassador badge.
 
