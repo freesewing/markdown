@@ -48,7 +48,7 @@ In the first half of the month, we tried Rollbar for error handling and reportin
 
 So, we decided to write our own poor man's rollbar called Bail. Bail is now used in our data and core backends, so when things break, we know about it.
 
-This effort also lead to a 2-week side-quest to write tests for our data backend. All details: [Introducing freesewing bail: A poor man's rollbar \--- because privacy](/blog/introducing-bail/)
+This effort also lead to a 2-week side-quest to write tests for our data backend. All details: [Introducing freesewing bail: A poor man's rollbar --- because privacy](/blog/introducing-bail/)
 
 ### Carlita is here
 
@@ -86,7 +86,7 @@ I don't think I'll find the time to make a jacket in February, but perhaps a mus
 
 ![All details on fosdem.org](fosdem.png)
 
-[FOSDEM](http://fosdem.org/) \--- the Free and Open Source Developers' European Meeting \--- is on the first weekend of February in Brussels.
+[FOSDEM](http://fosdem.org/) --- the Free and Open Source Developers' European Meeting --- is on the first weekend of February in Brussels.
 
 I'm planning to be there on Sunday, so if you're attending too, let me know or come and say hi.
 
