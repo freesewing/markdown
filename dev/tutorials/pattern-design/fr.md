@@ -1,6 +1,5 @@
 ---
-title: Tutoriel
-order: 400
+title: Pattern design tutorial
 ---
 
 Bienvenue dans le tutoriel FreeSewing, où vous allez apprendre à créer un patron de couture sur mesure, du début à la fin.
