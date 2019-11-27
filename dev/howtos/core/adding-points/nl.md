@@ -1,8 +1,9 @@
 ---
 title: Punten toevoegen
+order: 260
 ---
 
-Nadat je [shorthand](/howtos/core/shorthand/) gebruikt hebt, heeft `Point` de constructor voor nieuwe punten, en `points` is een referentie naar `part.points`, waar je je nieuwe punten moet opslaan.
+After using the [shorthand](/howtos/core/shorthand/) call, `Point` contains the point constructor, while `points` is a reference to `part.points`, which is where you should store your points.
 
 De dingen werken nu *gewoon* als je dit doet:
 
