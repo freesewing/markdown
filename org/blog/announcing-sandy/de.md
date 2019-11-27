@@ -7,7 +7,7 @@ caption: "Wusstest du, dass Sandy nach Olivia Newton-Johns Figur im Film \"Greas
 author: joost
 ---
 
-Meine Damen und Herren \--- denn wer sagt, dass Männer keine Röcke tragen können \--- Ich freue mich, die sofortige Verfügbarkeit unseres neuesten FreeSewing-Schnittmusters bekannt zu geben: [der Tellerrock Sandy](/patterns/sandy).
+Meine Damen und Herren --- denn wer sagt, dass Männer keine Röcke tragen können --- Ich freue mich, die sofortige Verfügbarkeit unseres neuesten FreeSewing-Schnittmusters bekannt zu geben: [der Tellerrock Sandy](/patterns/sandy).
 
 Sandy wurde von [@AlfaLyr](/users/alfalyr) entworfen, die wirklich einen hervorragenden Job gemacht haben. Das macht es auch zu einem weiteren Schnittmuster aus der Freesewing-Community, wovon ich sehr begeistert bin.
 
