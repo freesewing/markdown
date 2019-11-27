@@ -7,7 +7,7 @@ caption: "Würden Sie eine Spur schließen, weil ein Fahrer seine Musik zu laut 
 author: joost
 ---
 
-Menschen mit einer E-Mail-Adresse von Microsoft \--- denken Sie an Hotmail, MSN, live.com, outlook.com und ihre zahlreichen Varianten \--- melden sich, statistisch gesehen, deutlich weniger für diese Website an.
+Menschen mit einer E-Mail-Adresse von Microsoft --- denken Sie an Hotmail, MSN, live.com, outlook.com und ihre zahlreichen Varianten --- melden sich, statistisch gesehen, deutlich weniger für diese Website an.
 
 Der Grund dafür ist, dass mehr als 4 mal von 10, sie nie ihre Kontoaktivierungs-E-Mail erhalten.
 
