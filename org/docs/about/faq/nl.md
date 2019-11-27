@@ -12,7 +12,7 @@ Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig 
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Vraag je dit omdat je ons niet vertrouwt?
 
 Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. As such, the following questions and answers may also be relevant:
 
