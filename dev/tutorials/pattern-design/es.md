@@ -1,6 +1,5 @@
 ---
-title: Tutorial
-order: 400
+title: Pattern design tutorial
 ---
 
 Welcome to the FreeSewing tutorial, where you'll learn how to create a made-to-measure sewing pattern, start to finish.
