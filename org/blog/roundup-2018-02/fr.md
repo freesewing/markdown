@@ -50,7 +50,7 @@ As I also foreshadowed last month, I did not find the time to make one. As a mat
 
 Anyway, all this to say that the pattern is ready, except that I've never made the latest version of it. And I feel like I can't release it like this.
 
-So, if you'd like to make a muslin of this \--- or even the real thing \--- let me know in the comments, and I'll make sure we'll get you a draft.
+So, if you'd like to make a muslin of this --- or even the real thing --- let me know in the comments, and I'll make sure we'll get you a draft.
 
 That might also help moving this pattern release forward, for I already know I won't have much time to work on a jacket next month.
 
