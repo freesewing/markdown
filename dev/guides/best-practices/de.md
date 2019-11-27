@@ -1,5 +1,5 @@
 ---
-title: Best practices
-order: 300
+title: 03|Best practices
 ---
 
+<ReadMore />
