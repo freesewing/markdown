@@ -7,7 +7,7 @@ caption: "Imaginez vous et lui, dans des manteaux assortis."
 author: joost
 ---
 
-Celui-ci pour les dames -- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
+Celui-ci est pour les dames -- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
 
 Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui en version bêta à compter d'aujourd'hui.
 
@@ -17,9 +17,9 @@ Carlita est -- vous l'avez deviné -- la version féminine de notre manteau de C
 
 Pour plus de détails sur la manière dont ce projet est né, je vous renvoie à [l'article sur annonce de Carlton](/blog/announcing-carlton-and-bent/). Je voudrais ici me concentrer sur la façon dont nous avons transformé ce patron masculin en manteau pour dames.
 
-Nous voulions rester aussi près que possible de l'original donc tout ce que nous avons fait a été faire des changements pour répondre à un seul défi : ajuster les seins.
+Nous voulions rester aussi près que possible de l'original donc tout ce que nous avons fait a été de faire des changements pour répondre à un seul défi : ajuster à la forme des seins.
 
-### Princesse, réalisez votre version
+### Princesse, ajustez vos découpes
 
 Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant du manteau, par laquelle nous avons ajouté du galbe pour le buste.
 
@@ -47,15 +47,15 @@ Une image en dit plus que mille mots, donc voici une illustration de l'option su
 
 ![L'effet de l'option comme le montre notre exemple](smooth.png)
 
-Comme vous pouvez le voir, l'option gère l'a rapidité avec laquelle la découpe princesse rejoint votre taille après avoir passé le point le plus large de votre buste.
+Comme vous pouvez le voir, l'option gère la "rapidité" avec laquelle la découpe princesse rejoint votre taille après avoir passé le point le plus large de votre buste.
 
 Une faible intensité permettra un manteau plus ajusté, mais aussi une couture plus courbée plus difficile à coudre.
 
 Une intensité plus lisse permettra de lisser la découpe de façon à ce qu'elle fasse un repli plus incliné vers la couture descendante. Cela rendra le manteau moins ajusté sous votre poitrine mais la couture plus facile à coudre.
 
-## Un rappel sur les patrons sur-mesure
+## Un rappel à propos des patrons sur-mesure
 
-Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes nouveau ici, cela vaut la peine de le répéter :
+Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes nouveau ici, cela vaut la peine d'être répété :
 
 > Ce manteau n'est pas conçu pour une certaine taille de bonnet prédéfini. Au lieu de cela, il s’adaptera à votre poitrine en fonction de vos mesures.
 
@@ -63,7 +63,7 @@ Cela va sans dire pour les visiteurs réguliers de ce site, mais si vous êtes n
 
 Il s'agit de notre premier modèle de vêtement féminin avec un ajustement poitrine. En tant que tel, nous innovons ici, et je serais intéressé de voir comment ce modèle s'adapte à une variété de morphologies/tailles de bonnet.
 
-Si vous prévoyez de fabriquer ce manteau, veuillez partager votre expérience, et n'hésitez pas à entrer nous contacter si vous rencontrez des problèmes.
+Si vous prévoyez de fabriquer ce manteau, veuillez partager votre expérience, et n'hésitez pas à nous contacter si vous rencontrez des problèmes.
 
 
 Je prévois de concevoir plus de modèles de vêtements féminins, donc s'il y a des problèmes de tombé ou d'ajustement, je voudrais le savoir le plus tôt possible.
