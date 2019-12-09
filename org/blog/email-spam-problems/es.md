@@ -7,7 +7,7 @@ caption: "Would you close a lane because one driver was playing their music too 
 author: joost
 ---
 
-People with an email address from Microsoft \--- think Hotmail, MSN, live.com, outlook.com and their numerous variants \--- are significantly less likely to sign up for this website.
+People with an email address from Microsoft --- think Hotmail, MSN, live.com, outlook.com and their numerous variants --- are significantly less likely to sign up for this website.
 
 That's because more than 4 times out of 10, they never receive their account activation email.
 

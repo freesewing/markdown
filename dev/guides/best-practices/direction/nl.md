@@ -2,7 +2,7 @@
 title: Go counter-clockwise
 ---
 
-Follow your paths counter-clockwise.
+Follow your paths counter-clockwise. You have to pick a direction anyway, and going counter-clockwise is a bit of a convention.
 
 This applies both to naming points (specifically the control points of curves) and the order in which you define your points.
 

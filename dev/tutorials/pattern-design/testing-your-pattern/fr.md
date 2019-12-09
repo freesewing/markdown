@@ -65,18 +65,7 @@ Tester une mesure va faire varier cette mesure de 10% de plus ou de moins tout e
 
 Pour notre bavoir, nous employons uniquement une mesure, alors elle influence le patron en entier :
 
-<Example 
-  caption="Your bib with the head circumference measurement sampled" 
-  sample 
-  part="bib" 
-  pattern="tutorial" 
-  settings={{ 
-    sample: { 
-      type: "measurement", 
-      measurement: "headCircumference" 
-    } 
-  }} 
-/>
+<Example caption="Your bib with the head circumference measurement sampled" sample part="bib" pattern="tutorial" settings={{ sample: { type: "measurement", measurement: "headCircumference" } }} />
 
 ## Tester les modèles
 
@@ -86,28 +75,7 @@ Sur la surface, le résultat ci-dessous est le même que pour notre test de mesu
 
 Mais la plupart des patrons utilise plusieurs mesures, et ce test vous donnera un aperçu de la façon dont votre patron s'adapte à différentes morphologies.
 
-<Example 
-  sample 
-  caption="Your bib sampled for a range of baby sizes" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        baby1: { headCircumference: 340 },
-        baby2: { headCircumference: 350 },
-        baby3: { headCircumference: 360 },
-        baby4: { headCircumference: 370 },
-        baby5: { headCircumference: 380 },
-        baby6: { headCircumference: 390 },
-        baby7: { headCircumference: 400 },
-        baby8: { headCircumference: 410 },
-        baby9: { headCircumference: 420 }
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Your bib sampled for a range of baby sizes" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { baby1: headCircumference: 340 }, baby2: 350 baby3: 360 baby4: 370 baby5: 380 baby6: 390 baby7: 400 baby8: 410 baby9: 420 } } }} />
 
 ## Le test de l'homme fourmi
 
@@ -119,20 +87,6 @@ Le but du test de l'homme fourmi est de mettre en évidence les zones de votre p
 
 Les meilleurs patrons passeront le test de l'homme fourmi avec 2 patrons identiques. L'un sera simplement le dixième de l'autre en termes d'échelle.
 
-<Example 
-  sample 
-  caption="Congratulations, your bib passes the antman test" 
-  pattern="tutorial" 
-  part="bib" 
-  settings={{ 
-    sample: { 
-      type: "models", 
-      models: {
-        ant: { headCircumference: 39 },
-        man: { headCircumference: 390 },
-      }
-    } 
-  }} 
-/>
+<Example sample caption="Congratulations, your bib passes the antman test" pattern="tutorial" part="bib" settings={{ sample: { type: "models", models: { ant: headCircumference: 39 }, man: 390 } } }} />
 
 Lorsque vous êtes satisfait de la façon dont votre patron passe les tests, il est temps de le compléter.

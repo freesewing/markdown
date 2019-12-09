@@ -1,5 +1,5 @@
 ---
-date: 2018-01-26
+date: 26.01.2018
 title: "Ankündigung von Carlita, der Damenversion unseres Carlton-Mantels."
 linktitle: "Ankündigung des Carlita-Mantels"
 img: sherlock.jpg
@@ -7,11 +7,11 @@ caption: "Stell Sie sich und ihn vor, in zusammenpassenden Mänteln."
 author: joost
 ---
 
-Dieser hier ist für die Damen \--- und ich rede nicht (nur) über dieses Bild von Frauenschwarm Benedict Cumberbatch am Anfang dieses Beitrags.
+Dieser hier ist für die Damen --- und ich rede nicht (nur) über dieses Bild von Frauenschwarm Benedict Cumberbatch am Anfang dieses Beitrags.
 
 Stattdessen rede ich von der Veröffentlichung unseres neuesten Schnittmusters: des [Carlita-Mantels ](/patterns/carlita), der ab heute in der Beta ist.
 
-Carlita ist \--- Sie haben es erraten \--- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
+Carlita ist --- Sie haben es erraten --- die Damenversion unseres Carlton-Mantels, der dem kultigen Sherlock-Holmes-Mantel, den BC in der BBC-Serie trägt, nachempfunden ist.
 
 ## Wie haben wir es gemacht?
 

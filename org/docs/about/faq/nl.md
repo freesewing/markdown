@@ -12,19 +12,19 @@ Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig 
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Vraag je dit omdat je ons niet vertrouwt?
 
-Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. As such, the following questions and answers may also be relevant:
+Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. Als zodanig kunnen de volgende vragen en antwoorden ook relevant zijn:
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
+ - [Wat doe je met mijn persoonlijke gegevens? (#what-are-you-doing-with-my-personal-data)
+ - [Wie betaalt dit allemaal?](#who-pays-for-of-this)
+ - [Wat is jouw einddoel?](#whats-your-end-game)
 
 </Note>
 
 ## Ik ken mijn maat. Waarom moet ik dan mijn maten invoeren?
 
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+Het genereren van op-maat-gemaakte patronen *is wat we doen*. Als je vasthoudt aan een patroon in een standaard maat, dan is FreeSewing niet voor jou bedoelt.
 
 Geen nood, Fiona publiceert [een lange lijst](https://chainstitcher.blogspot.com/p/about-blog.html) van indie patroon ontwerpers, en voor zover we weten is FreeSewing de enige op die lijst die op-maat-gemaakte patronen aanbiedt.
 
@@ -40,20 +40,20 @@ Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine ma
 
 <Note>
 
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+##### Word lid van de Freesewing Patrons
+Je kan een beschermheer zijn voor minder dan 2 euro per maand. Dus waarom wordt jij ook geen
+[beschermheer](/patrons/join)?
 
 </Note>
 
-## Can I use FreeSewing patterns for commercial purposes?
+## Mag ik FreeSewing patronen voor commerciële doeleinden gebruiken?
 
-Yes you can. Open Source is a development model, not a business model.
+Ja dat mag. Open Source is een ontwikkelingsmodel, geen bedrijfsmodel.
 
-If our work can help you put food on the table, by all means take it.
+Als ons werk U kan helpen voedsel op tafel te brengen, dan moet U het in ieder geval gebruiken.
 
 ## Wat is jullie uiteindelijke bedoeling?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+We willen dat FreeSewing.org de WikiPedia van naaipatronen wordt.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken. 

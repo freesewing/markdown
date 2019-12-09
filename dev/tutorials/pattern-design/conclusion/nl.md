@@ -19,9 +19,9 @@ Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvo
 
 ## Meer leesmateriaal
 
- - Als je dat nog niet gedaan hebt, kan je hier [de basisconcepten van FreeSewing](/guides/overview/) nalezen
- - Sla de [FreeSewing API-documenten](/reference/api/) op bij je favorieten; je kan ze gebruiken als referentie telkens wanneer je niet zeker weet hoe iets werkt
- - Neem onze [best practices](/guides/best-practices/) door; ze helpen je om de best mogelijke patronen te ontwerpen
+ - If you haven't done so already, read through [the high-level overview of FreeSewing](/guides/overview/)
+ - Bookmark [the FreeSewing API docs](/reference/api/), they are your reference every time you're not entirely certain how something works
+ - Have a look at [our best practices](/guides/best-practices/) that will help you make the best possible patterns
 
 ## En wat nu?
 

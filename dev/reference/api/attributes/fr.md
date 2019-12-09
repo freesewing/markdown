@@ -4,7 +4,7 @@ title: Attributs
 
 Les attributs correspondent à un objet qui contient les attributs pour une variété d'autres objets.
 
-Les attributs sont liés aux objets [`Point`](/reference/api/point), [`Path`](/reference/api/path), et [`Snippet`](/reference/api/snippet), et aussi à l'objet interne [`Svg`](/reference/api/svg) .
+Attributes are attached to [`Point`](/reference/api/point), [`Path`](/reference/api/path), and [`Snippet`](/reference/api/snippet) objects, as well as the internal [`Svg`](/reference/api/svg) object.
 
 Tous ceux-ci possèdent un objet Attributs instantié dans leur propriété `attributes`.
 

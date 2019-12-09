@@ -80,7 +80,7 @@ I won't repeat everything here, but [our tweet](https://twitter.com/j__st/status
 
 A vast majority of people supports this idea, and as such we have plans to move ahead with it. However, if we do this, we want to do it right and completely in the open. So expect a blog post on the matter shortly.
 
-The questions that came up as we were discussing the possibility of publishing this data tend to revolve around privacy. We are \--- and remain \--- committed to protecting the privacy or all our users and visitors, and have written about [the choices we have made to guarantee your privacy](/blog/privacy-choices/).
+The questions that came up as we were discussing the possibility of publishing this data tend to revolve around privacy. We are --- and remain --- committed to protecting the privacy or all our users and visitors, and have written about [the choices we have made to guarantee your privacy](/blog/privacy-choices/).
 
 Thinking about these issues made us realize that we want to provide a more iron-clad guarantee than a blog post. So, we will draft and publish a privacy notice in line with the upcoming GDPR.
 

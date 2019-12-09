@@ -7,11 +7,11 @@ caption: "Picture you and him, in matching coats."
 author: joost
 ---
 
-This one's for the ladies \--- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+This one's for the ladies --- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
 
 Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
 
-Carlita is \--- you guessed it \--- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita is --- you guessed it --- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
 
 ## How did we do it?
 

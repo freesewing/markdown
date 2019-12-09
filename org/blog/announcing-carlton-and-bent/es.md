@@ -37,7 +37,7 @@ I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend 
 
 ### Burn the patriarchy to the ground through the power of pockets
 
-Ladies take note: Carlita \--- a female version of Carlton \--- is currently on the drawing board.
+Ladies take note: Carlita --- a female version of Carlton --- is currently on the drawing board.
 
 Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
 

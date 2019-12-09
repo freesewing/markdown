@@ -7,7 +7,7 @@ caption: "Did you know that Sandy was named after Olivia Newton-John's character
 author: joost
 ---
 
-Ladies and gentlemen \--- because who says men can't wear skirts \--- I am happy to announce the immeadiate availability of our latest freesewing pattern: [the Sandy circle skirt](/patterns/sandy).
+Ladies and gentlemen --- because who says men can't wear skirts --- I am happy to announce the immeadiate availability of our latest freesewing pattern: [the Sandy circle skirt](/patterns/sandy).
 
 Sandy was designed by [@AlfaLyr](/users/alfalyr) who really did a stellar job. This makes it also another pattern from the freesewing community, something that I'm very excited about.
 

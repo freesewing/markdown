@@ -1,19 +1,19 @@
 ---
-title: Using attributes
+title: Attributen gebruiken
 order: 300
 ---
 
 Points, Paths, and Snippets all have [attributes](/reference/api/attributes/) that you can use to influence how they behave.
 
-A common scenario is to apply CSS classes to style a path:
+Een algemeen toepassing is om CSS classes aan te geven:
 
 ```js
 paths.example.attributes.add('class', 'lining dashed');
 ```
 
-Because it's so common to set attributes, Points, Paths and Snippets all have the `attr()` helper method.
+Omdat het zo vaak voorkomt om attributen toe te voegen hebben Points, Paths, en Snippets allemaal een `attr()` helper methode.
 
-Not only is less more, the method is also *chainable*, which allows you to do this:
+Niet alleen is de methode eenvoudiger, de methode is ook *chainable*, wat je dit toestaat:
 
 ```js
 points.message = new Point(0,0)
