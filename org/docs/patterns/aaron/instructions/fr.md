@@ -18,7 +18,7 @@ Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et l
 
 </Note>
 
-## Étape 3 : Coudre le bord côte à l'avant
+## Étape 3 : Coudre la bande de jersey à l'avant
 
 <Note>
 
