@@ -1,4 +1,6 @@
 ---
-title: Carlita jas
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='carlita' />

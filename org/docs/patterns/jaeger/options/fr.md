@@ -1,4 +1,7 @@
 ---
-title: Options
 ---
+
+import PatternOptions from '../../../../../../src/components/docs/pattern-options'
+
+<PatternOptions pattern='jaeger' />
 

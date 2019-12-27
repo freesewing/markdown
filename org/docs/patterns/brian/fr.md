@@ -1,4 +1,6 @@
 ---
-title: Brian body block
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='brian' />

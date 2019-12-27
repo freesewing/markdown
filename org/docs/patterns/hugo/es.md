@@ -1,4 +1,6 @@
 ---
-title: Hugo hoodie
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='hugo' />

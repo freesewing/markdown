@@ -1,4 +1,6 @@
 ---
-title: Aaron A-shirt
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='aaron' />

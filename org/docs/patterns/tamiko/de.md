@@ -1,4 +1,6 @@
 ---
-title: Tamiko top
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='tamiko' />

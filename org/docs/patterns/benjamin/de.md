@@ -1,4 +1,6 @@
 ---
-title: Benjamin bow tie
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='benjamin' />

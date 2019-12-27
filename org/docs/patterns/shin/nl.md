@@ -1,4 +1,6 @@
 ---
-title: Shin zwembroek
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='shin' />

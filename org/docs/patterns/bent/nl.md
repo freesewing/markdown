@@ -1,4 +1,6 @@
 ---
-title: Bent basisvorm
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='bent' />
