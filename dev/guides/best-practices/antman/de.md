@@ -1,8 +1,8 @@
 ---
-title: Use the ant-man test
+title: BenutzeN Sir den ant-man-Test
 ---
 
-When designing patterns, you should refrain from using absolute values.
+Beim Gestalten von Schnittmustern sollten Sie auf absolute Werte verzichten.
 
 That 6cm ease you add might be fine for all scenarios you tested, but then somebody comes around who is twice your size, or who is making clothes for a doll, and things will go off the rails.
 
