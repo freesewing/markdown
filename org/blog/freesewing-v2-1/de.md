@@ -73,7 +73,7 @@ Last but not least, während wir versuchen, eine Anleitung für Messungen zu geb
 
  - Für unsere Vergleichsansichten haben wir unsere Größenbereiche erweitert. Die Größen für Herrenmode werden jetzt von Größe 32 bis 48 gesampelt, während für Damenmode von Größe 28 bis 46.
  - Wir haben einige Änderungen an den Standardeinstellungen im Simon-Muster vorgenommen, basierend auf unseren Tests mit Simone
- - We've added support for preloading models with breasts to our development environment for pattern designers
+ - Wir haben unsere Entwicklungsumgebung für Schnittmusterdesigner um die Möglichkeit erweitert, Modelle mit Brüsten als Preload einzustellen
  - We've implemented fixes and improvements in our Jaeger, Bruce, Benajamin, Simon, Carlton, and Carlita patterns
  - We've added a bunch of missing images in the documentation, and [started an effort to make sure all options have an image to illustrate their purpose](https://github.com/freesewing/freesewing.org/issues/190).
 
