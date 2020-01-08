@@ -22,17 +22,17 @@ Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et l
 
 <Note>
 
-##### About knit binding
+##### A propos de la bande de Jersey
 
-If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
+Si vous êtes nouveau en [bande de Jersey](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
 
-###### Repeat steps 3 and 4 for both armholes and the neck opening
+###### Répéter les étapes 3 et 4 pour les emmanchures et l'ouverture du cou
 
-The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
+Le procédure soulignée ci-dessous s'applique à la fois aux emmanchures et à l'encolure. En d'autres termes, vous devrez le faire trois fois.
 
-###### Start with the simplest opening
+###### Commencez par l'ouverture la plus simple
 
-I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
+Je vous conseille de commencer par n'importe quelle ouverture ayant la courbure la plus uniforme. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
 
 Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
 
