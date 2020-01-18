@@ -1,4 +1,6 @@
 ---
-title: Bent body block
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='bent' />

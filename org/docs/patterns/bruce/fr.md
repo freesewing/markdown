@@ -1,4 +1,6 @@
 ---
-title: Bruce boxer briefs
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='bruce' />

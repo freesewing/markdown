@@ -1,7 +1,7 @@
-<Note>
+---
+---
 
-Simone is our [Simon pattern](/patterns/simon/) adapted for breasts.
+import PatternOptions from '../../../../../../src/components/docs/pattern-options'
 
-Please refer to [the Simon documentation](/docs/patterns/simon/).
+<PatternOptions pattern='simone' />
 
-</Note>

@@ -1,4 +1,6 @@
 ---
-title: Jaeger jasje
 ---
 
+import PatternDocs from '../../../../../src/components/docs/pattern'
+
+<PatternDocs pattern='jaeger' />

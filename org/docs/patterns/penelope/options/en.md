@@ -1,1 +1,7 @@
-This page intentionally left blank
+---
+---
+
+import PatternOptions from '../../../../../../src/components/docs/pattern-options'
+
+<PatternOptions pattern='penelope' />
+
