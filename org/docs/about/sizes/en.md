@@ -19,6 +19,19 @@ your own measurements, or have them taken. This will always yield better results
 
 </Note>
 
+<div class="not-xs">
+<Tip>
+
+###### Not a fan of horizontal scolling?
+
+There's a lot of information in the tables below, causing the table to overflow.
+You can scroll horizontally to get to the rest of the data.
+
+Of, if you'd like, you can also [show sizes in a wide view](/sizes/).
+
+</Tip>
+</div>
+
 ## With breasts
 
 <SizingTable breasts={true} />
