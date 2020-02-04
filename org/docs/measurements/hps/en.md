@@ -1,6 +1,15 @@
 ---
-title: High point shoulder to bust
+title: HPS to bust
 ---
+
+<Note>
+
+###### HPS: high point shoulder
+
+The *high point shoulder* or *HPS* point is used as the base for several vertical measurements.
+Refer to [the hps documentation](/docs/measurements/hps/) for information on how to locate this point.
+
+</Note>
 
 The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms you bust span.
 
