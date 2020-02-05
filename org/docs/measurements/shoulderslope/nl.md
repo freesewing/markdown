@@ -2,12 +2,13 @@
 title: Schouderhelling
 ---
 
-The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward. Je kan dit niet direct meten, maar moet het verschil tussen twee maten berekenen om deze maat te vinden.
+The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward.
 
-To calculate your **shoulder slope**, tie a ribbon or elastic around your chest, making sure to keep it horizontal.
+To measure your shoulder slope, measure from the center of your back at the hipline to the tip of your shoulder.
 
-Meet dan de afstand tussen de voorkant van het lintje (aan je borst) tot aan de achterkant (op je rug). Doe dit zowel vlak naast het begin van je nek, en aan het puntje van je schouder.
+<Note>
 
-Je schouderhelling is de maat vlak naast je nek min de maat aan het puntje van je schouder.
+This measurement will be combined with [the HPS to hips back measurement](/docs/measurements/hpstohipsback/) to determine the slope of your shoulders.
 
-Hoe rechter (horizontaler) je schouders zijn, hoe dichter de schouderhelling bij nul zal liggen. Hoe sterker je schouders naar beneden hellen, hoe hoger dit cijfer.
+</Note>
+
