@@ -24,3 +24,5 @@ Al onze naaipatronen worden op maar gemaakt. Er worden geen patronen geschaald o
 Een platform is iets waarop gebouwd kan worden, en dat willen we graag zien.
 
 Je bent hier misschien voor onze patronen, maar we stellen de gereedschappen en documentatie om je eigen patronen toe te voegen ter beschikking. Kijk gerust naar [freesewing.dev](https://freesewing.dev) voor alle details.
+
+<ReadMore root='docs/about' recurse box />
