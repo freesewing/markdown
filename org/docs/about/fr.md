@@ -24,3 +24,5 @@ Tous nos patrons de couture sont réalisés sur mesure. Nous ne faisons pas de m
 Une plate-forme est quelque chose sur laquelle vous construisez des choses, et c'est exactement ce que nous aimerions voir.
 
 Vous êtes peut-être ici pour nos patrons, mais nous fournissons également les outils et la documentation pour que des créateurs puissent ajouter leurs propres patrons. Merci de vous référer à [freesewing.dev](https://freesewing.dev) pour plus de détails.
+
+<ReadMore root='docs/about' recurse box />
