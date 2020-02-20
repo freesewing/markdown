@@ -13,8 +13,7 @@ Refer to [the hps documentation](/docs/measurements/hps/) for information on how
 
 The **high point shoulder (HPS) to hips back** measurement runs from your HPS down to your hipline.
 
-Tp measure your HPS to hips back, first [localize your HPS point](/docs/measurements/hps/). 
-Then measure straight down to your hipline, which is the line between the top of your hip bones.
+Tp measure your HPS to hips back, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your hipline, which is the line between the top of your hip bones.
 
 The point of this measurement is to measure the length of your torso.  
 
@@ -23,3 +22,4 @@ The point of this measurement is to measure the length of your torso.
 This measurement will be combined with [the shoulder slope measurement](/docs/measurements/shoulderslope/) to determine the slope of your shoulders.
 
 </Note>
+
