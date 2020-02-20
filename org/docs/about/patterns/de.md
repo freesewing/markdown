@@ -2,5 +2,5 @@
 title: Pattern drafting
 ---
 
-<ReadMore root='docs/draft' />
+<ReadMore root='docs/about/patterns' />
 

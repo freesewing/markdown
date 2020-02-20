@@ -1,7 +1,11 @@
 ---
-title: Instellingen
+title: Settings
 ---
 
-Wanneer je een [patroon tekent](/draft) kan je het niet enkel via de opties aanpassen aan jouw eisen. The following so-called *draft settings* can also be changed:
+When you [create a pattern](/create/) you can not only configure 
+the pattern in ways the designer intended, there's also options that
+influence how we generate the pattern.
 
-<ReadMore root='docs/draft/settings' />
+The following such options are available on all patterns:
+
+<ReadMore root='docs/about/patterns/settings' />

@@ -2,5 +2,5 @@
 title: Patroontekenen
 ---
 
-<ReadMore root='docs/draft' />
+<ReadMore root='docs/about/patterns' />
 
