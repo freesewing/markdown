@@ -35,3 +35,5 @@ A platform is something on which you build things, and that's what we'd like to 
 You might be here for our patterns, but we also provid the tools and documentation for 
 designers to add their own patterns. Please refer to [freesewing.dev](https://freesewing.dev) for
 all details.
+
+<ReadMore root='docs/about' recurse box />
