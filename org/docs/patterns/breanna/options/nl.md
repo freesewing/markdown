@@ -1,5 +1,5 @@
----
----
+- - -
+- - -
 
 import PatternOptions from '../../../../../../src/components/docs/pattern-options'
 
@@ -7,20 +7,15 @@ import PatternOptions from '../../../../../../src/components/docs/pattern-option
 
 ## Understanding the sleevecap
 
-The Breanna sleevecap was designed to be adaptable into different types of sleeves and garments. 
-As a result, the sleevecap alone has 20 options to control its shape. 
-Whereas that may seem a bit overwhelming at first, understanding how the 
-sleevecap is drafted makes it easy to understand what all the individual options do.
+The Breanna sleevecap was designed to be adaptable into different types of sleeves and garments. As a result, the sleevecap alone has 20 options to control its shape. Whereas that may seem a bit overwhelming at first, understanding how the sleevecap is drafted makes it easy to understand what all the individual options do.
 
 ### The bounding box
 
-The *bounding box* of the sleevecap is a rectangle that is as wide as the sleeve, and
-as high as the sleevecap. Inside this box, we will construct our sleevecap later.
+The *bounding box* of the sleevecap is a rectangle that is as wide as the sleeve, and as high as the sleevecap. Inside this box, we will construct our sleevecap later.
 
 ![The Breanna sleevecap](sleevecap.svg)
 
-The image above shows a sleevecap, starting at point 1, then going up until point 4,
-and then down again to point 2. 
+The image above shows a sleevecap, starting at point 1, then going up until point 4, and then down again to point 2. 
 
 <Note>
 
@@ -37,32 +32,22 @@ there to fit the shoulder.
 
 </Note>
 
-The width of the sleevecap (and thus the width of the sleeve at the bottom of the armhole)
-is equal to the distance between points 1 and 2. That distance depends on the measurements
-of the model, the amount of ease, the cut of the garment and so on. For our sleevecap, all we
-need to know is that we start with a given width. And while that width can be influenced by
-other factors, we can not influence it by any of the sleevecap options.
+The width of the sleevecap (and thus the width of the sleeve at the bottom of the armhole) is equal to the distance between points 1 and 2. That distance depends on the measurements of the model, the amount of ease, the cut of the garment and so on. For our sleevecap, all we need to know is that we start with a given width. And while that width can be influenced by other factors, we can not influence it by any of the sleevecap options.
 
 ![Controlling the top of the sleevecap](sleevecaptop.svg)
 
-The height of the sleevecap is equal to the distance between points 3 and 4. The exact height
-is a trade-off between the measurments of the model, options, ease, sleevecap ease, and the fact 
-that the sleeve ultimately has to fit the armhole. So the height may vary, and we don't control
-the exact value. But there are two options that control the shape of our sleevecap:
+The height of the sleevecap is equal to the distance between points 3 and 4. The exact height is a trade-off between the measurments of the model, options, ease, sleevecap ease, and the fact that the sleeve ultimately has to fit the armhole. So the height may vary, and we don't control the exact value. But there are two options that control the shape of our sleevecap:
 
  - [Sleevecap top X](/docs/patterns/breanna/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 4
  - [Sleevecap top Y](/docs/patterns/breanna/options/sleevecaptopfactory/) : Controls the vertical placement of point 4
 
-In other words, point 4 can be made higher and lower and, perhaps less intutitively, it can also
-be changed to lie more to the right or the left, rather than smack in the middle as in our example.
+In other words, point 4 can be made higher and lower and, perhaps less intutitively, it can also be changed to lie more to the right or the left, rather than smack in the middle as in our example.
 
 ### The inflection points
 
 ![Controlling the inflection points](sleevecapinflection.svg)
 
-With points 1, 2, 3, and 4 in place, we have a box to draw our sleevecap in. Now it's time to 
-map out our *inflection points*. These are points 5 and 6 on our drawing, and their placement 
-is determined by the following 4 options:
+With points 1, 2, 3, and 4 in place, we have a box to draw our sleevecap in. Now it's time to map out our *inflection points*. These are points 5 and 6 on our drawing, and their placement is determined by the following 4 options:
 
  - [Sleevecap back X](/docs/patterns/breanna/options/sleevecapbackfactorx) : Controls the horizontal placement of point 5
  - [Sleevecap back Y](/docs/patterns/breanna/options/sleevecapbackfactory) : Controls the vertical placement of point 5
@@ -80,12 +65,9 @@ are instrumental in creating the points that always lie on the sleevecap: the an
 
 ![Controlling the anchor points](sleevecapanchor.svg)
 
-Ultimately, our sleevecap will be the combination of 5 curves. In addition to points 1 and 2,
-the four *anchor points* that are marked in orange in our example will be the start/finish of
-those curves.
+Ultimately, our sleevecap will be the combination of 5 curves. In addition to points 1 and 2, the four *anchor points* that are marked in orange in our example will be the start/finish of those curves.
 
-The points are *offset* perpendicular from the middle of a line between the two anchor points 
-surrounding them. The offset for each point is controlled by these 4 options:
+The points are *offset* perpendicular from the middle of a line between the two anchor points surrounding them. The offset for each point is controlled by these 4 options:
 
  - [Sleevecap Q1 offset](/docs/patterns/breanna/options/sleevecapq1offset) : Controls the offset perpendicular to the line from points 2 to 6
  - [Sleevecap Q2 offset](/docs/patterns/breanna/options/sleevecapq2offset) : Controls the offset perpendicular to the line from points 6 to 4
@@ -106,13 +88,9 @@ control each quarter individually.
 
 ![Controlling the anchor points](sleevecapspread.svg)
 
-We now have all the start and end points to draw the 5 curves that will make up our sleevecaps.
-What we're missing are the control points
-(see [our info on Bézier curves](https://freesewing.dev/concepts/beziercurves) to learn more 
-about how curves are constructed). These are determined by the so-called *spread*.
+We now have all the start and end points to draw the 5 curves that will make up our sleevecaps. What we're missing are the control points (see [our info on Bézier curves](https://freesewing.dev/concepts/beziercurves) to learn more about how curves are constructed). These are determined by the so-called *spread*.
 
-For each of the anchor points (the ones marked in orange, not points 1 and 2) there is an option
-to control the spread upwards, and downwards:
+For each of the anchor points (the ones marked in orange, not points 1 and 2) there is an option to control the spread upwards, and downwards:
 
  - [Sleevecap Q1 downward spread](/docs/patterns/breanna/options/sleevecapq1spread1) : Controls the downward spread in the first quarter
  - [Sleevecap Q1 upward spread](/docs/patterns/breanna/options/sleevecapq1spread2) : Controls the upward spread in the first quarter
@@ -134,15 +112,12 @@ the curve will rise above it.
 
 ### Takeaways
 
-While the sleevecap in Breanna (and all patterns that extend Breanna) have a lot of options, understanding how the 
-sleevecap is constructed can help you design the exact sleevecap shape you want. To do so:
+While the sleevecap in Breanna (and all patterns that extend Breanna) have a lot of options, understanding how the sleevecap is constructed can help you design the exact sleevecap shape you want. To do so:
 
  - Start with placing the top of your sleevecap
  - Then determine the inflection points
  - Next, use the offset to control the steepness of the curve
  - Finally, use the spread to smooth things out
 
-What's important to remember is that you're only ever controlling the shape of the sleevecap.
-Whatever shape you design, it will be fitted to the armhole, meaning that its size can and will be adapted
-to make sure the sleeve fits the armscye. However, the shape you design will always be respected.
+What's important to remember is that you're only ever controlling the shape of the sleevecap. Whatever shape you design, it will be fitted to the armhole, meaning that its size can and will be adapted to make sure the sleeve fits the armscye. However, the shape you design will always be respected.
 
