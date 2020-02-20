@@ -2,8 +2,10 @@
 title: Settings
 ---
 
-When you [draft a pattern](/draft) you can not only configure 
-the pattern through its options. The following so-called *draft settings*
-can also be changed:
+When you [create a pattern](/create/) you can not only configure 
+the pattern in ways the designer intended, there's also options that
+influence how we generate the pattern.
 
-<ReadMore root='docs/draft/settings' />
+The following such options are available on all patterns:
+
+<ReadMore root='docs/about/patterns/settings' />
