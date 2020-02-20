@@ -1,6 +1,11 @@
 
-> ##### Huey is currently in beta, documentation is missing
-> 
-> This pattern is currently in beta. One of the reasons for that is that its documentation is yet to be written. 
-> 
-> {:.warning}
+<Note>
+
+This patterns was featured in [issue 27 of HackSpace magazine](https://hackspace.raspberrypi.org/issues/27),
+the article includes instructions too, so you may want to have a look at it.
+
+</Note>
+
+<Warning>
+Documentation for this pattern is yet to be written.
+</Warning>

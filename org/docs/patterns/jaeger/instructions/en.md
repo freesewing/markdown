@@ -208,13 +208,16 @@ Align the back/side seams, pin them in place if you feel like it, and sew them t
 
 Aling your two half-jackets with the good sides together, and close the back seam.
 
-> ##### Note for sewing vents
->
-> If you have a single vent, this seam will contain the vent.
->
-> Sew the downward part of the back seam and the sideways part that forms the vent.
-> Do not sew downwards after that.
-{.fs-bq}
+<Note>
+
+##### Note for sewing vents
+
+If you have a single vent, this seam will contain the vent.
+
+Sew the downward part of the back seam and the sideways part that forms the vent.
+Do not sew downwards after that.
+
+</Note>
 
 #### Close the shoulder seams
 
@@ -222,22 +225,20 @@ Aling your two half-jackets with the good sides together, and close the back sea
 
 Align the shoulder seams with good sides together, and sew them together.
 
-> Make sure the canvas does not get caught in the seam.
+Make sure the canvas does not get caught in the seam.
 
-> ##### Align the shoulder notches
-> 
-> Make sure to carefully align the shoulders based on the notches.
-> Because of the different shape of the back and front panels on the neck side, 
-> the fabric edge looks different. So aligning those edges will not give you 
-> what you need.
->
-> So make sure to align the notches. It's what they're there for.
-{.fs-bq}
+<Note>
 
-> ##### Jaeger is currently in beta, documentation is under construction
->
-> This pattern is currently in beta. One of the reasons for that is that its documentation 
-> is not yet finished.
-{.warning .fs-bq}
+##### Align the shoulder notches
+
+Make sure to carefully align the shoulders based on the notches.
+Because of the different shape of the back and front panels on the neck side, 
+the fabric edge looks different. So aligning those edges will not give you 
+what you need.
+
+So make sure to align the notches. It's what they're there for.
+
+</Note>
+
 
 
