@@ -27,7 +27,7 @@ Congratulations, you have created your first pattern. And while it's arguably ra
 
 Now that you have learned how to create a pattern, why don't you make one?
 
-Think about what it is you would like to create, and just do it. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/freesewing) and we'll help you out.
+Think about what it is you would like to create, and just do it. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/design) and we'll help you out.
 
 <Note>
 
@@ -36,7 +36,7 @@ Think about what it is you would like to create, and just do it. If you get stuc
 You could do as a real favor by letting us know what you loved or hated about this tutorial.
 
 Where there areas that were not clear? Did we dwell too long on one topic, or rushed through another one too quickly?
-You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/development)
 
 </Note>
 
