@@ -65,7 +65,7 @@ Als alles goed gaat, gaat je browser nu open met de volgende landingspagina:
 
 We hebben dit getest op Linux en MacOS, maar nog niet op Windows.
 
-If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/development) and
 we'll figure it out together.
 
 </Note>
