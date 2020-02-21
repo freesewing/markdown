@@ -65,7 +65,7 @@ Si tout se passe bien, votre navigateur s'ouvrira et vous montrera la page suiva
 
 Nous avons testé ceci sur Linux et MacOS, mais pas sur Windows étant donné que je (Joost) ne possède pas une machine Windows sur laquelle je pourrais le tester.
 
-If you run into any issues, join [our chatroom](https://gitter.im/freesewing/freesewing) and
+If you run into any issues, join [our chatroom](https://gitter.im/freesewing/development) and
 we'll figure it out together.
 
 </Note>

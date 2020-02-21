@@ -1,6 +1,6 @@
 ![FreeSewing](https://freesewing.org/banner.jpg)
 <p align="center">
-  <a href="https://gitter.im/freesewing/freesewing"><img src="https://badgen.net/badge/chat/on%20Gitter/cyan" alt="Chat on Gitter"></a>
+  <a href="https://gitter.im/freesewing/help"><img src="https://badgen.net/badge/chat/on%20Gitter/cyan" alt="Chat on Gitter"></a>
   <a href="https://freesewing.org/patrons/join"><img src="https://badgen.net/badge/become/a%20Patron/FF5B77" alt="Become a Patron"></a>
 </p>
 

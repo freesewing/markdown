@@ -13,7 +13,7 @@ As a contributor, you are expected to uphold it.
 
 ## Where to get help or report a problem
 
-- The [freesewing chat room on Gitter](https://gitter.im/freesewing/freesewing) is the best place to ask questions, 
+- The [freesewing chat room on Gitter](https://gitter.im/freesewing/help) is the best place to ask questions, 
 meet other freesewers, or just hang out and share a laugh.
 - Chat not your thing? The [@freesewing_org](https://twitter.com/freesewing_org) 
 Twitter account is the next best thing.
@@ -62,7 +62,7 @@ Desiging more FreeSewing patterns is a great way to help out.
 
 You can [take the tutorial](/tutorials/pattern-design/) and jump right in.
 Or, join [our chat 
-room on Gitter](https://gitter.im/freesewing/freesewing) to discuss ideas, or find 
+room on Gitter](https://gitter.im/freesewing/development) to discuss ideas, or find 
 designers or developers to team up with.
 
 ### Contribute to our code
@@ -70,7 +70,7 @@ designers or developers to team up with.
 Interested in submitting a pull request for our code? Awesome. 
 All [our repositories](/reference/repos/) are available [on GitHub](https://github.com/freesewing).
 
-Our [chat room on Gitter](https://gitter.im/freesewing/freesewing) is the best place to discuss ideas or ask questions. 
+Our [chat room on Gitter](https://gitter.im/freesewing/development) is the best place to discuss ideas or ask questions. 
 
 ### Become a patron
 

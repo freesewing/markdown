@@ -9,7 +9,7 @@ into our repository, where they will be picked up and merged by one of the devel
 Here's what you need to know to get started:
 
  - Crowdin link: https://crowdin.com/project/fs-markdown
- - Request an invite: https://gitter.im/freesewing/freesewing
+ - Request an invite: https://gitter.im/freesewing/help
 
 <Tip>
 

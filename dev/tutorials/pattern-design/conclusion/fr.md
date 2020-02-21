@@ -27,7 +27,7 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 
 Maintenant que vous avez appris comment réaliser un patron, pourquoi ne pas vous lancer dans un nouveau ?
 
-Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/freesewing) et nous vous donnerons un coup de main.
+Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/design) et nous vous donnerons un coup de main.
 
 <Note>
 
@@ -36,7 +36,7 @@ Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. 
 You could do as a real favor by letting us know what you loved or hated about this tutorial.
 
 Y avait-il des parties pas très claires ? Est-ce que nous nous sommes trop attardés sur un sujet, ou au contraire sommes-nous passés trop vite sur un autre sujet ?
-You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/development)
 
 </Note>
 

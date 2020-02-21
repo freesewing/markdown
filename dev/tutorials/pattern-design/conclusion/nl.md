@@ -27,7 +27,7 @@ Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvo
 
 Je hebt nu geleerd hoe je een patroon ontwerpt. Tijd om je kennis in praktijk om te zetten!
 
-Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of je hebt hulp of advies nodig, dan kan je terecht in onze [chatroom](https://gitter.im/freesewing/freesewing). We helpen je graag.
+Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of je hebt hulp of advies nodig, dan kan je terecht in onze [chatroom](https://gitter.im/freesewing/design). We helpen je graag.
 
 <Note>
 
@@ -36,7 +36,7 @@ Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of
 You could do as a real favor by letting us know what you loved or hated about this tutorial.
 
 Was er iets onduidelijk? Deden we te lang over één onderwerp of zijn we te snel over iets anders heengegaan?
-You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/freesewing)
+You feedback helps us improve things, so don't be shy and [tell us what you think](https://gitter.im/freesewing/development)
 
 </Note>
 

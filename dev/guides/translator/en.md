@@ -23,7 +23,7 @@ We currently support the following five languages:
 
 If you'd like to start working on a new language, that's great, but a bit
 beyond the scope of this documentation. So in that case, 
-please [come and talk to us on Gitter](https://gitter.im/freesewing/freesewing).
+please [come and talk to us on Gitter](https://gitter.im/freesewing/translation).
 
 ## Translation
 
@@ -43,6 +43,6 @@ translation, and adapting other things (like dates) to the local language.
 </Note>
 
 To get started, you will need to be invited as a translator. No need to worry,
-simply [let us know you'd like to help out](https://gitter.im/freesewing/freesewing) and
+simply [let us know you'd like to help out](https://gitter.im/freesewing/translation) and
 we'll add you.
 
