@@ -19,7 +19,7 @@ We currently support the following five languages:
   - **fr** : French
   - **nl** : Dutch
 
-If you'd like to start working on a new language, that's great, but a bit beyond the scope of this documentation. So in that case, please [come and talk to us on Gitter](https://gitter.im/freesewing/freesewing).
+If you'd like to start working on a new language, that's great, but a bit beyond the scope of this documentation. So in that case, please [come and talk to us on Gitter](https://gitter.im/freesewing/translation).
 
 ## Translation
 
@@ -38,5 +38,5 @@ translation, and adapting other things (like dates) to the local language.
 
 </Note>
 
-To get started, you will need to be invited as a translator. No need to worry, simply [let us know you'd like to help out](https://gitter.im/freesewing/freesewing) and we'll add you.
+To get started, you will need to be invited as a translator. No need to worry, simply [let us know you'd like to help out](https://gitter.im/freesewing/translation) and we'll add you.
 
