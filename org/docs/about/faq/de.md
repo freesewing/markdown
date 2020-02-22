@@ -2,13 +2,13 @@
 title: Häufig gestellte Fragen
 ---
 
-## Warum muss ich ein Benutzerkonto erstellen, nur um ein Muster herunterzuladen?
+## Why do I need to create an account to download a made-to-measure pattern?
 
-Aus praktischen Gründen. Da wir maßgeschneiderte Schnittmuster erzeugen, benötigen wir Ihre Maße, um ein Schnittmuster für Sie zu erstellen. Wir müssen auch wissen, ob Sie metrische oder imperiale Maßeinheiten verwenden.
+Aus praktischen Gründen. To generate made-to-measure sewing patterns, we need your measurements.
 
-Wenn wir Sie jedes Mal nach Informationen müssten, wäre dies eher umständlich, daher speichern wir diese Informationen für Sie. Und in Ihrem Benutzerkonto werden diese Informationen hinterlegt.
+Asking for them every time would be rather tedious, so we need to store this information. Und in Ihrem Benutzerkonto werden diese Informationen hinterlegt.
 
-Wir könnten diese Seite prinzipiell so aufbauen, dass ein Konto nicht benötigt wird, dies wäre in der Realität jedoch sehr unpraktisch.
+Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
 
 <Note>
 
@@ -22,11 +22,13 @@ Dies Frage deutet oft auf ein Unbehagen, ein Benutzerkonto zu erstellen, hin. As
 
 </Note>
 
-## I know my size. So why do I have to enter my measurements?
+## I know my size, but your pattern doesn't fit me
+
+The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
 
 Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
 
-No need to despair though, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) and to the best of our knowledge, FreeSewing is the only one on that list to not provide sewing patterns in standardized sizes.
+Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
 
 ## What are you doing with my personal data?
 
@@ -50,7 +52,7 @@ You can be a patron for as little as 2 euro per month. So why not
 
 Yes you can. Open Source is a development model, not a business model.
 
-If our work can help you put food on the table, by all means take it.
+If our work can help you put food on the table, by all means go ahead.
 
 ## What's your end game?
 
