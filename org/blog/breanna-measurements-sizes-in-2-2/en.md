@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12
+date: 2020-02-22
 title: "A look at what's new in FreeSewing 2.2, including Breanna, our bodice block for womenswear"
 linktitle: "A look at what's new in FreeSewing 2.2"
 img: drops.jpg
