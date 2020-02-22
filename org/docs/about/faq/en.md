@@ -2,17 +2,16 @@
 title: Frequently asked questions
 ---
 
-## Why do I need to create an account just to download a pattern?
+## Why do I need to create an account to download a made-to-measure pattern?
 
-For practical reasons. As we generate made-to-measure
-sewing patterns, we need your measurements to generate a pattern for you.
-We also need to know whether you use metric or imperial units.
+For practical reasons. 
+To generate made-to-measure sewing patterns, we need your measurements.
 
-Asking you this information every time would be rather tedious, so we need to store 
+Asking for them every time would be rather tedious, so we need to store 
 this information. And your account is where we do that.
 
-So while we could in principle build this site in such a way that an account is not
-required, it would just be hopelessly inpractical.
+Without a way to store your measurements, generating made-to-measure patterns
+would be hopelessly inpractical.
 
 <Note>
 
@@ -27,15 +26,17 @@ creating an account. As such, the following questions and answers may also be re
 
 </Note>
 
-## I know my size. So why do I have to enter my measurements?
+## I know my size, but your pattern doesn't fit me
+
+The standard sizes we offer are there to allow you to discover our platform without
+the need to create an account. We advice against using them as-is.
 
 Drafting made-to-measure sewing patterns really is *our thing*.  
 If you insist on getting a pattern in a standard size, FreeSewing is not for you.
 
-No need to despair though, Fiona curates 
-[a list of indie pattern designers](https://chainstitcher.blogspot.com/p/about-blog.html) 
-and to the best of our knowledge, FreeSewing is the only one on that list to not 
-provide sewing patterns in standardized sizes.
+Thankfully, Fiona curates 
+[a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html)
+, so you have plenty of alternatives.
 
 ## What are you doing with my personal data?
 
@@ -59,7 +60,7 @@ You can be a patron for as little as 2 euro per month. So why not
 
 Yes you can. Open Source is a development model, not a business model.
 
-If our work can help you put food on the table, by all means take it.
+If our work can help you put food on the table, by all means go ahead.
 
 ## What's your end game?
 
