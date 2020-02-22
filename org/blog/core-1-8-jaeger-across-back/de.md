@@ -38,13 +38,13 @@ Aber keine Sorge, es gibt auch vernünftige Standardwerte, so dass Sie genauso g
 
 Apropos vernünftige Vorgaben: Jaeger ist nicht das Einzige, was an Freewing Core 1.8.0, das heute erhältlich ist, neu ist.
 
-Wir haben auch das Mass *Rückenbreite * abgeschafft.
+Wir haben auch das Mass *Rückenbreite* abgeschafft.
 
 Die Rückenbreite hat bei unseren Anwendern für große Verwirrung gesorgt. Meistens, wenn jemand mit uns Kontakt aufnahm, weil sein Muster unrealistisch aussah, war eine unmögliches Rückenbreitenmass schuld.
 
 Die Wurzeln des Rückenbreitenmass gehen auf eine Zeit zurück, in der wir anstelle des *Schulter-zu-Schulter-* Mass, das wir jetzt verwenden, das *Schulterlänge-* Mass verwendet hatten. Dieses war auch Quelle einiger Verwirrung, also haben wir es zugunsten des *Schulter-zu-Schulter-* Mass eingestellt.
 
-Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter* Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass*mit ausreichender Genauigkeit extrapolieren können. Also, anstatt Sie im die Angabe zu bitten, errechnen wir diese jetzt einfach.
+Die Sache ist die, dass, wenn wir das *Schulter-zu-Schulter* Mass kennen, wir mit angemessener Genauigkeit das *Rückenbreitenmass* mit ausreichender Genauigkeit extrapolieren können. Also, anstatt Sie im die Angabe zu bitten, errechnen wir diese jetzt einfach.
 
 ### Aber Sie vereinfachen das Muster zu sehr
 
@@ -52,7 +52,7 @@ Dies ist nicht der Fall *dieses Schnittmuster kommt mit 38 Optionen*. Als ob die
 
 Das Ersetzen einer Messung durch einen errechneten Wert, der auf der Grundlage einer anderen Messung generiert wird, mag dem entgegengesetzt erscheinen, aber es besteht kein Grund zur Sorge. Wir haben dafür gesorgt, dass Sie sich immer noch und die Passform am Rücken kümmern können.
 
-Muster, die früher die *die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.</p>
+Muster, die früher die die Rückenbreite als Mass erforderten, haben nun eine neue erweiterte Option: den *Rückenfaktor*. Es erlaubt Ihnen, die Berechnung Ihrer Rückenbreite zu optimieren, stellt aber sicher, dass diese innerhalb sinnvoller Parameter bleibt.
 
 ![Der Rückenbreitenfaktor](acrossback.png)
 
