@@ -2,13 +2,13 @@
 title: Vaak gestelde vragen
 ---
 
-## Waarom moet ik een account aanmaken vooraleer ik een patroon kan downloaden?
+## Why do I need to create an account to download a made-to-measure pattern?
 
-Om praktische redenen. Aangezien we op-maat-gemaakte patronen genereren hebben we je maten nodig om een patroon voor jou te genereren. We moeten ook weten of je metrische of imperiale (duim) eenheden gebruikt.
+Om praktische redenen. To generate made-to-measure sewing patterns, we need your measurements.
 
-Jou elke keer opnieuw om deze informatie vragen gaat snel vervelen, dus willen we deze informatie opslaan. En jouw account is waar we deze info opslaan.
+Asking for them every time would be rather tedious, so we need to store this information. En jouw account is waar we deze info opslaan.
 
-Dus hoewel we in principe een website kunnen bouwen waar een account niet nodig is, zou dat hopeloos onpraktisch zijn.
+Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
 
 <Note>
 
@@ -22,21 +22,23 @@ Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van 
 
 </Note>
 
-## Ik ken mijn maat. Waarom moet ik dan mijn maten invoeren?
+## I know my size, but your pattern doesn't fit me
 
-Het genereren van op-maat-gemaakte patronen *is wat we doen*. Als je vasthoudt aan een patroon in een standaard maat, dan is FreeSewing niet voor jou bedoelt.
+The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
 
-Geen nood, Fiona publiceert [een lange lijst](https://chainstitcher.blogspot.com/p/about-blog.html) van indie patroon ontwerpers, en voor zover we weten is FreeSewing de enige op die lijst die op-maat-gemaakte patronen aanbiedt.
+Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+
+Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
 
 ## Wat doen jullie met mijn persoonlijke gegevens?
 
-Hoe we met je persoonlijke gegevens omgaan, is gedocumenteerd in [ons privacybeleid](/docs/about/privacy/).
+How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
 
 ## Wie betaalt dit allemaal?
 
-Het freesewing project wordt financieel ondersteund door [onze mecenassen](/patrons).
+The FreeSewing project is supported financially by [our patrons](/patrons).
 
-Mecenassen zijn gewone gebruikers zoals jij, die zich engageren om een kleine maandelijkse bijdrage te leveren om FreeSewing gaande te houden.
+Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
 
 <Note>
 
@@ -48,12 +50,12 @@ Je kan een beschermheer zijn voor minder dan 2 euro per maand. Dus waarom wordt 
 
 ## Mag ik FreeSewing patronen voor commerciële doeleinden gebruiken?
 
-Ja dat mag. Open Source is een ontwikkelingsmodel, geen bedrijfsmodel.
+Yes you can. Open Source is a development model, not a business model.
 
-Als ons werk U kan helpen voedsel op tafel te brengen, dan moet U het in ieder geval gebruiken.
+If our work can help you put food on the table, by all means go ahead.
 
 ## Wat is jullie uiteindelijke bedoeling?
 
-We willen dat FreeSewing.org de WikiPedia van naaipatronen wordt.
+We would like freesewing.org to become the WikiPedia of sewing patterns.
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. In plaats daarvan willen we makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en deze informatie wereldwijd beschikbaar te maken. 
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
