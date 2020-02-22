@@ -1,5 +1,5 @@
 ---
-title: Conception de patron
+title: About our patterns
 ---
 
 <ReadMore root='docs/about/patterns' />

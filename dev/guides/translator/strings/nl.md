@@ -7,7 +7,11 @@ Crowdin makes translations of strings very easy. If you provide the translation,
 Hier is wat je moet weten om aan de slag te gaan:
 
  - Crowdin link: https://crowdin.com/project/freesewing
+<<<<<<< HEAD
  - Verzoek een uitnodiging: https://gitter.im/freesewing/translation
+=======
+ - Request an invite: https://gitter.im/freesewing/translation
+>>>>>>> translation
 
 ## Syntax
 

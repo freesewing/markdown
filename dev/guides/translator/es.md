@@ -1,6 +1,5 @@
 ---
 title: Documentation for translators
-order: 740
 ---
 
 Freesewing is proudly multilingual, and for this we depend on translators to help us.
