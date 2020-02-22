@@ -2,13 +2,13 @@
 title: Foire Aux Questions (FAQ)
 ---
 
-## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
+## Why do I need to create an account to download a made-to-measure pattern?
 
-Pour des raisons pratiques. Comme nous générons des patrons de couture sur mesure, nous avons besoin de vos mensurations pour générer un patron adapté pour vous. Nous devons également savoir si vous utilisez des unités métriques ou impériales.
+Pour des raisons pratiques. To generate made-to-measure sewing patterns, we need your measurements.
 
-Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous devons stocker ces informations. Et c'est sur votre compte que nous le faisons.
+Asking for them every time would be rather tedious, so we need to store this information. Et c'est sur votre compte que nous le faisons.
 
-Alors que nous pourrions en principe construire ce site de manière à ce qu'aucun compte ne soit requis, ça ne serait tout simplement pas pratique du tout.
+Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
 
 <Note>
 
@@ -22,21 +22,23 @@ Cette question suggère souvent une méfiance liée à la création d'un compte.
 
 </Note>
 
-## Je connais ma taille. Donc pourquoi devrais-je entrer mes mensurations ?
+## I know my size, but your pattern doesn't fit me
 
-La conception de patron de couture sur mesure est vraiment *notre spécialité*. Si vous insistez pour obtenir un patron de taille standard, FreeSewing n'est pas fait pour vous.
+The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
 
-Pas besoin de désespérer donc, Fiona fournit [une liste de concepteurs de patrons indépendants](https://chainstitcher.blogspot.com/p/about-blog.html) et à notre connaissances, FreeSewing est le seul sur cette liste à ne pas proposer des patrons de couture en tailles standards.
+Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+
+Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
 
 ## Que faites-vous de mes données personnelles ?
 
-La manière dont nous traitons vos données personnelles est documentée dans [notre politique de confidentialité](/docs/about/privacy/).
+How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
 
 ## Qui paie pour tout ça ?
 
-Le projet FreeSewing est soutenu financièrement par [nos mécènes](/patrons).
+The FreeSewing project is supported financially by [our patrons](/patrons).
 
-Les mécènes sont des utilisateurs réguliers comme vous qui ont accepté de faire une petite contribution mensuelle pour le maintien et le fonctionnement de Freesewing.
+Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
 
 <Note>
 
@@ -48,12 +50,12 @@ Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas
 
 ## Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
 
-Oui, vous pouvez. L'Open Source est un modèle de développement, pas un modèle d'affaires.
+Yes you can. Open Source is a development model, not a business model.
 
-Si notre travail peut vous aider à joindre les deux bouts, alors profitez-en.
+If our work can help you put food on the table, by all means go ahead.
 
 ## Quel est votre objectif ?
 
-Nous aimerions que freesewing.org devienne le Wikipédia des patrons de couture.
+We would like freesewing.org to become the WikiPedia of sewing patterns.
 
-Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons plutôt donner des moyens de faire aux créateurs et réalisateurs en distillant les connaissances de la communauté couturière à travers des patrons et de la documentation, tout en rendant ces informations disponibles au plus grand nombre. 
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
