@@ -2,4 +2,4 @@
 title: 03|Best practices
 ---
 
-<ReadMore />
+<ReadMore root='guides/best-practices' />
