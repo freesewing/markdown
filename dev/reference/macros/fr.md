@@ -10,5 +10,5 @@ Pour plus d'informations sur une macro spécifique et des exemples, suivez le li
 
 </Tip>
 
-<ReadMore title="List of macros" />
+<ReadMore root='reference/macros' title="List of macros" />
 
