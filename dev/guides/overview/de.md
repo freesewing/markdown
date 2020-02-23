@@ -17,4 +17,4 @@ Very few people straddle both worlds, so as you start using FreeSewing, chances 
 
 If you are familiar with SVG, if you know about Bézier curves, you should jump ahead to [Building blocks](/guides/overview/building-blocks). If not, go through the [Good to know](/guides/overview/about/) section for a 5-minutes crash-course.
 
-<ReadMore />
+<ReadMore root='guides/overview' box>
