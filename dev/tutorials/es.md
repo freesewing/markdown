@@ -2,5 +2,5 @@
 title: Tutorials
 ---
 
-<ReadMore />
+<ReadMore root='tutorials' />
 
