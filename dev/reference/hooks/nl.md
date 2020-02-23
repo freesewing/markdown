@@ -9,4 +9,4 @@ You can register a method for a hook. When the hook is triggered, your method wi
  - An object relevant to the hook (see the specific hook for details)
  - Data passed when the hook was registered (optional)
 
-<ReadMore title="Available hooks"/>
+<ReadMore root='reference/hooks' title="Available hooks"/>
