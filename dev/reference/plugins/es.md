@@ -2,4 +2,4 @@
 title: Plugins
 ---
 
-<ReadMore />
+<ReadMore root='reference/plugins' />
