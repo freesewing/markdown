@@ -2,4 +2,4 @@
 title: Howtos
 ---
 
-<ReadMore />
+<ReadMore reference='howtos' />

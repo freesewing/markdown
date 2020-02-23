@@ -350,6 +350,18 @@ paths.demo = new Path()
 snippets.end = new Snippet("notch", paths.demo.end());
 ```
 
+## insop()
+
+```js
+Path path.insop(string id, Path path)
+```
+
+Injects a Path into the [`noop` operation](#noop) with id `id`.
+
+### Path.insop() example
+
+<Fixme>Add example</Fixme>
+
 ## intersects()
 
 ```
@@ -648,6 +660,18 @@ points.to = new Point(50, 20)
 paths.noline = new Path().move(points.to);
 ```
 
+## noop()
+ 
+```js
+Path path.noop(string id)
+```
+
+Adds a placeholder path opertion.  
+A `noop` operation does nothing, but is intended to be replaced later with [`Path.insop()`](#insop).
+
+### Path.noop() example
+
+<Fixme>Add example</Fixme>
 
 ## offset()
  

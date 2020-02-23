@@ -10,13 +10,13 @@ See also: [The hooks API reference](/reference/hooks/)
 
 A **hook** is a lifecycle event. The available hooks are:
 
- -  [preRender](#prerender): Called at the start of [`Pattern.render()`](/api/pattern#render)
- -  [postRender](#postrender): Called at the end of [`Pattern.render()`](/api/pattern#render)
- -  [insertText](#inserttext): Called when inserting text
- -  [preDraft](#predraft): Called at the start of [`Pattern.draft()`](/api/pattern#draft)
- -  [postDraft](#postdraft): Called at the end of [`Pattern.draft()`](/api/pattern#draft)
- -  [preSample](#presample): Called at the start of [`Pattern.sample()`](/api/pattern#sample)
- -  [postSample](#postsample): Called at the end of [`Pattern.sample()`](/api/pattern#sample)
+ -  [preRender](/reference/hooks/prerender/): Called at the start of [`Pattern.render()`](/reference/api/pattern#render)
+ -  [postRender](/reference/hooks/postrender/): Called at the end of [`Pattern.render()`](/reference/api/pattern#render)
+ -  [insertText](/reference/hooks/inserttext/): Called when inserting text
+ -  [preDraft](/reference/hooks/predraft/): Called at the start of [`Pattern.draft()`](/reference/api/pattern#draft)
+ -  [postDraft](/reference/hooks/postdraft/): Called at the end of [`Pattern.draft()`](/reference/api/pattern#draft)
+ -  [preSample](/reference/hooks/presample/): Called at the start of [`Pattern.sample()`](/reference/api/pattern#sample)
+ -  [postSample](/reference/hooks/postsample/): Called at the end of [`Pattern.sample()`](/reference/api/pattern#sample)
 
 You can register a method for a hook. When the hook is triggered, your method will be
 called. It will receive two parameters:

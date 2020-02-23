@@ -19,7 +19,7 @@ and details a number of important things about the pattern, like:
 
 ###### See also:
 
- - The [configuration](/config) reference
+ - The [configuration](/reference/config/) reference
 
 </Note>
 

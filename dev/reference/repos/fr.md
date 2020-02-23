@@ -2,4 +2,4 @@
 title: Repositories
 ---
 
-<ReadMore />
+<ReadMore root='reference/repos' />

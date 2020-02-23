@@ -6,9 +6,9 @@ title: Macros
 
 <Tip>
 
-Pour plus d'informations sur une macro spécifique et des exemples, suivez le lien vers le plugin qui fournit la macro.
+For more info on a specific macro and examples, follow the link to the plugin that provides the macro.
 
 </Tip>
 
-<ReadMore title="List of macros" />
+<ReadMore root='reference/macros' title="List of macros" />
 

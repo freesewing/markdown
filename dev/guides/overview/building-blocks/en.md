@@ -48,4 +48,4 @@ That part is outside the scope of this text.
 
 </Note>
 
-<ReadMore /> 
+<ReadMore root='guides/overview/building-blocks' box /> 

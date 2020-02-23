@@ -10,5 +10,5 @@ For more info on a specific macro and examples, follow the link to the plugin th
 
 </Tip>
 
-<ReadMore title="List of macros" />
+<ReadMore root='reference/macros' title="List of macros" />
 
