@@ -14,7 +14,7 @@ A pattern's [configuration](/reference/config/) is created by the pattern design
 
 ###### See also:
 
- - The [configuration](/config) reference
+ - The [configuration](/reference/config/) reference
 
 </Note>
 
