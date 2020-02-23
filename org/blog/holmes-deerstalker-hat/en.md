@@ -17,7 +17,7 @@ Unfortunately, we were just rounding
 up [the rollout of v2.2 of FreeSewing](/blog/breanna-measurements-sizes-in-2-2/), and it was
 too late to squeeze in this extra pattern.
 
-But Obviously we love this hat, not to mention that it it the perfect accessory for
+But obviously we love this hat, not to mention that it is the perfect accessory for
 our [Carlton](/designs/carlton/) and [Carlita](/designs/carlita/) patterns. So here it
 is, [FreeSewing 2.3](https://github.com/freesewing/freesewing/releases/tag/v2.2.0)
 with [the new Holmes pattern](/designs/holmes/).
