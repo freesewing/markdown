@@ -2,5 +2,5 @@
 title: Reference
 ---
 
-<ReadMore />
+<ReadMore root='reference' />
 
