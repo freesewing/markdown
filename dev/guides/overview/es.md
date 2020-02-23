@@ -29,4 +29,8 @@ to [Building blocks](/guides/overview/building-blocks).
 If not, go through the [Good to know](/guides/overview/about/) section for a 5-minutes 
 crash-course. 
 
+<<<<<<< HEAD
 <ReadMore root='guides/overview' box/>
+=======
+<ReadMore root='guides/overview' box>
+>>>>>>> translation

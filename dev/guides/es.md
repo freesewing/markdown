@@ -2,4 +2,4 @@
 title: Guides
 ---
 
-<ReadMore root='guides' />
+<ReadMore root='guides' recurse />

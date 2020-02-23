@@ -45,4 +45,4 @@ Without authentication:
 |🔓|`GET`|`/patrons`| [Paton list](/reference/backend/users/#patron-list) |
 
 
-<ReadMore root='reference/backend' />
+<ReadMore root='reference/backend' box />
