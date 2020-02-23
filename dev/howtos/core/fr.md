@@ -2,4 +2,4 @@
 title: Core library
 ---
 
-<ReadMore />
+<ReadMore root='howtos/core' />
