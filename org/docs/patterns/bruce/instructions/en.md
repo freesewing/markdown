@@ -1,8 +1,4 @@
-<Tip>
-
-We have a video series that shows how to make Bruce: [From Scratch: Boxer Briefs on YouTube](https://www.youtube.com/watch?v=C6cpqEPWRwc&list=PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3)
-
-</Tip>
+<YouTube id='PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3' playlist />
 
 ### Step 1: Join back to first side
 
