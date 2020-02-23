@@ -10,4 +10,4 @@ called. It will receive two parameters:
  - An object relevant to the hook (see the specific hook for details)
  - Data passed when the hook was registered (optional)
 
-<ReadMore reference='reference/hooks' title="Available hooks"/>
+<ReadMore root='reference/hooks' title="Available hooks"/>

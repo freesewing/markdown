@@ -2,4 +2,4 @@
 title: Howtos
 ---
 
-<ReadMore reference='howtos' />
+<ReadMore root='howtos' recurse />
