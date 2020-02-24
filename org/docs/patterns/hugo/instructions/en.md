@@ -13,7 +13,7 @@ Text a bit dry for you? I try to make videos available as part of the pattern do
 
 This 6-episode series shows you how to make your hoodie start to finish:
 
-@[youtube](https://www.youtube.com/playlist?list=PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO)
+<YouTube id='PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO' playlist />
 
 ## Construction
 

@@ -2,20 +2,16 @@
 title: Double welt pockets
 ---
 
-> ##### Learn welts with David Page Coffin
-> 
-> The November 2015 edition of [Seamwork Magazine](https://www.seamwork.com/) has a section called [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt) where David Page Coffin walks you through the construction of welt pockets.
-> 
-> David has written various books on trouser and shirt construction, teaches online sewing classes, and hosts workshops throughout the US, and abroad.
-> 
-> David is a friend of the site, and by all measures much better at explaining this than I am.
-
 ## Video
-> Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+<YouTube id='PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn' playlist />
 
-The embedded playlist below contains both parts in the [How to: Double welt pockets](https://www.youtube.com/watch?v=u1iNrVtPbco&list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn) series.
+## Learn welts with David Page Coffin
 
-@[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn)
+The November 2015 edition of [Seamwork Magazine](https://www.seamwork.com/) has a section called [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt) where David Page Coffin walks you through the construction of welt pockets.
+
+David has written various books on trouser and shirt construction, teaches online sewing classes, and hosts workshops throughout the US, and abroad.
+
+David is a friend of the site, and by all measures much better at explaining this than I am.
 
 ## Before you start
 

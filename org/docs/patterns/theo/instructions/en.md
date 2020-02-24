@@ -5,9 +5,9 @@ Text a bit dry for you? I try to make videos available as part of the pattern do
 
 In this particular case, there's a lot of video material available, but it was originally recorded for a previous version of this pattern. Still, good stuff.
 
-@[youtube](https://www.youtube.com/embed/videoseries?list=PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM)
-
 </Note>
+
+<YouTube id='PL1gv5yv3DoZOcmOJf6f0YWi522VXXv-mM' playlist />
 
 <Note>
 

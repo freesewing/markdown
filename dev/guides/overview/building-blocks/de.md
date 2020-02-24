@@ -48,4 +48,8 @@ That part is outside the scope of this text.
 
 </Note>
 
+<<<<<<< HEAD
 <ReadMore root='guides/overview/building-blocks' /> 
+=======
+<ReadMore root='guides/overview/building-blocks' box /> 
+>>>>>>> translation

@@ -96,14 +96,5 @@ Ich denke, das kann ich das jetzt tun. Und wenn Sie Verbesserungspotenzial sehen
 
 <small>PS: Für diejenigen von euch, die sich über den Titel dieses Beitrags Gedanken machen:</small>
 
-@[youtube](oFRbZJXjWIA)
-
-
-
-
-
-
-
-
-
+<YouTube id='oFRbZJXjWIA' />
 

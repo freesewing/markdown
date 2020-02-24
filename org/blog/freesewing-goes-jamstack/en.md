@@ -100,14 +100,5 @@ I think if nothing else, I can do that now. And if you see room for improvement,
 
 <small>PS: For those of you wondering about the title of this post:</small>
 
-@[youtube](oFRbZJXjWIA)
-
-
-
-
-
-
-
-
-
+<YouTube id='oFRbZJXjWIA' />
 

@@ -11,7 +11,7 @@ npm init freesewing-pattern
 This will load a few dependencies, and then ask you the following questions:
 
  - **Language**: Use the arrow keys to select the language of your choice
- - **Pattern name**: Enter `tutorial` 
+ - **Pattern name**: Enter `tutorial`
  - **description**: Enter `The FreeSewing tutorial`
  - **Pattern type**: Use the arrow key to select `Pattern`
  - **Department**: Use the arrow keys to select `Accessories`
@@ -27,8 +27,7 @@ This will take a few minutes because we're loading some software for your develo
 
 </Note>
 
-When it's ready, you'll need to run two commands in parallel. In the current terminal,
-enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
+When it's ready, you'll need to run two commands in parallel. In the current terminal, enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
 
 ```bash
 cd tutorial
@@ -71,3 +70,4 @@ If you run into any issues, join [our chatroom](https://gitter.im/freesewing/dev
 we'll figure it out together.
 
 </Note>
+
