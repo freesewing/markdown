@@ -27,7 +27,7 @@ It included the following passage under the *Face masks don’t work* myth:
 
 This only focusses on preventing you from getting coronavirus. 
 There's also the fact that the mask can help (a bit) in keeping you from spreading it further.
-Because the way things or going right now, it looks like we should do every little thing we can to try to slow this thing down.
+Because the way things are going right now, it looks like we should do every little thing we can to try to slow this thing down.
 
 So when I got home, I set out to rush out a face mask pattern. Common sense says it can't hurt, and apparently there's more to it too. 
 If nothing else, I want a cute face mask, not one of the ugly ones you see on the news.
