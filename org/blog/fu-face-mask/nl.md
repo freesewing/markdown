@@ -12,7 +12,7 @@ The spread of the Covid-19 coronavirus seems relentless and despite the world's 
 
 Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
 
-Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a \[Guardian\]((https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
+Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
 
 > ###### Claim: ‘Face masks don’t work’
 > 
