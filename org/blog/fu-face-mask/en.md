@@ -17,7 +17,7 @@ because those medical ones aren't exactly comfortable.
 
 Whether or not a face mask actually helps is subject of debate. 
 I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. 
-Then — earlier today — I read a [Guardian]((https://www.theguardian.com/) article 
+Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article 
 called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). 
 It included the following passage under the *Face masks don’t work* myth:
 
