@@ -18,7 +18,7 @@ Whether or not a face mask actually helps is subject of debate. I've been to-ing
 > 
 > *Wearing a face mask is not an iron clad guarantee that you won’t get sick – viruses can also transmit through the eyes and tiny viral particles, known as aerosols, can still penetrate masks. However, masks are effective at capturing droplets, which is the main transmission route of coronavirus, and some studies have estimated a roughly five-fold protection versus no barrier. If you are likely to be in close contact with someone infected, a mask cuts the chance of the disease being passed on.*
 
-This only focusses on preventing you from getting coronavirus. There's also the fact that the mask can help (a bit) in keeping you from spreading it further. Because the way things or going right now, it looks like we should do every little thing we can to try to slow this thing down.
+This only focusses on preventing you from getting coronavirus. There's also the fact that the mask can help (a bit) in keeping you from spreading it further. Because the way things are going right now, it looks like we should do every little thing we can to try to slow this thing down.
 
 So when I got home, I set out to rush out a face mask pattern. Common sense says it can't hurt, and apparently there's more to it too. If nothing else, I want a cute face mask, not one of the ugly ones you see on the news.
 
