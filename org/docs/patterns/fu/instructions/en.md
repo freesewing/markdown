@@ -48,12 +48,17 @@ seam allowance to prevent the strip from poking through.
 When it's in place, topstich below the strip (use the line on the pattern as a guide), and close of the 
 encasing at the edges of the strip so it can't move around.
 
-### Step 7: Close open side of the mask
+### Step 7: Close open side of the mask and edge-stitch around the edge
+
+![Edge-stitch around the mask](step7.svg)
 
 With our metal strip in place, it's time to close the side of our mask the we left open to turn it inside out
 and slip in our closure strip.
 
-You can either hand-sew it with a *slip-stitch* or *edge-stitch* it with a sewing machine.
+We are also going to edge-stitch around the entire mask to give our mask some extra stability, and keep
+the lining at the back.
+
+Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
 
 ### Step 8: Attach snaps
 
