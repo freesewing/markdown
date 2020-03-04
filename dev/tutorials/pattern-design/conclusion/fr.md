@@ -27,7 +27,7 @@ Félicitations, vous avez créé votre premier patron. Et tandis que c'est discu
 
 Maintenant que vous avez appris comment réaliser un patron, pourquoi ne pas vous lancer dans un nouveau ?
 
-Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. Si vous vous retrouvez bloqué à n'importe quel étape, ou si vous avez besoin d'aide ou de conseil, vous pouvez [joindre notre chat](https://gitter.im/freesewing/design) et nous vous donnerons un coup de main.
+Réfléchissez à ce que vous aimeriez créer, et réalisez-le tout simplement. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/design) and we'll help you out.
 
 <Note>
 

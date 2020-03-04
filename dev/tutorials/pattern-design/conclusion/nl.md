@@ -27,7 +27,7 @@ Proficiat, je hebt je eerste patroon gemaakt. En oké, het is een redelijk eenvo
 
 Je hebt nu geleerd hoe je een patroon ontwerpt. Tijd om je kennis in praktijk om te zetten!
 
-Bedenk wat je graag zou willen maken, en begin er gewoon aan. Als je vastzit, of je hebt hulp of advies nodig, dan kan je terecht in onze [chatroom](https://gitter.im/freesewing/design). We helpen je graag.
+Bedenk wat je graag zou willen maken, en begin er gewoon aan. If you get stuck at any moment, or need some help or advice, you can [join our chat room](https://gitter.im/freesewing/design) and we'll help you out.
 
 <Note>
 

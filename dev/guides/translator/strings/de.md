@@ -2,9 +2,7 @@
 title: Translating strings
 ---
 
-Crowdin makes translations of strings very easy.   
-If you provide the translation, Crowdin will make sure your changes make it back
-into our repository, where they will be picked up and merged by one of the development people.
+Crowdin makes translations of strings very easy. If you provide the translation, Crowdin will make sure your changes make it back into our repository, where they will be picked up and merged by one of the development people.
 
 Here's what you need to know to get started:
 
@@ -31,8 +29,7 @@ looks like this in Spanish:
 
 ### Placeholders
 
-When you encounter a `{key}` between curly braces, leave it as-is.
-These will be filled in later with the correct value. For example:
+When you encounter a `{key}` between curly braces, leave it as-is. These will be filled in later with the correct value. For example:
 
 ```markup
 {field} saved
