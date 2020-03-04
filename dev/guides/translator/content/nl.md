@@ -7,7 +7,7 @@ Crowdin makes translations of strings very easy. If you provide the translation,
 Hier is wat je moet weten om aan de slag te gaan:
 
  - Crowdin link: https://crowdin.com/project/fs-markdown
- - Verzoek een uitnodiging: https://gitter.im/freesewing/help
+ - Request an invite: https://gitter.im/freesewing/help
 
 <Tip>
 
