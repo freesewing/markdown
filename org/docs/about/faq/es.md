@@ -2,6 +2,27 @@
 title: Frequently asked questions
 ---
 
+## How can I sign up? I never received the E-mail to activate my account!
+
+If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+
+Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
+
+<Note>
+
+##### Users in France are more likely to run into this problem
+
+In in France, several E-mail provider share the same filtering:
+
+ - free.fr
+ - laposte.net
+ - organge.fr
+ - sfr.fr
+
+They are all known to cause issues with deliveries.
+
+</Note>
+
 ## Why do I need to create an account to download a made-to-measure pattern?
 
 For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
