@@ -2,23 +2,45 @@
 title: Vaak gestelde vragen
 ---
 
+## How can I sign up? I never received the E-mail to activate my account!
+
+If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+
+Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
+
+<Note>
+
+##### Users in France are more likely to run into this problem
+
+In in France, several E-mail provider share the same filtering:
+
+ - free.fr
+ - laposte.net
+ - organge.fr
+ - sfr.fr
+
+They are all known to cause issues with deliveries.
+
+</Note>
+
 ## Why do I need to create an account to download a made-to-measure pattern?
 
-Om praktische redenen. To generate made-to-measure sewing patterns, we need your measurements.
+For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
 
-Asking for them every time would be rather tedious, so we need to store this information. En jouw account is waar we deze info opslaan.
+Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
 
 Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
 
 <Note>
 
-##### Vraag je dit omdat je ons niet vertrouwt?
+##### Are you asking because you don't trust us?
 
-Deze vraag wijst vaak op een onderliggend wantrouwen tegenover het aanmaken van een account. Als zodanig kunnen de volgende vragen en antwoorden ook relevant zijn:
+This question often hints at an underlying distrust towards
+creating an account. As such, the following questions and answers may also be relevant:
 
- - [Wat doe je met mijn persoonlijke gegevens? (#what-are-you-doing-with-my-personal-data)
- - [Wie betaalt dit allemaal?](#who-pays-for-of-this)
- - [Wat is jouw einddoel?](#whats-your-end-game)
+ - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
+ - [Who pays for all of this?](#who-pays-for-all-of-this)
+ - [What's your end game?](#whats-your-end-game)
 
 </Note>
 
@@ -30,11 +52,11 @@ Drafting made-to-measure sewing patterns really is *our thing*. If you insist on
 
 Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
 
-## Wat doen jullie met mijn persoonlijke gegevens?
+## What are you doing with my personal data?
 
 How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
 
-## Wie betaalt dit allemaal?
+## Who pays for all of this?
 
 The FreeSewing project is supported financially by [our patrons](/patrons).
 
@@ -42,19 +64,19 @@ Patrons are regular users like you who agreed to make a small monthly contributi
 
 <Note>
 
-##### Word lid van de Freesewing Patrons
-Je kan een beschermheer zijn voor minder dan 2 euro per maand. Dus waarom wordt jij ook geen
-[beschermheer](/patrons/join)?
+##### Join the Freesewing Patrons
+You can be a patron for as little as 2 euro per month. So why not 
+[become a patron](/patrons/join) too?
 
 </Note>
 
-## Mag ik FreeSewing patronen voor commerciële doeleinden gebruiken?
+## Can I use FreeSewing patterns for commercial purposes?
 
 Yes you can. Open Source is a development model, not a business model.
 
 If our work can help you put food on the table, by all means go ahead.
 
-## Wat is jullie uiteindelijke bedoeling?
+## What's your end game?
 
 We would like freesewing.org to become the WikiPedia of sewing patterns.
 
