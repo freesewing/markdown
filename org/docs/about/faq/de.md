@@ -2,19 +2,41 @@
 title: Häufig gestellte Fragen
 ---
 
+## How can I sign up? I never received the E-mail to activate my account!
+
+If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+
+Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
+
+<Note>
+
+##### Users in France are more likely to run into this problem
+
+In in France, several E-mail provider share the same filtering:
+
+ - free.fr
+ - laposte.net
+ - organge.fr
+ - sfr.fr
+
+They are all known to cause issues with deliveries.
+
+</Note>
+
 ## Why do I need to create an account to download a made-to-measure pattern?
 
-Aus praktischen Gründen. To generate made-to-measure sewing patterns, we need your measurements.
+For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
 
-Asking for them every time would be rather tedious, so we need to store this information. Und in Ihrem Benutzerkonto werden diese Informationen hinterlegt.
+Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
 
 Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
 
 <Note>
 
-##### Fragen Sie, weil Sie uns nicht trauen?
+##### Are you asking because you don't trust us?
 
-Dies Frage deutet oft auf ein Unbehagen, ein Benutzerkonto zu erstellen, hin. As such, the following questions and answers may also be relevant:
+This question often hints at an underlying distrust towards
+creating an account. As such, the following questions and answers may also be relevant:
 
  - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
  - [Who pays for all of this?](#who-pays-for-all-of-this)
