@@ -2,16 +2,16 @@
 
 ![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
 
-#### Press interfacing to cuffs
-To make two cuffs, you have cut out your cuff piece four times in fabric, and twice in interfacing.
+#### Repasser l'entoilage thermocollant sur les poignets
+Pour faire les deux poignets, vous avez coupé 4 pièces dans le tissu et 2 pièces dans l'entoilage.
 
-For each cuff, press the interfacing piece to the bad side of the cuff piece.
+Pour chaque poignet, repassez l'entoilage sur l'envers du poignet.
 
-> If the inside and outside of your cuff are the same fabric, it does not matter what cuff piece you press it to.
+> Si l'envers et l'endroit de votre poignet sont coupés dans le même tissu, peu importe le côté sur lequel vous collez l'entoilage.
 > 
-> However, a popular style detail is to have a different fabric for the inside of the cuff. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
+> Cependant, un détail prisé consiste à utiliser un tissu différent pour l'intérieur du poignet. Dans ce cas, assurez vous de coller l'entoilage sur la pièce qui se trouvera à l'extérieur du poignet. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
 
-> Depending on what cuff you have chosen, the shape of the cuff will be different.
+> Selon le poignet que vous avez choisi, la forme du poignet sera différente.
 > 
 > In the first illustration, you can see both a round barrel cuff and a French cuff as example.
 > 
