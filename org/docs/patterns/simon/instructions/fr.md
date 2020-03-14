@@ -127,19 +127,19 @@ Cousez le long du bord de votre pied de col, en respectant la marge de couture s
 
 Repliez la marge de couture du côté non cousu de votre pied de col et repassez.
 
-> In the center part, pressing down the seam allowance will be easy. But towards the tips of your collar, doing so will be tricky without pressing folds in your collar.
+> Au milieu, cela sera facile. Mais vers les pointes de votre col, ce sera difficile de ne pas faire de plis.
 > 
-> Press is as best as you can without making folds in your collar. We'll press this again after flipping the collar out.
+> Repasser de votre mieux sans faire de plis. Nous repasserons à nouveau quand le col sera retourné.
 
-#### Turn collar stand and press
+#### Retourner le col et repasser
 
 ![Retourner le col et repasser](4c.png)
 
-Flip your collar stand with the good sides out, and give it a good press. Make sure to keep the seam allowance on the collar stand folded inwards.
+Retournez votre pied de col sur l'endroit, et donnez un bon coup de fer. Assurez vous de laisser les marges de couture du pied de col repliées à l'intérieur. Voys pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
 You can now put your collar aside, we'll attach it later.
 
-### Step 5: Optional: Sew in your label
+### Etape 5 : coudre votre étiquette
 
 ![Sew in your label](5.png)
 
