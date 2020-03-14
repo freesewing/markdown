@@ -13,11 +13,11 @@ Pour chaque poignet, repassez l'entoilage sur l'envers du poignet.
 
 > Selon le poignet que vous avez choisi, la forme du poignet sera différente.
 > 
-> In the first illustration, you can see both a round barrel cuff and a French cuff as example.
+> Sur la première image, vous pouvez voir un poignet arrondi et un poignet carré par exemple.
 > 
-> Going forward, the round barrel cuff will be used in the illustrations, but the process is the same for the other cuffs.
+> Ci dessous, les images montrent un poignet arrondi, mais le processus est le même pour les autres types de poignets.
 
-#### Press interfacing to collar and undercollar, and collar stand
+#### Repasser l'entoilage thermocollant au col et au sous-col, et au pied de col
 To make your collar, you need to cut one undercollar, one collar, and two collar stands. All of this both in fabric and interfacing.
 
 For each piece, press the interfacing piece to the bad side.
