@@ -143,19 +143,19 @@ You can now put your collar aside, we'll attach it later.
 
 ![Sew in your label](5.png)
 
-Our next step is to attach the yoke. But the yoke is a great place to put your label. So if you'd like to do that, we might as well start with that.
+La prochaine étape consiste à assembler l'empiècement dos. Mais l'empiècement dos est l'endroit idéal pour mettre votre étiquette. Donc si vous voulez le faire, nous pouvons commencer par cela.
 
-Pick one yoke, and you can sew your label on it in the center (on the good side).
+Prenez un des deux empiècements, cousez votre étiquette au milieu (sur l'endroit).
 
-### Step 6: Join the yokes to the back
+### Étape 6 : Assembler les empiècements dos au dos
 
 ![Join the yokes to the back](6a.png) ![Press the yoke](6a.png)
 
-Place one yoke with the good side up. On top of that, place your back with the good side up, aligning the seam where it needs to be attached to the yoke.
+Placez un empiècement dos sur l'envers. Placez dessus votre dos sur l'envers, en l'alignant sur le haut de l'empiècement.
 
-Finally, place your second yoke on top of the back, but with the good side down.
+Enfin, placez sur le tout votre deuxième empiècement, sur l'endroit.
 
-You back should now be sandwiched between the good sides of your two yokes.
+Votre dos doit maintenant être pris en sandwich entre les deux faces endroit des empiècements.
 
 If that's the case, sew them in place along the back/yoke seam, making sure to respect the seam allowance.
 
