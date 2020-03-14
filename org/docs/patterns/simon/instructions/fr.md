@@ -79,25 +79,25 @@ Avant de retourner le col, il faut dégarnir la marge de couture pour enlever l'
 
 Retournez votre col sur l'endroit, rendez les pointes aussi pointues que possible, et donnez un bon coup de fer.
 
-> When pressing your collar, remember that the undercollar is a bit more narrow.
+> Quand vous repassez votre col, souvenez vous que le sous-col est un peu plus étroit.
 > 
-> When you align the non-sewn sides, this will cause the seam to roll towards the backside of the collar to guarantee that the inner fabric of the collar is not visible.
+> Quand vous alignez les côtés non cousus, ceci fera rouler la couture au dos du col, et garantira que la face interne du col ne soit pas visible.
 
-#### Top-stitch collar
+#### Surpiquer le col
 
 ![Top-stitch the collar](3d.png)
 
-Top-stitch along the edge of the collar. This locks down the seam allowance and makes for a crisp look.
+Surpiquez les bords du col. Ceci maintient la marge de couture et donne un aspect impeccable.
 
-> How far you top-stitch from the edge is a style choice. It's often a bit less than the standard seam allowance. Have a look at some existing shirts to get an idea.
+> La distance à partir du bord à laquelle vous surpiquez est une question de choix personnel. C'est souvent un peu moins que la marge de couture. Jetez un coup d'oeil sur des chemises existantes pour vous faire une idée.
 
-### Step 4: Join collar and collar stand
+### Etape 4 : assembler le col et le sous-col
 
-#### Place collar between collar stands and baste in place
+#### Placer le col entre les deux pieds de col et bâtir
 
-![Place collar between collar stands and baste in place](4a.png)
+![Placer le col entre les deux pieds de col et bâtir](4a.png)
 
-Mark the middle point of your collar and your collar stands with a pin. The middle point of each collar stand is actually slightly off-center since one end is longer than the other. Instead, find the middle point between the two notches.
+Marquez le milieu de votre col et de votre pied de col avec une épingle. Le milieu de chaque pied de col est en fait légèrement décentré car un côté est plus long que l'autre. Marquez le point se trouvant au milieu des deux crans.
 
 First place a collar stand with the good side up, then your collar with the undercollar facing up (and the non-sewn side at the top), and finally the second collar stand with the good side down.
 
