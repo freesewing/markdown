@@ -157,11 +157,11 @@ Enfin, placez sur le tout votre deuxième empiècement, sur l'endroit.
 
 Votre dos doit maintenant être pris en sandwich entre les deux faces endroit des empiècements.
 
-If that's the case, sew them in place along the back/yoke seam, making sure to respect the seam allowance.
+Si c'est le cas, cousez le dos et les empiècements ensemble, en respectant la marge de couture.
 
-> If you added a label in step 1, make sure to put the yoke with your label at the bad side of your back.
+> Si vous avez ajouté une étiquette à l'étape 5, assurez-vous de mettre l'empiècement portant l'étiquette sur l'envers.
 
-When you're done, don't forget to give it a good press to make the seam lie flat.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer pour que la couture soit bien plate.
 
 ### Step 7: Edge-stitch the yoke
 
