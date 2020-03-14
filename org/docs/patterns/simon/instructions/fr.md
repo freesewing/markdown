@@ -99,33 +99,33 @@ Surpiquez les bords du col. Ceci maintient la marge de couture et donne un aspec
 
 Marquez le milieu de votre col et de votre pied de col avec une épingle. Le milieu de chaque pied de col est en fait légèrement décentré car un côté est plus long que l'autre. Marquez le point se trouvant au milieu des deux crans.
 
-First place a collar stand with the good side up, then your collar with the undercollar facing up (and the non-sewn side at the top), and finally the second collar stand with the good side down.
+Placez d'abord un pied de col sur l'envers, puis votre col, côté entoilé sur le dessus (et côté non cousu en haut), et enfin le deuxième pied de col, sur l'endroit.
 
-You collar should sit between your two collar stands, and the middles (where you placed your pin) should be aligned.
+Votre col doit se trouver entre les deux pieds de col, et les milieux (où vous avez placé vos épingles) doivent être alignés.
 
-> The way things look will depend a little bit on your collar choices, but in general your collar is going to bend downward, and your collar stand will bend upward.
+> L'aspect dépend un peu du col que vous avez choisi, mais en général votre col est courbé vers le bas, et votre pied de col est courbé vers le haut.
 > 
-> To align this all, we are going to baste this together, rather than pin it. Your collar is an important part of your shirt, so it's worth basting this.
+> Pour ajuster le tout, nous allons bâtir, plutôt qu'épingler. Votre col est une partie importante de votre chemise, donc il le mérite.
 
-First, replace the pins marking the middle with a pin that pins all parts together.
+D'abord, remplacer les épingles marquant le milieu par une épingle prenant toutes les pièces ensemble.
 
-Now, start basting from this pin and work your way to the corner of the collar, making sure to align both edges of the fabric.
+Maintenant, commencez à bâtir à partir de cette épingle jusqu'au coin du col, en vous assurant d'aligner les deux bords du tissu.
 
-When you reach the corner of your collar, keep going and baste the end of both collar stands together.
+Lorsque vous atteignez le coin de votre col, continuez et bâtissez les deux pieds de col ensemble.
 
-When you've done one side, start from your pin in the middle again and do this other side. When you're done basting, you can take out the pin.
+Une fois que vous avez fait un côté, repartez de votre épingle au milieu et bâtissez l'autre côté. Une fois que vous avez fini de bâtir, vous pouvez retirer l'épingle.
 
-#### Sew your collar to the collar stands
+#### Coudre votre col sur les pieds de col
 
-![Sew your collar to the collar stands](4b.png)
+![Coudre votre col sur les pieds de col](4b.png)
 
-Sew along the edge of your collar stand, respecting the standard seam allowance.
+Cousez le long du bord de votre pied de col, en respectant la marge de couture standard.
 
 > Make sure to stop 2cm before the edge (twice the standard seam allowance) as we'll be folding the seam allowance over in the next step, and we need to leave the collar stands separated enough to slide the shirt in between them later.
 
-#### Fold back and press the collar stand seam allowance
+#### Replier la marge de couture du pied de col et repassez là
 
-Fold back the seam allowance of your collar stand on the non-sewn side and press it down.
+Repliez la marge de couture du côté non cousu de votre pied de col et repassez.
 
 > In the center part, pressing down the seam allowance will be easy. But towards the tips of your collar, doing so will be tricky without pressing folds in your collar.
 > 
