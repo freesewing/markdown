@@ -18,36 +18,36 @@ Pour chaque poignet, repassez l'entoilage sur l'envers du poignet.
 > Ci dessous, les images montrent un poignet arrondi, mais le processus est le même pour les autres types de poignets.
 
 #### Repasser l'entoilage thermocollant au col et au sous-col, et au pied de col
-To make your collar, you need to cut one undercollar, one collar, and two collar stands. All of this both in fabric and interfacing.
+Pour faire votre col, vous devez couper 1 sous-col, 1 col, et 2 pieds de col. Le tout dans le tissu, et dans l'entoilage thermocollant.
 
-For each piece, press the interfacing piece to the bad side.
+Poser l'entoilage thermocollant sur l'envers de chaque pièce et repassez le.
 
-### Step 2: Prepare the cuffs
+### Préparez les poignets
 
-#### Sew cuff together
+#### Cousez les poignets ensemble
 
 ![Sew the cuffs together](2a.png)
 
-Place both parts of your cuff (one with interfacing, one without) together with the good sides, and sew them together at the standard seam allowance.
+Placez les 2 pièces de vos poignets (l'une entoilée, l'autre non) endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
-> **Make sure to**
+> **Assurez vous de :**
 > 
-> - Do not sew together the side that we will attach to the sleeve later
-> - Stop at the seam allowance distance from the edge on the sleeve side
+> - - ne pas coudre le côté qui sera assemblé à la manche plus tard
+> - - vous arrêter de coudre à la marge de couture, à partir du bord qui sera assemblé à la manche
 
-#### Trim seam allowance
+#### Dégarnir la marge de couture
 
 ![Trim the seam allowance](2b.png)
 
-Before we are going to flip your cuff over, we need to trim back the seam allowance to remove bulk.
+Avant de retourner le poignet, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
-#### Press back seam allowance
+#### Repassez la marge de couture
 
-![Press back seam allowance](2c.png)
+![Repassez la marge de couture](2c.png)
 
-Fold back the seam allowance on the sleeve side, and press it down.
+Sur le côté du poignet qui sera fixé à la manche, repliez la marge de couture, et repassez.
 
-> If you sewed too far along the edge earlier, you will have to unpick a few stitches.
+> Si vous avez cousu trop loin, décousez quelques points.
 
 #### Turn cuff around and press
 
@@ -67,7 +67,7 @@ You can now put your cuffs aside, we'll attach them later.
 
 Place both collar parts together with the good sides, and sew them together at the standard seam allowance.
 
-#### Trim seam allowance
+#### Dégarnir la marge de couture
 
 ![Trim the seam allowance](3b.png)
 
