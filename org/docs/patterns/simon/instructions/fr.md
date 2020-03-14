@@ -22,9 +22,9 @@ Pour faire votre col, vous devez couper 1 sous-col, 1 col, et 2 pieds de col. Le
 
 Poser l'entoilage thermocollant sur l'envers de chaque pièce et repassez le.
 
-### Préparez les poignets
+### Préparer les poignets
 
-#### Cousez les poignets ensemble
+#### Coudre les poignets ensemble
 
 ![Sew the cuffs together](2a.png)
 
@@ -41,43 +41,43 @@ Placez les 2 pièces de vos poignets (l'une entoilée, l'autre non) endroit cont
 
 Avant de retourner le poignet, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
-#### Repassez la marge de couture
+#### Repasser la marge de couture
 
-![Repassez la marge de couture](2c.png)
+![Repasser la marge de couture](2c.png)
 
 Sur le côté du poignet qui sera fixé à la manche, repliez la marge de couture, et repassez.
 
 > Si vous avez cousu trop loin, décousez quelques points.
 
-#### Turn cuff around and press
+#### Retourner le poignet et repasser
 
 ![Turn the cuff around and press](2d.png)
 
-Flip your cuff with the good sides out, and give it a good press.
+Retournez votre poignet sur l'endroit, et donnez un bon coup de fer.
 
-> When pressing your cuffs, make sure to role the seam a bit to the backside of the cuff to guarantee that the inner fabric of the cuff is not visible.
+> Au moment de repasser, assurez vous de faire légèrement rouler la couture vers l'envers du poignet, pour que le tissu utilisé pour la face interne du poignet ne soit pas visible.
 
-You can now put your cuffs aside, we'll attach them later.
+Vous pouvez maintenant mettre vos poignets de côté, nous les attacherons plus tard.
 
-### Step 3: Prepare the collar
+### Etape 3 : Préparer le col
 
 #### Sew collar and undercollar together
 
 ![Sew collarand undercollar together](3a.png)
 
-Place both collar parts together with the good sides, and sew them together at the standard seam allowance.
+Placez les deux pièces du col endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
 #### Dégarnir la marge de couture
 
 ![Trim the seam allowance](3b.png)
 
-Before we are going to flip your collar over, we need to trim back the seam allowance to remove bulk.
+Avant de retourner le col, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
-#### Turn collar and press
+#### Retourner le col et repasser
 
 ![Turn the collar and press](3c.png)
 
-Flip your collar with the good sides out, get those tips as pointy as possible, and give it a good press.
+Retournez votre col sur l'endroit, rendez les pointes aussi pointues que possible, et donnez un bon coup de fer.
 
 > When pressing your collar, remember that the undercollar is a bit more narrow.
 > 
@@ -133,7 +133,7 @@ Fold back the seam allowance of your collar stand on the non-sewn side and press
 
 #### Turn collar stand and press
 
-![Turn collar and press](4c.png)
+![Retourner le col et repasser](4c.png)
 
 Flip your collar stand with the good sides out, and give it a good press. Make sure to keep the seam allowance on the collar stand folded inwards.
 
