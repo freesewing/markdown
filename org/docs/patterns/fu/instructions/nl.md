@@ -51,32 +51,31 @@ Zorg er voor dat de naadwaarde aan de opening aan de zijjant netjes naar binnen 
 
 ### Stap 8: Voeg drukknopen toe
 
-The disposable face masks you see out there come with an elastic attached. As we're making face masks that you can wash and re-use, we'll use snaps to attach our elastic. This way, we can make a several days worth of facemasks, but only need one elastic per person.
+De wegwerp maskers die je overal ziet gaan met een vast elastiekje om je oren. Dat is hier ook een optie, maar omdat we wasbare maskers maken gaan we de elastiek bevestigen met een drukknop. Op die manier kan 1 persoon een reeks maskers wisselen, met dezelfde elastiek.
 
-Attach your snaps in the four corners, in the location indicated on the pattern. You will typically want to put the *male* side of the snap on your mask, and the *female* side on the elastic.
+Zet 1 kant van je drukknopen in de vier hoeken van het masker. Drukknopen hebben 2 helften, dus let erop dat de helft op het masker verschillend is van de helft op de elastiek.
 
 <Tip>
 
-If you're making a bunch of mask so you can regularly replace them, you can stop here.
-The remaining steps are about the elastic to attach our mask, but you only need 1 elastic per person,
-whereas you will probably want multiple masks per person.
+Als je een boel maskers maakt om regelmatig te wisselen kan je hier stoppen.
+De volgende stappen leggen uit hoe je een herbruikbare elastiek kan maken. In dit scenario heb je 1 elastiek per persoon, maar meedere maskers.
 
 </Tip>
 
-### Step 9: Measure elastic
+### Stap 9: Meet elastiek
 
-Your face mask is now ready, apart from the fact that we need a way to keep it on our face. That's where the elastic comes in.
+Je masker is nu klaar, alleen heb je nog een manier nodig om het op je gezicht te houden. Daarvoor hebben we elastiek.
 
-You have two choices:
+Je hebt twee keuzes:
 
- - Run an elastic cord around your ears. This is what you see in the disposable masks because it's cheap.
- - Run an elastic ribbon around your head. This is a bit better looking and what I would suggest.
+ - Een elastiekje rond je oor. Dit is wat je ziet bij wegwerpmaskers, want het is de goedkoopste oplossing.
+ - Een elastiek rond je hoofd. Dit geeft je een betere pasvorm, en is wat ik zou aanraden.
 
-Regardless what option you choose, measure how long the elastic must be by trying it on and finding a length that strikes a balance between good fit and comfort.
+Welke optie je ook kiest, meet hoe lang de elastiek moet zijn door je masker te passen, en een lengte te zoeken die een goeie balans is tussen pasvorm en comfort.
 
-### Step 10: Attach snaps to the elastic
+### Stap 10: Plaats drukknopen op elastiek
 
-If you opted for an elastic cord, you will need to sew it to a small piece of fabric, leather, foam, or anything that can hold the snap. That's because you can't put a snap on an elastic cord.
+Als je voor een elastieken koordje hebt gekozen kan je het koordje aan een smal stukje stof of leder vastmaken om de nodige plaats te hebben om een drukknop op te bevestigen. Je kan immers geen drukknop plaatsen op dit soort elastiek.
 
 If you went with a (wide) flat ribbon elastic, you should be able to directly attach the snaps to the elastic.
 
