@@ -3,7 +3,7 @@
 
 Sluit de (meest) gebogen naad die het midden van ons masker vormt door beide helften van het masker op elkaar te plaatsen met de goede kant van de stof tegen elkaar.
 
-![Join the center seam](step1.svg)<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
+![Bevestig de middennaad](step1.svg)<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
 
 ### Stap 2: Pers de midden naad
 
@@ -15,7 +15,7 @@ Aangezien dit een gebogen naad is, zal hij niet plat liggen. Gebruik daarom een 
 
 Plaats de voering bovenop de (buiten) stof met de goede kanten tegen elkaar. Naar ze aan elkaar, maar laat een opening aan de zijkant zodat we het hele masker nog kunnen binnenstebuiten draaien.
 
-![Join the inner to the outer fabric](Stap 4: Draai het masker binnenstebuiten)
+![Bevestig de voering aan de buitenstof](Stap 4: Draai het masker binnenstebuiten)
 
 ### Step 4: Draai het masker binnenstebuiten
 
@@ -29,11 +29,11 @@ Nu dat ons masker met de goede kant naar buiten zit is het tijd om te persen.  Z
 
 ### Stap 6: Voer een sluitingstrip (optioneel)
 
-![Insert closure strip](step6.svg)
+![Voeg sluitingstrip toe](step6.svg)
 
 Voor het beste resultaat kan je een metalen sluitingstrip invoegen aan de bovenkant van het masker om beter de contour van de neus te volgen. Met sluitingsstrip bedoel ik zo'n plastic strip met metaal in die gebuikt wordt om verpakkingen te sluiten. Zoals deze:
 
-![Picture of white closure strips](./strips.jpg)
+![Foto van witte sluitingstrips](./strips.jpg)
 
 Plaats de strip bovenaan in het midden van het masker. Je plaats hem tussen de buitenste stof en de lagen naadwaarde, zo vermijd je dat de eindjes door de stof prikken.
 
@@ -41,7 +41,7 @@ Eens op de juiste plek stik je romdom om het ding op z'n plaats te houden.
 
 ### Stap 7: Sluit de zijkant van het masker, en skik helemaal rondom
 
-![Edge-stitch around the mask](step7.svg)
+![Stik helemaal rondom het masker op het randje](step7.svg)
 
 Nu is het tijd om de zijkant van het masker die we hebben opgegelaten dicht te maken.
 
@@ -77,15 +77,15 @@ Welke optie je ook kiest, meet hoe lang de elastiek moet zijn door je masker te 
 
 Als je voor een elastieken koordje hebt gekozen kan je het koordje aan een smal stukje stof of leder vastmaken om de nodige plaats te hebben om een drukknop op te bevestigen. Je kan immers geen drukknop plaatsen op dit soort elastiek.
 
-If you went with a (wide) flat ribbon elastic, you should be able to directly attach the snaps to the elastic.
+Als je voor een bredere vlakke elastiek hebt gekozen kan je de drukknop rechtstreeks op de elastiek bevestigen.
 
 <Note>
 
-Remember, if you put the *male* side of the snaps on your mask, then you should but the *female* sides on your elastic.
+Controleer nog even dat je de juiste helft van de drukknop aan de elastiek vastmaakt, zodat hij klikt met je masker.
 
 </Note>
 
-### Step 11: Wear your mask
+### Stap 11: Draag je masker
 
-That's it, you're done! Now go make a bunch and keep in mind that you will probably want to make a couple of masks and 1 elastic per person.
+Dat is het, je bent klaar! Maak er nu een hele stapel, en denk eraan dat je wellicht voor 1 persoon een aantal maskers kan maken, maar maar 1 elastiek nodig hebt.
 
