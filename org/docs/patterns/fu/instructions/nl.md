@@ -25,31 +25,31 @@ Gebruik de opening aan de zijkant om voorzichtig het hele masker door de opening
 
 ### Stap 4: Pers het masker
 
-Nu dat ons masker met de goede kant naar buiten zit is het tijd om te persen. Zorg eerst dat waar de opening zit aan de zijkant je de naadwaarde netjes naar binnen vouwt, zodat bij het persen alles netjes plat ligt. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+Nu dat ons masker met de goede kant naar buiten zit is het tijd om te persen.  Zorg eerst dat waar de opening zit aan de zijkant je de naadwaarde netjes naar binnen vouwt, zodat bij het persen alles netjes plat ligt.
 
-### Stap 6: Voer een metalen lintje in (optioneel)
+### Stap 6: Voer een sluitingstrip (optioneel)
 
 ![Insert closure strip](step6.svg)
 
-For best results, you should insert a closure strip at the top of your mask so you can shape it to fit your nose. When I say *closure strip* I mean one of them paper or plastic strips with a metal wire inlay, like these:
+Voor het beste resultaat kan je een metalen sluitingstrip invoegen aan de bovenkant van het masker om beter de contour van de neus te volgen. Met sluitingsstrip bedoel ik zo'n plastic strip met metaal in die gebuikt wordt om verpakkingen te sluiten. Zoals deze:
 
 ![Picture of white closure strips](./strips.jpg)
 
-Insert the strip so that it sits in the center of the top seam of your mask. Tuck it between the layers of seam allowance to prevent the strip from poking through.
+Plaats de strip bovenaan in het midden van het masker. Je plaats hem tussen de buitenste stof en de lagen naadwaarde, zo vermijd je dat de eindjes door de stof prikken.
 
-When it's in place, topstich below the strip (use the line on the pattern as a guide), and close of the encasing at the edges of the strip so it can't move around.
+Eens op de juiste plek stik je romdom om het ding op z'n plaats te houden.
 
-### Step 7: Close open side of the mask and edge-stitch around the edge
+### Stap 7: Sluit de zijkant van het masker, en skik helemaal rondom
 
 ![Edge-stitch around the mask](step7.svg)
 
-With our metal strip in place, it's time to close the side of our mask the we left open to turn it inside out and slip in our closure strip.
+Nu is het tijd om de zijkant van het masker die we hebben opgegelaten dicht te maken.
 
-We are also going to edge-stitch around the entire mask to give our mask some extra stability, and keep the lining at the back.
+We stikken ook helemaal rond het masker om het wat meer stabiliteit te geven, en te zorgen dat de voering aan de achterkant blijft.
 
-Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
+Zorg er voor dat de naadwaarde aan de opening aan de zijjant netjes naar binnen is gevouwd, stik dan helemaal rond het masker, net naast het randje.
 
-### Step 8: Attach snaps
+### Stap 8: Voeg drukknopen toe
 
 The disposable face masks you see out there come with an elastic attached. As we're making face masks that you can wash and re-use, we'll use snaps to attach our elastic. This way, we can make a several days worth of facemasks, but only need one elastic per person.
 
