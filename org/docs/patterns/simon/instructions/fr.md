@@ -2,166 +2,166 @@
 
 ![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
 
-#### Press interfacing to cuffs
-To make two cuffs, you have cut out your cuff piece four times in fabric, and twice in interfacing.
+#### Repasser l'entoilage thermocollant sur les poignets
+Pour faire les deux poignets, vous avez coupé 4 pièces dans le tissu et 2 pièces dans l'entoilage.
 
-For each cuff, press the interfacing piece to the bad side of the cuff piece.
+Pour chaque poignet, repassez l'entoilage sur l'envers du poignet.
 
-> If the inside and outside of your cuff are the same fabric, it does not matter what cuff piece you press it to.
+> Si l'envers et l'endroit de votre poignet sont coupés dans le même tissu, peu importe le côté sur lequel vous collez l'entoilage.
 > 
-> However, a popular style detail is to have a different fabric for the inside of the cuff. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
+> Cependant, un détail prisé consiste à utiliser un tissu différent pour l'intérieur du poignet. Dans ce cas, assurez vous de coller l'entoilage sur la pièce qui se trouvera à l'extérieur du poignet. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
 
-> Depending on what cuff you have chosen, the shape of the cuff will be different.
+> Selon le poignet que vous avez choisi, la forme du poignet sera différente.
 > 
-> In the first illustration, you can see both a round barrel cuff and a French cuff as example.
+> Sur la première image, vous pouvez voir un poignet arrondi et un poignet carré par exemple.
 > 
-> Going forward, the round barrel cuff will be used in the illustrations, but the process is the same for the other cuffs.
+> Ci dessous, les images montrent un poignet arrondi, mais le processus est le même pour les autres types de poignets.
 
-#### Press interfacing to collar and undercollar, and collar stand
-To make your collar, you need to cut one undercollar, one collar, and two collar stands. All of this both in fabric and interfacing.
+#### Repasser l'entoilage thermocollant au col et au sous-col, et au pied de col
+Pour faire votre col, vous devez couper 1 sous-col, 1 col, et 2 pieds de col. Le tout dans le tissu, et dans l'entoilage thermocollant.
 
-For each piece, press the interfacing piece to the bad side.
+Poser l'entoilage thermocollant sur l'envers de chaque pièce et repassez le.
 
-### Step 2: Prepare the cuffs
+### Préparer les poignets
 
-#### Sew cuff together
+#### Coudre les poignets ensemble
 
 ![Sew the cuffs together](2a.png)
 
-Place both parts of your cuff (one with interfacing, one without) together with the good sides, and sew them together at the standard seam allowance.
+Placez les 2 pièces de vos poignets (l'une entoilée, l'autre non) endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
-> **Make sure to**
+> **Assurez vous de :**
 > 
-> - Do not sew together the side that we will attach to the sleeve later
-> - Stop at the seam allowance distance from the edge on the sleeve side
+> - - ne pas coudre le côté qui sera assemblé à la manche plus tard
+> - - vous arrêter de coudre à la marge de couture, à partir du bord qui sera assemblé à la manche
 
-#### Trim seam allowance
+#### Dégarnir la marge de couture
 
 ![Trim the seam allowance](2b.png)
 
-Before we are going to flip your cuff over, we need to trim back the seam allowance to remove bulk.
+Avant de retourner le poignet, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
-#### Press back seam allowance
+#### Repasser la marge de couture
 
-![Press back seam allowance](2c.png)
+![Repasser la marge de couture](2c.png)
 
-Fold back the seam allowance on the sleeve side, and press it down.
+Sur le côté du poignet qui sera fixé à la manche, repliez la marge de couture, et repassez.
 
-> If you sewed too far along the edge earlier, you will have to unpick a few stitches.
+> Si vous avez cousu trop loin, décousez quelques points.
 
-#### Turn cuff around and press
+#### Retourner le poignet et repasser
 
 ![Turn the cuff around and press](2d.png)
 
-Flip your cuff with the good sides out, and give it a good press.
+Retournez votre poignet sur l'endroit, et donnez un bon coup de fer.
 
-> When pressing your cuffs, make sure to role the seam a bit to the backside of the cuff to guarantee that the inner fabric of the cuff is not visible.
+> Au moment de repasser, assurez vous de faire légèrement rouler la couture vers l'envers du poignet, pour que le tissu utilisé pour la face interne du poignet ne soit pas visible.
 
-You can now put your cuffs aside, we'll attach them later.
+Vous pouvez maintenant mettre vos poignets de côté, nous les attacherons plus tard.
 
-### Step 3: Prepare the collar
+### Etape 3 : Préparer le col
 
 #### Sew collar and undercollar together
 
 ![Sew collarand undercollar together](3a.png)
 
-Place both collar parts together with the good sides, and sew them together at the standard seam allowance.
+Placez les deux pièces du col endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
-#### Trim seam allowance
+#### Dégarnir la marge de couture
 
 ![Trim the seam allowance](3b.png)
 
-Before we are going to flip your collar over, we need to trim back the seam allowance to remove bulk.
+Avant de retourner le col, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
-#### Turn collar and press
+#### Retourner le col et repasser
 
 ![Turn the collar and press](3c.png)
 
-Flip your collar with the good sides out, get those tips as pointy as possible, and give it a good press.
+Retournez votre col sur l'endroit, rendez les pointes aussi pointues que possible, et donnez un bon coup de fer.
 
-> When pressing your collar, remember that the undercollar is a bit more narrow.
+> Quand vous repassez votre col, souvenez vous que le sous-col est un peu plus étroit.
 > 
-> When you align the non-sewn sides, this will cause the seam to roll towards the backside of the collar to guarantee that the inner fabric of the collar is not visible.
+> Quand vous alignez les côtés non cousus, ceci fera rouler la couture au dos du col, et garantira que la face interne du col ne soit pas visible.
 
-#### Top-stitch collar
+#### Surpiquer le col
 
 ![Top-stitch the collar](3d.png)
 
-Top-stitch along the edge of the collar. This locks down the seam allowance and makes for a crisp look.
+Surpiquez les bords du col. Ceci maintient la marge de couture et donne un aspect impeccable.
 
-> How far you top-stitch from the edge is a style choice. It's often a bit less than the standard seam allowance. Have a look at some existing shirts to get an idea.
+> La distance à partir du bord à laquelle vous surpiquez est une question de choix personnel. C'est souvent un peu moins que la marge de couture. Jetez un coup d'oeil sur des chemises existantes pour vous faire une idée.
 
-### Step 4: Join collar and collar stand
+### Etape 4 : assembler le col et le sous-col
 
-#### Place collar between collar stands and baste in place
+#### Placer le col entre les deux pieds de col et bâtir
 
-![Place collar between collar stands and baste in place](4a.png)
+![Placer le col entre les deux pieds de col et bâtir](4a.png)
 
-Mark the middle point of your collar and your collar stands with a pin. The middle point of each collar stand is actually slightly off-center since one end is longer than the other. Instead, find the middle point between the two notches.
+Marquez le milieu de votre col et de votre pied de col avec une épingle. Le milieu de chaque pied de col est en fait légèrement décentré car un côté est plus long que l'autre. Marquez le point se trouvant au milieu des deux crans.
 
-First place a collar stand with the good side up, then your collar with the undercollar facing up (and the non-sewn side at the top), and finally the second collar stand with the good side down.
+Placez d'abord un pied de col sur l'envers, puis votre col, côté entoilé sur le dessus (et côté non cousu en haut), et enfin le deuxième pied de col, sur l'endroit.
 
-You collar should sit between your two collar stands, and the middles (where you placed your pin) should be aligned.
+Votre col doit se trouver entre les deux pieds de col, et les milieux (où vous avez placé vos épingles) doivent être alignés.
 
-> The way things look will depend a little bit on your collar choices, but in general your collar is going to bend downward, and your collar stand will bend upward.
+> L'aspect dépend un peu du col que vous avez choisi, mais en général votre col est courbé vers le bas, et votre pied de col est courbé vers le haut.
 > 
-> To align this all, we are going to baste this together, rather than pin it. Your collar is an important part of your shirt, so it's worth basting this.
+> Pour ajuster le tout, nous allons bâtir, plutôt qu'épingler. Votre col est une partie importante de votre chemise, donc il le mérite.
 
-First, replace the pins marking the middle with a pin that pins all parts together.
+D'abord, remplacer les épingles marquant le milieu par une épingle prenant toutes les pièces ensemble.
 
-Now, start basting from this pin and work your way to the corner of the collar, making sure to align both edges of the fabric.
+Maintenant, commencez à bâtir à partir de cette épingle jusqu'au coin du col, en vous assurant d'aligner les deux bords du tissu.
 
-When you reach the corner of your collar, keep going and baste the end of both collar stands together.
+Lorsque vous atteignez le coin de votre col, continuez et bâtissez les deux pieds de col ensemble.
 
-When you've done one side, start from your pin in the middle again and do this other side. When you're done basting, you can take out the pin.
+Une fois que vous avez fait un côté, repartez de votre épingle au milieu et bâtissez l'autre côté. Une fois que vous avez fini de bâtir, vous pouvez retirer l'épingle.
 
-#### Sew your collar to the collar stands
+#### Coudre votre col sur les pieds de col
 
-![Sew your collar to the collar stands](4b.png)
+![Coudre votre col sur les pieds de col](4b.png)
 
-Sew along the edge of your collar stand, respecting the standard seam allowance.
+Cousez le long du bord de votre pied de col, en respectant la marge de couture standard.
 
 > Make sure to stop 2cm before the edge (twice the standard seam allowance) as we'll be folding the seam allowance over in the next step, and we need to leave the collar stands separated enough to slide the shirt in between them later.
 
-#### Fold back and press the collar stand seam allowance
+#### Replier la marge de couture du pied de col et repassez là
 
-Fold back the seam allowance of your collar stand on the non-sewn side and press it down.
+Repliez la marge de couture du côté non cousu de votre pied de col et repassez.
 
-> In the center part, pressing down the seam allowance will be easy. But towards the tips of your collar, doing so will be tricky without pressing folds in your collar.
+> Au milieu, cela sera facile. Mais vers les pointes de votre col, ce sera difficile de ne pas faire de plis.
 > 
-> Press is as best as you can without making folds in your collar. We'll press this again after flipping the collar out.
+> Repasser de votre mieux sans faire de plis. Nous repasserons à nouveau quand le col sera retourné.
 
-#### Turn collar stand and press
+#### Retourner le col et repasser
 
-![Turn collar and press](4c.png)
+![Retourner le col et repasser](4c.png)
 
-Flip your collar stand with the good sides out, and give it a good press. Make sure to keep the seam allowance on the collar stand folded inwards.
+Retournez votre pied de col sur l'endroit, et donnez un bon coup de fer. Assurez vous de laisser les marges de couture du pied de col repliées à l'intérieur. Voys pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
 You can now put your collar aside, we'll attach it later.
 
-### Step 5: Optional: Sew in your label
+### Etape 5 : coudre votre étiquette
 
 ![Sew in your label](5.png)
 
-Our next step is to attach the yoke. But the yoke is a great place to put your label. So if you'd like to do that, we might as well start with that.
+La prochaine étape consiste à assembler l'empiècement dos. Mais l'empiècement dos est l'endroit idéal pour mettre votre étiquette. Donc si vous voulez le faire, nous pouvons commencer par cela.
 
-Pick one yoke, and you can sew your label on it in the center (on the good side).
+Prenez un des deux empiècements, cousez votre étiquette au milieu (sur l'endroit).
 
-### Step 6: Join the yokes to the back
+### Étape 6 : Assembler les empiècements dos au dos
 
 ![Join the yokes to the back](6a.png) ![Press the yoke](6a.png)
 
-Place one yoke with the good side up. On top of that, place your back with the good side up, aligning the seam where it needs to be attached to the yoke.
+Placez un empiècement dos sur l'envers. Placez dessus votre dos sur l'envers, en l'alignant sur le haut de l'empiècement.
 
-Finally, place your second yoke on top of the back, but with the good side down.
+Enfin, placez sur le tout votre deuxième empiècement, sur l'endroit.
 
-You back should now be sandwiched between the good sides of your two yokes.
+Votre dos doit maintenant être pris en sandwich entre les deux faces endroit des empiècements.
 
-If that's the case, sew them in place along the back/yoke seam, making sure to respect the seam allowance.
+Si c'est le cas, cousez le dos et les empiècements ensemble, en respectant la marge de couture.
 
-> If you added a label in step 1, make sure to put the yoke with your label at the bad side of your back.
+> Si vous avez ajouté une étiquette à l'étape 5, assurez-vous de mettre l'empiècement portant l'étiquette sur l'envers.
 
-When you're done, don't forget to give it a good press to make the seam lie flat.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer pour que la couture soit bien plate.
 
 ### Step 7: Edge-stitch the yoke
 

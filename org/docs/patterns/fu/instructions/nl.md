@@ -1,82 +1,81 @@
 
-### Step 1: Join center seam
+### Stap 1: Sluit de midden naad
 
-Join the curved seam that is center of our mask by placing the *good sides together* and sewing them in place.
+Sluit de (meest) gebogen naad die het midden van ons masker vormt door beide helften van het masker op elkaar te plaatsen met de goede kant van de stof tegen elkaar.
 
-![Join the center seam](step1.svg)<Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
+![Join the center seam](step1.svg)<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
 
-### Step 2: Press the center seam
+### Stap 2: Pers de midden naad
 
-Press the seam allowance on the center seam open so the seam lies nice and flat.
+Strijk de naadwaarde aan de middennaad open zodat de naad plat ligt.
 
-As this is a curved seam, it won't lay flat so use a tailor's hem or cushion to press.<Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
+Aangezien dit een gebogen naad is, zal hij niet plat liggen. Gebruik daarom een (pers) kussen om de naad plat te strijken.<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
 
-### Step 3: Sew the outer to the inner fabric
+### Stap 3: Naai de buiten en binnenstof aan elkaar
 
-Place your inner (lining) fabric on top of your outer (main) fabric with *good sides together* and sew them together, making sure to leave one side open so we can turn the mask inside-out later.
+Plaats de voering bovenop de (buiten) stof met de goede kanten tegen elkaar. Naar ze aan elkaar, maar laat een opening aan de zijkant zodat we het hele masker nog kunnen binnenstebuiten draaien.
 
-![Join the inner to the outer fabric](step3.svg)
+![Join the inner to the outer fabric](Stap 4: Draai het masker binnenstebuiten)
 
-### Step 4: Turn the mask inside-out
+### Step 4: Draai het masker binnenstebuiten
 
-Actually, your mask is inside-out now, so turning it inside out will mean we get it outside-out, or regular.
+Eigenlijk draaien we het buitenstebuiten, want het is momenteel binnenstebuiten.
 
-Just reach in through the side your left open and carefully pull the mask through to turn it.
+Gebruik de opening aan de zijkant om voorzichtig het hele masker door de opening te halen zodat de goede kant van de stof tevoorschijn komt.
 
-### Step 5: Press the mask
+### Stap 4: Pers het masker
 
-Now that the mask is as it should be, it's time to press it. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+Nu dat ons masker met de goede kant naar buiten zit is het tijd om te persen.  Zorg eerst dat waar de opening zit aan de zijkant je de naadwaarde netjes naar binnen vouwt, zodat bij het persen alles netjes plat ligt.
 
-### Step 6: Insert closure strip (optional)
+### Stap 6: Voer een sluitingstrip (optioneel)
 
 ![Insert closure strip](step6.svg)
 
-For best results, you should insert a closure strip at the top of your mask so you can shape it to fit your nose. When I say *closure strip* I mean one of them paper or plastic strips with a metal wire inlay, like these:
+Voor het beste resultaat kan je een metalen sluitingstrip invoegen aan de bovenkant van het masker om beter de contour van de neus te volgen. Met sluitingsstrip bedoel ik zo'n plastic strip met metaal in die gebuikt wordt om verpakkingen te sluiten. Zoals deze:
 
 ![Picture of white closure strips](./strips.jpg)
 
-Insert the strip so that it sits in the center of the top seam of your mask. Tuck it between the layers of seam allowance to prevent the strip from poking through.
+Plaats de strip bovenaan in het midden van het masker. Je plaats hem tussen de buitenste stof en de lagen naadwaarde, zo vermijd je dat de eindjes door de stof prikken.
 
-When it's in place, topstich below the strip (use the line on the pattern as a guide), and close of the encasing at the edges of the strip so it can't move around.
+Eens op de juiste plek stik je romdom om het ding op z'n plaats te houden.
 
-### Step 7: Close open side of the mask and edge-stitch around the edge
+### Stap 7: Sluit de zijkant van het masker, en skik helemaal rondom
 
 ![Edge-stitch around the mask](step7.svg)
 
-With our metal strip in place, it's time to close the side of our mask the we left open to turn it inside out and slip in our closure strip.
+Nu is het tijd om de zijkant van het masker die we hebben opgegelaten dicht te maken.
 
-We are also going to edge-stitch around the entire mask to give our mask some extra stability, and keep the lining at the back.
+We stikken ook helemaal rond het masker om het wat meer stabiliteit te geven, en te zorgen dat de voering aan de achterkant blijft.
 
-Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
+Zorg er voor dat de naadwaarde aan de opening aan de zijjant netjes naar binnen is gevouwd, stik dan helemaal rond het masker, net naast het randje.
 
-### Step 8: Attach snaps
+### Stap 8: Voeg drukknopen toe
 
-The disposable face masks you see out there come with an elastic attached. As we're making face masks that you can wash and re-use, we'll use snaps to attach our elastic. This way, we can make a several days worth of facemasks, but only need one elastic per person.
+De wegwerp maskers die je overal ziet gaan met een vast elastiekje om je oren. Dat is hier ook een optie, maar omdat we wasbare maskers maken gaan we de elastiek bevestigen met een drukknop. Op die manier kan 1 persoon een reeks maskers wisselen, met dezelfde elastiek.
 
-Attach your snaps in the four corners, in the location indicated on the pattern. You will typically want to put the *male* side of the snap on your mask, and the *female* side on the elastic.
+Zet 1 kant van je drukknopen in de vier hoeken van het masker. Drukknopen hebben 2 helften, dus let erop dat de helft op het masker verschillend is van de helft op de elastiek.
 
 <Tip>
 
-If you're making a bunch of mask so you can regularly replace them, you can stop here.
-The remaining steps are about the elastic to attach our mask, but you only need 1 elastic per person,
-whereas you will probably want multiple masks per person.
+Als je een boel maskers maakt om regelmatig te wisselen kan je hier stoppen.
+De volgende stappen leggen uit hoe je een herbruikbare elastiek kan maken. In dit scenario heb je 1 elastiek per persoon, maar meedere maskers.
 
 </Tip>
 
-### Step 9: Measure elastic
+### Stap 9: Meet elastiek
 
-Your face mask is now ready, apart from the fact that we need a way to keep it on our face. That's where the elastic comes in.
+Je masker is nu klaar, alleen heb je nog een manier nodig om het op je gezicht te houden. Daarvoor hebben we elastiek.
 
-You have two choices:
+Je hebt twee keuzes:
 
- - Run an elastic cord around your ears. This is what you see in the disposable masks because it's cheap.
- - Run an elastic ribbon around your head. This is a bit better looking and what I would suggest.
+ - Een elastiekje rond je oor. Dit is wat je ziet bij wegwerpmaskers, want het is de goedkoopste oplossing.
+ - Een elastiek rond je hoofd. Dit geeft je een betere pasvorm, en is wat ik zou aanraden.
 
-Regardless what option you choose, measure how long the elastic must be by trying it on and finding a length that strikes a balance between good fit and comfort.
+Welke optie je ook kiest, meet hoe lang de elastiek moet zijn door je masker te passen, en een lengte te zoeken die een goeie balans is tussen pasvorm en comfort.
 
-### Step 10: Attach snaps to the elastic
+### Stap 10: Plaats drukknopen op elastiek
 
-If you opted for an elastic cord, you will need to sew it to a small piece of fabric, leather, foam, or anything that can hold the snap. That's because you can't put a snap on an elastic cord.
+Als je voor een elastieken koordje hebt gekozen kan je het koordje aan een smal stukje stof of leder vastmaken om de nodige plaats te hebben om een drukknop op te bevestigen. Je kan immers geen drukknop plaatsen op dit soort elastiek.
 
 If you went with a (wide) flat ribbon elastic, you should be able to directly attach the snaps to the elastic.
 
