@@ -7,20 +7,55 @@ Join the curved seam that is center of our mask by placing the *good sides toget
 
 <Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
 
-### Step 2: Press the center seam
+### Step 2 (optional): Press the center seam
+
+<Note>
+
+This step has no functional value, it will only make your mask look better.
+So if you're not too bothered about that, feel free to skip it.
+
+</Note>
 
 Press the seam allowance on the center seam open so the seam lies nice and flat.
 
-As this is a curved seam, it won't lay flat so use a tailor's hem or cushion to press.
+As this is a curved seam, it won't lay flat. 
+But you can approach it with your iron from one side, then do the second half from the other side.
+Alternatively, you can use a tailor's hem or cushion to press.
 
 <Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
 
-### Step 3: Sew the outer to the inner fabric
-
-Place your inner (lining) fabric on top of your outer (main) fabric with *good sides together* and
-sew them together, making sure to leave one side open so we can turn the mask inside-out later.
+### Step 3: Sew the outer to the inner fabric and attach ribbons
 
 ![Join the inner to the outer fabric](step3.svg)
+
+Now we will sew the inner (lining) fabric to the outer (main) fabric,
+and attach the ribbons all in one step.
+
+ - Place your lining fabric down with the good side up.
+ - Then, place two ribbons on the corners of one side (right in our example) so that
+   they peak out just a bit from the mask, but the ribbon extends inwards.
+ - Now place the main fabric on top of this with the good side town. 
+   You should now have both layers of your mask on top of each other with *good sides together* and
+   two ribbons sandwiched between them
+ - Pin through ribbons and layers to keep them in place
+ - Now do the same on the other side
+
+<Tip>
+
+As you get some practice, you will find you don't need to pin this and can just insert the
+ribbons as you approach a corner.
+
+</Tip>
+
+Now sew around the mask, making sure to leave one side open so we can turn the mask inside-out later.
+
+<Warning>
+
+Be careful not to catch any of the ribbons in the seam apart from where you want them to.
+Either guide them through the opening you leave on one side, or bunch them up in between
+the masks of your layer to keep them out of the way.
+
+</Warning>
 
 ### Step 4: Turn the mask inside-out 
 
@@ -28,83 +63,32 @@ Actually, your mask is inside-out now, so turning it inside out will mean we get
 
 Just reach in through the side your left open and carefully pull the mask through to turn it.
 
-### Step 5: Press the mask
+### Step 5 (optional): Press the mask
+
+<Note>
+
+This step has little functional value, it will only make your mask look better.
+So if you're not too bothered about that, feel free to skip it.
+
+</Note>
 
 Now that the mask is as it should be, it's time to press it. Before doing so, make sure to fold the 
 seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
 
-### Step 6: Insert closure strip (optional)
+### Step 6: Close open side of the mask and edge-stitch around the edge
 
-![Insert closure strip](step6.svg)
+![Edge-stitch around the mask](step6.svg)
 
-For best results, you should insert a closure strip at the top of your mask so you can shape it to fit your nose.
-When I say *closure strip* I mean one of them paper or plastic strips with a metal wire inlay, like these:
+Now it's time to close the side of our mask the we left open to turn it inside out.
 
-![Picture of white closure strips](./strips.jpg)
-
-Insert the strip so that it sits in the center of the top seam of your mask. Tuck it between the layers of
-seam allowance to prevent the strip from poking through.
-
-When it's in place, topstich below the strip (use the line on the pattern as a guide), and close of the 
-encasing at the edges of the strip so it can't move around.
-
-### Step 7: Close open side of the mask and edge-stitch around the edge
-
-![Edge-stitch around the mask](step7.svg)
-
-With our metal strip in place, it's time to close the side of our mask the we left open to turn it inside out
-and slip in our closure strip.
-
-We are also going to edge-stitch around the entire mask to give our mask some extra stability, and keep
-the lining at the back.
+We are not merely going to close the opening, but also edge-stitch around the entire 
+mask to give our mask some extra stability, and keep the lining at the back.
 
 Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
 
-### Step 8: Attach snaps
+### Step 7: Wear your mask or make a bunch
 
-The disposable face masks you see out there come with an elastic attached. As we're making face masks that
-you can wash and re-use, we'll use snaps to attach our elastic. 
-This way, we can make a several days worth of facemasks, but only need one elastic per person.
+That's it, you're done! You can now wear your mask.
 
-Attach your snaps in the four corners, in the location indicated on the pattern.
-You will typically want to put the *male* side of the snap on your mask, and the *female* side on the elastic.
-
-<Tip>
-
-If you're making a bunch of mask so you can regularly replace them, you can stop here.
-The remaining steps are about the elastic to attach our mask, but you only need 1 elastic per person,
-whereas you will probably want multiple masks per person.
-
-</Tip>
-
-### Step 9: Measure elastic
-
-Your face mask is now ready, apart from the fact that we need a way to keep it on our face. 
-That's where the elastic comes in.
-
-You have two choices:
-
- - Run an elastic cord around your ears. This is what you see in the disposable masks because it's cheap.
- - Run an elastic ribbon around your head. This is a bit better looking and what I would suggest.
-
-Regardless what option you choose, measure how long the elastic must be by trying it on and finding a length
-that strikes a balance between good fit and comfort.
-
-### Step 10: Attach snaps to the elastic
-
-If you opted for an elastic cord, you will need to sew it to a small piece of fabric, leather, foam, or anything
-that can hold the snap. That's because you can't put a snap on an elastic cord.
-
-If you went with a (wide) flat ribbon elastic, you should be able to directly attach the snaps to the elastic.
-
-<Note>
-
-Remember, if you put the *male* side of the snaps on your mask, then you should but the *female* sides on your elastic.
-
-</Note>
-
-### Step 11: Wear your mask
-
-That's it, you're done! Now go make a bunch and keep in mind that you will probably want to make a couple of
-masks and 1 elastic per person.
+Even better, make a bunch so you can give others masks too.
 
