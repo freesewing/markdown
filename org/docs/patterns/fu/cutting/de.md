@@ -9,3 +9,4 @@ Fu only has one part, the *mask*. This is half of the mask, so we will need two 
  - **Lining fabric**
    - Cut **2 masks** parts
 
+If you're using the same fabric in and out (which is fine) then simply cut **4 mask** parts.
