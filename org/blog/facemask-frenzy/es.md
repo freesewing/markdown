@@ -19,6 +19,8 @@ author: joost
 
 </Note>
 
+<YouTube id='VcQ69_ANsRA' />
+
 Well that escalated quickly. We published [our Fu Face Mask pattern](/designs/fu/) at the end of last month, hoping it would be helpful. Now, [hospitals are actively reaching out to people to beg them to make fabric face masks for their staff](https://www.uza.be/mondmaskers).
 
 So obviously, we want to help:
