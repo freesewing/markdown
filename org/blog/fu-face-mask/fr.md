@@ -1,18 +1,18 @@
 ---
 date: 2020-02-28
-title: We just published a face mask pattern, because coronavirus
-linktitle: "Fu face mask"
+title: Nous venons de publier un patron de masque facial, en raison du coronavirus
+linktitle: "Masque facial Fu"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Fu face mask"
+caption: "Gardez à distance ces gouttelettes infestées de virus avec notre masque Fu"
 author: joost
 ---
 
 
-The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
+La propagation du coronavirus Covid-19 semble implacable et malgré les meilleures tentatives du monde, la possibilité d'une pandémie mondiale devient de plus en plus réelle chaque jour. D'où la question : que peut-on faire ?
 
-Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
+Même si c'est peu, nous pouvons concevoir des patrons. Alors dites bonjour au [masque facial Fu ](/designs/fu/), un patron simple qui vous permet de créer vos propres masques. Un masque que vous pouvez porter toute la journée, parce que les masques médicaux ne sont pas vraiment confortables.
 
-Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
+La question de savoir si un masque protège réellement est débattue. J'ai un peu tergiversé avant de publier un patron de masque facial. Puis — un peu plus tôt aujourd'hui — j'ai lu un article [du Guardian](https://www.theguardian.com/) appelé [Oui, c'est pire que la grippe: bousculer les mythes coronavirus](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
 
 > ###### Claim: ‘Face masks don’t work’
 > 
