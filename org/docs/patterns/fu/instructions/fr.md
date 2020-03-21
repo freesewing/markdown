@@ -60,15 +60,15 @@ Donc, si le look n'est pas une préoccupation pour vous, n'hésitez pas à la sa
 
 </Note>
 
-Maintenant que le masque est presque terminé, il est temps de le repasser. Au préalable, sur le côté laissé ouvert, replier la marge de couture à l'intérieur, et repasser.
+Maintenant que le masque est presque terminé, il est temps de le repasser. Au préalable, sur le côté laissé ouvert, replier la marge de couture à l'intérieur, et repasser le pli.
 
 ### Etape 6: Fermer le côté ouvert et surpiquer les bords
 
 ![Surpiquez autour du masque](step6.svg)
 
-Maintenant, il est temps de fermer notre masque sur le côté gauche laissé ouvert .
+Maintenant, il est temps de fermer notre masque sur le côté gauche laissé ouvert.
 
-Nous n'allons pas simplement fermer l'ouverture, mais aussi surpiquer tout le pourtour du masque pour le stabiliser et maintenir la doublure à l'arrière.
+Nous n'allons pas seulement fermer l'ouverture, mais aussi surpiquer tout le pourtour du masque pour le stabiliser et maintenir la doublure à l'arrière.
 
 Assurez-vous que les bords du côté ouvert sont bien repliés à l'intérieur, puis surpiquez tout le pourtour du masque.
 
