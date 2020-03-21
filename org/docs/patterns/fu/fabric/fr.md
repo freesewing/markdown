@@ -8,8 +8,8 @@ De plus, nous voulons que l'intérieur soit de contact agréable sur notre peau.
 Notez qu'un tissu "respirant" n'est pas un tissu à travers lequel on peut respirer.
 There's many so-called waterproof breathable fabrics — or MBFs — that are used for outdoor gear because they 
 repel water and are *breathable* but would make a poor choice for a face mask. 
-Look no further than your umbrella for an example. Chances are it's more from a fabric you can breath through,
-but only with substantial effort, which would not work for our face mask.
+Ne cherchez pas plus loin que votre parapluie pour prendre un exemple. C'est probablement un tissu à travers lequel vous pouvez respirer,
+mais seulement avec un effort substantiel, ce qui ne conviendrait pas pour notre masque facial.
 
 </Note>
 
