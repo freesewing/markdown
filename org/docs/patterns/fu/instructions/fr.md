@@ -1,9 +1,9 @@
 
-### Step 1: Join center seam
+### Étape 1 : Faire la couture centrale
 
-Join the curved seam that is center of our mask by placing the *good sides together* and sewing them in place.
+Placer les deux pièces du tissu destiné à l'extérieur du masque endroit contre endroit, et les coudre ensemble sur les côtés courbes qui seront au milieu de notre masque *bons côtés*.
 
-![Join the center seam](step1.svg)<Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
+![Join the center seam](step1.svg)<Note>Répétez cette étape pour le tissu intérieur (doublure).</Note>
 
 ### Step 2 (optional): Press the center seam
 
@@ -16,7 +16,7 @@ So if you're not too bothered about that, feel free to skip it.
 
 Press the seam allowance on the center seam open so the seam lies nice and flat.
 
-As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's hem or cushion to press.<Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
+As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's hem or cushion to press.<Note>Répétez cette étape pour le tissu intérieur (doublure).</Note>
 
 ### Step 3: Sew the outer to the inner fabric and attach ribbons
 
