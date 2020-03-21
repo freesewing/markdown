@@ -1,34 +1,34 @@
 
-### Étape 1 : Faire la couture centrale
+### Étape 1 : Coudre la couture centrale
 
 Placer les deux pièces du tissu destiné à l'extérieur du masque endroit contre endroit, et les coudre ensemble sur les côtés courbes qui seront au milieu de notre masque *bons côtés*.
 
 ![Join the center seam](step1.svg)<Note>Répétez cette étape pour le tissu intérieur (doublure).</Note>
 
-### Step 2 (optional): Press the center seam
+### Etape 2 (facultative) : Repasser la couture centrale
 
 <Note>
 
-This step has no functional value, it will only make your mask look better.
-So if you're not too bothered about that, feel free to skip it.
+Cette étape n'a aucune valeur fonctionnelle, elle améliore seulement l'aspect de votre masque.
+Donc, si le look n'est pas une préoccupation pour vous, n'hésitez pas à la sauter.
 
 </Note>
 
-Press the seam allowance on the center seam open so the seam lies nice and flat.
+Repasser la couture centrale ouverte pour qu'elle soit bien plate.
 
-As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's hem or cushion to press.<Note>Répétez cette étape pour le tissu intérieur (doublure).</Note>
+Comme il s'agit d'une couture courbe, elle ne sera pas complètement plate. Mais vous pouvez vous en approcher en repassant d'abord la moitié d'un côté, puis la seconde moitié de l'autre côté. Ou bien vous pouvez également utiliser un coussin de repassage.<Note>Répétez cette étape pour le tissu intérieur (doublure).</Note>
 
-### Step 3: Sew the outer to the inner fabric and attach ribbons
+### Etape 3 : Coudre ensemble l'extérieur et la doublure
 
 ![Join the inner to the outer fabric](step3.svg)
 
-Now we will sew the inner (lining) fabric to the outer (main) fabric, and attach the ribbons all in one step.
+Maintenant nous allons coudre ensemble le tissu intérieur (doublure) et le tissu extérieur, et les liens, en une seule étape.
 
- - Place your lining fabric down with the good side up.
- - Then, place two ribbons on the corners of one side (right in our example) so that they peak out just a bit from the mask, but the ribbon extends inwards.
- - Now place the main fabric on top of this with the good side town. You should now have both layers of your mask on top of each other with *good sides together* and two ribbons sandwiched between them
- - Pin through ribbons and layers to keep them in place
- - Now do the same on the other side
+ - Placez votre doublure sur l'envers.
+ - Ensuite, placez deux liens aux coins d'un des côtés (à droite dans notre exemple) afin qu'ils sortent juste un peu du masque, le reste étant maintenu à l'intérieur.
+ - Maintenant, placez dessus le tissu extérieur, sur l'endroit. Vous devriez maintenant avoir les deux épaisseurs de votre masque l'une sur l'autre *endroits contre endroits* avec deux liens en sandwich entre elles
+ - Épingler les liens et les épaisseurs de tissu ensemble
+ - Maintenant, faites la même chose de l'autre côté
 
 <Tip>
 
@@ -37,11 +37,11 @@ ribbons as you approach a corner.
 
 </Tip>
 
-Now sew around the mask, making sure to leave one side open so we can turn the mask inside-out later.
+Maintenant cousez autour du masque, en veillant à laisser un côté ouvert pour pouvoir retourner le masque par la suite.
 
 <Warning>
 
-Be careful not to catch any of the ribbons in the seam apart from where you want them to.
+Faites attention à ne pas coincer les liens dans la couture en dehors de l'endroit où vous le souhaitez.
 Either guide them through the opening you leave on one side, or bunch them up in between
 the masks of your layer to keep them out of the way.
 
@@ -58,7 +58,7 @@ Just reach in through the side your left open and carefully pull the mask throug
 <Note>
 
 This step has little functional value, it will only make your mask look better.
-So if you're not too bothered about that, feel free to skip it.
+Donc, si le look n'est pas une préoccupation pour vous, n'hésitez pas à la sauter.
 
 </Note>
 
