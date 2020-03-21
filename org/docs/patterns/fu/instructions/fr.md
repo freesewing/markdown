@@ -42,29 +42,28 @@ Maintenant cousez autour du masque, en veillant à laisser un côté ouvert pour
 <Warning>
 
 Faites attention à ne pas coincer les liens dans la couture en dehors de l'endroit où vous le souhaitez.
-Either guide them through the opening you leave on one side, or bunch them up in between
-the masks of your layer to keep them out of the way.
+Faites les passer à travers l'ouverture que vous laissez d'un côté, ou regroupez les entre les épaisseurs de votre masque pour les garder hors du chemin.
 
 </Warning>
 
-### Step 4: Turn the mask inside-out
+### Etape 4: Retourner le masque
 
 Actually, your mask is inside-out now, so turning it inside out will mean we get it outside-out, or regular.
 
-Just reach in through the side your left open and carefully pull the mask through to turn it.
+Il suffit de retourner le masque en passant par le côté laissé ouvert et en tirant délicatement.
 
-### Step 5 (optional): Press the mask
+### Etape 5 (facultative) : Repasser le masque
 
 <Note>
 
-This step has little functional value, it will only make your mask look better.
+Cette étape n'a pas de valeur fonctionnelle, elle améliore seulement l'aspect de votre masque.
 Donc, si le look n'est pas une préoccupation pour vous, n'hésitez pas à la sauter.
 
 </Note>
 
-Now that the mask is as it should be, it's time to press it. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+Maintenant que le masque est presque terminé, il est temps de le repasser. Au préalable, sur le côté laissé ouvert, replier la marge de couture à l'intérieur, et repasser.
 
-### Step 6: Close open side of the mask and edge-stitch around the edge
+### Etape 6: Fermer le côté ouvert et surpiquer les bords
 
 ![Edge-stitch around the mask](step6.svg)
 
