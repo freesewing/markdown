@@ -5,8 +5,8 @@ title: Cutting
 Fu hat nur einen Teil, die *Maske*. Das ist die Hälfte der Maske, also werden wir zwei davon brauchen. Darüber hinaus wollen wir eine äußere und eine innere Gewebeschicht, also brauchen wir insgesamt vier:
 
  - **Main fabric**
-   - Cut **2 masks** parts
+   - Schneiden Sie **2 Maskenteile**
  - **Lining fabric**
-   - Cut **2 masks** parts
+   - Schneiden Sie **2 Maskenteile**
 
-If you're using the same fabric in and out (which is fine) then simply cut **4 mask** parts.
+Wenn Sie den gleichen Stoff innen und außen verwenden (was in Ordnung ist), dann schneiden Sie einfach **4 Masketeile** zu.
