@@ -31,4 +31,8 @@ Dus uiteraard willen we daarbij helpen:
 
 Tijd om er een stapel te maken. Onze gezondheidszorg werkers rekenen op je!
 
+<Note>
+
+PS: You can support us by [becoming a patron](/patrons/join/) ❤️
+</Note>
 
