@@ -3,7 +3,7 @@
 
 Fügen Sie die gekrümmte Naht, die die Mitte unserer Maske bildet, zusammen, indem Sie die *guten Seiten* zusammenlegen und vernähen.
 
-![Join the center seam](step1.svg)<Note>Wiederholen Sie diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+![Fügen Sie die Mittelnaht ein](step1.svg)<Note>Wiederholen Sie diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 2 (optional): Drücken Sie die Mittelnaht
 
@@ -20,7 +20,7 @@ Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber Si
 
 ### Schritt 3: Nähen Sie den äußeren an den inneren Stoff und befestigen Sie die Bänder
 
-![Join the inner to the outer fabric](step3.svg)
+![Verbinden Sie den inneren mit dem äußeren Stoff](step3.svg)
 
 Nun werden wir den inneren (Futter) an den äußeren (Haupt) Stoff nähen und die Bänder in einem Schritt anbringen.
 
@@ -41,41 +41,40 @@ Nähen Sie nun um die Maske herum und achten Sie darauf, eine Seite offen zu las
 <Warning>
 
 Achten Sie darauf, dass sich keine Bänder in der Naht verfangen, außer dort, wo Sie sie haben wollen.
-Either guide them through the opening you leave on one side, or bunch them up in between
-the masks of your layer to keep them out of the way.
+Führen Sie sie entweder durch die Öffnung, die Sie auf einer Seite lassen, oder bündeln Sie sie zwischen den Masken Ihrer Ebene, um sie aus dem Weg zu halten.
 
 </Warning>
 
-### Step 4: Turn the mask inside-out
+### Schritt 4: Drehen Sie die Maske von innen nach außen
 
-Actually, your mask is inside-out now, so turning it inside out will mean we get it outside-out, or regular.
+Eigentlich ist Ihre Maske jetzt von innen nach außen gedreht. Wenn wir sie also von innen nach außen drehen, erhalten sie das äußere nach außen, oder normal.
 
-Just reach in through the side your left open and carefully pull the mask through to turn it.
+Greifen Sie einfach durch die linke Seite hinein und ziehen Sie die Maske vorsichtig durch, um sie zu drehen.
 
-### Step 5 (optional): Press the mask
+### Schritt 5 (optional): Drücken Sie die Maske
 
 <Note>
 
-This step has little functional value, it will only make your mask look better.
+Dieser Schritt hat wenig funktionalen Wert, er wird Ihre Maske nur besser aussehen lassen.
 Wenn Ihnen das also nicht allzu viel ausmacht, können Sie es gerne überspringen.
 
 </Note>
 
-Now that the mask is as it should be, it's time to press it. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+Nun, da die Maske so ist, wie sie sein sollte, ist es an der Zeit, sie zu drücken. Bevor Sie dies tun, stellen Sie sicher, dass Sie die Nahtzugabe der Seite, die wir nach innen offen gelassen haben, so dass wir sie flach drücken, als ob sie genäht wäre.
 
-### Step 6: Close open side of the mask and edge-stitch around the edge
+### Schritt 6: Schließen Sie die offene Seite der Maske und nähen Sie die Kante um den Rand
 
-![Edge-stitch around the mask](step6.svg)
+![Randstich um die Maske](step6.svg)
 
-Now it's time to close the side of our mask the we left open to turn it inside out.
+Jetzt ist es an der Zeit, die Seite unserer Maske zu schließen, die wir offen gelassen haben, um sie von innen nach außen zu drehen.
 
-We are not merely going to close the opening, but also edge-stitch around the entire mask to give our mask some extra stability, and keep the lining at the back.
+Wir werden nicht nur die Öffnung verschließen, sondern auch die gesamte Maske mit Kantenstichen versehen, um unserer Maske eine zusätzliche Stabilität zu verleihen und das Futter im hinteren Bereich zu erhalten.
 
-Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
+Achten Sie darauf, dass die offene Seite ordentlich nach innen gefaltet wird, und nähen Sie dann um die gesamte Maske herum.
 
-### Step 7: Wear your mask or make a bunch
+### Schritt 7: Tragen Sie Ihre Maske oder machen Sie einen Stapel
 
-That's it, you're done! You can now wear your mask.
+Das war's, Sie sind fertig! Sie können jetzt Ihre Maske tragen.
 
-Even better, make a bunch so you can give others masks too.
+Noch besser: Machen ein paar mehr, damit Sie anderen auch Masken geben können.
 
