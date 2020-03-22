@@ -2,7 +2,7 @@
 title: Cutting
 ---
 
-Fu only has one part, the *mask*. This is half of the mask, so we will need two of them. In addition, we want an outer and inner layer of fabric, so we'll need four in total:
+Fu hat nur einen Teil, die *Maske*. Das ist die Hälfte der Maske, also werden wir zwei davon brauchen. Darüber hinaus wollen wir eine äußere und eine innere Gewebeschicht, also brauchen wir insgesamt vier:
 
  - **Main fabric**
    - Cut **2 masks** parts
