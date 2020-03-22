@@ -1,15 +1,13 @@
 
-The goal of our mask is to stop droplets. So you want to go for something that filters those out. Then again, you need to be able to breath through your mask, so we want fabric that breathes, without letting droplets through.
+Das Ziel unserer Maske ist es, die Tröpfchen zu stoppen. Sie wollen sich also für etwas entscheiden, das diese herausfiltert. Andererseits müssen Sie in der Lage sein, durch Ihre Maske zu atmen, deshalb wollen wir Gewebe, das atmet, ohne Tröpfchen durchzulassen.
 
-In addition, we want the inside to be comfortable on our skin. So here I'd suggest a tightly woven cotton or viscose/rayon. For the outter fabric, cotton again, or a tightly woven wool.
+Außerdem wollen wir, dass sich das Innere auf unserer Haut wohlfühlt. Hier würde ich also eine eng gewebte Baumwolle oder Viskose/Rayon vorschlagen. Für den Außenstoff wiederum Baumwolle oder eine dicht gewebte Wolle.
 
 <Note>
 
-Note that fabric that is *breathable* is not the same as fabric your can breath through.
-There's many so-called waterproof breathable fabrics — or MBFs — that are used for outdoor gear because they 
-repel water and are *breathable* but would make a poor choice for a face mask. 
-Look no further than your umbrella for an example. Chances are it's more from a fabric you can breath through,
-but only with substantial effort, which would not work for our face mask.
+Beachten Sie, dass Stoff, der *atmungsaktiv* ist, nicht dasselbe ist wie Stoff, durch den man atmen kann.
+Es gibt viele so genannte wasserdichte, atmungsaktive Stoffe - oder MBFs -, die für Outdoor-Ausrüstung verwendet werden, weil sie Wasser abstoßen und *atmungsaktiv* sind, aber eine schlechte Wahl für eine Gesichtsmaske darstellen würden. 
+Schauen Sie sich einfach einmal Ihren Schirm an, um ein Beispiel zu finden. Die Chancen stehen gut, dass es sich eher um einen Stoff handelt, durch den man atmen kann, aber nur mit erheblichem Aufwand, was bei unserer Gesichtsmaske nicht funktionieren würde.
 
 </Note>
 

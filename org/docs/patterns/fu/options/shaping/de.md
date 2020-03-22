@@ -1,3 +1,3 @@
-![Shaping option](./shaping.svg)
+![Möglichkeit der Formgebung](./shaping.svg)
 
-Controls the curvature used to fit the mask around your chin.
+Steuert die Krümmung, mit der die Maske um Ihr Kinn herum angepasst wird.

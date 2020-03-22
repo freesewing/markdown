@@ -2,10 +2,11 @@
 title: Cutting
 ---
 
-Fu only has one part, the *mask*. This is half of the mask, so we will need two of them. In addition, we want an outer and inner layer of fabric, so we'll need four in total:
+Fu n'a qu'un seul morceau, le *masque*. Il correspond à la moitié du masque, donc pour une épaisseur, nous aurons besoin de deux pièces. Comme nous voulons deux épaisseurs (une extérieure et une intérieure), nous aurons donc besoin de quatre pièces au total:
 
  - **Main fabric**
-   - Cut **2 masks** parts
+   - Couper **1 pièce** dans le tissu plié en deux
  - **Lining fabric**
-   - Cut **2 masks** parts
+   - Couper **1 pièce** dans le tissu plié en deux
 
+Si vous utilisez le même tissu à l'intérieur et à l'extérieur (ce qui est bien) alors coupez simplement **4 pièces **.

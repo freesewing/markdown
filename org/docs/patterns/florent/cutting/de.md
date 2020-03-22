@@ -14,7 +14,7 @@ The brim bottom part is inset, while the brim top part is offset so that the sea
  - **Lining fabric**
    - Cut **1 top** on the fold but don't include the seam allowance, or **2 top** with the center seam allowance
    - Cut **1 side** on the fold, or **2 side**
- - **Plastic**
+ - **Kunststoff**
    - Cut **1 brim interfacing**. Tape the pattern part to the plastic, don't cut the notches in the plastic, but you can mark it (engrave it, or with permanent marker maybe). You don't really want any sharp edge, so make sure everything is smooth and rounded a bit (especially on the pointy sides)
 
 A typical Florent layout looks like this:

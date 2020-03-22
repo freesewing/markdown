@@ -3,89 +3,80 @@
 
 Sluit de (meest) gebogen naad die het midden van ons masker vormt door beide helften van het masker op elkaar te plaatsen met de goede kant van de stof tegen elkaar.
 
-![Join the center seam](step1.svg)<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
+![Bevestig de middennaad](step1.svg)<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
 
-### Stap 2: Pers de midden naad
-
-Strijk de naadwaarde aan de middennaad open zodat de naad plat ligt.
-
-Aangezien dit een gebogen naad is, zal hij niet plat liggen. Gebruik daarom een (pers) kussen om de naad plat te strijken.<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
-
-### Stap 3: Naai de buiten en binnenstof aan elkaar
-
-Plaats de voering bovenop de (buiten) stof met de goede kanten tegen elkaar. Naar ze aan elkaar, maar laat een opening aan de zijkant zodat we het hele masker nog kunnen binnenstebuiten draaien.
-
-![Join the inner to the outer fabric](Stap 4: Draai het masker binnenstebuiten)
-
-### Step 4: Draai het masker binnenstebuiten
-
-Eigenlijk draaien we het buitenstebuiten, want het is momenteel binnenstebuiten.
-
-Gebruik de opening aan de zijkant om voorzichtig het hele masker door de opening te halen zodat de goede kant van de stof tevoorschijn komt.
-
-### Stap 4: Pers het masker
-
-Nu dat ons masker met de goede kant naar buiten zit is het tijd om te persen.  Zorg eerst dat waar de opening zit aan de zijkant je de naadwaarde netjes naar binnen vouwt, zodat bij het persen alles netjes plat ligt.
-
-### Stap 6: Voer een sluitingstrip (optioneel)
-
-![Insert closure strip](step6.svg)
-
-Voor het beste resultaat kan je een metalen sluitingstrip invoegen aan de bovenkant van het masker om beter de contour van de neus te volgen. Met sluitingsstrip bedoel ik zo'n plastic strip met metaal in die gebuikt wordt om verpakkingen te sluiten. Zoals deze:
-
-![Picture of white closure strips](./strips.jpg)
-
-Plaats de strip bovenaan in het midden van het masker. Je plaats hem tussen de buitenste stof en de lagen naadwaarde, zo vermijd je dat de eindjes door de stof prikken.
-
-Eens op de juiste plek stik je romdom om het ding op z'n plaats te houden.
-
-### Stap 7: Sluit de zijkant van het masker, en skik helemaal rondom
-
-![Edge-stitch around the mask](step7.svg)
-
-Nu is het tijd om de zijkant van het masker die we hebben opgegelaten dicht te maken.
-
-We stikken ook helemaal rond het masker om het wat meer stabiliteit te geven, en te zorgen dat de voering aan de achterkant blijft.
-
-Zorg er voor dat de naadwaarde aan de opening aan de zijjant netjes naar binnen is gevouwd, stik dan helemaal rond het masker, net naast het randje.
-
-### Stap 8: Voeg drukknopen toe
-
-De wegwerp maskers die je overal ziet gaan met een vast elastiekje om je oren. Dat is hier ook een optie, maar omdat we wasbare maskers maken gaan we de elastiek bevestigen met een drukknop. Op die manier kan 1 persoon een reeks maskers wisselen, met dezelfde elastiek.
-
-Zet 1 kant van je drukknopen in de vier hoeken van het masker. Drukknopen hebben 2 helften, dus let erop dat de helft op het masker verschillend is van de helft op de elastiek.
-
-<Tip>
-
-Als je een boel maskers maakt om regelmatig te wisselen kan je hier stoppen.
-De volgende stappen leggen uit hoe je een herbruikbare elastiek kan maken. In dit scenario heb je 1 elastiek per persoon, maar meedere maskers.
-
-</Tip>
-
-### Stap 9: Meet elastiek
-
-Je masker is nu klaar, alleen heb je nog een manier nodig om het op je gezicht te houden. Daarvoor hebben we elastiek.
-
-Je hebt twee keuzes:
-
- - Een elastiekje rond je oor. Dit is wat je ziet bij wegwerpmaskers, want het is de goedkoopste oplossing.
- - Een elastiek rond je hoofd. Dit geeft je een betere pasvorm, en is wat ik zou aanraden.
-
-Welke optie je ook kiest, meet hoe lang de elastiek moet zijn door je masker te passen, en een lengte te zoeken die een goeie balans is tussen pasvorm en comfort.
-
-### Stap 10: Plaats drukknopen op elastiek
-
-Als je voor een elastieken koordje hebt gekozen kan je het koordje aan een smal stukje stof of leder vastmaken om de nodige plaats te hebben om een drukknop op te bevestigen. Je kan immers geen drukknop plaatsen op dit soort elastiek.
-
-If you went with a (wide) flat ribbon elastic, you should be able to directly attach the snaps to the elastic.
+### Step 2 (optional): Press the center seam
 
 <Note>
 
-Remember, if you put the *male* side of the snaps on your mask, then you should but the *female* sides on your elastic.
+This step has no functional value, it will only make your mask look better.
+So if you're not too bothered about that, feel free to skip it.
 
 </Note>
 
-### Step 11: Wear your mask
+Strijk de naadwaarde aan de middennaad open zodat de naad plat ligt.
 
-That's it, you're done! Now go make a bunch and keep in mind that you will probably want to make a couple of masks and 1 elastic per person.
+As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's hem or cushion to press.<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
+
+### Step 3: Sew the outer to the inner fabric and attach ribbons
+
+![Join the inner to the outer fabric](step3.svg)
+
+Now we will sew the inner (lining) fabric to the outer (main) fabric, and attach the ribbons all in one step.
+
+ - Place your lining fabric down with the good side up.
+ - Then, place two ribbons on the corners of one side (right in our example) so that they peak out just a bit from the mask, but the ribbon extends inwards.
+ - Now place the main fabric on top of this with the good side town. You should now have both layers of your mask on top of each other with *good sides together* and two ribbons sandwiched between them
+ - Pin through ribbons and layers to keep them in place
+ - Now do the same on the other side
+
+<Tip>
+
+As you get some practice, you will find you don't need to pin this and can just insert the
+ribbons as you approach a corner.
+
+</Tip>
+
+Now sew around the mask, making sure to leave one side open so we can turn the mask inside-out later.
+
+<Warning>
+
+Be careful not to catch any of the ribbons in the seam apart from where you want them to.
+Either guide them through the opening you leave on one side, or bunch them up in between
+the masks of your layer to keep them out of the way.
+
+</Warning>
+
+### Step 4: Draai het masker binnenstebuiten
+
+Actually, your mask is inside-out now, so turning it inside out will mean we get it outside-out, or regular.
+
+Just reach in through the side your left open and carefully pull the mask through to turn it.
+
+### Step 5 (optional): Press the mask
+
+<Note>
+
+This step has little functional value, it will only make your mask look better.
+So if you're not too bothered about that, feel free to skip it.
+
+</Note>
+
+Now that the mask is as it should be, it's time to press it. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+
+### Step 6: Close open side of the mask and edge-stitch around the edge
+
+![Edge-stitch around the mask](step6.svg)
+
+Now it's time to close the side of our mask the we left open to turn it inside out.
+
+We are not merely going to close the opening, but also edge-stitch around the entire mask to give our mask some extra stability, and keep the lining at the back.
+
+Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
+
+### Step 7: Wear your mask or make a bunch
+
+That's it, you're done! You can now wear your mask.
+
+Even better, make a bunch so you can give others masks too.
 

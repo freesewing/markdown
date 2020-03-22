@@ -1,25 +1,25 @@
 ---
 date: 2020-02-28
-title: We just published a face mask pattern, because coronavirus
-linktitle: "Fu face mask"
+title: Nous venons de publier un patron de masque facial, en raison du coronavirus
+linktitle: "Masque facial Fu"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Fu face mask"
+caption: "Gardez à distance ces gouttelettes infestées de virus avec notre masque Fu"
 author: joost
 ---
 
 
-The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
+La propagation du coronavirus Covid-19 semble implacable et malgré les meilleures tentatives du monde, la possibilité d'une pandémie mondiale devient de plus en plus réelle chaque jour. D'où la question : que peut-on faire ?
 
-Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
+Même si c'est peu, nous pouvons concevoir des patrons. Alors dites bonjour au [masque facial Fu ](/designs/fu/), un patron simple qui vous permet de créer vos propres masques. Un masque que vous pouvez porter toute la journée, parce que les masques médicaux ne sont pas vraiment confortables.
 
-Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
+La question de savoir si un masque protège réellement est débattue. J'ai un peu tergiversé avant de publier un patron de masque facial. Puis — un peu plus tôt aujourd'hui — j'ai lu un article [du Guardian](https://www.theguardian.com/) appelé [Oui, c'est pire que la grippe: bousculer les mythes coronavirus](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). Il incluait le passage suivant *Mythe les masques de visage ne fonctionnent pas* :
 
-> ###### Claim: ‘Face masks don’t work’
+> ###### Affirmation : «Les masques de visage ne fonctionnent pas»
 > 
-> *Wearing a face mask is not an iron clad guarantee that you won’t get sick – viruses can also transmit through the eyes and tiny viral particles, known as aerosols, can still penetrate masks. However, masks are effective at capturing droplets, which is the main transmission route of coronavirus, and some studies have estimated a roughly five-fold protection versus no barrier. If you are likely to be in close contact with someone infected, a mask cuts the chance of the disease being passed on.*
+> *Porter un masque facial ne garantit pas que vous ne serez pas malade - les virus peuvent également se transmettre à travers les yeux, et les minuscules particules virales, connues sous le nom d'aérosols, peuvent pénétrer à travers les masques. Cependant, les masques capturent efficacement les gouttelettes, principale voie de transmission du coronavirus, et certaines études ont estimé que les masques protégeaient environ cinq fois plus que s'il n' existait aucune barrière. Si vous êtes susceptible d'être en contact étroit avec une personne infectée, un masque réduit le risque de transmission de la maladie.*
 
-This only focusses on preventing you from getting coronavirus. There's also the fact that the mask can help (a bit) in keeping you from spreading it further. Because the way things are going right now, it looks like we should do every little thing we can to try to slow this thing down.
+Cela ne concerne que les modalités permettant d'empêcher de se contaminer par le coronavirus. D'autre part, le masque peut aider (un peu) à empêcher une personne infectée de disséminer le virus. Dans le contexte actuel, il semble utile de faire toutes les petites actions possibles pour essayer de ralentir ce phénomène.
 
-So when I got home, I set out to rush out a face mask pattern. Common sense says it can't hurt, and apparently there's more to it too. If nothing else, I want a cute face mask, not one of the ugly ones you see on the news.
+Alors quand je suis rentré chez moi, je me suis précipité pour travailler sur un patron de masque facial. Le bon sens dit que ça ne peut pas faire de mal, et peut être est ce utile. Faute de mieux, je veux un joli masque, pas une de ces horreurs qu'on voit aux informations.
 
-Stay safe out there.
+Prenez soin de vous.

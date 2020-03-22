@@ -1,25 +1,25 @@
 ---
-date: 2020-02-28
-title: We just published a face mask pattern, because coronavirus
-linktitle: "Fu face mask"
+date: 28.02.2020
+title: Wir haben gerade ein Gesichtsmaskenmuster wegen des Coronavirus veröffentlicht
+linktitle: "Fu-Gesichtsschutzmaske"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Fu face mask"
+caption: "Halten Sie diese mit dem Virus infizierten Tröpfchen mit unserer Fu-Gesichtsmaske in Schach"
 author: joost
 ---
 
 
-The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
+Die Ausbreitung des Coronavirus Covid-19 scheint unerbittlich zu sein, und trotz der besten Versuche weltweit wird die Möglichkeit einer globalen Pandemie von Tag zu Tag realer. Das wirft die Frage auf, was wir tun können?
 
-Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
+Vielleicht nicht viel, aber wir können Schnittmuster entwerfen. Begrüßen Sie also die [Fu-Gesichtsmaske](/designs/fu/), ein einfaches Schnittmuster, mit dem Sie Ihre eigenen Gesichtsmasken anfertigen können. Eine, die man den ganzen Tag tragen kann, denn diese medizinischen Geräte sind nicht gerade bequem.
 
-Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
+Ob eine Gesichtsmaske tatsächlich hilft, ist Gegenstand einer Diskussion. Ich habe ein bisschen hin und her über die Frage nachgedacht, ob ich ein Schnittmuster für eine Gesichtsmaske veröffentlichen soll. Dann - heute früh - las ich einen [Guardian](https://www.theguardian.com/) Artikel namens [Ja, es ist schlimmer als die Grippe: die Auflösung der Coronavirus-Mythen](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). Sie enthielt die folgende Passage unter dem Mythos *Gesichtsmasken funktionieren nicht*:
 
-> ###### Claim: ‘Face masks don’t work’
+> ###### Behauptung: 'Gesichtsmasken funktionieren nicht'
 > 
-> *Wearing a face mask is not an iron clad guarantee that you won’t get sick – viruses can also transmit through the eyes and tiny viral particles, known as aerosols, can still penetrate masks. However, masks are effective at capturing droplets, which is the main transmission route of coronavirus, and some studies have estimated a roughly five-fold protection versus no barrier. If you are likely to be in close contact with someone infected, a mask cuts the chance of the disease being passed on.*
+> *Das Tragen einer Gesichtsmaske ist keine sichere Garantie dafür, dass man nicht krank wird - Viren können auch durch die Augen übertragen werden, und winzige Viruspartikel, so genannte Aerosol-Partikel, können dennoch in Masken eindringen. Masken sind jedoch wirksam beim Auffangen von Tröpfchen, dem Hauptübertragungsweg des Coronavirus, und einige Studien haben einen etwa fünffachen Schutz gegenüber keiner Barriere geschätzt. Wenn Sie wahrscheinlich in engem Kontakt mit einer infizierten Person stehen, verringert eine Maske die Wahrscheinlichkeit, dass die Krankheit weitergegeben wird.*
 
-This only focusses on preventing you from getting coronavirus. There's also the fact that the mask can help (a bit) in keeping you from spreading it further. Because the way things are going right now, it looks like we should do every little thing we can to try to slow this thing down.
+Damit soll lediglich verhindert werden, dass Sie das Coronavirus bekommen. Es gibt auch die Tatsache, dass die Maske (ein bisschen) helfen kann, die Verbreitung von Corona zu verhindern. Denn so wie die Dinge im Moment laufen, sollten wir wohl jede Kleinigkeit tun, um die Sache zu verlangsamen.
 
-So when I got home, I set out to rush out a face mask pattern. Common sense says it can't hurt, and apparently there's more to it too. If nothing else, I want a cute face mask, not one of the ugly ones you see on the news.
+Als ich nach Hause kam, machte ich mich also auf den Weg, um ein Schnittmuster für eine Gesichtsmaske zu erstellen. Der gesunde Menschenverstand sagt, dass es nicht schaden kann, und anscheinend steckt auch mehr dahinter. Nicht zuletzt möchte ich eine süße Gesichtsmaske, nicht eine der hässlichen, die man in den Nachrichten sieht.
 
-Stay safe out there.
+Bleiben Sie sicher da draußen.

@@ -1,3 +1,3 @@
-![Height option](./height.svg)
+![Höhen-Option](./height.svg)
 
-Controls the height of your face mask.
+Regeln Sie die Höhe Ihrer Gesichtsmaske.

@@ -1,15 +1,15 @@
 
-The goal of our mask is to stop droplets. So you want to go for something that filters those out. Then again, you need to be able to breath through your mask, so we want fabric that breathes, without letting droplets through.
+Le but de notre masque est d'arrêter les gouttelettes. Il faut donc chercher un tissu qui répond à ce besoin. Encore une fois, vous devez pouvoir respirer à travers votre masque, donc nous voulons un tissu qui respire, mais qui ne laisse pas passer les gouttelettes passer.
 
-In addition, we want the inside to be comfortable on our skin. So here I'd suggest a tightly woven cotton or viscose/rayon. For the outter fabric, cotton again, or a tightly woven wool.
+De plus, nous voulons que l'intérieur soit de contact agréable sur notre peau. Je suggère donc ici un coton ou une viscose. Pour le tissu extérieur, encore un coton ou un lainage à maille dense.
 
 <Note>
 
-Note that fabric that is *breathable* is not the same as fabric your can breath through.
-There's many so-called waterproof breathable fabrics — or MBFs — that are used for outdoor gear because they 
-repel water and are *breathable* but would make a poor choice for a face mask. 
-Look no further than your umbrella for an example. Chances are it's more from a fabric you can breath through,
-but only with substantial effort, which would not work for our face mask.
+Notez qu'un tissu "respirant" n'est pas un tissu à travers lequel on peut respirer.
+Il existe de nombreux tissus respirants hydrofuges — qui sont utilisés pour l'équipement extérieur, parce qu'ils 
+repoussent de l'eau tout en laissant la vapeur d'eau passer, mais ce serait un mauvais choix pour un masque facial. 
+Ne cherchez pas plus loin que votre parapluie, pour prendre un exemple. C'est probablement un tissu à travers lequel vous pouvez respirer,
+mais seulement avec un effort substantiel, ce qui ne conviendrait pas pour notre masque facial.
 
 </Note>
 
