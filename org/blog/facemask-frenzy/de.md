@@ -32,4 +32,8 @@ Also wollen wir natürlich helfen:
 
 Nun legen sie los und machen einen Haufen. Unsere Mitarbeiter im Gesundheitswesen zählen auf Sie!
 
+<Note>
+
+PS: You can support us by [becoming a patron](/patrons/join/) ❤️
+</Note>
 
