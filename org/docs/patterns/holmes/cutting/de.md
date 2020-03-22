@@ -3,12 +3,12 @@ title: Cutting
 ---
 
  - **Main fabric**
-   - Cut the amount of **gores** the you selected in the pattern options
-   - Cut **2 ear** parts
-   - Cut **4 brim** parts
+   - Schneiden Sie die Menge von **Keil** die Sie in den Musteroptionen ausgewählt haben
+   - Schnitt **2 Ohrteile**
+   - Schnitt **4 Krempeteile**
  - **Lining fabric**
-   - Cut the amount of **gores** the you selected in the pattern options
-   - Cut **2 ear** parts
- - **Plastic**
-   - Cut **2 brim**.
+   - Schneiden Sie die Menge von **Keil** die Sie in den Musteroptionen ausgewählt haben
+   - Schnitt **2 Ohrteile**
+ - **Kunststoff**
+   - Schnitt **2 Krempe**.
 
