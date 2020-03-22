@@ -1,15 +1,15 @@
 ---
-date: 2020-03-01
-title: A Fu face mask in red and blue
+date: 01.03.2020
+title: Eine Fu Gesichtsmaske in rot und blau
 img: showcase.jpg
-caption: Sorcha wears a red and blue tartan Fu face mask
+caption: Sorcha trägt eine rote und blaue Tartan Fu Gesicht Maske
 patterns:
-  - fu
+  - Fu
 author: joost
 ---
 
-Sorcha is a healthcare provider working in the [Antwerp University Hospital](https://www.uza.be/), one of Belgium's two centres of reference for coronavirus.
+Sorcha ist eine Angestellte der [Universitätsklinik Antwerpen](https://www.uza.be/), eines der beiden belgischen Referenzzentren für Coronaviren.
 
-At work, she wears medical-grade face mask. This [Fu face mask](/designs/fu/) is for her commute to work on public transport.
+Bei der Arbeit trägt sie eine Gesichtsmaske in medizinischer Qualität. Diese [Fu-Gesichtsmaske](/designs/fu/) ist für ihr Pendeln zur Arbeit im öffentlichen Verkehr.
 
 
