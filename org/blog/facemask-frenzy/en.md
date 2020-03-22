@@ -34,4 +34,7 @@ So obviously, we want to help:
 
 No go and make a bunch. Our healthcare workers are counting on you!
 
+<Note>
 
+PS: You can support us by [becoming a patron](/patrons/join/) ❤️
+</Note>
