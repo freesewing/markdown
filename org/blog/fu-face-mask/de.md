@@ -1,18 +1,18 @@
 ---
-date: 2020-02-28
-title: We just published a face mask pattern, because coronavirus
-linktitle: "Fu face mask"
+date: 28.02.2020
+title: Wir haben gerade ein Gesichtsmaskenmuster wegen des Coronavirus veröffentlicht
+linktitle: "Fu-Gesichtsschutzmaske"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Fu face mask"
+caption: "Halten Sie diese mit dem Virus infizierten Tröpfchen mit unserer Fu-Gesichtsmaske in Schach"
 author: joost
 ---
 
 
-The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
+Die Ausbreitung des Coronavirus Covid-19 scheint unerbittlich zu sein, und trotz der besten Versuche weltweit wird die Möglichkeit einer globalen Pandemie von Tag zu Tag realer. Das wirft die Frage auf, was wir tun können?
 
-Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
+Vielleicht nicht viel, aber wir können Schnittmuster entwerfen. Begrüßen Sie also die [Fu-Gesichtsmaske](/designs/fu/), ein einfaches Schnittmuster, mit dem Sie Ihre eigenen Gesichtsmasken anfertigen können. Eine, die man den ganzen Tag tragen kann, denn diese medizinischen Geräte sind nicht gerade bequem.
 
-Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
+Ob eine Gesichtsmaske tatsächlich hilft, ist Gegenstand einer Diskussion. Ich habe ein bisschen hin und her über die Frage nachgedacht, ob ich ein Schnittmuster für eine Gesichtsmaske veröffentlichen soll. Dann - heute früh - las ich einen [Guardian](https://www.theguardian.com/) Artikel namens [Ja, es ist schlimmer als die Grippe: die Auflösung der Coronavirus-Mythen](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
 
 > ###### Claim: ‘Face masks don’t work’
 > 
