@@ -2,10 +2,10 @@
 title: What you need
 ---
 
-To make a Fu face mask, you will need the following:
+Um eine Fu-Gesichtsmaske herzustellen, benötigen Sie folgendes:
 
 - Basic sewing supplies
-- About 15 cm (6") of a suitable fabric ([see Fabric options](/docs/patterns/fu/fabric/))
-- About 15 cm (6") of lining fabric
-- About 1.2 meter (4 feet) of ribbon cut in 4 equal parts
+- Etwa 15 cm (6") eines geeigneten Stoffes ([siehe Stoffoptionen](/docs/docs/patterns/fu/fabric/))
+- Etwa 15 cm (6") Futterstoff
+- Etwa 1,2 Meter (4 Fuß) Farbband, das in 4 gleiche Teile geschnitten wurde
 
