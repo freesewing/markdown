@@ -1,35 +1,34 @@
 ---
 date: 2020-03-19
-title: "Calling all makers: Here's a 1-page PDF facemask pattern; Now go make some and help beat this thing"
-linktitle: "Facemask frenzy"
+title: "Oproep aan alle makers: Hier is een PDF patroon voor een mondmasker; Laten we samen aan de slag gaan"
+linktitle: "Mondmasker patroon"
 img: diana.jpg
-caption: "Dr. Dragnea from Antwerp University hospital wearing a Fu facemask"
+caption: "Dr. Dragnea van het Universitair ziekenhuis in Antwerpen met een Fu mondmasker"
 author: joost
 ---
 
 <Note>
 
-**TL;DR: Please make facemasks for healthcare workers**
+**TL;DR: Oproep om mondmaskers te maken voor wie gezondheidszorg werkers**
 
-
- - PDF pattern for our Fu face mask:
-   - [A4 facemask pattern](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter facemask pattern](/fu-facemask-freesewing.org.letter.pdf)
- - [Instructions for the facemask pattern](/docs/patterns/fu/instructions/)
+ - PDF Patroon voor ons Fu mondmasker
+    - [A4 patroon](/fu-facemask-freesewing.org.a4.pdf)
+    - [US Letter patroon](/fu-facemask-freesewing.org.letter.pdf)
+ - [Instructies voor het patroon](/docs/patterns/fu/instructions/)
 
 </Note>
 
 <YouTube id='VcQ69_ANsRA' />
 
-Well that escalated quickly. We published [our Fu Face Mask pattern](/designs/fu/) at the end of last month, hoping it would be helpful. Now, [hospitals are actively reaching out to people to beg them to make fabric face masks for their staff](https://www.uza.be/mondmaskers).
+Wel dat ging snel. We publiceerden [ons Fu mond masker patroon](/designs/fu/) op het eind van vorige maand, in de hoop dat het nuttig kon zijn. Nu [roepen ziekenhuizen op](https://www.uza.be/mondmaskers) om massaal mond maskers te maken voor hun personeel.
 
-So obviously, we want to help:
+Dus uiteraard willen we daarbij helpen:
 
- - PDF pattern for our Fu face mask:
-   - [A4 facemask pattern](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter facemask pattern](/fu-facemask-freesewing.org.letter.pdf)
- - [Instructions for the facemask pattern](/docs/patterns/fu/instructions/)
+ - PDF patroon voor ons Fu mondmasker:
+   - [A4 mondmasker patroon](/fu-facemask-freesewing.org.a4.pdf)
+   - [US Letter mondmasker patroon](/fu-facemask-freesewing.org.letter.pdf)
+ - [Instructies voor het patroon](/docs/patterns/fu/instructions/)
 
-No go and make a bunch. Our healthcare workers are counting on you!
+Tijd om er een stapel te maken. Onze gezondheidszorg werkers rekenen op je!
 
 
