@@ -2,13 +2,13 @@
 title: Pente d'épaule
 ---
 
-The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward.
+La mesure de **pente d'épaule** est un indicateur de la façon dont vos épaules descendent.
 
-To measure your shoulder slope, measure from the center of your back at the hipline to the tip of your shoulder.
+Pour le calcul de votre pente d'épaule, mesurez d'abord la longueur entre le milieu de votre dos (en partant de la ligne située au niveau de l'os des hanches) et la pointe de votre épaule.
 
 <Note>
 
-This measurement will be combined with [the HPS to hips back measurement](/docs/measurements/hpstohipsback/) to determine the slope of your shoulders.
+Cette mesure sera combinée avec celle de la longueur entre le milieu du dos (toujours en partant de la ligne située au niveau de l'os des hanches) et la base de l'encolure (/docs/measurements/hpstohipsback/) et permettra de calculer la pente d'épaule.
 
 </Note>
 
