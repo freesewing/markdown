@@ -1,5 +1,5 @@
 ---
-date: 2018-08-13
+date: 13-08-2018
 title: Sloppy Theo trousers
 img: showcase.jpg
 caption: "Theo Trousers"
