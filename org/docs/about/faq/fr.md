@@ -70,12 +70,12 @@ Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas
 
 ## Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
 
-Oui, vous pouvez. Open Source is a development model, not a business model.
+Oui, vous pouvez. L'Open Source est un modèle de développement, pas un modèle commercial.
 
-If our work can help you put food on the table, by all means go ahead.
+Si notre travail peut vous aider à joindre les deux bouts, alors profitez-en.
 
-## What's your end game?
+## Quel est votre objectif ?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+Nous aimerions que freesewing.org devienne le Wikipédia des patrons de couture.
 
-Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons donner les moyens de faire aux créateurs en diffusant les connaissances de la communauté couture sous la forme de patrons et de documentation, tout en rendant ces informations disponibles au plus grand nombre. 
