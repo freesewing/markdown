@@ -1,6 +1,6 @@
 ---
 date: 2020-03-19
-title: "Calling all makers: Here's a 1-page PDF facemask pattern; Now go make some and help beat this thing"
+title: "Appel à tous : voici un patron de masque facial PDF en 1 page ; maintenant, fabriquez-en quelques uns et aidez à vaincre cette chose."
 linktitle: "Facemask frenzy"
 img: diana.jpg
 caption: "Dr. Dragnea from Antwerp University hospital wearing a Fu facemask"
