@@ -2,77 +2,75 @@
 title: Foire Aux Questions (FAQ)
 ---
 
-## How can I sign up? I never received the E-mail to activate my account!
+## Comment s'inscrire ? Je n'ai jamais reçu l'e-mail pour activer mon compte !
 
-If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+Si vous n'avez pas reçu l'e-mail, vérifiez votre dossier spam. Si vous ne le trouvez pas dans les spams, il est très probable que votre fournisseur de messagerie l'ait complètement bloqué.
 
-Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
+Essayez d'utiliser une adresse mail différente, ou [contactez-nous](https://gitter.im/freesewing/help) afin que nous puissions vous aider à activer votre compte.
 
 <Note>
 
-##### Users in France are more likely to run into this problem
+##### Les utilisateurs français sont plus susceptibles de rencontrer ce problème
 
-In in France, several E-mail provider share the same filtering:
+En France, plusieurs fournisseurs de messagerie partagent le même filtrage :
 
- - free.fr
  - laposte.net
- - organge.fr
+ - orange.fr
  - sfr.fr
 
-They are all known to cause issues with deliveries.
+Ils sont tous connus pour causer ces problèmes de réception
 
 </Note>
 
-## Why do I need to create an account to download a made-to-measure pattern?
+## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
 
-For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
+Pour des raisons pratiques. Pour créer des patrons sur mesure </ b>, nous avons besoin de vos mesures </ b>.
 
-Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous les enregistrons. Et c'est sur votre compte que nous le faisons.
 
-Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
+Sans conservation de vos mesures en mémoire, la génération de patrons sur mesure serait très peu pratique.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Demandez vous parce que vous ne faites pas confiance ?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+Cette question suggère souvent une méfiance liée à la création d'un compte. Ainsi, les questions suivantes peuvent être pertinentes :
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
+ - [Que faites-vous de mes données personnelles ? (#what-are you-doing-with-my-personal-data)
+ - [Qui paie pour tout ça ?](#who-pays-for-all-of-this)
+ - [Quel est votre objectif ?](#whats-your-end-game)
 
 </Note>
 
-## I know my size, but your pattern doesn't fit me
+## Je connais ma taille, mais votre patron ne me va pas
 
-The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
+Les tailles standard que nous proposons sont là pour vous permettre de découvrir notre plate-forme sans avoir besoin de créer un compte. Nous vous déconseillons de les utiliser tels quels.
 
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+La conception de patron sur mesure est vraiment *notre spécialité*. Si vous voulez absolument un patron de taille standard, FreeSewing n'est pas fait pour vous.
 
-Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
+Heureusement, Fiona propose [une liste de patrons indépendants](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , donc vous avez beaucoup d'alternatives.
 
-## What are you doing with my personal data?
+## Que faites-vous de mes données personnelles ?
 
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
+La manière dont nous traitons vos données personnelles est expliquée dans [notre politique de confidentialité](/docs/about/privacy/).
 
-## Who pays for all of this?
+## Qui paie pour tout ça ?
 
-The FreeSewing project is supported financially by [our patrons](/patrons).
+Le projet FreeSewing est soutenu financièrement par [nos mécènes](/patrons).
 
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Les mécènes sont des utilisateurs comme vous, qui ont accepté de faire une petite contribution mensuelle pour le maintien et le fonctionnement de Freesewing.
 
 <Note>
 
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+##### Rejoignez les mécènes de Freesewing
+Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas 
+[devenir mécène](/mécènes/nous rejoindre) vous aussi ?
 
 </Note>
 
-## Can I use FreeSewing patterns for commercial purposes?
+## Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
 
-Yes you can. Open Source is a development model, not a business model.
+Oui, vous pouvez. Open Source is a development model, not a business model.
 
 If our work can help you put food on the table, by all means go ahead.
 
