@@ -21,7 +21,7 @@ We (currently) have [23 patterns available](/patterns/), we publish 62 packages 
 
 Depuis la v2, nous sommes également passés à [Crowdin](https://crowdin.com) pour [nos traductions](https://freesewing.dev/guides/translator/). La traduction est sans doute le meilleur moyen de démocratiser l'accès à notre plate-forme, et je voudrais pousser un grand cri pour tous ceux qui ont aidé et continuent à aider dans ces efforts.
 
-C'est peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+C'est peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Commencez par notre [documentation traducteurs](https://freesewing.dev/guides/translator/), ou faites un tour sur [notre forum dédié aux traductions](https://gitter.im/freesewing/translation).
 
 ## What we're planning for next year
 
