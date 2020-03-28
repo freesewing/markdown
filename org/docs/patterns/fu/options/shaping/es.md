@@ -1,3 +1,3 @@
-![Shaping option](./shaping.svg)
+![Opciones de forma](./shaping.svg)
 
-Controls the curvature used to fit the mask around your chin.
+Controla la curvatura utilizada para ajustar la máscara alrededor de tu mentón.
