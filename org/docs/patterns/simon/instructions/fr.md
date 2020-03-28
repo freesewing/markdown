@@ -632,5 +632,5 @@ Lorsque vous avez marqué la poition des boutons, cousez-les.
 > 
 > De cette façon, si une boutonnière a un peu dévié, le bouton la suivra tout simplement.
 
-![That's it, you're done](finished.gif)
+![Voilà, c'est fini !](finished.gif)
 
