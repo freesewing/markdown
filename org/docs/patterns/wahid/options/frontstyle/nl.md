@@ -1,2 +1,3 @@
+![Front style](frontstyle.svg)
 
-Wil je een klassieke rechte halslijn, of een afgeronde hals?
+Do you want a classic straight neckline, or a curved neckline?
