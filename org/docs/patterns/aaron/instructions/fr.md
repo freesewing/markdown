@@ -22,9 +22,9 @@ Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et l
 
 <Note>
 
-##### À propos du bord côte
+##### À propos du biais de jersey
 
-Si vous êtes novice en [tricot binding](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
+Si vous êtes novice en [biais de jersey](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
 
 ###### Répéter les étapes 3 et 4 pour les emmanchures et l'ouverture du cou
 
@@ -59,17 +59,17 @@ La première chose à faire est de décider où nous allons démarrer/arrêter n
 
 ![Placer (démarrer) votre biais](step03b.png)
 
-Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
+Positionnez votre A-shirt avec l'endroit visible, et placez votre bande de biais sur le dessus avec l'endroit au-dessous (en gros, endroit contre endroit).
 
-Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
+Alignez le bord long de votre bande avec le bord de votre tissu, de sorte que la bande se trouve sur le tissu (pas dans l'ouverture). Placez le coin sur votre point de départ.
 
-Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
+Déplacez maintenant votre bande de biais de 1cm avant votre point de départ. Cette petite marge vous garantira de pouvoir rejoindre les deux extrémités plus tard.
 
-> The easy way to keep this 1.5cm distance is by using a seam gauge. Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. Then all you need to do is keep the edge of your fabric aligned with that line.
+> Le moyen facile de garder cette distance de 1,5 cm est d'utiliser une jauge de couture. Ou faites ce que je fais, placez un morceau de ruban adhésif (type masking tape) sur votre machine à coudre et alignez-le à 1,5 cm de votre aiguille. Ensuite, il vous suffit de garder le bord de votre tissu aligné sur cette ligne.
 
-### Make sure you know where to sew
+### Assurez-vous de savoir où coudre
 
-![Make sure you know where to sew](step03c.png)
+![Assurez-vous de savoir où coudre](step03c.png)
 
 We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
 
