@@ -4,7 +4,7 @@ Do you want a split yoke?
 
 <Note>
 
-###### What's the point?
+###### Waarom?
 
 With a split yoke, only half the yoke is included on the pattern, and you'll have to cut 4 parts instead of 2, and sew them together.
 
