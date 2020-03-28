@@ -11,27 +11,27 @@
 
 <Warning>
 
-###### Caveat
+######Opgelet
 
- - There is no seam allowance on the **interfacing** parts and the **loop**
- - The **lining** **tip** and **tail** have only seam allowance at the tip
- - The **fabric** **tip** and **tail** have only seam allowance at the tip and center
+- Er is geen naadwaarde voor de **tussenvoering** delen en de **lus**
+- De **voering** **punt** en **staart** hebben enkel naadwaarde aan de punt.
+- De **buitenstof** **punt** en **staart** hebben enkel naadwaarde aan de punt en in het midden
 
 </Warning>
 
 <Tip>
 
-###### Choosing your tie grain
+######Kies de draadrichting van je das
 
-![One fabric, different grains, different ties. Don't worry about rules, make what you like](tie-grain.png)
+![Eén stof, verschillende draadrichting, verschillende dassen. Maak je geen zorgen over de regels, maak wat je leuk vindt](tie-grain.png)
 
-This pattern does not include a grain line. Normaal gezien wordt de draadrichting op het patroon geprint om je te tonen hoe je het patroon op de stof moet leggen, afhankelijk van de draadrichting.
+Dit patroon heeft geen draadrichting. Normaal gezien wordt de draadrichting op het patroon geprint om je te tonen hoe je het patroon op de stof moet leggen, afhankelijk van de draadrichting.
 
 Voor een das is dit niet echt een regel, eerder een persoonlijke keuze. Daarom staat er geen draadrichting op het patroon. Je kan doen wat je wil.
 
 Dit gezegd zijnde zijn veel dassen schuin van draad geknipt, aangezien dit het mooiste valt. Als je niet zeker bent wat te doen, knip je das dan misschien schuin van draad.
 
-If this all sounds very confusing, might I suggest reading the help page on [Fabric grain](/docs/sewing/fabric-grain).
+Als dit allemaal erg verwarrend vindt kan ik je aanraden onze pagina over <a href="/en/docs/sewing/fabric-grain">Draadrichting</a> eens te bekijken).
 
 </Tip>
 
