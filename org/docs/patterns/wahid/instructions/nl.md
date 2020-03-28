@@ -217,69 +217,69 @@ Begin aan de middenrug, en volg de halslijn tot aan de sluiting vooraan. Ga rond
 
 Als je voering netjes vastgespeld is, stik je de voering en de buitenstof samen.
 
-Do not forget to leave that 15cm gap at the center back.
+Vergeet niet die 15 cm aan de middenrug open te laten.
 
 #### Keer het gilet en strijk de randen
 
-![Turn waistcoat and press edgess](09d.png)
+![Keer het gilet en strijk de randen](09d.png)
 
-Reach through the gap you left open at the hem, and turn your waistcoat.
+Keer je gilet naar de goede kant door de opening die je aan de zoom liet.
 
-Press the edges you've just sewn, making sure to roll the fabric a bit so that the lining is always hidden.
+Strijk de randen die je net gestikt hebt, en let op dat je de stof een beetje omrolt zodat de voering altijd verborgen is.
 
-### Step 10: Finish the armholes
+### Stap 10: Werk de armsgaten af
 
 #### Speld de naadwaarde van de stof om
 
 ![Speld de naadwaarde van de stof om](10a.png)
 
-All along the armhole, pin back the seam allowance of your waistcoat fabric. While doing so, keep your lining out of the way.
+Speld de naadwaarde van je buitenstof naar de verkeerde kant, helemaal rond het armsgat. Hou je voering uit de weg terwijl je dit doet.
 
 #### Speld de voering om
 
 ![Speld de voering om](10b.png)
 
-Now fold back your lining a bit before the edge of the armhole and pin it down.
+Plooi nu de voering tot net voor de rand van het armsgat en speld ze vast.
 
 #### Naai de voering aan de stof
 
-![Hand-sew teh lining to the farbric](10c.png)
+![Naai de voering aan de stof](10c.png)
 
-Use a slipstitch to hand-sew the lining to the fabric all along the armhole.
+Gebruik een blinde steek om de voering rond het hele armsgat aan de buitenstof te naaien.
 
-### Step 11: Finish the hem
-Remember that gap we didn't close in step 9? Time to close it.
+### Stap 11: Werk de zoom af
+Weet je nog, die opening uit stap 9? Tijd om die dicht te maken.
 
-Use a slipstitch to hand-sew the lining to the fabric and close the hem.
+Gebruik een blinde steek om de voering met de hand aan de buitenstof te naaien en de zoom te sluiten.
 
-### Step 12: Make the buttonholes
+### Stap 12: Maak de knoopsgaten
 
-![Make the buttonholes](12a.png)
+![Maak de knoopsgaten](12a.png)
 
-If you haven't done so yet, transfer the buttonhole placement from your pattern onto your fabric.
+Markeer de knoopsgaten op je gilet, als je dit nog niet gedaan hebt.
 
-Make those buttonholes.
+Maak deze knoopsgaten.
 
-### Step 13: Attach the buttons
+### Stap 13: Naai knopen aan
 
-![Attach the buttons](13a.png)
+![Naai de knopen aan](13a.png)
 
-Pin your waistcoat closed and transfer the location of your buttonholes to the button side.
+Speld je gilet dicht en markeer de plaats van je knoopsgaten op de kant waar de knopen moeten komen.
 
-Sew on those buttons.
+Naai de knopen aan.
 
-> You could also transfer the location of the buttons from the pattern. However, transferring the buttonholes you just made assures you that the buttons and buttonholes will line up, even if your buttonhole(s) is/are ever so slightly off.
+> Je kan de plaats van de knopen ook overnemen van het patroon. Door je te baseren op de knoopsgaten die je net maakte verzeker je dat de knopen en knoopsgaten overeenkomen, zelfs als je knoopsgaten een beetje afwijken.
 
-### Step 14: Optional: Pick-stitch the edges
+### Stap 14: Optioneel: Pit de randen door
 
-![You can optionally pick-stitch the edges of your waistcoat](14a.png)
+![Je kan optioneel een doorpitsteek gebruiken aan de randen van je gilet](14a.png)
 
-If you'd like, you can pick-stitch around the edges of your waistcoat.
+Als je wil kan je een doorpitsteek rond de randen van je gilet gebruiken.
 
-Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches it surface for a few threads. You've certainly seen it as a finish on suit jackets.
+Een doorpitsteek wordt met de hand gemaakt. Je maakt een eenvoudige steek een paar mm van de randen van je gilet, maar maakt je steekje maar voor een paar draadjes aan de buitenkant zichtbaar. Je hebt dit sowieso al gezien als een afwerking aan kostuumjasjes.
 
-> You can pick-stitch with thread of the same colour, or use a contrasting colour of you're feeling bold.
+> Je kan de doorpitsteek maken met garen van dezelfde kleur, of een contrasterende kleur gebruiken als je eens gek wil doen.
 
-> While pick-stitching adds a distinctive look, it also locks your fabric to your lining/facing which prevents things from shifting around.
+> Een doorpitsteek geeft een bepaald uitzicht, maar bevestigt ook de stof aan de voering en beleg zodat dingen minder gaan rondschuiven.
 
-After this, you probably want to iron your waistcoat.
+Hierna zou je je gilet best nog eens goed strijken.
