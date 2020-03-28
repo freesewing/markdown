@@ -1,5 +1,5 @@
 ---
-title: Biais en jersey
+title: Biais de jersey
 ---
 
 ## Qu'est-ce que le biais de jersey de toute façon ?
@@ -16,7 +16,7 @@ Knit band is what you typically find at the neck opening of your Tshirt. It's a 
 
 This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
 
-### Biais en jersey
+### Biais de jersey
 ![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
 Real knit binding acts more like classic bias binding, in that it is wrapped around the fabric, rather than extend from it.
