@@ -1,2 +1,3 @@
+![Biceps ease](bicepsease.svg)
 
-Hoeveel ruimte wil je aan je bovenarm?
+How much room do you want at your upper arm?
