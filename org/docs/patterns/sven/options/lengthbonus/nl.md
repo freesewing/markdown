@@ -1,2 +1,3 @@
+![Bonus lengte](lengthbonus.svg)
 
-Deze optie zal het lijf van je sweater langer maken.
+This option will lengthen the body of your sweatshirt.
