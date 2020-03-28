@@ -419,38 +419,38 @@ Ensuite, coudre horizontalement jusqu'à l'autre côté de la patte pour finir.
 ![Aligning the fabric for a flat-felled seam](14c.png)
 
 
-> **Attention avec la marge de couture supplémentaire pour la couture plat rabattue** Une marge de couture supplémentaire est prévue sur la manche pour permettre la réalisation d'une couture plate rabattue.
+> **Attention avec la marge de couture supplémentaire pour la couture plat rabattue**. Une marge de couture supplémentaire est prévue sur la manche pour permettre la réalisation d'une couture plate rabattue.
 > 
 > Par conséquent, ce sont les coutures et non les bords qui doivent être alignés, donc il faut positionner la manche de façon à ce qu'elle dépasse du bord de 1 cm.
 
-#### Pin shirt in place
+#### Épingler à la chemise
 
-![Pin shirt in place](14a.png)
+![Épingler à la chemise](14a.png)
 
-Spread your shirt open so that both fronts and back lie flat with their good sides up.
+Étalez votre chemise sur l'envers, en mettant les deux devants et le dos bien à plat.
 
-Now place your sleeve on top with the good side down, matching the notch at the top of the sleeve with the shoulder seam.
+Placez maintenant votre manche dessus, endroit contre endroit, en faisant correspondre le repère du haut de la manche avec la couture d'épaule.
 
-> Be careful, your sleeve is not symmetric, so be sure to have the double notch (and cuff guard) on the back side, and the single notch on the front side.
+> Attention, votre manche n'est pas symétrique, alors assurez-vous d'avoir les deux repères (et la patte de boutonnage du poignet) à l'arrière. et le repère simple à l'avant.
 > 
-> Also note that the double notches on the back of your sleeve do not have corresponding notches on the back. That's because it should match op with the seam where your yoke joins the back.
+> Notez également que les repères doubles au dos de votre manche n'ont pas de repères marqués sur le dos. C'est parce que sur le dos, le repère est constitué par la couture assemblant l'empiècement dos et le dos.
 
-You now need to pin the sleeve to the armhole. To do so, make sure to:
+Vous devez maintenant épingler la manche à l'emmanchure. Pour ce faire, assurez-vous de :
 
- - Match the start and end of the sleevehead to the start and end of the armhole
- - Match the notches on the sleevehead to the notches on the back and fronts
- - Distribute the sleevecap ease between the notches as shown
+ - Faire correspondre le début et la fin de la tête de manche au début et à la fin de l'emmanchure
+ - Faire correspondre les repères de la tête de manche aux repères du dos et des devant
+ - Distribuer l'embu entre les repères comme indiqué
 
-#### Distribute sleavecap ease
+#### Répartir l'embu de la tête de manche
 
 ![Distribute the sleevecap ease](14b.png)
 
-The default sleevecap ease for this pattern is 0.5cm. If you have sleevecap ease, you need to distribute that extra length evenly between the notches as shown.
+Pour ce patron, l'embu de la tête de manche est de 0,5 cm par défaut. Si vous avez un embu plus important sur votre tête de manche, vous devez répartir cette longueur supplémentaire uniformément entre les repères, comme indiqué.
 
-> If you are unsure what sleevecap ease is, have a look at the [documentation for the sleevecap ease pattern option](/en/docs/patterns/simon/options#sleevecapEase).
+> Si vous n'êtes pas sûr de ce qu'est un embu de tête de manche, jetez un coup d'oeil à la documentation sur les [ options de tête de manche dans les patrons ](/en/docs/patterns/simon/options#sleevecapEase).
 
-#### Sew sleeve in armhole
-When you've got your sleeve neatly pinned in your armhole, sew it in place. Be careful to avoid any pleats in the part between the notches where you need to ease in the sleevecap ease.
+#### Coudre les manches aux emmanchures
+Lorsque vous avez bien épinglé votre manche dans votre emmanchure, cousez la en place. Faites attention à éviter les plis dans la partie située entre les repères au niveau de la tête de manche.
 
 > Needless to say, but I'll say it anyway: Repeat this step for the other sleeve.
 
