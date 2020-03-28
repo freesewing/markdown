@@ -1,2 +1,3 @@
+![Boordstof](ribbing.svg)
 
-Wil je boordstof aan de zoom/manchetten of niet?
+Do you want ribbing at the hem/cuffs or not?
