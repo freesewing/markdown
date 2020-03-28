@@ -193,7 +193,7 @@ Coudre sur la ligne marquant les pinces pour les fermer. Veillez à positionner 
 
 Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Couchez le tissu excédentaire de la pince vers ce qui sera les coutures latérales.
 
-### Étape 9 : Préparez la patte de boutonnage
+### Étape 9 : Préparez la patte de boutonnage (côté boutons)
 
 > Si vous avez choisi une patte de boutonnage intégrée, vous pouvez passer les deux premières sous-étapes et passer à [Replier la patte de boutonnage](#fold-the-button-placket).
 
@@ -203,7 +203,7 @@ Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Couchez le
 
 Si vous avez choisi une patte de boutonnage séparée, cousez-la sur le devant droit.
 
-Placer le devant droit (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce 1b), endroit contre endroit, en veillant à aligner la couture.
+Placer le devant droit (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce boutons, 1b), endroit contre endroit, en veillant à aligner la couture.
 
 Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
@@ -224,41 +224,41 @@ Quand vous êtes satisfait, repassez la patte pliée.
 
 ![Fixer la patte de boutonnage](9c.png)
 
-> Ceci est l'approche classique. If you have chosen the seamless Button placket style, you don't have to do this.
+> Ce qui suit est l'approche classique. Si vous avez choisi une patte de boutonnage intégrée (sans couture), vous n'avez pas à faire ceci.
 > 
-> Rather than sew the placket down, simply leave it folded. The folds will be secured in place when we attach the buttons later.
+> Plutôt que de coudre la patte de boutonnage, laissez-la pliée. Les plis seront fixés en place par les boutons lorsqu'ils seront cousus plus tard.
 
-From the good side of your shirt, sew down the folded placket by stitching in the ditch.
+Retourner la pièce sur l'endroit, et fixer la patte repliée en piquant dans la rainure.
 
-To do so, sew exactly on top of your earlier seam. Since you folded the fabric of your placket a bit passed this seam, it will get caught at the back, fixing your folded placket in place, and locking the seam allowance inside.
+Pour cela, coudre exactement sur votre couture précédente. Comme vous avez plié la patte en dépassant un peu cette couture, la patte sera prise au dos, ce qui la fixera et maintiendra la marge de couture à l'intérieur.
 
 
-### Step 10: Prepare the buttonhole placket
+### Etape 10: Préparer la patte de boutonnage (côté boutonnières)
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to Understanding a classic buttonhole placket.
+> Si vous avez choisi une patte intégrée, vous pouvez passer les deux premières sous-étapes et passer à "Replier la patte de boutonnage".
 
-#### Sew on the buttonhole placket
+#### Fixer la patte de boutonnage (côté boutonnières)
 
 ![Sew on the butonhole placket](10a.png)
 
-If you have chosen a separate buttonhole placket, sew it to the Front Left piece.
+Si vous avez choisi une patte séparée, cousez-la sur le devant gauche.
 
-Place the Front Left (piece 2) down with the good side up, and place the Buttonhole Placket (piece 2b) on top of it with the good side down, making sure to align the seam.
+Placer le devant gauche (pièce 2) sur l'envers, et placez dessus la patte de boutonnage (pièce boutonnières, 2b) endroit contre endroit, en veillant à aligner la couture.
 
 Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
-Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Press the seam allowance towards the placket side.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Repassez la couture en couchant la marge de couture côté patte de boutonnage.
 
-#### Press seam allowance to the placket side
-Place your front with the good side down, and press the seam allowance to the buttonhole placket side.
+#### Repassez la couture en couchant la marge de couture côté patte de boutonnage
+Placez votre devant sur l'endroit, et repassez en couchant la marge de couture du côté de la patte de boutonnage.
 
-#### Understanding a classic buttonhole placket
+#### Comprendre une patte de boutonnière classique
 
-> If you have chosen a seamless placket, you should follow the steps of the button placket, as the construction is identical.
+> Si vous avez choisi une patte sans couture, suivez les étapes de la patte de boutonnage côté boutons, car le principe est le même.
 > 
-> The steps below are for a classic buttonhole placket.
+> Les étapes ci-dessous sont celles d'une patte de boutonnière classique.
 
-![Understanding a classic buttonhole placket](10b.png)
+![Comprendre une patte de boutonnière classique](10b.png)
 
 Your placket has a bunch of lines on it, so let's first clarify what they are:
 
