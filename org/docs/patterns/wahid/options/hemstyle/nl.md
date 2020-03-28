@@ -1,2 +1,3 @@
+![Hem style](hemstyle.svg)
 
-Wil je een klassieke zoomlijn, of een afgeronde zoom?
+Do you want a classic hemline, or a rounded hemline?
