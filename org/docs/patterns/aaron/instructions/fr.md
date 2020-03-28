@@ -65,39 +65,45 @@ Alignez le bord long de votre bande avec le bord de votre tissu, de sorte que la
 
 Déplacez maintenant votre bande de biais de 1cm avant votre point de départ. Cette petite marge vous garantira de pouvoir rejoindre les deux extrémités plus tard.
 
-> Le moyen facile de garder cette distance de 1,5 cm est d'utiliser une jauge de couture. Ou faites ce que je fais, placez un morceau de ruban adhésif (type masking tape) sur votre machine à coudre et alignez-le à 1,5 cm de votre aiguille. Ensuite, il vous suffit de garder le bord de votre tissu aligné sur cette ligne.
-
 ### Assurez-vous de savoir où coudre
 
 ![Assurez-vous de savoir où coudre](step03c.png)
 
-We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
+Nous allons coudre à 1,5 cm du bord. Soyez donc prudent car ce n'est pas la marge habituelle de couture.
 
-Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
+<Tip>
 
-### Sew binding in place
+The easy way to keep this 1.5cm distance is by using a seam gauge. 
+Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
+Then all you need to do is keep the edge of your fabric aligned with that line.
 
-![Sew binding in place](step03d.png)
+</Tip>
 
-Sew your binding in place while gently stretching the binding, but not the fabric. Make sure not to sew the last 3cm but leave them, just as you did at the start.
+De plus, nous ne commençons pas à notre point de départ, nous laissons les 3 premiers centimètres. Nous aurons besoin de cette marge plus tard pour rejoindre les extrémités de notre biais.
 
-You might need to practice a bit to get the hang of it.
+### Coudre le biais bien positionné
+
+![Coudre le biais bien positionné](step03d.png)
+
+Cousez votre biais bien placé tout en étirant délicatement le biais, mais pas le tissu. Assurez-vous de ne pas coudre les 3 derniers cm, laissez-les comme au début.
+
+Vous aurez peut-être besoin de vous entraîner un peu pour y arriver.
 
 > Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
 
-### Mark binding ends
+### Marquer les extrémités du biais
 
 ![Joining the binding ends](step03e.png)
 
-With about 6cm left to go before we complete our circle, it's time to sew the ends of the binding together.
+Avec environ 6cm de marge avant de terminer notre cercle, il est temps de coudre les extrémités du biais ensemble.
 
-![Mark binding ends](step03f.png)
+![Marquer les extrémités du biais](step03f.png)
 
-Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
+Prenez l'un des bords et étirez-le le le long des 3 cm en le séparant du point de départ comme vous le feriez lors de la couture.
 
-Mark the where the binding reached the start point. Do the same for the other end.
+Faites une marque où le biais a atteint le point de départ. Faites la même chose pour l'autre extrémité.
 
-### Sew binding ends together
+### Assembler les extrémités du biais
 
 ![Join the ends of the binding](step03g.png)
 
@@ -107,7 +113,7 @@ Fold you A-shirt in whatever way makes it more easy for your to place both bindi
 
 ### Finish last 6cm of binding
 
-![Sew binding ends together](step03h.png)
+![Assembler les extrémités du biais](step03h.png)
 
 Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
 
