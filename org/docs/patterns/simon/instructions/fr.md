@@ -1,15 +1,15 @@
 ### Step 1: Fuse interfacing
 
-![Fuse cuff interfacing](1a.png) ![Fuse coller interfacing](1b.png)
+![Thermocollez l'entoilage aux poignets](1a.png) ![Thermocollez l'entoilage sur le col](1b.png)
 
-#### Repasser l'entoilage thermocollant sur les poignets
+#### Thermocoller au fer l'entoilage sur les poignets
 Pour faire les deux poignets, vous avez coupé 4 pièces dans le tissu et 2 pièces dans l'entoilage.
 
 Pour chaque poignet, repassez l'entoilage sur l'envers du poignet.
 
 > Si l'envers et l'endroit de votre poignet sont coupés dans le même tissu, peu importe le côté sur lequel vous collez l'entoilage.
 > 
-> Cependant, un détail prisé consiste à utiliser un tissu différent pour l'intérieur du poignet. Dans ce cas, assurez vous de coller l'entoilage sur la pièce qui se trouvera à l'extérieur du poignet. In this case, make sure to press the interfacing to the piece that you want to be the outside of your cuff.
+> Cependant, un détail prisé consiste à utiliser un tissu différent pour l'intérieur du poignet. Dans ce cas, assurez vous de thermocoller l'entoilage sur la pièce qui se trouvera à l'extérieur du poignet. Dans ce cas, assurez-vous de thermocoller l'entoilage sur la pièce du poignet qui sera côté extérieur.
 
 > Selon le poignet que vous avez choisi, la forme du poignet sera différente.
 > 
@@ -26,7 +26,7 @@ Poser l'entoilage thermocollant sur l'envers de chaque pièce et repassez le.
 
 #### Coudre les poignets ensemble
 
-![Sew the cuffs together](2a.png)
+![Coudre les poignets ensemble](2a.png)
 
 Placez les 2 pièces de vos poignets (l'une entoilée, l'autre non) endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
@@ -37,7 +37,7 @@ Placez les 2 pièces de vos poignets (l'une entoilée, l'autre non) endroit cont
 
 #### Dégarnir la marge de couture
 
-![Trim the seam allowance](2b.png)
+![Dégarnir la marge de couture](2b.png)
 
 Avant de retourner le poignet, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
@@ -51,7 +51,7 @@ Sur le côté du poignet qui sera fixé à la manche, repliez la marge de coutur
 
 #### Retourner le poignet et repasser
 
-![Turn the cuff around and press](2d.png)
+![Retourner le poignet et repasser](2d.png)
 
 Retournez votre poignet sur l'endroit, et donnez un bon coup de fer.
 
@@ -61,15 +61,15 @@ Vous pouvez maintenant mettre vos poignets de côté, nous les attacherons plus 
 
 ### Etape 3 : Préparer le col
 
-#### Sew collar and undercollar together
+#### Coudre ensemble le col et le sous-col
 
-![Sew collarand undercollar together](3a.png)
+![Coudre ensemble le col et le sous-col](3a.png)
 
 Placez les deux pièces du col endroit contre endroit, et cousez les ensemble en respectant la marge de couture.
 
 #### Dégarnir la marge de couture
 
-![Trim the seam allowance](3b.png)
+![Dégarnir la marge de couture](3b.png)
 
 Avant de retourner le col, il faut dégarnir la marge de couture pour enlever l'excédent de tissu.
 
@@ -121,7 +121,7 @@ Une fois que vous avez fait un côté, repartez de votre épingle au milieu et b
 
 Cousez le long du bord de votre pied de col, en respectant la marge de couture standard.
 
-> Make sure to stop 2cm before the edge (twice the standard seam allowance) as we'll be folding the seam allowance over in the next step, and we need to leave the collar stands separated enough to slide the shirt in between them later.
+> Assurez-vous de vous arrêter 2 cm avant le bord (deux fois la marge de couture standard) car à l'étape suivante, nous allons replier ce bord, et nous avons besoin de laisser les pieds de col suffisamment séparés pour glisser la chemise entre eux plus tard.
 
 #### Replier la marge de couture du pied de col et repassez là
 
@@ -137,7 +137,7 @@ Repliez la marge de couture du côté non cousu de votre pied de col et repassez
 
 Retournez votre pied de col sur l'endroit, et donnez un bon coup de fer. Assurez vous de laisser les marges de couture du pied de col repliées à l'intérieur. Voys pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
-You can now put your collar aside, we'll attach it later.
+Vous pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
 ### Etape 5 : coudre votre étiquette
 
@@ -163,15 +163,15 @@ Si c'est le cas, cousez le dos et les empiècements ensemble, en respectant la m
 
 Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer pour que la couture soit bien plate.
 
-### Step 7: Edge-stitch the yoke
+### Étape 7 : Surpiquer l'empiècement dos
 
 ![Edge-stitch the yoke](7.png)
 
-With your yokes attached to the back, we are going to edge-stitch along the seam we just made, on the yoke side.
+Votre empiècement dos étant attaché au dos, nous allons surpiquer le long de la couture que nous venons de faire, côté empiècement.
 
-> Fold the inner yoke out of the way. Our edge stitching will catch outer yoke, back and all the seam allowances, but not the inner yoke.
+> Pliez la partie de l'empiècement dos située à l'intérieur de la chemise hors du chemin, vers le bas. Notre surpiqûre prendra la partie extérieure de l'empiècement dos, le dos et la marge de couture, mais pas l'empiècement intérieur.
 
-Just sew right next to the seam joining the outer yoke to the back.
+Surpiquez juste à côté de la couture qui joint empiècement dos et dos.
 
 > Edge-stitching is like top-stitching, but right next to the seam
 
