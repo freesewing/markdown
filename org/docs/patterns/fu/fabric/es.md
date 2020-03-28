@@ -1,15 +1,13 @@
 
-The goal of our mask is to stop droplets. So you want to go for something that filters those out. Then again, you need to be able to breath through your mask, so we want fabric that breathes, without letting droplets through.
+El objetivo de nuestra mascarilla es parar las gotitas. Así que quieres algo que las mantenga fuera. Además, necesitas poder respirar a través de la mascarilla, así que queremos una mascarilla que sea transpirable pero que no deje pasar las gotitas.
 
-In addition, we want the inside to be comfortable on our skin. So here I'd suggest a tightly woven cotton or viscose/rayon. For the outter fabric, cotton again, or a tightly woven wool.
+Además, queremos que el interior sea cómodo en piel. Así que sugeriría un dejido denso de algodón o viscosa/rayón. Para la tela exterior, también algodón, o una lana tejida bien apretada.
 
 <Note>
 
-Note that fabric that is *breathable* is not the same as fabric your can breath through.
-There's many so-called waterproof breathable fabrics — or MBFs — that are used for outdoor gear because they 
-repel water and are *breathable* but would make a poor choice for a face mask. 
-Look no further than your umbrella for an example. Chances are it's more from a fabric you can breath through,
-but only with substantial effort, which would not work for our face mask.
+Ten en cuenta que una tela que es *transpirable* no es el mismo que una tela a través de la cual puedes respirar.
+Hay muchas telas llamadas transpirables impermeables, que se usan para ropa de exterior porque repelen el agua y son "transpirables" pero serían una mala elección para una mascarilla. 
+Mira por ejemplo un paraguas. Lo más probable es que sea una tela a través de la que puedas respirar, pero con bastante esfuerzo, lo que no funcionaría para nuestra mascarilla.
 
 </Note>
 
