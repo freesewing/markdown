@@ -4,7 +4,7 @@ How far do you want your waistcoat to sit away from your collar on your shoulder
 
 <Note>
 
-###### What's the point?
+###### Waarom?
 
 De schoudernaad van een gilet is gewoonlijk smaller dan die van je hemd. This option controls how narrow it gets (on the collar side).
 
