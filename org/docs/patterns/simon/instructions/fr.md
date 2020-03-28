@@ -1,4 +1,4 @@
-### Step 1: Fuse interfacing
+### Étape 1 : Thermocoller l'entoilage
 
 ![Thermocollez l'entoilage aux poignets](1a.png) ![Thermocollez l'entoilage sur le col](1b.png)
 
@@ -167,13 +167,13 @@ Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer pour que la
 
 ![Étape : Piquer au bord l'empiècement dos](7.png)
 
-Votre empiècement dos étant attaché au dos, nous allons surpiquer le long de la couture que nous venons de faire, côté empiècement.
+Votre empiècement étant attaché au dos, nous allons faire une surpiqûre de renfort le long de la couture que nous venons de faire, côté empiècement.
 
 > Pliez la partie de l'empiècement dos située à l'intérieur de la chemise hors du chemin, vers le bas. Notre surpiqûre prendra la partie extérieure de l'empiècement dos, le dos et la marge de couture, mais pas l'empiècement intérieur.
 
 Surpiquez juste à côté de la couture qui joint empiècement dos et dos.
 
-> Edge-stitching is like top-stitching, but right next to the seam
+> La surpiqûre de renfort est comme une simple surpiqûre mais elle se fait juste à côté de la couture.
 
 ### Étape 8 : Fermer les pinces du dos
 
@@ -322,7 +322,7 @@ Placez vos devants sur le dos, endroits contre endroit. Épingler les devants à
 
 #### Roulez, roulez, roulez, roulez votre chemise, épinglez et cousez vos épaules
 
-![Roll your shift up between the yokes](11c.png)
+![Enroulez les pans de la chemise jusqu'à les remonter entre les empiècements](11c.png)
 
 Enroulez ensemble dos et vos devants en partant du bas de la chemise. Faites une belle petite saucisse en enroulant jusqu'en haut, jusqu'à ce que vous puissiez voir l'empiècement dos que nous avions précédemment replié vers le bas.
 
@@ -433,7 +433,7 @@ Placez maintenant votre manche dessus, endroit contre endroit, en faisant corres
 
 > Attention, votre manche n'est pas symétrique, alors assurez-vous d'avoir les deux repères (et la patte de boutonnage du poignet) à l'arrière. et le repère simple à l'avant.
 > 
-> Notez également que les repères doubles au dos de votre manche n'ont pas de repères marqués sur le dos. C'est parce que sur le dos, le repère est constitué par la couture assemblant l'empiècement dos et le dos.
+> Notez également que les repères doubles au dos de votre manche n'ont pas de repères correspondant sur le dos. C'est parce que sur le dos, le repère est constitué par la couture assemblant l'empiècement dos et le dos.
 
 Vous devez maintenant épingler la manche à l'emmanchure. Pour ce faire, assurez-vous de :
 
