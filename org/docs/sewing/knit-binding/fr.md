@@ -87,7 +87,7 @@ Je ne dis pas que c'est théoriquement impossible. Mais je dis que c'est en prat
 La longueur de votre biais dépend de la quantité nécessaire d'étirement. Cela dépend des courbes à suivre, et de la largeur du biais, sans parler de son taux d'élasticité. Il y a juste trop de paramètres à prendre en compte pour calculer correctement votre longueur de biais.
 
 ### A ne pas faire
-There are a bunch of tutorials out on the internet that show you how to sew on knit binding. Many of those suggest something like _make the neck binding 90% of the length of the seam you are attaching it to_ (the percentage varies).
+Il y a un tas de tutoriels sur Internet qui vous montrent comment coudre un biais de jersey. Beaucoup d'entre eux suggèrent quelque chose comme _calculer 90% de la longueur de l'encolure_ (le pourcentage varie).
 
 This idea is that you cut your binding, join its edges, and then sew it in the opening. That is (in my opionion) no good.
 
