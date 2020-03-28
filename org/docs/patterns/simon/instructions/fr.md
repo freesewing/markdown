@@ -75,7 +75,7 @@ Avant de retourner le col, il faut dégarnir la marge de couture pour enlever l'
 
 #### Retourner le col et repasser
 
-![Turn the collar and press](3c.png)
+![Retourner le col et repasser](3c.png)
 
 Retournez votre col sur l'endroit, rendez les pointes aussi pointues que possible, et donnez un bon coup de fer.
 
@@ -85,7 +85,7 @@ Retournez votre col sur l'endroit, rendez les pointes aussi pointues que possibl
 
 #### Surpiquer le col
 
-![Top-stitch the collar](3d.png)
+![Surpiquer le col](3d.png)
 
 Surpiquez les bords du col. Ceci maintient la marge de couture et donne un aspect impeccable.
 
@@ -141,7 +141,7 @@ Vous pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
 ### Etape 5 : coudre votre étiquette
 
-![Sew in your label](5.png)
+![Coudre votre étiquette](5.png)
 
 La prochaine étape consiste à assembler l'empiècement dos. Mais l'empiècement dos est l'endroit idéal pour mettre votre étiquette. Donc si vous voulez le faire, nous pouvons commencer par cela.
 
@@ -149,7 +149,7 @@ Prenez un des deux empiècements, cousez votre étiquette au milieu (sur l'endro
 
 ### Étape 6 : Assembler les empiècements dos au dos
 
-![Join the yokes to the back](6a.png) ![Press the yoke](6a.png)
+![Étape : Assembler les empiècements dos au dos](6a.png) ![Repassez l'empiècement dos](6a.png)
 
 Placez un empiècement dos sur l'envers. Placez dessus votre dos sur l'envers, en l'alignant sur le haut de l'empiècement.
 
@@ -165,7 +165,7 @@ Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer pour que la
 
 ### Étape 7 : Surpiquer l'empiècement dos
 
-![Edge-stitch the yoke](7.png)
+![Étape : Piquer au bord l'empiècement dos](7.png)
 
 Votre empiècement dos étant attaché au dos, nous allons surpiquer le long de la couture que nous venons de faire, côté empiècement.
 
@@ -574,63 +574,63 @@ C'est une étape importante, nous allons donc bâtir le col en place pour être 
 
 A partir du milieu dos, placer la marge de couture de votre dos entre les deux faces du col. Travaillez sur un côté, puis faites l'autre.
 
-Make sure to respect the standard seam allowance and - important - avoid any wrinkles.
+Veillez à respecter la marge de couture standard et - important - évitez les plis.
 
-> While your collar stand is relatively straight, we are going to sew it to what is essentially a hole in your shirt.
+> Bien que votre pied de col soit relativement droit, nous allons le coudre à ce qui est en fait un trou dans votre chemise.
 > 
-> That's a bit tricky, so take extra care at those parts that are most curved: where the back joins the fronts.
+> C'est un peu délicat, donc faites très attention aux parties les plus courbées : là où le dos rejoint les devants.
 
-#### Edge-stitch collar in place
+#### Piquer le col en place
 
-![Edge-stitch collar in place](19b.png) ![Edge-stitch collar in place](19c.png)
+![Piquer le col en place](19b.png) ![Piquer le col en place](19c.png)
 
-When you're happy with how you've basted your collar in place, it's time to sew that thing down.
+Quand vous serez satisfait de la façon dont vous avez bâti votre col en place, il est temps de piquer cette chose.
 
-We're going to start at center-back and sew all the way around the collar stand.
+Nous allons commencer au centre du dos et coudre tout le long du bord du pied de col.
 
-#### Sew along the collar edge
+#### Coudre le long du bord du col
 
-![Sew along the collar edge](19d.png)
+![Coudre le long du bord du col](19d.png)
 
-To give more body to your collar, and firmly secure it in place we're going to sew along the top edge of the collar stand.
+Pour donner plus de tenue à votre col, et le fixer solidement en place, nous allons piquer le long du bord supérieur du pied de col.
 
-Sew about half the seam allowance from your earlier edge-stitching. Make sure to stop a few cm before the end of the collar.
+Piquez à environ la moitié de la marge de couture de votre couture précédente. Assurez-vous d'arrêter quelques cm avant la fin du col.
 
-> You need to stop a few cm before the end of the collar (note: the end of the collar, not the end of the collar stand) so that this seam is entirely covered when the collar is folded down.
+> Vous devez arrêter quelques cm avant la fin du col (note: fin du col, et non fin du pied de col) de façon à ce que cette couture soit entièrement recouverte lorsque le col est plié.
 
-#### Press the collar
+#### Repasser le col
 
-![Press the collar](19.png)
+![Repasser le col](19.png)
 
-Now that your collar is attached, give it a good press.
+Maintenant que votre col est attaché, donnez-lui un bon coup de fer.
 
-### Step 20: Hem your shirt
+### Étape 20 : Ourler votre chemise
 
 ![Fold over and press](20a.png) ![FOld over again, and press again](20b.png) ![Sew the hem](20c.png)
 
-Time to finish the hem (that's the part you tuck in your trousers).
+Il est temps de faire l'ourlet (c'est la partie que vous glissez dans votre pantalon).
 
-Fold up half of the hem allowance and press down. Then, fold up again and press again.
+Repliez la moitié de la marge d'ourlet et repassez. Ensuite, pliez à nouveau et repassez à nouveau.
 
-Now, sew along upper edge to finish the hem.
+Maintenant, cousez le long du bord supérieur pour finir l'ourlet.
 
-### Step 21: Create buttonholes
+### Etape 21 : Faire les boutonnières
 
-If you haven't done so initially, mark all the places you should have buttonholes.
+Si vous ne l'avez pas fait précédemment, marquez la position des boutonnières.
 
-They sit along the front closure and at your cuffs.
+Elles se trouvent sur le devant et aux poignets.
 
-When you've marked them, make buttonholes there.
+Lorsque vous les avez marquées, faites les boutonnières.
 
-### Step 22: Attach buttons
+### Étape 22: Coudre les boutons
 
-Pin your shirt closed to transfer the place of the buttonholes to the button sides.
+Épinglez votre chemise fermée et marquer la position des boutonnières sur la patte des boutons.
 
-When you've marked where buttons should go, sew them on.
+Lorsque vous avez marqué la poition des boutons, cousez-les.
 
-> Rather than mark the location of the buttons from the pattern, I prefer to transfer the location of the created buttonholes.
+> Plutôt que de marquer les emplacements des boutons à partir du patron, je préfère les repérer à l'aide des boutonnières une fois faites.
 > 
-> This way, if a buttonhole sits a little bit out of place, the button will simply follow it.
+> De cette façon, si une boutonnière a un peu dévié, le bouton la suivra tout simplement.
 
 ![That's it, you're done](finished.gif)
 
