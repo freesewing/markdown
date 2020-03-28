@@ -1,3 +1,3 @@
 ![Knopen](buttons.svg)
 
-How many buttons do you want?
+Hoeveel knopen wil je?
