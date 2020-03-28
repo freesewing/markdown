@@ -1,4 +1,10 @@
+![Yoke dart](yokedart.svg)
 
-Controleert de neep aan de zijkant onderaan de schouderpas.
+Controls the dart at the bottom side of the yoke.
 
-> Bedenk dat deze neep compenseert voor een ronde rug, niet voor afhangende schouders.
+<Note>
+
+Note that this dart is to compensate for a rounded back, not for sloping shoulders.
+
+</Note>
+
