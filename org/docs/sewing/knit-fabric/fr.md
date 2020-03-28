@@ -2,12 +2,12 @@
 title: Tissu Maille
 ---
 
-![A piece of grey jersey, a knit fabric](/img/couture/knit-fabric.jpg)
+![Un morceau de jersey gris, un tissu maille (tricoté)](/img/couture/knit-fabric.jpg)
 
 Le tissu maille est un tissu tricoté plutôt que tissé. Le tissu maille est extensible dans une certaine mesure.
 
 Bien que le tissu soit tricoté, il ne ressemble pas à du tricot, mais à du tissu.
 
-Knit fabric is used in garments where stretch is required. Sewing them is often done with a serger to maintain the stretch in the seams.
+Le tissu maille est utilisé dans les vêtements où une certaine élasticité est requise. Les coudre se fait souvent avec une surjeteuse pour maintenir l'élasticité dans les coutures.
 
-> Wikipedia has more to say about knits: [Knitted fabric in Wikipedia](http://en.wikipedia.org/wiki/Knitted_fabric)
+> Wikipédia a plus d'informations sur les tissus mailles : [Tricot textile sur Wikipedia](https://fr.wikipedia.org/wiki/Tricot_(textile))
