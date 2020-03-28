@@ -1,4 +1,3 @@
+![Neckline drop](necklinedrop.svg)
 
-Deze optie staat je toe je halslijn lager te maken dan de standaard.
-
-> De optie staat ook negatieve waarden toe, deze zullen de halslijn hoger maken dan de standaard.
+This options allows you to lower your neckline below the defalt.
