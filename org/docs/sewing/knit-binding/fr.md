@@ -21,16 +21,16 @@ Cela laisse un bord inachevé à l'intérieur qui est souvent cousu par des cout
 
 Le véritable biais de jersey se pose plus comme un biais classique, dans la mesure où il est enveloppé autour du tissu, plutôt que d'être apposé à celui-ci.
 
-The raw edge of the garment is inserted between the folded knit binding, which is edge-stitched down. This is often done with a coverlock machine, thereby neatly finishing the inside.
+La bordure brute du vêtement est insérée entre le biais de jersey plié qui est cousu. Cela se fait souvent avec une recouvreuse, finissant ainsi parfaitement l'intérieur.
 
-> Pictures by [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) and [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
+> Photos de [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) et [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
 
-### Style vs function
-A knit band is more common, and is what you typically find on Tshirt necklines. It's the more decorative option.
+### Style vs fonction
+Une bande de jersey est plus commune, et c'est ce que vous voyez typiquement sur la plupart des encolures de t-shirts. C'est l'option la plus décorative.
 
-A knit binding is less common, but often used on undershirts (as in, underwear). It's the more functional option.
+Le biais de jersey est moins commun, mais souvent utilisé sur les maillots de corps (en guise de sous-vêtement). C'est l'option la plus fonctionnelle.
 
-> ##### Still confused?
+> ##### Toujours confus ?
 > 
 > Another way to distinguish them is this: Think about what happens when you decide to widen the knit binding/band.
 > 
