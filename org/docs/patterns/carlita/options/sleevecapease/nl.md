@@ -1,3 +1,4 @@
+![Extra ruimte mouwkop](./sleevecapease.svg)
 
 Hoeveel extra ruimte wil je in de mouwkop?
 
