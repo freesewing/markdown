@@ -1,3 +1,3 @@
-![Curve option](./curve.svg)
+![Opción de curvatura](./curve.svg)
 
-Controls the curve of the upper edge of your face mask.
+Controla la curvatura del borde superior de la mascarilla.
