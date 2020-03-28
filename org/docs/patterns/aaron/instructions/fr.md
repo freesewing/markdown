@@ -48,7 +48,7 @@ C'est la seule partie de la fabrication de ce A-shirt qui nécessite un peu de p
 
 ### Choisissez votre emplacement
 
-![Applying knit binding](step03a.png)
+![Appliquer un biais de jersey](step03a.png)
 
 La première chose à faire est de décider où nous allons démarrer/arrêter notre biais. Voici ce que je suggère :
 
@@ -73,9 +73,9 @@ Nous allons coudre à 1,5 cm du bord. Soyez donc prudent car ce n'est pas la mar
 
 <Tip>
 
-The easy way to keep this 1.5cm distance is by using a seam gauge. 
-Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
-Then all you need to do is keep the edge of your fabric aligned with that line.
+Le moyen facile de garder cette distance de 1,5 cm est d'utiliser une jauge de couture. 
+Ou faites ce que je fais, placez un morceau de ruban adhésif (type masking tape) sur votre machine à coudre et alignez-le à 1,5 cm de votre aiguille. 
+Ensuite, il vous suffit de garder le bord de votre tissu aligné sur cette ligne.
 
 </Tip>
 
@@ -89,11 +89,11 @@ Cousez votre biais bien placé tout en étirant délicatement le biais, mais pas
 
 Vous aurez peut-être besoin de vous entraîner un peu pour y arriver.
 
-> Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
+> Veillez à étirer votre biais davantage lorsque vous prenez une courbe plus nette. Lisez mes notes sur le [biais de jersey](/en/docs/sewing/knit-binding) pour plus d'informations.
 
 ### Marquer les extrémités du biais
 
-![Joining the binding ends](step03e.png)
+![Faire correspondre les extrémités du biais](step03e.png)
 
 Avec environ 6cm de marge avant de terminer notre cercle, il est temps de coudre les extrémités du biais ensemble.
 
@@ -101,36 +101,36 @@ Avec environ 6cm de marge avant de terminer notre cercle, il est temps de coudre
 
 Prenez l'un des bords et étirez-le le le long des 3 cm en le séparant du point de départ comme vous le feriez lors de la couture.
 
-Faites une marque où le biais a atteint le point de départ. Faites la même chose pour l'autre extrémité.
+Faites un repère où le biais a atteint le point de départ. Faites la même chose pour l'autre extrémité.
 
 ### Assembler les extrémités du biais
 
-![Join the ends of the binding](step03g.png)
+![Assembler les extrémités du biais](step03g.png)
 
-Fold you A-shirt in whatever way makes it more easy for your to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
+Pliez votre A-shirt de la façon dont il vous sera le plus facile pour placer les deux extrémités du biais endroit contre endroit, en alignant les repères. Coudre les extrémités sur les repères.
 
-> 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
+> 6 cm n'est pas beaucoup, mais ça devrait suffire pour placer les deux bords confortablement sous votre machine pour les coudre.
 
-### Finish last 6cm of binding
+### Terminer les 6 derniers cm de biais
 
-![Assembler les extrémités du biais](step03h.png)
+![Coudre les extrémités du biais ensemble](step03h.png)
 
-Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
+Maintenant que vos extrémités de biais sont réunies, il est temps de terminer les 6 dernière cm du biais. Cousez-les en restant à 1,5cm du bord comme vous l'avez fait auparavant.
 
-## Step 4: Fold knit binding to the back and sew down
+## Étape 4 : Replier le biais à l’intérieur et coudre
 
-### Fold your binding over the fabric edge to the back
+### Pliez votre biais sur le bord du tissu sur l'envers
 
-![Fold knit binding to the back](step04a.png)
+![Plier le biais de jersey sur l'arrière](step04a.png)
 
 
-Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
+Pliez votre bande de biais par-dessus le tissu de votre A-Shirt sur l'envers. Voici comment nous allons le coudre.
 
-> While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
+> Alors que le tissu est plié deux fois sur l'endroit (ce qui cache donc le bord du biais) il n'est pas nécessaire de faire cela à l'arrière. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
 
 ### Sew your binding down
 
-![Sew the knit binding down](step04b.png)
+![Coudre le biais de jersey](step04b.png)
 
 From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
 
@@ -157,7 +157,7 @@ So watch out for this, and if you see it happening, stretch the under layer a bi
 
 ## Step 5: Trim back knit binding on the inside
 
-![Trim back knit binding on the inside](step05.png)
+![Couper l'excédent de biais tout le long de la couture à l'intérieur](step05.png)
 
 On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
 
@@ -167,4 +167,4 @@ Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on 
 
 </Note>
 
-![That's it, you're done 👍](finished.gif)
+![Voilà, vous avez fini !](finished.gif)
