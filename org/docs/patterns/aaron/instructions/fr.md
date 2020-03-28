@@ -32,9 +32,9 @@ Le procédure soulignée ci-dessous s'applique à la fois aux emmanchures et à 
 
 ###### Commencez par l'ouverture la plus simple
 
-Je vous conseille de commencer par n'importe quelle ouverture ayant la courbure la plus uniforme. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
+Je vous conseille de commencer par n'importe quelle ouverture ayant la courbure la plus uniforme. Par défaut, ce sont les trous de bras, mais si vous avez changé les options de patron (pensez au dos nageur) alors cela pourrait ne pas être le cas.
 
-Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
+Dans les deux cas, moins vous avez d'arrondi "serré", plus il sera facile de le faire. Alors commencez avec cela pour vous échauffer avant de faire les arrondis plus délicats.
 
 </Note>
 
