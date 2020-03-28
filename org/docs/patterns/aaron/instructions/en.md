@@ -67,15 +67,19 @@ Aling the long edge of your strip with the edge of your fabric so the strip lies
 
 Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
 
-> The easy way to keep this 1.5cm distance is by using a seam gauge. 
-> Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
-> Then all you need to do is keep the edge of your fabric aligned with that line.
-
 ### Make sure you know where to sew
 
 ![Make sure you know where to sew](step03c.png)
 
 We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
+
+<Tip>
+
+The easy way to keep this 1.5cm distance is by using a seam gauge. 
+Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
+Then all you need to do is keep the edge of your fabric aligned with that line.
+
+</Tip>
 
 Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
 
