@@ -32,23 +32,23 @@ Le biais de jersey est moins commun, mais souvent utilisé sur les maillots de c
 
 > ##### Toujours confus ?
 > 
-> Another way to distinguish them is this: Think about what happens when you decide to widen the knit binding/band.
+> Une autre façon de les distinguer est de penser à ce qui se passe lorsque vous décidez d'élargir la bande/biais de jersey.
 > 
-> On a Tshirt, widening the band at the neck will make the neck opening smaller. If you want a wider band, you will have to cut a larger hole in your Tshirt.
+> Sur un t-shirt, une bande plus large au cou réduira l'ouverture de l'encolure. Si vous voulez une bande plus large, vous devrez couper un trou plus grand dans votre t-shirt.
 > 
-> On an undershirt, if you want the knitwear binding at the neck to be wider, it will not make the neck opening smaller. Instead, the binding will simply lay further over the undershirt main fabric.
+> Sur un maillot de corps, si vous voulez que le biais à l'encolure soit plus large, cela ne réduira pas l'encolure. Au lieu de cela, le biais se posera plus loin sur le tissu principal du maillot de corps.
 
-## Why knitwear binding requires stretch
+## Pourquoi le biais sur une maille doit être extensible
 
-Whether you're using a knit band or a knit binding finish, you are going to have to stretch your binding fabric for good results. That is, assuming you're not sewing a straight seam. Here's why:
+Que vous utilisiez une bande de jersey ou une finition au biais, vous devrez étirer votre tissu (celui de la bande ou du biais) pour de bons résultats. Autrement dit, cela suppose que vous ne cousiez pas du coutures droites. Voici pourquoi :
 
-### Straight: life on easy mode
+### Ligne droite : la vie en mode facile
 
 ![No stretch required when going straight](knitbinding1.png)
 
-On a straight seam, you can simply attach your binding/band. Your fabric and binding have the same length, so everything will be fine.
+Sur une couture droite, vous pouvez simplement fixer votre biais/bande. Votre tissu et votre biais ont la même longueur, donc tout va bien.
 
-The most likely scenario where you will encounter this is on the (short) sleeves of a Tshirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
+Le scénario le plus probable où vous le rencontrerez est sur les manches (courtes) d'un t-shirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
 
 
 ### Uniformly curved: uniform stretch
