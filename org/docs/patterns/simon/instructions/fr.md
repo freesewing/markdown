@@ -542,37 +542,37 @@ Notez également que le bord de votre manche sera plus long que votre poignet (d
 
 > Votre patron contient des lignes de repère pour vous aider à placer les plis.
 
-> Prenez votre temps pour épingler tout ceci avec soin. We are going to edge-stitch this later, so it's important that front and back of your cuff align nicely.
+> Prenez votre temps pour épingler tout ceci avec soin. Comme nous allons le surpiquer plus tard, il est important que l'avant et l'arrière de votre poignet soient bien alignés.
 
-#### Edge-stitch cuffs to sleeves
+#### Piquer les poignets aux manches
 
-![Edge-stitch cuffs to sleeves](18b.png)
+![Piquer les poignets aux manches](18b.png)
 
-Once everything is pinned in place, edge stitch along the edge of your cuff to attach it to your sleeve.
+Une fois que tout est épinglé, cousez le long du bord du poignet pour l'attacher à votre manche.
 
-It's important to catch both outer and inner layer of your cuff on the edge.
+Il est important que la couture prenne à la fois la face externe et interne du poignet.
 
-> Make sure to edge-stitch from the outer layer side (the good side of your sleeve) and keep it parallel with your cuff edge.
+> Assurez-vous de piquer sur la face extérieure (endroit de votre manche) en restant parallèle au bord du poignet.
 
-When you're done, give your cuffs a good press.
+Quand vous avez terminé, donnez un bon coup de fer à vos poignets.
 
-#### Top-stitch the cuffs
+#### Surpiquez les poignets
 
-![Top-stitch the cuffs](18c.png)
+![Surpiquez les poignets](18c.png)
 
-> Make sure to press your cuffs before you do this.
+> Assurez-vous que vos poignets ont été repassés au préalable.
 
-Top-stitch around your cuff at a distance from the edge that is a bit less than your seam allowance. Go all the way around your cuff.
+Surpiquez le pourtour du poignet à une distance du bord un peu inférieure à votre marge de couture. Faites le tour compet de votre poignet.
 
-### Step 19: Attach the collar
+### Etape 19: Attacher le col
 
-#### Baste collar in place
+#### Bâtir le col en place
 
-![Baste collar in place](19a.png)
+![Bâtir le col en place](19a.png)
 
-This is an important seam, so we are going to baste this in place to make sure it sits exactly right before we sew it.
+C'est une étape importante, nous allons donc bâtir le col en place pour être certain qu'il est parfaitement positionné avant de piquer.
 
-Start at the center back, and place the seam allowance of your back part between your two collar stands. Work your way around one side, and then do the other.
+A partir du milieu dos, placer la marge de couture de votre dos entre les deux faces du col. Travaillez sur un côté, puis faites l'autre.
 
 Make sure to respect the standard seam allowance and - important - avoid any wrinkles.
 
