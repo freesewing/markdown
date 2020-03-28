@@ -132,38 +132,38 @@ Pliez votre bande de biais par-dessus le tissu de votre A-Shirt sur l'envers. Vo
 
 ![Coudre le biais de jersey](step04b.png)
 
-From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
+Sur l'endroit de votre tissu, cousez le long du bord de votre biais (le plus loin du bord du pli), en s'assurant de bien prendre le biais de l'arrière dans la couture.
 
 <Note>
 
-If you have a coverlock machine, that would be perfect for this seam
+Si vous avez une recouvreuse, ce sera parfait pour cette couture
 
 </Note>
 
-You'll have to, once again, stretch your binding a bit while doing this. But this time, there's an extra caveat to look out for.
+Une fois de plus, vous devrez étirer un peu votre biais en faisant cela. Mais cette fois-ci, il y a une mise en garde supplémentaire à respecter.
 
 <Note>
 
-##### Beware of the uneven feed
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
+##### Méfiez-vous des différences d'avancement
+En passant votre biais sous votre machine à coudre, les griffes d'entraînement tirent davantage la couche inférieure (arrière de votre biais). 
 
-In a perfect world, all layers will follow smoothly. 
-But more often than not, the top layer (front of your binding) tends to lag behind a bit. 
-This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
+Dans un monde parfait, toutes les épaisseurs suivent sans problème. 
+Mais le plus souvent, la couche supérieure (face avant de votre biais) a tendance à se traîner un peu. 
+Cela fait que votre biais ne se plie pas bien autour du bord du tissu, mais fait des plis disgracieux.
 
-So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+Surveillez donc si cela se produit, et si vous le voyez, étirez la couche inférieure un peu plus pour compenser.
 
 </Note>
 
-## Step 5: Trim back knit binding on the inside
+## Étape 5 : Couper l'excédent de biais à l'intérieur
 
 ![Couper l'excédent de biais tout le long de la couture à l'intérieur](step05.png)
 
-On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
+À l'intérieur de votre A-Shirt, coupez le biais près votre couture pour finir.
 
 <Note>
 
-Be careful not to cut a hole in your A-shirt. Seriously, this happened to me on more than one occasion.
+Faites attention à ne pas faire un trou dans votre A-shirt. Sérieusement, cela m'est arrivé à plusieurs reprises.
 
 </Note>
 
