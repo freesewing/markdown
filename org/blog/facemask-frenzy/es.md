@@ -1,39 +1,39 @@
 ---
 date: 2020-03-19
-title: "Calling all makers: Here's a 1-page PDF facemask pattern; Now go make some and help beat this thing"
+title: "Llamando a todos los creadores: Aquí hay un patrón de mascarilla en un PDF de una página, ve a hacer algunas y ayuda a vencer este bicho"
 linktitle: "Facemask frenzy"
 img: diana.jpg
-caption: "Dr. Dragnea from Antwerp University hospital wearing a Fu facemask"
+caption: "Dr. Dragnea del hospital de la Universidad de Amberes usando una máscara de Fu"
 author: joost
 ---
 
 <Note>
 
-**TL;DR: Please make facemasks for healthcare workers**
+**TL;DR: Por favor, haz mascarillas para los trabajadores de la salud**
 
 
- - PDF pattern for our Fu face mask:
-   - [A4 facemask pattern](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter facemask pattern](/fu-facemask-freesewing.org.letter.pdf)
- - [Instructions for the facemask pattern](/docs/patterns/fu/instructions/)
+ - patrón PDF para nuestra máscara de Fu:
+   - [patrón de mascarilla A4](/fu-facemask-freesewing.org.a4. df)
+   - [Patrón de mascarilla Letter](/fu-facemask-freesewing.org.letter.pdf)
+ - [Instrucciones para el patrón de la mascarilla](/docs/patterns/fu/instructions/)
 
 </Note>
 
 <YouTube id='VcQ69_ANsRA' />
 
-Well that escalated quickly. We published [our Fu Face Mask pattern](/designs/fu/) at the end of last month, hoping it would be helpful. Now, [hospitals are actively reaching out to people to beg them to make fabric face masks for their staff](https://www.uza.be/mondmaskers).
+Bueno, eso se intensificó rápidamente. Publicamos [nuestro patrón de mascarilla Fu](/designs/fu/) a finales del mes pasado, con la esperanza de que fuera de ayuda. Ahora, [algunos hospitales están pidiendo activamente a la gente que hagan máscaras de tela para su personal](https://www.uza.be/mondmaskers).
 
-So obviously, we want to help:
+Por lo tanto, obviamente, queremos ayudar:
 
- - PDF pattern for our Fu face mask:
-   - [A4 facemask pattern](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter facemask pattern](/fu-facemask-freesewing.org.letter.pdf)
- - [Instructions for the facemask pattern](/docs/patterns/fu/instructions/)
+ - Patrón PDF para nuestra máscara Fu:
+   - [Patrón de mascarilla A4](/fu-facemask-freesewing.org.a4.pdf)
+   - [Patrón de mascarilla letter](/fu-facemask-freesewing.org.letter.pdf)
+ - [Instrucciones para el patrón de la mascarilla](/docs/patterns/fu/instructions/)
 
-No go and make a bunch. Our healthcare workers are counting on you!
+Ahora ve a hacer un montón. ¡Nuestros profesionales de la salud cuentan contigo!
 
 <Note>
 
-PS: You can support us by [becoming a patron](/patrons/join/) ❤️
+PD: Puedes apoyarnos [convirtiéndote en patrocinador](/patrons/join/) ❤
 </Note>
 

@@ -1,3 +1,3 @@
-![Length option](./length.svg)
+![Opción de longitud](./length.svg)
 
-Controls the length of your face mask.
+Controla la longitud de la mascarilla.

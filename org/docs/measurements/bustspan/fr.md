@@ -1,5 +1,5 @@
 ---
-title: Ecart de poitrine
+title: Écart de poitrine
 ---
 
 L'**écart de poitrine** est la distance horizontale entre les deux sommets de votre poitrine.

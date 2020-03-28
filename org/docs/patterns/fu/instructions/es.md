@@ -3,7 +3,7 @@
 
 Une la costura curvada en el centro de nuestra mascarilla colocando los *derechos juntos* y cosiéndolos.
 
-![Join the center seam](step1.svg)<Note>Repite este paso tanto para la tela exterior (principal) como para la tela interior (forro).</Note>
+![Une la costura central](step1.svg)<Note>Repite este paso tanto para la tela exterior (principal) como para la tela interior (forro).</Note>
 
 ### Paso 2 (opcional): Plancha la costura central
 
@@ -20,7 +20,7 @@ Como ésta es una costura curvada, no quedará plana. Pero se puede acercar la p
 
 ### Paso 3: Cosa la tela exterior al forro y una las cintas
 
-![Join the inner to the outer fabric](step3.svg)
+![Una el forro a la tela exterior](step3.svg)
 
 Ahora coseremos la tela interior (forro) a la tela exterior (principal), y uniremos las cintas en un solo paso.
 
@@ -61,21 +61,21 @@ Así que si te da igual, siéntete libre de saltártelo.
 
 </Note>
 
-Ahora que la mascarilla está terminada, es hora de plancharla. Before doing so, make sure to fold the seam allowance of the side we left open inwards, so that we press it flat as if it was sewn.
+Ahora que la mascarilla está terminada, es hora de plancharla. Antes de hacerlo, asegúrate de plegar el margen de costura del lado que dejamos abierto hacia adentro, para que lo planchemos como si estuviera cosido.
 
-### Step 6: Close open side of the mask and edge-stitch around the edge
+### Paso 6: Cierra el lado abierto de la máscara y cose alrededor del borde
 
-![Edge-stitch around the mask](step6.svg)
+![Cose alrededor del borde de la mascarilla](step6.svg)
 
-Now it's time to close the side of our mask the we left open to turn it inside out.
+Ahora es el momento de cerrar el lado de nuestra mascarilla que dejamos abierto para girarla hacia fuera.
 
-We are not merely going to close the opening, but also edge-stitch around the entire mask to give our mask some extra stability, and keep the lining at the back.
+No vamos a cerrar simplemente la apertura, sino que además coseremos el borde alrededor de toda la mascarilla para darle algo de estabilidad adicional, y mantener el forro en la parte trasera.
 
-Make sure the open side is folded neatly inside, then edge-stitch around the entire mask.
+Asegúrate de que el lado abierto esté plegado de forma clara en el interior, y luego cose alrededor de toda la máscara.
 
-### Step 7: Wear your mask or make a bunch
+### Paso 7: Usa tu máscara o haz un montón
 
-That's it, you're done! You can now wear your mask.
+¡Eso es todo! Ahora puedes ponerte tu máscara.
 
-Even better, make a bunch so you can give others masks too.
+Aún mejor, haz un montón para que también puedas darles mascarillas a otros.
 

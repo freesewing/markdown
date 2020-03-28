@@ -1,7 +1,7 @@
 ---
-title: High bust front
+title: Largeur de buste supérieur
 ---
 
-The **high bust front** measurement is the front part of your **high bust** measurement: your chest circumference measured just under your arms, above the fullest part of your bust.
+La mesure de **largeur de buste supérieur** est la partie avant de votre mesure de **tour de buste supérieur** : votre circonférence de poitrine mesurée juste sous vos bras, au-dessus de la partie la plus forte de votre poitrine.
 
-To measure your high bust front, wrap the tape measure around your chest just under your arms and measure from the side (seam) across your breasts to the other side (seam). Il se peut que vous ne puissiez pas le garder horizontal (parallèle au sol), mais c'est normal.
+Pour mesurer votre largeur de buste supérieur, enroulez le mètre-ruban autour de votre poitrine juste sous vos bras et mesurez du côté (couture) sur vos seins vers l'autre côté (couture). Il se peut que vous ne puissiez pas le garder horizontal (parallèle au sol), mais c'est normal.
