@@ -1,5 +1,5 @@
 ---
-title: Patterns
+title: Patrons
 ---
 
 <ReadMore root='docs/patterns' />
