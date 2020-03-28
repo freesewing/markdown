@@ -1,6 +1,6 @@
-![Buttonhole placket style](buttonholeplacketstyle.svg)
+![Stijl knoopsgatenpat](buttonholeplacketstyle.svg)
 
-Do you want classic buttonhole placket, or a seamless one (sometimes called French style)?
+Wil je een klassiek knoopsgatenpat, of een naadloos (soms ook Frans knoopsgatenpat genoemd)?
 
 <Tip>
 
@@ -10,7 +10,7 @@ Naadloos is minder werk, en ziet er geweldig uit.
 
 <Note>
 
-As seamless is only possible on a *cut-on* placket, this option is ignored if you choose a seperate buttonhole placket.
+Aangezien naadloos enkel mogelijk is bij een aangeknipt knoopsgatenpat wordt deze optie genegeerd and je voor een apart knoopsgatenpat gekozen hebt.
 
 </Note>
 
