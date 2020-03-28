@@ -483,20 +483,20 @@ Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au nivea
 
 Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. Si vous avez un pied rabatteur, cela pourra vous aider. Mais si ce n'est pas le cas, soyez simplement soigneux.
 
-> It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
+> Il est plus important de rester à la même distance de la couture de manche que de coudre exactement au bord du pli. Idéalement, le pli est censé être aussi à distance constante de la couture, mais si ce n'est pas le cas, assurez-vous juste de coudre parallèlement à la couture de manche. Même si cela implique de s'écarter un peu du bord plié.
 
-#### Press the flat-felled seam
-When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
+#### Repasser la couture plate rabattue
+Quand vous avez terminé, repassez la couture plate rabattue sur l'endroit, pour qu'elle soit bien plate.
 
-### Step 16: Close the side/sleeve seams
+### Etape 16: : Fermer les côtés et les manches
 
 ![Close the side/sleeve seams](16a.png) ![Remember, this is a flat-felles seam](16b.png)
 
-Place your shirt with the good sides together, and sew the side and sleeve seams to close the shirt.
+Placez votre chemise endroit contre endroit, et cousez les côtés et les coutures des manches pour fermer la chemise.
 
-> There is extra seam allowance on the sleeve and front sides to allow for the creation of the flat-felled seam. As such, be careful to not align the fabric edge, but align the seam so that the extra seam allowance sits out 1cm.
+> Il y a une marge de couture supplémentaire sur la manche et les côtés pour permettre la réalisation d'une couture plate rabattue. Par conséquent, n'alignez pas les bords, mais laissez dépasser d'1 cm le côté avec la marge de couture supplémentaire.
 
-### Step 17: Flat-fell the side/sleeve seams
+### Etape 17: Coudre les côtés et les manches avec une couture plate rabattue
 
 #### Coucher la marge de couture d'un côté au fer
 
@@ -523,26 +523,26 @@ Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au nivea
 
 Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. Si vous avez un pied rabatteur, cela pourra vous aider. Mais si ce n'est pas le cas, soyez simplement soigneux.
 
-> It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
+> Il est plus important de rester à la même distance de la couture de manche que de coudre exactement au bord du pli. Idéalement, le pli est censé être aussi à distance constante de la couture, mais si ce n'est pas le cas, assurez-vous juste de coudre parallèlement à la couture de manche. Même si cela implique de s'écarter un peu du bord plié.
 
-#### Press the flat-felled seam
-When it's all done, press the flat-felled seam from the good side so it lies nice and flat.
+#### Repasser la couture plate rabattue
+Quand vous avez terminé, repassez la couture plate rabattue sur l'endroit, pour qu'elle soit bien plate.
 
-### Step 18: Attach cuffs to sleeves
+### Assembler les poignets aux manches
 
-#### Pin cuff in place
+#### Épingler les poignets en place
 
-![Pin cuff in place](18a.png)
+![Épingler les poignets en place](18a.png)
 
-You need to insert the sleeve between the two layers of your cuff, making sure that that good side of the fabric sits against the side of your cuff that has the interfacing applied to it.
+Vous devez insérer la manche entre les deux couches de votre poignet, en vous assurant de placer l'endroit de la manche contre la partie thermocollée du poignet.
 
-You will need to pin this in place, because depending on how long your sleeve placket is, it might be hard or even impossible to get this to lie flat.
+Vous devrez épingler en place, car selon la longueur de votre patte de boutonnage, il peut être difficile ou même impossible de maintenir le tout bien plat.
 
-Also note that your sleeve edge will be longer than your cuff (how much longer depends on the sleeve drape). You need to make one or a few folds in your sleeve to accommodate for this.
+Notez également que le bord de votre manche sera plus long que votre poignet (d'autant plus que le drapé de votre manche est important). Vous devez faire un ou quelques plis sur votre manche l'ajuster au poignet.
 
-> Your pattern contains helplines on the sleeve to help you place to folds.
+> Votre patron contient des lignes de repère pour vous aider à placer les plis.
 
-> Take your time to pin everything carefully in place. We are going to edge-stitch this later, so it's important that front and back of your cuff align nicely.
+> Prenez votre temps pour épingler tout ceci avec soin. We are going to edge-stitch this later, so it's important that front and back of your cuff align nicely.
 
 #### Edge-stitch cuffs to sleeves
 
