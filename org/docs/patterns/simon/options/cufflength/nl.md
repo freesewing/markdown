@@ -1,4 +1,10 @@
+![Cuff length](cufflength.svg)
 
-De lengte van de manchetten.
+The length of your cuffs.
 
-> Dit heeft geen invloed op de totale lengte van je mouw.
+<Note>
+
+This will not influence the total length of your sleeve.
+
+</Note>
+
