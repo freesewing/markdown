@@ -1,11 +1,13 @@
+<Note>
 
-> #### Deze documentatie is incompleet
-> 
-> Cathrin mist documentatie. Eerlijk gezegd heb ik nog niet de tijd gevonden dit te schrijven. Het feit dat ik niet veel korsetten maak helpt waarschijnlijk niet.
+###### Deze documentatie is onvolledig
+Cathrin mist documentatie. Eerlijk gezegd heb ik nog niet de tijd gevonden dit te schrijven.
+Het feit dat ik niet veel korsetten maak helpt waarschijnlijk niet.
 
-> #### Bekijk de originele tutorial
-> 
-> Dit patroon is gebaseerd op [deze tutorial van Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). Cathrin heeft ook deze [informatieve post over korsetten maken](https://katafalk.wordpress.com/2009/05/03/how-i-sew-corsets/) op haar blog, wat je misschien kan helpen.
+#### Bekijk de originele tutorial
+Dit patroon is gebaseerd op [deze tutorial van Cathrin Alen](https://katafalk.wordpress.com/2010/06/24/underbust-pattern-tutorial/). 
+Cathrin heeft ook [dit informatieve bericht over het maken van korsets](https://katafalk.wordpress.com/2009/05/05/0how-i-sew-korsets/) op haar blog, wat je misschien nuttig zult vinden.
+</Note>
 
 Beginnende korsettenmakers zouden de tutorials van [Sidney Eileen](http://www.sidneyeileen.com) moeten lezen, die verschillende constructiemethodes toont. [Foundations revealed](https://www.foundationsrevealed.com) is een betalende site voor korsettenmakers, met een aantal gratis artikels voor niet-leden.
 

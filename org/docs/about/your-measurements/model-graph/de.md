@@ -4,7 +4,7 @@ title: Model graph
 
 A so-called *model-graph* is a visual representation of a model's measurements:
 
-![Example](model.svg)
+![Example](model.png)
 
 Measurements of width (neck circumference, chest circumference, and so on) are represented in the circle on the left. Measurements of height (length of the arms, inseam, and so on) are represented with the bars on the right.
 
@@ -31,18 +31,4 @@ If your bars stop short of  the dashed line, you are shorter than what the indus
 The purpose of the graph is to spot mistakes in your measurements. So look for anything that stands out. A spike or deep dent in the circle, or a bar that is significantly longer or shorter than the others.
 
 It doesn't mean these measurements are incorrect, it's merely a suggestion to double-check them to make sure you have them measured correctly.
-
-## Caveat: Work in progress
-
-This is a very new feature, and we are still working out the details. The further you deviate from the neck circumference our predictions are based on (42cm for models without breasts, 36cm for models with breasts) the more likely it is that the projections aren't hitting home.
-
-<Note>
-
-###### Breasts are tricky
-
-Particularly for models with breasts, we are aware that there's some fine-tuning yet to be done.
-
-</Note>
-
-
 

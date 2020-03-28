@@ -1,51 +1,3 @@
-
-## Wat je nodig hebt
-
-Om Wahid te maken heb je het volgende nodig:
-
- - Basis naaimateriaal
- - Een meter geschikte stof ([zie Stofkeuzes](#fabric-options))
- - Een meter voering
- - Kleefbare tussenvoering
- - Knopen
-
-## Stofkeuze
-
-Alle pakstoffen zijn een goede keuze voor je gilets. Elke stoffenwinkel die de moeite is zou een afdeling met pakstoffen moeten hebben. Je kan binnenwandelen, vragen waar de stoffen voor kostuums zijn, en iets kiezen dat je mooi vindt.
-
-Deze stoffen zijn gewoonlijk van wol, maar je kan ook wat creatiever zijn en iets anders kiezen.
-
-> Je stof heeft wel wat gewicht nodig. Denim is ok, een licht katoentje niet.
-
-## Knippen
-
- - **Buitenstof**
-   - Cut **2 front(s)** with good sides together
-   - Cut **2 back(s)** with good sides together
-   - Cut **2 front facing(s)** with good sides together
-   - Cut **2 pocket welt(s)** with good sides together
-   - Cut **2 pocket facing(s)** with good sides together
- - **Voering**
-   - Cut **2 front lining(s)** with good sides together
-   - Cut **2 back(s)** with good sides together
-   - Cut **2 pocket bag(s)** with good sides together
- - **Tussenvoering**
-   - Cut **2 front(s)** with good sides together
-   - Cut **2 pocket interfacing(s)**
-
-### Opmerkingen
- - Do not cut out the **front** dart
- - Do not cut out the **back** dart
- - Watch out for the grainline on the **pocket welt** and **pocket facing**
-
-Wahid is een relatief eenvoudig patroon, hier is een typische layout:
-
-![Een typisch Wahid patroon](layout.svg)
-
-> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
-
-## Constructie
-
 ### Stap 1: Bevestig tussenvoering
 
 #### Strijk de tussenvoering aan de paspels
@@ -106,7 +58,7 @@ Plooi je voorpand (en de tussenvoering die eraan kleeft) met de goede kanten op 
 Knip de nepen open en strijk ze dan open.
 
 #### Strijk de achterste nepen
-Knip de nepen open en strijk ze dan open. Indien je ze niet openknipt, strijk ze dan opzij.
+Als je de rugnepen openknipt, strijk ze dan open. Indien je ze niet openknipt, strijk ze dan opzij.
 
 > Vergeet niet hetzelfde te doen voor de voering
 
@@ -116,7 +68,7 @@ Knip de nepen open en strijk ze dan open. Indien je ze niet openknipt, strijk ze
 
 ![Bevestig het zakdeel aan de paspel](05a.png)
 
-Leg je zakdeel neer met de goede kant omhoog, en je paspel bovenop met de goede kant neer beneden.
+Leg je zakdeel neer met de goede kant omhoog, en je paspel bovenop met de goede kant naar beneden.
 
 Leg de rechte kant van het zakdeel gelijk met de kant van de paspel die geen tussenvoering heeft, en stik ze samen met de standaard naadwaarde.
 
@@ -129,121 +81,121 @@ Strijk deze naad open wanneer je klaar bent.
 
 Je voorpand heeft een hulplijn om aan te geven waar de paspelzak moet komen. Het zijn twee halve rechthoeken die samenkwamen wanneer je de neep sloot, en samen de vorm van je paspelzak hebben.
 
-Als je de vier hoeken van die rechthoek nog niet aangeduid hebt, zou je dat nu moeten doen.
+If you haven't marked the four corners of that rectangle yet, you should do so now.
 
-> De zak zit een beetje schuin op je patroon. Vanaf nu teken ik de zak recht op de illustraties, omdat dat iets makkelijker is.
+> The pocket sits under a slight angle on your pattern. Going forward, in the illustrations, I will draw the pocket straight as that makes things easier.
 
 #### Bevestig paspel en beleg zak
 
 ![Bevestig paspel en beleg zak](05c.png) {.fs-row2} ![Bevestig paspel en beleg zak](05d.png) {.fs-row2}
 
-Leg je voorpand neer met de goede kant naar omhoog. We gaan de paspel aan de onderste lijn van de zakmarkering bevestigen, en het beleg aan de bovenste lijn.
+Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
 
-> Als je nog nooit een paspelzak gemaakt hebt kan het een beetje vreemd lijken om de zak aan de buitenkant van het kledingstuk te bevestigen. Zakken zitten toch aan de binnenkant?
+> If you've never made a welt pocket before, it can be a bit counterintuitive to attach the pocket on the outside of the garment. Pocket should be on the inside, right?
 > 
-> Rustig blijven, de zak komt uiteindelijk aan de binnenkant terecht
+> Relax, the pocket will end up on the inside
 
-Zowel je paspel als je beleg zak hebben een hulplijn. Deze lijn moet overeenkomen met de lange randen van je zakmarkering.
+Both your pocket welt and your pocket facing have a help line on them. That line needs to line up with the long edges of your pocket.
 
-Leg de paspel onderaan, en het beleg zak bovenaan, beide met de goede kanten naar beneden.
+Place the pocket welt at the bottom, and the pocket facing on the top, both with their good side down.
 
-Leg de hulplijnen voorzichtig op de zakmarkering. Ze liggen nu naast elkaar, en raken elkaar maar net in het midden van de zakopening.
+Carefully align their helpline on the pocket outline. They should now sit side by side, and just bump into each other at the middle of your pocket.
 
-Stik nu langs de hulplijnen die de lange rand van je zakopening aangeeft.
+Now sew along the helpline which marks the long edge of your pocket.
 
-> Het is belangrijk dat de lijnen die je nu stikt een perfecte rechthoek vormen. Dit bepaalt de vorm van je zak, dus als de ene lijn langer is dan de andere, of ze zijn niet parallel of zitten op de verkeerde plek zal je zak er niet mooi uitzien.
+> It is important that the lines you sew now form the long edges of a perfect rectangle. This will determine the shape of your pocket, so if you make one line longer than the other, or if they are not parallel or mis-aligned, you pocket will look bad.
 
 #### Knip de zak open
 
 ![Knip de zak open](05c.png)
 
-Tijd om de zak voorzichtig open te knippen. Begin in het midden van de zakopening, en knip langs de lange randen naar de zijkant.
+Time to carefully cut open the pocket. Start in the middle of the pocket, and cut towards along the longest edges towards the side.
 
-Aan de zijranden van de zakopening moet je stoppen met in het midden te knippen en in de plaats naar de eindpunten van je gestikte lijnen, in een hoek van 45 graden.
+At the edges of your pocket you need to stop cutting open the center and instead cut towards the end of your line of stitches under 45 degrees.
 
-> Dit kleine driehoekje dat je zo aan het einde krijgt is belangrijk. Wees voorzichtig en knip tot vlak voor je steken, zonder in het stiksel te knoppen.
+> This small triangle you are cutting at the end is important. Make sure to aim carefully as you should cut right up to the end of your stitches, without cutting into the stitches.
 
 #### Strijk de naadwaarde open
 
 ![Strijk de naadwaarde open](05c.png)
 
-Strijk de naadwaarde aan de lange kanten van je zakopening open.
+Press open the seam allowance along the long edges of your pocket.
 
 #### Keer het zakbeleg naar de achterkant en strijk
 
 ![Keer het zakbeleg naar de achterkant en strijk](05g.png)
 
-Keer het zakbeleg naar de achterkant van de stof en strijk plat.
+Flip the pocket facing to the back side and press it down.
 
 #### Strijk de driehoekjes aan de korte kanten plat
 
 ![Strijk de driehoekjes aan de korte kanten plat](05h.png)
 
-Leg je zakbeleg uit de weg om die kleine driehoekjes aan het uiteinde van de zakopening zichtbaar te maken.
+Move your pocket facing out of the way to reveal those little traingles at the side of your pocket.
 
-Plooi ze terug, en let op dat je zakopening een mooie rechthoek blijft, en strijk ze plat.
+Fold them back making sure you to keep your pocket opening a clean rectangle, and press them down.
 
 #### Keer de paspel naar de achterkant, plooi en strijk
 
-![Keer de paspel naar de achterkant, plooi en strijk](05i.png) {.fs-row2} ![Keer de paspel naar de achterkant, plooi en strijk](05j.png) {.fs-row2}
+![Bring the pocket welt to the front, fold and press](05i.png) {.fs-row2} ![Bring the pocket welt to the front, fold and press](05j.png) {.fs-row2}
 
-Keer de paspel met het bevestigde zakdeel naar de achterkant van de stof.
+Flip the pocket welt with the attache pocket back tot he back side.
 
-Plooi je paspel om aan het punt waar hij de bovenrand van de zakopening raakt. De paspel zou de hele zakopening moeten bedekken.
+Fold your welt down at the point where it reaches the top of the pocket. The welt should cover the entire pocket opening.
 
-> De illustratie toont dit langs de achterkant aangezien het zo duidelijker is wat er allemaal gebeurt. Kijk sowieso ook even naar de voorkant om te zien of je paspelzak er mooi uitziet.
+> The illustration shows this from the back as it's easier to see what is going on this way. However, you should check from the front to make sure your welt pocket looks good.
 
 #### Stik de driehoekjes vast
 
 ![Stik de driehoekjes vast](05k.png)
 
-Leg je voorpand neer met de goede kant omhoog en zorg dat het zakbeleg en de paspel plat liggen.
+Put your front down with the good side up and make sure the pocket facing and welt lie flat.
 
-Plooi je voorpand verticaal opzij aan de rand van je zak zodat het kleine driehoekje aan het uiteinde van de zakopening zichtbaar wordt.
+Fold your front over vertically at the edge of your pocket to reveal that little triangle at the short side of your pocket opening.
 
-Stik deze driehoek vast door vlak naast de plooi en rand van de zak te naaien.
+Sew this triangle down by sewing right next to the fold, and pocket edge.
 
 #### Sluit het zakdeel
 
 ![Sluit het zakdeel](05l.png)
 
-Stik je zakbeleg aan het zakdeel om je zak af te maken.
+Sew your pocket facing to the pocket bag to finish your pocket.
 
-> Dit zou duidelijk moeten zijn, maar let op dat je je zakdeel niet aan je voorpand vastmaakt.
+> This should go without saying, but be careful not to sew your pocket bag to the front of your waistcoat.
 
 #### Strijk je afgewerkte zak
 
 ![Strijk je afgewerkte zak](05m.png)
 
-Strijk alles nog eens grondig als je klaar bent.
+When you're done, give your pocket a good final press.
 
-### Stap 6: Middenrugnaad
+### Step 6: Center back seam
 
-![Stik en strijk de middenachternaad](06a.png)
+![Sew and press the center back seam](06a.png)
 
-Leg je twee rugpanden met de goede kanten op elkaar en stik de middenrugnaad.
+Put your two back pieces with their good side together and sew the center back seam.
 
-Strijk deze naad open wanneer je klaar bent.
-
-> Vergeet niet hetzelfde te doen voor de voering
-
-### Stap 7: Bevestig rugpand aan voorpanden
-
-![Bevestig rugpand aan voorpanden](07a.png)
-
-Leg je rugpand met de goede kant omhoog en leg je voorpanden bovenop met de goede kant omlaag. Leg de zijnaden gelijk, speld en stik.
-
-Strijk deze naden open wanneer je klaar bent.
-
-### Stap 8: Bevestig de schouders aan elkaar
-
-![Bevestig de schouders aan elkaar](08a.png)
-
-Leg de schoudernaden gelijk, stik ze, en strijk de naadwaarde open.
+When you're done, press open this seam.
 
 > Vergeet niet hetzelfde te doen voor de voering
 
-### Stap 9: Bevestig de voering
+### Step 7: Join back to fronts
+
+![Join back to fronts](07a.png)
+
+Put your back down with the good side up and put your fronts on it with the good side down. Align the side seams, pin and sew.
+
+When you're done, press open these seams.
+
+### Step 8: Join the shoulders
+
+![Join the shoulders](08a.png)
+
+Align the shoulder seams, sew them, and press open the seam allowance.
+
+> Vergeet niet hetzelfde te doen voor de voering
+
+### Step 9: Insert the lining
 
 #### Schuif de voering in het gilet
 

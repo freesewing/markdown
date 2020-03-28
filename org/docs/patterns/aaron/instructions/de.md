@@ -61,7 +61,7 @@ The first thing we need to do is decide where we are going to start/stop our bin
 
 Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
 
-Aling the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
+Align the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Place the corner on your starting point.
 
 Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
 

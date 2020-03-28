@@ -1,49 +1,3 @@
-
-## Wat je nodig hebt
-
-Om Sven te maken heb je het volgende nodig:
-
-- Basis naaimateriaal
-- Ongeveer 1.75 meter geschikte stof ([zie Optionele stoffen](#fabric-options))
-- Boordstof voor de manchetten en halsopening
-
-> **Een overlockmachine is handig, maar optioneel**
-> 
-> Zoals met alle gebreide en elastische stoffen maakt een overlock het leven eenvoudiger.
-> 
-> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. Omdat deze zij- en schoudernaden niet echt uitgerokken worden kan je ze gewoon stikken met een rechte steek of een smalle zigzagsteek.
-
-## Stofkeuze
-
-Sven kan de gedaante van eender welke sweater aannemen. Van geweven stoffen tot jersey of zelfs scuba, je kan niet missen zolang je iets kiest dat een beetje gewicht heeft.
-
-Kijk eens naar [de Sven showcases](/showcase/pattern/sven) voor inspiratie.
-
-## Knippen
-
- - **Buitenstof**
-   - Cut **1 back** on the fold
-   - Cut **1 front** on the fold
-   - Cut **2 sleeves** with good sides together
- - **Boordstof**
-   - Cut **1 strip** for the neck opening binding
-   - Cut **2 strips**  for the cuffs
-   - Cut **1 strip**  for the hem
-
-### Opmerkingen
-
-De delen in boordstof staan niet mee op het patroon omdat het gewoon rechthoeken zijn. We zoeken later wel uit hoe groot ze juist moeten zijn.
-
-Sven is een heel simpel patroon, en bestaat uit drie hoofddelen plus een aantal stroken voor de hals, manchetten en zoom.
-
-Hier is een typische layout:
-
-![Een typisch Sven patroon](layout.svg) % include scalebox.html %}
-
-> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
-
-## Constructie
-
 ### Stap 1: Sluit de schoudernaden
 
  - Leg het voorpand op het rugpand met de juiste kanten tegen elkaar.
@@ -55,49 +9,49 @@ Hier is een typische layout:
 
  - Leg je aan elkaar bevestigde voor- en achterpand neer met de goede kant naar boven.
  - Leg een mouw bovenop met de goede kant naar beneden
- - Leg de bovenkant van de mouwkop gelijk met de schoudernaad, de mouw ligt over het voor-en achterpand heen, tot aan de andere schoudernaad
+ - Leg de bovenkant van de mouwkop gelijk met de schoudernaad. De mouw ligt over het voor-en achterpand heen, tot aan de andere schoudernaad
  - Speld de mouw op z'n plaats langs het hele armsgat. Er zit een beetje extra stof in de mouwkop, wat wil zeggen dat de mouwkop een beetje groter is dan het armsgat. Verdeel dit verschil over het bovenste deel van de mouwkop terwijl je speldt.
- - Stik/lock de gespelde mouw op z'n plaats
- - Herhaal voor de andere mouw
+ - Sew/serge your pinned sleeve in place
+ - Repeat for the other sleeve
 
-### Stap 3: werk de halsbies af
+### Step 3: Finish the neck binding
 
- - Meet de lengte van de halsopening
- - Knip een strook boordstof van deze lengte en 6 cm/2.5 inch breed
- - Plooi de strook boordstof dubbel met de goede kant naar buiten, en speld aan de halsopening, vertrekkend aan de rug
- - De onafgewerkte rand van de boordstof moet samenliggen met de rand van de halsopening, terwijl de boord zelf op de sweater ligt
- - Speld de boord vast aan de halsopening, start aan de rug en rek de boord lichtjes uit terwijl je speldt
- - Stik eerst de korte uiteindes van de boord aan elkaar aan middenrug, met de goede kanten samen. Aangezien je de boord uitgerokken hebt terwijl je hem vastspeldde, zal die nu te lang zijn. Knip het overschot gewoon af
- - Stik dan de boord aan de halsopening
+ - Measure the length of the neck opening
+ - Cut a piece of ribbing that is this length and 6cm/2.5inch wide
+ - Fold the ribbing double with the good side outward, and pin it to your neckopening starting from the back
+ - The cut off side of your ribbing should align with the edge of your neck opening, while the ribbing extends over your sweatshirt
+ - Pin the ribbing in place around the neck opening, starting at the back and stretching it gently as you do so
+ - First, join the ribbing at center back, with good sides together. As you've been stretching the ribbing as you were pinning it, it will be too long. Simply cut that away
+ - Then, sew the ribbing to the neck opening
 
-### Stap 4: Sluit de zijnaden en mouwen
+### Step 4: Close the side seams and sleeves
 
- - Plooi Sven in twee aan de schoudernaden met de goede kanten op elkaar
- - Leg de zijnaden en mouwen gelijk en speld ze samen
- - Stik nu de zijnaad en blijf stikken om de mouwen tot aan de manchet te sluiten
- - Herhaal aan de andere kant
+ - Fold Sven double at the shoulder seams with good sides together
+ - Align the side seams and sleeves and pin them together
+ - Now, sew the side seam and continue sewing to close the arms all the way to the cuff
+ - Repeat on the other side
 
-### Stap 5: Bevestig de manchetten
+### Step 5: Attach the cuffs
 
- - Meet de breedte van de mouw aan de manchet
- - Knip een stuk boordstof dat (twee keer deze lengte - 2 c/1 inc) is en 7 cm/ 3 inch breed
- - Plooi de boordstof dubbel langs de langste kant, en stik de korte uiteindes samen zodat je een ring hebt
- - Keer je Sven binnenstebuiten
- - Plooi de ring van boordstof met de goede kant naar buiten, en stop de geplooide kant in je binnenstebuiten mouw
- - Leg de onafgewerkte kant van de boordstof gelijk met de rand van de mouw en speld vast. De boorstof is een beetje korter, dus rek ze een beetje uit bij het spelden zodat ze in de mouw past.
- - Stik/lock de boordstof nu aan de mouw
- - Herhaal voor de andere manchet
+ - Measure the width of the sleeve at the cuff
+ - Cut a piece of ribbing that is (twice this length - 2cm/1inch) and 7cm/3inch wide
+ - Fold the ribbing double along the longest side, and sew together the edge so you have a continous ring
+ - Turn your Sven inside-out
+ - Fold the ribbing ring with the good side outwards, and slip the folded side into your inside/out Sven sleeve
+ - Align the cut off side of the ribbing with the edge of the sleeve and pin it in place. The ribbing is a bit shorter, so stretch it a bit while pinning to work this into the sleeve.
+ - Now, sew/serge the ribbing to the sleeve
+ - Repeat for the other cuff
 
-### Stap 6: Bevestig de boord aan de zoom
+### Step 6: Attach the hem
 
- - Doe voor de zoom wat je voor de manchetten deed
- - Meet de breedte van Sven aan de zoom
- - Knip een stuk boordstof dat 1.9 keer deze lengte is en 7 cm/ 3 inch breed
- - Als je boordstof niet breed genoeg is moet je verschillende stukken aan elkaar zetten
- - Plooi de boordstof dubbel langs de langste kant, en stik de korte uiteindes samen zodat je een ring hebt
- - Keer je Sven binnenstebuiten
- - Plooi de boordstof met de goede kant naar buiten, en stop de geplooide kant in je binnenstebuiten trui
- - Leg de onafgewerkte kant van de boordstof samen met de rand van de zoom en speld vast. De boordstof is een beetje korter, dus rek ze een beetje uit tijdens het spelden om dit verschil te verdelen.
- - Stik/lock de boord nu aan de sweater
+ - Do for the hem as your did for the cuffs
+ - Measure the width of Sven at the hem
+ - Cut a piece of ribbing that 1.9 times this length and 7cm/3inch wide
+ - You may need to attach different pieces if your ribbing fabric isn't wide enough
+ - Fold the ribbing double along the longest side, and sew together the edge so you have a continous ring
+ - Turn your Sven inside-out
+ - Fold the ribbing ring with the good side outwards, and slip the folded side into your inside/out Sven body
+ - Align the cut off side of the ribbing with the edge of the body and pin it in place. The ribbing is a bit shorter, so stretch it a bit while pinning to work this into the body.
+ - Now, sew/serge the ribbing to the body
 
 

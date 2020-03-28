@@ -175,253 +175,253 @@ Surpiquez juste à côté de la couture qui joint empiècement dos et dos.
 
 > Edge-stitching is like top-stitching, but right next to the seam
 
-### Step 8: Close the back darts
+### Étape 8 : Fermer les pinces du dos
 
 ![Fold the back with good sides together to close the darts](8a.png) ![Sew the darts](8b.png) ![Press darts towards the side seams](8c.png)
 
-> Depending on your measurements, your pattern might not have back darts at all. In that case, proceed to the next step.
+> Selon vos mesures, votre patron peut ne pas avoir de pinces. Dans ce cas, passez à l'étape suivante.
 
-Your pattern may or may not have back darts. If it has them, you should close them now.
+Votre patron peut avoir ou non des pinces au dos. S'il en a, vous devez les fermer maintenant.
 
-Place your back down with the good side up, and fold it back from the side seam so the fold runs from the top to the bottom of your dart.
+Placez votre dos sur l'envers, et repliez un côté en faisant en sorte que le pli passe par les points situés aux deux exrémités de la pince.
 
-Do the same for the other dart, so that both sides are folded back.
+Faites de même pour l'autre pince, de sorte que les deux côtés soient repliés.
 
-Feel free to gently press in this crease, it will help you to neatly sew the darts.
+N’hésitez pas à appuyer doucement sur ce pli, cela vous aidera à bien coudre les pinces.
 
-Sew across the line marking the dart to close the darts. Be careful to make sure the top and bottom of your darts are precisely where they need to be. If one dart sits higher than the other, it will look bad.
+Coudre sur la ligne marquant les pinces pour les fermer. Veillez à positionner précisément le haut et le bas de vos pinces. Si une pince est plus haute que l'autre, ce sera vilain.
 
-When you're done, don't forget to give it a good press. Press the extra fabric of the dart towards the side seams.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Couchez le tissu excédentaire de la pince vers ce qui sera les coutures latérales.
 
-### Step 9: Prepare the button placket
+### Étape 9 : Préparez la patte de boutonnage (côté boutons)
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to [Fold the button placket](#fold-the-button-placket).
+> Si vous avez choisi une patte de boutonnage intégrée, vous pouvez passer les deux premières sous-étapes et passer à [Replier la patte de boutonnage](#fold-the-button-placket).
 
-#### Sew on the button placket
+#### Coudre la patte de boutonnage
 
-![Sew on the button placket](9a.png)
+![Coudre la patte de boutonnage](9a.png)
 
-If you have chosen a separate button placket, sew it to the Front Right piece.
+Si vous avez choisi une patte de boutonnage séparée, cousez-la sur le devant droit.
 
-Place the Front Right (piece 1) down with the good side up, and place the Button Placket (piece 1b) on top of it with the good side down, making sure to align the seam.
+Placer le devant droit (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce boutons, 1b), endroit contre endroit, en veillant à aligner la couture.
 
-Sew it in place with the default seam allowance.
+Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
-#### Press seam allowance to placket side
-Place your front with the good side down, and press the seam allowance to the button placket side.
+#### Repassez la couture en couchant la marge de couture côté patte de boutonnage
+Placez votre devant sur l'endroit, et repassez en couchant la marge de couture du côté de la patte de boutonnage.
 
-#### Fold the button placket
+#### Replier la patte de boutonnage
 
-![Fold the button placket](9b.png)
+![Replier la patte de boutonnage](9b.png)
 
-Now, fold over the button placket on the first fold line, and press this fold in place.
+Maintenant, pliez la patte de boutonnage sur la première ligne en pointillé, et repassez sur ce pli.
 
-Then, fold the placket over again, making sure to have the fabric extend just beyond the seam that joins your placket to the front.
+Ensuite, pliez à nouveau la patte en veillant à ce que le tissu arrive juste après la couture qui relie votre patte au devant.
 
-When you're happy, press the folded placket.
+Quand vous êtes satisfait, repassez la patte pliée.
 
-#### Sew down the folded placket
+#### Fixer la patte de boutonnage
 
-![Sew down the folded placket](9c.png)
+![Fixer la patte de boutonnage](9c.png)
 
-> This is the classic approach. If you have chosen the seamless Button placket style, you don't have to do this.
+> Ce qui suit est l'approche classique. Si vous avez choisi une patte de boutonnage intégrée (sans couture), vous n'avez pas à faire ceci.
 > 
-> Rather than sew the placket down, simply leave it folded. The folds will be secured in place when we attach the buttons later.
+> Plutôt que de coudre la patte de boutonnage, laissez-la pliée. Les plis seront fixés en place par les boutons lorsqu'ils seront cousus plus tard.
 
-From the good side of your shirt, sew down the folded placket by stitching in the ditch.
+Retourner la pièce sur l'endroit, et fixer la patte repliée en piquant dans la rainure.
 
-To do so, sew exactly on top of your earlier seam. Since you folded the fabric of your placket a bit passed this seam, it will get caught at the back, fixing your folded placket in place, and locking the seam allowance inside.
+Pour cela, coudre exactement sur votre couture précédente. Comme vous avez plié la patte en dépassant un peu cette couture, la patte sera prise au dos, ce qui la fixera et maintiendra la marge de couture à l'intérieur.
 
 
-### Step 10: Prepare the buttonhole placket
+### Etape 10: Préparer la patte de boutonnage (côté boutonnières)
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to Understanding a classic buttonhole placket.
+> Si vous avez choisi une patte intégrée, vous pouvez passer les deux premières sous-étapes et passer à "Replier la patte de boutonnage".
 
-#### Sew on the buttonhole placket
+#### Fixer la patte de boutonnage (côté boutonnières)
 
 ![Sew on the butonhole placket](10a.png)
 
-If you have chosen a separate buttonhole placket, sew it to the Front Left piece.
+Si vous avez choisi une patte séparée, cousez-la sur le devant gauche.
 
-Place the Front Left (piece 2) down with the good side up, and place the Buttonhole Placket (piece 2b) on top of it with the good side down, making sure to align the seam.
+Placer le devant gauche (pièce 2) sur l'envers, et placez dessus la patte de boutonnage (pièce boutonnières, 2b) endroit contre endroit, en veillant à aligner la couture.
 
-Sew it in place with the default seam allowance.
+Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
-When you're done, don't forget to give it a good press. Press the seam allowance towards the placket side.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Repassez la couture en couchant la marge de couture côté patte de boutonnage.
 
-#### Press seam allowance to the placket side
-Place your front with the good side down, and press the seam allowance to the buttonhole placket side.
+#### Repassez la couture en couchant la marge de couture côté patte de boutonnage
+Placez votre devant sur l'endroit, et repassez la marge de couture en la couchant du côté de la patte de boutonnage.
 
-#### Understanding a classic buttonhole placket
+#### Comprendre une patte de boutonnage classique (côté boutonnière)
 
-> If you have chosen a seamless placket, you should follow the steps of the button placket, as the construction is identical.
+> Si vous avez choisi une patte sans couture, suivez les étapes de la patte de boutonnage côté boutons, car le principe est le même.
 > 
-> The steps below are for a classic buttonhole placket.
+> Les étapes ci-dessous sont celles d'une patte de boutonnage (côté boutonnières) classique.
 
-![Understanding a classic buttonhole placket](10b.png)
+![Comprendre une patte de boutonnage classique (côté boutonnière)](10b.png)
 
-Your placket has a bunch of lines on it, so let's first clarify what they are:
+Votre patte a un tas de lignes, alors clarifions d'abord à quoi elles correspondent :
 
- - The buttonhole line has long dashes with buttonholes on it. It marks where the buttonholes should go
- - The two fold lines have long dashes and sit at an equal distance right and left of the buttonhole line
- - The two+two sew lines are dotted lines that sit at an equal distance of each fold line
+ - La ligne de boutonnières est en pointillés longs et des boutonnières y figurent. Elle indique la position des boutonnières
+ - Les deux lignes de plis sont en pointillés longs et sont à égale distance à droite et à gauche de la ligne de boutonnière
+ - Les deux + deux lignes de couture sont en pointillés courts, à égale distance de chaque ligne de pli
 
-#### Trim back seam allowance
+#### Dégarnir la marge de couture
 
-> If you have chosen a grown-on placket, this does not apply.
+> (Si vous avez choisi une patte intégrée, passez cette étape).
 
-![Trim back seam allowance](10c.png)
+![Dégarnir la marge de couture](10c.png)
 
-The seam allowance of where you sewed your buttonhole placket to your front should fit inside your folded placket.
+La marge de couture de l'endroit où vous avez cousu votre patte côté boutonnière doit être intégrée à l'intérieur de votre patte repliée.
 
-For that, trim back the seam allowance so that it doesn't extend beyond the first fold line on the placket.
+Pour cela, coupez l'excédent de marge de couture afin qu'elle ne dépasse pas la première ligne de pli sur la patte.
 
-#### Fold the buttonhole placket
+#### Replier la patte de boutonnières
 
-![Fold the buttonhole placket](10d.png) ![Fold the buttonhole placket again](10e.png)
+![Replier la patte de boutonnières](10d.png) ![Fold the buttonhole placket again](10e.png)
 
-Fold the placket on the first fold line. Press the fold in place.
+Repliez la patte sur le premier pointillé long. Repassez le pli.
 
-Then, fold the part you just folded again, this time on the second fold line. Press this fold in place too.
+Ensuite, pliez à nouveau, cette fois sur le deuxième pointillé long. Repassez le pli.
 
-> When your placket is folded and pressed, place a few pins along the length of your placket to keep things from shifting around
+> Lorsque votre patte est pliée et repassée, mettez quelques épingles sur toute la longueur pour maintenir en place
 
-#### Sew the buttonhole placket
+#### Fixer la patte de boutonnage (côté boutonnières)
 
 ![Sew on the first line](10f.png) ![Sew on the second line](10g.png)
 
-Sew on the first sew line, closest to the edge.
+Coudre sur la première ligne de couture (la plus proche du bord).
 
-Then, flip your shirt over so that the good side is up, and your placket is up too. Then sew on the second sew line.
+Ensuite, retournez votre chemise endroit sur le dessus. Coudre alors sur la deuxième ligne de couture.
 
-> These two lines of top-stitching will always be visible, so make sure to keep it neat
+> Ces deux lignes de couture seront visibles, alors faites-les bien nettes
 
-#### Press the buttonhole placket
+#### Repasser la patte de boutonnières
 
-![Press the buttonhole placket](10h.png)
+![Repasser la patte de boutonnières](10h.png)
 
-Congratulations, you made a classic buttonhole placket.
+Félicitations, vous venez de réaliser une patte de boutonnière classique.
 
-Now press that baby. You know you want to.
+Maintenant repassez-moi tout ça mon ami. Avouez qu'on en a envie.
 
-### Step 11: Close the shoulder seams
+### Etape 11: Assemblez les coutures d'épaule
 
-> **Let's stuff a burrito**
+> **Faisons un burrito**
 > 
-> We are going to close the shoulder seams with a technique that is commonly know as the **burrito method**.
+> Nous allons fermer les coutures d'épaule avec une technique communément connue sous le nom de **méthode du burrito**.
 > 
-> If you are familiar with the burrito method, you already know what to do. If not, read on for a clever way to neatly close your shirt's shoulder seams while locking all the unfinished edges out of sight.
+> Si vous connaissez la méthode du burrito, vous savez déjà comment faire. Si ce n'est pas le cas, lisez ce qui suit pour découvrir une méthode astucieuse pour assembler les coutures d'épaule de votre chemise tout en emprisonnant de façon invisible tous les bords bruts.
 
 #### Pin the fronts to the outside yoke
 
 ![Pin the fronts to the outside yoke](11a.png) ![Pin the fronts to the outside yoke](11b.png)
 
-Place your back down with the good side up, but be careful to fold the inner yoke downward (as illustrated by the dotted line.
+Placez le dos sur l'envers, en faisant attention à plier vers le bas la partie de l'empiècement dos qui sera à l'intérieur de la chemise (comme l'illustre la ligne en pointillés).
 
-Place your fronts on your back, with the good sides down. Pin fronts to the yoke at the shoulder seam, good sides together.
+Placez vos devants sur le dos, endroits contre endroit. Épingler les devants à l'empiècement dos au niveau de la couture des épaules, endroits contre endroit.
 
-#### Roll, roll, roll your shirt, pin down and sew your seam
+#### Roulez, roulez, roulez, roulez votre chemise, épinglez et cousez vos épaules
 
 ![Roll your shift up between the yokes](11c.png)
 
-Roll up your back and fronts starting at the hem. Roll them into a neat sausage upwards until you can see the entire turned down yoke.
+Enroulez ensemble dos et vos devants en partant du bas de la chemise. Faites une belle petite saucisse en enroulant jusqu'en haut, jusqu'à ce que vous puissiez voir l'empiècement dos que nous avions précédemment replié vers le bas.
 
-Now, you can flip the inner yoke over your rolled sausage to align the shoulder seams with the other yoke and fronts.
+Maintenant, faites passer cet empiécement dos par dessus votre saucisse, et aligner les coutures d'épaule avec l'autre partie de l'empiècement dos et les devants.
 
-Pin them in place, and then sew the shoulder seams, making sure to keep your sausage (or burrito stuffing) out of the way so it doesn't get caught in the seam.
+Épinglez le tout en place, puis cousez les coutures des épaules, Assurez-vous de ne pas prendre votre saucisse (la farce de votre burrito) dans la couture des épaules.
 
 ![Match the notches](11e.png)
 
-> Made sure to align the actual seam line. Due to the uneven angles at the neck opening, the fabric edge is often longer on one side than on the other.
+> Assurez-vous d'aligner la vraie ligne de couture. En raison des angles inégaux à l'encolure, le bord du tissu est souvent plus long d'un côté que de l'autre.
 > 
-> However, the seamlines are the same lenght, so make sure to match them carfully using the notches.
+> Cependant, les lignes de couture sont de même longueur, alors assurez-vous de les assembler en utilisant les repères.
 
-#### Flip it inside out through the neck opening
-When you've sewn both shoulder seams, reach in through the neck opening, and pull out the back and front parts to inside-out your burrito.
+#### Retournez-le à l'intérieur à travers l'encolure
+Lorsque vous avez cousu les deux coutures d'épaule, attrapez votre burrito en passant par l'encolure, et faites le sortir.
 
-#### Press the shoulder seams
+#### Repassez les coutures d'épaule
 
-![Press the shoulder seams](11d.png)
+![Repassez les coutures d'épaule](11d.png)
 
-You did all this work, so now make sure you make it look super sharp by giving it a good press. Make sure that the seam allowance between your yokes lies nice and flat for that.
+Après tout ce travail, assurez vous maintenant de lui donner une aspect impeccable avec un bon coup de fer. Assurez-vous que la marge de couture entre vos empiècements est belle et bien plate.
 
-### Step 12: Edge-stitch the shoulder seams of the yoke
+### Etape 12: Surpiquer l'empiècement aux coutures d'épaule
 
 ![Edge-stitch the shoulder seams of the yoke](12.png)
 
-Just as we've edge-stitched the bottom seam of the yoke in Step 3, we're going to edge-stitch the yoke at the shoulder seams too.
+Tout comme nous avons surpiqué le bas de l'empiècement dos à l'étape 3, nous allons aussi le surpiquer aux coutures d'épaule.
 
-Since you've just pressed these shoulder seams, everything should lie nice and flat, and you just need to run a stitch right next to the seam.
+Puisque vous venez de repasser ces coutures d'épaule, tout devrait être beau et plat, et vous n'avez qu'à surpiquer gentiment juste à côté de la couture.
 
-> Make sure to edge-stitch on the yoke part, where you will catch all the seam allowance, and not on the front part.
+> Assurez-vous de surpiquer sur la partie empiècement, ce qui permet d'emprisonner la marge de couture, et non sur la partie avant.
 
-### Step 13: Construct the sleeve placket
+### Etape 13 : Faire la patte de manche
 
-#### Sew in the cuff guard
+#### Coudre la sous-patte de poignet
 
-![Sew in the cuff guard](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
+![Coudre la sous-patte de poignet](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
 
- - Place your sleeve with the good side down, and your cuff guard on top, also with the good side down.
- - Align the edge of your cuff guard (aka sleeve placket underlap) with the cut in your sleeve, on the side shortest to the side seam.
- - Now sew along the fold line marked on the cuff guard, closest to the edge.
+ - Placez votre manche sur l'endroit, et votre sous-patte de poignet dessus, également sur l'endroit.
+ - Alignez le bord de votre sous-patte avec la fente de votre manche, en plaçant la sous patte sur le côté le plus court par rapport à la fente.
+ - Coudre maintenant le long de la ligne de pli indiquée sur la sous-patte la plus proche du bord.
 
-> If during cutting out your pattern pieces you had not cut into your sleeve on the line where the sleeve placket needs to be put in, you need to do that first.
+> Si vous n'aviez pas encore coupé dans votre manche la ligne sur laquelle la patte de manche doit être placée, vous devez le faire maintenant.
 
- - Fold over the cuff guard, and press down this seam.
- - Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
- - Fold it twice on the lines so that the unfinished seam is tucked inwards.
- - Make your folds so that the upper folds sits ever so slightly further than the seam you already made.
- - Press everything down, and then edge-stitch the cuff guard in place.
+ - Repliez la sous-patte, et repasser la couture.
+ - Retournez votre manche sur l'endroit, et ramenez votre sous-patte par dessus la fente de votre manche.
+ - Plier deux fois sur les lignes de façon à emprisonner le bord brut.
+ - Faites vos plis de façon à ce que le dernier pli arrive légèrement plus loin que la couture faite précédemment.
+ - Repassez le tout, puis surpiquez la sous-patte.
 
-#### Fold and press the placket
+#### Plier et repasser la patte
 
-![Fold and press the placket](13d.png)
+![Plier et repasser la patte](13d.png)
 
-Origami time! We're going to fold the sleeve placket overlap using the marked fold lines as our guide. This will be a lot easier if you press between each fold.
+C'est le moment Origami ! Nous allons plier la patte de manche en utilisant les lignes comme repères. Cela sera beaucoup plus facile si vous repassez entre chaque pli.
 
- - First, fold the outer edges of the placket inwards.
- - Next, fold the entire thing double.
- - Then, fold down both tips into a nice pointy shape.
- - Now give it a final good press.
+ - Tout d'abord, pliez les bords extérieurs de la patte vers l'intérieur.
+ - Ensuite, pliez le tout en deux au milieu.
+ - Puis faites deux plis à l'extrémité pour obtenir une belle forme pointue.
+ - Maintenant donnez un bon coup de fer.
 
-Here's a very short YouTube video of me folding the placket: <YouTube id='kgd5eubxShM' />
+Voici une très courte vidéo YouTube de moi pliant la patte de boutonnage: <YouTube id='kgd5eubxShM' />
 
-#### Pin placket in place
+#### Épingler la patte en place
 
-![Slide placket in position](13e.png) ![Pin placket in place](13f.png)
+![Slide placket in position](13e.png) ![Épingler la patte en place](13f.png)
 
-Place your sleeve down with the good side up. The guard we have sewn in earlier sits against the other unfinished fabric edge of where you cut into your sleeve.
+Placez votre manche sur l'envers. La sous-patte que nous avons cousue plus tôt est placée contre le bord brut de votre fente de manche.
 
-Place your placket around that edge, one side above it, one underneath.
+Placez votre patte à cheval sur ce bord, un côté au-dessus, un en dessous.
 
-You need to slide the placket onto your sleeve until the middle of it (the tip) aligns with the cut in your sleeve.
+Vous devez positionner votre patte de façon à aligner son milieu (la pointe) avec la fente de votre manche.
 
-The idea is that the placket closes up the unfinished edge, but also covers the guard of the other edge.
+L'idée est que la patte ferme le bord brut, et en même temps recouvre la sous-patte située sur l'autre bord.
 
-When you've got it where you want it, pin the placket down.
+Quand elle sera placée là où vous le souhaitez, épinglez la.
 
-#### Sew the sleeve placket
+#### Coudre la patte de manche
 
-![Sew the sleeve placket](13g.png)
+![Coudre la patte de manche](13g.png)
 
-Start at the edge of the sleeve (the bottom of the sleeve placket) and edge-stitch along the edge upwards.
+Commencez au bord de la manche (bas de la patte de manche) et piquez le long du bord vers le haut.
 
-Go around the tip, and come down again on the other side (the fold side) until you have passed the point where your guard ends.
+Faites le tour de la pointe et redescendez de l'autre côté de la fente (côté plié) jusqu'à ce que vous ayez passé le point où se termine votre sous-patte en haut de la fente.
 
-Then, sew horizontal to the other side of the placket to finish.
+Ensuite, coudre horizontalement jusqu'à l'autre côté de la patte pour finir.
 
-> I have included an extra illustration here that only shows the outline of the placket. You can see that the end of the guard is caught in our stitching of the placket, and is thus neatly tucked away.
+> J'ai inclus ici une illustration supplémentaire qui ne montre que le contour de la patte. Vous pouvez voir que l'extrémité de la sous-patte est prise dans la couture de la patte, et est ainsi bien cachée.
 
-### Step 14: Set in sleeves
+### Etape 14: Assembler les manches
 
-#### Remember, this is a flat-felled seam
+#### Rappelez vous, il s'agit d'une couture plate rabattue
 
 ![Aligning the fabric for a flat-felled seam](14c.png)
 
 
-> **Careful with the extra seam allowance for the flat-felled seam** There is extra seam allowance on the sleeve to allow for the creation of the flat-felled seam.
+> **Attention avec la marge de couture supplémentaire pour la couture plat rabattue** Une marge de couture supplémentaire est prévue sur la manche pour permettre la réalisation d'une couture plate rabattue.
 > 
-> As such, be careful to not align the fabric edge, but align the seam so that the sleeve sits out 1cm.
+> Par conséquent, ce sont les coutures et non les bords qui doivent être alignés, donc il faut positionner la manche de façon à ce qu'elle dépasse du bord de 1 cm.
 
 #### Pin shirt in place
 

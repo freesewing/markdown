@@ -1,12 +1,12 @@
 ---
-title: Knit fabric
+title: Tissu Maille
 ---
 
-![A piece of grey jersey, a knit fabric](/img/sewing/knit-fabric.jpg)
+![A piece of grey jersey, a knit fabric](/img/couture/knit-fabric.jpg)
 
-Knit fabric is fabric that is knitted, rather than woven. Knit fabric typically stretches to some extent.
+Le tissu maille est un tissu tricoté plutôt que tissé. Le tissu maille est extensible dans une certaine mesure.
 
-While the fabric is knitted, it does not look like knitwear, but like fabric.
+Bien que le tissu soit tricoté, il ne ressemble pas à du tricot, mais à du tissu.
 
 Knit fabric is used in garments where stretch is required. Sewing them is often done with a serger to maintain the stretch in the seams.
 

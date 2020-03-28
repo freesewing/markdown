@@ -1,10 +1,16 @@
+![Hoek kraag](collarangle.svg)
 
 Hoeveel graden tussen de rand van de kraag en de draadrichting.
 
-> #### Waarom?
-> 
-> Samen met de hoogte van de kraag is dit de belangrijkste factor voor de stijl van je kraag.
-> 
-> Een grotere waarde zorgt voor een meer weggeknipte look.
+<Note>
 
-> In dit voorbeeld is de bovenste versie 80° (de standaard) en de onderste 110°.
+###### Waarom?
+
+Together with the collar height, this is the most important factor for the style of your collar.
+
+Higher values mean a more cut-away style.
+
+In the example image, the top is 80 degrees (the default) and the bottom is 110 degrees.
+
+</Note>
+

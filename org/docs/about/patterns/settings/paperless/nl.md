@@ -2,6 +2,6 @@
 title: Papierloos
 ---
 
-Pepierloze patronen hebben extra markeringen om te gebruiken zonder printer
+Paperless patterns have extra markings to use them without a printer
 
-Het idee is dat een grid en de extra dimensies je helpen zodat je het patroon niet moet printen. Je kan het patroon in de plaats meteen op de stof zetten, of op een tussenmedium als patroonpapier.
+The idea is that with the help of the grid and the extra dimensions, you don't need to print the pattern. Instead, you can transfer it directly on to fabric, or onto a intermediate medium such as drafting paper.

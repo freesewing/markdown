@@ -1,4 +1,10 @@
+![Collar gap](collargap.svg)
 
-Hoe ver de kraag uit elkaar zit als hij gesloten is.
+Distance the collar sits apart when closed.
 
-> Dit is voornamelijk een stijlkeuze, maar een bredere afstand (samen met de hoek van de kraag) maakt ruimte voor een bredere das(knoop).
+<Note>
+
+This is really mostly a style choice, but a wider collar gap (together with the collar angle) can accomodate a wider tie (knot).
+
+</Note>
+

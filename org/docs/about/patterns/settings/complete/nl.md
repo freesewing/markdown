@@ -2,13 +2,13 @@
 title: Detail
 ---
 
-Schakel deze instelling uit om enkel de omlijning van het patroon te tekenen.
+Turn this setting off to only draft a basic outline of the pattern.
 
-Dit is vooral nuttig voor mensen die een laser cutter of ander automatisch snijtoestel willen gebruiken, en enkel de omlijning van het patroon nodig hebben.
+This is useful particularly for people looking to use a laser cutter or other automated tools, and only want the cutlines of the pattern.
 
 <Note>
 
-Als je met een complex patroon werkt kan dit ook (een beetje) helpen om de weergave fris te houden.
+If you're working with a complex pattern, this can also help (a bit) to keep re-rendering snappy.
 
 </Note>
 

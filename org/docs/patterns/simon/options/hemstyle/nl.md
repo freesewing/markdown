@@ -1,3 +1,4 @@
+![Vorm zoom](hemstyle.svg)
 
 Wat voor zoom wil je?
 

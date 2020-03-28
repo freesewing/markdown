@@ -1,2 +1,3 @@
+![Overwijdte manchet](cuffease.svg)
 
-Hoeveel ruimte wil je aan je pols?
+How much room do you want at your wrist?
