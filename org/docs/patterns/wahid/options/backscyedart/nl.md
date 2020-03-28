@@ -4,7 +4,7 @@ This pattern comes with a default 0.5 cm scye dart (think armhole dart) on the b
 
 <Note>
 
-###### What's the point?
+###### Waarom?
 
 Het punt van deze neep is te zorgen dat het armsgat plat tegen je lichaam ligt, en niet openstaat.
 Aangezien er geen mouw is valt het extra op als je armsgat niet mooi aanpast.
