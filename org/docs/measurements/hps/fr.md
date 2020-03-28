@@ -1,7 +1,7 @@
 ---
-title: High Point Shoulder (HPS)
+title: Point Haut de l'Epaule (PHE)
 ---
 
-The *high point shoulder* or *HPS* point is used as the base for several vertical measurements.
+Le *Point Haut de l'Epaule* ou *PHE* est utilisé comme base pour plusieurs mesures verticales.
 
-Le point le plus haut de l'épaule est l'endroit où votre couture de l'épaule rencontrerait votre cou. Le point est situé là où le cou se rencontre votre épaule. If you put a marble there, it should not roll forward or backward, but roll towards your shoulder (as in, it should sit in the middle)
+Le point le plus haut de l'épaule est l'endroit où votre couture de l'épaule rencontrerait votre cou. Le point est situé là où le cou rencontre votre épaule. Si vous y mettez une bille à cet endroit, elle ne devrait pas rouler vers l'avant ou vers l'arrière, mais rouler vers votre épaule (et ainsi rester au milieu)
