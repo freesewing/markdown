@@ -1,5 +1,5 @@
 ---
-title: Marges
+title: Margin
 ---
 
-Ceci contrôle la marge autour des pièces du patron. La marge par défaut est de 2mm, mais vous pouvez la modifier.
+This controls the margin around pattern parts. The default margin is 2mm, but you can change it.
