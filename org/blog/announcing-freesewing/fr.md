@@ -28,18 +28,18 @@ Bien que je ne puisse pas apporter d'un coup de baguette magique la culture de l
 
 [Freesewing.org](https://freesewing.org/) continuera à offrir ce que [Makemypattern.com](https://makemypattern.com/) fait aujourd'hui : des patrons de couture gratuits à vos mesures. Mais de plus, il sera ouvert à vos contributions.
 
-Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
+Pour les geeks : espérons que dans le diagramme de Venn de la couture, il n'y a pas que moi au milieu.
 
 joost
 
-## Shout-outs
-Freesewing is a project by [Joost De Cock](https://github.com/joostdecock) and contributors.
+## Dédicace spéciale
+Freesewing est un projet de [Joost De Cock](https://github.com/joostdecock) et contributeurs.
 
-Hat-tip to [@jakesgordon](https://github.com/jakesgordon) and [Kevin Lindsey](http://www.kevlindev.com) for allowing me to port some of their code.
+Coup de chapeau à [@jakesgordon](https://github.com/jakesgordon) et [Kevin Lindsey](http://www.kevlindev.com) pour m'avoir permis d'utiliser une partie de leur code.
 
 The early-stage enthusiasm and input of [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), and [@fightingrabbit](https://github.com/fightingrabbit) has been a great boon to this project.
 
-Thanks to [@annekecaramin](https://twitter.com/annekecaramin) for designing a logo cool enough to put on a Tshirt.
+Merci à [@annekecaramin](https://twitter.com/annekecaramin) d'avoir conçu un logo suffisamment cool pour le mettre sur un Tshirt.
 
 Special thanks to [@scorchtorch](https://twitter.com/scorchtorch) for being the best at that heart/salad/antlers thing.
 
