@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## Want to help out?
+## Vous souhaitez nous aider ?
 
-Awesome ❤️ Our [contributor documentation](https://freesewing.dev/guides/contributor/) is a good starting point. We also have dedicated guides for [translators](https://freesewing.dev/guides/contributor/) and [editors](https://freesewing.dev/guides/editor/).
+Génial ❤ Notre  [documentation de contributeur](https://freesewing.dev/guides/contributor/) est un bon point de départ. Nous avons également des guides dédiés pour [traducteurs](https://freesewing.dev/guides/contributor/) et [éditeurs](https://freesewing.dev/guides/editor/).
