@@ -353,62 +353,62 @@ Tout comme nous avons surpiqué le bas de l'empiècement dos à l'étape 3, nous
 
 Puisque vous venez de repasser ces coutures d'épaule, tout devrait être beau et plat, et vous n'avez qu'à surpiquer gentiment juste à côté de la couture.
 
-> Assurez-vous de surpiquer côté empiècement, ce qui permet d'emprisonner la marge de couture, et non côté avant.
+> Assurez-vous de surpiquer sur la partie empiècement, ce qui permet d'emprisonner la marge de couture, et non sur la partie avant.
 
 ### Etape 13 : Faire la patte de manche
 
-#### Sew in the cuff guard
+#### Coudre la sous-patte de poignet
 
-![Sew in the cuff guard](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
+![Coudre la sous-patte de poignet](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
 
- - Place your sleeve with the good side down, and your cuff guard on top, also with the good side down.
- - Align the edge of your cuff guard (aka sleeve placket underlap) with the cut in your sleeve, on the side shortest to the side seam.
- - Now sew along the fold line marked on the cuff guard, closest to the edge.
+ - Placez votre manche sur l'endroit, et votre sous-patte de poignet dessus, également sur l'endroit.
+ - Alignez le bord de votre sous-patte avec la fente de votre manche, en plaçant la sous patte sur le côté le plus court par rapport à la fente.
+ - Coudre maintenant le long de la ligne de pli indiquée sur la sous-patte la plus proche du bord.
 
-> If during cutting out your pattern pieces you had not cut into your sleeve on the line where the sleeve placket needs to be put in, you need to do that first.
+> Si vous n'aviez pas encore coupé dans votre manche la ligne sur laquelle la patte de manche doit être placée, vous devez le faire maintenant.
 
- - Fold over the cuff guard, and press down this seam.
- - Turn your sleeve over with the good side up, and bring your cuff guard through the slit in your sleeve.
- - Fold it twice on the lines so that the unfinished seam is tucked inwards.
- - Make your folds so that the upper folds sits ever so slightly further than the seam you already made.
- - Press everything down, and then edge-stitch the cuff guard in place.
+ - Repliez la sous-patte, et repasser la couture.
+ - Retournez votre manche sur l'endroit, et ramenez votre sous-patte par dessus la fente de votre manche.
+ - Plier deux fois sur les lignes de façon à emprisonner le bord brut.
+ - Faites vos plis de façon à ce que le dernier pli arrive légèrement plus loin que la couture faite précédemment.
+ - Repassez le tout, puis surpiquez la sous-patte.
 
-#### Fold and press the placket
+#### Plier et repasser la patte
 
-![Fold and press the placket](13d.png)
+![Plier et repasser la patte](13d.png)
 
-Origami time! We're going to fold the sleeve placket overlap using the marked fold lines as our guide. This will be a lot easier if you press between each fold.
+C'est le moment Origami ! Nous allons plier la patte de manche en utilisant les lignes comme repères. Cela sera beaucoup plus facile si vous repassez entre chaque pli.
 
- - First, fold the outer edges of the placket inwards.
- - Next, fold the entire thing double.
- - Then, fold down both tips into a nice pointy shape.
- - Now give it a final good press.
+ - Tout d'abord, pliez les bords extérieurs de la patte vers l'intérieur.
+ - Ensuite, pliez le tout en deux au milieu.
+ - Puis faites deux plis à l'extrémité pour obtenir une belle forme pointue.
+ - Maintenant donnez un bon coup de fer.
 
-Here's a very short YouTube video of me folding the placket: <YouTube id='kgd5eubxShM' />
+Voici une très courte vidéo YouTube de moi pliant la patte de boutonnage: <YouTube id='kgd5eubxShM' />
 
-#### Pin placket in place
+#### Épingler la patte en place
 
-![Slide placket in position](13e.png) ![Pin placket in place](13f.png)
+![Slide placket in position](13e.png) ![Épingler la patte en place](13f.png)
 
-Place your sleeve down with the good side up. The guard we have sewn in earlier sits against the other unfinished fabric edge of where you cut into your sleeve.
+Placez votre manche sur l'envers. La sous-patte que nous avons cousue plus tôt est placée contre le bord brut de votre fente de manche.
 
-Place your placket around that edge, one side above it, one underneath.
+Placez votre patte à cheval sur ce bord, un côté au-dessus, un en dessous.
 
-You need to slide the placket onto your sleeve until the middle of it (the tip) aligns with the cut in your sleeve.
+Vous devez positionner votre patte de façon à aligner son milieu (la pointe) avec la fente de votre manche.
 
-The idea is that the placket closes up the unfinished edge, but also covers the guard of the other edge.
+L'idée est que la patte ferme le bord brut, et en même temps recouvre la sous-patte située sur l'autre bord.
 
-When you've got it where you want it, pin the placket down.
+Quand elle sera placée là où vous le souhaitez, épinglez la.
 
-#### Sew the sleeve placket
+#### Coudre la patte de manche
 
-![Sew the sleeve placket](13g.png)
+![Coudre la patte de manche](13g.png)
 
-Start at the edge of the sleeve (the bottom of the sleeve placket) and edge-stitch along the edge upwards.
+Commencez au bord de la manche (bas de la patte de manche) et piquez le long du bord vers le haut.
 
-Go around the tip, and come down again on the other side (the fold side) until you have passed the point where your guard ends.
+Faites le tour de la pointe et redescendez de l'autre côté de la fente (côté plié) jusqu'à ce que vous ayez passé le point où se termine votre sous-patte.
 
-Then, sew horizontal to the other side of the placket to finish.
+Ensuite, coudre horizontalement jusqu'à l'autre côté de la patte pour finir.
 
 > I have included an extra illustration here that only shows the outline of the placket. You can see that the end of the guard is caught in our stitching of the placket, and is thus neatly tucked away.
 
