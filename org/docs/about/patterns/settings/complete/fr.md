@@ -1,14 +1,14 @@
 ---
-title: Détail
+title: Detail
 ---
 
-Désactivez ce paramétrage pour ne tracer qu'un contour de base du patron.
+Turn this setting off to only draft a basic outline of the pattern.
 
-Ceci est particulièrement utile pour les personnes cherchant à utiliser un cutter laser ou d'autres outils automatisés, et ne veulent que les coupes du patron.
+This is useful particularly for people looking to use a laser cutter or other automated tools, and only want the cutlines of the pattern.
 
 <Note>
 
-Si vous travaillez avec un patron complexe, cela peut aussi aider (un peu) à obtenir un rendu rapide.
+If you're working with a complex pattern, this can also help (a bit) to keep re-rendering snappy.
 
 </Note>
 
