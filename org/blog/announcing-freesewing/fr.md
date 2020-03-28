@@ -1,9 +1,9 @@
 ---
-date: 2017-03-24
-title: "Announcing freesewing, an open source platform for made-to-measure sewing patterns"
+date: 24-03-2017
+title: "Freesewing est une plate-forme open source pour des patrons de couture sur mesure"
 linktitle: "Announcing freesewing"
 img: "logo.jpg"
-caption: "The freesewing logo"
+caption: "Le logo freesewing"
 author: joost
 ---
 
