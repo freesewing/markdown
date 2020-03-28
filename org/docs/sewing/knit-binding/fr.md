@@ -1,8 +1,8 @@
 ---
-title: Knit binding
+title: Biais de jersey
 ---
 
-## What is knit binding anyway?
+## Qu'est-ce que le biais de jersey de toute façon ?
 
 Knit binding is a general term for a type of finish (typically) found on the neck or arm opening of Tshirts and other knitwear.
 
@@ -16,7 +16,7 @@ Knit band is what you typically find at the neck opening of your Tshirt. It's a 
 
 This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
 
-### Knit binding
+### Biais de jersey
 ![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
 Real knit binding acts more like classic bias binding, in that it is wrapped around the fabric, rather than extend from it.

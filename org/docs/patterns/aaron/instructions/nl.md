@@ -65,13 +65,19 @@ Leg de lange rand van je bies gelijk met de rand van je stof zodat de bies op de
 
 Leg nu je bies 1 cm voorbij je startpunt. Dit beetje extra garandeert dat we later de twee uiteindes aan elkaar kunnen bevestigen.
 
-> Als je naaimachine geen markeringen heeft om de afstand van de naald tot de rand van de stof aan te geven kan je een zoommaatje gebruiken. Of doe wat ik doe, kleef een stukje papierplakband op je naaimachine en markeer een streepje op 1,5 cm van je naald. Dan moet je alleen maar de rand van je stof gelijk houden met die lijn.
-
 ### Zorg dat je weet waar je naait
 
 ![Zorg dat je weet waar je naait](step03c.png)
 
 We gaan op 1,5 cm van de rand naaien. Opletten dus, want dit is niet de standaard naadwaarde.
+
+<Tip>
+
+The easy way to keep this 1.5cm distance is by using a seam gauge. 
+Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
+Then all you need to do is keep the edge of your fabric aligned with that line.
+
+</Tip>
 
 We beginnen ook niet aan het startpunt, maar slaan de eerste 3 cm over. Dit extra beetje plaats hebben we later nodig om te uiteindes van de bies aan elkaar te zetten.
 
@@ -83,7 +89,7 @@ Stik de bies vast, rek terwijl de bies lichtjes uit. Let op dat je de stof niet 
 
 Misschien moet je een beetje oefenen om dit beet te krijgen.
 
-> Zorg dat je je bies een beetje meer uitrekt als je bij een scherpere curve komt. Lees mijn opmerkingen over [jersey biezen](/en/docs/sewing/knit-binding) voor meer info.
+> Make sure to stretch your binding more when you're taking a sharper bend. Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
 
 ### Markeer het einde van je biezen
 
@@ -103,7 +109,7 @@ Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere 
 
 Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Naai de uiteindes aan elkaar op de markering.
 
-> 6 cm is niet veel, maar zou genoeg moeten zijn om de twee uiteindes makkelijk onder je naaimachine te leggen en aan elkaar te naaien.
+> 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
 ### Stik de laatste 6 cm van de bies vast
 
@@ -120,7 +126,7 @@ Nu de uiteindes van je biezen aan elkaar hangen is het tijd om de laatste 6 cm v
 
 Plooi je bies rond de stof van je hemdje naar de verkeerde kant. Zo gaan we de bies vaststikken.
 
-> Vooraan is de bies twee keer geplooid (en wordt de rand van de stof meteen verborgen), maar aan de verkeerde kant is dit niet nodig. Later kunnen we gewoon het randje wat bijknippen, aangezien jersey niet rafelt. Als we de bies aan de achterkant ook zouden plooien zou dit alleen maar bulk toevoegen.
+> While the fabric is folded double at the front (hiding the fabric edge in the process) there's no need for that at the back. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
 
 ### Stik de bies vast
 

@@ -1,43 +1,42 @@
 ---
-title: Sizing tables
+title: Tableau des tailles
 ---
 
-import SizingTable from '../../../../../src/components/size-table'
+importer le Tableau des tailles à partir de '../../../../../src/components/size-table'
 
 <Note>
 
-###### Why we offer sizes even though we don't use them
+###### Pourquoi nous proposons des tailles alors que nous ne les utilisons pas
 
-FreeSewing does not use sizes. All our patterns are drafted to a set of measurements.
+FreeSewing n'utilise pas de tailles. Tous nos patrons sont élaborés selon un ensemble de mesures.
 
-Since version 2.2 however, we do provide *standard sizes*. 
-Each size is a set of measurements that is an estimation of what a person with a given
-neck circumference could have as measurements.
+Cependant, depuis la version 2.2, nous fournissons des *tailles standards*. 
+Chaque taille est un ensemble de mesures qui est une estimation de ce qu'une personne avec un tour de cou donné pourrait avoir comme mensuration.
 
-This is not an exact science. We provide these sizes as a fast and easy way to 
-get started with our patterns. But we do hope that you will take the time to take
-your own measurements, or have them taken. This will always yield better results.
+Ce n'est pas une science exacte. Nous fournissons ces tailles comme un moyen rapide et facile de 
+commencer à utiliser nos modèles. Mais nous espérons que vous prendrez le temps de prendre
+vos propres mesures, ou de les faire prendre. Cela donnera toujours de meilleurs résultats.
 
 </Note>
 
 <div class="not-xs">
 <Tip>
 
-###### Not a fan of horizontal scolling?
+###### Pas un fan du défilement horizontal ?
 
-There's a lot of information in the tables below, causing the table to overflow.
-You can scroll horizontally to get to the rest of the data.
+Il y a beaucoup d'informations dans les tableaux ci-dessous, causant un dépassement de la table en largeur.
+Vous pouvez faire défiler horizontalement pour accéder au reste des données.
 
-Of, if you'd like, you can also [show sizes in a wide view](/sizes/).
+Si vous le souhaitez, vous pouvez aussi [afficher les tailles dans une vue élargie](/sizes/).
 
 </Tip>
 </div>
 
-## With breasts
+## Avec des seins
 
 <SizingTable breasts={true} />
 
-## Without breasts
+## Sans seins
 
 <SizingTable breasts={false} />
 

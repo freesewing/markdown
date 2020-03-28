@@ -17,11 +17,11 @@ In a way, FreeSewing has grown up as a (software) project. We have several peopl
 
 We (currently) have [23 patterns available](/patterns/), we publish 62 packages on NPM (the Node.js package registry). Since putting out version 2.0, on average 450 people sign up every month, and our total tally currently stands above 15.000.
 
-## Translation has never been easier
+## La traduction n'a jamais été aussi facile
 
-Since v2, we've also switched to [Crowdin](https://crowdin.com) for [our translations](https://freesewing.dev/guides/translator/). Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
+Depuis la v2, nous sommes également passés à [Crowdin](https://crowdin.com) pour [nos traductions](https://freesewing.dev/guides/translator/). La traduction est sans doute le meilleur moyen de démocratiser l'accès à notre plate-forme, et je voudrais pousser un grand cri pour tous ceux qui ont aidé et continuent à aider dans ces efforts.
 
-It's perhaps also a good time to point out that you too can help with this. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+C'est peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Commencez par notre [documentation traducteurs](https://freesewing.dev/guides/translator/), ou faites un tour sur [notre forum dédié aux traductions](https://gitter.im/freesewing/translation).
 
 ## What we're planning for next year
 
