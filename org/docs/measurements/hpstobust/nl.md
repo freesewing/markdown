@@ -13,6 +13,6 @@ Refer to [the hps documentation](/docs/measurements/hps/) for information on how
 
 The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms you bust span.
 
-Tp measure your HPS to bust, first [localize your HPS point](/docs/measurements/hps/). Meet dan verticaal naar beneden tot aan de lijn die je borstomtrek of bustewijdte bepaalt.
+To measure your HPS to bust, first [localize your HPS point](/docs/measurements/hps/). Meet dan verticaal naar beneden tot aan de lijn die je borstomtrek of bustewijdte bepaalt.
 
 Het punt van deze afmeting is bepalen op welke hoogte het volste deel van je bust zich bevindt op je torso.
