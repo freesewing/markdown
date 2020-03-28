@@ -1,14 +1,14 @@
 ---
-title: Darts
+title: Pinces
 ---
 
 ![Bust darts on a blouse](dart.jpg)
 
-Darts are crucial in pattern design as they turn a flat, two-dimensional piece of fabric, into a three-dimensional shape.
+Les pinces sont cruciales dans la conception de patrons car elles transforment un tissu plat en 2D, en une forme 3D.
 
-A dart is created by two lines that form a wedge, and meet each other in the dart point. When the lines are sewn together they create a permanent fold, preventing the fabric from laying flat, thereby creating a three-dimensional shape.
+Une pince est créé par deux lignes qui se croisent et se rejoignent en pointe. Lorsque les lignes sont cousues ensemble, elles créent un pli permanent, empêchant le tissu de se poser à plat, créant ainsi une forme tridimensionnelle.
 
-Darts are used where fabric needs to cover curves in more than one direction. You don't need a dart for your legs because your fabric can follow the curvature of your legs and wrap around it. Your bum does not only curve horizontally, but also vertically. So bums and boobs are typically places where you'll find darts.
+Les pinces sont utilisées où le tissu a besoin de couvrir les courbes dans plus d'une direction. Vous n'avez pas besoin d'une pince pour vos jambes parce que votre tissu peut suivre la courbure de vos jambes et l'envelopper. Your bum does not only curve horizontally, but also vertically. So bums and boobs are typically places where you'll find darts.
 
 > Wikipedia has a bit more to say on this subject: [Dart (sewing) on Wikipedia](http://en.wikipedia.org/wiki/Dart_(sewing))
 > 
