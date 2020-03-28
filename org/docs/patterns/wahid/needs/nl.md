@@ -1,4 +1,4 @@
-To make Wahid, you will need the following:
+Om Wahid te maken heb je het volgende nodig:
 
  - Basis naaimateriaal
  - One meter of a suitable fabric ([see Fabric options](/docs/patterns/wahid/fabric))
