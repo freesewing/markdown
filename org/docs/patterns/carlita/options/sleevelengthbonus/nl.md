@@ -1,4 +1,4 @@
-![Sleevelength bonus](./sleevelengthbonus.svg)
+![Bonus mouwlengte](./sleevelengthbonus.svg)
 
 Hoeveel langer de mouw moet worden dan de mouw van de basisvorm.
 
