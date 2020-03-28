@@ -284,49 +284,49 @@ Repliez la patte sur le premier pointillé long. Repassez le pli.
 
 Ensuite, pliez à nouveau, cette fois sur le deuxième pointillé long. Repassez le pli.
 
-> When your placket is folded and pressed, place a few pins along the length of your placket to keep things from shifting around
+> Lorsque votre patte est pliée et repassée, mettez quelques épingles sur toute la longueur pour maintenir en place
 
-#### Sew the buttonhole placket
+#### Fixer la patte de boutonnage (côté boutonnières)
 
 ![Sew on the first line](10f.png) ![Sew on the second line](10g.png)
 
-Sew on the first sew line, closest to the edge.
+Coudre sur la première ligne de couture (la plus proche du bord).
 
-Then, flip your shirt over so that the good side is up, and your placket is up too. Then sew on the second sew line.
+Ensuite, retournez votre chemise endroit sur le dessus. Coudre alors sur la deuxième ligne de couture.
 
-> These two lines of top-stitching will always be visible, so make sure to keep it neat
+> Ces deux lignes de couture seront visibles, alors faites-les bien nettes
 
-#### Press the buttonhole placket
+#### Repasser la patte de boutonnières
 
-![Press the buttonhole placket](10h.png)
+![Repasser la patte de boutonnières](10h.png)
 
-Congratulations, you made a classic buttonhole placket.
+Félicitations, vous venez de réaliser une patte de boutonnière classique.
 
-Now press that baby. You know you want to.
+Maintenant repassez-moi tout ça mon ami. Avouez qu'on en a envie.
 
-### Step 11: Close the shoulder seams
+### Etape 11: Assemblez les coutures d'épaule
 
-> **Let's stuff a burrito**
+> **Faisons un burrito**
 > 
-> We are going to close the shoulder seams with a technique that is commonly know as the **burrito method**.
+> Nous allons fermer les coutures d'épaule avec une technique communément connue sous le nom de **méthode du burrito**.
 > 
-> If you are familiar with the burrito method, you already know what to do. If not, read on for a clever way to neatly close your shirt's shoulder seams while locking all the unfinished edges out of sight.
+> Si vous connaissez la méthode du burrito, vous savez déjà comment faire. Si ce n'est pas le cas, lisez ce qui suit pour découvrir une méthode astucieuse pour assembler les coutures d'épaule de votre chemise tout en emprisonnant de façon invisible tous les bords bruts.
 
 #### Pin the fronts to the outside yoke
 
 ![Pin the fronts to the outside yoke](11a.png) ![Pin the fronts to the outside yoke](11b.png)
 
-Place your back down with the good side up, but be careful to fold the inner yoke downward (as illustrated by the dotted line.
+Placez le dos sur l'envers, en faisant attention à plier vers le bas la partie de l'empiècement dos qui sera à l'intérieur de la chemise (comme l'illustre la ligne en pointillés).
 
-Place your fronts on your back, with the good sides down. Pin fronts to the yoke at the shoulder seam, good sides together.
+Placez vos devants sur le dos, endroits contre endroit. Épingler les devants à l'empiècement dos au niveau de la couture des épaules, endroits contre endroit.
 
-#### Roll, roll, roll your shirt, pin down and sew your seam
+#### Roulez, roulez, roulez, roulez votre chemise, épinglez et cousez vos épaules
 
 ![Roll your shift up between the yokes](11c.png)
 
-Roll up your back and fronts starting at the hem. Roll them into a neat sausage upwards until you can see the entire turned down yoke.
+Enroulez ensemble dos et vos devants en partant du bas de la chemise. Faites une belle petite saucisse en enroulant jusqu'en haut, jusqu'à ce que vous puissiez voir l'empiècement dos que nous avions précédemment replié vers le bas.
 
-Now, you can flip the inner yoke over your rolled sausage to align the shoulder seams with the other yoke and fronts.
+Maintenant, faites passer cet empiécement dos par dessus votre saucisse, et aligner les coutures d'épaule avec l'autre partie de l'empiècement dos et les devants.
 
 Pin them in place, and then sew the shoulder seams, making sure to keep your sausage (or burrito stuffing) out of the way so it doesn't get caught in the seam.
 
