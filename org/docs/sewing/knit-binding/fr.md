@@ -10,14 +10,14 @@ Il y a deux variétés de cette finition, la bande de jersey, et le biais de jer
 
 ## Bande de jersey
 
-![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
+![Comme la plupart des T-shirts, celle que cette fille porte a une bande de jersey à l'encolure.](knit_band.jpg)
 
 La bande de jersey est ce que vous trouvez habituellement à l'encolure de votre T-shirt. C'est une bande de jersey pliée en deux et cousue au bord du vêtement.
 
 Cela laisse un bord inachevé à l'intérieur qui est souvent cousu par des coutures rabattues au pourtour de la bande de jersey.
 
 ### Biais de jersey
-![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
+![Le maillot gris de cette fille et le T-shirt blanc ont tous deux un bais de jersey.](knit_binding.jpg)
 
 Le véritable biais de jersey se pose plus comme un biais classique, dans la mesure où il est enveloppé autour du tissu, plutôt que d'être apposé à celui-ci.
 
@@ -44,7 +44,7 @@ Que vous utilisiez une bande de jersey ou une finition au biais, vous devrez ét
 
 ### Ligne droite : la vie en mode facile
 
-![No stretch required when going straight](knitbinding1.png)
+![Pas d'étirement nécessaire en allant droit](knitbinding1.png)
 
 Sur une couture droite, vous pouvez simplement fixer votre biais/bande. Votre tissu et votre biais ont la même longueur, donc tout va bien.
 
@@ -53,7 +53,7 @@ Le scénario le plus probable où vous le rencontrerez est sur les manches (cour
 
 ### Courbure uniforme : étirement uniforme
 
-![Curved seams require stretch](knitbinding2.png)
+![Les coutures courbées nécessitent une étirement](knitbinding2.png)
 
 Sur une couture courbée, comme une encolure, les choses deviennent un peu plus compliquées. Cela est dû au fait que le bord extérieur et le bord intérieur de votre biais auront une longueur différente.
 
@@ -71,7 +71,7 @@ Pour résoudre ce problème, vous devez étirer votre biais (et non le tissu) lo
 
 ### Vrai vie : étirement variable
 
-![As the curve changes, so should the stretch](knitbinding3.png)
+![Plus la courbe change, plus il faudra adapter l'étirement](knitbinding3.png)
 
 Les coutures droites existent, et même si je n'en ai jamais rencontré, les coutures de courbes uniformes existent aussi. Mais le plus souvent, la courbure de votre couture variera.
 
@@ -89,21 +89,21 @@ La longueur de votre biais dépend de la quantité nécessaire d'étirement. Cel
 ### A ne pas faire
 Il y a un tas de tutoriels sur Internet qui vous montrent comment coudre un biais de jersey. Beaucoup d'entre eux suggèrent quelque chose comme _calculer 90% de la longueur de l'encolure_ (le pourcentage varie).
 
-This idea is that you cut your binding, join its edges, and then sew it in the opening. That is (in my opionion) no good.
+L'idée est que vous coupez votre biais, rejoignez ses bords, puis cousez sur l'ouverture. C'est (à mon avis) pas la bonne solution.
 
-An alternative approach to sidestep the length issue is to attach the binding before you close the opening your binding goes in. For example, on a Tshirt you close one shoulder seam, attach binding, then close the second shoulder seam.
+Une autre approche pour contourner le problème de longueur est d'attacher le biais avant de fermer l'ouverture en question. Par exemple, sur un T-shirt où vous assemblez une couture d'épaule, fixez le biais, puis assemblez la deuxième couture d'épaule.
 
-Obviously, that means your shoulder seam will cut through your binding which is a big no no in my book.
+Évidemment, cela signifie que votre couture d'épaule va passer par votre biais, ce qui est un grand non dans mon livre.
 
-### Instead, do this
+### À la place, faites ceci
 
- - Cut your binding as long as the seam it needs to be sewn into. Not 90%, but 100%. This way, you know it's going to be too long, and that's what we want.
- - Mark the place you want your binding to be joined (say center back of the neckline) and place your binding 1cm beyond this point.
- - Start sewing your binding about 3cm or so from this point, and go all the way around. While you do so, make sure to adjust the stretch to whatever the curve requires. There's no tricks for this, you'll have to practice until it comes natural to you.
- - When you make your way around and get close in to the point your marked, stop about 3cm before that.
- - Now you're entire binding is attached, apart from a 6cm or so stretch at the back. Pin both edges of your binding good sides together making is exactly as long as needed and sew them together.
- - Sew the remaining 6cm of your binding.
+ - Coupez votre biais d'autant que la longueur du bord du tissu à coudre. Pas 90 %, mais 100 %. De cette façon, vous savez que ça va être trop long, et c'est ce que nous voulons.
+ - Marquez l'endroit où vous voulez que votre reliure soit reliée (par exemple au centre de l'encolure) et placez votre biais 1cm au-delà de ce point.
+ - Commencez à coudre votre biais à environ 3cm à partir de ce point, et faites tout le tour. Pendant toute la couture du tour, assurez-vous d'ajuster l'étirement à ce que la courbe exige. Il n'y a pas d'astuces pour cela, vous devrez vous entraîner jusqu'à ce que ça devienne naturel pour vous.
+ - Lorsque vous vous déplacez et que vous vous approchez du point que vous avez marqué, arrêtez environ 3cm avant ce repère.
+ - Maintenant votre biais est entièrement cousu, à part environ 6cm restant à l'arrière. Épingler les deux extrémités endroit contre endroit en fermant l'encolure de façon à ce qu'elle ait exactement la même longueur que le tissu auquel il sera cousu.
+ - Coudre les 6 cm restants de votre biais.
 
-This way, there is no guessing how long your binding should be, and the binding seam sits where you want it to sit.
+De cette façon, il ne faut pas deviner la longueur du biais, et la couture s'ajustera partout parfaitement.
 
-> For detailed instructions, check [the Aaron documentation](/en/docs/patterns/aaron/)
+> Pour des instructions détaillées, consultez [la documentation d'Aaron](/en/docs/patterns/aaron/)
