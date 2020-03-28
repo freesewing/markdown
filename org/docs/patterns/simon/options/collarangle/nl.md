@@ -1,6 +1,6 @@
-![Collar angle](collarangle.svg)
+![Hoek kraag](collarangle.svg)
 
-The number of degrees between the collar edge and the grainline.
+Hoeveel graden tussen de rand van de kraag en de draadrichting.
 
 <Note>
 
