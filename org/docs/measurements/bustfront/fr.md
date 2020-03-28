@@ -1,7 +1,7 @@
 ---
-title: Bust front
+title: Largeur Poitrine avant
 ---
 
-The **bust front** is the front part of your chest circumference.
+La **largeur de poitrine avant** est la partie avant de votre tour de poitrine.
 
-To measure your bust front, run the tape measure horizontally accross the fullest part of your chest, starting at the side (seam) on one side, across your breasts to the side (seam) on the other side.
+Pour mesurer votre largeur de poitrine avant, placez le mètre-ruban sur la partie la plus forte de votre poitrine, à partir du côté (couture) d'un côté, en passant sur vos seins, jusqu'au côté (couture) de l'autre côté.
