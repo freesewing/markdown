@@ -30,17 +30,17 @@ FIXME: Insert draft example
 
 ```js
 import freesewing from "@freesewing/core"
-import Aaron from "@freesewing/aaron"
+import aaron from "@freesewing/aaron"
 import models from "@freesewing/models"
 
-let aaron = new Aaron({
+let pattern = new aaron({
   settings: {
     embed: true,
     measurements: models.manSize38
   } 
 })
 
-let svg = aaron.draft().render()
+let svg = pattern.draft().render()
 ``` 
 
 ## sample()
@@ -98,17 +98,17 @@ FIXME: Add example
 
 ```js
 import freesewing from "@freesewing/core"
-import Aaron from "@freesewing/aaron"
+import aaron from "@freesewing/aaron"
 import models from "@freesewing/models"
 
-let aaron = new Aaron({
+let pattern = new aaron({
   settings: {
     embed: true,
     measurements: models.manSize38
   }, 
 })
 
-let svg = aaron.sampleOption("necklineDrop").render()
+let svg = pattern.sampleOption("necklineDrop").render()
 ``` 
 
 ## sampleMeasurement()
@@ -126,17 +126,17 @@ FIXME: Add example
 
 ```js
 import freesewing from "@freesewing/core"
-import Aaron from "@freesewing/aaron"
+import aaron from "@freesewing/aaron"
 import models from "@freesewing/models"
 
-let aaron = new Aaron({
+let pattern = new aaron({
   settings: {
     embed: true,
     measurements: models.manSize38
   }, 
 })
 
-let svg = aaron.sampleMeasurement("chestCircumference").render()
+let svg = pattern.sampleMeasurement("chestCircumference").render()
 ``` 
 
 ## sampleModels()

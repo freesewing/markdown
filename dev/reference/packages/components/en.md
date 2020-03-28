@@ -2,10 +2,6 @@
 title: "@freesewing/components"
 ---
 
-This is a collection for React components for FreeSewing's websites.
+This is a collection for React components for FreeSewing's websites:
 
-<Warning>
-
-FIXME: Documentation is missing
-
-</Warning>
+<ReadMore root='reference/packages/components' />

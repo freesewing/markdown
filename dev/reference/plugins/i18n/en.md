@@ -36,11 +36,11 @@ Like all [build-time plugins](/guides/plugins/#build-time-plugins), you load the
 by passing them to the [`freesewing.Design`](/reference/api#design) constructor:
 
 ```js
-import Aaron from "@freesewing/aaron";
+import aaron from "@freesewing/aaron";
 import i18n from "@freesewing/plugin-i18n";
 import translations from "@freesewing/i18n";
 
-const myAaron = new Aaron()
+const pattern = new aaron()
   .use(i18nPlugin, { strings: translations });
 ```
 

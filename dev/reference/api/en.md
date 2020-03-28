@@ -4,9 +4,6 @@ title: Core API
 Freesewing exports a single object with the following properties:
 
  - `version`: A string containing the FreeSewing version number
-
-In addition, FreeSewing's default export exposes the following method:
-
  - `Design()`: A *super-constructor* to create new pattern designs.
 
 ## Design()
@@ -24,8 +21,8 @@ following arguments:
 
 <Tip>
 
-This method will return a constructor method that should be called to 
-instantiate your pattern. 
+This method is a *super-constructor*. It will return a constructor 
+method that should be called to instantiate your pattern. 
 
 See [creating a new pattern design](/howtos/core/new-design/) for an example.
 

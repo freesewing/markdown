@@ -2,7 +2,12 @@
 title: "@freesewing/rendertest"
 ---
 
-A pattern to test (y)our FreeSewing renderer with:
+import PatternPage from "../../../../../src/components/pattern-page";
+
+<PatternPage pattern="rendertest" />
+
+This pattern is used to test (y)our FreeSewing renderer/themes with.
+Below is sample output for this pattern:
 
 <Example pattern="rendertest" part="test" design={false} />
 

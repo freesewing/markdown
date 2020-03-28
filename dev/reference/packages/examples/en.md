@@ -2,10 +2,11 @@
 title: "@freesewing/examples"
 ---
 
-A FreeSewing pattern that contains a bunch of examples to be used in our documentation.
+import PatternPage from "../../../../../src/components/pattern-page";
 
-<Warning>
+<PatternPage pattern="examples" />
 
-FIXME: Documentation is missing
+This pattern holds examples used throughout the documentation.  
+Examples like this one:
 
-</Warning>
+<Example part="path_divide" caption="Example of the Path.divide() method" />

@@ -18,7 +18,7 @@ The measurements to draft for. The pattern configuration lists all required meas
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   measurements: {
     chestCircumference: 1080
     shoulderSlope: 55
@@ -52,7 +52,7 @@ Unlike measurements, options come with defaults.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   options: {
     chestEase: 120
   }
@@ -69,7 +69,7 @@ The default is `true`.  Setting this to `false` will force [sa](#sa) to be set t
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   complete: false
 })
 ```
@@ -81,7 +81,7 @@ Set this to `true` to draft a paperless pattern. The default is `false`;
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   paperless: true
 })
 ```
@@ -96,7 +96,7 @@ Not setting this, setting it to `false`, or to zero, will draft a pattern withou
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   sa: 10
 })
 ```
@@ -116,7 +116,7 @@ Note that this is only used to format the output. Freesewing expects mm.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   units: "imperial"
 })
 ```
@@ -131,7 +131,7 @@ and by [the i18n plugin](/reference/plugins/i18n/) to translate the pattern.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   locale: "es"
 })
 ```
@@ -145,7 +145,7 @@ Accepts a part name as string, or an array of part names.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   only: ["front", "sleeve"]
 })
 ```
@@ -163,7 +163,7 @@ Note that setting the margin to zero (or below) will cause parts to overlap.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   margin: 5
 })
 ```
@@ -190,7 +190,7 @@ you to inject the SVG into an HTML document, and it will responsively scale.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   embed: true
 })
 ```
@@ -213,7 +213,7 @@ This allows you to specify an ID prefix so you can sidestep ID collisions.
 ```js
 import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   idPrefix: "something-else"
 })
 ```
@@ -246,9 +246,9 @@ This allows you to control the layout by passing a layout object.
 This object should be structures as such:
 
 ```js
-import aaron from "@freesewing/brian";
+import brian from "@freesewing/brian";
 
-let pattern = new Brian({
+let pattern = new brian({
   layout: {
     parts: {
       front: {
