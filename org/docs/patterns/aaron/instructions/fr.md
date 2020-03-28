@@ -126,9 +126,9 @@ Maintenant que vos extrémités de biais sont réunies, il est temps de terminer
 
 Pliez votre bande de biais par-dessus le tissu de votre A-Shirt sur l'envers. Voici comment nous allons le coudre.
 
-> Alors que le tissu est plié deux fois sur l'endroit (ce qui cache donc le bord du biais) il n'est pas nécessaire de faire cela à l'arrière. We will merely trim back the edge later, given that knit doesn't ravel. If we were to fold back the fabric at the back too, it would only add bulk.
+> Alors que le tissu est plié deux fois sur l'endroit (ce qui cache donc le bord du biais) il n'est pas nécessaire de faire cela à l'arrière. Nous allons simplement couper le bord plus tard, étant donné que le jersey ne s'effiloche pas. Si nous devions replier le tissu à l'arrière également, cela ne ferait qu'ajouter de l'épaisseur.
 
-### Sew your binding down
+### Coudre votre biais
 
 ![Coudre le biais de jersey](step04b.png)
 
