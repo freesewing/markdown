@@ -1,4 +1,10 @@
+![Collar flare](collarflare.svg)
 
-Hoeveel de kraag verbreedt (aan de rand van de kraag) in plaats van recht te zijn.
+How much the collar flares out (at the collar edge side), rather than being straight.
 
-> Dit heeft invloed op de lengte van de punten van je kraag.
+<Note>
+
+This influences the length of your collar tips.
+
+</Note>
+
