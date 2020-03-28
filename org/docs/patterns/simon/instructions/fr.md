@@ -452,36 +452,36 @@ Pour ce patron, l'embu de la tête de manche est de 0,5 cm par défaut. Si vous 
 #### Coudre les manches aux emmanchures
 Lorsque vous avez bien épinglé votre manche dans votre emmanchure, cousez la en place. Faites attention à éviter les plis dans la partie située entre les repères au niveau de la tête de manche.
 
-> Needless to say, but I'll say it anyway: Repeat this step for the other sleeve.
+> Inutile de le dire, mais je le dis quand même: répétez cette étape pour l'autre manche.
 
-### Step 15: Flat-fell armhole seam
+### Etape 15: Couture plate rabattue aux emmanchures
 
-#### Press seam allowance to one side
+#### Coucher la marge de couture d'un côté au fer
 
 ![Press seam allowance to once side](15a.png)
 
-Lay down your freshly sewn sleeve seam with the good side down
+Placez votre couture de manche fraichement cousue sur l'endroit
 
-We are going to press the seam allowance to one side. To do so, identify the seam allowance that is wider (for the flat-felled seam).
+Nous allons coucher la marge de couture d'un côté au fer. Pour ce faire, repérez la marge de couture qui est la plus large (et qui sera utilisée pour la couture plate rabattue).
 
-The longer seam allowance needs to lie on top of the shorter (standard seam allowance).
+La marge de couture la plus large doit être couchée sur la plus courte (marge de couture standard).
 
-Once you have verified that, press down the seam allowance.
+Après cette vérification, repassez la marge de couture.
 
-#### Fold under extra seam allowance
+#### Replier la marge de couture excédentaire
 
-![Fold under extra seam allowance](15b.png)
+![Replier la marge de couture excédentaire](15b.png)
 
-Now, fold the extra seam allowance for the flat-felled seam under the standard seam allowance.
+Maintenant, nous allons réaliser une couture plate rabattue : repliez la marge de couture excédentaire sous la marge de couture standard.
 
-You can use pins to hold this in place, but it's simpler to just press it.
+Vous pouvez épingler pour maintenir en place, ou tout simplement repasser.
 
-> This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
+> Cela sera relativement facile sur les parties droites de la couture, mais un peu plus délicat sur les parties courbes. Prenez votre temps, et au besoin, couper l'excédent de tissu dans la marge de couture pour lui permettre de s'évaser ou se courber.
 
-#### Sew the flat-felled seam
-Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
+#### Coudre la couture plate rabattue
+Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au niveau ou elle est repliée sous l'autre marge de couture.
 
-Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
@@ -498,30 +498,30 @@ Place your shirt with the good sides together, and sew the side and sleeve seams
 
 ### Step 17: Flat-fell the side/sleeve seams
 
-#### Press seam allowance to one side
+#### Coucher la marge de couture d'un côté au fer
 
 ![Press the seam allowance to one side](15a.png)
 
-We are going to press the seam allowance to one side. To do so, identify the seam allowance that is wider (for the flat-felled seam).
+Nous allons coucher la marge de couture d'un côté au fer. Pour ce faire, repérez la marge de couture qui est la plus large (et qui sera utilisée pour la couture plate rabattue).
 
-The longer seam allowance needs to lie on top of the shorter (standard seam allowance).
+La marge de couture la plus large doit être couchée sur la plus courte (marge de couture standard).
 
-Once you have verified that, press down the seam allowance.
+Après cette vérification, repassez la marge de couture.
 
-#### Fold under extra seam allowance
+#### Replier la marge de couture excédentaire
 
-![Fold under extra seam allowance](15b.png)
+![Replier la marge de couture excédentaire](15b.png)
 
-Now, fold the extra seam allowance for the flat-felled seam under the standard seam allowance.
+Maintenant, nous allons réaliser une couture plate rabattue : repliez la marge de couture excédentaire sous la marge de couture standard.
 
-You can use pins to hold this in place, but it's simpler to just press it.
+Vous pouvez épingler pour maintenir en place, ou tout simplement repasser.
 
-> This will be relatively easy on the straight parts of the seam, but a bit more tricky at the curved sections. Take your time, and if needed you can cut into the extra seam allowance to allow it to flare open, or bend.
+> Cela sera relativement facile sur les parties droites de la couture, mais un peu plus délicat sur les parties courbes. Prenez votre temps, et au besoin, couper l'excédent de tissu dans la marge de couture pour lui permettre de s'évaser ou se courber.
 
-#### Sew the flat-felled seam
-Now, from the bad side of the fabric, sew the seam allowance down just at the edge where it folds under the other seam allowance.
+#### Coudre la couture plate rabattue
+Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au niveau ou elle est repliée sous l'autre marge de couture.
 
-Important here it to keep an even distance from the seam of your sleeve. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
