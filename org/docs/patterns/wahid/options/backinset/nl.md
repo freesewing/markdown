@@ -1,6 +1,6 @@
-![Back inset](backinset.svg)
+![Insnede rug](backinset.svg)
 
-How far do you want your waistcoat armhole to curve inwards on the back side?
+Hoe ver wil je dat het armsgat van je gilet op de rug naar binnen gaat?
 
 <Note>
 
