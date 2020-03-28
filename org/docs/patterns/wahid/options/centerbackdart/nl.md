@@ -1,8 +1,15 @@
+![Centerback dart](centerbackdart.svg)
 
-Niemand heeft een kaarsrechte rug, dus dit patroon gaat aan de nek 0.5 cm naar binnen.
+Since nobody has a perfectly straight back, this pattern tapers in with 0.5 cm at the center back of your neck.
 
-> #### Waarom?
-> 
-> Als je rug een beetje naar voor gebogen is kan het gebeuren dat je een teveel aan stof hebt aan je nek. Zonder mouwen of kraag zorgt dit dat je halslijn gaat openstaan. Deze optie zorgt dat er een beetje stof aan de achterkant van de nek weggenomen wordt. De standaard hoeveelheid is 0.5 cm, maar je kan deze waarde groter of kleiner maken.
+<Note>
 
-> Dit is eigenlijk geen neep, maar ik wist niet zeker hoe het te benoemen. Suggesties zijn welkom.
+###### What's the point?
+
+If your back slumps forward a bit, fabric tends to pool at the back of your neck. With no sleeves or collar, this causes your neckline to gape.
+This option tapers the fabric inwards at the back of your neck. It does so by 0.5 cm by default, but you can increase of decrease that value.
+
+Technically this is not a dart, but I wasn't sure how else to call it. Suggestions welcome.
+
+</Note>
+
