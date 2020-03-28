@@ -1,5 +1,5 @@
 ---
-title: You need to be an admin to access this page
+title: Vous devez être un administrateur pour accéder à cette page
 ---
 
-The page you tried to access is only available to FreeSewing users with an **admin** role.
+La page à laquelle vous avez essayé d'accéder n'est disponible que pour les utilisateurs de FreeSewing avec un rôle d'**administrateur**.
