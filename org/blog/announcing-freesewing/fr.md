@@ -1,32 +1,32 @@
 ---
 date: 24-03-2017
 title: "Freesewing est une plate-forme open source pour des patrons de couture sur mesure"
-linktitle: "Announcing freesewing"
+linktitle: "Annonce de Freesewing"
 img: "logo.jpg"
 caption: "Le logo freesewing"
 author: joost
 ---
 
-I am are proud to announce [freesewing core v1.0.0](https://github.com/freesewing/core) and the accompanying [documentation](/docs) that describes the freesewing project in detail.
+Je suis fier d'annoncer [freesewing v1.0.0](https://github.com/freesewing/core) et la [documentation](/docs) qui décrit le projet Freesewing en détail.
 
-But I'm also realistic, and understand that you don't have time to plow through pages upon pages of documentation.
+Mais je suis aussi réaliste et comprends que vous n'avez pas le temps de lire des pages et des pages de documentation.
 
-So instead, here's a story to give you the essence of freesewing in a nutshell:
+Alors à la place, voici une histoire résumant l'essentiel de Freesewing :
 
-## The freesewing origin story
-Sewing is easy. It really is. What's hard is getting things to fit properly. That's why you use a sewing pattern. It's a blueprint for whatever it is you are making. A good pattern gives you good fit. Most patterns don't.
+## L'origine de Freesewing
+Coudre, c'est facile. Vraiment facile. Ce qui est difficile, c'est de le faire bien. C'est pourquoi vous utilisez un patron de couture. C'est un schéma pour tout ce que vous fabriquez. Un bon patron vous ira bien. Ce n'est pas le cas de la plupart d'entre eux.
 
-That's because &mdash; much like clothes in the shop &mdash; patterns come in sizes. And sizes are a crude way to put people in boxes. They are made for an imaginary average person, rather than for you.
+C'est parce que &mdash; comme les vêtements dans une boutique &mdash; les patrons ont des tailles. Et les tailles sont un moyen rudimentaire de classer les gens. Ils sont faits pour une personne virtuelle moyenne, plutôt que pour vous.
 
-There's another way, and that is to draft a pattern based on your measurements. These made-to-measure patterns are vastly superior, but they require a lot of work.
+Il y a un autre moyen, qui est de créer un patron à vos mesures. Ces patrons sur mesure sont bien meilleurs, mais ils nécessitent beaucoup de travail.
 
-I wanted to change that, and that effort evolved into [MakeMyPattern.com](https://makemypattern.com/). I ran that site for a number of years, and it was a remarkable success. Probably helped by the fact that I gave away all patterns for free.
+J'ai voulu changer cela, et cet effort a évolué en [MakeMyPattern.com](https://makemypattern.com/). J'ai géré ce site pendant plusieurs années, et ce fut un grand succès. Probablement grâce au fait que j'ai diffusé tous les patrons gratuitement.
 
-In the world of home sewing, it tends to require a bit of explaining why one would choose to give away their work for free. Things are different in the open source world where the idea of sharing your work with others for the benefit of all is the very thread from which communities are woven.
+Dans le monde de la couture loisir, il semble nécessaire d'expliquer un peu ce qui peut conduire quelqu'un à choisir de diffuser son travail gratuitement. Les choses sont différentes dans le monde de l'open source, où l'idée de partager votre travail avec d'autres pour le bénéfice de tous est le fil conducteur liant les communautés.
 
-While I can't magically bring the culture of open source to sewing patterns, I certainly can bring sewing patterns into the open source world.
+Bien que je ne puisse pas apporter d'un coup de baguette magique la culture de l'open source aux patrons de couture, je peux en tout cas apporter des patrons de couture dans le monde de l'open source.
 
-[Freesewing.org](https://freesewing.org/) will continue to offer what [Makemypattern.com](https://makemypattern.com/) does today: free sewing patterns drafted to your measurements. But additionally, it will be open to your contributions.
+[Freesewing.org](https://freesewing.org/) continuera à offrir ce que [Makemypattern.com](https://makemypattern.com/) fait aujourd'hui : des patrons de couture gratuits à vos mesures. Mais de plus, il sera ouvert à vos contributions.
 
 Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
 
