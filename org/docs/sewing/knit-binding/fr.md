@@ -26,7 +26,7 @@ La bordure brute du vêtement est insérée entre le biais de jersey plié qui e
 > Photos de [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) et [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
 
 ### Style vs fonction
-Une bande de jersey est plus commune, et c'est ce que vous voyez typiquement sur la plupart des encolures de t-shirts. C'est l'option la plus décorative.
+Une bande de jersey est plus commune, et c'est ce que vous voyez typiquement sur la plupart des encolures de T-shirts. C'est l'option la plus décorative.
 
 Le biais de jersey est moins commun, mais souvent utilisé sur les maillots de corps (en guise de sous-vêtement). C'est l'option la plus fonctionnelle.
 
@@ -34,7 +34,7 @@ Le biais de jersey est moins commun, mais souvent utilisé sur les maillots de c
 > 
 > Une autre façon de les distinguer est de penser à ce qui se passe lorsque vous décidez d'élargir la bande/biais de jersey.
 > 
-> Sur un t-shirt, une bande plus large au cou réduira l'ouverture de l'encolure. Si vous voulez une bande plus large, vous devrez couper un trou plus grand dans votre t-shirt.
+> Sur un T-shirt, une bande plus large au cou réduira l'ouverture de l'encolure. Si vous voulez une bande plus large, vous devrez couper un trou plus grand dans votre t-shirt.
 > 
 > Sur un maillot de corps, si vous voulez que le biais à l'encolure soit plus large, cela ne réduira pas l'encolure. Au lieu de cela, le biais se posera plus loin sur le tissu principal du maillot de corps.
 
@@ -48,7 +48,7 @@ Que vous utilisiez une bande de jersey ou une finition au biais, vous devrez ét
 
 Sur une couture droite, vous pouvez simplement fixer votre biais/bande. Votre tissu et votre biais ont la même longueur, donc tout va bien.
 
-Le scénario le plus probable où vous le rencontrerez est sur les manches (courtes) d'un t-shirt. Bien que la bande de jersey entoure votre bras, du point de vue du patron (dans le sens où le tissu est encore plat), c'est une couture droite.
+Le scénario le plus probable où vous le rencontrerez est sur les manches (courtes) d'un T-shirt. Bien que la bande de jersey entoure votre bras, du point de vue du patron (dans le sens où le tissu est encore plat), c'est une couture droite.
 
 
 ### Courbure uniforme : étirement uniforme
@@ -59,34 +59,34 @@ Sur une couture courbée, comme une encolure, les choses deviennent un peu plus 
 
 **Pas d'élasticité, et le résultat ne sera pas plat (ça va bailler)**
 
-If you simply sew the binding to the fabric, things will be fine at the outer edge of your binding. But the inner edge is shorter, and your binding fabric will be pushed together. The tension that this creates will make it rise, and your binding will not lie flat against your skin.
+Si vous cousez simplement le biais sur le tissu, le résultat sera bon sur l'extérieur de votre biais. Mais le bord intérieur est plus court et votre biais sera comprimé. La tension que cela crée le fera remonter, et votre biais ne sera pas à plat contre votre peau.
 
-**Stretch it just right, and it will look great**
+**Étirez-le juste ce qu'il faut, et il sera nickel**
 
-To fix this issue, you need to stretch your knit binding (and not the fabric) while attaching your binding. If you do it right, the outer edge will be stretched open a bit, while the inner edge will nicely fill out your curve and everything will lie flat.
+Pour résoudre ce problème, vous devez étirer votre biais (et non le tissu) lors de la fixation de votre biais. Si vous le faites correctement, le bord extérieur sera étiré un peu, tandis que le bord intérieur remplira bien votre courbe et tout sera plat.
 
-**If you stretch too much, things will wrinkle**
+**Si vous étirez trop, le résultat va froncer**
 
-Stretch your binding too much, and it will spring back too far, causing the main fabric to wrinkle.
+Étirez trop votre biais et il resserrera trop, causant des fronces sur le tissu principal.
 
-### Real life: variable stretch
+### Vrai vie : étirement variable
 
 ![As the curve changes, so should the stretch](knitbinding3.png)
 
-Straight seams exist, and although I've never come across one, maybe uniformly curves seams exists too. But more often than not, the curvature of your seam will vary.
+Les coutures droites existent, et même si je n'en ai jamais rencontré, les coutures de courbes uniformes existent aussi. Mais le plus souvent, la courbure de votre couture variera.
 
-On a typical Tshirt neckline, the curve at the back of your neck is different from the front, and there's probably a somewhat tighter bend behind your shoulder seam.
+Sur une encolure de T-shirt, la courbe à l'arrière de votre encolure est différente de l'avant, et il y a probablement une courbure un peu plus serrée derrière votre couture d'épaule.
 
-On a slight curve, the difference between the inner and outer edge is not so big, and a little bit of stretch is all you need. But on a tighter curve, the difference between the inner and outer edge of your binding will be more significant. And you'll need more stretch to accomodate for that.
+Sur une légère courbe, la différence entre le bord intérieur et le bord extérieur n'est pas si grande, et seul un peu d'étirement est nécessaire. Mais sur une courbe plus serrée, la différence entre le bord intérieur et le bord extérieur de votre biais sera plus importante. Et vous aurez besoin de plus d'élasticité pour compenser cela.
 
-So as you follow your seam, and it curves around necklines, or shoulders, or design features, you will have to adapt the amount of stretch to the situation.
+Pendant que vous suivez votre couture, et qu'il se courbe autour de l'encolure, ou des épaules, ou des caractéristiques de conception, vous devrez adapter la quantité d'étirement à la situation.
 
-## You cannot calculate the length of your knit binding
-I am not saying it is theoretically impossible. But I am saying that it is practically impossible.
+## Vous ne pouvez pas calculer la longueur de votre biais de jersey
+Je ne dis pas que c'est théoriquement impossible. Mais je dis que c'est en pratique impossible.
 
-The length of your knit binding depends on the amount it needs to be stretched. This depends on the curves you have to follow, and the width of the binding, not to mention the strength of its stretchiness. There's just too many parameters to take into account to calculate your binding length accurately.
+La longueur de votre biais dépend de la quantité nécessaire d'étirement. Cela dépend des courbes à suivre, et de la largeur du biais, sans parler de son taux d'élasticité. Il y a juste trop de paramètres à prendre en compte pour calculer correctement votre longueur de biais.
 
-### Do not do this
+### A ne pas faire
 There are a bunch of tutorials out on the internet that show you how to sew on knit binding. Many of those suggest something like _make the neck binding 90% of the length of the seam you are attaching it to_ (the percentage varies).
 
 This idea is that you cut your binding, join its edges, and then sew it in the opening. That is (in my opionion) no good.
