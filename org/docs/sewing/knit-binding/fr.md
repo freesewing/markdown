@@ -4,9 +4,9 @@ title: Biais de jersey
 
 ## Qu'est-ce que le biais de jersey de toute façon ?
 
-Knit binding is a general term for a type of finish (typically) found on the neck or arm opening of Tshirts and other knitwear.
+Le biais de jersey est un terme général pour un type de finition (typiquement) que l'on trouve sur le cou ou le bras d'ouverture des tee-shirts et d'autres vêtements à maille.
 
-There's two varieties of this finish, a knit band, and actual knit binding.
+Il y a deux variétés de cette finition, la bande de jersey, et le biais de jersey.
 
 ## Knit band
 
