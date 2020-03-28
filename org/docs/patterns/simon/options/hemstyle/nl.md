@@ -1,6 +1,6 @@
-![Hem style](hemstyle.svg)
+![Vorm zoom](hemstyle.svg)
 
-What style of hem line do you want?
+Wat voor zoom wil je?
 
  - Recht
  - Baseball
