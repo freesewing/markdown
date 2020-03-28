@@ -8,18 +8,18 @@ Le biais de jersey est un terme général pour un type de finition (typiquement)
 
 Il y a deux variétés de cette finition, la bande de jersey, et le biais de jersey.
 
-## Knit band
+## Bande de jersey
 
 ![Like most Tshirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
 
-Knit band is what you typically find at the neck opening of your Tshirt. It's a strip of fabric that is folded double and attached to the edge of the garment.
+La bande de jersey est ce que vous trouvez habituellement à l'encolure de votre T-shirt. C'est une bande de jersey pliée en deux et cousue au bord du vêtement.
 
-This leaves an unfinished edge on the inside that is often sewn down by edge-stitching around the knit band.
+Cela laisse un bord inachevé à l'intérieur qui est souvent cousu par des coutures rabattues au pourtour de la bande de jersey.
 
 ### Biais de jersey
 ![This girl's grey undershirt and white Tshirt both have a knit binding at the neckline.](knit_binding.jpg)
 
-Real knit binding acts more like classic bias binding, in that it is wrapped around the fabric, rather than extend from it.
+Le véritable biais de jersey se pose plus comme un biais classique, dans la mesure où il est enveloppé autour du tissu, plutôt que d'être apposé à celui-ci.
 
 The raw edge of the garment is inserted between the folded knit binding, which is edge-stitched down. This is often done with a coverlock machine, thereby neatly finishing the inside.
 
