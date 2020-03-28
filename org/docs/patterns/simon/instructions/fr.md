@@ -328,34 +328,34 @@ Enroulez ensemble dos et vos devants en partant du bas de la chemise. Faites une
 
 Maintenant, faites passer cet empiécement dos par dessus votre saucisse, et aligner les coutures d'épaule avec l'autre partie de l'empiècement dos et les devants.
 
-Pin them in place, and then sew the shoulder seams, making sure to keep your sausage (or burrito stuffing) out of the way so it doesn't get caught in the seam.
+Épinglez le tout en place, puis cousez les coutures des épaules, Assurez-vous de ne pas prendre votre saucisse (la farce de votre burrito) dans la couture des épaules.
 
 ![Match the notches](11e.png)
 
-> Made sure to align the actual seam line. Due to the uneven angles at the neck opening, the fabric edge is often longer on one side than on the other.
+> Assurez-vous d'aligner la vraie ligne de couture. En raison des angles inégaux à l'encolure, le bord du tissu est souvent plus long d'un côté que de l'autre.
 > 
-> However, the seamlines are the same lenght, so make sure to match them carfully using the notches.
+> Cependant, les lignes de couture sont de même longueur, alors assurez-vous de les assembler en utilisant les repères.
 
-#### Flip it inside out through the neck opening
-When you've sewn both shoulder seams, reach in through the neck opening, and pull out the back and front parts to inside-out your burrito.
+#### Retournez-le à l'intérieur à travers l'encolure
+Lorsque vous avez cousu les deux coutures d'épaule, attrapez votre burrito en passant par l'encolure, et faites le sortir.
 
-#### Press the shoulder seams
+#### Repassez les coutures d'épaule
 
-![Press the shoulder seams](11d.png)
+![Repassez les coutures d'épaule](11d.png)
 
-You did all this work, so now make sure you make it look super sharp by giving it a good press. Make sure that the seam allowance between your yokes lies nice and flat for that.
+Après tout ce travail, assurez vous maintenant de lui donner une aspect impeccable avec un bon coup de fer. Assurez-vous que la marge de couture entre vos empiècements est belle et bien plate.
 
-### Step 12: Edge-stitch the shoulder seams of the yoke
+### Etape 12: Surpiquer l'empiècement aux coutures d'épaule
 
 ![Edge-stitch the shoulder seams of the yoke](12.png)
 
-Just as we've edge-stitched the bottom seam of the yoke in Step 3, we're going to edge-stitch the yoke at the shoulder seams too.
+Tout comme nous avons surpiqué le bas de l'empiècement dos à l'étape 3, nous allons aussi le surpiquer aux coutures d'épaule.
 
-Since you've just pressed these shoulder seams, everything should lie nice and flat, and you just need to run a stitch right next to the seam.
+Puisque vous venez de repasser ces coutures d'épaule, tout devrait être beau et plat, et vous n'avez qu'à surpiquer gentiment juste à côté de la couture.
 
-> Make sure to edge-stitch on the yoke part, where you will catch all the seam allowance, and not on the front part.
+> Assurez-vous de surpiquer côté empiècement, ce qui permet d'emprisonner la marge de couture, et non côté avant.
 
-### Step 13: Construct the sleeve placket
+### Etape 13 : Faire la patte de manche
 
 #### Sew in the cuff guard
 
