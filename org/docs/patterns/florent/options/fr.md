@@ -1,7 +1,7 @@
 - - -
 - - -
 
-import PatternOptions from '../../../../../../src/components/docs/pattern-options'
+Importer les options de patrons à partie de '../../../../../../../src/components/docs/pattern-options'
 
 <PatternOptions pattern='florent' />
 
