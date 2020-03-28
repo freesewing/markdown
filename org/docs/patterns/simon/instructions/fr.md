@@ -185,36 +185,36 @@ Votre patron peut avoir ou non des pinces au dos. S'il en a, vous devez les ferm
 
 Placez votre dos sur l'envers, et repliez un côté en faisant en sorte que le pli passe par les points situés aux deux exrémités de la pince.
 
-Do the same for the other dart, so that both sides are folded back.
+Faites de même pour l'autre pince, de sorte que les deux côtés soient repliés.
 
-Feel free to gently press in this crease, it will help you to neatly sew the darts.
+N’hésitez pas à appuyer doucement sur ce pli, cela vous aidera à bien coudre les pinces.
 
-Sew across the line marking the dart to close the darts. Be careful to make sure the top and bottom of your darts are precisely where they need to be. If one dart sits higher than the other, it will look bad.
+Coudre sur la ligne marquant les pinces pour les fermer. Veillez à positionner précisément le haut et le bas de vos pinces. Si une pince est plus haute que l'autre, ce sera vilain.
 
-When you're done, don't forget to give it a good press. Press the extra fabric of the dart towards the side seams.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Couchez le tissu excédentaire de la pince vers ce qui sera les coutures latérales.
 
-### Step 9: Prepare the button placket
+### Étape 9 : Préparez la patte de boutonnage
 
-> If you have chosen a grown-on placket, you can skip the first two sub-steps and skip ahead to [Fold the button placket](#fold-the-button-placket).
+> Si vous avez choisi une patte de boutonnage intégrée, vous pouvez passer les deux premières sous-étapes et passer à [Replier la patte de boutonnage](#fold-the-button-placket).
 
-#### Sew on the button placket
+#### Coudre la patte de boutonnage
 
-![Sew on the button placket](9a.png)
+![Coudre la patte de boutonnage](9a.png)
 
-If you have chosen a separate button placket, sew it to the Front Right piece.
+Si vous avez choisi une patte de boutonnage séparée, cousez-la sur le devant droit.
 
-Place the Front Right (piece 1) down with the good side up, and place the Button Placket (piece 1b) on top of it with the good side down, making sure to align the seam.
+Placer le devant droit (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce 1b), endroit contre endroit, en veillant à aligner la couture.
 
-Sew it in place with the default seam allowance.
+Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
-#### Press seam allowance to placket side
-Place your front with the good side down, and press the seam allowance to the button placket side.
+#### Repassez la couture en couchant la marge de couture côté patte de boutonnage
+Placez votre devant sur l'endroit, et repassez en couchant la marge de couture du côté de la patte de boutonnage.
 
-#### Fold the button placket
+#### Replier la patte de boutonnage
 
-![Fold the button placket](9b.png)
+![Replier la patte de boutonnage](9b.png)
 
-Now, fold over the button placket on the first fold line, and press this fold in place.
+Maintenant, pliez la patte de boutonnage sur la première ligne en pointillé, et repassez sur ce pli.
 
 Then, fold the placket over again, making sure to have the fabric extend just beyond the seam that joins your placket to the front.
 
@@ -245,9 +245,9 @@ If you have chosen a separate buttonhole placket, sew it to the Front Left piece
 
 Place the Front Left (piece 2) down with the good side up, and place the Buttonhole Placket (piece 2b) on top of it with the good side down, making sure to align the seam.
 
-Sew it in place with the default seam allowance.
+Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
-When you're done, don't forget to give it a good press. Press the seam allowance towards the placket side.
+Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Press the seam allowance towards the placket side.
 
 #### Press seam allowance to the placket side
 Place your front with the good side down, and press the seam allowance to the buttonhole placket side.
