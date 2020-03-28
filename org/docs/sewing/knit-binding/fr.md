@@ -48,16 +48,16 @@ Que vous utilisiez une bande de jersey ou une finition au biais, vous devrez ét
 
 Sur une couture droite, vous pouvez simplement fixer votre biais/bande. Votre tissu et votre biais ont la même longueur, donc tout va bien.
 
-Le scénario le plus probable où vous le rencontrerez est sur les manches (courtes) d'un t-shirt. Although the knit band wraps around your arm, from a pattern perspective (as in, when the fabric is still flat) it's a straight seam.
+Le scénario le plus probable où vous le rencontrerez est sur les manches (courtes) d'un t-shirt. Bien que la bande de jersey entoure votre bras, du point de vue du patron (dans le sens où le tissu est encore plat), c'est une couture droite.
 
 
-### Uniformly curved: uniform stretch
+### Courbure uniforme : étirement uniforme
 
 ![Curved seams require stretch](knitbinding2.png)
 
-On a curved seam, like an neck opening, things get a little more complicated. That is because the outer edge and the inner edge of your binding will have a different length.
+Sur une couture courbée, comme une encolure, les choses deviennent un peu plus compliquées. Cela est dû au fait que le bord extérieur et le bord intérieur de votre biais auront une longueur différente.
 
-**No stretch, and things won't lie flat (aka gape)**
+**Pas d'élasticité, et le résultat ne sera pas plat (ça va bailler)**
 
 If you simply sew the binding to the fabric, things will be fine at the outer edge of your binding. But the inner edge is shorter, and your binding fabric will be pushed together. The tension that this creates will make it rise, and your binding will not lie flat against your skin.
 
