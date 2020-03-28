@@ -10,7 +10,7 @@ En surface, freesewing.org peut ressembler à un site Web quelconque qui propose
 
 ## C'est un projet open source
 
-Tous notre code, y compris nos patrons de couture, sont disponibles librement [sur GitHub](https://github.com/freesewing).
+Tout notre code, y compris nos patrons de couture, sont disponibles librement [sur GitHub](https://github.com/freesewing).
 
 Il n'y a pas d'entreprise derrière FreeSewing. Ceci est possible grâce au travail acharné de nos contributeurs, et du soutien financier de [nos mécènes](/patrons).
 
