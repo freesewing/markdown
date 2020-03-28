@@ -61,7 +61,7 @@ La première chose à faire est de décider où nous allons démarrer/arrêter n
 
 Positionnez votre A-shirt avec l'endroit visible, et placez votre bande de biais sur le dessus avec l'endroit au-dessous (en gros, endroit contre endroit).
 
-Align the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Placez le coin sur votre point de départ.
+Alignez le bord long de votre bande avec le bord de votre tissu, de sorte que la bande se trouve sur le tissu (pas dans l'ouverture). Placez le coin sur votre point de départ.
 
 Déplacez maintenant votre bande de biais de 1cm avant votre point de départ. Cette petite marge vous garantira de pouvoir rejoindre les deux extrémités plus tard.
 
