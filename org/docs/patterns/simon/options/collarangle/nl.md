@@ -4,7 +4,7 @@ The number of degrees between the collar edge and the grainline.
 
 <Note>
 
-###### What's the point?
+###### Waarom?
 
 Together with the collar height, this is the most important factor for the style of your collar.
 
