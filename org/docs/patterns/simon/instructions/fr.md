@@ -250,39 +250,39 @@ Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Repassez la couture en couchant la marge de couture côté patte de boutonnage.
 
 #### Repassez la couture en couchant la marge de couture côté patte de boutonnage
-Placez votre devant sur l'endroit, et repassez en couchant la marge de couture du côté de la patte de boutonnage.
+Placez votre devant sur l'endroit, et repassez la marge de couture en la couchant du côté de la patte de boutonnage.
 
-#### Comprendre une patte de boutonnière classique
+#### Comprendre une patte de boutonnage classique (côté boutonnière)
 
 > Si vous avez choisi une patte sans couture, suivez les étapes de la patte de boutonnage côté boutons, car le principe est le même.
 > 
-> Les étapes ci-dessous sont celles d'une patte de boutonnière classique.
+> Les étapes ci-dessous sont celles d'une patte de boutonnage (côté boutonnières) classique.
 
-![Comprendre une patte de boutonnière classique](10b.png)
+![Comprendre une patte de boutonnage classique (côté boutonnière)](10b.png)
 
-Your placket has a bunch of lines on it, so let's first clarify what they are:
+Votre patte a un tas de lignes, alors clarifions d'abord à quoi elles correspondent :
 
- - The buttonhole line has long dashes with buttonholes on it. It marks where the buttonholes should go
- - The two fold lines have long dashes and sit at an equal distance right and left of the buttonhole line
- - The two+two sew lines are dotted lines that sit at an equal distance of each fold line
+ - La ligne de boutonnières est en pointillés longs et des boutonnières y figurent. Elle indique la position des boutonnières
+ - Les deux lignes de plis sont en pointillés longs et sont à égale distance à droite et à gauche de la ligne de boutonnière
+ - Les deux + deux lignes de couture sont en pointillés courts, à égale distance de chaque ligne de pli
 
-#### Trim back seam allowance
+#### Dégarnir la marge de couture
 
-> If you have chosen a grown-on placket, this does not apply.
+> (Si vous avez choisi une patte intégrée, passez cette étape).
 
-![Trim back seam allowance](10c.png)
+![Dégarnir la marge de couture](10c.png)
 
-The seam allowance of where you sewed your buttonhole placket to your front should fit inside your folded placket.
+La marge de couture de l'endroit où vous avez cousu votre patte côté boutonnière doit être intégrée à l'intérieur de votre patte repliée.
 
-For that, trim back the seam allowance so that it doesn't extend beyond the first fold line on the placket.
+Pour cela, coupez l'excédent de marge de couture afin qu'elle ne dépasse pas la première ligne de pli sur la patte.
 
-#### Fold the buttonhole placket
+#### Replier la patte de boutonnières
 
-![Fold the buttonhole placket](10d.png) ![Fold the buttonhole placket again](10e.png)
+![Replier la patte de boutonnières](10d.png) ![Fold the buttonhole placket again](10e.png)
 
-Fold the placket on the first fold line. Press the fold in place.
+Repliez la patte sur le premier pointillé long. Repassez le pli.
 
-Then, fold the part you just folded again, this time on the second fold line. Press this fold in place too.
+Ensuite, pliez à nouveau, cette fois sur le deuxième pointillé long. Repassez le pli.
 
 > When your placket is folded and pressed, place a few pins along the length of your placket to keep things from shifting around
 
