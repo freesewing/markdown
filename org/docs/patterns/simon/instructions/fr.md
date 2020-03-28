@@ -127,9 +127,9 @@ Cousez le long du bord de votre pied de col, en respectant la marge de couture s
 
 Repliez la marge de couture du côté non cousu de votre pied de col et repassez.
 
-> Au milieu, cela sera facile. Mais vers les pointes de votre col, ce sera difficile de ne pas faire de plis.
+> Au milieu, ce sera facile. Mais vers les pointes de votre col, ce sera difficile de ne pas faire de plis.
 > 
-> Repasser de votre mieux sans faire de plis. Nous repasserons à nouveau quand le col sera retourné.
+> Repassez de votre mieux sans faire de plis. Nous repasserons à nouveau quand le col sera retourné.
 
 #### Retourner le col et repasser
 
@@ -139,7 +139,7 @@ Retournez votre pied de col sur l'endroit, et donnez un bon coup de fer. Assurez
 
 Vous pouvez maintenant mettre votre col de côté, nous l'attacherons plus tard.
 
-### Etape 5 : coudre votre étiquette
+### Etape 5 : Coudre votre étiquette
 
 ![Coudre votre étiquette](5.png)
 
@@ -177,7 +177,7 @@ Surpiquez juste à côté de la couture qui joint empiècement dos et dos.
 
 ### Étape 8 : Fermer les pinces du dos
 
-![Fold the back with good sides together to close the darts](8a.png) ![Sew the darts](8b.png) ![Press darts towards the side seams](8c.png)
+![Replier le dos endroit contre endroit pour fermer les pinces](8a.png) ![Coudre les pinces](8b.png) ![Repassez les pinces couchées vers les côtés](8c.png)
 
 > Selon vos mesures, votre patron peut ne pas avoir de pinces. Dans ce cas, passez à l'étape suivante.
 
@@ -203,7 +203,7 @@ Quand vous avez terminé, n'oubliez pas de donner un bon coup de fer. Couchez le
 
 Si vous avez choisi une patte de boutonnage séparée, cousez-la sur le devant droit.
 
-Placer le devant droit (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce boutons, 1b), endroit contre endroit, en veillant à aligner la couture.
+Placez le devant gauche (pièce 1) sur l'envers, et placez dessus la patte de boutonnage (pièce boutonnières, 1b) endroit contre endroit, en veillant à aligner la couture.
 
 Cousez les 2 pièces ensemble en repectant la marge de couture standard.
 
@@ -224,7 +224,7 @@ Quand vous êtes satisfait, repassez la patte pliée.
 
 ![Fixer la patte de boutonnage](9c.png)
 
-> Ce qui suit est l'approche classique. Si vous avez choisi une patte de boutonnage intégrée (sans couture), vous n'avez pas à faire ceci.
+> Ce qui suit est l'approche classique. Si vous avez choisi une patte de boutonnage intégrée (sans couture), passez cette étape.
 > 
 > Plutôt que de coudre la patte de boutonnage, laissez-la pliée. Les plis seront fixés en place par les boutons lorsqu'ils seront cousus plus tard.
 
@@ -239,7 +239,7 @@ Pour cela, coudre exactement sur votre couture précédente. Comme vous avez pli
 
 #### Fixer la patte de boutonnage (côté boutonnières)
 
-![Sew on the butonhole placket](10a.png)
+![Fixer la patte de boutonnage (côté boutonnières)](10a.png)
 
 Si vous avez choisi une patte séparée, cousez-la sur le devant gauche.
 
@@ -278,7 +278,7 @@ Pour cela, coupez l'excédent de marge de couture afin qu'elle ne dépasse pas l
 
 #### Replier la patte de boutonnières
 
-![Replier la patte de boutonnières](10d.png) ![Fold the buttonhole placket again](10e.png)
+![Replier la patte de boutonnières](10d.png) ![Replier la patte de boutonnières](10e.png)
 
 Repliez la patte sur le premier pointillé long. Repassez le pli.
 
@@ -288,7 +288,7 @@ Ensuite, pliez à nouveau, cette fois sur le deuxième pointillé long. Repassez
 
 #### Fixer la patte de boutonnage (côté boutonnières)
 
-![Sew on the first line](10f.png) ![Sew on the second line](10g.png)
+![Couser sur la première ligne](10f.png) ![Couser sur la deuxième ligne](10g.png)
 
 Coudre sur la première ligne de couture (la plus proche du bord).
 
@@ -312,9 +312,9 @@ Maintenant repassez-moi tout ça mon ami. Avouez qu'on en a envie.
 > 
 > Si vous connaissez la méthode du burrito, vous savez déjà comment faire. Si ce n'est pas le cas, lisez ce qui suit pour découvrir une méthode astucieuse pour assembler les coutures d'épaule de votre chemise tout en emprisonnant de façon invisible tous les bords bruts.
 
-#### Pin the fronts to the outside yoke
+#### Épingler les devants à la partie extérieure de l'empiècement dos
 
-![Pin the fronts to the outside yoke](11a.png) ![Pin the fronts to the outside yoke](11b.png)
+![Épingler les devants à la partie extérieure de l'empiècement dos](11a.png) ![Épingler les devants à la partie extérieure de l'empiècement dos](11b.png)
 
 Placez le dos sur l'envers, en faisant attention à plier vers le bas la partie de l'empiècement dos qui sera à l'intérieur de la chemise (comme l'illustre la ligne en pointillés).
 
@@ -330,7 +330,7 @@ Maintenant, faites passer cet empiécement dos par dessus votre saucisse, et ali
 
 Épinglez le tout en place, puis cousez les coutures des épaules, Assurez-vous de ne pas prendre votre saucisse (la farce de votre burrito) dans la couture des épaules.
 
-![Match the notches](11e.png)
+![Faire correspondre les repères](11e.png)
 
 > Assurez-vous d'aligner la vraie ligne de couture. En raison des angles inégaux à l'encolure, le bord du tissu est souvent plus long d'un côté que de l'autre.
 > 
@@ -347,7 +347,7 @@ Après tout ce travail, assurez vous maintenant de lui donner une aspect impecca
 
 ### Etape 12: Surpiquer l'empiècement aux coutures d'épaule
 
-![Edge-stitch the shoulder seams of the yoke](12.png)
+![Etape : Piquer l'empiècement le long du bord aux coutures d'épaule](12.png)
 
 Tout comme nous avons surpiqué le bas de l'empiècement dos à l'étape 3, nous allons aussi le surpiquer aux coutures d'épaule.
 
@@ -359,7 +359,7 @@ Puisque vous venez de repasser ces coutures d'épaule, tout devrait être beau e
 
 #### Coudre la sous-patte de poignet
 
-![Coudre la sous-patte de poignet](13a.png) ![Press the cuff guard](13b.png) ![Edge-stitch the cuff guard in place](13c.png)
+![Coudre la sous-patte de poignet](13a.png) ![Repassez la sous-patte de poignet](13b.png) ![Piquer la sous patte de poignet le long du bord en place](13c.png)
 
  - Placez votre manche sur l'endroit, et votre sous-patte de poignet dessus, également sur l'endroit.
  - Alignez le bord de votre sous-patte avec la fente de votre manche, en plaçant la sous patte sur le côté le plus court par rapport à la fente.
@@ -388,7 +388,7 @@ Voici une très courte vidéo YouTube de moi pliant la patte de boutonnage: <You
 
 #### Épingler la patte en place
 
-![Slide placket in position](13e.png) ![Épingler la patte en place](13f.png)
+![Glisser la patte en place](13e.png) ![Épingler la patte en place](13f.png)
 
 Placez votre manche sur l'envers. La sous-patte que nous avons cousue plus tôt est placée contre le bord brut de votre fente de manche.
 
@@ -416,7 +416,7 @@ Ensuite, coudre horizontalement jusqu'à l'autre côté de la patte pour finir.
 
 #### Rappelez vous, il s'agit d'une couture plate rabattue
 
-![Aligning the fabric for a flat-felled seam](14c.png)
+![Alignement du tissu pour une couture rabattue à plat](14c.png)
 
 
 > **Attention avec la marge de couture supplémentaire pour la couture plat rabattue**. Une marge de couture supplémentaire est prévue sur la manche pour permettre la réalisation d'une couture plate rabattue.
@@ -443,7 +443,7 @@ Vous devez maintenant épingler la manche à l'emmanchure. Pour ce faire, assure
 
 #### Répartir l'embu de la tête de manche
 
-![Distribute the sleevecap ease](14b.png)
+![Répartir l'embu de la tête de manche](14b.png)
 
 Pour ce patron, l'embu de la tête de manche est de 0,5 cm par défaut. Si vous avez un embu plus important sur votre tête de manche, vous devez répartir cette longueur supplémentaire uniformément entre les repères, comme indiqué.
 
@@ -458,7 +458,7 @@ Lorsque vous avez bien épinglé votre manche dans votre emmanchure, cousez la e
 
 #### Coucher la marge de couture d'un côté au fer
 
-![Press seam allowance to once side](15a.png)
+![Coucher la marge de couture d'un côté au fer](15a.png)
 
 Placez votre couture de manche fraichement cousue sur l'endroit
 
@@ -490,7 +490,7 @@ Quand vous avez terminé, repassez la couture plate rabattue sur l'endroit, pour
 
 ### Etape 16: : Fermer les côtés et les manches
 
-![Close the side/sleeve seams](16a.png) ![Remember, this is a flat-felles seam](16b.png)
+![Etape : : Fermer les côtés et les manches](16a.png) ![Rappelez vous, il s'agit d'une couture plate rabattue](16b.png)
 
 Placez votre chemise endroit contre endroit, et cousez les côtés et les coutures des manches pour fermer la chemise.
 
@@ -500,7 +500,7 @@ Placez votre chemise endroit contre endroit, et cousez les côtés et les coutur
 
 #### Coucher la marge de couture d'un côté au fer
 
-![Press the seam allowance to one side](15a.png)
+![Coucher la marge de couture d'un côté au fer](15a.png)
 
 Nous allons coucher la marge de couture d'un côté au fer. Pour ce faire, repérez la marge de couture qui est la plus large (et qui sera utilisée pour la couture plate rabattue).
 
@@ -606,7 +606,7 @@ Maintenant que votre col est attaché, donnez-lui un bon coup de fer.
 
 ### Étape 20 : Ourler votre chemise
 
-![Fold over and press](20a.png) ![FOld over again, and press again](20b.png) ![Sew the hem](20c.png)
+![Repliez et repassez](20a.png) ![Pliez à nouveau, et repassez à nouveau](20b.png) ![Coudre l'ourlet](20c.png)
 
 Il est temps de faire l'ourlet (c'est la partie que vous glissez dans votre pantalon).
 
