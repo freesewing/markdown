@@ -1,2 +1,3 @@
+![Knopen](buttons.svg)
 
-Hoeveel knopen je hemd heeft. Knopen aan de manchetten worden niet meegeteld, een optionele extra knoop bovenaan ook niet.
+The number of buttons on your shirt. Excluding cuff buttons, and the optional extra top button.
