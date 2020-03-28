@@ -14,11 +14,11 @@
 
 <Warning>
 
-###### Caveats
+######Opgelet
 
- - Do not cut out the **front** dart
- - Do not cut out the **back** dart
- - Watch out for the grainline on the **pocket welt** and **pocket facing**
+- Knip de neep **vooraan** niet uit
+- Knip de neep **achteraan** niet uit
+- Let op de draadrichting van de **paspel zak** en het **zakbeleg**
 
 </Warning>
 
