@@ -175,15 +175,15 @@ Surpiquez juste à côté de la couture qui joint empiècement dos et dos.
 
 > Edge-stitching is like top-stitching, but right next to the seam
 
-### Step 8: Close the back darts
+### Étape 8 : Fermer les pinces du dos
 
 ![Fold the back with good sides together to close the darts](8a.png) ![Sew the darts](8b.png) ![Press darts towards the side seams](8c.png)
 
-> Depending on your measurements, your pattern might not have back darts at all. In that case, proceed to the next step.
+> Selon vos mesures, votre patron peut ne pas avoir de pinces. Dans ce cas, passez à l'étape suivante.
 
-Your pattern may or may not have back darts. If it has them, you should close them now.
+Votre patron peut avoir ou non des pinces au dos. S'il en a, vous devez les fermer maintenant.
 
-Place your back down with the good side up, and fold it back from the side seam so the fold runs from the top to the bottom of your dart.
+Placez votre dos sur l'envers, et repliez un côté en faisant en sorte que le pli passe par les points situés aux deux exrémités de la pince.
 
 Do the same for the other dart, so that both sides are folded back.
 
