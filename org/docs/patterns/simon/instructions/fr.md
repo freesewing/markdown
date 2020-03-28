@@ -406,22 +406,22 @@ Quand elle sera placée là où vous le souhaitez, épinglez la.
 
 Commencez au bord de la manche (bas de la patte de manche) et piquez le long du bord vers le haut.
 
-Faites le tour de la pointe et redescendez de l'autre côté de la fente (côté plié) jusqu'à ce que vous ayez passé le point où se termine votre sous-patte.
+Faites le tour de la pointe et redescendez de l'autre côté de la fente (côté plié) jusqu'à ce que vous ayez passé le point où se termine votre sous-patte en haut de la fente.
 
 Ensuite, coudre horizontalement jusqu'à l'autre côté de la patte pour finir.
 
-> I have included an extra illustration here that only shows the outline of the placket. You can see that the end of the guard is caught in our stitching of the placket, and is thus neatly tucked away.
+> J'ai inclus ici une illustration supplémentaire qui ne montre que le contour de la patte. Vous pouvez voir que l'extrémité de la sous-patte est prise dans la couture de la patte, et est ainsi bien cachée.
 
-### Step 14: Set in sleeves
+### Etape 14: Assembler les manches
 
-#### Remember, this is a flat-felled seam
+#### Rappelez vous, il s'agit d'une couture plate rabattue
 
 ![Aligning the fabric for a flat-felled seam](14c.png)
 
 
-> **Careful with the extra seam allowance for the flat-felled seam** There is extra seam allowance on the sleeve to allow for the creation of the flat-felled seam.
+> **Attention avec la marge de couture supplémentaire pour la couture plat rabattue** Une marge de couture supplémentaire est prévue sur la manche pour permettre la réalisation d'une couture plate rabattue.
 > 
-> As such, be careful to not align the fabric edge, but align the seam so that the sleeve sits out 1cm.
+> Par conséquent, ce sont les coutures et non les bords qui doivent être alignés, donc il faut positionner la manche de façon à ce qu'elle dépasse du bord de 1 cm.
 
 #### Pin shirt in place
 
