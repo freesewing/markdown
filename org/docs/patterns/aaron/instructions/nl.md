@@ -61,7 +61,7 @@ Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen.
 
 Leg je hemdje neer met de goede kant naar boven, en leg je bies met de goede kant naar beneden op de stof (dus, goede kanten op elkaar).
 
-Leg de lange rand van je bies gelijk met de rand van je stof zodat de bies op de stof ligt (en niet in de opening). Leg de hoek van je bies op je startpunt.
+Align the long edge of your strip with the edge of your fabric so the strip lies on top of the fabric (not in the opening). Leg de hoek van je bies op je startpunt.
 
 Leg nu je bies 1 cm voorbij je startpunt. Dit beetje extra garandeert dat we later de twee uiteindes aan elkaar kunnen bevestigen.
 
