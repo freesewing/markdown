@@ -1,15 +1,15 @@
 ---
-title: Coverlock
+title: Recouvreuse
 ---
 
-![A hem on a T-shirt, made with a coverlock machine](coverlock-hem.jpg)
+![Un ourlet sur un T-shirt, fait à la recouvreuse](coverlock-hem.jpg)
 
-![The finished backside of a coverlocked seam](coverlock.jpg)
+![L'arrière d'une couture faite à la recouvreuse](coverlock.jpg)
 
-![My coverlock machine, a Janome Coverpro 1000 CPX](janome-coverpro.jpg)
+![Ma recouvreuse, une Janome Coverpro 1000 CPX](janome-coverpro.jpg)
 
-A coverlock is a type of sewing machine that is dedicated to do a coverlock stitch, or coverlock seam.
+Une recouvreuse est un type de machine à coudre qui est dédié à faire un point de couverture, ou une couture de couverture.
 
-A coverlock seam is used for hemming knit garments. It finishes the folded back fabric so it can't ravel and the resulting stitch can stretch along with the fabric.
+Une couture de couverture est utilisée pour faire un ourlet sur les vêtements en maille. Il finit le tissu rabattu pour qu'il ne puisse pas rebiquer et la couture résultante peut s'étirer en même temps que le tissu.
 
-Coverlocks can be dedicated machines, or they can be integrated in an overlock/serger.
+Les recouvreuses peuvent être des machines dédiées, ou ils peuvent être combinées avec une surjeteuse.
