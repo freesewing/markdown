@@ -216,15 +216,15 @@ Placez votre devant sur l'endroit, et repassez en couchant la marge de couture d
 
 Maintenant, pliez la patte de boutonnage sur la première ligne en pointillé, et repassez sur ce pli.
 
-Then, fold the placket over again, making sure to have the fabric extend just beyond the seam that joins your placket to the front.
+Ensuite, pliez à nouveau la patte en veillant à ce que le tissu arrive juste après la couture qui relie votre patte au devant.
 
-When you're happy, press the folded placket.
+Quand vous êtes satisfait, repassez la patte pliée.
 
-#### Sew down the folded placket
+#### Fixer la patte de boutonnage
 
-![Sew down the folded placket](9c.png)
+![Fixer la patte de boutonnage](9c.png)
 
-> This is the classic approach. If you have chosen the seamless Button placket style, you don't have to do this.
+> Ceci est l'approche classique. If you have chosen the seamless Button placket style, you don't have to do this.
 > 
 > Rather than sew the placket down, simply leave it folded. The folds will be secured in place when we attach the buttons later.
 
