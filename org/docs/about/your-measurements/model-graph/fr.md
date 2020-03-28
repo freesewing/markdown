@@ -1,48 +1,34 @@
 ---
-title: Model graph
+title: Graphique de modèle
 ---
 
-A so-called *model-graph* is a visual representation of a model's measurements:
+Ce qu'on appelle un *graphique de modèle* est une représentation visuelle des mesures d'un modèle :
 
-![Example](model.svg)
+![Exemple](model.png)
 
-Measurements of width (neck circumference, chest circumference, and so on) are represented in the circle on the left. Measurements of height (length of the arms, inseam, and so on) are represented with the bars on the right.
+Les mesures de largeur (circonférence du cou, circonférence du buste, etc.) sont représentées dans le cercle à gauche. Les mesures de hauteur (longueur des bras, entrejambe, etc.) sont représentées par les barres à droite.
 
-Once the neck circumference measurement is known, the graph will not only show all the measurements you have entered, it will also include a project of the missing measurements, based on the model's neck circumference.
+Une fois que la mesure de tour de cou est entrée, le graphique ne montrera pas seulement les mensurations que vous avez prises, mais il inclura également une proposition des mesures manquantes basées sur le tour de cou.
 
-## Why we made this graph
+## Pourquoi nous avons fait ce graphique
 
-A common problem is for people to make mistakes while taking measurements. We wanted to address that problem, but setting boundaries on what any given measurement will accept opens the door to rejecting measurements for correctly measured yet uniquely sized bodies.
+Un problème courant est que les gens commettent des erreurs lors de la prise des mensurations. Nous voulions résoudre ce problème, mais le fait de déterminer ce qui sera en-dehors des normes attendues ouvre la porte au rejet des mensurations correctes prises sur des corps uniques.
 
-So rather than setting boundaries, we opted to map out a model's measurements in comparison to the industry-standard sizing charts for any given neck circumference.
+Donc, plutôt que de fixer des limites, nous avons choisi de cartographier les mesures du modèle en les comparant aux tableaux de tailles standards de l'industrie pour n'importe quel tour de cou.
 
-This allows you to spot outliers, so you can make your own judgement call on whether you should perhaps re-measure, or that this is ok. After all, chances are that if (some of) your measurements are significantly different from what the garment industry expects, you already knew that.
+Cela vous permet de repérer des écarts, de façon à ce que vous puissiez faire votre propre jugement sur la question de savoir si vous devriez peut-être remesurer, ou si c'est correct. Après tout, il y a des chances que vous le sachiez déjà si une ou plusieurs de vos mensurations s'éloignent des standards de l'industrie.
 
-## How to read the chart
+## Comment lire le graphique
 
-Your relative size is represented by the size of the circle. The bigger the circle, the higher you are in the sizing chart. Your proportions are captured in the shape of the circle. The more it looks like a perfect circle, the closer your proportions are to sizing chart used in the industry.
+Votre taille relative est représentée par la taille du cercle. Plus le cercle est grand, plus vous êtes haut dans le tableau des tailles. Vos proportions sont illustrées sur la forme du cercle. Plus il ressemble à un cercle parfait, plus vos proportions sont proches de la taille utilisée dans l'industrie.
 
-Your height, and vertical measurements, are plotted at bars extending to the right. The farther they reach, the taller you are. The dashed line marks what the industry expects for someone with your neck circumference. If a bar surpasses it, that indicates you are taller, or that measurement is longer, than the standard sizing chart.
+Vos hauteurs et vos mesures verticales sont tracées sur des barres s'étendant à droite. Plus elles sont longues, plus vous êtes grand. La ligne pointillée indique ce que l'industrie estime pour quelqu'un avec votre tour de cou. Si une barre la dépasse, ça indique que vous êtes plus grand, ou que la mesure est plus longue que la taille standard.
 
-If your bars stop short of  the dashed line, you are shorter than what the industry expects.
+Si vos barres s'arrêtent avant la ligne pointillée, vous êtes plus petit que ce que l'industrie estime.
 
-## What to look out for
+## Il faut ouvrir l'œil pour...
 
-The purpose of the graph is to spot mistakes in your measurements. So look for anything that stands out. A spike or deep dent in the circle, or a bar that is significantly longer or shorter than the others.
+Le but du graphique est de repérer les erreurs dans vos mesures. Cherchez donc tout ce qui se démarque. Un pic ou un creux profond dans le cercle, ou une barre sensiblement plus longue ou plus courte que les autres.
 
-It doesn't mean these measurements are incorrect, it's merely a suggestion to double-check them to make sure you have them measured correctly.
-
-## Caveat: Work in progress
-
-This is a very new feature, and we are still working out the details. The further you deviate from the neck circumference our predictions are based on (42cm for models without breasts, 36cm for models with breasts) the more likely it is that the projections aren't hitting home.
-
-<Note>
-
-###### Breasts are tricky
-
-Particularly for models with breasts, we are aware that there's some fine-tuning yet to be done.
-
-</Note>
-
-
+Cela ne signifie pas que ces mesures sont incorrectes, c'est simplement une suggestion de les vérifier deux fois pour s'assurer que vous les avez correctement mesurées.
 
