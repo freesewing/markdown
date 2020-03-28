@@ -1,5 +1,6 @@
+![Cuff style](cuffstyle.svg)
 
-Wat voor manchet wil je?
+What style of cuff do you want?
 
  - Afgeronde klassieke manchet
  - Chamfer barrel cuff
