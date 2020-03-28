@@ -24,7 +24,7 @@ Ils sont tous connus pour causer ces problèmes de réception
 
 ## Pourquoi dois-je créer un compte juste pour télécharger un patron ?
 
-Pour des raisons pratiques. Pour créer des patrons sur mesure </ b>, nous avons besoin de vos mesures </ b>.
+Pour des raisons pratiques. Pour créer des patrons sur mesure, nous avons besoin de vos mesures.
 
 Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous les enregistrons. Et c'est sur votre compte que nous le faisons.
 
@@ -32,7 +32,7 @@ Sans conservation de vos mesures en mémoire, la génération de patrons sur mes
 
 <Note>
 
-##### Demandez vous parce que vous ne faites pas confiance ?
+##### Demandez-vous parce que vous ne faites pas confiance ?
 
 Cette question suggère souvent une méfiance liée à la création d'un compte. Ainsi, les questions suivantes peuvent être pertinentes :
 
