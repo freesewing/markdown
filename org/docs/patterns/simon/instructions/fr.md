@@ -481,7 +481,7 @@ Vous pouvez épingler pour maintenir en place, ou tout simplement repasser.
 #### Coudre la couture plate rabattue
 Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au niveau ou elle est repliée sous l'autre marge de couture.
 
-Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. Si vous avez un pied rabatteur, cela pourra vous aider. Mais si ce n'est pas le cas, soyez simplement soigneux.
 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
@@ -521,7 +521,7 @@ Vous pouvez épingler pour maintenir en place, ou tout simplement repasser.
 #### Coudre la couture plate rabattue
 Maintenant, sur l'envers, cousez la marge de couture sur le bord, juste au niveau ou elle est repliée sous l'autre marge de couture.
 
-Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. If you have a felling foot for your sewing machine, it will help you with that. But if not, just be careful.
+Il est important ici de piquer à une distance constante par rapport à la couture de votre manche. Si vous avez un pied rabatteur, cela pourra vous aider. Mais si ce n'est pas le cas, soyez simplement soigneux.
 
 > It is more important to keep and even distance from the sleeve seam than to sew exactly at the edge of the fold. Ideally, the fold sits at an even distance anyhow, but if it doesn't, just make sure to sew parallel to the sleeve seam. Even if that means you deviate a bit from the folded edge.
 
