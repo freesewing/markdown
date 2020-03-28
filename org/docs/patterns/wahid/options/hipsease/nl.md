@@ -1,2 +1,3 @@
+![Overwijdte heup](hipsease.svg)
 
-Hoeveel ruimte wil je aan je heupen?
+How much room do you want at your hips?
