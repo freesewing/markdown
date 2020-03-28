@@ -7,5 +7,5 @@ Para hacer una mascarilla Fu necesitarás:
 - Basic sewing supplies
 - Unos 15 cm (6") de una tela adecuada ([ver Opciones de tela](/docs/patterns/fu/fabric/))
 - Unos de 15 cm (6") de tela de forro
-- Unos 1,2 metros (4 pies) de cinta cortado en 4 partes iguales
+- About 1.6 meter (5 feet) of ribbon cut in 4 equal parts
 
