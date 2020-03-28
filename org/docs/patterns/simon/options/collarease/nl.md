@@ -1,6 +1,6 @@
+![Overwijdte kraag](collarease.svg)
 
-Hoeveel overwijdte heeft je kraag?
+How much ease do you want for your collar?
 
-Als je het gevoel krijgt dat een kraag je verstikt kan je jezelf een beetje meer ruimte geven, en zal de kraag losser rond je nek zitten. Je kan de hoeveelheid overwijdte ook verkleinen voor een strakkere kraag.
+If you feel that a collar is suffocating, you can give yourself a bit more ease and it will sit more loose around your neck. You could also lower the ease for a tighter fit.
 
-> Misschien best niet lager dan 1.5 cm gaan als je nog in staat wil zijn je bovenste knoop te sluiten.
