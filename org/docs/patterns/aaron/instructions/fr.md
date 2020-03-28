@@ -18,13 +18,13 @@ Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et l
 
 </Note>
 
-## Étape 3 : Coudre la bande de jersey à l'avant
+## Étape 3 : Coudre le biais de jersey à l'avant
 
 <Note>
 
-##### A propos de la bande de Jersey
+##### À propos du bord côte
 
-Si vous êtes nouveau en [bande de Jersey](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
+Si vous êtes novice en [tricot binding](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
 
 ###### Répéter les étapes 3 et 4 pour les emmanchures et l'ouverture du cou
 
@@ -38,26 +38,26 @@ Dans les deux cas, moins vous avez d'arrondi "serré", plus il sera facile de le
 
 </Note>
 
-We are going to finish the arm and neck hole with [knit binding](/en/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/en/docs/sewing/knit-binding)).
+Nous finirons par le trou du bras et du cou avec un [biais de jersey](/en/docs/sewing/knit-binding) (Remarque : pas une bande de jersey. Il y a une différence, et elle est expliquée [ici](/en/docs/sewing/knit-binding)).
 
 <Note>
 
-This is the only part of making this A-shirt that requires a bit of practice. Don't worry, all you need to do is make a couple of these and you'll be a pro in no time.
+C'est la seule partie de la fabrication de ce A-shirt qui nécessite un peu de pratique. Ne vous inquiétez pas, il vous suffit d'en faire quelques uns et vous serez un pro en un rien de temps.
 
 </Note>
 
-### Pick your spot
+### Choisissez votre emplacement
 
 ![Applying knit binding](step03a.png)
 
-The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
+La première chose à faire est de décider où nous allons démarrer/arrêter notre biais. Voici ce que je suggère :
 
-  - For the armholes: at the side seam. This will hide our seam under the arm
-  - For the neck opening: the center back of the neck. You might want to make this with a pin
+  - Pour les emmanchures : à la couture latérale. Cela cachera notre couture sous le bras
+  - Pour l'encolure : à l'arrière, au milieu. Vous pourriez vouloir le faire en épinglant
 
-### Place (the start of) your binding
+### Placer (démarrer) votre biais
 
-![Place (the start of) your binding](step03b.png)
+![Placer (démarrer) votre biais](step03b.png)
 
 Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
 
