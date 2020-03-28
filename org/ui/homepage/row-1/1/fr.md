@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## Made to your measurements
+## Fait à vos mesures
 
-All our patterns are *made-to-measure*. Not just graded up or down, but actually drafted to your exact specifications, just as you would on paper.
+Toutes nos patrons sont *sur-mesure*. Non seulement gradés en tailles plus ou moins grandes, mais sont réellement élaborés selon vos propres attentes, tel que vous l'auriez sur papier.
