@@ -1,3 +1,3 @@
-![The shoulder strap width option on Aaron](./shoulderstrapwidth.svg)
+![L'option de largeur de bretelles sur Aaron](./shoulderstrapwidth.svg)
 
-Determines the width of the shoulder straps.
+Détermine la largeur des bretelles.
