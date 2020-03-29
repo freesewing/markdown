@@ -2,16 +2,16 @@
 title: Marge de couture
 ---
 
-![The inside of the leg on a pair of jeans. The SA is the dark narrow stretch of fabric next to the seam. It has been zig-zagged to keep it from fraying](zig-zag.jpg)
+![L'intérieur de la jambe sur un jean. La marge de couture est la partie sombre près de la couture. Elle a été zig-zaggée pour l'empêcher de s'effilocher](zig-zag.jpg)
 
-Seam allowance, often shortened to SA, is the extra fabric at the seam that allows you to sew a garment together.
+La marge de couture est le supplément de tissu au niveau de la couture qui vous permet d'assembler les pièces d'un vêtement.
 
-If, instead of sewing, you could magically join seams together, there would be no need for seam allowance.
+Si, au lieu de coudre, vous pouviez joindre par magie les pièces ensemble, il n'y aurait pas besoin de marges de couture.
 
-Since we can't do magic, we need a bit of seam allowance so that the minor fraying of the fabric will not undo the seam.
+Comme nous ne pouvons pas faire de magie, nous avons besoin d'un peu de marge de couture pour que la part d'effilochage du tissu ne défasse pas la couture.
 
-Seam allowance can differ. 1cm is common for some patterns, but in the US 5/8" or 15mm is standard. Make sure to always check the pattern for the default SA.
+La marge de couture peut varier. Elle est couramment de 1 cm pour certains patrons, mais aux US c'est plutôt 5/8" ou 15mm le standard. Assurez-vous de toujours vérifier le patron et les instructions pour la marge par défaut.
 
-Extra SA can be required for specific finished (like french seams) or for hemming.
+Une marge supplémentaire peut être requise pour les finitions spécifiques (comme les coutures anglaises) ou pour les ourlets.
 
-> Picture by [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
+> Photo par [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
