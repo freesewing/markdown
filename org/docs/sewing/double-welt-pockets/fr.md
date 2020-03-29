@@ -33,39 +33,39 @@ Deux valeurs déterminent la taille de votre poche passepoilée. Il y a :
  - Largeur de la poche : C'est la largeur de l'ouverture de la poche passepoilée
  - La hauteur de rabat : Il s'agit de la hauteur d'un seul rabat, et donc la moitié de la hauteur de notre poche passepoilée
 
-> In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
+> Dans l'exemple ci-dessous, j'utilise une largeur de poche de 13cm et une hauteur de rabat de 0,5cm
 
-## Cutting
+## Coupe
 
-### Pocket welts
+### Rabats de poche
 
-The welts are two rectangular strips of fabric with the following measurements:
+Les rabats sont deux bandes rectangulaires de tissu avec les mesures suivantes :
 
- - Length: Pocket width + 4cm
- - Width: Welt height x2 + 5cm
+ - Longueur : Largeur de poche + 4cm
+ - Largeur : Hauteur du rabat x2 + 5cm
 
-For our example:
+Pour notre exemple :
 
- - Length: 13+4 = 17cm
- - Width: (0.5x2)+5 = 6cm
+ - Longueur : 13+4 = 17cm
+ - Largeur : (0.5x2)+5 = 6cm
 
-They will form the two narrow strips of fabric that form your double welt pocket.
+Ils formeront les deux bandes étroites de tissu qui forment votre poche passepoilée.
 
-> Make sure to respect the grainline when cutting the two welts
+> Assurez-vous de respecter le droit fil lors de la coupe des deux rabats
 
-### Pocket interfacing
+### Entoilage de poche
 
-The pocket interfacing is a single rectangular strip of fusible interfacing with the following measurements:
+L'entoilage de poche est une seule bande rectangulaire d'entoilage thermocollant avec les mesures suivantes :
 
- - Length: Pocket widht + 4cm
- - Width: Welt height x2 + 5cm
+ - Longueur : Largeur de poche + 4cm
+ - Largeur : Hauteur du rabat x2 + 5cm
 
-For our example:
+Pour notre exemple :
 
- - Length: 13+4 = 17cm
- - Width: (0.5x2)+5 = 6cm
+ - Longueur : 13+4 = 17cm
+ - Largeur : (0.5x2)+5 = 6cm
 
-> You may have noticed that the interfacing is the same size as a welt
+> Vous avez peut-être remarqué que l'entoilage est de la même taille qu'un rabat
 
 The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
 
@@ -73,13 +73,13 @@ The interfacing is used to stabalize the pocket, and will be fused to the fabric
 
 The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
 
- - Length: Pocket width + 4cm
- - Width: Welt height x2 + 5cm
+ - Longueur : Largeur de poche + 4cm
+ - Largeur : Hauteur du rabat x2 + 5cm
 
-For our example:
+Pour notre exemple :
 
- - Length: 13+4 = 17cm
- - Width: (0.5x2)+5 = 6cm
+ - Longueur : 13+4 = 17cm
+ - Largeur : (0.5x2)+5 = 6cm
 
 > You may have noticed that the facing is the same size as a welt
 
