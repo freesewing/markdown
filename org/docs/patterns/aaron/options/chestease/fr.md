@@ -1,11 +1,11 @@
-![The chest ease option on Aaron](./chestease.svg)
+![L'option d'aisance de la poitrine sur Aaron](./chestease.svg)
 
-How much room do you want at the chest?
+Combien d'aisance voulez-vous pour le buste ?
 
-Whatever value you provide here will simply be added to your chest circumference measurement when drafting the garment.
+Quelle que soit la valeur que vous choisissez, la valeur sera simplement ajoutée à votre mesure de tour de poitrine lors de la génération du patron.
 
-> Given that an undershirt has no arms, a little chest ease goes a long way. Add too much, and you'll end up with gaping armholes.
+> Étant donné qu'un maillot de corps n'a pas de bras, une petite aisance de poitrine offre déjà un bon confort. Ajoutez-en trop, et vous finirez avec des emmanchures béantes.
 
-> ##### This option also allows negative values
+> ##### Cette option permet également des valeurs négatives
 > 
-> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the **stretch** option.
+> Vous ne devriez utiliser d'aisance négative que si vous utilisez un tissu très extensible que vous voulez bien ajuster. Overall stretch should be configured with the **stretch** option.
