@@ -2,7 +2,7 @@
 title: Coupe
 ---
 
-Fu n'a qu'une seule pièce, le *masque*. Il correspond à la moitié du masque, donc en aurons besoin en double. Comme nous voulons deux épaisseurs (une extérieure et une intérieure), nous aurons donc besoin de quatre pièces au total :
+Fu n'a qu'une seule pièce, le *masque*. Elle correspond à la moitié du masque, donc nous en aurons besoin de deux. Comme nous voulons deux épaisseurs (une extérieure et une intérieure), nous aurons donc besoin de quatre pièces au total :
 
  - **Tissu principal**
    - Couper **2 pièces** du masque
