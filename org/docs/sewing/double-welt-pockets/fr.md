@@ -26,12 +26,12 @@ Pour fabriquer une poche à doubles rabats (passepoilée), vous aurez besoin de 
  - Doublure ou autre tissu adapté pour le fond de poche (Voir les options de tissu et de couleur)
  - Tissu décoratif pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
 
-### Parameters
+### Paramètres
 
-Two values determine the size of your double welt pocket. Il y a :
+Deux valeurs déterminent la taille de votre poche passepoilée. Il y a :
 
- - The pocket width: This is the width of the opening of the finalized double welt pocket
- - The welt height: This is the height of a single welt, and this half of the height of our double welt pocket
+ - Largeur de la poche : C'est la largeur de l'ouverture de la poche passepoilée
+ - La hauteur de rabat : Il s'agit de la hauteur d'un seul rabat, et donc la moitié de la hauteur de notre poche passepoilée
 
 > In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
 
