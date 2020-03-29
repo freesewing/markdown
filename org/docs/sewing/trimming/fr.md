@@ -1,11 +1,11 @@
 ---
-title: Trimming
+title: Dégarnir
 ---
 
-![Seam allowance being trimmed](trimming.jpg)
+![Dégarnissage en cours](trimming.jpg)
 
-Trimming, or to trim, is cutting away excessive SA.
+Dégarnir, ou parfois cranter, est le fait de couper l'excédent de marge de couture.
 
-Often the goal of trimming is to reduce bulk in the seams of a garment.
+Souvent le but de dégarnir est de réduire l'excès de matière dans les coutures d'un vêtement.
 
-> Picture by [Heather](http://www.feathersflights.com/2011/02/trimming-and-grading-seams.html)
+> Photo de [Heather](http://www.feathersflights.com/2011/02/trimming-and-grading-seams.html)
