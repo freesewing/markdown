@@ -1,7 +1,7 @@
-![The stretch factor option on Aaron](./stretchfactor.svg)
+![L'option du taux d'élasticité sur Aaron](./stretchfactor.svg)
 
-How much does your fabric stretch?  Choose 0% if your fabric does not stretch.
+Quel est le taux d’élasticité de votre tissu ?  Choisissez 0% si votre tissu n'est pas du tout extensible.
 
-> ##### This option does only impact stretch one-way (horizontal).
+> ##### Cette option ne concerne que l'élasticité horizontale (dans la largeur) uniquement.
 > 
-> Four-way stretch is not really a concern for this top, but if you want you can play with the [length bonus](../lengthbonus) option.
+> L'élasticité dans les 2 sens n'est pas vraiment nécessaire pour ce top, mais si vous souhaitez, vous pouvez jouer avec l'option de [bonus de longueur](../lengthbonus).
