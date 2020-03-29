@@ -4,6 +4,6 @@ How much room do you want at the hips?
 
 Whatever value you provide here will simply be added to your hips circumference measurement when drafting the garment.
 
-> ##### This option also allows negative values.
+> ##### Cette option permet également des valeurs négatives.
 > 
 > You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the stretch option.
