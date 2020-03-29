@@ -1,14 +1,14 @@
 ---
-title: Ease
+title: Aisance
 ---
 
 ![Without ease, you would not be able to raise your arm](ease-plus.jpg)
 
 ![Negative ease is what makes your tights fit](ease-min.jpg)
 
-Ease is the amount of fabric that is added to a garment in addition to what is strictly required to make the garment fit.
+L'aisance est la quantité de tissu qui est ajoutée à un vêtement en plus de ce qui est strictement requis pour rendre le vêtement adapté.
 
-Without ease, a garment would fit you so precisely that you might not be able to get in to it, or would have problems moving in it.
+Sans aisance, un vêtement vous sera si ajusté que vous pourriez ne pas être en mesure d'y entrer, ou auriez des problèmes pour bouger.
 
 Ease that is added to allow you to move inside a garment is called wearing ease. Extra ease can be added beyond what is functionally needed. This is called design ease and is used to achieve a certain visual effect.
 
