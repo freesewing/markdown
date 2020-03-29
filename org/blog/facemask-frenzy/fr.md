@@ -13,8 +13,8 @@ author: joost
 
 
  -Patron PDF pour nos masques Fu:
-   - [patron du masque format A4](/fu-facemask-freesewing.org.a4.pdf)
-   - [patron du masque format Lettre](/fu-facemask-freesewing.org.letter.pdf)
+   - [patron du masque format A4](/fu-facemask-freesewing.org.a4.fr.pdf)
+   - [patron du masque format Lettre](/fu-facemask-freesewing.org.letter.fr.pdf)
  - [Instructions pour la réalisation du masque](/docs/patterns/fu/instructions/)
 
 </Note>
@@ -26,8 +26,8 @@ Les choses s'accélèrent. Nous avons publié [notre masque Fu ](/designs/fu/) �
 Alors, évidemment, nous voulons aider :
 
  - Patron PDF pour notre masque Fu :
-   - [Patron du masque en format A4](/fu-facemask-freesewing.org.a4.pdf)
-   - [Patron du masque en format Lettre](/fu-facemask-freesewing.org.letter.pdf)
+   - [Patron du masque en format A4](/fu-facemask-freesewing.org.a4.fr.pdf)
+   - [Patron du masque en format Lettre](/fu-facemask-freesewing.org.letter.fr.pdf)
  - [Instructions pour le patron de masque facial](/docs/patterns/fu/instructions/)
 
 Maintenant, lancez-vous et faites-en une série. Nos professionnels de la santé comptent sur vous !
