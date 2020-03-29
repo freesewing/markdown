@@ -6,4 +6,4 @@ Quelle que soit la valeur que vous choisissez, la valeur sera simplement ajouté
 
 > ##### Cette option permet également des valeurs négatives.
 > 
-> Vous ne devriez utiliser d'aisance négative que si vous utilisez un tissu très extensible que vous voulez bien ajuster. Overall stretch should be configured with the stretch option.
+> Vous ne devriez utiliser d'aisance négative que si vous utilisez un tissu très extensible que vous voulez bien ajuster. Le taux d'élasticité général doit être configuré avec l'option du taux d'élasticité.
