@@ -1,10 +1,10 @@
 ---
-title: Good sides together
+title: Endroit contre Endroit
 ---
 
-When I refer to good sides together that can refer to either cutting or sewing:
+Lorsque je parle 'endroit contre endroit, je veux parler de coupe ou de couture :
 
-## Cutting with good sides together
+## Couper endroit contre endroit
 
 ![A pocket is marked on the bad side of a piece of double-folded denim, ready to be cut good sides together. After cutting both layers, this will yield two pockets that are mirror images of each other.](cutting-good-sides-together.jpg)
 
