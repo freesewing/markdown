@@ -8,4 +8,4 @@ Whatever value you provide here will simply be added to your chest circumference
 
 > ##### This option also allows negative values
 > 
-> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the **stretch** option.
+> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overall stretch should be configured with the **stretch** option.
