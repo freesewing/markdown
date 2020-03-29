@@ -1,20 +1,20 @@
 ---
-title: Pinning
+title: Épingler
 ---
 
 ![Sewing pins are part of the basic sewing supplies](sewing-pins.jpg)
 
 ![Fabric being pinned into place](fabric-pinning.jpg)
 
-Pinning is used whenever you use sewing pins to hold things in place.
+L'épinglage est utilisé chaque fois que vous utilisez des épingles (ou éventuellement des pinces) pour maintenir les choses en place.
 
-Examples of where pinning is commonly used are:
+Exemples où l'épinglage est couramment utilisé :
 
- - Pinning a seam in place before sewing it
- - Pinning an ornament, pocket, or other part in place before attaching it
- - Pinning darts or other pattern changes while fitting the garment on a model
+ - Épingler une couture en place avant de la coudre
+ - Épingler un ornement, une poche ou une autre pièce en place avant de l'assembler
+ - L'épinglage des pinces ou autres éléments qui peuvent changer lors de l'ajustement du vêtement sur un modèle
 
-Pinning is never permanent, but merely a temporary measure to hold things in place.
+L'épinglage n’est jamais permanent, mais simplement une mesure temporaire pour maintenir les choses en place.
 
 > Pinning and basting are different techniques for similar situations
 
