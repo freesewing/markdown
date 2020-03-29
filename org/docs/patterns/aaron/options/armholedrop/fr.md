@@ -1,5 +1,5 @@
-![The armhole drop option on Aaron](./armholedrop.svg)
+![L'option d'emmanchure sur Aaron](./armholedrop.svg)
 
-How much to lower the armhole below the default amount.
+De combien abaisser l'arrondi du bas de l'emmanchure par défaut.
 
-> This option also allows negative values. They will, obviously, raise the armhole by said amount.
+> Cette option permet également des valeurs négatives. Il va de soi que cela réduira la hauteur de l'emmanchure dans ce cas.
