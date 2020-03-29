@@ -1,5 +1,5 @@
-![The shoulder strap placement option on Aaron](./shoulderstrapplacement.svg)
+![L'option de placement des bretelles d'épaule sur Aaron](./shoulderstrapplacement.svg)
 
-Determines the position of the shoulder strap on the shoulder.
+Détermine la position des bretelles sur les épaules.
 
-> Lower values place the strap closer to the neck, whereas higher values place it closer to the shoulder.
+> Des valeurs plus basses rapprochent les bretelles du cou, tandis que des valeurs plus élevées les rapprochent des épaules.
