@@ -1,5 +1,5 @@
-![The length bonus option on Aaron](./lengthbonus.svg)
+![L'option pour rallonger le top Aaron](./lengthbonus.svg)
 
-How much longer than the default length to make your top.
+De combien vous souhaitez rallonger votre top.
 
-> This option allows negative values, which will shorten/crop the top.
+> Cette option permet des valeurs négatives, ce qui raccourcira/remontera le haut.
