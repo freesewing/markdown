@@ -10,4 +10,4 @@ As most, if not all, sewing machines can sew a zig-zag stitch, it's a popular al
 
 > Everyone's favourite encyclopedia has more on the zig-zag stitch: [Zigzag stitch on Wikipedia](http://en.wikipedia.org/wiki/Zigzag_stitch)
 
-> Picture by [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)
+> Photo par [Kristin Roach](https://www.flickr.com/photos/kristinroach/3161126359)

@@ -1,16 +1,16 @@
 ---
-title: Serger
+title: Surjeteuse
 ---
 
 ![The finished backside of a serged seam](serged-seam.jpg)
 
 ![My serger, a Bernina 700D](serger.jpg)
 
-A serger or overlock is a type of sewing machine that can both cut fabric and make a stretch lockstitch.
+Une surjeteuse est un type de machine à coudre qui peut à la fois couper le tissu, le surjeter et faire un point d'assemblage extensible.
 
-Sergers use multiple threads and needles to not only make the seam, but also lock the fabric. They are very often used with knit or other stretchy fabrics.
+Les surjeteuses utilisent plusieurs fils et aiguilles pour non seulement faire la couture, mais aussi surfiler le tissu. Elles sont très souvent utilisées pour les tissus maille ou autres tissus extensibles.
 
-> The term overlock is more common in Europe for a serger. However, I prefer to use serger as it avoids confusion between the very similar named overlock and coverlock machines.
+> Le terme "surjeteuse" est plus courant en Europe. Cependant il existe en anglais un abus de langage où Surjeteuse (serger) et Surfileuses (Overlock) sont confondues. En effet, la surfileuse ne fait que surfiler le tissu ; elle ne coupe pas et n'assemble pas les tissus. Cette dernière est surtout utilisée en milieu professionnel.
 > 
 > Further confusion is added by the fact that some sewing machines have an overlock stitch that mimics the role of a serger.
 > 

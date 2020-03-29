@@ -2,9 +2,9 @@
 title: Épingler
 ---
 
-![Sewing pins are part of the basic sewing supplies](sewing-pins.jpg)
+![Les épingles de couture font partie des fournitures de base en couture](sewing-pins.jpg)
 
-![Fabric being pinned into place](fabric-pinning.jpg)
+![Le tissu est maintenu par des épingles](fabric-pinning.jpg)
 
 L'épinglage est utilisé chaque fois que vous utilisez des épingles (ou éventuellement des pinces) pour maintenir les choses en place.
 
@@ -16,6 +16,6 @@ Exemples où l'épinglage est couramment utilisé :
 
 L'épinglage n’est jamais permanent, mais simplement une mesure temporaire pour maintenir les choses en place.
 
-> Pinning and basting are different techniques for similar situations
+> Le bâti et l'épinglage sont des techniques différentes pour des situations similaires
 
-> Pictures by [Kristin Roach](https://www.flickr.com/photos/marlana/113434148) and [Ed Platt](https://www.flickr.com/photos/philentropist/313403963)
+> Photos de [Kristin Roach](https://www.flickr.com/photos/marlana/113434148) et [Ed Platt](https://www.flickr.com/photos/philentropist/313403963)
