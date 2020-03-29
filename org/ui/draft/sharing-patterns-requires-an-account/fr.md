@@ -1,9 +1,9 @@
 ---
-title: Sharing your patterns requires a FreeSewing account
+title: Le partage de vos patrons nécessite un compte FreeSewing
 ---
 
-You can **export** your pattern to PDF, SVG, or other formats.
+Vous pouvez **exporter** votre patron vers PDF, SVG ou d'autres formats.
 
-To **share** your pattern with others and be able to retrieve it later, you need a FreeSewing account.
+Pour **partager** votre patron avec d'autres et être en mesure de le récupérer plus tard, vous avez besoin d'un compte FreeSewing.
 
-A FreeSewing account is free of charge, and [you can sign up here](/signup/).
+Un compte FreeSewing est gratuit et [vous pouvez vous inscrire ici](/signup/).

@@ -1,8 +1,8 @@
 ---
-title: Cutting
+title: Coupe
 ---
 
- - **Main fabric**
+ - **Tissu principal**
    - Cut the amount of **gores** the you selected in the pattern options
    - Cut **2 ear** parts
    - Cut **4 brim** parts

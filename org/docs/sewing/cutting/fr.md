@@ -1,12 +1,12 @@
 ---
 layout: onecol
-title: Cutting
+title: Coupe
 ---
 
-![Me cutting out some T-shirts](cutting.jpg)
+![Moi coupant un T-shirt](cutting.jpg)
 
-Cutting is the act of cutting out the different pattern pieces out of your fabric.
+La coupe est l'acte de couper les différentes pièces de votre tissu.
 
-Cutting is typically done with scissors or a rotary cutter.
+La coupe se fait généralement à l'aide de ciseaux ou d'un cutter rotatif.
 
-> The **cut of a garment**, the way it looks, refers to how it was cut out. For example, high-cut jeans and a low-cut top.
+> La **coupe d'un vêtement**, en quelque sorte, fait référence à la façon dont elle a été coupée. Par exemple, un jean à coupe haute.

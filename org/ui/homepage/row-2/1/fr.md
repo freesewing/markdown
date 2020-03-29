@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## Looking for our code?
+## Vous recherchez notre code ?
 
-Our [developer documentation](https://freesewing.dev) is hosted on [freesewing.dev](https://freesewing.dev). You'll find links to all our repositories there, as well as in-depth documentation, tutorials, and examples.
+Notre [documentation de développeur](https://freesewing.dev) est hébergée sur [freesewing.dev](https://freesewing.dev). Vous y trouverez des liens vers tous nos référentiels, ainsi que des documentations approfondies, des tutoriels et des exemples.

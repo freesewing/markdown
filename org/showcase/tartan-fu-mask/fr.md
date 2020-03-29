@@ -1,10 +1,10 @@
 ---
-date: 01-03-2020
+date: 2020-03-01
 title: Un masque Fu rouge et bleu
 img: showcase.jpg
 caption: Sorcha porte un masque écossais rouge et bleu Fu
 patterns:
-  - Fu
+  - fu
 author: joost
 ---
 

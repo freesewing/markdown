@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## Patterns you can share and adapt
+## Des patrons que vous pouvez partager et adapter
 
-FreeSewing patterns often have so many options that one pattern can yield a variety of styles. You can share your patterns with others so they can get the same style, drafted to their measurements.
+Les patrons FreeSewing ont souvent tellement d'options qu'un patron peut produire une variété de styles. Vous pouvez partager vos patrons avec les autres afin qu'ils puissent obtenir le même style, conçus à leurs mesures.

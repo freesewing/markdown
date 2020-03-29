@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## Packed with options plus live preview
+## Prévu avec plusieurs options plus un aperçu en direct
 
-FreeSewing patterns come with options that allow you to customize different aspects of the pattern. Our live preview means no surprises: what you see is what you get.
+Les patrons FreeSewing sont fournis avec des options qui vous permettent de personnaliser différents aspects du patron. Notre aperçu en direct signifie que vous n'aurez pas de surprises: ce que vous voyez est ce que vous obtiendrez.

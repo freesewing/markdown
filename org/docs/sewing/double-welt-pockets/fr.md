@@ -1,30 +1,30 @@
 ---
-title: Double welt pockets
+title: Poche passepoilée
 ---
 
-## Video
+## Vidéo
 <YouTube id='PL1gv5yv3DoZOFSXz7yydeV1H8m6pfwstn' playlist />
 
-## Learn welts with David Page Coffin
+## Apprenez les rabats avec David Page Coffin
 
-The November 2015 edition of [Seamwork Magazine](https://www.seamwork.com/) has a section called [Conquering the Welt](https://www.seamwork.com/issues/2015/11/conquering-the-welt) where David Page Coffin walks you through the construction of welt pockets.
+L'édition de novembre 2015 de [Seamwork Magazine](https://www.seamwork.com/) a une section appelée [A la conquête des rabats](https://www.seamwork.com/issues/2015/11/conquering-the-welt) où David Page Coffin vous guide à travers la construction de poches passepoilées.
 
-David has written various books on trouser and shirt construction, teaches online sewing classes, and hosts workshops throughout the US, and abroad.
+David a écrit plusieurs livres sur la construction de pantalons et de chemises, enseigne des cours de couture en ligne et organise des ateliers partout aux États-Unis et à l'étranger.
 
-David is a friend of the site, and by all measures much better at explaining this than I am.
+David est un ami du site, et est de loin bien mieux placé que moi pour vous expliquer cela.
 
-## Before you start
+## Avant de commencer
 
-### What you need
+### Ce dont vous avez besoin
 
-To make double welt pockets, you will need:
+Pour fabriquer une poche à doubles rabats (passepoilée), vous aurez besoin de :
 
- - Basic sewing supplies
- - The fabric or pattern piece you want to make the pocket in
- - Two fabric strips for the welts
- - A strip of interfacing
- - Lining or other suitable fabric for the pocket bag (See fabric and colour options)
- - Facing for the pocket bag, depending on your fabric and colour options
+ - Fourniture de base pour la couture
+ - Le tissu ou la pièce du patron dans lequel vous voulez faire la poche
+ - Deux bandes de tissu pour les rabats
+ - Une bande d'entoilage
+ - Doublure ou autre tissu adapté pour le fond de poche (Voir les options de tissu et de couleur)
+ - Tissu décoratif pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
 
 ### Parameters
 

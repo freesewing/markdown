@@ -1,5 +1,5 @@
 ---
-title: Sewing
+title: Couture
 ---
 
 <ReadMore root='docs/sewing' />

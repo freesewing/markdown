@@ -1,6 +1,6 @@
 - - -
 - - -
 
-## More questions?
+## Plus de questions ?
 
-Our [frequently asked questions](/docs/about/faq/) might have the answer you're looking for. If not, [join our chat room](https://gitter.im/freesewing/help) and we'll try to help you there.
+Notre [Foire Aux Questions](/docs/about/faq/) peut avoir la réponse que vous recherchez. Sinon, [rejoignez-nous dans notre salon de discussion](https://gitter.im/freesewing/help) et nous ferons notre possible pour vous aider.

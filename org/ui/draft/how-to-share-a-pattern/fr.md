@@ -1,5 +1,5 @@
 ---
-title: Share this pattern with others
+title: Partager ce modèle avec d'autres
 ---
 
-With the link above, anyone can re-create this exact same pattern adjusted to their own measurements.
+Avec le lien ci-dessus, n'importe qui peut recréer exactement ce même modèle ajusté à ses propres mesures.

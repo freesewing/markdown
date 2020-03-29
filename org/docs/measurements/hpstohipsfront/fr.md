@@ -1,18 +1,16 @@
 ---
-title: HPS to hips front
+title: Longueur devant depuis l'épaule
 ---
 
 <Note>
 
-###### HPS: high point shoulder
-
-The *high point shoulder* or *HPS* point is used as the base for several vertical measurements.
-Refer to [the hps documentation](/docs/measurements/hps/) for information on how to locate this point.
+###### Le Point Haut de l’Épaule ou PHE est utilisé comme base pour plusieurs mesures verticales.
+Reportez-vous à la [documentation PHE](/docs/measurements/hps/) pour savoir comment localiser ce point.
 
 </Note>
 
-The **high point shoulder (HPS) to hips front** measurement runs from your HPS down to your hipline across the front of your body.
+La mesure de la **longueur du devant depuis l'épaule** se fait verticalement du point le plus haut de l'épaule (PHE) jusqu'à l'avant de la ligne qui forme votre tour de hanches.
 
-Tp measure your HPS to hips front, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your hipline, which is the line between the top of your hip bones, across the front of your body.
+Pour mesurer votre longueur de devant depuis l'épaule, il faut d'abord [localiser votre point du haut d'épaule (PHE)](/docs/measurements/hps/). Mesurez ensuite tout droit jusqu'à votre ligne de hanches, qui est la ligne entre le haut de vos os de hanche, à l'avant de votre corps.
 
-The point of this measurement is to measure the length of your torso, and specifically how much it differs from the back (where there's no breasts to go around).  
+Le but de cette mensuration est de mesurer la longueur de votre torse, et en particulier à quel point il diffère de l'arrière (où il n'y a pas de seins par-dessus lesquels passer).  
