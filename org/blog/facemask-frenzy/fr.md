@@ -12,7 +12,7 @@ author: joost
 **S'il vous plaît, faites des masques pour les professionnels de santé**
 
 
- -Patron PDF pour nos masques Fu:
+ - Patron PDF pour nos masques Fu:
    - [patron du masque format A4](/fu-facemask-freesewing.org.a4.fr.pdf)
    - [patron du masque format Lettre](/fu-facemask-freesewing.org.letter.fr.pdf)
  - [Instructions pour la réalisation du masque](/docs/patterns/fu/instructions/)
