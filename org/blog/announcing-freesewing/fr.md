@@ -41,7 +41,7 @@ L'enthousiasme des débuts et les contributions de [@diggydev](https://github.co
 
 Merci à [@annekecaramin](https://twitter.com/annekecaramin) d'avoir conçu un logo suffisamment cool pour le mettre sur un Tshirt.
 
-Special thanks to [@scorchtorch](https://twitter.com/scorchtorch) for being the best at that heart/salad/antlers thing.
+Remerciements spéciaux à [@scorchtorch](https://twitter.com/scorchtorch) pour être le meilleur en cœur/salade/ramure.
 
 Et enfin, ce projet n'existerait pas sans les utilisateurs, les supporters et les donateurs de [makemypattern.com](https://makemypattern.com/).
 
