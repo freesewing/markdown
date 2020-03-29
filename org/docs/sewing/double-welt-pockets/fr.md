@@ -69,7 +69,7 @@ Pour notre exemple :
 
 The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
 
-### Optional: Pocket facing
+### Optionnel: décoration intérieure de poche
 
 The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
 
