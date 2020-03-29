@@ -3,7 +3,7 @@ date: 2020-03-19
 title: "Appel à tous : voici un patron de masque facial PDF en 1 page ; maintenant, fabriquez-en quelques uns et aidez à vaincre cette chose"
 linktitle: "La frénésie des masques"
 img: diana.jpg
-caption: "Dr Dragnea, hôpital universitaire d'Anvers, portant le masque facial Fu. Dr Dragnea, hôpital universitaire d'Anvers, portant le masque facial Fu"
+caption: "Dr. Dragnea, hôpital universitaire d'Anvers, portant le masque facial Fu"
 author: joost
 ---
 
