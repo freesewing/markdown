@@ -1,6 +1,3 @@
----
----
-
 #### COVID-19: Facemask pattern
               
 If you're here looking for a facemask pattern, this is the link you're looking for:

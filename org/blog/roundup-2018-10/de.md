@@ -1,7 +1,7 @@
 ---
 author: joost
 caption: Your login background for November
-date: 2018-11-30T00:00:00.000Z
+date: 2018-11-30
 img: leaves.jpg
 linktitle: Monthly roundup; October 2018 edition
 title: "Monthly roundup - October 2018: Progress on beta.freesewing.org"

@@ -1,5 +1,5 @@
 ---
-date: 24-03-2017
+date: 2017-03-24
 title: "Freesewing est une plate-forme open source pour des patrons de couture sur mesure"
 linktitle: "Annonce de Freesewing"
 img: "logo.jpg"

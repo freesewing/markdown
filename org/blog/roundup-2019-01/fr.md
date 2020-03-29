@@ -1,7 +1,7 @@
 ---
 author: joost
 caption: Your login background for February
-date: 2019-01-31T00:00:00.000Z
+date: 2019-01-31
 img: potm.jpg
 linktitle: Monthly roundup; January 2019 edition
 title: "Monthly roundup - January 2019: The big beta update"

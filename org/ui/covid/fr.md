@@ -1,6 +1,3 @@
-- - -
-- - -
-
 #### COVID-19 : Patron de masque
 
 Si vous êtes ici à la recherche d'un patron de masque, voici le lien que vous cherchez :

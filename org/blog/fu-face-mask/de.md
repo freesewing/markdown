@@ -1,5 +1,5 @@
 ---
-date: 28.02.2020
+date: 2020-02-28
 title: Wir haben gerade ein Gesichtsmaskenmuster wegen des Coronavirus veröffentlicht
 linktitle: "Fu-Gesichtsschutzmaske"
 img: drops.jpg

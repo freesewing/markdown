@@ -1,7 +1,7 @@
 ---
 author: joost
 caption: Your login background for December
-date: 2018-11-30T00:00:00.000Z
+date: 2018-11-30
 img: potm.jpg
 linktitle: Monthly roundup; November 2018 edition
 title: "Monthly roundup - November 2018: New showcases and a (false) security alarm"

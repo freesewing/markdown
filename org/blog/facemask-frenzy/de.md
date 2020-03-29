@@ -1,5 +1,5 @@
 ---
-date: 19.03.2020
+date: 2020-03-19
 title: "Aufruf an alle Macher: Hier ist ein 1-seitiges PDF-Gesichtsmasken-Muster; Jetzt gehen Sie und machen Sie welche und helfen Sie, dieses Ding zu schlagen"
 linktitle: "Gesichtsmasken Frenzy"
 img: diana.jpg
