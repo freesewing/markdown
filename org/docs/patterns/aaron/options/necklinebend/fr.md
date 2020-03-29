@@ -1,5 +1,5 @@
-![The neckline shape option on Aaron](./necklinebend.svg)
+![L'option de forme d'encolure sur Aaron](./necklinebend.svg)
 
-Determines the bend of the front of the neck opening.
+Détermine la courbure l'encolure à l'avant.
 
-> Higher values bend the neck opening more, resulting in a more squarish neck opening.
+> Des valeurs plus élevées courbent davantage l'encolure sur l'avant, entraînant une encolure plus arrondie.
