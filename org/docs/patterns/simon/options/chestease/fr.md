@@ -1,3 +1,3 @@
 ![Chest ease](chestease.svg)
 
-How much room do you want at the chest?
+Combien d'aisance voulez-vous pour le buste ?

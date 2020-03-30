@@ -2,7 +2,7 @@
 title: Tableau des tailles
 ---
 
-importer le Tableau des tailles à partir de '../../../../../src/components/size-table'
+import SizingTable from '../../../../../src/components/size-table'
 
 <Note>
 

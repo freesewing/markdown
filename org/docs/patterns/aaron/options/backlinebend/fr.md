@@ -1,5 +1,5 @@
-![The back armhole shape option on Aaron](./backlinebend.svg)
+![L'option d'échancrure du dos en option sur Aaron](./backlinebend.svg)
 
-Determines the bend of the armhole at the back. In other words, the amount the arm opening is cut-out on your back.
+Détermine la courbure de l'emmanchure à l'arrière. En d'autres termes, il s'agit de combien augmenter l'échancrure des emmanchures sur le dos.
 
-> Higher values bend the armhole more, resulting in a more raceback-style top.
+> Des valeurs plus élevées courbent davantage les emmanchures, ce qui donne plus un style de dos nageur.

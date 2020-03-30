@@ -1,13 +1,13 @@
 ---
-title: Topstitching
+title: Surpiqûre
 ---
 
-![I used plenty of topstitching in a contrasting red thread on these jeans for my godson Akki](topstitching.jpg)
+![J'ai utilisé beaucoup de surpiqûres dans un fil rouge contrastant sur ce jean pour mon godson Akki](topstitching.jpg)
 
-![Topstitching needles from Schmetz](topstitch-needles.jpg)
+![Aiguilles de surpiqûre de Schmetz](topstitch-needles.jpg)
 
-Topstitching is when you sew with the good side of the fabric up and your stitches are visible on the finished garments.
+Le surpiqûre c'est lorsque vous cousez sur l'endroit du tissu et que vos points sont visibles sur les vêtements finis.
 
-While a decorative feature, topstitching can also play a role in garment construction.
+Tout en étant décorative, le surpiqûre peut également jouer un rôle dans la construction de vêtements.
 
-> You can buy specific sewing needles that are optimised for topstitching
+> Vous pouvez acheter des aiguilles de couture spécifiques qui sont optimisées pour la surpiqûre

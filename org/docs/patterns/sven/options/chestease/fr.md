@@ -1,3 +1,3 @@
 ![Chest ease](chestease.svg)
 
-How much room do you want at the chest? Whatever value you provide here will simply be added to your chest circumference measurement when drafting the garment.
+Combien d'aisance voulez-vous pour le buste ? Quelle que soit la valeur que vous choisissez, la valeur sera simplement ajoutée à votre mesure de tour de poitrine lors de la génération du patron.

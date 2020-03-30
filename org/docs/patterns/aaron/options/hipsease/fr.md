@@ -1,9 +1,9 @@
-![The hips ease option on Aaron](./hipsease.svg)
+![L'option d'aisance des hanches sur Aaron](./hipsease.svg)
 
-How much room do you want at the hips?
+Combien d'aisance voulez-vous pour les hanches ?
 
-Whatever value you provide here will simply be added to your hips circumference measurement when drafting the garment.
+Quelle que soit la valeur que vous choisissez, la valeur sera simplement ajoutée à votre mesure de tour de hanches lors de la génération du patron.
 
-> ##### This option also allows negative values.
+> ##### Cette option permet également des valeurs négatives.
 > 
-> You should only use negative ease if you are using a stretch material that you want to fit tightly. Overal stretch should be configured with the stretch option.
+> Vous ne devriez utiliser d'aisance négative que si vous utilisez un tissu très extensible que vous voulez bien ajuster. Le taux d'élasticité général doit être configuré avec l'option du taux d'élasticité.

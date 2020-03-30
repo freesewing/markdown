@@ -144,7 +144,7 @@ Une fois de plus, vous devrez étirer un peu votre biais en faisant cela. Mais c
 
 <Note>
 
-##### Méfiez-vous des différences d'avancement
+##### Méfiez-vous des différences d'entraînement
 En passant votre biais sous votre machine à coudre, les griffes d'entraînement tirent davantage la couche inférieure (arrière de votre biais). 
 
 Dans un monde parfait, toutes les épaisseurs suivent sans problème. 

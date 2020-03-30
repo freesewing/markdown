@@ -1,5 +1,5 @@
-![The neckline drop option on Aaron](./necklinedrop.svg)
+![L'option d'abaissement d'encolure sur Aaron](./necklinedrop.svg)
 
-Determines how much to lower the neckline of the top beyond the default.
+Détermine de combien abaisser l'encolure par rapport à la valeur par défaut.
 
-> Higher values lower the neckline further, resulting in more exposed skin.
+> Des valeurs plus élevées abaissent davantage l'encolure, ce qui a pour effet de rendre la peau plus exposée.
