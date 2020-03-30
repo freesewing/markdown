@@ -1,7 +1,7 @@
 ---
 author: joost
 caption: Your login background for October
-date: 2018-09-30
+date: 2018-09-30T00:00:00.000Z
 img: leaves.jpg
 linktitle: Monthly roundup; September 2018 edition
 title: "Monthly roundup - September 2018: Shin, loads of JavaScript, and a long TODO list"
