@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Get started in seconds
 

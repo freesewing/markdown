@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Prévu avec plusieurs options plus un aperçu en direct
 

@@ -41,3 +41,11 @@ sed -i 's/<example/<Example/' **/**/**/**/*.md
 sed -i 's/<example/<Example/' **/**/**/**/**/*.md
 sed -i 's/<example/<Example/' **/**/**/**/**/**/*.md
 sed -i 's/<example/<Example/' **/**/**/**/**/**/***.md
+
+# Fix frontmatter dashes
+sed -i '/- - -/c\' **/**/*.md
+sed -i '/- - -/c\' **/**/**/*.md
+sed -i '/- - -/c\' **/**/**/**/*.md
+sed -i '/- - -/c\' **/**/**/**/**/*.md
+sed -i '/- - -/c\' **/**/**/**/**/**/*.md
+sed -i '/- - -/c\' **/**/**/**/**/**/***.md

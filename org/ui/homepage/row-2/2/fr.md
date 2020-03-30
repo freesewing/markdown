@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Vous souhaitez nous aider ?
 
