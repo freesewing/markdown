@@ -1,79 +1,79 @@
 ---
 date: 2018-08-25
-title: "Celebrating one year of freesewing.org: Announcing the freesewing library"
-linktitle: "Announcing the freesewing library"
+title: "Het eerste verjaardagsfeestje van FreeSewing.org, en de nieuwe FreeSewing-bibliotheek"
+linktitle: "De nieuwe FreeSewing-bibliotheek"
 img: uncork.jpg
-caption: "I don't drink, but this seemed appropriate for a celebration post ¯\_(ツ)_/¯"
+caption: "Ik drink niet, maar dit leek me gepast voor een feestpost ¯\_(ツ)_/¯"
 author: joost
 ---
 
-Exactly one year ago, the doors of freesewing.org swung open for our users, while those of makemypattern.com get one of those *we've moved* signs.
+Precies een jaar geleden zwaaiden de deuren van FreeSewing.org open voor onze gebruikers. Op die van MakeMyPattern.com plakten we van die *We zijn verhuisd*-bordjes.
 
-Looking back at [that blog post from 12 months ago](/blog/open-for-business), it almost beggars belief that the things announced then are only one year old. The concept of a draft, the comparison functionality, or even paperless patterns. They all celebrate their first birthday today.
+Als ik terugkijk naar [die blogpost van 12 maanden geleden](/blog/open-for-business), kan ik bijna niet geloven dat de dingen die ik toen aankondigde, nu nog maar een jaar oud zijn. Het concept van een schets, de vergelijkingsfunctie, papierloze patronen zelfs ... Ze vieren vandaag allemaal hun eerste verjaardag.
 
-Not this site though, because [driven by the looming GDPR deadline](/blog/gdpr-plan), we dumped our Jekyll based site for a new front end sometime in May.
+Maar deze site niet. Want [omwille van de naderende GDPR-deadline](/blog/gdpr-plan) hebben we onze Jekyll-site gedumpt voor een nieuwe front-end in de loop van mei.
 
-## More languages with less languages
+## Meer talen met minder talen
 
-GDPR was only part of that story. Other reasons for the rewrite were our desire to support multiple languages, and to simplify our technology stack.
+GDPR was maar een deel van dat verhaal. Er waren meer redenen voor die rewrite: we wilden meerdere talen kunnen ondersteunen en onze technology stack vereenvoudigen.
 
-In other words, we wanted to reach people who speak different languages, and wanted to limit the number of programming languages required to do so.
+Met andere woorden, we wilden mensen bereiken die verschillende talen spreken, en we wilden het aantal programmeertalen dat we daarvoor nodig hadden, beperken.
 
-### More natural languages
+### Meer natuurlijke talen
 
-We've done remarkably well on this front. While you won't find every last bit of content translated, this website's main features are now available in five languages:
+Op dit vlak hebben we het echt goed gedaan. Je vindt hier niet elk morzeltje content in alle verschillende talen. Maar de belangrijkste functies van de website zijn nu wel beschikbaar in vijf talen:
 
- - English
- - German
- - Spanish
- - French
- - Dutch
+ - Engels
+ - Duits
+ - Spaans
+ - Frans
+ - Nederlands
 
-Which really is 100% thanks to the great work of [our wonderful translators](/i18n/).
+En dat hebben we echt voor 100% te danken aan het sterke werk van [onze geweldige vertalers](/i18n/).
 
-### Less programming languages
+### Minder programmeertalen
 
-The switch from [Jekyll]() to a [Nuxt](https://nuxtjs.org/)-based front-end has removed [Ruby](https://www.ruby-lang.org/) from our technology stack. Freesewing.org now runs on JavaScript, PHP and a little bit of C (which we'll ignore for now).
+De overstap van [Jekyll](https://jekyllrb.com/) naar een op [Nuxt](https://nuxtjs.org/) gebaseerde fonrt-end heeft [Ruby](https://www.ruby-lang.org/) uit onze technology stack geschrapt. FreeSewing.org loopt nu op JavaScript, PHP en een klein beetje C. Dat laatste negeren we voorlopig.
 
-But removing programming languages is not a goal *an sich*. Rather, the underlying ambition is to simplify things, make it easier for people to get involved, and ultimately attract more contributors so that the project can grow and flourish.
+Maar programmeertalen verwijderen is geen doel op zich. De onderliggende ambitie is om dingen te vereenvoudigen en het zo gemakkelijker te maken voor anderen om betrokken te raken. Uiteindelijk willen we meer bijdragers aantrekken zodat het project kan groeien en bloeien.
 
-Today, designing/developing patterns is not an insurmountable obstacle. We've got [benjamin](/patterns/benjamin), [florent](/patterns/florent), and [sandy](/patterns/sandy) to show for it. All of these were contributed by people for whom freesewing was initially new, they went through the design tutorial, and in the end created a pattern of their own.
+Patronen ontwerpen en developen is vandaag geen onoverkomelijk obstakel. We hebben [Benjamin](/patterns/benjamin), [Florent](/patterns/florent) en [Sandy](/patterns/sandy) om dat te bewijzen. Die zijn allemaal bijgedragen door mensen voor wie FreeSewing in eerste instantie nieuw was. Ze hebben de ontwerptutorial gevolgd en uiteindelijk hun eigen patroon gemaakt.
 
-We'd like more people to follow in their footsteps. So making the process as simple as possible is a worthy investment of our time.
+We zouden graag meer mensen in hun voetstappen zien volgen. Dus was het een goede investering van onze tijd om het proces zo eenvoudig mogelijk te maken.
 
-## Announcing freesewing, the library
+## De FreeSewing-bibliotheek
 
-For the past 2 months, I have taken time off from pattern making and sewing to tackle our [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
+De afgelopen twee maanden heb ik het patroontekenen even op pauze gezet om onze [technische schuld](https://en.wikipedia.org/wiki/Technical_debt) aan te pakken.
 
-Specifically, I've set out to rewrite our core back-end from the ground up in JavaScript. But there's a twist. It's no longer a back-end. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
+Meer specifiek ben ik begonnen met de back-end in core van nul af aan te herschrijven in JavaScript. Maar hier komt de plotwending. Het is geen back-end meer. Het is voortaan een bibliotheek die je kan gebruiken in je browser of op de server met [node.js](https://nodejs.org/).
 
-It is currently in version 0.10, and feature complete with freesewing core. It's [available on GitHub](https://github.com/freesewing/freesewing) and [NPM](https://www.npmjs.com/package/freesewing), and is fully documented at [developer.freesewing.org](https://developer.freesewing.org/).
+Dit zit momenteel in versie 0.10 en heeft alle functies van FreeSewing core. Je kan de bibliotheek vinden op [GitHub](https://github.com/freesewing/freesewing) en [NPM](https://www.npmjs.com/package/freesewing). Hij is volledig gedocumenteerd op [developer.freesewing.org](https://developer.freesewing.org/).
 
-And while its API is richer than core's, it's footprint is actually a lot smaller:
+De API is rijker dan die van core. En toch heeft het een veel kleinere voetafdruk:
 
-![Lines of code comparison between the new library and (the relevant portion of) freesewing core](corevsfreesewing.svg)
+![Vergelijking van de code tussen de nieuwe bibliotheek en (relevante delen van) de FreeSewing-core](corevsfreesewing.svg)
 
-Which is good news, in case you were wondering.
+Als je nog niet zeker was: dat is goed nieuws.
 
-## What happens next?
+## Wat gebeurt er nu?
 
-A lot of work needs to be done before we can actually use this on freesewing.org:
+We hebben nog veel werk voordat we dit ook echt kunnen gebruiken op FreeSewing.org:
 
 
- - All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
- - Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
- - Build a new website using the freesewing library and our new data back-end.
+ - Al onze bestaande patronen moeten geëxporteerd worden naar de JS-versie. [Brian](https://github.com/freesewing/brian) was het eerste patroon waarmee we dat al gedaan hebben.
+ - Dat gaat de PHP-programmeertaal uit onze stack verwijderen. Dus moeten we de data in onze back-end herschrijven in JS.
+ - We moeten een nieuwe website bouwen aan de hand van de FreeSewing-bibliotheek en onze data back-end.
 
-This really is a lot of work, and while I hope that by the end of the year we'll have made good progress, I can't promise it will be done.
+Dat is echt veel werk. Ik hoop dat we al een heel eind verder staan aan het einde van dit jaar, maar ik durf niet te beloven dat het helemaal klaar zal zijn.
 
-## But I just want patterns
+## Maar ik wil gewoon patronen
 
-Chances are, all you care about is patterns. What you want is more patterns, better patterns, different patterns. And all of this rewriting is not exactly pushing your buttons.
+De kans is groot dat je eigenlijk alleen om de patronen geeft. Je wil meer patronen, betere patronen, andere patronen. En al dit gedoe over herschrijven doet het niet echt voor jou.
 
-I get that. I really do. I for one have a list of patterns I'd like to see added to the site. And my work on other aspects of the project keeps me from adding them.
+Ik snap het. Echt. Ik heb zelf een hele lijst van patronen die ik graag op onze website zou hebben. En terwijl ik met andere aspecten van het project bezig ben, heb ik geen tijd om die patronen toe te voegen.
 
-But I believe that investing now in a streamlined developer experience will have a knock-on effect in the long term.
+Maar ik geloof dat als we nu investeren in een gestroomlijnde development-ervaring, we daar op de lange termijn de vruchten van gaan plukken.
 
-If we want a few extra patterns, this is not the right approach. But if we want a lot more patterns, I believe it is.
+Als we een paar extra patronen willen, dan is dit niet de juiste aanpak. Maar als we véél meer patronen willen, dan is het dat volgens mij wel.
 
-And I want a lot more patterns.
+En ik wil veel meer patronen.
