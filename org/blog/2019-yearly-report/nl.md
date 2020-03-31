@@ -1,48 +1,48 @@
 ---
 date: 2019-12-10
-title: 4109 reasons to be happy about 2019
-linktitle: "2019 yearly report"
+title: 4109 redenen om tevreden te zijn met 2019
+linktitle: "Jaarlijks verslag 2019"
 img: cover.jpg
-caption: "Close-up of a dandelion against a pink background"
+caption: "Close-up van een paardebloem op een roze achtergrond"
 author: joost
 ---
 
-Wow! What a year it's been for FreeSewing. In August we released version 2.0 which was nothing less than a complete rewrite of our entire technology stack. For our users, the most obvious change is that you get to see your pattern adapt live in your browser as you tweak options and preferences. It's one of those things that I knew should be possible with the state of web technology today, yet seeing it actually happen still boggles my mind somehow.
+Wow! Wat een jaar voor FreeSewing. In augustus hebben we versie 2.0 gelanceerd, en dat was niet minder dan een complete herwerking van onze hele technology stack. De meest opvallende verandering voor onze gebruikers is dat je het patroon live ziet veranderen in je browser wanneer je opties en voorkeuren aanpast. Het is een van die dingen waarvan ik wist dat ze mogelijk moesten zijn met de webtechnologie van vandaag. Maar het zien gebeuren is op de één of andere manier nog altijd ongelooflijk voor mij.
 
-## Scaling is hard, but we made remarkable progress
+## Schalen is moeilijk, maar we hebben mooie vooruitgang geboekt
 
-Cool as our new technoglogy stack is, it is not the most important work we've done over the last year. Yes, it's pretty neat, and yes it's only possible because of the work done on 2.0. But that work itself is what matters most. The main reason for the 2.0 rewrite was to allow the project to scale horizontally. Or to put it bluntly, to allow FreeSewing to go where I could not carry it on my own.
+Hoe cool onze nieuwe technology stack ook is, het is niet het belangrijkste dat we in het afgelopen jaar hebben gedaan. Ja, het is best netjes, en ja, het zou niet mogelijk geweest zijn zonder al het werk aan versie 2.0. Maar het is juist dat werk dat er het meeste toe doet. De belangrijkste reden voor het herschrijven voor versie 2.0, is dat we ons project horizontaal willen schalen. Of, simpel gezegd, om FreeSewing te laten voortgaan voorbij wat ik zelf kon dragen.
 
-In a way, FreeSewing has grown up as a (software) project. We have several people making regular contributions, [an active chat room](https://gitter.im/freesewing/chat), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+In zekere zin is FreeSewing volwassen geworden als (software)project. We hebben een heel aantal mensen die regelmatige bijdragen leveren, [een actieve chatroom](https://gitter.im/freesewing/chat), [een toegewijde website voor development- en vertaaldocumentatie](https://freesewing.dev) en een waaier aan [packages die we op NPM publiceren](https://www.npmjs.com/search?q=keywords:freesewing). We hebben oplossingen en verbeteringen geïmplementeerd om de software waarvan we afhankelijk zijn, te 'upstreamen'. En er zijn nu ook andere mensen en teams die afhangen van de packages die we uitbrengen.
 
-We (currently) have [23 patterns available](/patterns/), we publish 62 packages on NPM (the Node.js package registry). Since putting out version 2.0, on average 450 people sign up every month, and our total tally currently stands above 15.000.
+We stellen (op dit moment) [23 patronen ter beschikking](/patterns/) en hebben 26 packages op NPM (het Node.js package-register). Sinds we versie 2.0 uitgebracht hebben, worden gemiddeld 450 mensen per maand lid. De teller staat nu op meer dan 15.000.
 
-## Translation has never been easier
+## Vertaling is nog nooit zo gemakkelijk geweest
 
-Since v2, we've also switched to [Crowdin](https://crowdin.com) for [our translations](https://freesewing.dev/guides/translator/). Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
+Sinds v2 zijn we ook overgeschakeld op [Crowdin](https://crowdin.com) voor [onze vertalingen](https://freesewing.dev/guides/translator/). Vertaling is misschien wel de beste manier om toegang tot ons platform te democratiseren. Ik wil graag de mensen erkennen die hebben geholpen en blijven helpen bij deze inspanningen.
 
-It's perhaps also a good time to point out that you too can help with this. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+Dit is misschien een goed moment om te vermelden dat jij hier ook bij kan helpen. Onze [documentatie voor vertalers](https://freesewing.dev/guides/translator/) is een goede plek om te beginnen. Of passeer eens langs [onze chatroom voor vertaling](https://gitter.im/freesewing/translation).
 
-## What we're planning for next year
+## Wat we van plan zijn voor volgend jaar
 
-Our next year plans roughly fall apart into two categories: improving our platform, and adding more patterns.
+Onze plannen voor volgend jaar horen ruwweg thuis in twee categorieën: ons platform verbeteren en meer patronen toevoegen.
 
-As the project grows, so does the amount of work required to keep everything running smoothly. We still have more performance improvements to do, as well as auxiliary tasks such as writing more tests so we can go ahead and change things with confidence, rather than risk that rolling out a new feature causes bugs down the line.
+Hoe groter het project wordt, hoe meer werk er ook bij komt kijken om alles vlot te laten draaien. We hebben nog heel wat prestatieverbeteringen te doen, net als allerlei bijkomende taken. Tests uitschrijven bijvoorbeeld, zodat we met meer zekerheid veranderingen kunnen implementeren in plaats van nieuwe functies uit te rollen waar later bugs in blijken te zitten.
 
-We also know there is a lot of room for improvement of the user experience (UX), as well as design and user interface (UI). We've been doing the best we can, but it's not really our field of expertise, and we're hoping to find more contributors who can help us in this regard.
+We weten ook dat er nog veel ruimte voor verbetering is in de user experience (UX), het design en de user interface (UI). We doen ons best, maar het is nu eenmaal niet echt onze expertise. We hopen dat we nog helpende handen kunnen vinden op dat vlak.
 
-## v2.2 will include a ladies bodice block
+## In v2.2 zit een damescorsage
 
-But hey, you want more patterns, right? So rest assured that that's high on our todo list. We are going to apply some affirmative action towards the ladies who have so far been under-served. Not only by making existing patterns available to them (as we did recently with Simone, a ladies version of our Simon pattern) but also by developing a dedicated ladies block to develop patterns on.
+Maar hé, jij wil gewoon meer patronen, toch? Wees gerust: dat staat bovenaan ons lijstje. We gaan wat positieve discriminatie toepassen, want de dames zijn tot nu toe op hun honger blijven zitten. We gaan niet alleen bestaande patronen beschikbaar maken voor dames (zoals we onlangs gedaan hebben met Simone, een damesversie van ons Simonpatroon) maar ook een basiscorsage ontwikkelen waarop we straks kunnen voortbouwen met meer damespatronen.
 
-We have earmarked this as a must-have for FreeSewing v2.2, which we hope to be able to release sometime in January.
+We hebben dit aangevinkt als een must-have voor FreeSewing v2.2, dat we hopelijk ergens in januari kunnen lanceren.
 
-We're also looking at ways to get more designers on board with FreeSewing. One plan on the drawing board is to offer pair-programming sessions to designers where they walk us through their vision, and we implement their design in FreeSewing. We're even thinking of live-streaming these sessions so anybody who is interested can drop by and follow along.
+We zijn ook op zoek naar manieren om meer ontwerpers te betrekken bij FreeSewing. Een van de plannen die op tafel liggen, is om in duoprogrammering te werken met ontwerpers. Zij leggen ons hun visie uit tot in de details, en wij zetten hun design om in een FreeSewing-patroon. We overwegen zelfs om die sessies live te streamen. Zo kan iedereen die interesse heeft, meekijken en -volgen.
 
-## 'Tis the season for giving
+## Het is cadeautjesseizoen
 
-Thanks to our awesome patrons, revenue was up this year too. As you may or may not know, FreeSewing donates 100% of its revenue to Médecins Sans Frontières/Doctors Without Borders. So this morning, I had the great honour to write a 4109.38€ cheque to [MSF](https://www.msf.org/).
+Met dank aan onze fantastische patrons, zijn ook onze inkomsten dit jaar toegenomen. Zoals je weet – of niet weet – doneert FreeSewing 100% van alle inkomsten aan Artsen Zonder Grenzen/Médecins Sans Frontières. Vanmorgen heb ik dus de eer gehad om een cheque van 4109,38 euro uit te schrijven aan [MSF](https://www.msf.org/).
 
-That felt **real good** so thanks to [all our patrons](/patrons) for their continued support. If you'd like to join this awesome group of people, [you can do so here](/patrons/join).
+Dat voelde **fantastisch**. Dus dank je wel aan [al onze patrons](/patrons) voor hun voortdurende steun. Als je graag deel zou uitmaken van deze groep van topmensen, [dan kan dat hier](/patrons/join).
 
 
