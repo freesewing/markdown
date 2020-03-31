@@ -1,48 +1,48 @@
 ---
 date: 2017-03-24
-title: "Announcing freesewing, an open source platform for made-to-measure sewing patterns"
-linktitle: "Announcing freesewing"
+title: "Welkom op FreeSewing, een open-sourceplatform voor naaipatronen op maat"
+linktitle: "Welkom op FreeSewing"
 img: "logo.jpg"
-caption: "The freesewing logo"
+caption: "Het FreeSewing-logo"
 author: joost
 ---
 
-I am are proud to announce [freesewing core v1.0.0](https://github.com/freesewing/core) and the accompanying [documentation](/docs) that describes the freesewing project in detail.
+Ik ben heel trots om jullie voor te stellen aan [FreeSewing kernversie 1.0.0](https://github.com/freesewing/core) en de bijhorende [documentatie](/docs) die het FreeSewing-project in detail beschrijft.
 
-But I'm also realistic, and understand that you don't have time to plow through pages upon pages of documentation.
+Maar ik ben ook realistisch. Ik snap dat je wellicht geen tijd hebt om door pagina's en pagina's documentatie te waden.
 
-So instead, here's a story to give you the essence of freesewing in a nutshell:
+Dus in plaats daarvan is dit de essentie van FreeSewing in een notendop:
 
-## The freesewing origin story
-Sewing is easy. It really is. What's hard is getting things to fit properly. That's why you use a sewing pattern. It's a blueprint for whatever it is you are making. A good pattern gives you good fit. Most patterns don't.
+## Hoe het voor FreeSewing allemaal begonnen is
+Naaien is gemakkelijk. Echt. Het moeilijk is om alles zo te krijgen, dat het ook goed past. Daarom gebruik je een naaipatroon. Dat is een blauwdruk van het stuk dat je maakt. Een goed patroon leidt tot een goede pasvorm. De meeste patronen doen dat niet.
 
-That's because &mdash; much like clothes in the shop &mdash; patterns come in sizes. And sizes are a crude way to put people in boxes. They are made for an imaginary average person, rather than for you.
+Dat komt doordat naaipatronen &mdash; net zoals kleren in de winkel &mdash; in verschillende maten worden gemaakt. Een maten zijn een ruwe manier om mensen in hokjes te stoppen. Ze zijn bedacht voor een gemiddelde persoon die niet echt bestaat. Niet voor jou.
 
-There's another way, and that is to draft a pattern based on your measurements. These made-to-measure patterns are vastly superior, but they require a lot of work.
+Er is een andere manier om het aan te pakken, en da tis om een patroon uit te tekenen op basis van jouw maten. Zulke patronen op maat zijn veel beter, maar er kruipt veel werk in.
 
-I wanted to change that, and that effort evolved into [MakeMyPattern.com](https://makemypattern.com/). I ran that site for a number of years, and it was a remarkable success. Probably helped by the fact that I gave away all patterns for free.
+Dat wilde ik veranderen, en dat plan mondde uit in [MakeMyPattern.com](https://makemypattern.com/). Ik zat een aantal jaar achter die website, en het was een behoorlijk succes. Waarschijnlijk heeft het wel geholpen dat ik alle patronen gratis weggaf.
 
-In the world of home sewing, it tends to require a bit of explaining why one would choose to give away their work for free. Things are different in the open source world where the idea of sharing your work with others for the benefit of all is the very thread from which communities are woven.
+In de hobbynaaiwereld vergt het meestal wel wat tekst en uitleg waarom je ervoor zou kiezen om je harde werk gratis weg te geven. In de open-sourcewereld ligt dat anders. Daar zijn hele gemeenschappen gebaseerd op de gedachte dat je jouw werk deelt met anderen zodat het iedereen ten goede komt.
 
-While I can't magically bring the culture of open source to sewing patterns, I certainly can bring sewing patterns into the open source world.
+Ik kan niet magisch de cultuur van open source overzetten naar naaipatronen. Maar ik kan naaipatronen wel introduceren in de open-sourcewereld.
 
-[Freesewing.org](https://freesewing.org/) will continue to offer what [Makemypattern.com](https://makemypattern.com/) does today: free sewing patterns drafted to your measurements. But additionally, it will be open to your contributions.
+[FreeSewing.org](https://freesewing.org/) blijft aanbieden wat [MakeMyPattern.com](https://makemypattern.com/) vandaag doet: gratis naaipatronen gebaseerd op jouw maten. Maar daarbovenop zal je er zelf bijdrages aan kunnne leveren.
 
-Here's hoping that in the Venn diagram of the somewhat geeky and sewing, it's not just me in the middle.
+En nu maar hopen dat, in het Venn-diagram van nerds en naaien, ik niet de enige ben die pal in het midden zit.
 
 joost
 
-## Shout-outs
-Freesewing is a project by [Joost De Cock](https://github.com/joostdecock) and contributors.
+## Vermeldenswaardige mensen
+FreeSewing is een project van [Joost De Cock](https://github.com/joostdecock) en bijdragers.
 
-Hat-tip to [@jakesgordon](https://github.com/jakesgordon) and [Kevin Lindsey](http://www.kevlindev.com) for allowing me to port some of their code.
+Petje af voor [@jakesgordon](https://github.com/jakesgordon) en [Kevin Lindsey](http://www.kevlindev.com) die me hebben toegestaan om delen van hun code te gebruiken.
 
-The early-stage enthusiasm and input of [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), and [@fightingrabbit](https://github.com/fightingrabbit) has been a great boon to this project.
+Het vroege enthousiasme en de input van [@diggydev](https://github.com/diggydev), [@cabi](https://github.com/cabi), [@woutervdub](https://github.com/woutervdub), [@cloutiy](https://github.com/cloutiy), [@straytaoist](https://github.com/straytaoist), [@netpraxis](https://github.com/netpraxis), [@Stefan1960](https://github.com/Stefan1960), [@brendare1](https://github.com/brendare1), [@JorisJoppe](https://github.com/JorisJoppe), [@JamJenkins](https://github.com/JamJenkins), and [@fightingrabbit](https://github.com/fightingrabbit) zijn dit project enorm ten goede gekomen.
 
-Thanks to [@annekecaramin](https://twitter.com/annekecaramin) for designing a logo cool enough to put on a Tshirt.
+Dank aan [@annekecaramin](https://twitter.com/annekecaramin) voor het ontwerp van een logo dat cool genoeg is om op een T-shirt te zetten.
 
-Special thanks to [@scorchtorch](https://twitter.com/scorchtorch) for being the best at that heart/salad/antlers thing.
+Bijzondere dank aan [@scorchtorch](https://twitter.com/scorchtorch) om de beste te zijn in dat ding met harten/sla/geweien.
 
-Last but not least, this project would not exist without the users, supporters, and donors of [makemypattern.com](https://makemypattern.com/).
+En ten slotte zou dit project niet bestaan zonder de gebruikers, supporters en schenkers van [MakeMyPattern.com](https://makemypattern.com/).
 
-Thanks guys!
+Bedankt allemaal!
