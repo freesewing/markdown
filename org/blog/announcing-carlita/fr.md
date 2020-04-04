@@ -25,23 +25,23 @@ Nous avons dessiné une découpe princesse supplémentaire sur le panneau avant 
 
 Pour pouvoir le faire avec précision, Carlita nécessite trois mesures supplémentaires en plus des mesures requises par Carlton. Il y a :
 
- - Le [Dessus poitrine](/docs/measurements/#highBust)
- - L'[écart poitrine](/docs/measurements/#bustSpan)
- - La [hauteur épaule poitrine](/docs/measurements/#highPointShoulderToBust)
+ - Le [tour de buste supérieur](/docs/measurements/#highBust)
+ - L'[écart de poitrine](/docs/measurements/bustSpan)
+ - La [longueur devant depuis l'épaule](/docs/measurements/hpstohipsfront)
 
-Nous utilisons vos mensurations de dessus poitrine pour dessiner le manteau, puis effectuons un "full bust adjustment" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart poitrine et de la hauteur épaule poitrine.
+Nous utilisons vos mensurations de buste supérieur (dessus poitrine) pour dessiner le manteau, puis effectuons un "Full Bust Adjustment (FBA)" (ajustement complet de poitrine) sur les découpes princesse en fonction de votre tour (complet) de poitrine, de l'écart de poitrine et de la longueur devant depuis l'épaule.
 
-### Toutes les poches, mais nous avons dû déplacer certaines d'entre elles
+### Toutes les poches, mais nous avons dû en déplacer certaines
 
-L'ajout des découpes princesse a rendu le placement de la poche de carte un peu difficile, donc nous l'avons légèrement déplacée et alignée verticalement, plutôt que légèrement inclinée comme c'est dans Carlton.
+L'ajout des découpes princesse a rendu le placement de la poche poitrine un peu difficile, donc nous l'avons légèrement déplacée et alignée verticalement, plutôt que légèrement inclinée comme sur Carlton.
 
-De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus sous la poitrine.
+De cette façon, la poche peut être intégrée dans la découpe princesse un peu plus bas sous la poitrine.
 
 ### Une option supplémentaire : L'intensité de la découpe princesse
 
 Carlita a aussi une option supplémentaire que Carlton n'a pas, du nom un peu élaboré [Intensité de la découpe princesse](/docs/patterns/carlita/options#princessSeamSmoothFactor).
 
-Ceci contrôle la netteté de la découpe princesse après avoir ajouté le volume supplémentaire de votre poitrine.
+Cette option permet de régler la netteté de la découpe princesse après avoir ajouté le volume supplémentaire de votre poitrine.
 
 Une image en dit plus que mille mots, donc voici une illustration de l'option sur la partie concernée du modèle :
 
