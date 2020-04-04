@@ -9,9 +9,9 @@ author: joost
 
 Celui-ci est pour les dames -- et je ne parle pas (juste) de cette image du craquant Benoît Cumberbatch en haut de l'article.
 
-Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui en version bêta à compter d'aujourd'hui.
+Je parles plutôt de la publication de notre dernier parton : le [Manteau Carlita](/patterns/carlita) qui est sorti en version bêta à compter d'aujourd'hui.
 
-Carlita est -- vous l'avez deviné -- la version féminine de notre manteau de Carlton, qui recrée l'emblématique manteau Sherlock Holmes porté par Benoit C. dans la série sur BBC.
+Carlita est -- vous l'avez deviné -- la version féminine de notre manteau Carlton, qui recrée l'emblématique manteau de Sherlock Holmes porté par Benoit C. dans la série sur BBC.
 
 ## Comment y sommes-nous parvenus ?
 
