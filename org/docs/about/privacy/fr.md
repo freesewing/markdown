@@ -24,9 +24,9 @@ Ces rôles sont cumulatifs. Si vous êtes un utilisateur, vous êtes aussi un vi
 
 #### Données du visiteur
 
- - **Quelles données personnelles stockons-nous ? *
+ - **Quelles données personnelles stockons-nous ? **
    - Votre adresse IP
- - **Pourquoi en avons-nous besoin ? *
+ - **Pourquoi en avons-nous besoin ? **
    - Votre adresse IP est enregistrée sur nos systèmes de gestion. Nous utilisons ces activités et les informations liées uniquement pour diagnostiquer les problèmes.
  - **Combien de temps les gardons-nous ?**
    - Nous conservons ces données de suivi pendant 6 mois.
@@ -41,15 +41,15 @@ Ces données sont stockées pour toute personne qui visite notre site Web ou qui
 
 #### Données de profil
 
- - **Quelles données personnelles stockons-nous ? *
+ - **Quelles données personnelles stockons-nous ? **
    - Votre adresse e-mail
    - Votre nom d'utilisateur et votre mot de passe
    - Optionnel : une photo de profil, bio, et vos comptes de réseaux sociaux
- - **Pourquoi en avons-nous besoin ? *
+ - **Pourquoi en avons-nous besoin ? **
    - Pour vous authentifier
    - Pour être en mesure de vous contacter si besoin
    - Facultatif : nous n'avons pas besoin d'une photo ou de vos comptes de réseaux sociaux, mais ils aident à construire une communauté en ligne
- - **Combien de temps les conserverons-nous ? *
+ - **Combien de temps les conserverons-nous ? **
    - Nous conservons les données de profil jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
  - **Les partageons-nous ?**
    - Non, jamais.
@@ -62,17 +62,17 @@ Ces données sont stockées pour toute personne ayant un compte sur notre site W
 
 #### Données de modèle
 
- - **Quelles données personnelles stockons-nous ? *
+ - **Quelles données personnelles stockons-nous ? **
    - Mensurations
    - Si le modèle a des seins ou pas
    - Optionnel : Un avatar pour le modèle
- - **Pourquoi en avons-nous besoin ? *
+ - **Pourquoi en avons-nous besoin ? **
    - Nous avons besoin des mensurations pour réaliser des patrons sur mesure
    - Nous utilisons les informations pour savoir si un modèle a des seins seulement pour afficher les mesures pertinentes lors de la configuration du patron
    - L'avatar de modèle ne sert qu'à vous aider à vous y retrouver entre vos différents modèles
- - **Combien de temps les gardons-nous ? *
+ - **Combien de temps les gardons-nous ? **
    - Nous conservons les données de modèle jusqu'à 12 mois après votre dernière connexion, ou jusqu'à ce que vous les supprimiez.
- - **Les partageons-nous ? *
+ - **Les partageons-nous ? **
    - Nous ne partageons jamais de données personnelles des modèles
    - Nous publions un jeu de données ouvert de mensurations, contenant des données entièrement anonymisées.
 
