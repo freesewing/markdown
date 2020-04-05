@@ -49,3 +49,6 @@ sed -i '/- - -/c\' **/**/**/**/*.md
 sed -i '/- - -/c\' **/**/**/**/**/*.md
 sed -i '/- - -/c\' **/**/**/**/**/**/*.md
 sed -i '/- - -/c\' **/**/**/**/**/**/***.md
+
+# German date issues
+grep -R 'date: 20' org/ | grep de.md | grep '\.2'
