@@ -1,3 +1,3 @@
-![The shoulder ease option on Diana](./shoulderease.svg)
+![La opción de holgura de hombro en Diana](./shoulderease.svg)
 
-This option controls the position of your shoulder seam.
+Esta opción controla la posición de la costura de hombro.
