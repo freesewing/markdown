@@ -1,3 +1,3 @@
-![The waist ease option on Diana](./waistease.svg)
+![La opción de holgura de cintura en Diana](./waistease.svg)
 
-This option controls the amount of ease at the waist.
+Esta opción controla la holgura en la cintura.
