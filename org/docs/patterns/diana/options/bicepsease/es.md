@@ -1,3 +1,3 @@
-![The biceps ease option on Diana](./bicepsease.svg)
+![La opción de holgura de sisa en Diana](./bicepsease.svg)
 
-This option controls the fit at your upper arm, and influences the depth of the armhole.
+Esta opción controla el ajuste en el brazo superior e influye en la profundidad de la sisa.
