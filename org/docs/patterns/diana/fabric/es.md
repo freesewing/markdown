@@ -1,5 +1,5 @@
 
-This top works best in one of these two scenarios:
+Este top funciona mejor en estos dos escenarios:
 
- - Use a stretch fabric, and chose minimal ease
- - Or use a non-stretch fabric with good *drape*, in which case you'll want to add more ease
+ - Usa una tela elástica, y elige holgura mínima
+ - O usa una tela rígida con un buen *drapeado*, en cuyo caso tendrás que añadir holguras
