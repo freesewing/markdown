@@ -13,8 +13,8 @@ author: joost
 
 
  - patrón PDF para nuestra máscara de Fu:
-   - [patrón de mascarilla A4](/fu-facemask-freesewing.org.a4.es.pdf)
-   - [Patrón de mascarilla Letter](/fu-facemask-freesewing.org.letter.es.pdf)
+   - [patrón de mascarilla A4](/fu-facemask-freesewing.org.a4. df)
+   - [Patrón de mascarilla Letter](/fu-facemask-freesewing.org.letter.pdf)
  - [Instrucciones para el patrón de la mascarilla](/docs/patterns/fu/instructions/)
 
 </Note>
@@ -26,8 +26,8 @@ Bueno, eso se intensificó rápidamente. Publicamos [nuestro patrón de mascaril
 Por lo tanto, obviamente, queremos ayudar:
 
  - Patrón PDF para nuestra máscara Fu:
-   - [Patrón de mascarilla A4](/fu-facemask-freesewing.org.a4.es.pdf)
-   - [Patrón de mascarilla letter](/fu-facemask-freesewing.org.letter.es.pdf)
+   - [Patrón de mascarilla A4](/fu-facemask-freesewing.org.a4.pdf)
+   - [Patrón de mascarilla letter](/fu-facemask-freesewing.org.letter.pdf)
  - [Instrucciones para el patrón de la mascarilla](/docs/patterns/fu/instructions/)
 
 Ahora ve a hacer un montón. ¡Nuestros profesionales de la salud cuentan contigo!

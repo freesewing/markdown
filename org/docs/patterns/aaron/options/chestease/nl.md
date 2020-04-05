@@ -8,4 +8,4 @@ De waarde die je hier geeft wordt toegevoegd aan je borstomtrek bij het tekenen 
 
 > ##### Deze optie laat ook negatieve waarden toe
 > 
-> Pas alleen negatieve waarden toe als je elastisch materiaal gebruikt en wil dat het aansluitend past. Overall stretch should be configured with the **stretch** option.
+> Pas alleen negatieve waarden toe als je elastisch materiaal gebruikt en wil dat het aansluitend past. Algemene stretch zou moeten aangepast worden met de **stretch** optie.
