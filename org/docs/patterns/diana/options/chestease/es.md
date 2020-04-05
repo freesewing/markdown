@@ -1,3 +1,3 @@
-![The chest ease option on Diana](./chestease.svg)
+![La opción de holgura de pecho en Diana](./chestease.svg)
 
-This option controls the ease at your chest.
+Esta opción controla la holgura en el pecho.
