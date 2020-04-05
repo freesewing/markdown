@@ -1,8 +1,8 @@
 
-To make Diana, you will need the following:
+Om Diana te maken heb je het volgende nodig:
 
 - [Basis naaimateriaal](/docs/sewing/basic-sewing-supplies)
-- About 1.5 meter (or half of that if it's wide enough to fit the sleeves next tot he body) of a suitable fabric ([see Fabric options](/docs/patterns/diana/fabric))
+- Ongeveer 1.5 meter (of de helft daarvan als je stof breed genoeg is om de mouwen naast het lijf te leggen) geschikte stof ([zie Geschikte stoffen](/docs/patterns/diana/fabric))
 
 <Note>
 
