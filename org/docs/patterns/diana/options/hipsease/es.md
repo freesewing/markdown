@@ -1,3 +1,3 @@
-![The hips ease option on Diana](./hipsease.svg)
+![La opción de holgura de cadera en Diana](./hipsease.svg)
 
-This option controls the amount of ease at the hips.
+Esta opción controla la holgura en la cadera.
