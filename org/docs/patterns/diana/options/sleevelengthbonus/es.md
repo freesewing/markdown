@@ -1,3 +1,3 @@
-![The sleeve length bonus option on Diana](./sleevelengthbonus.svg)
+![La opción de extra de longitud de manga en Diana](./sleevelengthbonus.svg)
 
-This option determines the length of the sleeves.
+Esta opción determina la longitud de las mangas.
