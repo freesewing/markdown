@@ -1,5 +1,5 @@
 
-This top works best in one of these two scenarios:
+Deze top werkt het best in één van deze scenario's:
 
- - Use a stretch fabric, and chose minimal ease
- - Or use a non-stretch fabric with good *drape*, in which case you'll want to add more ease
+ - Gebruik een elastische stof, en kies de minimale hoeveelheid overwijdte
+ - Of gebruik een niet elastische stof die goed *doorvalt*. In dit geval wil je meer overwijdte
