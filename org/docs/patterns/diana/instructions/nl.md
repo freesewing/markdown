@@ -1,11 +1,11 @@
 
 <Fixme>
 
-###### Instructions for Diana are not written yet
+###### Instructies voor Diana zijn nog niet geschreven
 
-If you'd like to contribute to FreeSewing, this is a good place to start.  
+Als je een bijdrage wil leveren aan FreeSewing is dit een goede start.  
 
-Comment on [this github issue](https://github.com/freesewing/markdown/issues/97) and we'll get you started.
+Laat een comment achter op [this github issue](https://github.com/freesewing/markdown/issues/97) en we zetten je in gang.
 
 </Fixme>
 
