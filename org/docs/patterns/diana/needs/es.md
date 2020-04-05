@@ -1,17 +1,17 @@
 
-To make Diana, you will need the following:
+Para hacer Diana, necesitarás lo siguiente:
 
-- [Basic sewing supplies](/docs/sewing/basic-sewing-supplies)
-- About 1.5 meter (or half of that if it's wide enough to fit the sleeves next tot he body) of a suitable fabric ([see Fabric options](/docs/patterns/diana/fabric))
+- [Suministros básicos de costura](/docs/sewing/basic-sewing-supplies)
+- Cerca de metro y medio (o la mitad, si es lo suficientemente ancho como para que las mangas quepan al lado del cuerpo) de una tela adecuada ([ver opciones de tela](/docs/patterns/diana/fabric))
 
 <Note>
 
-#### A serger/overlock is nice, but optional
+#### Una remalladora es interesante, pero opcional
 
-As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
+Como con todas las telas elásticas, una remalladora te hará la vida más fácil.
 
-If you do not have one of those, don't despair. You don't really need it. 
-Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
+Si no tienes una no te desesperes. Realmente no la necesitas. 
+Debido a que las costuras laterales y costuras de hombro no se estiran, puedes coser con una puntada recta normal.
 
 </Note>
 
