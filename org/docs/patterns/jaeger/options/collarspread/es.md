@@ -1,4 +1,2 @@
 
-Controls the spread of the collar
-
-> FIXME: Explain what this actually means
+The collar spread controls how the collar drapes over the shoulders
