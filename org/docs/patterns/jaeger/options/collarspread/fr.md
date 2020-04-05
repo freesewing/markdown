@@ -1,2 +1,2 @@
 
-The collar spread controls how the collar drapes over the shoulders
+L'écartement du col contrôle la position des pointes du col - plus c'est grand, plus elles seront vers les épaules
