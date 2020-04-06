@@ -8,89 +8,89 @@ author: joost
 ---
 
 
-Versie 2.2 van FreeSewing is hier, en zit vol met kleine en grote veranderingen en verbeteringen. The [changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) lists all the changes, but here's what you need to know:
+Versie 2.2 van FreeSewing is hier, en zit vol met kleine en grote veranderingen en verbeteringen. In ons [changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) vind je een overzicht van alle aanpassingen, maar dit is wat je erover moet weten:
 
- - [New pattern: Breanna is a bodice block for womenswear](#new-pattern-breanna-is-a-bodice-block-for-womenswear)
- - [New/Different measurements to better suit womenswear](#newdifferent-measurements-to-better-suit-womenswear)
- - [Generate patterns in *standard* sizes (no account required)](#generate-patterns-in-standard-sizes-no-account-required)
+ - [Nieuw patroon: Breanna is een basiscorsage voor dameskleding](#nieuw-patroon-breanna-basiscorsage-dames)
+ - [Nieuwe/andere afmetingen om beter aan te sluiten bij vrouwenkleding](#nieuwe-afmetingen-voor-dameskleding)
+ - [*Standaardmaten* voor patronen (beschikbaar zonder account)](#standaardmaten-voor-patronen-zonder-account)
 
-Let's have a look at what it all means:
+Even kijken wat dat allemaal betekent:
 
-## New pattern: Breanna is a bodice block for womenswear
+## Nieuw patroon: Breanna is een basiscorsage voor dameskleding
 
-![Breanna line drawing](breanna.svg)
+![Lijntekening voor Breanna](breanna.svg)
 
-Meet [Breanna](/designs/breanna/), our bodice block for womenswear.
+We stellen je [Breanna](/designs/breanna/) voor, ons basiscorsage voor vrouwenkleding.
 
-A block (or sloper) may not the most exciting pattern to look at, but it plays an important role as it is the basic form which other patterns are built on. For example, we have a similar block for menswear called [Brian](/designs/brian/) and our [Aaron](/designs/aaron/), [Bent](/designs/bent/), [Carlita](/designs/carlita/), [Carlton](/designs/carlton/), [Huey](/designs/huey/), [Hugo](/designs/hugo/), [Jaeger](/designs/jaeger/), [Simon](/designs/simon/), [Simone](/designs/simone/), [Sven](/designs/sven/), and [Wahid](/designs/wahid/) patterns can all can trace their lineage back to Brain somehow.
+Een basisvorm is misschien niet het spannendste patroon om naar te kijken, maar het speelt een belangrijke rol als vertrekpunt voor andere patronen. We hebben bijvoorbeeld een vergelijkbare basisvorm voor herenkleding genaamd [Brian](/designs/brian/). De patronen [Aaron](/designs/aaron/), [Bent](/designs/bent/), [Carlita](/designs/carlita/), [Carlton](/designs/carlton/), [Huey](/designs/huey/), [Hugo](/designs/hugo/), [Jaeger](/designs/jaeger/), [Simon](/designs/simon/), [Simone](/designs/simone/), [Sven](/designs/sven/) en [Wahid](/designs/wahid/) zijn allemaal op de een of andere manier verwant met Brian.
 
-In other words, Breanna is an important building block for us to extend our womenswear collection. But that doesn't mean it's not good news for you too. If you've been sewing for a while, chances are drafting your own block/sloper has perpetually been on your to-do list. Well, good news, because here's your block ready to go.
+Breanna is met andere woorden een belangrijke bouwsteen voor ons om onze collectie voor dameskledij uit te breiden. Maar dat betekent niet dat het ook voor jou geen goed nieuws is. Als je al een tijdje met naaien bezig bent, dan is de kans groot dat een je eigen basiscorsage al een tijd op je to-dolijstje staat. Wel, goed nieuws: hier is je basisvorm, kant en klaar.
 
-Oh, and of course it's got all the bells and whistles you've come to expect from us. Have a look at [the pattern options](http://localhost:8000/docs/patterns/breanna/options/) and I think you'll be positively impressed. If nothing else, this block can accommodate 1 or 2 bust darts in 15 different places, giving you 120 unique ways to place your bust dart(s).
+En natuurlijk heeft Brianna alle toeters en bellen die je intussen van ons verwacht. Ga maar eens kijken naar de [patroonopties](http://localhost:8000/docs/patterns/breanna/options/) voor Breanna. Ik denk dat je onder de indruk zal zijn. Dit basiscorsage geeft je bijvoorbeeld de optie van 1 of 2 coupenaden op 15 mogelijke posities. Dat geeft je in totaal 120 unieke manieren om je coupenaad of -naden te plaatsen.
 
-Breanna has has been a while in the making, and we'd love to get your feedback on it. Making a muslin from a block like this really isn't much work. So if you've got some time to spare to whip this one up and let us know how it went, that would be great.
+Breanna is al een tijdje in ontwikkeling. We zijn benieuwd naar je feedback erop. Het is echt niet veel werk om een toile te maken van een basiscorsage zoals dit. Dus als je wat tijd vrij hebt om dit patroon te testen en ons te laten weten wat je ervan vindt, dan zou dat geweldig zijn.
 
 
-## New/Different measurements to better suit womenswear
+## Nieuwe/andere afmetingen om beter aan te sluiten bij vrouwenkleding
 
-Now that we're making our jouney into womenswear, we realized that the measurements we use on the site are somewhat skewed towards menswear. In addition, we had a lot of people stuggling with the shoulder slope measurement. So we decided to re-visit our measuremets, and we've made the following changes:
+Nu we ons in de dameskleding storten, hebben we beseft dat de afmetingen die we op onze site gebruiken nogal gericht zijn op herenkleding. Bovendien hebben we gemerkt dat veel mensen het moeilijk hebben met de afmeting van de schouderhelling. Dus hebben we beslist om onze afmetingen opnieuw onder de loep te nemen, en hebben we de volgende aanpassingen gemaakt:
 
-### We have a bunch of new *HPS* measurements
+### We hebben een hoop nieuwe schouderpuntafmetingen
 
-We've settled on the High-Point Shoulder, the so-called HPS point, as the basis for many of the vertical torso measurements. If you're not certain what/where the HPS point is, [check the HPS documentation](/docs/measurements/hps/).
+We hebben beslist om te vertrekken van het schouderpunt (*High-Point Shoulder* of *HPS point*) voor een heel aantal van de verticale torso-afmetingen. Als je niet zeker weet wat het schouderpunt is of waar het zich bevindt, kijk dan in de [HPS-documentatie](/docs/measurements/hps/).
 
-### We discontinued the Center Back To Neck measurement
+### We gaan niet verder met de afmeting middenrug-tot-nek
 
-As we mentioned earlier, we use measurements from the HPS point now for vertical torso measurements. As a result, we've discontinued the old *Center back neck to waist* measurement.
+Zoals eerder gezegd, gebruiken we voortaan de afmetingen van het schouderpunt voor verticale torso-afmetingen. Daardoor hebben we de oude maat voor middenrug-tot-nek niet meer nodig.
 
-Given that this measurement is now gone, you may need to add another measurement for certain patterns.
+Nu die afmeting verdwenen is, moet je mogelijk een andere afmeting toevoegen voor bepaalde patronen.
 
-### We changed the way the shoulder slope is measured
+### We meten schouderhelling op een nieuwe manier
 
-We noticed that people struggles with the way we asked them to measure [the shoulder slope measurement](/docs/measurements/shoulderslope) so we have changed how to do that.
+We hebben gemerkt dat mensen het moeilijk hadden met de manier waarop we hen vroegen op de [schouderhelling](/docs/measurements/shoulderslope) te meten, dus hebben we dat veranderd.
 
-Because the new method yields a very different number (that ultimately captures the same thing, how much your shoulder slopes downward) here too we had to go in and reset all the existing data. In other words, you'll have to re-measure your shoulder slope.
+De nieuwe methode levert een totaal ander getal op (dat eigenlijk hetzelfde weergeeft, namelijk hoe je schouder naar beneden afloopt) dus ook hier hebben we alle bestaande data moeten resetten. Met andere woorden: je zal je schouderhelling opnieuw moeten meten.
 
-## Generate patterns in *standard* sizes (no account required
+## *Standaardmaten* voor patronen (beschikbaar zonder account)
 
-To get great patterns, you need good measurements, and a bunch of them. It's what we do here at FreeSewing, and most of the problems with patterns are because something goes wrong with taking measurements.
+Voor een goed patroon heb je goede afmetingen nodig, en veel. Dat is wat we doen hier bij FreeSewing. En wanneer er iets misgaat met onze patronen, is het vaak omdat er iets misgaat met het opnemen van die maten.
 
-Unfortunately, there is no magic shortcut for this. If you want something made-to-measure, it's always going to start with acurate measurements.
+Jammer genoeg bestaat daar geen magische oplossing voor. Als je iets op maat wilt hebben, dan moet je vertrekken vanuit accurate afmetingen.
 
-This does raise the bar for people who are new to the site, and want to kick the tires.
+Dat verhoogt de drempel voor mensen die onze site nog niet goed kennen en eens willen rondsnuffelen.
 
-> *Oooh, free patterns, nice* 😍 *Wait, I have to create an account first?* 🤔 *And take all these measurements?* 😬 *That seems like a lot of work.*
+> *Ooooeeeh, gratis patronen, fijn* 😍 *Wacht, ik moet eerst een account aanmaken?* 🤔 *En al die maten opnemen?* 😬 *Dat ziet eruit als een hoop werk.*
 
-Fair enough.
+Begrijpelijk.
 
-In addition, our regular visitors also asked us whether they could get to see a pattern and play around with it without first having to put in a bunch of measurements.
+Bovendien hebben onze regelmatige bezoekers gevraagd of het niet mogelijk was om een patroon te bekijken en er wat mee te spelen zonder dat ze daarvoor eerst een hele lijst afmetingen moesten ingeven.
 
-So __*drumroll*__ that is no longer required. We now offer all our patterns in *standard sizes*. Not only do you not have to take measurements to try out the patterns, you don't even have to sign up or log in. No account needed, just pick a pattern, a size, and you're good to go.
+Dus – __tromgeroffel__ – dat is voortaan niet meer nodig. We bieden al onze patronen voortaan aan in *standaardmaten*. Je hoeft dus geen afmetingen meer op te nemen om de patronen te testen. Je hoeft zelfs geen account meer te maken of in te loggen. Geen account vereist, gewoon een patroon kiezen, een maat aantikken, en je bent er klaar voor.
 
-Obvously, made-to-measure patterns is *our thing*, and we're not changing that. But we're hoping that by lowering the bar to try out our platform, more people will give FreeSewing a try.
+Patronen op maat zijn uiteraard *ons ding* en dat blijft ook zo. Maar we hopen dat meer mensen de weg vinden naar FreeSewing nu de drempel om te beginnen wat lager ligt.
 
-### What are standard sizes anyway?
+### Wat zijn eigenlijk 'standaard'maten?
 
-The hardest thing about adding support for standard sizes? Figuring out what the heck standard sizes are supposed to be. We took a stab at it, and if you're curious you can [check out our sizing table here](/docs/about/sizes/).
+Het lastigste aan de hele oefening met standaardmaten? Uitvissen wat nu eigenlijk 'standaard' is. We hebben een poging gedaan, en als je nieuwsgierig bent kan je hier onze [maattabel](/docs/about/sizes/) bekijken.
 
-For menswear, our size range is 32 to 50, and they are based on a size 38 baseline that we then graded up and down. For womenswear, our size range is 28 to 48, and they are based on a size 34 baseline that we then graded up and down.
+Voor herenkleding gaat onze maattabel van 32 tot 50. Ze zijn allemaal gebaseerd op een standaardmaat 38 die we dan naar boven en naar beneden gegradeerd hebben. Voor dameskleding gaan onze maten van 28 tot 48. Ze zijn gebaseerd op een standaardmaat 34 en naar boven en naar beneden gegradeerd.
 
 <Note>
 
-If you're not sure what these numbers are, they are the neck circumference in cm.
+Als je niet zeker bent wat die getallen betekenen: dat is de halsomtrek in centimeter.
 
 </Note>
 
-While we tried to make our size ranges inclusive, and these tables are an honest attempt to come up with something that makes sense, please understand that this is not our core business. We've love to hear your feedback on the sizing tables, and are open to tweaks and suggestions, but at the end of the day, what we want is to give you a pattern drafted to your measurements. These sizes are just a way to lure you in 🤫
+We hebben ons best gedaan om een inclusieve maattabel op te stellen, en dit is onze beste poging om een logisch systeem te bedenken. Hou er alsjeblieft rekening mee dat dit niet onze core business is. We horen graag wat jij te zeggen hebt over deze maattabellen en we staan open voor aanpassingen en suggesties. Maar uiteindelijk is het ons doel om jou een patroon te bezorgen dat geschetst is op basis van jouw maten. Deze standaardmaten zijn gewoon het lokaas 🤫
 
 
-## Also: All the other stuff
+## En ook nog: allerlei andere dingen
 
-Now go and click around, for we've changed a bunch of other stuff too.
+Hup, ga een beetje rondklikken, want we hebben ook nog een heleboel andere dingen veranderd.
 
-If you bump into any problems or have questions, as always [our chat room is the place to get in touch](https://gitter.im/freesewing/chat).
+Als je op een probleem botst of vragen hebt, kan je net als altijd terecht in onze [chatroom](https://gitter.im/freesewing/chat).
 
-And if you happen to like what we do here, perhaps now is a good time to tell your friends about FreeSewing. After all, they can now check it out without needing to sign up.
+En als je het aanstaat wat we hier doen, dan is dit misschien een goed moment om je vrienden te vertellen over FreeSewing. Want nu kunnen ze komen kijken zonder een account te moeten maken.
 
-PS: We have [a handy share page](/share/) you can use for this.
+P.S.: We hebben een handige [share-pagina](/share/) die je daarvoor kan gebruiken.
 
