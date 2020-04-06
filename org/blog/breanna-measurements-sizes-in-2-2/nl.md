@@ -1,14 +1,14 @@
 ---
 date: 2020-02-22
-title: "A look at what's new in FreeSewing 2.2, including Breanna, our bodice block for womenswear"
-linktitle: "A look at what's new in FreeSewing 2.2"
+title: "Een blik op de nieuwigheden in FreeSewing 2.2, inclusief Breanna, ons basiscorsage voor dameskleding"
+linktitle: "Een blik op de nieuwigheden in FreeSewing 2.2"
 img: drops.jpg
-caption: "This post describes what's new in version 2.2 of FreeSewing"
+caption: "Deze post geeft weer wat er nieuw is in versie 2.2 van FreeSewing"
 author: joost
 ---
 
 
-Version 2.2 of FreeSewing is here, and it has a bunch of changes and improvements big and small. The [changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) lists all the changes, but here's what you need to know:
+Versie 2.2 van FreeSewing is hier, en zit vol met kleine en grote veranderingen en verbeteringen. The [changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) lists all the changes, but here's what you need to know:
 
  - [New pattern: Breanna is a bodice block for womenswear](#new-pattern-breanna-is-a-bodice-block-for-womenswear)
  - [New/Different measurements to better suit womenswear](#newdifferent-measurements-to-better-suit-womenswear)
