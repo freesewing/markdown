@@ -1,36 +1,36 @@
 ---
 date: 2017-11-14
-title: "The Benjamin Bow Tie pattern is now available in beta. And I didn't even have to do anything."
-linktitle: "The Benjamin Bow Tie is now available in beta"
+title: "Het patroon voor de Benjamin-vlinderdas is nu beschikbaar in beta. En ik heb er zelfs niets voor moeten doen."
+linktitle: "De Benjamin-vlinderdas is nu beschikbaar in beta"
 img: bowtie.jpg
-caption: "If you like it, put a bow on it"
+caption: "Doe er een strikje rond"
 author: joost
 ---
 
-Our family of freesewing patterns has grown once again, and the benjamin of the family is... [Benjamin](/patterns/benjamin).
+Onze familie van FreeSewing-patronen is opnieuw gegroeid. En de benjamin van de familie is ... [Benjamin](/patterns/benjamin).
 
-Benjamin is a bow tie that comes with a variety of options to control pretty much every aspect of your bow tie.
+Benjamin is een vlinderdas met een aantal opties om zowat elk aspect van jouw vlinderdas aan te passen.
 
-You can opt for a made-to-measure bow tie, or draft Benjamin with an adjustment ribbon to allow some flexibility in the fit. Something that makes this a great handmade gift for the opcoming holiday season.
+Je kan kiezen voor een vlinderdas op maat, of je kan Benjamin schetsen met een aanpasbaar lint voor een meer flexibele pasvorm. Dat maakt trouwens dat dit een heel leuk handgemaakt cadeau is voor de feestdagen.
 
-## Benjamin is more special than you realize
+## Benjamin is bijzonderder dan je denkt
 
-Here's the thing about Benjamin that I'm most excited about: I didn't do anything.
+Wat ik nog het beste vind aan Benjamin? Ik heb er niks voor moeten doen.
 
-![A collection of bow ties from Wouter, who designed and coded this pattern](benjamins.jpg)
+![Een verzameling vlinderdasjes van Wouter, die dit patroon ontworpen en gecodeerd heeft](benjamins.jpg)
 
-That's right, Benjamin was designed and coded by [Wouter Van Wageningen](/users/xdpug) who has over the last couple of months been teaching himself the ins and outs of the freesewing platform:
+Echt waar. Benjamin is ontworpen en gecodeerd door [Wouter Van Wageningen](/users/xdpug) die zich de afgelopen maanden heeft beziggehouden met bijleren over de hele werking van het FreeSewing-platform:
 
-> I had a blast making the Bow Tie pattern. I basically used it to move from the BabyBib tutorial into something that was original and not too complex (and actually useful). I wanted to get the whole process under control before venturing out into the real stuff. 
+> Ik heb me enorm geamuseerd met dit vlinderdaspatroon te maken. Eigenlijk heb ik dit project gebruikt om van de BabyBib-tutorial over te stappen op iets dat origineel was en niet te ingewikkeld (en nog bruikbaar ook). Ik wou het hele proces onder de knie krijgen voordat ik overging naar het echte werk. 
 > 
-> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](/docs/designer/tutorial/part-1) and the help you've provided [here](https://gitter.im/freesewing/chat).
+> Dat ik alles zo vlot heb kunnen oppikken is vooral te danken aan de geweldige [BabyBib-tutorial](/docs/designer/tutorial/part-1) en de hulp die ik [hier](https://gitter.im/freesewing/chat) gekregen heb.
 
-## Who will be next to contribute a pattern?
+## Wie is de volgende om een patroon bij te dragen?
 
-When I released freesewing as an open source platform, I obviously hoped that others would join the effort.
+Toen ik FreeSewing lanceerde als een open-sourceplatform, hoopte ik uiteraard dat anderen erin mee zouden stappen.
 
-But I never thought that less than 3 months after the public release of freesewing, we'd have our first pattern from the freesewing community.
+Maar ik had nooit gedacht dat op minder dan drie maanden tijd na de officiële lancering van FreeSewing, we ons eerste patroon vanuit de FreeSewing-community zouden hebben.
 
-![Benjamin is kind of a big deal](giphy.gif)
+![Benjamin is eigenlijk echt baanbrekend](giphy.gif)
 
-So yeah, Benjamin is a BFD, Wouter is a badass, and I am hopeful that this will be the first of many patterns that we as a community will be able to make available to all.
+Voilà: Benjamin is fenomenaal, Wouter is een kei, en ik heb er goede hoop op dat dit de eerste is van vele patronen die we als community beschikbaar gaan maken voor iedereen.
