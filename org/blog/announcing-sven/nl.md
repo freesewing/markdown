@@ -1,18 +1,18 @@
 ---
 date: 2017-07-09
-title: "Announcing the Sven Sweater; A basic sweater based on the Brian body block"
-linktitle: "Announcing the Sven Sweater"
+title: "Nieuwkomer: de Sven-sweater, een basistrui gebaseerd op het Brian-corsage"
+linktitle: "We presenteren de Sven-sweater"
 img: showcase.jpg
-caption: "A Sven made for the office. As in, kinda boring"
+caption: "Een Sven voor op kantoor. Dus euh, best wel saai."
 author: joost
 ---
 
-Winter caused me to design this pattern. I was cold, and needed some sweaters, so what does one do?
+Ik heb dit patroon gemaakt omdat het winter was. Ik had het koud en ik had truien nodig. Dus wat doet een mens dan?
 
-Sven stayed under the radar until now because I designed it on the (then unreleased) freesewing platform, and until now I didn't have a place to show it to people.
+Sven is tot nu toe onder de radar gebleven omdat ik hem ontworpen had op het (toen nog niet gelanceerde) FreeSewing-platform, en tot nu toe had ik geen plek om het patroon aan mensen te laten zien.
 
-That's how we got here. Now about that sweater: It's a simple design based on the Brian body block. I've made three different version myself, changing the neckline and fabrics, and it really does what it needs to do very well (as in, keep me warm).
+Zo zijn we dus tot hier geraakt. En nu over die trui: het is een eenvoudig ontwerp gebaseerd op de basisvorm Brian. Ik heb drie verschillende versies voor mezelf gemaakt met verschillende halsopeningen en stoffen, en het patroon doet echt heel goed wat het moet doen (mij warm houden).
 
-## Pictures or it didn't happen
+## Foto's of het is niet echt gebeurd
 
-Check out the [Sven showcases](/showcase/pattern/sven) for some samples.
+Bekijk de [Sven-showcases](/showcase/pattern/sven) om een paar voorbeelden te zien.
