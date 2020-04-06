@@ -37,14 +37,14 @@ Wie geïnteresseerd is in onze code, kan in onze developerdocumentatie duiken op
 
 Wie graag patronen zou ontwerpen, kan meteen aan het werk aan de hand van onze [ontwerptutorial](https://freesewing.dev/tutorial).
 
-En er is ook goed nieuws voor vertalers, want we gebruiken voortaan [Crowdin](https://crowdin.com/) zodat je kan vertalen met twee vingers in je neus. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://gitter.im/freesewing/chat).
+En er is ook goed nieuws voor vertalers, want we gebruiken voortaan [Crowdin](https://crowdin.com/) zodat je kan vertalen met twee vingers in je neus. Als je graag zou helpen met vertalingen, of misschien zelfs een compleet nieuwe taal toevoegen aan FreeSewing, moet je zeker even [in onze chat binnenspringen](https://gitter.im/freesewing/chat).
 
-## 💩 Usual caveats apply
+## 💩 De gebruikelijke addertjes onder het gras
 
-It's conventional wisdom in software development that refactoring code is good, but rewriting it from scratch is bad. Still, we did it anyway because we wanted to make it easier for people to get involved in the project, and generate patterns in real-time in the browser.
+In softwaredevelopment is het algemeen geweten dat het een goed idee is om code te refactoren, maar niet om hem van nul te herschrijven. En toch hebben we dat gedaan. We wilden het gemakkelijker maken voor mensen om bij het project betrokken te raken en om patronen in realtime te genereren in de browser.
 
-That being said, this is a .zero release so you may stumble upon an issue left or right. When you do, please [let us know](https://gitter.im/freesewing/chat) or submit an issue.
+Maar wees je er dus van bewust dat dit een .zero-release is. Het kan dus goed zijn dat je hier en daar een probleem opmerkt. Als dat zo is, laat het ons dan alsjeblieft weten [via onze chat](https://gitter.im/freesewing/chat) of door een probleem te melden.
 
-## 🤞 Tell us what you think
+## 🤞 Laat ons weten wat je ervan denkt
 
-We'd love to hear your feedback. We're **@freesewing\_org** on [Twitter](https://twitter.com/freesewing_org) and [Instagram](https://instagram.com/freesewing_org), use the **#freesewing** hashtag, or [check our share page](/share).
+We zijn benieuwd naar jouw feedback. Je vindt ons als **@freesewing_org** op [Twitter](https://twitter.com/freesewing_org) en [Instagram](https://instagram.com/freesewing_org). Gebruik de hashtag **#freesewing** of check onze [share-pagina](/share).
