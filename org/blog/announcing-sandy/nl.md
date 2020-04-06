@@ -1,20 +1,20 @@
 ---
 date: 2018-08-01
-title: "Announcing Sandy, a circle skirt designed by @AlfyLyr"
-linktitle: "Announcing the Sandy circle skirt"
+title: "Verwelkom Sandy, een cirkelrok ontworpen door @AlfyLyr"
+linktitle: "We presenteren de Sandy-cirkelrok"
 img: sandy.jpg
-caption: "Did you know that Sandy was named after Olivia Newton-John's character in the move Grease?"
+caption: "Wist je dat Sandy vernoemd is naar het personage dat Olivia Newton-John speelt in de film Grease?"
 author: joost
 ---
 
-Ladies and gentlemen --- because who says men can't wear skirts --- I am happy to announce the immeadiate availability of our latest freesewing pattern: [the Sandy circle skirt](/patterns/sandy).
+Dames en heren – want wie zegt dat heren geen rokken kunnen dragen? – het doet me plezier om jullie te kunnen melden dat ons nieuwste FreeSewing-patroon onmiddellijk beschikbaar is: [de Sandy-cirkelrok](/patterns/sandy).
 
-Sandy was designed by [@AlfaLyr](/users/alfalyr) who really did a stellar job. This makes it also another pattern from the freesewing community, something that I'm very excited about.
+Sandy is ontworpen door [@AlfaLyr](/users/alfalyr) die er echt een hoogvlieger van heeft gemaakt. Dit betekent ook dat Sandy een patroon is dat uit de FreeSewing-community voortkomt, en dat vind ik echt geweldig.
 
-## All the options
+## Alle opties
 
-As many patterns here at freesewing, Sandy comes with a bunch of options to allow you to customize your skirt to your wishes.
+Zoals wel meer patronen hier bij FreeSewing, krijg je bij Sandy een hele hoop opties om de rok aan te passen aan jouw wensen.
 
-There's options for how much of circle you want (half? full? Something else?), how long you want it, the shape and overlap of the waistband, whether you want pleats, how much hem, and so on.
+Er is een optie voor hoe groot je de cirkel wil hebben (een halve? een volle? nog iets anders?), hoe lang je de rok wil, de vorm en overlapping van de tailleband, of je plooien wil, hoe diep je zoom wordt, enzovoort.
 
-I can see this becoming rather the success story. So go and [treat yourself to a new skirt](/draft/sandy), and let [@AlfyLyr](/users/alfalyr) know how it works out for you.
+Volgens mij wordt dit echt een succesverhaal. Dus, hup! [Trakteer jezelf op een nieuwe rok](/draft/sandy) en laat aan [@AlfyLyr](/users/alfalyr) weten wat het resultaat is.
