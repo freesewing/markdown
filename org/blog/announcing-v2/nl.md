@@ -1,43 +1,43 @@
 ---
 date: 2019-08-25
-title: "Announcing FreeSewing v2.0"
-linktitle: "Announcing FreeSewing v2.0"
+title: "We presenteren FreeSewing v2.0"
+linktitle: "We presenteren FreeSewing v2.0"
 img: v2.jpg
-caption: "This release really is a sea-change"
+caption: "Deze lancering is echt een aardverschuiving."
 author: joost
 ---
 
-# Announcing FreeSewing v2.0
+# We presenteren FreeSewing v2.0
 
-Welcome to version 2 of FreeSewing, the open source platform for made-to-measure sewing patterns.
+Welkom aan versie 2 van FreeSewing, het open source-platform voor naaipatronen op maat.
 
-This release culminates more than a year of work, and comes two years to the day since FreeSewing first went live. Today, we once again raise the bar for what you can expect from modern-day sewing patterns.
+Deze release is de kroon op meer dan een jaar werk, en komt er precies twee jaar nadat FreeSewing voor het eerst live ging. Vandaag leggen we de lat opnieuw hoger voor wat je van moderne naaipatronen mag verwachten.
 
 ## 🦄 Harder, better, faster, stronger [\*](https://www.youtube.com/watch?v=GDpmVUEjagg)
 
 
-We are *extremely* excited about this release, which is not just merely a new major version with some breaking changes, but a complete rewrite in JavaScript/Node.js.  We won't go into the nitty gritty here, but if you'd like to know how we've done it, check out [the developer docs](https://freesewing.dev) or [FreeSewing on GitHub](https://github.com/freesewing).
+We zijn *enorm* enthousiast over deze release, die niet gewoon een een baanbrekende nieuwe versie is met een aantal grote aanpassingen, maar een complete herwerking in JavaScript/Node.js.  We gaan hier niet tot in de fijne puntjes, maar als je graag zou weten hoe we dit gedaan hebben, kan je de [developerdocumenten](https://freesewing.dev) erop nalezen of je verdiepen in [FreeSewing op GitHub](https://github.com/freesewing).
 
 
 ## ✨ Live preview
 
-FreeSewing has always had a reputation for publishing sewing patterns with tons of options for you to tweak. Which is great, but can be a bit overwhelming because you only got to see the result of all those tweaks at the very end. But those days are gone. Now, no matter what changes you make, you get a live preview of what your pattern will look like, taking the guesswork out of configuring your pattern exactly as you like it.
+FreeSewing heeft altijd al een reputatie gehad voor naaipatronen met een massa opties waarmee je kunt sleutelen. Dat was fijn, maar nogal overdonderend, want je zag het resultaat van al die aanpassingen pas helemaal op het einde. Die tijd is voorbij. Voortaan kun je, welke aanpassingen je ook doet, live zien hoe je patroon eruit gaat zien. Dus is er helemaal geen giswerk meer nodig om je patroon precies uit te werken zoals jij het wilt.
 
-## 🧂  Recipes
+## 🧂  Recepten
 
-Where we used to store your patterns for you, now we'll store your *recipes* instead. You can go through as many pattern iterations as you want. And when you're happy, we'll save all the settings it takes to create that exact pattern in a so-called recipe.
+Vroeger sloegen we patronen voor je op. Voortaan doen we dat met *recepten*. Je kunt het patroon zo vaak bewerken als je wilt. En wanneer jij tevreden bent, slaan we alle instellingen voor dat precieze patroon op in een zogenaamd recept.
 
-You can then at any time re-use that recipe to recreate your pattern, or use it as a starting point to make a slightly different pattern. You can also share these recipes, allowing others to generate the same look for their own measurements.
+Je kunt dat recept op eender welk moment hergebruiken om je patroon opnieuw te genereren, of gebruiken als vertrekpunt voor een patroon dat net een beetje anders is. Je kunt ook recepten delen. Anderen kunnen dan dezelfde versie genereren met hun eigen maten.
 
-## 🤝 Getting involved was never easier
+## 🤝 Het is gemakkelijker dan ooit om mee te werken
 
-What hasn't changed is that we still support 5 languages (shout-out to all translators) and that FreeSewing is still a 100% communal effort (shout-out to all contributors). There's only volunteers here, and if you'd like to help out, it's never been easier.
+Wat niet veranderd is? We ondersteunen nog steeds 5 talen (shout-out aan alle vertalers) en FreeSewing is nog steeds 100% een gezamenlijke inspanning (shout-out aan alle bijdragers). We zijn hier allemaal vrijwilligers, en als je graag wil helpen, is dat gemakkelijker dan ooit.
 
-For those who are interested in our code, head over to our new developer documentation at [freesewing.dev](https://freesewing.dev) to learn about the new platform, our core API, our plugins, and more.
+Wie geïnteresseerd is in onze code, kan in onze developerdocumentatie duiken op [freesewing.dev](https://freesewing.dev) en er alles leren over het nieuwe platform, onze kern-API, onze plugins en meer.
 
-For those of you who are interested in designing patterns, we have updated our [pattern design tutorial](https://freesewing.dev/tutorial) so you can hit the ground running.
+Wie graag patronen zou ontwerpen, kan meteen aan het werk aan de hand van onze [ontwerptutorial](https://freesewing.dev/tutorial).
 
-There's good news for translators too, as we now use [Crowdin](https://crowdin.com/) which makes translation a breeze. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://gitter.im/freesewing/chat).
+En er is ook goed nieuws voor vertalers, want we gebruiken voortaan [Crowdin](https://crowdin.com/) zodat je kan vertalen met twee vingers in je neus. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://gitter.im/freesewing/chat).
 
 ## 💩 Usual caveats apply
 
