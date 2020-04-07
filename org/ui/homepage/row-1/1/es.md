@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Made to your measurements
 
