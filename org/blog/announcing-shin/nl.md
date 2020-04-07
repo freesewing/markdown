@@ -1,28 +1,28 @@
 ---
 date: 2018-09-29
-title: "Announcing Shin, a swim trunks pattern"
-linktitle: "Announcing the Shin swim trunks"
+title: "Verwelkom Shin, een zwembroekpatroon"
+linktitle: "We presenteren de Shin-zwembroek"
 img: shin.jpg
-caption: "I guess this is what augmented reality looks like?"
+caption: "Dit is hoe augmented reality eruitziet ... denk ik?"
 author: joost
 ---
 
-A while ago I found myself in need of some new swim trunks. So I drafted a pattern and made some:
+Een tijdje geleden stelde ik vast dat ik een nieuwe zwembroek nodig had. Dus heb ik een patroon geschetst en er eentje gemaakt:
 
-![An early tryout of the Shin pattern](sample.jpg)
+![Een vroege test van het Shin-patroon](sample.jpg)
 
-I asked if people would be interested in a pattern like this, and turns out that yes, they were.
+Ik vroeg rond aan mensen of ze geïnteresseerd zouden zijn in dit soort van patroon, en het bleek van wel.
 
-So, after some more tweaking, I think this is ready for you guys, and meanwhile Roy has already provided an illustration for it too.
+Dus na een rondje aanpassingen denk ik dat dit klaar is voor jullie. Roy heeft er intussen ook een illustratie voor gemaakt.
 
-![I'll be the first to admit that this guy wears it better than me](cover.jpg)
+![Laat me de eerste zijn om toe te geven dat deze kerel 'm beter draagt dan ik.](cover.jpg)
 
-## Options and documentation available
+## Beschikbare opties en documentatie
 
-Shin comes with options, and they are very close to the options available for [Bruce](/patterns/bruce).
+Je hebt een aantal opties met Shin en die liggen heel dicht bij de beschikbare opties voor [Bruce](/patterns/bruce).
 
-All [options are documented](/docs/patterns/shin/options), as are the [required measurements](/docs/patterns/shin/measurements), and I've also written [instructions for how to make this](/docs/patterns/shin).
+Alle [opties zijn gedocumenteerd](/docs/patterns/shin/options), net zoals de [afmetingen die je nodig hebt](/docs/patterns/shin/measurements), en ik heb ook [instructies voor Shin](/docs/patterns/shin) geschreven.
 
-I still have to do the illustrations, but it's really not hard so you'll probably figure it out without them. Essentially, you can go and make this right now.
+Ik moet nog illustraties maken voor de instructies, maar het is echt niet moeilijk dus volgens mij kan je aan de slag zonder tekeningen. Eigenlijk kan je gewoon meteen aan de slag.
 
-Enjoy!
+Veel plezier!
