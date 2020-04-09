@@ -42,7 +42,7 @@ Without authentication:
 |🔓|`POST`|`/oauth/init`| [Oauth initialisation](/reference/backend/oauth/#oauth-initialisation) |
 |🔓|`GET`|`/oauth/callback/from/:provider`| [Oauth callback](/reference/backend/oauth/#oauth-callback) |
 |🔓|`POST`|`/oauth/login`| [Oauth login](/reference/backend/oauth/#oauth-login) |
-|🔓|`GET`|`/patrons`| [Paton list](/reference/backend/users/#patron-list) |
+|🔓|`GET`|`/patrons`| [Patron list](/reference/backend/users/#patron-list) |
 
 
 <ReadMore root='reference/backend' box />
