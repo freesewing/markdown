@@ -1,3 +1,3 @@
-![The cuff ease factor on Brian](./cuffease.svg)
+![L'aisance poignets pour Brian](./cuffease.svg)
 
-This option controls the ease at your wrist.
+Cette option module l'aisance au niveau des poignets.
