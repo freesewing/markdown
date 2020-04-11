@@ -1,6 +1,6 @@
 
-![Front armhole extra cutout](./frontarmholedeeper.svg)
+![Découpe supplémentaire sur l'emmanchure avant](./frontarmholedeeper.svg)
 
-Controls how much the front of the armhole is cut deeper into the garment than the back.
+Module de combien la découpe de l'emmanchure est plus profonde sur le devant que sur le dos.
 
-Since the human shoulder is more rounded at the front of the body, the sleeve(cap) is more rounded there too, and the armhole is typically cut deeper into the front of the garment than the back. This option controls how much deeper.
+Comme l'épaule humaine est plus arrondie à l'avant du corps, la tête de manche (haut de la manche) est également plus arrondie sur le devant du vêtement, et l'emmanchure est donc généralement plus échancrée sur le devant du vêtement que sur le dos. Cette option module de combien l'échancrure est plus profonde.
