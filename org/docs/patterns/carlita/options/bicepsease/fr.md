@@ -1,3 +1,3 @@
 ![Biceps ease](./bicepsease.svg)
 
-The amount of ease at your upper arm.
+L'aisance en haut du bras.
