@@ -1,3 +1,3 @@
-![The sleeve length bonus option on Brian](./sleevelengthbonus.svg)
+![L'option bonus longueur de manche pour Brian](./sleevelengthbonus.svg)
 
-This option controls how to lengthen the sleeves.
+Cette option module la longueur des manches.
