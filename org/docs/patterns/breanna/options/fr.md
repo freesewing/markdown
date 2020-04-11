@@ -5,28 +5,25 @@ import PatternOptions from '../../../../../../src/components/docs/pattern-option
 
 <PatternOptions pattern='breanna' />
 
-## Understanding the sleevecap
+## Comprendre la tête de manche
 
-The Breanna sleevecap was designed to be adaptable into different types of sleeves and garments. As a result, the sleevecap alone has 20 options to control its shape. Whereas that may seem a bit overwhelming at first, understanding how the sleevecap is drafted makes it easy to understand what all the individual options do.
+The Breanna sleevecap was designed to be adaptable into different types of sleeves and garments. As a result, the sleevecap alone has 20 options to control its shape. Bien que cela puisse paraître un peu assommant de prime abord, comprendre la conception de la tête de manche facilite la compréhension des différentes options.
 
-### The bounding box
+### La bounding box
 
-The *bounding box* of the sleevecap is a rectangle that is as wide as the sleeve, and as high as the sleevecap. Inside this box, we will construct our sleevecap later.
+La *bouding box* de la tête de manche est un rectangle de la largeur de la manche et de la hauteur de la tête de manche. La tête de manche va être construite dans ce rectangle.
 
 ![The Breanna sleevecap](sleevecap.svg)
 
-The image above shows a sleevecap, starting at point 1, then going up until point 4, and then down again to point 2. 
+L'image ci-dessus montre une tête de manche, commençant au point 1, puis montant jusqu'au point 4, et ensuite redescendant au point 2. 
 
 <Note>
 
-###### Finding out which is the front of the sleeve(cap)
+###### Repérer le devant de la manche
 
-In our example, the front of the sleevecap is on the right hand side. But how would you know? 
+Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on direz vous ? 
 
-While patterns typically have an indication that shows which side is which (a single notch
-means the front, whereas a double notch means the back), you can also
-recognize the front side of a sleevecap because it is more curved. The backside of the
-sleevecap will also be curved, but it's a flatter curve. That's because the human shoulder
+Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. That's because the human shoulder
 is more pronounced and curved on the front of the body, thus the sleevecap is more curved 
 there to fit the shoulder.
 
