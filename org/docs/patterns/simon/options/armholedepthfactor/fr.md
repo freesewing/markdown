@@ -1,4 +1,4 @@
 ![Armhole depth factor](./armholedepthfactor.svg)
 
 
-This option controls the depth of the armhole.
+Cette option module la profondeur de l'emmanchure.
