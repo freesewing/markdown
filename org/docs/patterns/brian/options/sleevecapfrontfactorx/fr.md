@@ -1,11 +1,10 @@
-![The horizontal location of the front inflection point](./sleevecapfrontfactorx.svg)
+![L'emplacement horizontal du point d'inflexion devant](./sleevecapfrontfactorx.svg)
 
-This option controls the horizontal placement of the sleevecap inflection point at the front of the sleeve.
+Cette option module la position horizontale du point d'inflexion de la tête de manche à l'avant de la manche.
 
 <Tip>
 
-See [understanding the sleevecap](/docs/patterns/brian/options#understanding-the-sleevecap) for an in-depth
-look into how the sleevecap is constructed and the influence of the different options on its shape.
+Voir [comprendre la tête de manche](/docs/patterns/brian/options#understanding-the-sleevecap) pour une explication détaillée de la construction de la tête de manche et de l'influence des différentes options sur sa forme.
 
 </Tip>
 
