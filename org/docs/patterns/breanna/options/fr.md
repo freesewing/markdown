@@ -51,18 +51,17 @@ Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner not
 
 <Note>
 
-As you see in our example, these points do not always lie on our sleevecap line. Instead, they
-are instrumental in creating the points that always lie on the sleevecap: the anchor points.
+Comme vous le voyez dans notre exemple, ces points ne se trouvent pas toujours sur la ligne de la tête de manche. Mais ils permettent de créer des points qui se trouveront toujours sur la tête de manche : les points d'ancrage.
 
 </Note>
 
-### The anchor points
+### Les points d'ancrage
 
 ![Controlling the anchor points](sleevecapanchor.svg)
 
-Ultimately, our sleevecap will be the combination of 5 curves. In addition to points 1 and 2, the four *anchor points* that are marked in orange in our example will be the start/finish of those curves.
+En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront au début et à la fin de ces courbes.
 
-The points are *offset* perpendicular from the middle of a line between the two anchor points surrounding them. The offset for each point is controlled by these 4 options:
+Les points sont *décalés * en perpendiculaire à partir du milieu d'une ligne située entre les deux points d'ancrage qui les entourent. Le décalage pour chaque point est contrôlé par ces 4 options :
 
  - [Sleevecap Q1 offset](/docs/patterns/breanna/options/sleevecapq1offset) : Controls the offset perpendicular to the line from points 2 to 6
  - [Sleevecap Q2 offset](/docs/patterns/breanna/options/sleevecapq2offset) : Controls the offset perpendicular to the line from points 6 to 4
@@ -71,21 +70,20 @@ The points are *offset* perpendicular from the middle of a line between the two 
 
 <Note>
 
-We've divided our sleevecap into 4 quarters. We start at the front (the right in our example)
-with quarter 1, and make our way to the back to end with quarter 4.
+Notre manche est divisée en 4 quadrants. Nous commençons à l'avant (à droite dans notre exemple)
+avec le quadrant 1, en allant vers l'arrière pour finir avec le quatrième quadrant.
 
-Like the offset option, the last options to determine the shape of our sleevecap will just repeat so you can 
-control each quarter individually.
+Comme pour l'option décalage, les dernières options pour déterminer la forme de notre tête de manche se répéteront simplement pour que vous puissiez contrôler chaque quadrant individuellement.
 
 </Note>
 
-### The spread
+### La répartition
 
 ![Controlling the anchor points](sleevecapspread.svg)
 
-We now have all the start and end points to draw the 5 curves that will make up our sleevecaps. What we're missing are the control points (see [our info on Bézier curves](https://freesewing.dev/concepts/beziercurves) to learn more about how curves are constructed). These are determined by the so-called *spread*.
+Nous avons maintenant tous les points de départ et d'arrivée pour dessiner les 5 courbes qui constitueront nos têtes de manche. Il nous manque les points de contrôle (voir [nos informations sur les courbes de Bézier ](https://freesewing.dev/concepts/beziercurves) pour en savoir plus sur la façon dont les courbes sont construites). Celles-ci sont déterminées par ce que l'on appelle *répartition*.
 
-For each of the anchor points (the ones marked in orange, not points 1 and 2) there is an option to control the spread upwards, and downwards:
+Pour chacun des points d'ancrage (ceux marqués en orange, pas les points 1 et 2), une option permet de contrôler la répartition vers le haut, et vers le bas :
 
  - [Sleevecap Q1 downward spread](/docs/patterns/breanna/options/sleevecapq1spread1) : Controls the downward spread in the first quarter
  - [Sleevecap Q1 upward spread](/docs/patterns/breanna/options/sleevecapq1spread2) : Controls the upward spread in the first quarter
@@ -98,9 +96,7 @@ For each of the anchor points (the ones marked in orange, not points 1 and 2) th
 
 <Note>
 
-Attentive readers will have noticed that point 4 is not an anchor point. In other words, there is no guarantee
-that it will lie on the sleevecap line. Which also means that the upwards spread in quarters 2 and 3 will influence
-the height of the sleevecap. Reduce the upwards spread, and the curve will dip below point 4. Increase it and
+Les lecteurs attentifs auront remarqué que le point 4 n'est pas un point d'ancrage. En d'autres termes, il peut ne pas se trouver sur la ligne de la tête de manche. La hauteur de la tête de manche se répartira donc vers le haut entre les quadrants 2 et 3, en fonction de la hauteur de la tête de manche. Si l'on réduit la répartition vers le haut, la courbe s'infléchira sous le point 4. Increase it and
 the curve will rise above it.
 
 </Note>
