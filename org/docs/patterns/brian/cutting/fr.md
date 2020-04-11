@@ -1,17 +1,17 @@
-To make Brian, you'll need:
+Pou le haut Brian, vous aurez besoin de :
 
- - 1 Front
- - 2 Back
- - 2 Sleeves
+ - 1 devant
+ - 2 dos
+ - 2 manches
 
 <Note>
 
-###### Brian is a block, not a pattern
+###### Brian est un patron de base.
 
-A block is a basic shape on which other patterns are based.
+Un patron de base est une forme basique à partir de laquelle on part pour créer d'autres patrons.
 They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
 
-Blocks are typically not made as-is but rather serve as a basis for other patterns.
+Les patrons de base ne sont donc généralement pas utilisés tels quels, mais plutôt pour élaborer d'autres modèles.
 
 </Note>
 
