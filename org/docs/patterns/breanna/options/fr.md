@@ -29,7 +29,7 @@ Alors que les patrons l'indiquent généralement par des repères (une seule enc
 
 La largeur de la tête de manche (et donc la largeur de la manche à la base de l'emmanchure) est égale à la distance entre les points 1 et 2. Cette distance dépend des mesures du modèle, de l'aisance choisie, de la coupe du vêtement, etc. Pour notre tête de manche, la seule chose à savoir est qu'on commence avec une largeur donnée. Et bien que cette largeur puisse être influencée par d'autres facteurs, nous ne pouvons pas la modifier par les options de la tête de manche.
 
-![Controlling the top of the sleevecap](sleevecaptop.svg)
+![Contrôle du haut de la tête de manche](sleevecaptop.svg)
 
 La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, la facilité, tête de manche facilement, et le fait que la manche doit finalement être ajustée à l'armure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
 
@@ -40,7 +40,7 @@ En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, peut
 
 ### Les points d'inflexion
 
-![Controlling the inflection points](sleevecapinflection.svg)
+![Contrôle des points d'inflexion](sleevecapinflection.svg)
 
 Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Maintenant, il est temps de placer nos *points d'inflexion*. Ce sont les points 5 et 6 de notre dessin, et leur pposition est déterminé par les 4 options suivantes :
 
@@ -57,7 +57,7 @@ Comme vous le voyez dans notre exemple, ces points ne se trouvent pas toujours s
 
 ### Les points d'ancrage
 
-![Controlling the anchor points](sleevecapanchor.svg)
+![Contrôle des points d'ancrage](sleevecapanchor.svg)
 
 En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront au début et à la fin de ces courbes.
 
@@ -79,7 +79,7 @@ Comme pour l'option décalage, les dernières options pour déterminer la forme 
 
 ### La répartition
 
-![Controlling the anchor points](sleevecapspread.svg)
+![Contrôle des points d'ancrage](sleevecapspread.svg)
 
 Nous avons maintenant tous les points de départ et d'arrivée pour dessiner les 5 courbes qui constitueront nos têtes de manche. Il nous manque les points de contrôle (voir [nos informations sur les courbes de Bézier ](https://freesewing.dev/concepts/beziercurves) pour en savoir plus sur la façon dont les courbes sont construites). Celles-ci sont déterminées par ce que l'on appelle *répartition*.
 
@@ -96,19 +96,18 @@ Pour chacun des points d'ancrage (ceux marqués en orange, pas les points 1 et 2
 
 <Note>
 
-Les lecteurs attentifs auront remarqué que le point 4 n'est pas un point d'ancrage. En d'autres termes, il peut ne pas se trouver sur la ligne de la tête de manche. La hauteur de la tête de manche se répartira donc vers le haut entre les quadrants 2 et 3, en fonction de la hauteur de la tête de manche. Si l'on réduit la répartition vers le haut, la courbe s'infléchira sous le point 4. Increase it and
-the curve will rise above it.
+Les lecteurs attentifs auront remarqué que le point 4 n'est pas un point d'ancrage. En d'autres termes, il peut ne pas se trouver sur la ligne de la tête de manche. La hauteur de la tête de manche se répartira donc vers le haut entre les quadrants 2 et 3, en fonction de la hauteur de la tête de manche. Si l'on réduit la répartition vers le haut, la courbe s'infléchira sous le point 4. Si on l'augmente, la courbe passera au dessus.
 
 </Note>
 
-### Takeaways
+### En résumé
 
-While the sleevecap in Breanna (and all patterns that extend Breanna) have a lot of options, understanding how the sleevecap is constructed can help you design the exact sleevecap shape you want. To do so:
+While the sleevecap in Breanna (and all patterns that extend Breanna) have a lot of options, understanding how the sleevecap is constructed can help you design the exact sleevecap shape you want. Pour cela :
 
- - Start with placing the top of your sleevecap
- - Then determine the inflection points
- - Next, use the offset to control the steepness of the curve
- - Finally, use the spread to smooth things out
+ - Commencez par positionner le haut de votre tête de manche
+ - Déterminer ensuite les points d'inflexion
+ - Ensuite, utilisez le décalage pour contrôler la pente de la courbe
+ - Enfin, utilisez la répartition pour homogénéiser le tout
 
-What's important to remember is that you're only ever controlling the shape of the sleevecap. Whatever shape you design, it will be fitted to the armhole, meaning that its size can and will be adapted to make sure the sleeve fits the armscye. However, the shape you design will always be respected.
+Il faut comprendre qu'on ne peut contrôler que la forme de la tête de manche. Quelle que soit la forme que vous voulez, elle devra s'ajuster à l'emmanchure, ce qui signifie que sa taille peut et devra s'adapter. Cependant, la forme sera toujours respectée.
 
