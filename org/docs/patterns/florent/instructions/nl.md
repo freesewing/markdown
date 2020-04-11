@@ -1,6 +1,4 @@
-- - -
 title: Construction
-- - -
 
 ### Stap 1: Bevestig tussenvoering
 

@@ -1,6 +1,4 @@
-- - -
 title: Construction
-- - -
 
 ### Step 1: Fuse interfacing
 

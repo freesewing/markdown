@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Plus de questions ?
 
