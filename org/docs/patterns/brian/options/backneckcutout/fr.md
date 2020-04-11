@@ -1,4 +1,4 @@
 
-![Back neck cutout](./backneckcutout.svg)
+![Arrondi de l'encolure dos](./backneckcutout.svg)
 
-Controls how deep the neck opening is cut out in the back of the garment. In other words, increasing this will shift the neck opening to the back.
+Contrôle la profondeur de l'encolure au dos du vêtement. In other words, increasing this will shift the neck opening to the back.
