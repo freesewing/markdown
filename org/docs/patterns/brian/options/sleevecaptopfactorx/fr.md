@@ -1,11 +1,10 @@
-![The horizontal location of the sleevecap top](./sleevecaptopfactorx.svg)
+![La position horizontale de la tête de manche](./sleevecaptopfactorx.svg)
 
-This option controls the horizontal placement of the sleevecap top.
+Contrôle l'emplacement horizontal de la tête de manche.
 
 <Tip>
 
-See [understanding the sleevecap](/docs/patterns/brian/options#understanding-the-sleevecap) for an in-depth
-look into how the sleevecap is constructed and the influence of the different options on its shape.
+Voir [comprendre la tête de manche](/docs/patterns/brian/options#understanding-the-sleevecap) pour une explication détaillée de la construction de la tête de manche et de l'influence des différentes options sur sa forme.
 
 </Tip>
 

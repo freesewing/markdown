@@ -1,4 +1,4 @@
 
-![Shoulder slope reduction](./shoulderslopereduction.svg)
+![Réduction de la pente d'épaule](./shoulderslopereduction.svg)
 
-Reduces the shoulder slope to create extra room for shoulder padding.
+Réduit la pente des épaules pour créer de l'aisance si l'on prévoit de rembourrer les épaules.

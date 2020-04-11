@@ -1,3 +1,3 @@
 ![The chest ease option on Diana](./chestease.svg)
 
-This option controls the ease at your chest.
+Cette option module l'aisance au niveau de la poitrine.

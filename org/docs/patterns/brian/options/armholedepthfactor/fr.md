@@ -1,3 +1,3 @@
-![The armhole depth factor on Brian](./armholedepthfactor.svg)
+![Facteur de profondeur d''emmanchure pour Brian](./armholedepthfactor.svg)
 
-This option controls the depth of the armhole.
+Cette option module la profondeur de l'emmanchure.

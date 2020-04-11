@@ -1,3 +1,3 @@
-![Shoulder ease](./shoulderease.svg)
+![Aisance des épaules](./shoulderease.svg)
 
 The amount of ease at your shoulders. This is an option specific to coats/overwear to allow room for garments worn under the coat.

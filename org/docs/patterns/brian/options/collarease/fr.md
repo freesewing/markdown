@@ -1,4 +1,4 @@
 
-![Collar ease](./collarease.svg)
+![Aisance du col](./collarease.svg)
 
-Controls the amount of ease at your collar/neck.
+Module l'aisance au niveau du col.

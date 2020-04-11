@@ -1,3 +1,3 @@
-![The biceps ease factor on Brian](./bicepsease.svg)
+![L'aisance au biceps pour Brian](./bicepsease.svg)
 
-The amount of ease at your upper arm.
+L'aisance en haut du bras.
