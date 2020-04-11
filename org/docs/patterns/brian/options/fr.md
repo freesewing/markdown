@@ -23,29 +23,26 @@ L'image ci-dessus montre une tête de manche, commençant au point 1, puis monta
 
 Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on direz vous ? 
 
-Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. The backside of the
-sleevecap will also be curved, but it's a flatter curve. That's because the human shoulder
-is more pronounced and curved on the front of the body, thus the sleevecap is more curved 
-there to fit the shoulder.
+Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. C'est en raison de la forme de l'épaule humaine, qui est plus arrondie sur le devant du corps. La tête de manche sera donc elle aussi plus courbée sur le devant, pour s'adapter à l'épaule.
 
 </Note>
 
-The width of the sleevecap (and thus the width of the sleeve at the bottom of the armhole) is equal to the distance between points 1 and 2. That distance depends on the measurements of the model, the amount of ease, the cut of the garment and so on. For our sleevecap, all we need to know is that we start with a given width. And while that width can be influenced by other factors, we can not influence it by any of the sleevecap options.
+La largeur de la tête de manche (et donc la largeur de la manche à la base de l'emmanchure) est égale à la distance entre les points 1 et 2. Cette distance dépend des mesures du modèle, de l'aisance choisie, de la coupe du vêtement, etc. Pour notre tête de manche, la seule chose à savoir est qu'on commence avec une largeur donnée. Et bien que cette largeur puisse être influencée par d'autres facteurs, nous ne pouvons pas la modifier par les options de la tête de manche.
 
 ![Controlling the top of the sleevecap](sleevecaptop.svg)
 
-The height of the sleevecap is equal to the distance between points 3 and 4. The exact height is a trade-off between the measurments of the model, options, ease, sleevecap ease, and the fact that the sleeve ultimately has to fit the armhole. So the height may vary, and we don't control the exact value. But there are two options that control the shape of our sleevecap:
+La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, la facilité, tête de manche facilement, et le fait que la manche doit finalement être ajustée à l'armure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
 
- - [Sleevecap top X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 4
+ - [Haut de tête de manche X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Contrôle la position horizontale des points 3 et 4
  - [Sleevecap top Y](/docs/patterns/brian/options/sleevecaptopfactory/) : Controls the vertical placement of point 4
 
-In other words, point 4 can be made higher and lower and, perhaps less intutitively, it can also be changed to lie more to the right or the left, rather than smack in the middle as in our example.
+En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, peut-être moins intuitif, peut aussi être déplacé plus à droite ou plus à gauche, plutôt que rester en plein au milieu comme dans notre exemple.
 
-### The inflection points
+### Les points d'inflexion
 
 ![Controlling the inflection points](sleevecapinflection.svg)
 
-With points 1, 2, 3, and 4 in place, we have a box to draw our sleevecap in. Now it's time to map out our *inflection points*. These are points 5 and 6 on our drawing, and their placement is determined by the following 4 options:
+Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Now it's time to map out our *inflection points*. These are points 5 and 6 on our drawing, and their placement is determined by the following 4 options:
 
  - [Sleevecap back X](/docs/patterns/brian/options/sleevecapbackfactorx) : Controls the horizontal placement of point 5
  - [Sleevecap back Y](/docs/patterns/brian/options/sleevecapbackfactory) : Controls the vertical placement of point 5
