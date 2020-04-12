@@ -1,19 +1,17 @@
 ![Longueur sans bouton](./buttonfreelength.svg)
 
-How much before your waistband do you want your last button to sit?
+A quelle distance de votre ceinture voulez-vous que votre dernier bouton soit placé?
 
 <Note>
 
 ###### Pour quoi faire ?
 
-Having buttons below your waistband is considered by many to be an annoyance.
-They get caught up in your belt, and complicate bathroom breaks.
+Les boutons placés sous la ceinture sont souvent considérés comme gênants.
+Ils se coincent dans votre ceinture et compliquent les pauses pipi.
 
-By default, the last button sits 1cm above your waistband, 
-but this option allows you to move it further upwards for that shirt you are going to wear with those high-waisted trousers.
+Par défaut, le dernier bouton est placé 1 cm au dessus de votre ceinture, mais cette option vous permet de le déplacer plus haut si vous comptez porter cette chemise avec des pantalons taille haute.
 
-If you want to have buttons below your waistband, you can. You should enter a negative value here, 
-making sure it's within the length bonus you have available.
+Si vous voulez avoir des boutons en dessous de votre ceinture, vous pouvez. Vous devez entrer ici une valeur négative, en vous assurant qu'elle est dans le bonus de longueur disponible.
 
 </Note>
 
