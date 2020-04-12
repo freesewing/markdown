@@ -4,7 +4,7 @@ How far do you want your waistcoat to sit away from your collar on your shoulder
 
 <Note>
 
-###### What's the point?
+###### Pour quoi faire ?
 
 The shoulder seam of a waistcoat is typically more narrow than your shirt. This option controls how narrow it gets (on the collar side).
 
