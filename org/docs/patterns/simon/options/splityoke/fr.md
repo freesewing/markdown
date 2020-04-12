@@ -1,6 +1,6 @@
-![Split yoke](splityoke.svg)
+![Empiècement dos à couture médiane ("split yoke")](splityoke.svg)
 
-Do you want a split yoke?
+Voulez vous un split yoke ?
 
 <Note>
 
