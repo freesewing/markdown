@@ -8,7 +8,7 @@ Pour le calcul de votre pente d'épaule, mesurez d'abord la longueur entre le mi
 
 <Note>
 
-Cette mesure sera combinée avec celle de la [longueur dos depuis l'épaule](/docs/measurements/hpstohipsback/), qui part de la base de l'encolure jusqu'à la ligne située au niveau des hanches ; cela permettra de calculer la pente d'épaule.
+Cette mesure sera combinée avec celle de la [longueur dos depuis l'épaule](/docs/measurements/hpstohipsback/), qui part de la base de l'encolure (au sommet de l'épaule) jusqu'à la ligne située au niveau des hanches ; cela permettra de calculer la pente d'épaule.
 
 </Note>
 
