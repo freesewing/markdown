@@ -1,10 +1,10 @@
-![Button free length](./buttonfreelength.svg)
+![Longueur sans bouton](./buttonfreelength.svg)
 
 How much before your waistband do you want your last button to sit?
 
 <Note>
 
-###### What's the point?
+###### Pour quoi faire ?
 
 Having buttons below your waistband is considered by many to be an annoyance.
 They get caught up in your belt, and complicate bathroom breaks.
