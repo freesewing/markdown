@@ -4,7 +4,7 @@ Since nobody has a perfectly straight back, this pattern tapers in with 0.5 cm a
 
 <Note>
 
-###### What's the point?
+###### Pour quoi faire ?
 
 If your back slumps forward a bit, fabric tends to pool at the back of your neck. With no sleeves or collar, this causes your neckline to gape.
 This option tapers the fabric inwards at the back of your neck. It does so by 0.5 cm by default, but you can increase of decrease that value.
