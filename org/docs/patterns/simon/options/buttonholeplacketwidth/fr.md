@@ -1,3 +1,3 @@
-![Buttonhole placket width](buttonholeplacketwidth.svg)
+![Largeur de patte de boutonnage (côté boutonnières)](buttonholeplacketwidth.svg)
 
-The width of your buttonhole placket.
+Largeur de la patte de boutonnage (côté boutonnières).
