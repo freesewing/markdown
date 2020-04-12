@@ -1,4 +1,4 @@
-![Buttonhole placket style](buttonholeplacketstyle.svg)
+![Style de patte de boutonnage (côté boutonnières)](buttonholeplacketstyle.svg)
 
 Do you want classic buttonhole placket, or a seamless one (sometimes called French style)?
 
