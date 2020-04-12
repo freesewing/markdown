@@ -29,11 +29,11 @@ When you cut them individually, remember that they need to be mirror images of e
 
 <Warning>
 
-###### Caveats
+###### Les mises en garde
 
- - The **front right**, **front left**, and **sleeve** have seams that should be made into flat-felled seams. As such, they have extra seam allowance on those seams. When cutting out these pieces, you **must** include this extra seam allowance.
- - The cuff guard and cuff placket have no seam allowance. That is normal, just cut them out as they are drawn on the pattern.
- - Do not cut out the darts in the **back** piece. You should mark them, but not cut them out.
+ - Les coutures du **devant droit**, **devant gauche**, et des **manches** doivent être faites en coutures plates rabattues. C'est pourquoi une marge de couture supllémentaire est prévue sur ces coutures. Lorsque vous découpez ces pièces, vous **devez** inclure cette marge de couture supplémentaire.
+ - La sous-patte et la patte de boutonnage poignet n'ont pas de marge de couture. C'est normal, il suffit de les couper telles qu'elles sont dessinées sur le patron.
+ - Ne coupez pas les pinces **dos**. Marquez les, mais ne les coupez pas.
 
 </Warning>
 
