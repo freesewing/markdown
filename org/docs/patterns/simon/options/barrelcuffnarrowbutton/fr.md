@@ -1,4 +1,4 @@
-![Barrel cuff narrow button](./barrelcuffnarrowbutton.svg)
+![Bouton supplémentaire pour poignet classique](./barrelcuffnarrowbutton.svg)
 
 
 Voulez-vous un bouton en plus pour que le boutonnage de votre poignet soit plus serré ?
