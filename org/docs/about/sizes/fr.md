@@ -32,11 +32,7 @@ Si vous le souhaitez, vous pouvez aussi [afficher les tailles dans une vue élar
 </Tip>
 </div>
 
-## Avec des seins
-
 <SizingTable breasts={true} />
-
-## Sans seins
 
 <SizingTable breasts={false} />
 
