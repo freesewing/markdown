@@ -7,11 +7,11 @@ caption: "Close-up of a dandelion against a pink background"
 author: joost
 ---
 
-Wow! What a year it's been for FreeSewing. In August we released version 2.0 which was nothing less than a complete rewrite of our entire technology stack. For our users, the most obvious change is that you get to see your pattern adapt live in your browser as you tweak options and preferences. It's one of those things that I knew should be possible with the state of web technology today, yet seeing it actually happen still boggles my mind somehow.
+Wahnsinn! Was für ein Jahr für FreeSewing. Im August haben wir die Version 2.0 veröffentlicht, was nichts Geringeres als als ein komplettes Umschreiben unseres gesamten Technologie-Stacks bedeutet hat. Die offensichtlichste Änderung für unsere Nutzer ist, dass ihr eure Schnittmuster jetzt live im Browser angepasst sehen könnt, während ihr die Einstellungen und Optionen anpasst. Das ist eines der Dinge, von denen ich wusste, dass sie mit dem heutigen Stand der Web-Technologie möglich sein sollten, aber es tatsächlich passieren zu sehen übersteigt irgendwie meine Vorstellungskraft.
 
-## Scaling is hard, but we made remarkable progress
+## Skalierung ist schwierig, aber wir haben beachtenswerte Fortschritte gemacht
 
-Cool as our new technoglogy stack is, it is not the most important work we've done over the last year. Yes, it's pretty neat, and yes it's only possible because of the work done on 2.0. But that work itself is what matters most. The main reason for the 2.0 rewrite was to allow the project to scale horizontally. Or to put it bluntly, to allow FreeSewing to go where I could not carry it on my own.
+So cool wie unser neuer Technologie-Stack ist, ist es nicht die wichtigste Arbeit, die wir im letzten Jahr geleistet haben. Ja, es ist ist recht ordentlich und ja, es ist nur wegen der Arbeit am 2.0 möglich. Aber es ist die Arbeit an sich, die am wichtigsten ist. The main reason for the 2.0 rewrite was to allow the project to scale horizontally. Or to put it bluntly, to allow FreeSewing to go where I could not carry it on my own.
 
 In a way, FreeSewing has grown up as a (software) project. We have several people making regular contributions, [an active chat room](https://gitter.im/freesewing/chat), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
 
@@ -21,9 +21,9 @@ We (currently) have [23 patterns available](/patterns/), we publish 62 packages 
 
 Since v2, we've also switched to [Crowdin](https://crowdin.com) for [our translations](https://freesewing.dev/guides/translator/). Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
 
-It's perhaps also a good time to point out that you too can help with this. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+Vielleicht ist das ein guter Zeitpunkt, um euch darauf hinzuweisen, dass auch ihr mithelfen könnt. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
 
-## What we're planning for next year
+## Was wir für das nächste Jahr vor haben
 
 Our next year plans roughly fall apart into two categories: improving our platform, and adding more patterns.
 
