@@ -5,7 +5,7 @@ title: 120|Your first part
 Much like garments themselves, patterns are made up of *parts*. 
 
 Most patterns will have multiple parts. A sleeve, a back part, the collar, and so on.
-Our patterns is very simply, and only has one part: the bib.
+Our patterns is very simple, and only has one part: the bib.
 
 The pattern that's been created for us also just has one part to get you started.
 It's called **box** and it draws a box. If you click on the **Draft your pattern**
