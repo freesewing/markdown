@@ -1,13 +1,13 @@
 ---
-date: 2020-02-23
-title: "New pattern: The Holmes Deerstalker Hat"
+date: 23.02.2020
+title: "Neues Schnittmuster: Die Holmes Deerstalker-Mütze"
 linktitle: "The Holmes Deerstalker Hat"
 img: hat.jpg
 caption: "Screengrab from  Bernadette Banner's YouTube tutorial for this hat"
 author: joost
 ---
 
-Earlier this week, [AlfaLyr](/users/alfalyr) wrote to us to say that she had made a pattern for the iconic Sherlock Holmes Deerstalker hat, based on this YouTube tutorial by [Bernadette Banner](https://www.youtube.com/channel/UCSHtaUm-FjUps090S7crO4Q):
+Anfangs dieser Woche hat [AlfaLyr](/users/alfalyr) uns geschrieben, dass sie anhand dieses YouTube-Tutorials von [Bernadette Banner](https://www.youtube.com/channel/UCSHtaUm-FjUps090S7crO4Q) ein Schnittmuster für die ikonische Sherlock Holmes Deerstalker-Mütze entworfen hat:
 
 <YouTube id='H24VBFMZJF4' />
 
