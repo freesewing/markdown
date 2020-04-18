@@ -34,6 +34,6 @@ Nun legen sie los und machen einen Haufen. Unsere Mitarbeiter im Gesundheitswese
 
 <Note>
 
-PS: You can support us by [becoming a patron](/patrons/join/) ❤️
+PS: Du kannst uns unterstützen indem du [ein Patron](/patrons/join/) wirst :red_heart: 
 </Note>
 
