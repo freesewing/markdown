@@ -113,17 +113,17 @@ Marquez la poche passepoilée de la façon suivante :
  - Alignez l'ouverture centrale de la poche avec une ligne horizontale. Laissez-la dépasser pour vous aider à aligner les rabats plus tard
  - Marquez deux lignes horizontales parallèles à la ligne centrale, à un écart égal à la hauteur d'un rabat (0,5cm dans notre exemple)
 
-The part of the horizontal lines parallel to the center line that fall in between the verticle lines is where we'll sew our welts in place. This is illustrated by the red lines.
+La partie des lignes horizontales parallèle à la ligne centrale qui se situe entre les lignes verticales est l'endroit où nous coudrons nos rabats en place. Cela est illustré par les lignes rouges.
 
-### Step 3: Fold and press the welts
+### Étape 3 : Pliez et pressez les rabats
 
 ![Fold and press the welts](step03.png)
 
-Fold the welts parallel with the long side, with the good side out.
+Plier les rabats parallèlement au côté long, avec l'endroit visible.
 
-Don't fold them in half. Instead make one side 1cm longer than the other.
+Ne les pliez pas en deux moitiés. Pliez plutôt en laissant un des deux côtés plus long d'1 cm.
 
-Press the fold so that it becomes a sharp crease.
+Pressez le pli de façon à ce qu'il soit bien aplati.
 
 > By offsetting the edges, the welt edge tapers off, which reduces bulk and visibility on the outside of the garment.
 
