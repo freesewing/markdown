@@ -99,19 +99,19 @@ La forme du sac de poche dépend du patron. Pour plus de simplicité, je vais ut
 
 ![Fuse interfacing in place](step01.png)
 
-Fuse the pocket interfacing to the bad side of your garment, so that it covers the place where you will make the welt pocket.
+Thermocollez l'entoilage de poche sur l'envers de votre vêtement, de sorte qu'il couvre l'endroit où vous ferez la poche passepoilée.
 
-> Patterns typically have notches that help you determine the placement of a welt pocket
+> Les patrons on généralement des repères qui aident à déterminer l'emplacement de la poche passepoilée
 
-### Step 2: Mark the welt pocket on the good side of the fabric
+### Étape 2 : Marquez la poche passepoilée sur l'endroit du tissu
 
 ![Mark the welt pocket on the good side of the fabric](step02.png)
 
-Mark the welt pocket as follows:
+Marquez la poche passepoilée de la façon suivante :
 
- - Mark the pocket width with the vertical lines. Let these lines extend to help you align the welts later
- - Align the center opening of the pocket with a horizontal line. Let it extend to help you align the welts later
- - Mark two horizontal lines parallel to the center line, at an offset equal to the welt height (0.5cm in our example)
+ - Marquez la largueur de la poche avec les lignes verticales. Laissez ces lignes dépasser pour vous aider à aligner les rabats plus tard
+ - Alignez l'ouverture centrale de la poche avec une ligne horizontale. Laissez-la dépasser pour vous aider à aligner les rabats plus tard
+ - Marquez deux lignes horizontales parallèles à la ligne centrale, à un écart égal à la hauteur d'un rabat (0,5cm dans notre exemple)
 
 The part of the horizontal lines parallel to the center line that fall in between the verticle lines is where we'll sew our welts in place. This is illustrated by the red lines.
 
