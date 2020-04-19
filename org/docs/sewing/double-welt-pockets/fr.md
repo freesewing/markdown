@@ -24,7 +24,7 @@ Pour fabriquer une poche à doubles rabats (passepoilée), vous aurez besoin de 
  - Deux bandes de tissu pour les rabats
  - Une bande d'entoilage
  - Doublure ou autre tissu adapté pour le fond de poche (Voir les options de tissu et de couleur)
- - Tissu décoratif pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
+ - Parement pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
 
 ### Paramètres
 
@@ -67,11 +67,11 @@ Pour notre exemple :
 
 > Vous avez peut-être remarqué que l'entoilage est de la même taille qu'un rabat
 
-The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
+L'entoilage est utilisé pour stabiliser la poche, et sera thermocollé au tissu avec votre fer.
 
-### Optionnel: décoration intérieure de poche
+### Optionnel: parement fond de poche
 
-The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
+Le parement de poche (optionnelle) est une seule bande rectangulaire de tissu avec les mesures suivantes :
 
  - Longueur : Largeur de poche + 4cm
  - Largeur : Hauteur du rabat x2 + 5cm
@@ -81,21 +81,21 @@ Pour notre exemple :
  - Longueur : 13+4 = 17cm
  - Largeur : (0.5x2)+5 = 6cm
 
-> You may have noticed that the facing is the same size as a welt
+> Vous avez peut-être remarqué que le parement est de la même taille qu'un rabat
 
-The facing is what you'll see when you peer through the opening of your pocket.
+Le parement est ce que vous verrez quand vous regardez à travers l'ouverture de votre poche.
 
-The facing is optional, if you do not use it, peering through the pocket will reveal whatever material the pocket bag is made from.
+Le parement est optionnel, si vous ne l'utilisez pas, l'ouverture de la poche révèlera le tissu dont le sac de poche sera fait.
 
-### Pocket bag
+### Sac de poche
 
-The shape of the pocket bag depends on the pattern. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
+La forme du sac de poche dépend du patron. Pour plus de simplicité, je vais utiliser un sac de poche rectangulaire avec des coins arrondis en bas comme vous pouvez le trouver sur les poches arrière du pantalon.
 
-> There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
+> Il y a généralement une version plus longue et plus courte du sac de poche. Cela est dû au fait que l'un des côtés est attaché au rabat du haut, tandis que l'autre est attaché au rabat du bas.
 
-## Construction
+## Montage
 
-### Step 1: Fuse interfacing in place
+### Étape 1 : Thermocoller l'entoilage en place
 
 ![Fuse interfacing in place](step01.png)
 
