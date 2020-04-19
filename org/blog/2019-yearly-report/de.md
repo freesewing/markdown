@@ -19,7 +19,7 @@ Wir haben (derzeit) [23 verfügbare Schnittmuster](/patterns/) und wir veröffen
 
 ## Übersetzen war noch nie einfacher
 
-Since v2, we've also switched to [Crowdin](https://crowdin.com) for [our translations](https://freesewing.dev/guides/translator/). Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
+Seit v2 haben wir für [unsere Übersetzungen](https://freesewing.dev/guides/translator/) auf [Crowdin](https://crowdin.com) gewechselt. Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
 
 Vielleicht ist das ein guter Zeitpunkt, um euch darauf hinzuweisen, dass auch ihr mithelfen könnt. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
 
