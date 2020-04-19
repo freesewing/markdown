@@ -1,7 +1,7 @@
 ---
-title: Knee circumference
+title: Knieumfang
 ---
 
-The **knee circumference** is the measurement around your knee.
+Der **Knieumfang** ist das Mass um dein Knie.
 
-To measure your **knee circumference**, wrap the tape measure around your knee. Make sure to keep the tape measure horizontal to the floor as you measure the circumference of your knee.
+Um deinen **Knieumfang** zu messen, wickle das Massband um dein Knie. Achte darauf das Massband parallel zum Boden zu halten, während du den Umfang deines Knies misst.
