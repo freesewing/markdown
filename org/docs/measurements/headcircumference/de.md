@@ -1,7 +1,7 @@
 ---
-title: Head circumference
+title: Kopfumfang
 ---
 
-The **head circumference** measurement wraps around the fullest part of your head.
+Der **Kopfumfang** umwickelt den weitesten Teil deines Kopfes.
 
-To measure your head circumference, wrap the tape measure around your head at the height of your forehead.
+Um den Kopfumfang zu messen, wickle das Massband auf Stirnhöhe um den Kopf.
