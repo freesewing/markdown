@@ -1,10 +1,10 @@
 ---
-date: 2016-03-19
-title: Hugo als hoodie met rits door Nani Roma
+date: 2014-09-15
+title: Een zeldzame waarneming van Bruce op een menselijk model
 img: showcase.jpg
-caption: Dit vind ik heel cool
+caption: Afhankelijk van je job is dit misschien NSFW
 patterns:
-  - hugo
-author: Nani Roma
+  - bruce
+author: joost
 ---
 
