@@ -1,7 +1,6 @@
 - - -
 - - -
 
-import PatternOptions from '../../../../../../src/components/docs/pattern-options'
+import PatternDocs from '../../../../../src/components/docs/pattern'
 
-<PatternOptions pattern='benjamin' />
-
+<PatternDocs pattern='benjamin' />
