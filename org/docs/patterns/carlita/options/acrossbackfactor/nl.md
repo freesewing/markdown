@@ -1,3 +1,3 @@
-![Rugwijdte factor](./acrossbackfactor.svg)
+![Diepte armsgat factor](./armholedepthfactor.svg)
 
-Geeft controle over de breedte van je rug als een factor van je schouder tot schouder maat
+Dit controleert de diepte van het armsgat, wat vervolgens de breedte van de mouwkop beïnvloedt.
