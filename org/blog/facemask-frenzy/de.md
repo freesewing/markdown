@@ -3,32 +3,32 @@ date: 19.03.2020
 title: "Aufruf an alle Macher: Hier ist ein 1-seitiges PDF-Gesichtsmasken-Muster; Jetzt gehen Sie und machen Sie welche und helfen Sie, dieses Ding zu schlagen"
 linktitle: "Gesichtsmasken Frenzy"
 img: diana.jpg
-caption: "Dr. Dragnea aus dem Antwerpener Universitätskrankenhaus mit einer Fu-Facemaske"
+caption: "Dr. Dragnea from Antwerp University hospital wearing a Florence facemask"
 author: joost
 ---
 
 <Note>
 
-**TL;DR: Bitte machen Sie Gesichtsmasken für Mitarbeiter im Gesundheitswesen**
+**TL;DR: Please make facemasks for healthcare workers**
 
 
- - PDF-Muster für unsere Fu-Gesichtsmaske:
-   - [A4 Gesichtsmaske Schnittmuster](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter Gesichtsmaske Schnittmuster](/fu-facemask-freesewing.org.letter.pdf)
- - [Anleitung für das Gesichtsmaskenmuster](/docs/patterns/fu/instructions/)
+ - PDF pattern for our Florence face mask:
+   - [A4 facemask pattern](/florence-facemask-freesewing.org.a4.pdf)
+   - [Letter facemask pattern](/florence-facemask-freesewing.org.letter.pdf)
+ - [Instructions for the facemask pattern](/docs/patterns/florence/instructions/)
 
 </Note>
 
 <YouTube id='VcQ69_ANsRA' />
 
-Das eskalierte schnell. Wir haben Ende letzten Monats [unser Fu-Gesichtsmaskenmuster](/desdesigns/fu/) veröffentlicht, in der Hoffnung, dass es hilfreich sein könnte. Jetzt gehen [Krankenhäuser aktiv auf die Menschen zu, um sie zu bitten, Stoffgesichtsmasken für ihr Personal herzustellen](https://www.uza.be/mondmaskers).
+Das eskalierte schnell. We published [our Florence Face Mask pattern](/designs/florence/) at the end of last month, hoping it would be helpful. Jetzt gehen [Krankenhäuser aktiv auf die Menschen zu, um sie zu bitten, Stoffgesichtsmasken für ihr Personal herzustellen](https://www.uza.be/mondmaskers).
 
 Also wollen wir natürlich helfen:
 
- - PDF-Muster für unsere Fu-Gesichtsmaske:
-   - [A4-Gesichtsmasken Schnittmuster](/fu-facemask-freesewing.org.a4.pdf)
-   - [Letter Gesichtsmasken Schnittmuster](/fu-facemask-freesewing.org.letter.pdf)
- - [Anleitung für das Gesichtsmasken Schnittmuster](/docs/patterns/fu/instructions/)
+ - PDF pattern for our Florence face mask:
+   - [A4-Gesichtsmasken Schnittmuster](/florence-facemask-freesewing.org.a4.pdf)
+   - [Letter Gesichtsmasken Schnittmuster](/florence-facemask-freesewing.org.letter.pdf)
+ - [Anleitung für das Gesichtsmasken Schnittmuster](/docs/patterns/florence/instructions/)
 
 Nun legen sie los und machen einen Haufen. Unsere Mitarbeiter im Gesundheitswesen zählen auf Sie!
 
