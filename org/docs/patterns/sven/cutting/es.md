@@ -1,17 +1,19 @@
-To make Sven, you will need the following:
+Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
 
-- Basic sewing supplies
-- About 1.75 meter of a suitable fabric ([see Fabric options](#fabric-options))
-- Ribbing fabric for the cuffs and neck opening
+ - **Main fabric**
+   - Cut **1 back** on the fold
+   - Cut **1 front** on the fold
+   - Cut **2 sleeves** with good sides together
+ - **Ribbing fabric**
+   - Cut **1 strip** for the neck opening binding
+   - Cut **2 strips**  for the cuffs
+   - Cut **1 strip**  for the hem
 
-<Note>
+<Warning>
 
-###### A serger/overlock is nice, but optional
+######  Caveats
 
-As with all knitwear and stretch fabrics, a serger/overlock will make your life easier.
+The ribbing parts are not included on the pattern because they're just rectangular.
 
-If you do not have one of those, don't despair. You don't really need it. 
-Because these side seams and shoulder seams won't get stretched out, you can just sew them with a regular straight stitch.
-
-</Note>
+</Warning>
 
