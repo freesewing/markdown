@@ -1,9 +1,9 @@
 ---
 date: 2020-02-28
 title: We just published a face mask pattern, because coronavirus
-linktitle: "Fu face mask"
+linktitle: "Florence face mask"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Fu face mask"
+caption: "Keep those virus-infesed droplets at bay with our Florence face mask"
 author: joost
 ---
 
@@ -11,7 +11,7 @@ author: joost
 The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, 
 the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
 
-Perhaps not much, but we can design patterns. So say hi to the [Fu face mask](/designs/fu/), 
+Perhaps not much, but we can design patterns. So say hi to the [Florence face mask](/designs/florence/), 
 a simple pattern that allows you make your own face masks. One that you can wear all day, 
 because those medical ones aren't exactly comfortable.
 

@@ -1,7 +1,7 @@
 ---
-date: 28.02.2020
+date: 2020-02-28
 title: Wir haben gerade ein Gesichtsmaskenmuster wegen des Coronavirus veröffentlicht
-linktitle: "Fu-Gesichtsschutzmaske"
+linktitle: "Florence-Gesichtsschutzmaske"
 img: drops.jpg
 caption: "Halten Sie diese mit dem Virus infizierten Tröpfchen mit unserer Fu-Gesichtsmaske in Schach"
 author: joost
@@ -10,7 +10,7 @@ author: joost
 
 Die Ausbreitung des Coronavirus Covid-19 scheint unerbittlich zu sein, und trotz der besten Versuche weltweit wird die Möglichkeit einer globalen Pandemie von Tag zu Tag realer. Das wirft die Frage auf, was wir tun können?
 
-Vielleicht nicht viel, aber wir können Schnittmuster entwerfen. Begrüßen Sie also die [Fu-Gesichtsmaske](/designs/fu/), ein einfaches Schnittmuster, mit dem Sie Ihre eigenen Gesichtsmasken anfertigen können. Eine, die man den ganzen Tag tragen kann, denn diese medizinischen Geräte sind nicht gerade bequem.
+Vielleicht nicht viel, aber wir können Schnittmuster entwerfen. Begrüßen Sie also die [Florence-Gesichtsmaske](/designs/florence/), ein einfaches Schnittmuster, mit dem Sie Ihre eigenen Gesichtsmasken anfertigen können. Eine, die man den ganzen Tag tragen kann, denn diese medizinischen Geräte sind nicht gerade bequem.
 
 Ob eine Gesichtsmaske tatsächlich hilft, ist Gegenstand einer Diskussion. Ich habe ein bisschen hin und her über die Frage nachgedacht, ob ich ein Schnittmuster für eine Gesichtsmaske veröffentlichen soll. Dann - heute früh - las ich einen [Guardian](https://www.theguardian.com/) Artikel namens [Ja, es ist schlimmer als die Grippe: die Auflösung der Coronavirus-Mythen](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). Sie enthielt die folgende Passage unter dem Mythos *Gesichtsmasken funktionieren nicht*:
 
