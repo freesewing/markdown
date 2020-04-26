@@ -1,3 +1,4 @@
-![The cuff ease factor on Brian](./cuffease.svg)
 
-This option controls the ease at your wrist.
+![Collar ease](./collarease.svg)
+
+Controls the amount of ease at your collar/neck.
