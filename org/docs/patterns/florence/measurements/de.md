@@ -1,5 +1,7 @@
+---
+---
 
 import PatternMeasurements from '../../../../../../src/components/docs/pattern-measurements'
 
-<PatternMeasurements pattern='fu' />
+<PatternMeasurements pattern='florence' />
 

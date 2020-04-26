@@ -2,7 +2,7 @@
 title: Cutting
 ---
 
-Fu solo tiene una parte, la *mascarilla*. Ésto es la mitad de la máscara, así que necesitaremos dos. Además, queremos una capa experior y un forro, así que necesitaremos cuatro en total:
+Florence solo tiene una parte, la *mascarilla*. Ésto es la mitad de la máscara, así que necesitaremos dos. Además, queremos una capa experior y un forro, así que necesitaremos cuatro en total:
 
  - **Main fabric**
    - Corta **2 partes** de mascarilla
