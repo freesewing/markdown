@@ -1,6 +1,6 @@
-![Le décalage descendant du premier quadrant de la tête de manche](./sleevecapq1downwardspread.svg)
+![Le décalage ascendant du premier quadrant de la tête de manche](./sleevecapq1spread2.svg)
 
-Cette option contrôle le décalage descendant dans le premier quadrant de la tête de manche.
+Cette option contrôle le décalage ascendant dans le premier quadrant de la tête de manche.
 
 <Tip>
 
