@@ -1,79 +1,57 @@
 ---
-date: 2018-08-25
-title: "Celebrating one year of freesewing.org: Announcing the freesewing library"
-linktitle: "Announcing the freesewing library"
-img: uncork.jpg
-caption: "I don't drink, but this seemed appropriate for a celebration post ¯\_(ツ)_/¯"
+date: 2017-12-20
+title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
+linktitle: "Announcing the Carlton Coat and Bent Body Block"
+img: coat.jpg
+caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
 author: joost
 ---
 
-Exactly one year ago, the doors of freesewing.org swung open for our users, while those of makemypattern.com get one of those *we've moved* signs.
+Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
 
-Looking back at [that blog post from 12 months ago](/blog/open-for-business), it almost beggars belief that the things announced then are only one year old. The concept of a draft, the comparison functionality, or even paperless patterns. They all celebrate their first birthday today.
+My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
 
-Not this site though, because [driven by the looming GDPR deadline](/blog/gdpr-plan), we dumped our Jekyll based site for a new front end sometime in May.
+What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
 
-## More languages with less languages
+![That coat though](bc.jpg)
 
-GDPR was only part of that story. Other reasons for the rewrite were our desire to support multiple languages, and to simplify our technology stack.
+The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
 
-In other words, we wanted to reach people who speak different languages, and wanted to limit the number of programming languages required to do so.
+I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
 
-### More natural languages
+Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
 
-We've done remarkably well on this front. While you won't find every last bit of content translated, this website's main features are now available in five languages:
+### About the coat
 
- - English
- - German
- - Spanish
- - French
- - Dutch
+Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
 
-Which really is 100% thanks to the great work of [our wonderful translators](/i18n/).
+![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
-### Less programming languages
+It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
 
-The switch from [Jekyll]() to a [Nuxt](https://nuxtjs.org/)-based front-end has removed [Ruby](https://www.ruby-lang.org/) from our technology stack. Freesewing.org now runs on JavaScript, PHP and a little bit of C (which we'll ignore for now).
+![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
 
-But removing programming languages is not a goal *an sich*. Rather, the underlying ambition is to simplify things, make it easier for people to get involved, and ultimately attract more contributors so that the project can grow and flourish.
+I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
 
-Today, designing/developing patterns is not an insurmountable obstacle. We've got [benjamin](/patterns/benjamin), [florent](/patterns/florent), and [sandy](/patterns/sandy) to show for it. All of these were contributed by people for whom freesewing was initially new, they went through the design tutorial, and in the end created a pattern of their own.
+![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
 
-We'd like more people to follow in their footsteps. So making the process as simple as possible is a worthy investment of our time.
+### Burn the patriarchy to the ground through the power of pockets
 
-## Announcing freesewing, the library
+Ladies take note: Carlita --- a female version of Carlton --- is currently on the drawing board.
 
-For the past 2 months, I have taken time off from pattern making and sewing to tackle our [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
+Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
 
-Specifically, I've set out to rewrite our core back-end from the ground up in JavaScript. But there's a twist. It's no longer a back-end. It's a library you can use both in your browser, or on the server with [node.js](https://nodejs.org/).
+I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
 
-It is currently in version 0.10, and feature complete with freesewing core. It's [available on GitHub](https://github.com/freesewing/freesewing) and [NPM](https://www.npmjs.com/package/freesewing), and is fully documented at [developer.freesewing.org](https://developer.freesewing.org/).
+Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
 
-And while its API is richer than core's, it's footprint is actually a lot smaller:
+## Also, this: Introducing the Bent Body Block
+We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
 
-![Lines of code comparison between the new library and (the relevant portion of) freesewing core](corevsfreesewing.svg)
+Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
 
-Which is good news, in case you were wondering.
+I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
 
-## What happens next?
+Carlton is also based on Bent, so we're giving you both today.
 
-A lot of work needs to be done before we can actually use this on freesewing.org:
-
-
- - All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
- - Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
- - Build a new website using the freesewing library and our new data back-end.
-
-This really is a lot of work, and while I hope that by the end of the year we'll have made good progress, I can't promise it will be done.
-
-## But I just want patterns
-
-Chances are, all you care about is patterns. What you want is more patterns, better patterns, different patterns. And all of this rewriting is not exactly pushing your buttons.
-
-I get that. I really do. I for one have a list of patterns I'd like to see added to the site. And my work on other aspects of the project keeps me from adding them.
-
-But I believe that investing now in a streamlined developer experience will have a knock-on effect in the long term.
-
-If we want a few extra patterns, this is not the right approach. But if we want a lot more patterns, I believe it is.
-
-And I want a lot more patterns.
+Have wonderful and happy holidays if you're into that kind of thing. And happy making!
