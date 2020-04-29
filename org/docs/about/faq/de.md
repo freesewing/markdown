@@ -2,9 +2,9 @@
 title: Häufig gestellte Fragen
 ---
 
-## How can I sign up? I never received the E-mail to activate my account!
+## Wie kann ich mich registrieren? Ich habe nie eine E-Mail zur Aktivierung meines Kontos erhalten!
 
-If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+Wenn Sie die E-Mail nicht erhalten haben, überprüfen Sie Ihren Spam/Junk Ordner. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
 
 Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
 

@@ -33,7 +33,7 @@ Der Punkt ist, diese IP-Adresse oder einer ihrer Nachbarn hat *eine schlechte Re
 
 Was uns zu der nächsten Frage bringt:
 
-## Who would do something like that?
+## Wer würde so etwas tun?
 
 Gute Frage. Hier sind ein paar Beispiele:
 

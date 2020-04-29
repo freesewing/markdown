@@ -1,13 +1,13 @@
 ---
 date: 2017-06-16
-title: "The choices I've made to protect your privacy. Or why you won't be getting any cookies."
-linktitle: "Choices regarding privacy"
+title: "Die Entscheidungen, die ich getroffen habe, um Ihre Privatsphäre zu schützen. Oder, warum Sie keine Cookies erhalten werden."
+linktitle: "Entscheidungen bezüglich Privatsphäre"
 img: fence.jpg
 caption: "Picture by <a href='https://pixabay.com/en/users/herbert2512-2929941/' target='_BLANK' rel='nofollow'>Herbert</a>"
 author: joost
 ---
 
-The world wide web is increasingly eroding your privacy. Facebook, Google, and an avalanche of ad networks out there are all keeping tabs on your browser tabs. Tracking you on the web, keeping an an eye on the sites your visiting, so that they can gather more info on you, and sell that to advertisers.
+Das World Wide Web untergräbt immer mehr Ihre Privatsphäre. Facebook, Google und eine ganze Armada an Werbenetzwerken haben ihre Browsertabs im Blick. Tracking you on the web, keeping an an eye on the sites your visiting, so that they can gather more info on you, and sell that to advertisers.
 
 Pardon my French, but I hate that shit.
 

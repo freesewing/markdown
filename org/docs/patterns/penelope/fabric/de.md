@@ -1,4 +1,4 @@
 
-A pencil skirt is a rather formal cut, and most commonly made in a suiting material. In other words, a fine wool. More casual options among medium weight fabrics include cotton or denim.
+Ein Bleistiftrock ist ein eher formaler Schnitt, der meist in einem Anzugsstoff hergestellt wird. Mit anderen Worten, in einer feinen Wolle. Zu den eher lockeren Wahlmöglichkeiten bei den mittelschweren Stoffen gehören Baumwolle oder Denim.
 
-Using a fabric with some stretch will make it easier to get a comfortable fit and give you some more room to move about as pencil skirts fit rather tight.
+Einen Stoff mit etwas Dehnbarkeit zu verwenden wird es einfacher machen eine bequeme Passform zu bekommen, und dir mehr Bewegungsfreiheit geben, da Bleistiftröcke ziemlich eng passen.

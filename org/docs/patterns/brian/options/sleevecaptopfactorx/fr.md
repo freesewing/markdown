@@ -1,4 +1,4 @@
-![La position horizontale de la tête de manche](./sleevecaptopfactorx.svg)
+![La position horizontale du haut de la tête de manche](./sleevecaptopfactorx.svg)
 
 Contrôle l'emplacement horizontal de la tête de manche.
 

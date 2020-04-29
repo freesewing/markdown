@@ -4,7 +4,7 @@ Do you want the button placket to be sewn in place (classic style), or folded ba
 
 <Tip>
 
-Seamless is less work, and it looks great.
+La patte de boutonnage à gorge cachée est plus facile, et a un très beau rendu.
 
 </Tip>
 

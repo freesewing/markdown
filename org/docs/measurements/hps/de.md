@@ -1,5 +1,5 @@
 ---
-title: High Point Shoulder (HPS)
+title: Höchster Schulterpunkt (HPS)
 ---
 
 The *high point shoulder* or *HPS* point is used as the base for several vertical measurements.

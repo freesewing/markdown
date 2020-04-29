@@ -33,11 +33,7 @@ Of, if you'd like, you can also [show sizes in a wide view](/sizes/).
 </Tip>
 </div>
 
-## With breasts
-
 <SizingTable breasts={true} />
-
-## Without breasts
 
 <SizingTable breasts={false} />
 

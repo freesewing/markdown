@@ -24,7 +24,7 @@ Pour fabriquer une poche à doubles rabats (passepoilée), vous aurez besoin de 
  - Deux bandes de tissu pour les rabats
  - Une bande d'entoilage
  - Doublure ou autre tissu adapté pour le fond de poche (Voir les options de tissu et de couleur)
- - Tissu décoratif pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
+ - Parement pour l'intérieur de la poche, en fonction de vos options de tissu et de couleurs
 
 ### Paramètres
 
@@ -67,11 +67,11 @@ Pour notre exemple :
 
 > Vous avez peut-être remarqué que l'entoilage est de la même taille qu'un rabat
 
-The interfacing is used to stabalize the pocket, and will be fused to the fabric with your iron.
+L'entoilage est utilisé pour stabiliser la poche, et sera thermocollé au tissu avec votre fer.
 
-### Optionnel: décoration intérieure de poche
+### Optionnel: parement fond de poche
 
-The (optional) pocket facing is a single rectangular strip of fabric with the following measurements:
+Le parement de poche (optionnelle) est une seule bande rectangulaire de tissu avec les mesures suivantes :
 
  - Longueur : Largeur de poche + 4cm
  - Largeur : Hauteur du rabat x2 + 5cm
@@ -81,49 +81,49 @@ Pour notre exemple :
  - Longueur : 13+4 = 17cm
  - Largeur : (0.5x2)+5 = 6cm
 
-> You may have noticed that the facing is the same size as a welt
+> Vous avez peut-être remarqué que le parement est de la même taille qu'un rabat
 
-The facing is what you'll see when you peer through the opening of your pocket.
+Le parement est ce que vous verrez quand vous regardez à travers l'ouverture de votre poche.
 
-The facing is optional, if you do not use it, peering through the pocket will reveal whatever material the pocket bag is made from.
+Le parement est optionnel, si vous ne l'utilisez pas, l'ouverture de la poche révèlera le tissu dont le sac de poche sera fait.
 
-### Pocket bag
+### Sac de poche
 
-The shape of the pocket bag depends on the pattern. For simplicity, I will use a rectangular pocket bag with rounded corners at the bottom as you may find on the back pockets of trousers.
+La forme du sac de poche dépend du patron. Pour plus de simplicité, je vais utiliser un sac de poche rectangulaire avec des coins arrondis en bas comme vous pouvez le trouver sur les poches arrière du pantalon.
 
-> There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
+> Il y a généralement une version plus longue et plus courte du sac de poche. Cela est dû au fait que l'un des côtés est attaché au rabat du haut, tandis que l'autre est attaché au rabat du bas.
 
-## Construction
+## Montage
 
-### Step 1: Fuse interfacing in place
+### Étape 1 : Thermocoller l'entoilage en place
 
 ![Fuse interfacing in place](step01.png)
 
-Fuse the pocket interfacing to the bad side of your garment, so that it covers the place where you will make the welt pocket.
+Thermocollez l'entoilage de poche sur l'envers de votre vêtement, de sorte qu'il couvre l'endroit où vous ferez la poche passepoilée.
 
-> Patterns typically have notches that help you determine the placement of a welt pocket
+> Les patrons on généralement des repères qui aident à déterminer l'emplacement de la poche passepoilée
 
-### Step 2: Mark the welt pocket on the good side of the fabric
+### Étape 2 : Marquez la poche passepoilée sur l'endroit du tissu
 
 ![Mark the welt pocket on the good side of the fabric](step02.png)
 
-Mark the welt pocket as follows:
+Marquez la poche passepoilée de la façon suivante :
 
- - Mark the pocket width with the vertical lines. Let these lines extend to help you align the welts later
- - Align the center opening of the pocket with a horizontal line. Let it extend to help you align the welts later
- - Mark two horizontal lines parallel to the center line, at an offset equal to the welt height (0.5cm in our example)
+ - Marquez la largueur de la poche avec les lignes verticales. Laissez ces lignes dépasser pour vous aider à aligner les rabats plus tard
+ - Alignez l'ouverture centrale de la poche avec une ligne horizontale. Laissez-la dépasser pour vous aider à aligner les rabats plus tard
+ - Marquez deux lignes horizontales parallèles à la ligne centrale, à un écart égal à la hauteur d'un rabat (0,5cm dans notre exemple)
 
-The part of the horizontal lines parallel to the center line that fall in between the verticle lines is where we'll sew our welts in place. This is illustrated by the red lines.
+La partie des lignes horizontales parallèle à la ligne centrale qui se situe entre les lignes verticales est l'endroit où nous coudrons nos rabats en place. Cela est illustré par les lignes rouges.
 
-### Step 3: Fold and press the welts
+### Étape 3 : Pliez et pressez les rabats
 
 ![Fold and press the welts](step03.png)
 
-Fold the welts parallel with the long side, with the good side out.
+Plier les rabats parallèlement au côté long, avec l'endroit visible.
 
-Don't fold them in half. Instead make one side 1cm longer than the other.
+Ne les pliez pas en deux moitiés. Pliez plutôt en laissant un des deux côtés plus long d'1 cm.
 
-Press the fold so that it becomes a sharp crease.
+Pressez le pli de façon à ce qu'il soit bien aplati.
 
 > By offsetting the edges, the welt edge tapers off, which reduces bulk and visibility on the outside of the garment.
 
