@@ -1,16 +1,16 @@
 ---
 date: 2020-02-28
 title: Nous venons de publier un patron de masque facial, en raison du coronavirus
-linktitle: "Masque facial Florence"
+linktitle: "Florence face mask"
 img: drops.jpg
-caption: "Gardez à distance ces gouttelettes infestées de virus avec notre masque Florence"
+caption: "Keep those virus-infesed droplets at bay with our Florence face mask"
 author: joost
 ---
 
 
 La propagation du coronavirus Covid-19 semble implacable et malgré les meilleures tentatives du monde, la possibilité d'une pandémie mondiale devient de plus en plus réelle chaque jour. D'où la question : que peut-on faire ?
 
-Même si c'est peu, nous pouvons concevoir des patrons. Alors dites bonjour au [masque facial Florence ](/designs/florence/), un patron simple qui vous permet de créer vos propres masques. Un masque que vous pouvez porter toute la journée, parce que les masques médicaux ne sont pas vraiment confortables.
+Même si c'est peu, nous pouvons concevoir des patrons. So say hi to the [Florence face mask](/designs/florence/), a simple pattern that allows you make your own face masks. Un masque que vous pouvez porter toute la journée, parce que les masques médicaux ne sont pas vraiment confortables.
 
 La question de savoir si un masque protège réellement est débattue. J'ai un peu tergiversé avant de publier un patron de masque facial. Puis — un peu plus tôt aujourd'hui — j'ai lu un article [du Guardian](https://www.theguardian.com/) appelé [Oui, c'est pire que la grippe: bousculer les mythes coronavirus](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). Il incluait le passage suivant *Mythe les masques de visage ne fonctionnent pas* :
 
