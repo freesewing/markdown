@@ -1,38 +1,38 @@
 ---
 date: 2017-12-10
-title: "Calling all Patrons; Join our bedrock of loyal supporters."
-linktitle: "Calling all Patrons"
+title: "Oproep aan alle Patrons: sluit je aan bij onze trouwe supportersgroep"
+linktitle: "Oproep aan alle Patrons"
 img: phone.jpg
-caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
+caption: "We bouwen een trouwe supportersgroep om mee te werken aan een duurzame toekomst voor FreeSewing.org, onze code, onze patronen en onze community."
 author: joost
 ---
 
-Every year, on this day, I write about what happened in the previous 12 months, and look ahead at what you can expect in the year ahead.
+Elk jaar schrijf ik op deze dag neer wat er gebeurd is in de afgelopen twaalf maanden en kijk ik vooruit naar wat je in het komende jaar kan verwachten.
 
-This year is no different, but boy do I have a lot to talk about.
+Dit jaar is niet anders, maar wauw, wat heb ik veel te vertellen!
 
-## 2017: the year freesewing was born
+## 2017: het geboortejaar van FreeSewing
 
-While freesewing was conceived in 2016 -- that's when I started working on it -- 2017 was the year it saw the light of day.
+FreeSewing werd verwekt in 2016 – dat is het jaar waarin ik eraan begon te werken – maar in 2017 kwam het echt ter wereld.
 
-Freesewing core v1.0.0 [was released in March this year](/blog/announcing-freesewing/). For most people, that event passed under the radar. An open source platform for made-to-measure sewing patterns? What does this thing actually do?
+In maart van dit jaar [werd de FreeSewing core v1.0.0 gelanceerd](/blog/announcing-freesewing/). Voor de meeste mensen bleef dat onopgemerkt. Een open-sourceplatform voor naaipatronen op maat? Wat doet dat ding eigenlijk?
 
-A lot, as it turns out. Something that's become more obvious since [the release of freesewing.org](/blog/open-for-business/) at the end of August.
+Veel, zo blijkt. Dat is steeds duidelijker geworden sinds [de lancering van FreeSewing.org](/blog/open-for-business/) eind augustus.
 
 ![Image from the original announcement blog post](open.jpg)
 
-On Christmas day, it will (only) have been four months since this release. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Op kerstdag is het (nog maar) vier maanden geleden sinds die lancering. Maar in die tijd hebben we **2735 gebruikers** geregistreerd voor wie we **1522 patroonversies** en **2359 modellen** hosten.
 
-We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
+Bij de lancering hadden we elf patronen. Sindsdien hebben we er nog vier toegevoegd, zodat het totaal nu op vijftien staat. De helft van die nieuwe patronen komen uit onze community, wat ik bijzonder veelbelovend vind.
 
-Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
+Ja, het is nog vroeg. Maar ik durf gerust te zeggen dat het een goede beslissing was om makemypattern.com heruit te vinden als een open-sourceproject.
 
-Speaking of which.
+En nu we het er toch over hebben.
 
-## MakeMyPattern.com is no more
-Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
+## MakeMyPattern.com bestaat niet meer
+Kort voor de publicatie van deze blogpost heb ik de stekker uit [makemypattern.com](https://makemypattern.com/) getrokken.
 
-You can try to visit that link, but you'll only end up back here.
+Probeer gerust om op de link te klikken, maar je komt toch terug hier terecht.
 
 MakeMyPattern.com saw the light of day in 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
 
