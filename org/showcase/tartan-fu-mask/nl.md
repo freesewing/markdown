@@ -1,15 +1,15 @@
 ---
 date: 2020-03-01
-title: A Fu face mask in red and blue
+title: A Florence face mask in red and blue
 img: showcase.jpg
-caption: Sorcha wears a red and blue tartan Fu face mask
+caption: Sorcha wears a red and blue tartan Florence face mask
 patterns:
-  - fu
+  - florence
 author: joost
 ---
 
 Sorcha is a healthcare provider working in the [Antwerp University Hospital](https://www.uza.be/), one of Belgium's two centres of reference for coronavirus.
 
-At work, she wears medical-grade face mask. This [Fu face mask](/designs/fu/) is for her commute to work on public transport.
+At work, she wears a medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
 
 
