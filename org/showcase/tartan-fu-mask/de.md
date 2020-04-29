@@ -1,15 +1,15 @@
 ---
 date: 01.03.2020
-title: Eine Fu Gesichtsmaske in rot und blau
+title: A Florence face mask in red and blue
 img: showcase.jpg
-caption: Sorcha trägt eine rote und blaue Tartan Fu Gesicht Maske
+caption: Sorcha wears a red and blue tartan Florence face mask
 patterns:
-  - Fu
+  - florence
 author: joost
 ---
 
 Sorcha ist eine Angestellte der [Universitätsklinik Antwerpen](https://www.uza.be/), eines der beiden belgischen Referenzzentren für Coronaviren.
 
-Bei der Arbeit trägt sie eine Gesichtsmaske in medizinischer Qualität. Diese [Fu-Gesichtsmaske](/designs/fu/) ist für ihr Pendeln zur Arbeit im öffentlichen Verkehr.
+At work, she wears a medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
 
 
