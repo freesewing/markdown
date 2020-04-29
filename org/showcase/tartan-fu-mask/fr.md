@@ -1,15 +1,15 @@
 ---
 date: 2020-03-01
-title: Un masque Fu rouge et bleu
+title: A Florence face mask in red and blue
 img: showcase.jpg
-caption: Sorcha porte un masque écossais rouge et bleu Fu
+caption: Sorcha wears a red and blue tartan Florence face mask
 patterns:
-  - fu
+  - florence
 author: joost
 ---
 
 Sorcha est une professionnelle de santé travaillant à l'hôpital universitaire [d'Anvers](https://www.uza.be/), un des deux centres de référence belges pour le coronavirus.
 
-Au travail, elle porte un masque de qualité médicale. Elle utilise ce masque [Fu](/designs/fu/) dans les transports en commun qu'elle prend pour aller travailler.
+At work, she wears a medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
 
 
