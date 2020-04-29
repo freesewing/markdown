@@ -1,16 +1,16 @@
 ---
 date: 2020-02-28
 title: We just published a face mask pattern, because coronavirus
-linktitle: "Florence face mask"
+linktitle: "Florence mondmasker"
 img: drops.jpg
-caption: "Keep those virus-infesed droplets at bay with our Florence face mask"
+caption: "Hou die druppeltjes vol virussen op afstand met ons Florence mondmasker"
 author: joost
 ---
 
 
 The spread of the Covid-19 coronavirus seems relentless and despite the world's best attempts, the possibility of a global pandemic is getting more real every day. Which begs the question, what can we do?
 
-Perhaps not much, but we can design patterns. So say hi to the [Florence face mask](/designs/florence/), a simple pattern that allows you make your own face masks. One that you can wear all day, because those medical ones aren't exactly comfortable.
+Perhaps not much, but we can design patterns. Zeg dus hallo aan het [Florence mondmasker](/designs/florence/), een eenvoudig patroon om je eigen mondmaskers te maken. One that you can wear all day, because those medical ones aren't exactly comfortable.
 
 Whether or not a face mask actually helps is subject of debate. I've been to-ing and fro-ing a bit about whether to publish a pattern for a face mask. Then — earlier today — I read a [Guardian](https://www.theguardian.com/) article called [Yes, it is worse than the flu: busting the coronavirus myths](https://www.theguardian.com/world/2020/feb/28/coronavirus-truth-myths-flu-covid-19-face-masks). It included the following passage under the *Face masks don’t work* myth:
 
