@@ -1,5 +1,5 @@
 
-# Finish the back neckline
+## Finish the back neckline
 
 Cut a strip of self fabric the length of your back neckline, and around 3 cm wide.  
 Press a fold into this strip, 1 cm from the edge.
