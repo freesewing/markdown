@@ -14,33 +14,33 @@ to [Doctors Without Borders (MSF)](http://www.msf.org/).
 
 ### Noblesse oblige
 
-You probably assume that we ask for money to keep the servers running. Maar dat is niet echt waar.
+Je veronderstelt waarschijnlijk dat we om geld vragen om de servers te laten draaien. Maar dat is niet echt waar.
 
 I don't know if you're familiar with the phrase **noblesse oblige** but it essentially means that privilege entails responsibility.
 
-I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+Ik ben bevoorrecht, en dus heb ik verantwoordelijkheden. Ik heb het enorme geluk dat ik geboren ben in West-Europa, een goede job heb en een dak boven mijn hoofd.
 
-Could I use the money? Yes I could. Do I need the money? Nee, eigenlijk niet.
+Zou ik het geld kunnen gebruiken? Ja, zeker. Heb ik het geld nodig? Nee, eigenlijk niet.
 
-### The value of your support
+### De waarde van jullie steun
 
 Het grootste gevaar voor FreeSewing is hetzelfde als bij elk open source project: burnout bij de maker.
 
 While I no longer carry FreeSewing alone — and I can't overstate the value of the work of all contributors — that doesn't make me immune to feelings of *Why the hell am I doing this?*
 
-When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you're doing a worthwhile thing. Keep up the good work*.
+Wanneer mensen Patrons worden (of doneren), geven ze meer dan geld. Voor mij is de belangrijkste waarde de boodschap die ze geven aan mij en de andere mensen die hieraan meewerken. And that message is: *Hey, you're doing a worthwhile thing. Blijf vooral doorgaan.'*
 
-### The value of your money
+### De waarde van jullie geld
 
-It is not *just* about the money. Maar dat wil niet zeggen dat geld niet belangrijk is. Much to the contrary.
+It is not *just* about the money. Maar dat wil niet zeggen dat geld niet belangrijk is. Integendeel.
 
-Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+Geld inzamelen door iets te doen wat ik graag doe, en het dan doorgeven aan een goed doel, is wat mij op twee oren doet slapen.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to sew. Maar in de plaats werk ik aan FreeSewing.
+Ik zou als vrijwilliger kunnen werken in de voedselbedeling, of kinderen uit minder gegoede gezinnen leren naaien. Maar in de plaats werk ik aan FreeSewing.
 
-En daarom gaat al het geld dat FreeSewing binnenbrengt naar een goed doel. It makes this project not only fun to do, but also socially responsible. En ik heb dat nodig om mezelf te overtuigen dat het ok is om hier al mijn tijd in te steken, want aan het einde van het jaar kan ik een cheque overhandigen aan mensen die het veel harder nodig hebben.
+En daarom gaat al het geld dat FreeSewing binnenbrengt naar een goed doel. Het maakt dit project niet alleen leuk, maar ook maatschappelijk verantwoord. En ik heb dat nodig om mezelf te overtuigen dat het ok is om hier al mijn tijd in te steken, want aan het einde van het jaar kan ik een cheque overhandigen aan mensen die het veel harder nodig hebben.
 
-### Charity is not sexy
+### Goede doelen zijn niet sexy
 Hier wringt het schoentje: mensen geven minder zodra ze weten dat het geld uiteindelijk naar een goed doel gaat. Ik wou dat het niet zo was, maar ja.
 
 Daarom presenteren we onze [abonnementsopties](/patrons/join) zoals je op een winstmakende site zou zien. Deze manier lijkt intuïtiever, en werkt ook beter.
