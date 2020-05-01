@@ -2,7 +2,7 @@
 title: Ce dont vous avez besoin
 ---
 
-Pour créer un masque Florence, vous aurez besoin des éléments suivants :
+Pour créer un masque Florence, vous aurez besoin du matériel suivant :
 
 - Matériaux de couture basiques
 - Environ 15 cm (6") d'un tissu adapté ([voir Options de tissu](/docs/patterns/florence/fabric/))
