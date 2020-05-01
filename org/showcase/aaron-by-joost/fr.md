@@ -1,8 +1,8 @@
 ---
 date: 2017-03-23
-title: Joost does Aaron
+title: Joost fait Aaron
 img: showcase.jpg
-caption: An Aaron A-shirt by Joost
+caption: Un débardeur Aaron par Joost
 patterns:
   - aaron
 author: joost
