@@ -1,6 +1,6 @@
 ---
 date: 2017-09-13
-title: "Black boxers by Judy"
+title: "Boxers noirs par Judy"
 img: showcase.jpg
 caption: "Seems the husband was not willing to model these"
 patterns:
