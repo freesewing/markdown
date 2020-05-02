@@ -16,7 +16,7 @@ author: web_goddess
 This picture is from [this blog post](https://www.web-goddess.org/archive/18117) 
 on [web-goddess.org](https://www.web-goddess.org/).
 
-It is reposted here with permission.
+Elle est publié ici avec son autorisation.
 
 </Note>
 
