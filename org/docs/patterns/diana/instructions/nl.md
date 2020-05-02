@@ -1,5 +1,5 @@
 
-## Finish the back neckline
+## Werk de halslijn achteraan af
 
 Knip een strook stof even lang als de halslijn van het rugpand, en ongeveer 3 cm breed.  
 Plooi een lange rand van de strook 1 cm om en strijk.
@@ -12,7 +12,7 @@ Als je een geweven stof gebruikt, knip deze strook dan schuin van draad. Gebruik
 
 Leg de niet-geplooide rand van de strook gelijk met de halslijn van het achterpand, met goede kanten op elkaar. Stik de strook aan de halslijn van het rugpand en knip de naadwaarde bij. Keer de strook naar de verkeerde kant van de stof en stik door langs de geplooide rand om alles op zijn plaats te houden.
 
-## Close shoulder seams
+## Sluit de schoudernaden
 
 ![Deze tekening was te leuk om niet te gebruiken](neckline.jpg)
 
@@ -26,11 +26,11 @@ Stik de schoudernaad zodat de onafgewerkte rand van het achterpand tussen de gep
 
 Keer naar de goede kant en strijk.
 
-## Finish front neckline
+## Werk de halslijn vooraan af
 
 Strijk de zoom die aan je halsrand gevormd wordt door de plooien die je aan de schoudernaad gemaakt hebt en stik dicht langs de rand door.
 
-## Attach sleeves
+## Zet de mouwen in
 
 De mouw wordt plat ingezet, wat wil zeggen dat de naad van het armsgat eerst gestikt wordt en de mouw- en zijnaad daarna in één keer gestikt worden.
 
@@ -38,14 +38,14 @@ Leg de mouwkop op het armsgat, met *goede kanten op elkaar* en zorg dat de teken
 
 Stik, werk de naad af en strijk.
 
-## Close side and sleeve seam
+## Sluit de zij- en mouwnaad
 
 Leg het voorpand op het achterpand met goede kanten op elkaar, zodat de zijnaden en mouwnaden overeenkomen en de boel er als een kledingstuk begint uit te zien.  
 Zorg dat de naden van het armsgat vooraan en achteraan mooi op elkaar liggen.
 
 Stik, werk de naad af en strijk.
 
-## Hem
+## Zoom
 
 Werk de zomen van de mouwen en de zoom onderaan af op een manier die bij je stofkeuze past.
 
