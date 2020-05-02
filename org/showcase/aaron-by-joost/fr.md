@@ -8,4 +8,4 @@ patterns:
 author: joost
 ---
 
-Here's an Aaron top I whipped up. I wear this under my shirts, and I'm rather pleased with it.
+Voici un débardeur Aaron que j'ai cousu rapidement. Je le porte sous mes chemises, et j'en suis plutôt content.
