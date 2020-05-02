@@ -1,4 +1,5 @@
 
-import PatternDocs from '../../../../../src/components/docs/pattern'
+import PatternOptions from '../../../../../../src/components/docs/pattern-options'
 
-<PatternDocs pattern='benjamin' />
+<PatternOptions pattern='benjamin' />
+

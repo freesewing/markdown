@@ -10,4 +10,4 @@ author: joost
 
 This post is [originally appeared](https://www.instagram.com/p/BaRWb34jYCL/) on [the Instagram feed of joostdecock](https://www.instagram.com/joostdecock/).
 
-It is reposted here with permission.
+Elle est publié ici avec son autorisation.

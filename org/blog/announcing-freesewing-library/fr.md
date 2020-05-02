@@ -83,7 +83,6 @@ Which is good news, in case you were wondering.
 
 A lot of work needs to be done before we can actually use this on freesewing.org:
 
-
  - All our existing patterns need to be parted to the JS version. [Brian](https://github.com/freesewing/brian) is the first pattern to have been ported.
  - Rewrite our data back-end in JS. Since this will remove the PHP programming language from our stack.
  - Build a new website using the freesewing library and our new data back-end.

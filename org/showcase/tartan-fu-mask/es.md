@@ -10,6 +10,6 @@ author: joost
 
 Sorcha is a healthcare provider working in the [Antwerp University Hospital](https://www.uza.be/), one of Belgium's two centres of reference for coronavirus.
 
-At work, she wears medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
+At work, she wears a medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
 
 

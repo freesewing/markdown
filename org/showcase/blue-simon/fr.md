@@ -18,7 +18,7 @@ author: K
 This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) 
 on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
 
-It is reposted here with permission.
+Elle est publié ici avec son autorisation.
 
 </Note>
 

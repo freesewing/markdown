@@ -1,8 +1,8 @@
 ---
 date: 2020-03-01
-title: A Florence face mask in red and blue
+title: Een Florence mondmasker in rood en blauw
 img: showcase.jpg
-caption: Sorcha wears a red and blue tartan Florence face mask
+caption: Sorcha draagt een rood en blauw geruit Florence mondmasker
 patterns:
   - florence
 author: joost
@@ -10,6 +10,6 @@ author: joost
 
 Sorcha is a healthcare provider working in the [Antwerp University Hospital](https://www.uza.be/), one of Belgium's two centres of reference for coronavirus.
 
-At work, she wears a medical-grade face mask. This [Florence face mask](/designs/florence/) is for her commute to work on public transport.
+Op haar werk draagt ze een medisch mondmasker. Dit [Florence mondmasker](/designs/florence/) is voor haar woon-werkverplaatsing met het openbaar vervoer.
 
 

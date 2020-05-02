@@ -1,18 +1,18 @@
 ---
 date: 2020-02-23
-title: "New pattern: The Holmes Deerstalker Hat"
-linktitle: "The Holmes Deerstalker Hat"
+title: "Nouveau patron : Chapeau Deerstalker de Sherlock Holmes"
+linktitle: "Casquette de détective Holmes"
 img: hat.jpg
-caption: "Screengrab from  Bernadette Banner's YouTube tutorial for this hat"
+caption: "Aperçu issu du tutoriel YouTube de Bernadette Banner pour ce chapeau"
 author: joost
 ---
 
-Earlier this week, [AlfaLyr](/users/alfalyr) wrote to us to say that she had made a pattern for the iconic Sherlock Holmes Deerstalker hat, based on this YouTube tutorial by [Bernadette Banner](https://www.youtube.com/channel/UCSHtaUm-FjUps090S7crO4Q):
+Plus tôt cette semaine, [AlfaLyr](/users/alfalyr) nous a écrit pour dire qu'elle avait fait un patron pour le chapeau emblématique Deerstalker de Sherlock Holmes, basé sur ce tutoriel YouTube de [Banner Bernadette](https://www.youtube.com/channel/UCSHtaUm-FjUps090S7crO4Q):
 
 <YouTube id='H24VBFMZJF4' />
 
-Unfortunately, we were just rounding up [the rollout of v2.2 of FreeSewing](/blog/breanna-measurements-sizes-in-2-2/), and it was too late to squeeze in this extra pattern.
+Malheureusement, nous avions déjà fait le récap sur [le déploiement de la v2.2 de FreeSewing](/blog/breanna-measurements-sizes-in-2-2/), et il était trop tard pour intégrer ce nouveau modèle.
 
-But obviously we love this hat, not to mention that it is the perfect accessory for our [Carlton](/designs/carlton/) and [Carlita](/designs/carlita/) patterns. So here it is, [FreeSewing 2.3](https://github.com/freesewing/freesewing/releases/tag/v2.2.0) with [the new Holmes pattern](/designs/holmes/).
+Mais bien sûr nous aimons ce chapeau, sans mentionner que c'est l'accessoire parfait pour nos patrons [Carlton](/designs/carlton/) et [Carlita](/designs/carlita/). Donc voici la mise à jour [FreeSewing 2.3](https://github.com/freesewing/freesewing/releases/tag/v2.2.0) avec [le nouveau patron Holmes](/designs/holmes/).
 
-Enjoy!
+Profitez bien !

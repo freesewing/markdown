@@ -1,125 +1,125 @@
 ---
 date: 2017-12-10
-title: "Calling all Patrons; Join our bedrock of loyal supporters."
-linktitle: "Calling all Patrons"
+title: "Oproep aan alle Patrons: sluit je aan bij onze trouwe supportersgroep"
+linktitle: "Oproep aan alle Patrons"
 img: phone.jpg
-caption: "We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community."
+caption: "We bouwen een trouwe supportersgroep om mee te werken aan een duurzame toekomst voor FreeSewing.org, onze code, onze patronen en onze community."
 author: joost
 ---
 
-Every year, on this day, I write about what happened in the previous 12 months, and look ahead at what you can expect in the year ahead.
+Elk jaar schrijf ik op deze dag neer wat er gebeurd is in de afgelopen twaalf maanden en kijk ik vooruit naar wat je in het komende jaar kan verwachten.
 
-This year is no different, but boy do I have a lot to talk about.
+Dit jaar is niet anders, maar wauw, wat heb ik veel te vertellen!
 
-## 2017: the year freesewing was born
+## 2017: het geboortejaar van FreeSewing
 
-While freesewing was conceived in 2016 -- that's when I started working on it -- 2017 was the year it saw the light of day.
+FreeSewing werd verwekt in 2016 – dat is het jaar waarin ik eraan begon te werken – maar in 2017 kwam het echt ter wereld.
 
-Freesewing core v1.0.0 [was released in March this year](/blog/announcing-freesewing/). For most people, that event passed under the radar. An open source platform for made-to-measure sewing patterns? What does this thing actually do?
+In maart van dit jaar [werd de FreeSewing core v1.0.0 gelanceerd](/blog/announcing-freesewing/). Voor de meeste mensen bleef dat onopgemerkt. Een open-sourceplatform voor naaipatronen op maat? Wat doet dat ding eigenlijk?
 
-A lot, as it turns out. Something that's become more obvious since [the release of freesewing.org](/blog/open-for-business/) at the end of August.
+Veel, zo blijkt. Dat is steeds duidelijker geworden sinds [de lancering van FreeSewing.org](/blog/open-for-business/) eind augustus.
 
-![Image from the original announcement blog post](open.jpg)
+![Afbeelding van de oorspronkelijke blogpost met de aankondiging](open.jpg)
 
-On Christmas day, it will (only) have been four months since this release. Yet in that time, we've signed up **2735 users** for whom we host **1522 drafts**, and **2359 models**.
+Op kerstdag is het (nog maar) vier maanden geleden sinds die lancering. Maar in die tijd hebben we **2735 gebruikers** geregistreerd voor wie we **1522 patroonversies** en **2359 modellen** hosten.
 
-We launched with 11 patterns, and have since added 4, bringing the current total to 15. Half of those new patterns are a community effort, which is particularly promising.
+Bij de lancering hadden we elf patronen. Sindsdien hebben we er nog vier toegevoegd, zodat het totaal nu op vijftien staat. De helft van die nieuwe patronen komen uit onze community, wat ik bijzonder veelbelovend vind.
 
-Yes, it's still early days. But I think it's safe to say that the decision to reinvent makemypattern.com as an open source project was the right call.
+Ja, het is nog vroeg. Maar ik durf gerust te zeggen dat het een goede beslissing was om MakeMyPattern.com heruit te vinden als een open-sourceproject.
 
-Speaking of which.
+En nu we het er toch over hebben.
 
-## MakeMyPattern.com is no more
-Shortly before publishing this blog post, I've pulled the plug on [makemypattern.com](https://makemypattern.com/).
+## MakeMyPattern.com bestaat niet meer
+Kort voor de publicatie van deze blogpost heb ik de stekker uit [makemypattern.com](https://makemypattern.com/) getrokken.
 
-You can try to visit that link, but you'll only end up back here.
+Probeer gerust om op de link te klikken, maar je komt toch terug hier terecht.
 
-MakeMyPattern.com saw the light of day in 2012. It went through a number of iterations since, and today is finally superseded by freesewing.org.
+MakeMyPattern.com zag het levenslicht in 2012. Daarna heeft het een paar transformaties meegemaakt. En nu is het dus vervangen en verbeterd met FreeSewing.org.
 
-![Was it an M? A book? A bird? Boobs? We may never know](mmp.png)
+![Was het een M? Een boek? Een vogel? Een stel borsten? We zullen het nooit weten](mmp.png)
 
-We had a good run, and I feel that for any project, it's a good way to go when you get cannibalized by something better that you inspired.
+We hebben het goed gehad samen. En naar mijn gevoel is het voor elk project een mooi einde als je opgevreten wordt door iets dat beter is dan jij, en waar je zelf de inspiratie voor bent geweest.
 
-## Let's talk money
-Like every year on this day, I've transferred all donations into the account of [Médecins Sans Frontières/Doctors Without Borders](http://www.msf.org/).
+## En nu over geld
+Net zoals elk jaar op deze dag, heb ik alle schenkingen doorgestort naar de rekening van [Artsen zonder grenzen](http://www.msf.org/).
 
-This year we came in at **673.14€**, so that's what I've transferred.
+Dit jaar hebben we **673,14 euro** binnengekregen en dat is dus ook wat ik heb overgeschreven.
 
-> Why should we give you money in the first place if you're just going to give it away?
+> Waarom zouden we jou eigenlijk geld geven als je het toch maar weggeeft?
 
-I've also come to understand that people have a bunch of questions about this. Like *Why are you doing this?* and *Why should we give you money in the first place if you're just going to give it away?*
+Ik heb intussen begrepen dat mensen hier veel vragen bij hebben. Zoals *'waarom doe je dit?'* en *'waarom zouden we jou geld geven als je het toch maar weggeeft?'*
 
-These questions have led to some soul-searching recently. What I've learned is that it's not easy to talk about money. Nor is it easy to put in words things that you know to be right, almost instinctively.
+Omwille van die vragen heb ik de laatste tijd diep nagedacht. Ik heb ontdekt dat het niet gemakkelijk is om over geld te praten. En het is al helemaal niet gemakkelijk om onder woorden te brengen wat je zelf, bijna instinctief, aanvoelt als juist.
 
-But I wanted to be completely transparent about what's going on, so I made the effort to write about these things on [our pledge page](/about/pledge). And I'm copying them here verbatim:
+Maar ik wil volkomen transparant zijn over wat er hier gebeurt, dus ik heb mijn best gedaan om over dit onderwerp te schrijven op onze [Pledge-pagina](/about/pledge). En ik kopieer het hier letterlijk:
 
 > ##### Noblesse oblige
 > 
-> You probably assume that we ask for money to keep the servers running. But that’s not exactly true.
+> Je veronderstelt waarschijnlijk dat we om geld vragen om de servers te laten draaien. Maar dat klopt niet helemaal.
 > 
-> I don’t know if you’re familiar with the phrase *noblesse oblige* but it essentially means that privilege entails responsibility.
+> Ik weet niet of je al gehoord hebt van de uitdrukking *'noblesse oblige'*. Het komt erop neer dat privilege ook verantwoordelijkheid met zich meebrengt.
 > 
-> I am privileged, and thus I have responsibilities. I am very fortunate to have been born in Western Europe, have a good job, and a roof over my head.
+> Ik ben bevoorrecht, en dus heb ik verantwoordelijkheden. Ik heb het enorme geluk dat ik geboren ben in West-Europa, een goede job heb en een dak boven mijn hoofd.
 > 
-> Could I use the money? Yes I could. Do I need the money? No I don’t.
+> Zou ik het geld kunnen gebruiken? Ja, zeker. Heb ik het geld nodig? Nee, dat niet.
 > 
-> ##### The value of your support
+> ##### De waarde van jullie steun
 > 
-> The main risk to Freesewing is the same as any open source project out there: maintainer burnout.
+> Het grootste risico van FreeSewing is hetzelfde als voor elk open-sourceproject: dat we opgebrand raken door het te onderhouden.
 > 
-> While I no longer carry Freesewing alone — and I can’t stress enough how much I value the work of all contributors — that doesn’t make me immune to feelings of *Why the fuck am I doing this?*
+> Ik draag FreeSewing niet meer alleen – en ik kan niet genoeg benadrukken hoe waardevol het werk van onze bijdragers is – maar dat betekent niet dat ik immuun ben voor gevoelens zoals *'waarom houd ik me hier in godsnaam mee bezig?'*
 > 
-> When people become Patrons (or donate), they give more than money. To me, the main value is the message they send to me and other people working on this. And that message is: *Hey, you’re doing a worthwhile thing. Keep up the good work*.
+> Wanneer mensen Patrons worden (of doneren), geven ze meer dan geld. Voor mij is de belangrijkste waarde de boodschap die ze geven aan mij en de andere mensen die hieraan meewerken. En die boodschap is: *'Hé, het is de moeite waard wat je hier doet. Blijf vooral doorgaan.'*
 > 
-> ##### The value of your money
+> ##### De waarde van jullie geld
 > 
-> It is not just about the money. But that doesn’t mean the money is not important. Much to the contrary.
+> Het gaat niet alleen over het geld. Maar dat betekent niet dat geld niet belangrijk is. Integendeel.
 > 
-> Raising money by doing something I love and then passing it on to charity allows me to sleep at night.
+> Geld inzamelen door iets te doen wat ik graag doe, en het dan doorgeven aan een goed doel, is wat mij op twee oren doet slapen.
 > 
-> I could volunteer at a soup kitchen, or teach underprivileged children how to sew. But instead I’m working on Freesewing.
+> Ik zou als vrijwilliger kunnen werken in de voedselbedeling, of kinderen uit minder gegoede gezinnen leren naaien. Maar in plaats daarvan werk ik aan FreeSewing.
 > 
-> Which is why all the money raised through freesewing goes to charity. It makes this project not only fun to do, but also socially responsible. And I need that to convince myself that yes, it’s OK to spend all my time doing this, because at the end of the year, I get to write a check to people who need it so much more.
+> En daarom gaat dus al het geld dat FreeSewing opbrengt, naar een goed doel. Het maakt dit project niet alleen leuk, maar ook maatschappelijk verantwoord. En dat heb ik nodig om mezelf te overtuigen dat het oké is dat ik hier al mijn tijd in stop. Want aan het einde van het jaar mag ik een bedrag doorgeven aan mensen die het zoveel harder nodig hebben.
 > 
-> ##### Charity is not sexy
+> ##### Goede doelen zijn niet sexy
 > 
-> Here’s the tricky part: People donate less once they know the money goes to charity in the end. I wish it wasn’t the case, but it is.
+> Hier wringt het schoentje: mensen doneren minder als ze weten dat het geld uiteindelijk naar een goed doel gaat. Ik wou dat het niet zo was, maar ja.
 > 
-> So I’m not explicitly mentioning it on our Patrons page, which is presented like you would see on a business site.
+> Daarom vermeld ik het niet expliciet op onze Patrons-pagina, die eruitziet zoals je zou verwachten op een zakelijke site.
 > 
-> Yes, everything is free, and the money doesn’t actually go to paying the server bills (because I choose to pay them out of my pocket for reasons outlined above). But that doesn’t mean that these contributions are not crucial to the well-being of the project, or at the very least its maintainer (that would be me).
+> Ja, alles is gratis, en het geld gaat niet echt naar de rekeningen voor de server (omdat ik ervoor kies om die zelf te betalen, om de redenen die ik hierboven uitleg). Maar dat betekent niet dat deze bijdrages geen cruciaal deel uitmaken van het welzijn van dit project, of minstens degene die het onderhoudt (mij dus).
 
-Did you notice that in the text above I mentioned our Patrons page? That is because I've rolled out a bunch of changes today.
+Heb je gemerkt dat ik hierboven verwijs naar onze Patrons-pagina? Dat komt omdat ik vandaag een hoop veranderingen heb uitgerold.
 
-Having taken the time to reflect on the money side of things, I've realized that it's an important factor in the well-being of this project. I also believe that donations -- while motivating and appreciated -- are not the best way to go about this.
+Nadat ik de tijd had genomen om na te denken over de financiële kant van de zaak, heb ik beseft dat het een belangrijke factor is in de goede werking van dit project. Ik geloof ook dat schenkingen – hoewel ze motiverend zijn en ze erg op prijs worden gesteld – niet de beste manier zijn om hiermee om te gaan.
 
-So, as of today, we are calling all Patrons.
+Dus doen we vanaf vandaag een oproep voor Patrons.
 
-## Become a Patron of Freesewing
+## Word een FreeSewing-Patron
 
-To ensure a sustainable future for freesewing.org, our code, our patterns, and our community, we need to build a bedrock of loyal supporters. Patrons who support us in our core work; Developing an open source platform for made-to-measure sewing patterns.
+Om een duurzame toekomst te verzekeren voor FreeSewing.org, onze code, onze patronen en onze gemeenschap, moeten we bouwen aan een stevige basis van trouwe supporters. Patrons die onze kerntaak ondersteunen: een open-sourceplatform ontwikkelen voor naaipatronen op maat.
 
-![We have three tiers of Patronage](patron-medals.jpg)
+![Er bestaan drie niveaus voor Patrons](patron-medals.jpg)
 
-We have different tiers of Patronage, each with their own perks. You can support us for as little as 2€, and it only takes a minute.
+We hebben verschillende niveaus voor Patrons, elk met zijn eigen voordelen. Je kan ons al ondersteunen vanaf 2 euro, en het duurt maar een minuutje.
 
-> We are not changing the nature of the site. All patterns, and all our code, will remain free.
+> We veranderen niets aan de aard van de site. Alle patronen en al onze code blijven gratis.
 
-We are not changing the nature of the site. All patterns, and all our code, will remain free. What we are changing is the way we raise funds. From a system of impulsive donations to a community of caring Patrons. If you are someone who cares, then [check out what we have to offer](/patrons/join).
+We veranderen niets aan de aard van de site. Alle patronen en al onze code blijven gratis. Wat we veranderen is de manier waarop we fondsen inzamelen. We gaan van een systeem van impulsieve schenkingen naar een community van Patrons die met het project begaan zijn. Als jij zo iemand bent, [ga dan zeker kijken wat we je te bieden hebben](/patrons/join).
 
-I sincerely believe we are doing a worthwhile thing here. If you feel that way too, then I ask you to pledge whatever you can so that we can write many more chapters in this book.
+Ik geloof echt dat we hier iets waardevols aan het doen zijn. Als jij er ook zo over denkt, wil ik je vragen om te geven wat je kan zodat we nog veel meer hoofdstukken in dit boek kunnen schrijven.
 
-> ### Become a Patron today
+> ### Word vandaag een Patron
 > 
-> #### You can sign up for as little as 2€, and it only takes a minute.
+> #### Je kan al intekenen vanaf 2 euro en het is maar een minuutje werk.
 > 
-> [Find out more](/patrons/join)
+> [Ontdek meer](/patrons/join)
 
-Thank you, and have a great year.
+Bedankt, en maak er een topjaar van.
 
 joost
 
-<small>PS: It would be a shame if there's people out there willing to support us who don't know about this. 
-So perhaps you could share [this image](patrons-ig.png) on social media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
+<small>PS Het zou jammer zijn als er mensen zijn die ons wel zouden willen steunen, maar dit project niet kennen. 
+Dus misschien kan je [deze afbeelding](patrons-ig.png) delen op je sociale media? <i class="fa fa-arrow-down" aria-hidden="true"></i></small>
 
 ![Sharing is caring!](patrons-ig.png)

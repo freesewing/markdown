@@ -1,11 +1,11 @@
 ---
 date: 2018-02-05
-title: A Sven made out of two airline blankets
+title: Un Sven fait avec eux couvertures de compagnie aérienne
 img: showcase.jpg
-caption: "You'll never look at those blankets on a plane the same way again."
+caption: "Vous ne regarderez plus jamais ces couvertures d'avion de la même façon."
 patterns:
   - sven
 author: funloveadventure
 ---
 
-[This image](https://www.instagram.com/p/BeKLaPfhGbU/) is from [the Instagram feed of funloveadventure](https://www.instagram.com/funloveadventure/). It is published here with permission.
+[Cette image](https://www.instagram.com/p/BeKLaPfhGbU/) est issue du [feed Instagram de funloveadventure](https://www.instagram.com/funloveadventure/). Elle est publié ici avec son autorisation.
