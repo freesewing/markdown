@@ -10,4 +10,4 @@ author: Ksenia
 
 [This image](https://www.instagram.com/p/BehvZ1fj4yo/) is from [the Instagram feed of Ksenia](https://www.instagram.com/owl.laughing/).
 
-It is published here with permission.
+Elle est publié ici avec son autorisation.
