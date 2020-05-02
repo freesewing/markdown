@@ -10,4 +10,4 @@ author: 'Stefan Thanheiser'
 
 This picture [originally appeared](https://twitter.com/SThanheiser/status/933942463332536320) in the twitter feed of [@SThanheiser](https://twitter.com/SThanheiser).
 
-It is reposted here with permission.
+Elle est publié ici avec son autorisation.
