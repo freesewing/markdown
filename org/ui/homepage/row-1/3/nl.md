@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Patterns you can share and adapt
 

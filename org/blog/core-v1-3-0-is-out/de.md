@@ -2,7 +2,7 @@
 date: 2018-01-04
 title: "Freenewing Core v1.3.0 ist verfügbar; Kommt mit Korrekturen, die so gut sind, dass wir sie zu all Ihren Entwürfen zurückportiert haben"
 linktitle: "FreeSewing Core v1.3.0 ist released"
-img: skales.jpg
+img: scales.jpg
 caption: "Skalen, wie funktionieren sie?"
 author: joost
 ---

@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Auf deine Masse zugeschnitten
 

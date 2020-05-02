@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Packed with options plus live preview
 

@@ -1,5 +1,3 @@
-- - -
-- - -
 
 ## Des patrons que vous pouvez partager et adapter
 
