@@ -1,7 +1,7 @@
-You need a stretchy fabric for this pattern. Preferable something that is comfortable and soft to the touch, while allowing the skin to breathe.
+Vous avez besoin d'un tissu extensible pour ce modèle. Préférez quelque chose de confortable et doux au toucher, tout en permettant à la peau de respirer.
 
-I personally think that nothing can beat rayon for this pattern, although you can do with some other knit too, like jersey.
+Je pense personnellement que rien ne vaut la viscose (rayonne) pour ce modèle, même si vous pouvez utiliser un autre tissu en maille, comme le jersey.
 
-When in doubt, go for rayon.
+En cas de doute, choisissez la viscose.
 
 
