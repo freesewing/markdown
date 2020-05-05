@@ -10,7 +10,7 @@ author: karinkay
 
 After [her previous showcase of Hugo](/showcase/hugo-by-karin) , Karin is back with another freesewing make: this Sandy skirt.
 
-![Another view](view2.jpg)
+![Une autre vue](view2.jpg)
 
 ![A view of the lining](view3.jpg)
 
