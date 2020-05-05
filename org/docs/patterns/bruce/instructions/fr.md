@@ -1,74 +1,73 @@
 <YouTube id='PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3' playlist />
 
-### Step 1: Join back to first side
+### Étape 1 : assembler le dos et le premier côté
 
 ![Join back to first side](step01.png)
 
-Align the side of the back (piece 1) with the side (piece 3) making sure to put the good sides together. Since the side (piece 3) is symmetric, you can't go wrong.
+Alignez le côté du dos (pièce 1) avec le côté (pièce 3) endroit contre endroit. Comme le côté (pièce 3) est symétrique, vous ne pouvez pas vous tromper.
 
-Serge them together, taking into account that the seam allowance is 1cm. So aim the outside needle of your serger 1cm from the edge of your fabric.
+Assemblez-les ensemble à la surjeteuse, en tenant compte d'une marge de couture de 1 cm. Placez donc l'aiguille extérieure de votre surjeteuse à 1cm du bord de votre tissu.
 
-> If metric is not your bag, 1 cm is 3/8 inch.
+> Pour ceux dont la mesure métrique n'est pas la tasse de thé, 1 cm corresponds à 3/8 pouce.
 
-> Some sergers have a a lever to choose between flat seams, or bundled up seams. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
+> Certaines surjeteuses ont une manette permettant de choisir entre coutures plates et coutures roulottées. Si vous prévoyez de surpiquer plus tard (voir Étape 6), assurez-vous de choisir des coutures plates.
 
-### Step 2: Join back to second side
+### Étape 2 : assembler le dos et le second côté
 
 ![Join back to second side](step02.png)
 
-Align the other side of the back (piece 1) with the second side (piece 3) making sure to put the good sides together. Since the side (piece 3) is symmetric, you can't go wrong.
+Alignez l'autre côté du dos (pièce 1) avec le second côté (pièce 3) endroit contre endroit. Comme le côté (pièce 3) est symétrique, vous ne pouvez pas vous tromper.
 
-Serge them together, as you did on the other side.
+Assemblez-les ensemble à la surjeteuse, comme précédemment.
 
-> The back and sides are now joined together. Put them aside for a moment as we turn our attention to the other pieces.
+> Le dos et les côtés sont maintenant assemblés. Mettez-les de côté un instant.
 
-### Step 3: Join first inset and fronts
+### Étape 3 : Assebler le premier insert et les devants
 
 ![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
 
-Joining the inset (piece 4) with the fronts (piece 2) requires you to serge them together across their curvy edges.
+Assemblez l'insert (pièce 4) avec les devants (pièce 2) à la surjeteuse sur leurs bords courbes.
 
-> Remember that you have two fronts. You have to put them on top of each other and treat it as one double-layered front.
+> Rappelez-vous que vous avez deux devants. Vous devez les mettre l'un sur l'autre et les traiter comme une seule pièce à double épaisseur.
 
-Faced with a tricky seam like this, you might reach for your pins or basting thread, but don't. Pinning or basting this will make it harder to sew.
+Face à une couture aussi délicate, vous pourriez être tenté d'épingler ou de bâtir, mais ne le faites pas. Cela rendrait la couture plus difficile.
 
-Instead, start at the top of the curved seam, aligning the pieces as shown, and slowly serge them together a few cm.
+Au lieu de cela, commencez en haut de la couture courbe, en alignant les pièces comme illustré, et en les assemblant à la surjeteuse lentement sur quelques cm.
 
-As you move along, manipulate the fabric to make sure both edges stay on top of each other as you feed them through your serger.
+Au fur et à mesure que vous avancez, maintenez les deux bords du tissu l'un sur l'autre.
 
-As you manipulate the fabric to get it aligned properly, it's easy to stretch one part more than the other. The notch in the curved edge can help you make sure you're keeping things even.
+Lorsque vous maintenez les bords du tissu alignés, vous risquez d'étirer un côté plus que l'autre. Le repère sur le bord courbe peut vous aider à éviter cela.
 
-Once you've passed the notch, things will get easier. This would also be a good time to compare the remaining lenght of the curved seams. If one is a bit longer than the other, simply stretch the shorter one until they match up.
+Après le repère, les choses seront plus faciles. Ce serait également le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus court jusqu'à ce qu'elles correspondent.
 
-If the difference is too big however, just leave it. It will get get cut off when we do the crotchseam.
+Si la différence est trop grande, laissez-la tout simplement. L'excédent sera coupé quand nous ferons la conture d'entrejamble.
 
 <Note>
 
-This is probably the hardest seam in the pattern. Take it slow, and you'll be fine.
+Il s'agit probablement de la couture la plus difficile de ce modèle. Prenez votre temps, et tout se passera bien.
 
 </Note>
 
 <Tip>
 
-###### Or enclose these seams by sandwiching them between the fronts
+###### Ou enfermez ces coutures en sandwich entre les devants
 
-While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, 
-and then sew your front pieces together with the insets sandwiched inside. 
+Bien que ce soit un peu plus de travail, vous pouvez enfermer cette couture en bâtissant d'abord les inserts sur un des deux devants, puis en cousant les deux devants ensemble avec les inserts en sandwich à l'intérieur. 
 
-Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front. 
+Cousez les pinces du devant séparément et retourner le tout à l'ntérieur, et vous avez une belle zone d'emballage sans couture sur le devant. 
 
 </Tip>
 
-### Step 4: Join second inset and fronts
+### Étape 4 : Assembler le second insert et les devants
 ![Join second inset and fronts](step03-d.png)
 
-After you have joined the first inset and the fronts, continue with the second one.
+Après avoir assemblé le premier insert et les devants, continuez avec le second.
 
-With the fronts and insets joined together, you are left with 3 parts:
+Avec les devant et les entrées assemblés ensemble, vous avez 3 parties :
 
- - The joined insets and fronts
- - The joined sides and back
- - The elastic
+ - Les inserts + devants
+ - Les côtés + dos
+ - L'élastique
 
 ### Step 5: Close the fronts dart
 ![Close the fronts dart](step05.png)
