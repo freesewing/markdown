@@ -1,8 +1,8 @@
 ---
 date: 2013-02-16
-title: Brown greyish linnen Theo trousers by joostdecock
+title: Pantalon Theo en lin gris marron par joostdecock
 img: showcase.jpg
-caption: These are great in summer
+caption: Celui-ci est génial en été
 patterns:
   - theo
 author: joost
