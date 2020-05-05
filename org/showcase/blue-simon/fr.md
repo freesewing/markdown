@@ -1,24 +1,24 @@
 ---
 date: 2017-10-09
-title: A blue Simon shirt by feelingmyoats
+title: Une chemise bleue Simon par feelingmyoats
 img: showcase.jpg
-caption: "That's some quality posing right there."
+caption: "C'est de qualité en posant juste là."
 patterns:
   - simon
 author: K
 ---
 
-![View of the front](front.jpg)
+![Photo de l'avant](front.jpg)
 
-![View of the back](back.jpg)
+![Vue du dos](back.jpg)
 
 <Note>
 
-###### See the original on Instagram
-This post [originally appeared](https://www.instagram.com/p/BZ6X2CkjZor/) 
-on [the Instagram feed of feelinmyoats](https://www.instagram.com/feelinmyoats/).
+###### Voir l'original sur Instagram
+Ce post [est apparu à l'origine](https://www.instagram.com/p/BZ6X2CkjZor/) 
+sur [le feed Instagram de feelinmyoats](https://www.instagram.com/feelinmyoats/).
 
-Elle est publié ici avec son autorisation.
+Elle est publiée ici avec son autorisation.
 
 </Note>
 
