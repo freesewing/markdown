@@ -8,4 +8,4 @@ patterns:
 author: funloveadventure
 ---
 
-[Cette image](https://www.instagram.com/p/BeKLaPfhGbU/) est issue du [feed Instagram de funloveadventure](https://www.instagram.com/funloveadventure/). Elle est publié ici avec son autorisation.
+[Cette photo](https://www.instagram.com/p/BeKLaPfhGbU/) est issue du [feed Instagram de funloveadventure](https://www.instagram.com/funloveadventure/). Elle est publiée ici avec son autorisation.
