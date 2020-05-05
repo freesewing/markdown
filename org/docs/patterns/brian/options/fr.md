@@ -1,3 +1,5 @@
+- - -
+- - -
 
 import PatternOptions from '../../../../../../src/components/docs/pattern-options'
 
@@ -7,9 +9,9 @@ import PatternOptions from '../../../../../../src/components/docs/pattern-option
 
 Dans la version 2 de FreeSewing, la tête de manche de Brian a été redessinée, pour mieux s'adapter à différents types de manches et de vêtements. La tête de manche dispose maintenant de 20 options de forme. Bien que cela puisse paraître un peu assommant de prime abord, comprendre la conception de la tête de manche facilite la compréhension des différentes options.
 
-### La bounding box
+### La bounding box (boîte englobante)
 
-La *bouding box* de la tête de manche est un rectangle de la largeur de la manche et de la hauteur de la tête de manche. La tête de manche va être construite dans ce rectangle.
+La *bounding box* de la tête de manche est un rectangle de la largeur de la manche et de la hauteur de la tête de manche. La tête de manche va être construite dans ce rectangle.
 
 ![La tête de manche Brian](sleevecap.svg)
 
@@ -19,9 +21,9 @@ L'image ci-dessus montre une tête de manche, commençant au point 1, puis monta
 
 ###### Repérer le devant de la manche
 
-Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on direz vous ? 
+Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on ? 
 
-Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. C'est en raison de la forme de l'épaule humaine, qui est plus arrondie sur le devant du corps. La tête de manche sera donc elle aussi plus courbée sur le devant, pour s'adapter à l'épaule.
+Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. C'est en raison de la forme de l'épaule humaine, qui est plus arrondie sur le devant du corps. La tête de manche sera donc elle aussi plus courbe sur le devant, pour s'adapter à l'épaule.
 
 </Note>
 
@@ -29,18 +31,18 @@ La largeur de la tête de manche (et donc la largeur de la manche à la base de 
 
 ![Contrôle du haut de la tête de manche](sleevecaptop.svg)
 
-La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, la facilité, tête de manche facilement, et le fait que la manche doit finalement être ajustée à l'armure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
+La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, l'aisance, l'aisance de la tête de manche, et le fait que la manche devra finalement s'ajuster à l'emmanchure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
 
  - [Haut de tête de manche X](/docs/patterns/brian/options/sleevecaptopfactorx/) : Contrôle la position horizontale des points 3 et 4
  - [Haut de tête de manche Y](/docs/patterns/brian/options/sleevecaptopfactory/) : Contrôle la position verticale du point 4
 
-En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, peut-être moins intuitif, peut aussi être déplacé plus à droite ou plus à gauche, plutôt que rester en plein au milieu comme dans notre exemple.
+En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, ce qui est peut-être moins intuitif, peut aussi être déplacé plus à droite ou plus à gauche, plutôt que rester en plein milieu comme dans notre exemple.
 
 ### Les points d'inflexion
 
 ![Contrôle des points d'inflexion](sleevecapinflection.svg)
 
-Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Maintenant, il est temps de placer nos *points d'inflexion*. Ce sont les points 5 et 6 de notre dessin, et leur pposition est déterminé par les 4 options suivantes :
+Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Maintenant, il est temps de placer nos *points d'inflexion*. Ce sont les points 5 et 6 de notre dessin, et leur position est déterminée par les 4 options suivantes :
 
  - [Haut de tête de manche arrière X](/docs/patterns/brian/options/sleevecapbackfactorx) : Contrôle la position horizontale du point 5
  - [Haut de tête de manche arrière Y](/docs/patterns/brian/options/sleevecapbackfactory) : Contrôle la position verticale du point 5
@@ -57,9 +59,9 @@ Comme vous le voyez dans notre exemple, ces points ne se trouvent pas toujours s
 
 ![Contrôle des points d'ancrage](sleevecapanchor.svg)
 
-En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront au début et à la fin de ces courbes.
+En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront placés au début et à la fin de ces courbes.
 
-Les points sont *décalés * en perpendiculaire à partir du milieu d'une ligne située entre les deux points d'ancrage qui les entourent. Le décalage pour chaque point est contrôlé par ces 4 options :
+Les points sont *décalés * perpendiculairement à partir du milieu d'une ligne située entre les deux points d'ancrage qui les entourent. Le décalage pour chaque point est contrôlé par ces 4 options :
 
  - [Décalage de tête de manche Q1](/docs/patterns/brian/options/sleevecapq1offset) : contrôle le décalage perpendiculaire à la ligne située entre les points 2 et 6
  - [Décalage de tête de manche Q2](/docs/patterns/brian/options/sleevecapq2offset) : contrôle le décalage perpendiculaire à la ligne située entre les points 6 et 4
