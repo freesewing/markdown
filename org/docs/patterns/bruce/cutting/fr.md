@@ -1,17 +1,16 @@
-Bruce consist of a back, and two sides, insets and fronts.
+Bruce se compose d'un dos, et de deux côtés, inserts et devants.
 
- - **Main fabric**
+ - **Tissu principal**
    - Couper **1 dos** au pli
-   - Cut **2 fronts** on the fold
-   - Cut **2 insets**
-   - Cut **2 sides**
+   - Couper **2 devants** au pli
+   - Couper **2 inserts**
+   - Couper **2 côtés**
 
 <Warning>
 
-###### Caveats
-
-- **back**: Extra hem allowance at the leg
-- **front**: Cut this **twice**
+###### Mise en garde
+- **dos** : marge de couture supllémentaire pour l'ourlet jambe
+- **devant** : Coupez **deux fois**
 
 </Warning>
 
