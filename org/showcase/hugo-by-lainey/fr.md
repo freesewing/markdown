@@ -1,6 +1,6 @@
 ---
 date: 2019-02-24
-title: A hacked Hugo by Lainey
+title: Un Hugo hacké par Lainey
 img: showcase.jpg
 caption: Un débardeur Aaron par Joost
 patterns:
@@ -8,6 +8,6 @@ patterns:
 author: iggyblade
 ---
 
-Lainey hacked this Hugo and gave it extra warm lining and zippers on the pouch pocket.
+Lainey a hacké cet Hugo et lui a mis une doublure très chaude et des fermetures sur la poche ventrale.
 
-![Another view](2.jpg)
+![Une autre vue](2.jpg)
