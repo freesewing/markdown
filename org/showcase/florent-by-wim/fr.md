@@ -1,16 +1,16 @@
 ---
 date: 2018-09-21
-title: A Florent flat cap by Wim
+title: Un casquette plate Florent par Wim
 img: showcase.jpg
-caption: "Florent flat cap"
+caption: "Casquette plate Florent"
 patterns:
   - florent
 author: wim2
 ---
 
-Here's Wim with a Florent flap cap.
+Voici Wim avec une casquette plate Florent.
 
 
-![Another picture from this Florent](2.jpg)
+![Une autre photo de ce Florent](2.jpg)
 
-![Another picture from this Florent](3.jpg)
+![Une autre photo de ce Florent](3.jpg)
