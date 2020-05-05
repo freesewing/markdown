@@ -8,7 +8,7 @@ patterns:
 author: web_goddess
 ---
 
-![View of the back](high_back.jpg)
+![Vue du dos](high_back.jpg)
 
 <Note>
 
@@ -16,7 +16,7 @@ author: web_goddess
 This picture is from [this blog post](https://www.web-goddess.org/archive/18117) 
 on [web-goddess.org](https://www.web-goddess.org/).
 
-Elle est publié ici avec son autorisation.
+Elle est publiée ici avec son autorisation.
 
 </Note>
 
