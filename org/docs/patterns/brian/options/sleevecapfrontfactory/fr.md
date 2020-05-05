@@ -1,6 +1,6 @@
 ![L'emplacement vertical du point d'inflexion avant](./sleevecapfonrtfactory.svg)
 
-Cette option module la position verticale du point d'inflexion de la tête de manche sur le devant de la manche.
+Cette option contrôle la position verticale du point d'inflexion de la tête de manche sur le devant de la manche.
 
 <Tip>
 
