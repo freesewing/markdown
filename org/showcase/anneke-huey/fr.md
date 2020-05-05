@@ -16,7 +16,7 @@ author: AnnekeCaramin
 Ce post [est apparu à l'origine](http://www.annekecaramin.com/2017/11/pleasure-dot-loathing-dot-huey-dot.html) 
 sur [annekecaramin.com](http://www.annekecaramin.com/).
 
-Elle est publié ici avec son autorisation.
+Elle est publiée ici avec son autorisation.
 
 </Note>
 
