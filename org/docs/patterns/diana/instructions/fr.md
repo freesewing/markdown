@@ -1,5 +1,5 @@
 
-## Finish the back neckline
+## Terminer l'encolure dos
 
 Cut a strip of self fabric the length of your back neckline, and around 3 cm wide.  
 Press a fold into this strip, 1 cm from the edge.
@@ -13,7 +13,7 @@ or a strip with the stretch direction running along the long edge if you are usi
 
 Align the non-folded edge of the strip with the back neckline with good sides together. Sew the strip to the back neckline and trim the seam. Turn the strip to the wrong side of the fabric and topstitch along the folded edge to keep it in place.
 
-## Close shoulder seams
+## Fermer les coutures d'épaule
 
 ![This drawing was too nice not to use](neckline.jpg)
 
@@ -27,11 +27,11 @@ Stitch the shoulder seam, enclosing the raw edge of the back neckline in the fol
 
 Turn to the right side and press.
 
-## Finish front neckline
+## Terminer l'encollure avant
 
 Press the hem formed in your fabric by the folds you made at the shoulder seam when you closed the shoulder and topstitch close to the edge.
 
-## Attach sleeves
+## Attacher les manches
 
 The sleeve will be inserted flat, meaning the armhole seam will be sewn first and the sleeve and side seam will be closed in one go.
 
@@ -39,14 +39,14 @@ Place the sleeve head along the armhole, with *good sides together* and matching
 
 Sew, finish and press the seam.
 
-## Close side and sleeve seam
+## Fermer la couture des côtés et des manches
 
 Place the front on the back with good sides together so the side seams and sleeve seam match and the whole thing starts to look like a shirt.  
 Make sure the armhole seam lines up across the front and back.
 
 Sew, finish and press the seam.
 
-## Hem
+## Faire les ourlets
 
 Finish the sleeves and bottom hems in a way that works with your fabric choice.
 
