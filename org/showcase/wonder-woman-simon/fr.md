@@ -8,7 +8,7 @@ patterns:
 author: 'MyxterHyde'
 ---
 
-![Another view](view2.jpg) ![Another view](view3.jpg) ![Another view](view4.jpg) ![Another view](view5.jpg)
+![Une autre vue](view2.jpg) ![Une autre vue](view3.jpg) ![Une autre vue](view4.jpg) ![Une autre vue](view5.jpg)
 
 <Note>
 
@@ -17,7 +17,7 @@ author: 'MyxterHyde'
 These images are from 
 [the Instagram feed](https://www.instagram.com/myxterhyde/)
 of [@MyxterHyde](/users/MyxterHyde).
-They are published here with permission.
+Elles sont repostées ici avec autorisation.
 
 </Note>
 
