@@ -1,8 +1,8 @@
 ---
 date: 2018-09-29
-title: Yoga Outfit by Paul
+title: Tenue de yoga par Paul
 img: showcase.jpg
-caption: "Aaron and Bruce yoga set with stripes by Paul (up-side-down)"
+caption: "Ensemble de yoga Aaron et Bruce avec bandes par Paul (tête en bas)"
 patterns:
   - aaron
   - bruce
