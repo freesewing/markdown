@@ -1,4 +1,4 @@
- - **Main fabric**
+ - **Tissu principal**
    - Couper **1 devant** au pli
    - Couper **1 dos** au pli
    - Cut **2 sleeves**, good sides together
