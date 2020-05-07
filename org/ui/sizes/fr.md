@@ -1,6 +1,6 @@
 ---
-title: Create an account to generate made-to-measure sewing patterns
+title: Créez un compte pour générer des patrons de couture sur-mesure
 ---
 
-To get the most out of our platform, you should [sign up](/signup/) so you can generate made-to-measure sewing patterns. 
+Pour tirer le meilleur parti de notre plateforme, vous devez [vous inscrire](/signup/) pour que vous puissiez générer des patrons de couture sur-mesure. 
 
