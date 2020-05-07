@@ -1,4 +1,4 @@
- - **Main fabric**
+ - **Tissu principal**
    - Cut **2 front(s)** with good sides together
    - Cut **2 back(s)** with good sides together
    - Cut **2 front facing(s)** with good sides together
@@ -8,7 +8,7 @@
    - Cut **2 front lining(s)** with good sides together
    - Cut **2 back(s)** with good sides together
    - Cut **2 pocket bag(s)** with good sides together
- - **Interfacing**
+ - **Entoilage**
    - Cut **2 front(s)** with good sides together
    - Cut **2 pocket interfacing(s)**
 
