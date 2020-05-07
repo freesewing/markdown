@@ -1,16 +1,16 @@
 ---
 date: 2019-06-17
-title: Theodore makes cropped Theo trousers
+title: Theodore réalise un pantalon Theo raccourci
 img: showcase.jpg
-caption: Cropped trousers by Theodore
+caption: Pantacourt par Theodore
 patterns:
   - theo
 author: flaminSaganaki
 ---
 
-Theodore writes [on Reddit](https://www.reddit.com/r/sewing/comments/c1fue3/cropped_pants_for_the_summer_weather/):
+Theodore écrit [sur Reddit](https://www.reddit.com/r/sewing/comments/c1fue3/cropped_pants_for_the_summer_weather/) :
 
-> Are capris cool again yet? I don't care, I like them.
+> Les corsaires sont-ils encore cool ? Je m'en fiche, je les aime.
 > 
-> Used some nice olive green Armani cotton fabric with a customized pattern from FreeSewing.org, the Theo model. Drafted for a higher rise, they fit really nice!
+> Utilisé un joli tissu de coton Armani vert olive avec un patron personnalisé de FreeSewing.org, le modèle Theo. Conçu pour une hauteur plus élevée, il tombe vraiment bien !
 
