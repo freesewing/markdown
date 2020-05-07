@@ -1,8 +1,8 @@
 ---
 date: 2017-02-12
-title: An era-appropriate Sven
+title: Un Sven dans l'air du temps
 img: showcase.jpg
-caption: hashtag resist
+caption: hashtag résiste
 patterns:
   - sven
 author: joost
