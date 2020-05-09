@@ -69,7 +69,7 @@ Avec les devant et les entrées assemblés ensemble, vous avez 3 parties :
  - Les côtés + dos
  - L'élastique
 
-### Step 5: Close the fronts dart
+### Étape 5 : Fermer les pinces devant
 ![Close the fronts dart](step05.png)
 
 Fold the fronts double along the center fronts line, so that the tusks at the bottom line up.
