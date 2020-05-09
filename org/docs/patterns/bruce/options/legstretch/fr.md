@@ -1,3 +1,3 @@
-![The leg stretch option on Bruce](./legstretch.svg)
+![L'option stectch jambes pour Bruce](./legstretch.svg)
 
-The amount of stretch at the (upper) legs.
+Le facteur stretch au niveau des cuisses.
