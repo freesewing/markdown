@@ -1,13 +1,13 @@
 ---
 date: 2017-10-18
-title: This was the first ever Huey that's been made and of course it's purple
+title: C’était la toute première fois que Huey a été réalisé et bien sûr il est violet
 img: showcase.jpg
-caption: "Yes, that vintage Atari T-shirt is pretty sweet too."
+caption: "Oui, ce t-shirt vintage Atari est aussi assez chouette."
 patterns:
   - huey
 author: joost
 ---
 
-This post is [originally appeared](https://www.instagram.com/p/BaRWb34jYCL/) on [the Instagram feed of joostdecock](https://www.instagram.com/joostdecock/).
+Ce message est [initialement apparu](https://www.instagram.com/p/BaRWb34jYCL/) sur [le flux Instagram de joostdecock](https://www.instagram.com/joostdecock/).
 
 Elle est publiée ici avec son autorisation.
