@@ -20,7 +20,7 @@ Alignez l'autre côté du dos (pièce 1) avec le second côté (pièce 3) endroi
 
 Assemblez-les ensemble à la surjeteuse, comme précédemment.
 
-> Le dos et les côtés sont maintenant assemblés. Mettez-les de côté un instant.
+> Le dos et les côtés sont maintenant assemblés. Mettez-les de côté pour l'instant.
 
 ### Étape 3 : Assembler le premier insert et les devants
 
@@ -38,9 +38,9 @@ Au fur et à mesure que vous avancez, maintenez les deux bords du tissu l'un sur
 
 Lorsque vous maintenez les bords du tissu alignés, vous risquez d'étirer un côté plus que l'autre. Le repère sur le bord courbe peut vous aider à éviter cela.
 
-Après le repère, les choses seront plus faciles. Ce serait également le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus courte jusqu'à ce qu'elles correspondent.
+Après le repère, les choses seront plus faciles. C'est le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus courte jusqu'à ce qu'elles correspondent.
 
-Si la différence est trop grande, laissez-la tout simplement. L'excédent sera coupé quand nous ferons la conture d'entrejamble.
+Si la différence est trop grande, laissez-la tout simplement. L'excédent sera coupé quand nous ferons la couture d'entrejamble.
 
 <Note>
 
@@ -54,7 +54,7 @@ Il s'agit probablement de la couture la plus difficile de ce modèle. Prenez vot
 
 Bien que ce soit un peu plus de travail, vous pouvez enfermer cette couture en bâtissant d'abord les inserts sur un des deux devants, puis en cousant les deux devants ensemble avec les inserts en sandwich à l'intérieur. 
 
-Cousez les pinces du devant séparément et retourner le tout à l'intérieur, et vous avez une belle zone d'emballage sans couture sur le devant. 
+Cousez les pinces du devant séparément et retourner le tout à l'intérieur, et vous avez une belle zone sans couture sur le devant. 
 
 </Tip>
 
@@ -65,12 +65,12 @@ Après avoir assemblé le premier insert et les devants, continuez avec le secon
 
 Avec les devant et les inserts assemblés ensemble, vous avez 3 parties :
 
- - Les inserts + devants
- - Les côtés + dos
+ - L'ensemble inserts + devants
+ - L'ensemble côtés + dos
  - L'élastique
 
 ### Étape 5 : Fermer la pince frontale
-![Étape : Fermer les pinces devant](step05.png)
+![Étape : Fermer la pince frontale](step05.png)
 
 Pliez les devants deux fois le long de la ligne frontale centrale, en alignant les bords du V.
 
