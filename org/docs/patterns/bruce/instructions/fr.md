@@ -1,6 +1,6 @@
 <YouTube id='PL1gv5yv3DoZME1xe5fBEHd0rKPW_xNpF3' playlist />
 
-### Étape 1 : assembler le dos et le premier côté
+### Étape 1 : Assembler le dos et le premier côté
 
 ![Assembler le dos et le premier côté](step01.png)
 
@@ -8,11 +8,11 @@ Alignez le côté du dos (pièce 1) avec le côté (pièce 3) endroit contre end
 
 Assemblez-les ensemble à la surjeteuse, en tenant compte d'une marge de couture de 1 cm. Placez donc l'aiguille extérieure de votre surjeteuse à 1cm du bord de votre tissu.
 
-> Pour ceux dont la mesure métrique n'est pas la tasse de thé, 1 cm corresponds à 3/8 pouce.
+> Pour ceux dont la mesure métrique n'est pas la tasse de thé : 1 cm correspond à 3/8 pouce.
 
 > Certaines surjeteuses ont une manette permettant de choisir entre coutures plates et coutures roulottées. Si vous prévoyez de surpiquer plus tard (voir Étape 6), assurez-vous de choisir des coutures plates.
 
-### Étape 2 : assembler le dos et le second côté
+### Étape 2 : Assembler le dos et le second côté
 
 ![Assembler le dos et le second côté](step02.png)
 
@@ -22,9 +22,9 @@ Assemblez-les ensemble à la surjeteuse, comme précédemment.
 
 > Le dos et les côtés sont maintenant assemblés. Mettez-les de côté un instant.
 
-### Étape 3 : Assebler le premier insert et les devants
+### Étape 3 : Assembler le premier insert et les devants
 
-![Commencer à une extrémité](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
+![Commencer à une extrémité](step03-a.png) ![Maintenez les pièces alignées au fur et à mesure que vous avancez](step03-b.png) ![Jusqu'à atteindre l'autre bout](step03-c.png)
 
 Assemblez l'insert (pièce 4) avec les devants (pièce 2) à la surjeteuse sur leurs bords courbes.
 
@@ -38,7 +38,7 @@ Au fur et à mesure que vous avancez, maintenez les deux bords du tissu l'un sur
 
 Lorsque vous maintenez les bords du tissu alignés, vous risquez d'étirer un côté plus que l'autre. Le repère sur le bord courbe peut vous aider à éviter cela.
 
-Après le repère, les choses seront plus faciles. Ce serait également le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus court jusqu'à ce qu'elles correspondent.
+Après le repère, les choses seront plus faciles. Ce serait également le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus courte jusqu'à ce qu'elles correspondent.
 
 Si la différence est trop grande, laissez-la tout simplement. L'excédent sera coupé quand nous ferons la conture d'entrejamble.
 
@@ -50,43 +50,43 @@ Il s'agit probablement de la couture la plus difficile de ce modèle. Prenez vot
 
 <Tip>
 
-###### Ou enfermez ces coutures en sandwich entre les devants
+###### Ou enfermez ces coutures en sandwich entre les devants.
 
 Bien que ce soit un peu plus de travail, vous pouvez enfermer cette couture en bâtissant d'abord les inserts sur un des deux devants, puis en cousant les deux devants ensemble avec les inserts en sandwich à l'intérieur. 
 
-Cousez les pinces du devant séparément et retourner le tout à l'ntérieur, et vous avez une belle zone d'emballage sans couture sur le devant. 
+Cousez les pinces du devant séparément et retourner le tout à l'intérieur, et vous avez une belle zone d'emballage sans couture sur le devant. 
 
 </Tip>
 
 ### Étape 4 : Assembler le second insert et les devants
-![Join second inset and fronts](step03-d.png)
+![Assembler le second insert et les devants](step03-d.png)
 
 Après avoir assemblé le premier insert et les devants, continuez avec le second.
 
-Avec les devant et les entrées assemblés ensemble, vous avez 3 parties :
+Avec les devant et les inserts assemblés ensemble, vous avez 3 parties :
 
  - Les inserts + devants
  - Les côtés + dos
  - L'élastique
 
-### Étape 5 : Fermer les pinces devant
-![Close the fronts dart](step05.png)
+### Étape 5 : Fermer la pince frontale
+![Étape : Fermer les pinces devant](step05.png)
 
-Fold the fronts double along the center fronts line, so that the tusks at the bottom line up.
+Pliez les devants deux fois le long de la ligne frontale centrale, en alignant les bords du V.
 
-Serge the sides of the tusks to close the fronts dart. For best results, start at the top of the seam (where the fabric is folded) and work your way to the bottom.
+Piquez les côtés du V à la surjeteuse pour refermer la pince frontale. Pour un meilleur résultat, commencez par le haut de la couture (où le tissu est plié) et travaillez vers le bas.
 
 <Tip>
 
 ###### Mettez cette couture loin de ma ...
 
 Vous pouvez également coudre les pinces de chaque pièce individuellement afin que les deux coutures soient prises à l'intérieur.
-Ne pas avoir de couture visible dans cette zone sera plus confortable.
+Ne pas avoir de couture apparente dans cette zone sera plus confortable.
 
 </Tip>
 
 ### Étape 6 : Optionnel: Surpiquez
-![Boxers with (left) and without topstitching](step06.jpg)
+![Caleçon avec (à gauche) et sans surpiqûre](step06.jpg)
 
 <Note>
 
@@ -107,22 +107,22 @@ La couture s’arrête à mi-chemin (où se termine la pince), mais votre surpiq
 </Tip>
 
 ### Étape 7 : Assembler le premier côté et les devants
-![Join the first side to the fronts](etape 7)
+![Assembler le premier côté et les devants](etape 7)
 
 Alignez le bord latéral du premier côté avec le bord de l'ensemble devants+ insert (endroit contre endroit, comme d'habitude) et cousez les ensemble à la surjeteuse.
 
 ### Étape 8 : Assembler le second côté et les devants
-![Join the second side to the fronts](step08.png)
+![Assembler le second côté et les devants](step08.png)
 
 Faites la même chose pour le second côté.
 
 ### Étape 9 : Optionnel: Surpiquer
-![Boxers with (left) and without topstitching](step06.jpg)
+![Caleçon avec (à gauche) et sans surpiqûre](step06.jpg)
 
 Si vous avez surpiqué précédemment, faites maintenant la même chose pour les coutures réalisées aux étapes 7 et 8.
 
 ### Étape 10 : Terminer la fourche
-![Finish the crotchseam](step10.png)
+![Terminer la fourche](step10.png)
 
 Nous allons maintenant coudre ensemble à la surjeteuse l'arche du dos et celle du devant, constituée des devants et des inserts.
 
@@ -137,7 +137,7 @@ Prenez votre temps, et soyez **très attentif** à l'endroit où votre surjeteus
 </Tip>
 
 ### Étape 11: Faire l'ourlet de la première jambe
-![Hem the first leg](step11.png)
+![Faire l'ourlet de la première jambe](step11.png)
 
 Il est temps de faire les ourlets. Procédez comme vous le feriez pour n'importe quel autre tissu extensible. Utilisez un point extensible. Vous pouvez utiliser un point zig-zag ou une double aiguille si vous n'avez pas de point overlock ou de règlage spécial point extensible.
 
@@ -150,12 +150,12 @@ Ou mieux: épinglez les ourlets des deux jambes et ne cousez que lorsque l'aspec
 </Note>
 
 ### Étape 12: Faire l'ourlet de la seconde jambe
-![Hem the second leg](step12.png)
+![Faire l'ourlet de la seconde jambe](step12.png)
 
 Vous avez compris.
 
 ### Étape 13 : Faire une boucle avec votre élastique
-![Make your elastic into a loop](step13.png)
+![Faire une boucle avec votre élastique](step13.png)
 
 Coudre les deux extrémités de votre élastique ensemble endroit contre endroit.
 
@@ -168,7 +168,7 @@ Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2
 </Note>
 
 ### Étape 14 : Fixer l'élastique à la taille
-![Attach elastic to waist](step14.png)
+![Fixer l'élastique à la taille](step14.png)
 
 Fixer l'élastique à la taille.
 
@@ -188,6 +188,6 @@ Cousez tout en étirant l'élastique entre 2 épingles, en enlevant les épingle
 </Tip>
 
 ### Étape 15 : Dégarnir et nettoyer
-![Yay! You've made it](step15.png)
+![Yeh ! Vous l'avez fait](step15.png)
 
 Coupez tout tissu excédentaire au niveau de l'élastique ou des ourlets et tous les fils qui dépassent.
