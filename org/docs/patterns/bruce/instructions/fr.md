@@ -119,32 +119,32 @@ Faites la même chose pour le second côté.
 ### Étape 9 : Optionnel: Surpiquer
 ![Boxers with (left) and without topstitching](step06.jpg)
 
-If you've topstitched before, make sure to do the same now for the seams you made in step 7 and 8.
+Si vous avez surpiqué précédemment, faites maintenant la même chose pour les coutures réalisées aux étapes 7 et 8.
 
-### Step 10: Finish the crotchseam
+### Étape 10 : Terminer la fourche
 ![Finish the crotchseam](step10.png)
 
-We will now serge the arched opening in the back part to the front parts of the boxers, made up of the fronts and insets.
+Nous allons maintenant coudre ensemble à la surjeteuse l'arche du dos et celle du devant, constituée des devants et des inserts.
 
-The notches on the back piece will help you. There's the center notch, and the other two notches should match up with where the fronts and inset pieces are joined.
+Aidez vous des repères dos. Il y a un repère pour le milieu, les deux autres repères devant  correspondre à la jointure des devants avec les inserts.
 
 <Tip>
 
-It's easier to start in the middle point and work your way to one side. Then start from the middle again to do the other side.
+Il est plus facile de commencer au milieu et de faire un côté après l'autre. Recommencez à partir du milieu pour faire le deuxième côté.
 
-Take it slow, and be **very aware** of where your serger blade is cutting into.
+Prenez votre temps, et soyez **très attentif** à l'endroit où votre surjeteuse coupe.
 
 </Tip>
 
-### Step 11: Hem the first leg
+### Étape 11: Faire l'ourlet de la première jambe
 ![Hem the first leg](step11.png)
 
-Time to hem the legs. Hem them as you would do any other stretchy knit. Go for a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stich setting.
+Il est temps de faire les ourlets. Procédez comme vous le feriez pour n'importe quel autre tissu extensible. Utilisez un point extensible. Vous pouvez utiliser un point zig-zag ou une double aiguille si vous n'avez pas de point overlock ou de règlage spécial point extensible.
 
 <Note>
 
-I feel that hemming is much easier when you pin things in place first. 
-So fold back your hem, and pin it in place. 
+A mon avis l'ourlet est beaucoup plus facile à faire si vous épinglez d'abord. 
+Donc pliez donc votre ourlet et épinglez le en place. 
 Even better: pin both legs in place and only sew when you're happy with how it looks.
 
 </Note>
