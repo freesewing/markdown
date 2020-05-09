@@ -86,7 +86,7 @@ Ne pas avoir de couture apparente dans cette zone sera plus confortable.
 </Tip>
 
 ### Étape 6 : Optionnel: Surpiquez
-![Caleçon avec (à gauche) et sans surpiqûre](step06.jpg)
+![Boxer avec (à gauche) et sans surpiqûre](step06.jpg)
 
 <Note>
 
