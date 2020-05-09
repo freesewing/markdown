@@ -2,7 +2,7 @@
 
 ### Étape 1 : assembler le dos et le premier côté
 
-![Join back to first side](step01.png)
+![Assembler le dos et le premier côté](step01.png)
 
 Alignez le côté du dos (pièce 1) avec le côté (pièce 3) endroit contre endroit. Comme le côté (pièce 3) est symétrique, vous ne pouvez pas vous tromper.
 
@@ -14,7 +14,7 @@ Assemblez-les ensemble à la surjeteuse, en tenant compte d'une marge de couture
 
 ### Étape 2 : assembler le dos et le second côté
 
-![Join back to second side](step02.png)
+![Assembler le dos et le second côté](step02.png)
 
 Alignez l'autre côté du dos (pièce 1) avec le second côté (pièce 3) endroit contre endroit. Comme le côté (pièce 3) est symétrique, vous ne pouvez pas vous tromper.
 
@@ -24,7 +24,7 @@ Assemblez-les ensemble à la surjeteuse, comme précédemment.
 
 ### Étape 3 : Assebler le premier insert et les devants
 
-![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
+![Commencer à une extrémité](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
 
 Assemblez l'insert (pièce 4) avec les devants (pièce 2) à la surjeteuse sur leurs bords courbes.
 
@@ -170,24 +170,24 @@ Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2
 ### Étape 14 : Fixer l'élastique à la taille
 ![Attach elastic to waist](step14.png)
 
-Attach the elastic to the waist.
+Fixer l'élastique à la taille.
 
-Do so good sides together if you're using a flexible stitch or twin needle on a conventional sewing machine.
+A faire endroit contre endroit si vous utilisez un point extensible ou une double aiguille sur une machine à coudre conventionnelle.
 
-If you're using a coverlock, put the elastic on top of the good side of the fabric.
+Si vous utilisez un point overlock, placer l'élastique sur l'endroit, en haut du caleçon.
 
 <Tip>
 
-The length of your elastic will probably difffer from the fabric length, as they stretch differently. 
-Pinning will help you achieve an even stretch.
+La longueur de votre élastique sera différente de la longueur du tissu, l'élastique devra donc être étiré. 
+Epingler vous aidera à bien répartir l'étirement.
 
-Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
+Divisez votre élastique et la taille de votre caleçon en 4 (ou 8) parties. Epinglez élastique et tissu ensemble.
 
-While sewing, stretch elastic and fabric together between each set of pins, removing the pins as your move on.
+Cousez tout en étirant l'élastique entre 2 épingles, en enlevant les épingles au fur et à mesure.
 
 </Tip>
 
-### Step 15: Trim and clean up
+### Étape 15 : Dégarnir et nettoyer
 ![Yay! You've made it](step15.png)
 
-Trim any excess fabric you might have at elastic or hem, and any loose threads.
+Coupez tout tissu excédentaire au niveau de l'élastique ou des ourlets et tous les fils qui dépassent.
