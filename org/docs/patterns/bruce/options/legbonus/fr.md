@@ -1,3 +1,3 @@
-![The leg bonus option on Bruce](./legbonus.svg)
+![L'option bonus longueur jambe pour Bruce](./legbonus.svg)
 
-How much do you want to lengthen the legs?
+De combien voulez-vous allonger les jambes?
