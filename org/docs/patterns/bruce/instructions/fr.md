@@ -78,14 +78,14 @@ Piquez les côtés du V à la surjeteuse pour refermer la pince frontale. Pour u
 
 <Tip>
 
-###### Mettez cette couture loin de ma ...
+###### Couvrez cette couture que je ne saurais voir ...
 
 Vous pouvez également coudre les pinces de chaque pièce individuellement afin que les deux coutures soient prises à l'intérieur.
 Ne pas avoir de couture apparente dans cette zone sera plus confortable.
 
 </Tip>
 
-### Étape 6 : Optionnel: Surpiquez
+### Étape 6 : Optionnel: Surpiquer
 ![Boxer avec (à gauche) et sans surpiqûre](step06.jpg)
 
 <Note>
@@ -102,12 +102,12 @@ Si vous surpiquez, faites-le pour chaque couture, en vous assurant d'utiliser un
 <Tip>
 
 Pour surpiquer la couture qui ferme la pince frontale, commencez par le bas, en remontant jusqu'en haut, là où viendra la ceinture. 
-La couture s’arrête à mi-chemin (où se termine la pince), mais votre surpiqûre doit continuer.
+La couture s’arrête à mi-chemin (là où se termine la pince), mais votre surpiqûre doit continuer.
 
 </Tip>
 
 ### Étape 7 : Assembler le premier côté et les devants
-![Assembler le premier côté et les devants](etape 7)
+![Assemblez le premier côté et les devants](etape 7)
 
 Alignez le bord latéral du premier côté avec le bord de l'ensemble devants+ insert (endroit contre endroit, comme d'habitude) et cousez les ensemble à la surjeteuse.
 
@@ -117,16 +117,16 @@ Alignez le bord latéral du premier côté avec le bord de l'ensemble devants+ i
 Faites la même chose pour le second côté.
 
 ### Étape 9 : Optionnel: Surpiquer
-![Caleçon avec (à gauche) et sans surpiqûre](step06.jpg)
+![Boxer avec (à gauche) et sans surpiqûre](step06.jpg)
 
 Si vous avez surpiqué précédemment, faites maintenant la même chose pour les coutures réalisées aux étapes 7 et 8.
 
 ### Étape 10 : Terminer la fourche
-![Terminer la fourche](step10.png)
+![Terminez la fourche](step10.png)
 
 Nous allons maintenant coudre ensemble à la surjeteuse l'arche arrière du boxer et celle du devant, constituée des devants et des inserts.
 
-Aidez vous des repères dos. Il y a un repère pour le milieu, les deux autres repères devant  correspondre à la jointure des devants avec les inserts.
+Aidez vous des repères dos. Il y a un repère pour les milieux, les deux autres repères devant correspondre à la jointure des devants avec les inserts.
 
 <Tip>
 
@@ -137,27 +137,27 @@ Prenez votre temps, et soyez **très attentif** à l'endroit où votre surjeteus
 </Tip>
 
 ### Étape 11: Faire l'ourlet de la première jambe
-![Faire l'ourlet de la première jambe](step11.png)
+![Faites l'ourlet de la première jambe](step11.png)
 
 Il est temps de faire les ourlets. Procédez comme vous le feriez pour n'importe quel autre tissu extensible. Utilisez un point extensible. Vous pouvez utiliser un point zig-zag ou une double aiguille si vous n'avez pas de point overlock ou de règlage spécial point extensible.
 
 <Note>
 
 A mon avis l'ourlet est beaucoup plus facile à faire si vous épinglez d'abord. 
-Donc pliez donc votre ourlet et épinglez le en place. 
+Donc pliez votre ourlet et épinglez-le en place. 
 Ou mieux: épinglez les ourlets des deux jambes et ne cousez que lorsque l'aspect vous satisfait.
 
 </Note>
 
 ### Étape 12: Faire l'ourlet de la seconde jambe
-![Faire l'ourlet de la seconde jambe](step12.png)
+![Faites l'ourlet de la seconde jambe](step12.png)
 
 Vous avez compris.
 
 ### Étape 13 : Faire une boucle avec votre élastique
-![Faire une boucle avec votre élastique](step13.png)
+![Faites une boucle avec votre élastique](step13.png)
 
-Coudre les deux extrémités de votre élastique ensemble endroit contre endroit.
+Cousez les deux extrémités de votre élastique ensemble endroit contre endroit.
 
 <Note>
 
