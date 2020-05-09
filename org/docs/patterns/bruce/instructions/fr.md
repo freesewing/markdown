@@ -78,26 +78,26 @@ Serge the sides of the tusks to close the fronts dart. For best results, start a
 
 <Tip>
 
-###### Keep that seam away from my ...
+###### Mettez cette couture loin de ma ...
 
-Alternatively, sew the darts on each piece individually so that both seams are folded inside.
-Arguably, not having an exposed seam in this area is more comfortable for the wearer.
+Vous pouvez également coudre les pinces de chaque pièce individuellement afin que les deux coutures soient prises à l'intérieur.
+Ne pas avoir de couture visible dans cette zone sera plus confortable.
 
 </Tip>
 
-### Step 6: Optional: Topstitch
+### Étape 6 : Optionnel: Surpiquez
 ![Boxers with (left) and without topstitching](step06.jpg)
 
 <Note>
 
-This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces. 
-It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
+Cette étape est facultative. Surpiquer ajoute un effet de style qui souligne les différentes pièces du patron. 
+Ce peut être joli avec un tissu uni, mais pas nécessairement avec un imprimé, ou avec des pièces de différentes couleur.
 
 </Note>
 
-If you want to topstitch your serged seams for visual effect, you should do so now.
+Si vous voulez surpiquer les coutures faites à la surjeteuse, faites le maintenant.
 
-If you topstitch, simply do it for every seam, making sure to do so with a flexible stitch. You can use a zig-zag stitch or twin needle if you don't have a coverlock or specific flexible stitch setting.
+Si vous surpiquez, faites-le pour chaque couture, en vous assurant d'utiliser un point de couture extensible. Vous pouvez utiliser un point zig-zag ou une double aiguille si vous n'avez pas de point overlock ou de règlage spécial point extensible.
 
 <Tip>
 
