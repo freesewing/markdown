@@ -101,23 +101,22 @@ Si vous surpiquez, faites-le pour chaque couture, en vous assurant d'utiliser un
 
 <Tip>
 
-When topstitching the seam that closed the fronts dart, start from the bottom, 
-and let the topstitching run all the way to the top, where the waistband will come. 
-The seam stops halfway through (where the dart ends) but your topstitching should continue.
+Pour surpiquer la couture qui ferme les pinces devant, commencez par le bas, en remontant jusqu'en haut, là où viendra la ceinture. 
+La couture s’arrête à mi-chemin (où se termine la pince), mais votre surpiqûre doit continuer.
 
 </Tip>
 
-### Step 7: Join the first side to the fronts
-![Join the first side to the fronts](step07.png)
+### Étape 7 : Assembler le premier côté et les devants
+![Join the first side to the fronts](etape 7)
 
-Align the side edge of the first side with the edge make up of the fronts+inset (good sides together as usual) and serge them together.
+Alignez le bord latéral du premier côté avec le bord de l'ensemble devants+ insert (endroit contre endroit, comme d'habitude) et cousez les ensemble à la surjeteuse.
 
-### Step 8: Join the second side to the fronts
+### Étape 8 : Assembler le second côté et les devants
 ![Join the second side to the fronts](step08.png)
 
-Do the same for the second side.
+Faites la même chose pour le second côté.
 
-### Step 9: Optional: Topstitch
+### Étape 9 : Optionnel: Surpiquer
 ![Boxers with (left) and without topstitching](step06.jpg)
 
 If you've topstitched before, make sure to do the same now for the seams you made in step 7 and 8.
