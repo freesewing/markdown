@@ -124,7 +124,7 @@ Si vous avez surpiqué précédemment, faites maintenant la même chose pour les
 ### Étape 10 : Terminer la fourche
 ![Terminer la fourche](step10.png)
 
-Nous allons maintenant coudre ensemble à la surjeteuse l'arche arrière du caleçon et celle du devant, constituée des devants et des inserts.
+Nous allons maintenant coudre ensemble à la surjeteuse l'arche arrière du boxer et celle du devant, constituée des devants et des inserts.
 
 Aidez vous des repères dos. Il y a un repère pour le milieu, les deux autres repères devant  correspondre à la jointure des devants avec les inserts.
 
@@ -162,7 +162,7 @@ Coudre les deux extrémités de votre élastique ensemble endroit contre endroit
 <Note>
 
 ###### Combien d'élastique me faut-il ?
-Entourez simplement votre élastique autour de votre taille, là où vous porterez votre caleçon, et serrez un peu jusqu'à ce que cela vous convienne. 
+Entourez simplement votre élastique autour de votre taille, là où vous porterez votre boxer, et serrez un peu jusqu'à ce que cela vous convienne. 
 Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur d'élastique.
 
 </Note>
@@ -174,14 +174,14 @@ Fixer l'élastique à la taille.
 
 A faire endroit contre endroit si vous utilisez un point extensible ou une double aiguille sur une machine à coudre conventionnelle.
 
-Si vous utilisez un point overlock, placer l'élastique sur l'endroit, en haut du caleçon.
+Si vous utilisez un point overlock, placer l'élastique sur l'endroit, en haut du boxer.
 
 <Tip>
 
-La longueur de votre élastique sera différente de la longueur du tissu, l'élastique devra donc être étiré. 
+La longueur de votre élastique sera plus courte que celle de la taille du boxer, l'élastique devra donc être étiré. 
 Epingler vous aidera à bien répartir l'étirement.
 
-Divisez votre élastique et la taille de votre caleçon en 4 (ou 8) parties. Epinglez élastique et tissu ensemble.
+Divisez votre élastique et la taille de votre boxer en 4 (ou 8) parties. Epinglez élastique et tissu ensemble.
 
 Cousez tout en étirant l'élastique entre 2 épingles, en enlevant les épingles au fur et à mesure.
 
