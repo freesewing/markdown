@@ -8,4 +8,4 @@ patterns:
 author: joost
 ---
 
-A Simon shirt with red contrasting buttons.
+Une chemise Simon aux boutons rouges contrastés.
