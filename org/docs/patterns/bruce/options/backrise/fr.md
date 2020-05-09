@@ -1,7 +1,7 @@
-![The back rise option on Bruce](./backrise.svg)
+![L'option hauteur supplémentaire dos pour Bruce](./backrise.svg)
 
-How much extra rise do you want at the back?
+Combien de hauteur supplémentaire voulez-vous au dos ?
 
-This factor will raise the waist at the back of your boxers only.
+Ce facteur augmentera la hauteur seulement à l'arrière de votre boxer.
 
-> If you want to raise the waist overall, that's what the **rise** option does
+> Si vous voulez augmenter la hauteur partout, voir l'option **hauteur**
