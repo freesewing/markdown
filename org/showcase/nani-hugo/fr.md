@@ -1,8 +1,8 @@
 ---
 date: 2016-03-19
-title: Hugo hacked into a zip-up hoodie by Nani Roma
+title: Hugo hacké en sweat à capuche zippée par Nani Roma
 img: showcase.jpg
-caption: This is a very cool make IMHO
+caption: C'est une réalisation très cool je trouve
 patterns:
   - hugo
 author: Nani Roma
