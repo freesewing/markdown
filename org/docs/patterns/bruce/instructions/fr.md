@@ -101,7 +101,7 @@ Si vous surpiquez, faites-le pour chaque couture, en vous assurant d'utiliser un
 
 <Tip>
 
-Pour surpiquer la couture qui ferme les pinces devant, commencez par le bas, en remontant jusqu'en haut, là où viendra la ceinture. 
+Pour surpiquer la couture qui ferme la pince frontale, commencez par le bas, en remontant jusqu'en haut, là où viendra la ceinture. 
 La couture s’arrête à mi-chemin (où se termine la pince), mais votre surpiqûre doit continuer.
 
 </Tip>
@@ -124,7 +124,7 @@ Si vous avez surpiqué précédemment, faites maintenant la même chose pour les
 ### Étape 10 : Terminer la fourche
 ![Terminer la fourche](step10.png)
 
-Nous allons maintenant coudre ensemble à la surjeteuse l'arche du dos et celle du devant, constituée des devants et des inserts.
+Nous allons maintenant coudre ensemble à la surjeteuse l'arche arrière du caleçon et celle du devant, constituée des devants et des inserts.
 
 Aidez vous des repères dos. Il y a un repère pour le milieu, les deux autres repères devant  correspondre à la jointure des devants avec les inserts.
 
@@ -163,7 +163,7 @@ Coudre les deux extrémités de votre élastique ensemble endroit contre endroit
 
 ###### Combien d'élastique me faut-il ?
 Entourez simplement votre élastique autour de votre taille, là où vous porterez votre caleçon, et serrez un peu jusqu'à ce que cela vous convienne. 
-Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur.
+Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur d'élastique.
 
 </Note>
 
