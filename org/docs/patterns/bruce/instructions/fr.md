@@ -168,13 +168,13 @@ Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2
 </Note>
 
 ### Étape 14 : Fixer l'élastique à la taille
-![Fixer l'élastique à la taille](step14.png)
+![Fixez l'élastique à la taille](step14.png)
 
-Fixer l'élastique à la taille.
+Fixez l'élastique à la taille.
 
 A faire endroit contre endroit si vous utilisez un point extensible ou une double aiguille sur une machine à coudre conventionnelle.
 
-Si vous utilisez un point overlock, placer l'élastique sur l'endroit, en haut du boxer.
+Si vous utilisez un point overlock, placez l'élastique sur l'endroit, en haut du boxer.
 
 <Tip>
 
