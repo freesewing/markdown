@@ -145,29 +145,29 @@ Il est temps de faire les ourlets. Procédez comme vous le feriez pour n'importe
 
 A mon avis l'ourlet est beaucoup plus facile à faire si vous épinglez d'abord. 
 Donc pliez donc votre ourlet et épinglez le en place. 
-Even better: pin both legs in place and only sew when you're happy with how it looks.
+Ou mieux: épinglez les ourlets des deux jambes et ne cousez que lorsque l'aspect vous satisfait.
 
 </Note>
 
-### Step 12: Hem the second leg
+### Étape 12: Faire l'ourlet de la seconde jambe
 ![Hem the second leg](step12.png)
 
-You know it makes sense.
+Vous avez compris.
 
-### Step 13: Make your elastic into a loop
+### Étape 13 : Faire une boucle avec votre élastique
 ![Make your elastic into a loop](step13.png)
 
-Sew both ends of your elastic together with good sides together.
+Coudre les deux extrémités de votre élastique ensemble endroit contre endroit.
 
 <Note>
 
-###### Not sure how much elastic you need?
-Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. 
-Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
+###### Combien d'élastique me faut-il ?
+Entourez simplement votre élastique autour de votre taille, là où vous porterez votre caleçon, et serrez un peu jusqu'à ce que cela vous convienne. 
+Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur.
 
 </Note>
 
-### Step 14: Attach elastic to waist
+### Étape 14 : Fixer l'élastique à la taille
 ![Attach elastic to waist](step14.png)
 
 Attach the elastic to the waist.
