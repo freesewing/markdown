@@ -1,15 +1,15 @@
 ---
 date: 13-08-2018
-title: Sloppy Theo trousers
+title: Pantalon Theo décontracté
 img: showcase.jpg
-caption: "Theo Trousers"
+caption: "Pantalon Theo"
 patterns:
   - theo
 author: cabi
 ---
 
-This is a adaption of the Theo pattern. I left out the zipper and the buttons. Instead of this I filled the waistband with a elastic.
+Ceci est une adaptation du patron Theo. J'ai laissé tomber la fermeture à glissière et les boutons. Au lieu de cela, j'ai rempli la ceinture avec un élastique.
 
-The intention of this trousers were to have a nice sloppy trousers at home. But with the linen fabric and its colour the trousers still hold the classic chic of the pattern. Now I wear them at work and funsies.
+Le but de ce pantalon était d'avoir un joli pantalon à la maison. Mais avec le tissu en lin et sa couleur, le pantalon garde quand-même le côté chic-classique du patron. Maintenant je le porte au travail et pour les sorties.
 
-![Another picture from these linen Theo trousers](2.jpg)
+![Une autre photo de ce pantalon Theo en lin](2.jpg)

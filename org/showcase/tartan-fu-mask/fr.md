@@ -1,8 +1,8 @@
 ---
 date: 2020-03-01
-title: Un masque Florence rouge et bleu
+title: Un masque Florence en rouge et bleu
 img: showcase.jpg
-caption: Sorcha porte un masque écossais rouge et bleu Florence
+caption: Sorcha porte un masque Florence en tissu écossais rouge et bleu
 patterns:
   - florence
 author: joost

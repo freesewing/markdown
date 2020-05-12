@@ -1,17 +1,17 @@
 ---
 date: 2017-09-29
-title: "A Trayvon tie in a Liberty silk by Victoria"
+title: "Une cravate Trayvon dans une soie Liberty par Victoria"
 img: showcase.jpg
-caption: Beautiful fabric, and a greatly made tie
+caption: Un beau tissu, et une super réalisation de cravate
 patterns:
   - trayvon
 author: 'Victoria Evitts'
 ---
 
-My husband travelled to Ireland 🇮🇪 for a weekend (62hrs travelling for 60hrs on the ground 🙀) to attend his brother's wedding 👏 My contribution was this beautiful @libertylondon silk tie and pocket square made specifically for the big day. I was there in spirit.
+Mon mari a voyagé en Irlande 🇮🇪 pour un week-end (62h de voyage pour 60h au sol 🙀) pour assister au mariage de son frère 👏 Ma contribution était cette belle cravate de soie de @libertylondon et un carré de poche faits spécialement pour ce grand jour. J'étais dans l'esprit.
 
-> ##### See the original on Instagram
+> ##### Voir l'original sur Instagram
 > 
-> [This picture](https://www.instagram.com/p/BZR3pyCHLjm/) is from the Instagram feed of [e2_clothing](https://www.instagram.com/e2_clothing/).
+> [Cette photo](https://www.instagram.com/p/BZR3pyCHLjm/) provient du feed Instagram de [e2_clothing](https://www.instagram.com/e2_clothing/).
 
 

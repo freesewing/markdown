@@ -1,17 +1,17 @@
 ---
 date: 2017-08-20
-title: Mark wears a simon shirt made by his wife
+title: Mark porte une chemise Simon faite par sa femme
 img: showcase.jpg
-caption: "Good tie action too"
+caption: "Jolie cravate aussi"
 patterns:
   - simon
 author: swissarmywife
 ---
 
-![Another view](2.jpg)
+![Une autre vue](2.jpg)
 
-![And a back view](3.jpg)
+![Et une vue de dos](3.jpg)
 
-> ##### Check the original in the Instagram feed of swissarmywife
+> ##### Consultez l'original dans le feed Instagram de swissarmywife
 > 
-> This picture is from [the Instagram feed](https://www.instagram.com/p/BYAX07OFEPL/) of [swissarmywife](https://mnel2.wordpress.com/). It's posted here with permission.
+> Cette photo provient du [feed Instagram](https://www.instagram.com/p/BYAX07OFEPL/) de [swissarmywife](https://mnel2.wordpress.com/). Elle est publiée ici avec son autorisation.

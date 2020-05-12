@@ -1,4 +1,4 @@
-![Le décalage du roisième quadrant de la tête de manche](./sleevecapq3offset.svg)
+![Le décalage du troisième quadrant de la tête de manche](./sleevecapq3offset.svg)
 
 Cette option contrôle le décalage dans le troisième quadrant de la tête de manche.
 

@@ -1,11 +1,11 @@
 ---
 date: 2016-08-19
-title: Boxers for Sjoerd, by Irene
+title: Boxers pour Sjoerd, par Irene
 img: showcase.jpg
-caption: Arrr!
+caption: '« Arrrr! »'
 patterns:
   - bruce
 author: 'Irene Portz'
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BJS0jaThfh1/)  of [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).
+Cette photo provient du [flux Instagram](https://www.instagram.com/p/BJS0jaThfh1/)  de [Irene's Stoffen](https://www.facebook.com/irenes.stoffen).

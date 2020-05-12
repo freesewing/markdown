@@ -1,8 +1,8 @@
 ---
 date: 2016-08-16
-title: Aaron in signature purple, but arguably too tight
+title: Aaron en violet signature, mais sans doute trop serré
 img: showcase.jpg
-caption: I misjudged the stretch on this fabric, and it's super clingy
+caption: J'ai mal jugé l'élasticité sur ce tissu, et c'est super tendu
 patterns:
   - aaron
 author: joost

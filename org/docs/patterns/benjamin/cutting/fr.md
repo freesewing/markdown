@@ -1,22 +1,22 @@
-Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
+Benjamin est un modèle plutôt simple, mais vos options détermineront ce qui doit être coupé. Voici deux versions typiques.
 
-## Without adjustment ribbon
+## Sans ruban d'ajustement
 
- - **Main fabric**
-   - Cut **4 Knot**
-   - Cut **2 Collar band**
- - **Interfacing**
-   - Cut **4 interfacing knot**
-   - Cut **2 interfacing collar band**
+ - **Tissu principal**
+   - Couper **4 Nœud**
+   - Couper **2 bandes de col**
+ - **Entoilage**
+   - Couper **4 entoilages de Nœud**
+   - Couper **2 entoilages de bandes de col**
 
-## With adjustment ribbon
+## Avec ruban d'ajustement
 
- - **Main fabric**
-   - Cut **1 Knot 1**
-   - Cut **1 Knot 2**
-   - Cut **2 Knot 3**
- - **Interfacing**
-   - Cut **1 interfacing knot 1**
-   - Cut **1 interfacing knot 2**
-   - Cut **2 interfacing knot 3**
+ - **Tissu principal**
+   - Couper **1 Nœud 1**
+   - Couper **1 Nœud 2**
+   - Couper **2 Nœud 3**
+ - **Entoilage**
+   - Couper **1 entoilages de Nœud 1**
+   - Couper **1 entoilages de Nœud 2**
+   - Couper **2 entoilages de Nœud 3**
 

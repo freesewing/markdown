@@ -1,6 +1,6 @@
 ![L'emplacement horizontal du point d'inflexion devant](./sleevecapfrontfactorx.svg)
 
-Cette option module la position horizontale du point d'inflexion de la tête de manche à l'avant de la manche.
+Cette option contrôle la position horizontale du point d'inflexion de la tête de manche à l'avant de la manche.
 
 <Tip>
 

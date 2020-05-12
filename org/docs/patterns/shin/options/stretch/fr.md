@@ -1,2 +1,2 @@
 
-The amount of overal (horizontal) stretch.
+Le facteur de stretch horizontal.

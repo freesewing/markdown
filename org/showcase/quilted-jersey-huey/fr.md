@@ -1,24 +1,24 @@
 ---
 date: 2017-12-11
-title: A Huey in quilted jersey by Andrew Myles, aka Buster
+title: Un Huey en jersey matelassé par Andrew Myles, aka Buster
 img: showcase.jpg
-caption: "Going for that casual and <em>too cool to look at the camera</em> look."
+caption: "Va pour ce look décontracté et <em>trop cool pour regarder la caméra</em>."
 patterns:
   - huey
 author: Buster
 ---
 
-![Don't you just love this quilted jersey Andrew used for this Huey](high_detail.jpg) 
+![N'adorez-vous pas ce jersey matelassé qu'Andrew a utilisé pour ce Huey ?](high_detail.jpg) 
 
 <Note>
 
-###### More pictures and info in the original blog post
-This picture 
-[originally appeared](https://mensew.wordpress.com/2017/12/10/hugo-hoodie-freesewing-org/) 
-on [@Buster](/users/Buster)'s [MenSew](https://mensew.wordpress.com/) blog. It is reposted here with persmission.
+###### Plus de photos et d'infos dans l'article de blog original
+Cette photo 
+[est apparue à l'origine](https://mensew.wordpress.com/2017/12/10/hugo-hoodie-freesewing-org/) 
+sur le blog de [@Buster](/users/Buster) [MenSew](https://mensew.wordpress.com/). Elle est publiée ici avec son autorisation.
 
-Do check out the blog post for there are loads more pictures and he also writes about his 
-experience using [freesewing.org](/).
+Consultez l'article de blog car il y a beaucoup plus de photos et il écrit également sur son 
+expérience d'utilisation de [freesewing.org](/).
 
 </Note>
 

@@ -1,8 +1,8 @@
 ---
 date: 2017-02-18
-title: The world's most boring sweater, perfect for the office
+title: Le chandail le plus ennuyeux au monde, parfait pour le bureau
 img: showcase.jpg
-caption: This fabric has wool in it a is super warm.
+caption: Ce tissu contient de la laine et il est super chaud.
 patterns:
   - sven
 author: joost

@@ -1,11 +1,11 @@
 ---
 date: 2017-08-02
-title: Bruce on this doll because why not?
+title: Bruce sur cette poupée parce que pourquoi pas ?
 img: showcase.jpg
-caption: The doll is named Jon, and its owner is Alicia
+caption: La poupée s'appelle Jon, et son propriétaire est Alicia
 patterns:
   - bruce
-author: Archaiix
+author: Archaïix
 ---
 
-This image was reposted (with premission) from the [denofangles.com](https://denofangels.com/posts/12259581/) forum.
+Cette photo a été repostée (avec permission) à partir de [denofangles.com](https://denofangels.com/posts/12259581/).

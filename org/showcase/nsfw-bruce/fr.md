@@ -1,8 +1,8 @@
 ---
 date: 2014-09-15
-title: The lesser-spotted shot of Bruce on an actual human being
+title: La vue la plus plongeante de Bruce sur un être humain
 img: showcase.jpg
-caption: Depending on your job, this might be NSFW
+caption: Selon votre travail, cela pourrait être une tenue indécente
 patterns:
   - bruce
 author: joost

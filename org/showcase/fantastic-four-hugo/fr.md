@@ -1,13 +1,13 @@
 ---
 date: 2018-02-05
-title: A Fantastic Four themed Hugo
+title: Un Hugo sur le thème des quatre fantastiques
 img: showcase.jpg
-caption: "I'm digging this look."
+caption: "Je creuse ce look."
 patterns:
   - hugo
 author: Gillian
 ---
 
-[This image](https://www.instagram.com/p/Beyg_MMhMH0PsSBwQkKVqMT7pObcJ0Ffb7jAAw0/?taken-by=gilliancrafts) is from [the Instagram feed of Gillian](https://www.instagram.com/gilliancrafts/).
+[Cette photo](https://www.instagram.com/p/Beyg_MMhMH0PsSBwQkKVqMT7pObcJ0Ffb7jAAw0/?taken-by=gilliancrafts) provient du [feed Instagram de Gillian](https://www.instagram.com/gilliancrafts/).
 
-Elle est publié ici avec son autorisation.
+Elle est publiée ici avec son autorisation.

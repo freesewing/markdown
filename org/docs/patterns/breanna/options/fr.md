@@ -1,3 +1,5 @@
+- - -
+- - -
 
 import PatternOptions from '../../../../../../src/components/docs/pattern-options'
 
@@ -7,9 +9,9 @@ import PatternOptions from '../../../../../../src/components/docs/pattern-option
 
 The Breanna sleevecap was designed to be adaptable into different types of sleeves and garments. As a result, the sleevecap alone has 20 options to control its shape. Bien que cela puisse paraître un peu assommant de prime abord, comprendre la conception de la tête de manche facilite la compréhension des différentes options.
 
-### La bounding box
+### La bounding box (boîte englobante)
 
-La *bouding box* de la tête de manche est un rectangle de la largeur de la manche et de la hauteur de la tête de manche. La tête de manche va être construite dans ce rectangle.
+La *bounding box* de la tête de manche est un rectangle de la largeur de la manche et de la hauteur de la tête de manche. La tête de manche va être construite dans ce rectangle.
 
 ![The Breanna sleevecap](sleevecap.svg)
 
@@ -19,9 +21,9 @@ L'image ci-dessus montre une tête de manche, commençant au point 1, puis monta
 
 ###### Repérer le devant de la manche
 
-Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on direz vous ? 
+Dans notre exemple, le devant de la manche est à droite. Mais comment le sait-on ? 
 
-Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. C'est en raison de la forme de l'épaule humaine, qui est plus arrondie sur le devant du corps. La tête de manche sera donc elle aussi plus courbée sur le devant, pour s'adapter à l'épaule.
+Alors que les patrons l'indiquent généralement par des repères (une seule encoche pour le devant, une double encoche pour l'arrière), on peut aussi repérer où se trouve le devant d'une tête de manche par sa forme plus courbe. La partie de la tête de manche qui sera placée à l'arrière est de forme plus aplatie. C'est en raison de la forme de l'épaule humaine, qui est plus arrondie sur le devant du corps. La tête de manche sera donc elle aussi plus courbe sur le devant, pour s'adapter à l'épaule.
 
 </Note>
 
@@ -29,18 +31,18 @@ La largeur de la tête de manche (et donc la largeur de la manche à la base de 
 
 ![Contrôle du haut de la tête de manche](sleevecaptop.svg)
 
-La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, la facilité, tête de manche facilement, et le fait que la manche doit finalement être ajustée à l'armure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
+La hauteur de la tête de manche est égale à la distance entre les points 3 et 4. La hauteur exacte est un compromis entre les mesures du modèle, les options, l'aisance, l'aisance de la tête de manche, et le fait que la manche devra finalement s'ajuster à l'emmanchure. Cette hauteur peut donc varier, et on ne peut choisir sa valeur exacte. Mais deux options permettent de contrôler la forme de notre tête de manche :
 
  - [Sleevecap top X](/docs/patterns/breanna/options/sleevecaptopfactorx/) : Controls the horizontal placement of point 3 and 4
  - [Sleevecap top Y](/docs/patterns/breanna/options/sleevecaptopfactory/) : Controls the vertical placement of point 4
 
-En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, peut-être moins intuitif, peut aussi être déplacé plus à droite ou plus à gauche, plutôt que rester en plein au milieu comme dans notre exemple.
+En d'autres termes, le point 4 peut être placé plus haut ou plus bas, et, ce qui est peut-être moins intuitif, peut aussi être déplacé plus à droite ou plus à gauche, plutôt que rester en plein milieu comme dans notre exemple.
 
 ### Les points d'inflexion
 
 ![Contrôle des points d'inflexion](sleevecapinflection.svg)
 
-Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Maintenant, il est temps de placer nos *points d'inflexion*. Ce sont les points 5 et 6 de notre dessin, et leur pposition est déterminé par les 4 options suivantes :
+Avec les points 1, 2, 3 et 4 en place, nous avons un rectangle pour dessiner notre tête de manche. Maintenant, il est temps de placer nos *points d'inflexion*. Ce sont les points 5 et 6 de notre dessin, et leur position est déterminée par les 4 options suivantes :
 
  - [Sleevecap back X](/docs/patterns/breanna/options/sleevecapbackfactorx) : Controls the horizontal placement of point 5
  - [Sleevecap back Y](/docs/patterns/breanna/options/sleevecapbackfactory) : Controls the vertical placement of point 5
@@ -57,9 +59,9 @@ Comme vous le voyez dans notre exemple, ces points ne se trouvent pas toujours s
 
 ![Contrôle des points d'ancrage](sleevecapanchor.svg)
 
-En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront au début et à la fin de ces courbes.
+En fin de compte, notre tête de manche sera la combinaison de 5 courbes. En plus des points 1 et 2, les quatre *points d'ancrage* (en orange dans notre exemple) seront placés au début et à la fin de ces courbes.
 
-Les points sont *décalés * en perpendiculaire à partir du milieu d'une ligne située entre les deux points d'ancrage qui les entourent. Le décalage pour chaque point est contrôlé par ces 4 options :
+Les points sont *décalés * perpendiculairement à partir du milieu d'une ligne située entre les deux points d'ancrage qui les entourent. Le décalage pour chaque point est contrôlé par ces 4 options :
 
  - [Sleevecap Q1 offset](/docs/patterns/breanna/options/sleevecapq1offset) : Controls the offset perpendicular to the line from points 2 to 6
  - [Sleevecap Q2 offset](/docs/patterns/breanna/options/sleevecapq2offset) : Controls the offset perpendicular to the line from points 6 to 4

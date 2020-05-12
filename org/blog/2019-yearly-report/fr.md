@@ -1,48 +1,48 @@
 ---
-date: 2019-12-10
-title: 4109 reasons to be happy about 2019
-linktitle: "2019 yearly report"
+date: 10/12/2019
+title: 4109 raisons d'être contents de 2019
+linktitle: "Rapport annuel 2019"
 img: cover.jpg
-caption: "Close-up of a dandelion against a pink background"
+caption: "Gros plan d'un pissenlit sur fond rose"
 author: joost
 ---
 
-Wow! What a year it's been for FreeSewing. In August we released version 2.0 which was nothing less than a complete rewrite of our entire technology stack. For our users, the most obvious change is that you get to see your pattern adapt live in your browser as you tweak options and preferences. It's one of those things that I knew should be possible with the state of web technology today, yet seeing it actually happen still boggles my mind somehow.
+Whaou ! Quelle année pour FreeSewing. En août, nous avons publié la version 2.0 qui n'était rien de moins qu'une réécriture complète de notre infrastructure technologique. Pour nos utilisateurs, le changement le plus important est la possibilité de visualiser en direct le patron lorsque vous modifiez les options et les préférences. C'est une chose que je savais possible avec la technologie web d'aujourd'hui, mais la voir fonctionner réellement me stupéfie encore toujours un peu.
 
-## Scaling is hard, but we made remarkable progress
+## La mise à l'échelle est difficile, mais nous avons fait des progrès remarquables
 
-Cool as our new technoglogy stack is, it is not the most important work we've done over the last year. Yes, it's pretty neat, and yes it's only possible because of the work done on 2.0. But that work itself is what matters most. The main reason for the 2.0 rewrite was to allow the project to scale horizontally. Or to put it bluntly, to allow FreeSewing to go where I could not carry it on my own.
+Aussi cool que soit notre nouvelle infrastructure, ce n'est pas le travail le plus important que nous ayons fait cette année. Oui, c'est plutôt sympa, et oui c'est possible uniquement grâce au travail effectué en 2.0. But that work itself is what matters most. Mais la raison principale de la réécriture de la version 2.0 était de permettre au projet de s'étendre horizontalement. Autrement dit, pour permettre à FreeSewing d'aller là où je ne pouvais pas le porter seul.
 
-In a way, FreeSewing has grown up as a (software) project. We have several people making regular contributions, [an active chat room](https://gitter.im/freesewing/chat), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+D'une certaine manière, FreeSewing a grandi en tant que projet (logiciel). Plusieurs personnes font des contributions régulières, il existe [un salon de discussion actif](https://gitter.im/freesewing/chat), [un site web dédié pour les développeurs et de la documentation pour les traducteurs](https://freesewing.dev), une pléthore de [packages que nous publions sur NPM](https://www.npmjs.com/search?q=keywords:freesewing), nous avons contribué à corriger et à améliorer les logiciels desquels nous dépendons  en amont,t nous avons maintenant également d'autres personnes et équipes qui dépendent des packages que nous avons sortis.
 
-We (currently) have [23 patterns available](/patterns/), we publish 62 packages on NPM (the Node.js package registry). Since putting out version 2.0, on average 450 people sign up every month, and our total tally currently stands above 15.000.
+Nous avons actuellement [23 patrons disponibles](/patterns/), nous avons publié 62 packages sur NPM (le registre de packages Node.js). Depuis la sortie de la version 2.0, en moyenne 450 personnes s'inscrivent chaque mois, et nous avons eu au total plus de 15.000 visiteurs.
 
 ## La traduction n'a jamais été aussi facile
 
-Depuis la v2, nous sommes également passés à [Crowdin](https://crowdin.com) pour [nos traductions](https://freesewing.dev/guides/translator/). La traduction est sans doute le meilleur moyen de démocratiser l'accès à notre plate-forme, et je voudrais pousser un grand cri pour tous ceux qui ont aidé et continuent à aider dans ces efforts.
+Depuis la v2, nous sommes également passés à [Crowdin](https://crowdin.com) pour [nos traductions](https://freesewing.dev/guides/translator/). La traduction est sans doute le meilleur moyen de démocratiser l'accès à notre site, et je voudrais crier un grand merci à tous ceux qui ont aidé et continuent à aider.
 
-C'est peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Commencez par notre [documentation traducteurs](https://freesewing.dev/guides/translator/), ou faites un tour sur [notre forum dédié aux traductions](https://gitter.im/freesewing/translation).
+C'est d'ailleurs peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Commencez par notre [documentation traducteurs](https://freesewing.dev/guides/translator/), ou faites un tour sur [notre forum dédié aux traductions](https://gitter.im/freesewing/translation).
 
-## What we're planning for next year
+## Ce qui est prévu l'an prochain
 
-Our next year plans roughly fall apart into two categories: improving our platform, and adding more patterns.
+Nos projets pour l'an prochain se divisent à peu près en deux catégories : améliorer notre site et ajouter plus de patrons.
 
-As the project grows, so does the amount of work required to keep everything running smoothly. We still have more performance improvements to do, as well as auxiliary tasks such as writing more tests so we can go ahead and change things with confidence, rather than risk that rolling out a new feature causes bugs down the line.
+Au fur et à mesure que le projet grandit, la quantité de travail nécessaire pour que tout fonctionne bien grandit aussi. Nous devons améliorer encore les performances, et faire plus de tâches auxiliaires comme écrire des tests pour aller de l'avant sereinement, plutôt que de déployer une nouvelle fonctionnalité qui provoque des bugs.
 
-We also know there is a lot of room for improvement of the user experience (UX), as well as design and user interface (UI). We've been doing the best we can, but it's not really our field of expertise, and we're hoping to find more contributors who can help us in this regard.
+Nous savons aussi qu'il y a matière à améliorer l'expérience utilisateur (UX), ainsi que le design et l'interface utilisateur (UI). Nous avons fait le mieux possible, mais ce n'est pas vraiment notre domaine d'expertise, et nous espérons trouver plus de contributeurs qui pourraient nous aider dans ce domaine.
 
-## v2.2 will include a ladies bodice block
+## La v2.2 comprendra un patron de base de corsage femme
 
-But hey, you want more patterns, right? So rest assured that that's high on our todo list. We are going to apply some affirmative action towards the ladies who have so far been under-served. Not only by making existing patterns available to them (as we did recently with Simone, a ladies version of our Simon pattern) but also by developing a dedicated ladies block to develop patterns on.
+Mais bon, vous voulez plus de patrons, non ? Soyez assurés que c'est en haut de notre liste de tâches . Nous allons réaliser faire des choses en faveur des dames qui, jusqu'à présent, ont été un peu oubliées. Non seulement en adaptant pour elles des patrons existants (comme récemment avec Simone, version femme de notre modèle Simon) mais aussi en développant un patron de base femme.
 
-We have earmarked this as a must-have for FreeSewing v2.2, which we hope to be able to release sometime in January.
+Ce sera un incontournable de FreeSewing v2.2, que nous espérons pouvoir diffuser en janvier.
 
-We're also looking at ways to get more designers on board with FreeSewing. One plan on the drawing board is to offer pair-programming sessions to designers where they walk us through their vision, and we implement their design in FreeSewing. We're even thinking of live-streaming these sessions so anybody who is interested can drop by and follow along.
+Nous cherchons également à embarquer plus de designers à bord de FreeSewing. Un projet est d'offrir aux designers des sessions de programmation en binôme, où ils partageraient avec nous leur vision, que nous implémenterions dans FreeSewing. Nous pensons même diffuser ces sessions en direct afin que toute personne intéressée puisse les suivre.
 
-## 'Tis the season for giving
+## C'est le temps des dons
 
-Thanks to our awesome patrons, revenue was up this year too. As you may or may not know, FreeSewing donates 100% of its revenue to Médecins Sans Frontières/Doctors Without Borders. So this morning, I had the great honour to write a 4109.38€ cheque to [MSF](https://www.msf.org/).
+Grâce à nos forrmidables mécènes, les revenus ont encore augmenté cette année. Comme vous le savez peut-être, FreeSewing fait don de 100 % de ses revenus à Medecins Sans Frontières/Doctors Sans Frontières. Donc, ce matin, j'ai eu le grand honneur de faire un chèque de 4109,38€ à [MSF](https://www.msf.org/).
 
-That felt **real good** so thanks to [all our patrons](/patrons) for their continued support. If you'd like to join this awesome group of people, [you can do so here](/patrons/join).
+Cela fait **vraiment du bien** alors merci à tous nos mécènes**</a> pour leur soutien continu. Si vous souhaitez rejoindre ce groupe génial, [vous pouvez le faire ici](/patrons/join).</p>
 
 

@@ -1,13 +1,13 @@
 ---
 date: 2019-03-23
-title: Florent by Enno
+title: Florent par Enno
 img: showcase.jpg
-caption: Enno made this Florent in a gorgeous mustard
+caption: Enno a fait ce Florent dans un magnifique moutarde
 patterns:
   - florent
 author: enno
 ---
 
-Enno's got a vest to go with it too:
+Enno a aussi une veste pour l'accompagner :
 
-![Cap and vest](2.jpg)
+![Casquette et veste](2.jpg)

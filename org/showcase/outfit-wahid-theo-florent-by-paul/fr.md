@@ -1,8 +1,8 @@
 ---
 date: 2018-01-02
-title: Outfit - Florent, Theodore & Wahid by Paul
+title: Ensemble - Florent, Theodore & Wahid par Paul
 img: showcase.jpg
-caption: "Outfit - Florent, Theodore & Wahid by Paul"
+caption: "Ensemble - Florent, Theodore & Wahid par Paul"
 patterns:
   - florent
   - theo
@@ -10,6 +10,6 @@ patterns:
 author: Tiger751023
 ---
 
-![Outfit by Paul](/img/showcase/outfit-wahid-theodore-florent-by-paul/high_back.jpg)
+![Tenue par Paul](/img/showcase/outfit-wahid-theodore-florent-by-paul/high_back.jpg)
 
-![Outfit by Paul](/img/showcase/outfit-wahid-theodore-florent-by-paul/high_front.jpg)
+![Tenue par Paul](/img/showcase/outfit-wahid-theodore-florent-by-paul/high_front.jpg)

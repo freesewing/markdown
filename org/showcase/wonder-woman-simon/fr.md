@@ -1,23 +1,23 @@
 ---
 date: 2018-02-05
-title: A Wonder Women simon by JV
+title: Une chemise Simon Wonder Woman par JV
 img: showcase.jpg
-caption: There's some really quality posing in this set.
+caption: Il y a une vraie qualité en posant dans cet ensemble.
 patterns:
   - simon
 author: 'MyxterHyde'
 ---
 
-![Another view](view2.jpg) ![Another view](view3.jpg) ![Another view](view4.jpg) ![Another view](view5.jpg)
+![Une autre vue](view2.jpg) ![Une autre vue](view3.jpg) ![Une autre vue](view4.jpg) ![Une autre vue](view5.jpg)
 
 <Note>
 
-###### See the originals on the Instragram feed of funloveadventure
+###### Voir les originaux sur le feed Instragram de funloveadventure
 
-These images are from 
-[the Instagram feed](https://www.instagram.com/myxterhyde/)
-of [@MyxterHyde](/users/MyxterHyde).
-They are published here with permission.
+Ces images proviennent du 
+[feed Instagram](https://www.instagram.com/myxterhyde/)
+de [@MyxterHyde](/users/MyxterHyde).
+Elles sont repostées ici avec autorisation.
 
 </Note>
 

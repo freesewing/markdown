@@ -1,22 +1,22 @@
 ---
 date: 2017-11-19
-title: A Bulbasaur Huey Hoodie Hack
+title: Un Hack du sweat zippé à capuche Huey en Bulbizarre
 img: showcase.jpg
-caption: Bulbasaurs are strong AND cute
+caption: Les Bulbizarres sont forts ET mignons
 patterns:
   - huey
 author: user29
 ---
 
-![Bulbasaurs are strong AND cute](1.jpg) ![Bulbasaurs are strong AND cute](2.jpg) ![Bulbasaurs are strong AND cute](3.jpg) ![Bulbasaurs are strong AND cute](4.jpg) ![Bulbasaurs are strong AND cute](5.jpg) ![Bulbasaurs are strong AND cute](6.jpg)
+![Les Bulbizarres sont forts ET mignons](1.jpg) ![Les Bulbizarres sont forts ET mignons](2.jpg) ![Les Bulbizarres sont forts ET mignons](3.jpg) ![Les Bulbizarres sont forts ET mignons](4.jpg) ![Les Bulbizarres sont forts ET mignons](5.jpg) ![Les Bulbizarres sont forts ET mignons](6.jpg)
 
 <Note>
 
-###### See the original on Frankie's blog
-These picture are from the [Bulbasaur Costume for Children In Need](http://knitwits-owls.blogspot.be/2017/11/bulbasaur-costume-for-children-in-need.html) 
-blog post on [knitwits-owls.blogspot.com](http://knitwits-owls.blogspot.be).
+###### Voir l'original sur le blog de Frankie
+Ces photos proviennent de [Costume Bulbizarre pour enfants dans le besoin](http://knitwits-owls.blogspot.be/2017/11/bulbasaur-costume-for-children-in-need.html) 
+l'article de blog sur [knitwits-owls.blogspot.com](http://knitwits-owls.blogspot.be).
 
-They are reposted here with permission.
+Elles sont repostées ici avec autorisation.
 
 </Note>
 

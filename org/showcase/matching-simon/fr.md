@@ -1,31 +1,31 @@
 ---
 date: 2018-02-05
-title: Matching simon shirts for these two cuties
+title: Chemises Simon assorties pour ces deux beaux-gosses
 img: showcase.jpg
-caption: "Is it me, or does this seriously overload one's cute sensors?"
+caption: "Est-ce moi, ou est-ce que ça fait sérieusement grimper les capteurs de mignonitude ?"
 patterns:
   - simon
 author: ecmtts
 ---
 
-![Model + tapemeasure](view2.jpg)
+![Modèle + mètre-ruban](view2.jpg)
 
-![That fabric is gorgeous](view3.jpg)
+![Ce tissu est magnifique](view3.jpg)
 
 ![Pente d'épaule](view4.jpg)
 
-![View from the back](view5.jpg)
+![Vue du dos](view5.jpg)
 
-![Hi camera](view6.jpg)
+![Salut la caméra](view6.jpg)
 
 <Note>
 
-###### See the originals on the Instragram feed of ecmtts
+###### Voir les originaux sur le feed Instragram d'ecmtts
 
-These images are from 
-[the Instagram feed](https://www.instagram.com/ecmtts/)
-of [@ericamattos](/users/ericamattos).
-They are published here with permission.
+Ces images proviennent du 
+[feed Instagram](https://www.instagram.com/ecmtts/)
+de [@ericamattos](/users/ericamattos).
+Elles sont repostées ici avec autorisation.
 
 </Note>
 

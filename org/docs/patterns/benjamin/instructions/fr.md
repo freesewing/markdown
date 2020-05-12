@@ -1,8 +1,8 @@
-## Notes and tips
+## Notes et conseils
 
-### Precision
+### Précision
 
-Since a bow tie is a rather small item, precission with sewing is key to a good result. Any slight difference between the upper and lower part of the bow will stand out. To get a great result I found it very helpful to trace the actual seam lines onto the interfacing and follow that while sewing.
+Comme un nœud papillon est un objet assez petit, la précision de la couture est la clé d'un bon résultat. Toute légère différence entre la partie supérieure et la partie inférieure du nœud se verra. Pour obtenir un excellent résultat, j'ai trouvé très utile de tracer les vrais lignes de couture sur l'entoilage et de les suivre pour la couture.
 
 ### Press wisely
 
@@ -38,7 +38,7 @@ Since the bow tie is constructed with the right sides of the fabric against each
 
 Apply interfacing to all parts where you feel it's needed.
 
-### Without adjustment ribbon
+### Sans ruban d'ajustement
 
 #### Step 2: Sew the knot to the collar band
 
@@ -76,7 +76,7 @@ Now all that is left is closing the litle hole we used to turn the bow tie right
 
 Now give it one last press and admire your work.
 
-### With adjustment ribbon
+### Avec ruban d'ajustement
 
 #### Step 2: Attaching the ribbon
 

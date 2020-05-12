@@ -1,7 +1,7 @@
-![The bulge option on Bruce](./bulge.svg)
+![L'option galbe pour Bruce](./bulge.svg)
 
-How much room do you want in the front pouch?
+Combien d'aisance voulez-vous pour la poche frontale ?
 
-This option will increase the front dart, thereby creating more room in the front.
+Cette option augmentera la pince avant, créant ainsi plus de place à l'avant.
 
-> If it's vertical room you're looking for, that's what the **rise** option does
+> Si c'est de l'aisance verticale que vous voulez, voir l'option **hauteur**

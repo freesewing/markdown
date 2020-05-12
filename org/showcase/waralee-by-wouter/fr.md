@@ -1,15 +1,15 @@
 ---
 date: 2019-08-27
-title: Waralee by Wouter
+title: Waralee par Wouter
 img: showcase.jpg
-caption: Wouter in his Waralee wrap pants
+caption: Wouter dans son pantalon Waralee
 patterns:
   - waralee
 author: wouter.vdub
 ---
 
-This is the first version Wouter made after completing the Waralee pattern.
+Il s'agit de la première version de Wouter faite après avoir complété le patron Waralee.
 
-Nice for staying cool when it's warm:
+Idéal pour rester frais quand il est chaud :
 
-![Yard work](waralee2.jpg)
+![Jardinage](waralee2.jpg)

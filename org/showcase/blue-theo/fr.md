@@ -1,8 +1,8 @@
 ---
 date: 2015-04-13
-title: Blue cotton Theo trousers by joostdecock
+title: Pantalon en coton bleu Theo par joostdecock
 img: showcase.jpg
-caption: Gosh we were so young back then
+caption: Mon dieu nous étions si jeunes à l'époque
 patterns:
   - theo
 author: joost

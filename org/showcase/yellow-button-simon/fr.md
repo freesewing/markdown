@@ -1,11 +1,11 @@
 ---
 date: 2016-12-06
-title: Just look how happy JV is with his Simon shirt
+title: Regardez à quel point JV est heureux avec sa chemise Simon
 img: showcase.jpg
-caption: "That's one dapper gentleman"
+caption: "Voilà un élégant monsieur"
 patterns:
   - simon
 author: 'JV Hampton-VanSant'
 ---
 
-This picture is from [the Instagram feed](https://www.instagram.com/p/BNsGBSVho4u/)  of [JV Hampton-VanSant](http://jvhvs.com/).
+Cette image provient du [feed Instagram](https://www.instagram.com/p/BNsGBSVho4u/)  de [JV Hampton-VanSant](http://jvhvs.com/).

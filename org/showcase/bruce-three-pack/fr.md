@@ -1,19 +1,19 @@
 ---
 date: 2018-10-18
-title: A Bruce three-pack
+title: Un lot de trois Bruce
 img: showcase.jpg
-caption: "Theo made three of these from leftover jersey."
+caption: "Theo en a fait trois à partir du chutes de jersey."
 patterns:
   - bruce
 author: Ferdi
 ---
 
-Felix made three of these, and he writes:
+Félix en a fait trois, et il écrit :
 
-> I just finished a three-pack* of Bruce underpants. I used some jersey leftovers and tried some elastic stitches on my sewing machine, not all seams were perfect - but now I know which settings are the best. 
+> Je viens de terminer un lot de trois boxers Bruce. J'ai utilisé des restes de jersey et j'ai essayé quelques points élastiques sur ma machine à coudre, toutes les coutures n'étaient pas parfaites - mais maintenant je sais quels paramètres sont les meilleurs. 
 > 
-> They fit excellent!
+> Ils sont parfaits !
 
-Here's a picture of the back:
+Voici une photo du dos :
 
-![Back image](back.jpg)
+![Photo du dos](back.jpg)

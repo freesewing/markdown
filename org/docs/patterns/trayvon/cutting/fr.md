@@ -1,11 +1,11 @@
- - **Main fabric**
+ - **Tissu principal**
    - Cut **1 tip**
    - Cut **1 tail**
  - **Lining fabric**
    - Cut **1 lining tip**
    - Cut **1 lining tail**
    - Cut **1 loop**
- - **Interfacing**
+ - **Entoilage**
    - Cut **1 interfacing tip**
    - Cut **1 interfacing tail**
 
