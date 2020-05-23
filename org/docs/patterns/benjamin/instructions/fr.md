@@ -6,9 +6,9 @@ Comme un nœud papillon est un objet assez petit, la précision de la couture es
 
 ### Pressez judicieusement
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Plus loin dans les étapes de construction, on vous demandera de presser votre tissu. Faites attention à que vous n'utilisez pas trop de chaleur sur un tissu délicat qui pourrait ne pas le supporter.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+C'est une bonne idée de faire des essais sur quelques morceaux de tissu avant de commencer. Cela vous permettra de déterminer le bon réglage de chaleur pour le tissu que vous utilisez.
 
 ### Choosing your grain
 
