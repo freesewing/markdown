@@ -4,7 +4,7 @@
 
 Comme un nœud papillon est un objet assez petit, la précision de la couture est la clé d'un bon résultat. Toute légère différence entre la partie supérieure et la partie inférieure du nœud se verra. Pour obtenir un excellent résultat, j'ai trouvé très utile de tracer les vrais lignes de couture sur l'entoilage et de les suivre pour la couture.
 
-### Press wisely
+### Pressez judicieusement
 
 Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
 
