@@ -1,8 +1,8 @@
-Four different bow tie styles!
+Quatre styles de nœud papillon différents !
 
-The benjamin allows you to make four different bow ties.
+Le benjamin vous permet de faire quatre nœud papillon différents.
 
  - Contemporary Diamond
- - Traditional Butterfly
- - Classic Square
+ - Papillon classique
+ - En trapèze
  - Whimsical Wide Square
