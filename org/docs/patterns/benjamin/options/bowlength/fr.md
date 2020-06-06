@@ -1,4 +1,4 @@
-![Bow length](bowlength.svg)
+![Longueur de nœud](bowlength.svg)
 
-Vous pouvez faire des nœud papillon larges ou étroits. This option allows you to change the horizontal size of the bows. Make them larger to be more flamboyant, or small for a more subdued style.
+Vous pouvez faire des nœud papillon larges ou étroits. Cette option vous permet de changer la taille horizontale des extrémités du nœud. Faites-les plus grand pour être plus flamboyant, ou petit pour un style plus discret.
 
