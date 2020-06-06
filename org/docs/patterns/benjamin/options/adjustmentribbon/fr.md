@@ -1,10 +1,10 @@
-![Traditional or adjustable](adjustmentribbon.svg)
+![Traditionnel ou ajustable](adjustmentribbon.svg)
 
-With the Benjamin, you can make a traditional fixed size bow tie. And you can make one that incorporates an adjustment ribbon. These are ribbons and pieces of hardware that allow you to change the neck size of the bow tie. Very handy when you have shirts with different neck sizes, or if you have different ease in the collar for some.
+Avec Benjamin, vous pouvez faire un nœud papillon traditionnel à taille fixe. Et vous pouvez en faire un qui incorpore un ruban d'ajustement. Ce sont des rubans et des pièces de mercerie qui vous permettent de changer la taille du cou du nœud papillon. Très pratique lorsque vous avez des chemises avec des tailles de cou différentes, ou si vous avez une aisance différente dans le col pour certaines.
 
 <Tip>
 
-This is a great option if you decide to make a bow tie for someone else as a gift.
+C'est une excellente option si vous décidez de faire un nœud papillon pour quelqu'un d'autre en cadeau.
 
 </Tip>
 
