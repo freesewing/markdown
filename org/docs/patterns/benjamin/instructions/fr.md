@@ -108,9 +108,9 @@ Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et 
 
 Répétez l'opération avec les deux parties.
 
-#### Étape 5 : Ajouter les boucles
+#### Étape 5 : Ajouter les accessoires d'ajustement
 
-Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
+Maintenant, nous devons ajouter les deux pièces d'ajustement qui rendent la fixation réglable. La pièce ovale sera attachée à la pièce sans ruban d'ajustement. Et la pièce avec l'accessoire en forme de T ira sur la partie avec le ruban.
 
 First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
 
