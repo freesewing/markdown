@@ -68,7 +68,7 @@ Utilisez ensuite le dos d'un crochet de grande taille, ou un autre objet fin et 
 
 Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et côtés avant de lui donner un bon coup de fer.
 
-#### Step 5: Closing
+#### Étape 5 : Fermeture
 
 ![Closing the bow tie](step15.png)
 
