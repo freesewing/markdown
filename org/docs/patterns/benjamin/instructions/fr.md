@@ -92,9 +92,9 @@ Coudre alors jusqu'au bout pour assembler les pièces.
 
 ![Sew both sides together](step23.png)
 
-Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Disposez les deux parties du nœud sur les uns sur les autres, endroit contre endroit. Étalez ensuite le côté long du nœud au haut du ruban et de la partie courte, également endroit contre endroit.
 
-Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
+Coudre tout le long mais laisser un des bouts courts ouvert. Grâce à cette ouverture, nous allons retourner l'ouvrage.
 
 #### Étape 4 : Retourner
 
@@ -102,13 +102,13 @@ Sew all along, but leave the short ends open. Through these openings we will tur
 
 Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
+Utilisez ensuite le dos d'un crochet de grande taille, ou un autre objet fin et long, afin de retourner les deux côtés à travers la petite ouverture. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
 
-Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
+Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et côtés avant de lui donner un bon coup de fer.
 
-Do this with both parts.
+Répétez l'opération avec les deux parties.
 
-#### Step 5: Add hardware
+#### Étape 5 : Ajouter les boucles
 
 Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
 
