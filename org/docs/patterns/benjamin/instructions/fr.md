@@ -50,19 +50,19 @@ Faites cela pour chaque extrémité sur les deux bandes de col.
 
 Pressez pur ouvrir toutes les coutures.
 
-You now have two identical single sided bow ties.
+Vous avez maintenant deux bandes identiques du nœud papillon.
 
-#### Step 3: Join both sides
+#### Étape 3 : Assemblez les deux côtés
 
 ![Sew both sides together](step13.png)
 
-Lay both the sides you made on top of each other, right sides together. Sew all along, but leaving an area of 5cm open in the middle of the collar band. Through this opening we will turn the bow tie right side out.
+Disposez les deux côtés que vous avez faits l'un sur l'autre, endroit contre endroit. Cousez tout du long mais laissez une ouverture de 5 cm au milieu de la bande de col. Grâce à cette ouverture, nous allons retourner l'ouvrage.
 
-#### Step 4: Turning
+#### Étape 4 : Retourner
 
 ![Clip seam allowance](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
 Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
 
@@ -88,7 +88,7 @@ Put right sides of the short bow piece and the ribbon together.
 
 Coudre alors jusqu'au bout pour assembler les pièces.
 
-#### Step 3: Join both sides
+#### Étape 3 : Assemblez les deux côtés
 
 ![Sew both sides together](step23.png)
 
@@ -96,11 +96,11 @@ Lay both the parts of the medium bow on top of each other, right sides together.
 
 Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
 
-#### Step 4: Turning
+#### Étape 4 : Retourner
 
 ![Clip seam allowance](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
 Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
 
