@@ -23,32 +23,32 @@ sur [le droit fil de tissu](/docs/sewing/fabric-grain).
 
 ### Ruban d'ajustement de nœud papillon
 
-Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. Il permet également d'en faire un qui possède un ruban et les boucles qui rendent le nœud papillon réglable pour différentes tailles de cou. Ceci est utile si toutes vos chemises n'ont pas les mêmes mesures de cou, ou si vous aimez parfois la chemise avec plus d'aisance au cou.
 
-These ribbons can be found in the better haberdasheries or can be ordered online.
+Ces rubans peuvent être trouvés dans les meilleures merceries ou peuvent être commandés en ligne.
 
 ### Marge de couture
 
-Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Puisque le nœud papillon est construit endroit contre endroit, tout l'ouvrage devra être retourné. Vous voulez probablement envisager d'utiliser une petite marge de couture de 6 mm (¼ pouces) pour réduire le volume.
 
 
-## Construction
+## Montage
 
-### Step 1: Apply interfacing
+### Étape 1 : Thermocoller l'entoilage
 
-Apply interfacing to all parts where you feel it's needed.
+Appliquez l'entoilage à toutes les pièces où vous le jugez nécessaire.
 
 ### Sans ruban d'ajustement
 
-#### Step 2: Sew the knot to the collar band
+#### Étape 2 : Coudre le nœud à la bande de col
 
-Put the collar band part on the bow tie knot part, right sides together. Allign the ends of both parts. Now sew across the end to join the parts.
+Mettre la partie de la bande de col sur la partie du nœud, endroit contre endroit. Align the ends of both parts. Coudre alors jusqu'au bout pour assembler les pièces.
 
 ![Sew the collar band to the knot](step12.png)
 
-Do this for each end on both collar bands.
+Faites cela pour chaque extrémité sur les deux bandes de col.
 
-Press open all the seams.
+Pressez pur ouvrir toutes les coutures.
 
 You now have two identical single sided bow ties.
 
@@ -86,7 +86,7 @@ The first thing to do is to sew the adjustment ribbon to the shortest of the bow
 
 Put right sides of the short bow piece and the ribbon together.
 
-Now sew across the end to join the parts.
+Coudre alors jusqu'au bout pour assembler les pièces.
 
 #### Step 3: Join both sides
 
