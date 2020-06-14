@@ -44,7 +44,7 @@ Appliquez l'entoilage à toutes les pièces où vous le jugez nécessaire.
 
 Mettre la partie de la bande de col sur la partie du nœud, endroit contre endroit. Align the ends of both parts. Coudre alors jusqu'au bout pour assembler les pièces.
 
-![Sew the collar band to the knot](step12.png)
+![Coudre la bande de col au nœud](step12.png)
 
 Faites cela pour chaque extrémité sur les deux bandes de col.
 
@@ -54,13 +54,13 @@ Vous avez maintenant deux bandes identiques du nœud papillon.
 
 #### Étape 3 : Assemblez les deux côtés
 
-![Sew both sides together](step13.png)
+![Coudre endroit contre endroit](step13.png)
 
 Disposez les deux côtés que vous avez faits l'un sur l'autre, endroit contre endroit. Cousez tout du long mais laissez une ouverture de 5 cm au milieu de la bande de col. Grâce à cette ouverture, nous allons retourner l'ouvrage.
 
 #### Étape 4 : Retourner
 
-![Clip seam allowance](step14.png)
+![Dégarnir la marge de couture](step14.png)
 
 Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
@@ -70,7 +70,7 @@ Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et 
 
 #### Étape 5 : Fermeture
 
-![Closing the bow tie](step15.png)
+![Fermeture du nœud papillon](step15.png)
 
 Maintenant tout ce qui reste à faire c'est de fermer le trou que nous avons utilisé pour retourner le nœud papillon. Vous pouvez le faire à la main avec un point de couture invisible. Ou vous pouvez utiliser la machine et coudre au point droit au bord de la bande (couture nervure). Puisque ce sera normalement caché par le col de votre chemise, ce ne sera pas très visible.
 
@@ -80,7 +80,7 @@ Maintenant donnez-lui un dernier coup de fer et admirez votre travail.
 
 #### Étape 2 : Attacher le ruban
 
-![Sew the ribbon to part 1](step22.png)
+![Coudre le ruban à la partie 1](step22.png)
 
 La première chose à faire est de coudre le ruban de réglage au parties les plus courtes du nœud. Le ruban doit avoir une longueur de 290mm. Si c'est différent, vous devez vous assurer de l'aligner de telle sorte que le ruban et la pièce courte du nœud ensemble sont aussi longs que la pièce longue du nœud.
 
@@ -90,7 +90,7 @@ Coudre alors jusqu'au bout pour assembler les pièces.
 
 #### Étape 3 : Assemblez les deux côtés
 
-![Sew both sides together](step23.png)
+![Coudre endroit contre endroit](step23.png)
 
 Disposez les deux parties du nœud sur les uns sur les autres, endroit contre endroit. Étalez ensuite le côté long du nœud au haut du ruban et de la partie courte, également endroit contre endroit.
 
@@ -98,7 +98,7 @@ Coudre tout le long mais laisser un des bouts courts ouvert. Grâce à cette ouv
 
 #### Étape 4 : Retourner
 
-![Clip seam allowance](step14.png)
+![Dégarnir la marge de couture](step14.png)
 
 Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
@@ -112,16 +112,16 @@ Répétez l'opération avec les deux parties.
 
 Maintenant, nous devons ajouter les deux pièces d'ajustement qui rendent la fixation réglable. La pièce ovale sera attachée à la pièce sans ruban d'ajustement. Et la pièce avec l'accessoire en forme de T ira sur la partie avec le ruban.
 
-First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+D'abord faites la partie sans le ruban. Ceci en raison du fait que le bout de tissu du ruban devra passer par la pièce ovale avant de coudre sur son accessoire. Si vous le faisiez dans l'ordre inverse, vous ne pourriez peut-être pas le passer.
 
-To finish the ends, we're going to fold the fabric in three steps:
+Pour terminer les extrémités, nous allons plier le tissu en trois étapes :
 
-![Three steps to fold, one step to sew](step25.png)
+![Trois étapes pour plier, une étape pour coudre](step25.png)
 
-First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Tout d'abord, on plie le côté sous un angle. Puis nous plions la fin par juste une petite marge de couture, quelque chose comme 5mm. Puis nous le plions à nouveau, pour environ 1cm. Enfin on place l'anneau ovale sous ce dernier pli et on coud.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Maintenant, placez le ruban à travers la partie ovale et nous la finissons de la même manière.
 
-Hook the T in one of the adjustment holes and your bow tie is done!
+Accrochez le T dans une des boucles d'ajustement et votre nœud papillon est terminé !
 
-![Good job!](finished.gif)
+![Beau travail !](finished.gif)
