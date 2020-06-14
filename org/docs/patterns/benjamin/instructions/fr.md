@@ -12,18 +12,18 @@ C'est une bonne idée de faire des essais sur quelques morceaux de tissu avant d
 
 ### Déterminez le sens du tissu
 
-Ce patron comprend un sens de droit fil. Ce droit fil est principalement là pour être utilisé avec l'entoilage. Puisque chaque pièce de patron est entoilée, le droit fil du tissu lui-même n'est pas si important. You can even change this from the standard for more informal impressions.
+Ce patron comprend un sens de droit fil. Ce droit fil est principalement là pour être utilisé avec l'entoilage. Puisque chaque pièce de patron est entoilée, le droit fil du tissu lui-même n'est pas si important. Vous pouvez même changer cela du standard pour un effet plus original.
 
 <Note>
 
-If this all sounds very confusing, might I suggest reading the help 
-page on [Fabric grain](/docs/sewing/fabric-grain).
+Si tout cela semble très confus, puis-je suggérer de lire la page d'aide 
+sur [le droit fil de tissu](/docs/sewing/fabric-grain).
 
 </Note>
 
-### Bow tie adjustment ribbon
+### Ruban d'ajustement de nœud papillon
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
 
 These ribbons can be found in the better haberdasheries or can be ordered online.
 
