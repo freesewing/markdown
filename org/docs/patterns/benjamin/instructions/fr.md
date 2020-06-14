@@ -42,7 +42,7 @@ Appliquez l'entoilage à toutes les pièces où vous le jugez nécessaire.
 
 #### Étape 2 : Coudre le nœud à la bande de col
 
-Mettre la partie de la bande de col sur la partie du nœud, endroit contre endroit. Align the ends of both parts. Coudre alors jusqu'au bout pour assembler les pièces.
+Mettre la partie de la bande de col sur la partie du nœud, endroit contre endroit. Alignez les extrémités des deux parties. Coudre alors jusqu'au bout pour assembler les pièces.
 
 ![Coudre la bande de col au nœud](step12.png)
 
