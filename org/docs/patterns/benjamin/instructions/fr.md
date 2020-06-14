@@ -10,9 +10,9 @@ Plus loin dans les étapes de construction, on vous demandera de presser votre t
 
 C'est une bonne idée de faire des essais sur quelques morceaux de tissu avant de commencer. Cela vous permettra de déterminer le bon réglage de chaleur pour le tissu que vous utilisez.
 
-### Choosing your grain
+### Déterminez le sens du tissu
 
-This pattern includes a grain line. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Ce patron comprend un sens de droit fil. Ce droit fil est principalement là pour être utilisé avec l'entoilage. Puisque chaque pièce de patron est entoilée, le droit fil du tissu lui-même n'est pas si important. You can even change this from the standard for more informal impressions.
 
 <Note>
 
