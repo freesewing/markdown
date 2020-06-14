@@ -57,7 +57,7 @@ Apply interfacing to all parts where you feel it's needed.
 #### Step 2: Sew the knot to the collar band
 
 Put the collar band part on the bow tie knot part, right sides together. 
-Allign the ends of both parts. Now sew across the end to join the parts.
+Align the ends of both parts. Now sew across the end to join the parts.
 
 ![Sew the collar band to the knot](step12.png)
 
