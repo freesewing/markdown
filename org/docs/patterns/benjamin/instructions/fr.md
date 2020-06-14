@@ -82,9 +82,9 @@ Maintenant donnez-lui un dernier coup de fer et admirez votre travail.
 
 ![Sew the ribbon to part 1](step22.png)
 
-La première chose à faire est de coudre le ruban de réglage au parties les plus courtes du nœud. Le ruban doit avoir une longueur de 290mm. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+La première chose à faire est de coudre le ruban de réglage au parties les plus courtes du nœud. Le ruban doit avoir une longueur de 290mm. Si c'est différent, vous devez vous assurer de l'aligner de telle sorte que le ruban et la pièce courte du nœud ensemble sont aussi longs que la pièce longue du nœud.
 
-Put right sides of the short bow piece and the ribbon together.
+Mettre la pièce courte face au ruban, endroit contre endroit.
 
 Coudre alors jusqu'au bout pour assembler les pièces.
 
