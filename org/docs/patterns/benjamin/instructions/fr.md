@@ -72,17 +72,17 @@ Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et 
 
 ![Closing the bow tie](step15.png)
 
-Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Maintenant tout ce qui reste à faire c'est de fermer le trou que nous avons utilisé pour retourner le nœud papillon. Vous pouvez le faire à la main avec un point de couture invisible. Ou vous pouvez utiliser la machine et coudre au point droit au bord de la bande (couture nervure). Puisque ce sera normalement caché par le col de votre chemise, ce ne sera pas très visible.
 
-Now give it one last press and admire your work.
+Maintenant donnez-lui un dernier coup de fer et admirez votre travail.
 
 ### Avec ruban d'ajustement
 
-#### Step 2: Attaching the ribbon
+#### Étape 2 : Attacher le ruban
 
 ![Sew the ribbon to part 1](step22.png)
 
-The first thing to do is to sew the adjustment ribbon to the shortest of the bow parts. The ribbon should be 290mm long. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+La première chose à faire est de coudre le ruban de réglage au parties les plus courtes du nœud. Le ruban doit avoir une longueur de 290mm. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
 
 Put right sides of the short bow piece and the ribbon together.
 
