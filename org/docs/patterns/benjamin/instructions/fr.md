@@ -64,9 +64,9 @@ Disposez les deux côtés que vous avez faits l'un sur l'autre, endroit contre e
 
 Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Utilisez ensuite le dos d'un crochet de grande taille, ou un autre objet fin et long, afin de retourner les deux côtés à travers la petite ouverture. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
 
-Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
+Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et côtés avant de lui donner un bon coup de fer.
 
 #### Step 5: Closing
 
@@ -102,7 +102,7 @@ Sew all along, but leave the short ends open. Through these openings we will tur
 
 Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
 
 Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
 
