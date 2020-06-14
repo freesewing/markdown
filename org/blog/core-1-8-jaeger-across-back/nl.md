@@ -1,61 +1,61 @@
 ---
 date: 2018-03-21
-title: "Freesewing core 1.8: Jaeger Jacket is in, across back measurement is out"
-linktitle: "Core 1.8: Jaeger and no more across back"
+title: "FreeSewing core 1.8: het Jaeger-jasje komt erbij en de 'across back'-afmeting verdwijnt"
+linktitle: "Core 1.8: Jaeger en het einde van 'across back'"
 img: bangkok.jpg
-caption: "This release brought to you from Bangkok"
+caption: "Deze update bereikt je vanuit Bangkok"
 author: joost
 ---
 
-We've just pushed the *release* button on core 1.8.0. That bump in minor number is typically because we have a new pattern, but in this case, there's two reasons:
+We hebben net onze core 1.8.0 gelanceerd. Zo'n nieuw getal na de komma doen we meestal wanneer we een nieuw patroon toevoegen, maar in dit geval zijn er twee redenen:
 
- - The [Jaeger Jacket](/patterns/jaeger) is now available
- - We've gotten rid of the *across back* measurement
+ - Het [Jaeger-jasje](/patterns/jaeger) is nu beschikbaar
+ - We hebben de afmeting *across back* verwijderd
 
-Read on for the details.
+Lees verder voor meer details.
 
-## Announcing the Jaeger Jacket
+## Het nieuwe Jaeger-jasje
 
-For [my refasioners entry last year](/blog/the-refashioners-2017/) I designed a jacket pattern that I intially wanted to release alongside my make. It didn't work out that way, and I asked for a bit more time to get the pattern out the door.
+Voor mijn deelname aan [The Refashioners](/blog/the-refashioners-2017/) vorig jaar heb ik een patroon voor een jasje ontworpen dat ik oorspronkelijk wilde lanceren samen met mijn eerste uitvoering ervan. Het is een beetje anders gegaan en ik heb wat meer tijd gevraagd om het patroon op punt te stellen.
 
-Turns out that when I say *a bit more time* it means 6 and a half months, so please forgive me for the delay, but here it is, [the Jaeger Jacket](/patterns/jaeger).
+*Wat meer tijd* bleek uiteindelijk iets meer dan zes maanden te zijn. Dus vergeef me voor de vertraging, maar hier is hij: het [Jaeger-jasje](/patterns/jaeger).
 
-![Note that in my post back then, I was talking about the Blake Blazer, but I've since renamed it because Jaeger Jacket is just cooler](jaeger.jpg)
+![In mijn oorspronkelijke post had ik het over de Blake-blazer, maar ik heb het patroon een nieuwe naam gegeven omdat Jaeger-jasje gewoon cooler is](jaeger.jpg)
 
-### Jaeger Sport Coat is not an alliteration
+### 'Jaeger-sportjasje' is geen alliteratie
 
-Jaeger is a sport coat style of jacket. As in, a single-breasted jacket with a 2-button closure, and patch pockets.
+Jaeger is een jasje met een sportieve stijl. Een jasje met een enkele knopenrij van twee knopen en opgenaaide zakken.
 
-In other words, this is a garment that's typically worn on jeans or other trousers, and not as part of a suit.
+Het is met andere woorden een jasje dat je eerder zou dragen met een jeans of broek, en niet als deel van een kostuum.
 
-### Options galore
+### Opties overal
 
-Jaeger comes with 38 options, so you can change *a lot* about this pattern.
+Jaeger telt zomaar even 38 opties, dus je kan *véél* aanpassen aan dit patroon.
 
-No need to worry though, it also comes with sensible defaults, so you can just as well ignore all those choices.
+Maar maak je geen zorgen; de standaarduitvoering is heel goed doordacht, dus je kan al die opties ook gewoon naast je neerleggen.
 
-## The across back measurement is no more
+## Weg met de 'across back'-afmeting
 
-Speaking of sensible defaults, Jaeger is not the only new thing in freesewing core 1.8.0, which is out today.
+Van goed doordacht gesproken, Jaeger is niet de enige nieuwigheid in de FreeSewing core 1.8.0 die we vandaag lanceren.
 
-We've also gotten rid of the *across back* measurement.
+We hebben ook de 'across back'-afmeting afgeschaft.
 
-The across back measurement was cause of a great deal of confusion among our users. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+De 'across back'-afmeting leverde bij veel gebruikers verwarring op. We merkten vaak dat wanneer gebruikers ons lieten weten dat hun patroon er raar uitzag, de 'across back'-afmeting de boosdoener was.
 
-The roots of the across back measurement go back to a time when, instead of the *shoulder to shoulder* measurement we use now, we had the *shoulder length* measurement. That one was also source of some confusion, so we phased it out in favour of the *shoulder to shoulder* measurement.
+Oorspronkelijk gebruikten we de 'across back'-afmeting samen met de schouderlengte die we gebruikten in plaats van de lengte van schouder tot schouder die we nu gebruiken. Die schouderlengte veroorzaakte ook verwarring, dus hebben we die vervangen door de lengte van schouder tot schouder.
 
-The thing is that if we know the *shoulder to shoulder* measurement, we can guestimate with reasonable accuracy what the *across back* measurement will be. So, instead of asking you for it, we simply assume now.
+Maar als we dan toch weten wat de lengte van schouder tot schouder is, dan kunnen we met vrij grote zekerheid gokken wat de rugbreedte is. Dus in plaats van jou te vragen om de 'across back' of rugbreedte te meten, berekenen we die nu gewoon vanzelf.
 
-### But you're dumbing down the pattern
+### Maar je maakt het patroon dommer
 
-In case the *this pattern comes with 38 options* bit above wasn't enough of a giveaway, we're pretty committed here at freesewing to give you all the knobs to tweak your drafts.
+Als je het nog niet doorhad op basis van de 38 opties bij het Jaeger-jasje, zeggen we het nog eens: we vinden het hier bij FreeSewing belangrijk dat je zelf aan alle knopjes kan draaien om je patroonschetsen bij te sturen.
 
-Replacing a measurement with a value calculated based on another measurement may seem to go against that, but there's no need to worry. We've made sure you can still muck about with your across back.
+Een afmeting vervangen door een waarde die berekend wordt op basis van een andere afmeting, lijkt daarmee tegenstrijdig. Maar je hoeft je geen zogen te maken. We hebben ervoor gezorgd dat je wel nog kan spelen met de rugbreedte.
 
-Patterns that used to require the *across back* measurement now have a new advanced option: the *across back factor*. It allows you to tweak how we calculate your across back measurement, but does make sure to keep it within boundaries that are sensible.
+Patronen waarvoor je vroeger een 'across back'-afmeting nodig had, hebben nu een geavanceerde optie: de *rugbreedtefactor*. Dat laat je toe om aan te passen hoe de rugbreedte berekend wordt, maar dan wel binnen realistische proporties voor je patroon.
 
-![The across back factor option](acrossback.png)
+![De rugbreedtefactor-optie](acrossback.png)
 
-As such, we feel we're preventing mistakes for the casual user, without taking away power from you, the pattern option guru.
+Op die manier denken we dat we frustraties voorkomen bij onze nonchalante gebruikers terwijl we jou, de patroonoptiegoeroe, toch alle vrijheid geven.
 
-Or to put it differently, you can still muck about with your across back, but by default, you don't have to worry about it anymore.
+Of anders gezegd, je kan nog altijd prutsen met je 'across back', maar standaard hoef je er zelfs niet meer bij stil te staan.
