@@ -1,7 +1,7 @@
 
 <Note>
 
-Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+Le texte est un peu concis pour vous ? J'essaie de rendre les vidéos disponibles comme partie intégrante de la documentation du patron.
 
 In this particular case, there's a lot of video material available, but it was originally recorded for a previous version of this pattern. Still, good stuff.
 
