@@ -1,8 +1,8 @@
  - **Tissu principal**
    - Couper **1 devant** au pli
    - Couper **1 dos** au pli
-   - Cut **2 sleeves**, good sides together
-   - Cut **1 pocket** on the fold
+   - Couper **2 manches**, endroit contre endroit
+   - Couper **1 poche** au pli
    - Cut **2 pocket facing(s)**, good sides together
    - Cut **4 Hood side(s)**, 2x2 good sides together
    - Cut **2 hood center(s)**, good sides together
