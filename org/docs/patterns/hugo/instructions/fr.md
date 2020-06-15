@@ -40,7 +40,7 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 ### Étape 3 : Fixer les manches
 
  - Le côté de la manche avec le bord pointu en haut est l'arrière de la manche.  Il est également marqué par une double encoche sur le patron.
- - Match good sides of the sleeve seam to good sides of the front, matching the single notch on front to single notch on the sleeve piece. Stitch the seam.  Do this for both sleeve pieces.
+ - Placez la manche sur le devant du sweat endroit contre endroit en faisant correspondre les repères du devant et de la pièce de manche. Coudre.  Faites cela pour les deux pièces de manche.
  - To finish the seam, you can use one of these methods:
 
    - Use a serger to sew and finish the seam in one step.  This is fast and convenient, but produces a less-refined look.
