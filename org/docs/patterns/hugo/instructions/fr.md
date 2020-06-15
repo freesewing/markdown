@@ -25,13 +25,13 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
  - Dégarnissez soigneusement la marge de couture sur les pièces de parmenture.
  - Retournez les pièces de parmenture sur l'endroit.  Aplatissez bien la couture en faisant rouler pour bien mettre en place la couture, puis pressez au fer.
  - Faites une surpiqûre à ½ cm le long des côtés long et bas de chaque coté de la poche afin de maintenir la parmenture et la marge de couture.
- - Topstitch another line ½ from the inside upper edge of the facing on each side of the pocket.  This topstitch line will end at the lower edge stitch line.
- - Trim away the excess facing on the inside of the pocket.
- - Press the edges.
+ - Surpiquez une autre ligne à ½ cm du bord intérieur de la parmenture de chaque côté de la poche.  Cette surpiqûre s'arrête sur la première ligne de surpiqûre du côté bas (voir vidéo 2 à 1'50)
+ - Dégarnissez l'excès de matière de la parmenture à l'intérieur de la poche.
+ - Pressez sur les bords.
 
-### Step 2: Attach the Pocket
+### Étape 2 : Fixez la poche
 
- - Match the Pocket to the front, good sides together.
+ - Placez la poche avec le devant, les 2 tissus orientés vers l'endroit.
  - The upper pocket seam line is marked by notches on the pattern.  The pocket bottom edge should point towards the neckline.  Align the pocket edges horizontally with the notches on the pattern. Overlap the top of the pocket over the seam line by a little less than 1 cm seam allowance.
  - Stitch the top seam of the Pocket to the Shirt Front.
  - Flip the pocket over the seam line so the bottom now lines up with the edge at the waist.
