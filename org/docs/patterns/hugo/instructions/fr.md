@@ -41,11 +41,11 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
  - Le côté de la manche avec le bord pointu en haut est l'arrière de la manche.  Il est également marqué par une double encoche sur le patron.
  - Placez la manche sur le devant du sweat endroit contre endroit en faisant correspondre les repères du devant et de la pièce de manche. Coudre.  Faites cela pour les deux pièces de manche.
- - To finish the seam, you can use one of these methods:
+ - Pour terminer la couture, vous pouvez utiliser une de ces méthodes :
 
-   - Use a serger to sew and finish the seam in one step.  This is fast and convenient, but produces a less-refined look.
-   - If you do not have a serger, or would like a more refined look, sew a seam with a straight stitch on your conventional machine. Press the seam allowances apart on the wrong side.  Then, edgestitch along both sides of the seam from the right side.  Finally, trim the excess seam allowance.  This produces a refined look, but takes longer.
-   - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch.  Finally, trim the excess seam allowance.  This simulates what a serger would do, and is quicker than option (2).
+   - Utilisez une surjeteuse pour coudre et surfiler la couture en une étape.  Ceci est rapide et pratique, mais donne un aspect moins raffiné.
+   - Si vous n'avez pas de surjeteuse, ou si vous voulez un look plus raffiné, cousez une un point droit avec votre machine à coudre. Pressez les marges de couture en les écartant de chaque côté de la couture.  Ensuite, faites une couture au bord le long des deux côtés de la couture depuis l'endroit.  Enfin, coupez la marge de couture excédentaire.  Cela donne un aspect raffiné, mais prend plus de temps.
+   - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch.  Enfin, coupez la marge de couture excédentaire.  This simulates what a serger would do, and is quicker than option (2).
 
  - Match the good sides of the sleeve to the good sides of the back, matching the double notch on back to the double notch on the sleeve seam.  Stitch the seam, then finish the seams as you did for the front.
 
