@@ -31,10 +31,10 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
 ### Étape 2 : Fixez la poche
 
- - Placez la poche avec le devant, les 2 tissus orientés vers l'endroit.
- - The upper pocket seam line is marked by notches on the pattern.  The pocket bottom edge should point towards the neckline.  Align the pocket edges horizontally with the notches on the pattern. Overlap the top of the pocket over the seam line by a little less than 1 cm seam allowance.
- - Stitch the top seam of the Pocket to the Shirt Front.
- - Flip the pocket over the seam line so the bottom now lines up with the edge at the waist.
+ - Placez la poche avec le devant, les 2 tissus endroit contre endroit.
+ - La ligne supérieure de la couture de poche est marquée par des repères sur le patron.  Le bord inférieur de la poche doit pointer vers le cou.  Alignez les bords de la poche horizontalement avec les repères du patron. Faites dépasser le haut de la poche sur la ligne de couture d'un peu moins de 1 cm pour la marge de couture.
+ - Cousez le haut de la poche sur le l'avant du sweat.
+ - Retournez la poche sur la ligne de couture de sorte que le bas s'aligne maintenant avec le bord de la taille.
  - Using a long basting stitch (4mm or longer), baste the pocket into place at the waist, with a ½ cm seam allowance.  This is optional, but keeps the pocket in place while you work on the rest of the shirt.
 
 ### Step 3: Attach the Sleeves
