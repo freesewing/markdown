@@ -31,7 +31,7 @@ This 6-episode series shows you how to make your hoodie start to finish:
 
 ### Step 2: Attach the Pocket
 
- - Match the Pocket to the front, good sides visible for both pieces.
+ - Match the Pocket to the front, good sides together.
  - The upper pocket seam line is marked by notches on the pattern.  The pocket bottom edge should point towards the neckline.  Align the pocket edges horizontally with the notches on the pattern. Overlap the top of the pocket over the seam line by a little less than 1 cm seam allowance.
  - Stitch the top seam of the Pocket to the Shirt Front.
  - Flip the pocket over the seam line so the bottom now lines up with the edge at the waist.
