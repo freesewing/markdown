@@ -42,7 +42,7 @@ Apply interfacing to all parts where you feel it's needed.
 
 #### Stap 2: Naai de knoop aan de kraagband
 
-Put the collar band part on the bow tie knot part, right sides together. Align the ends of both parts. Now sew across the end to join the parts.
+Put the collar band part on the bow tie knot part, right sides together. Leg de uiteindes van beide delen gelijk. Now sew across the end to join the parts.
 
 ![Sew the collar band to the knot](step12.png)
 
