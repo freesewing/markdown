@@ -63,10 +63,10 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
  - Le trou doit être situé au-dessus du repère sur la bordure de la capuche.  Le repère montre où les bords de la capuche se chevauchent à l'avant du centre, de sorte que le cordon devrait sortir au-dessus de ce point.
  - Vous pouvez utiliser la fonction boutonnière de votre machine à coudre pour coudre l'ouverture.
  - Ouvrez le trou aux points que vous avez marqués.
- - Une fois la capuche préparée, vous pouvez faire courir un cordon tout le tour vers l'avant de la capuche.  Sneaker shoelaces work well for this.
+ - Une fois la capuche préparée, vous pouvez faire courir un cordon tout le tour vers l'avant de la capuche.  Les lacets de baskets font très bien l'affaire.
 
 
-### Step 6: Prepare Inside and Outside Hood
+### Étape 6 : Préparer l'intérieur et l'extérieur de la capuche
 
 > Follow this set of steps twice, once for the outer hood and again for the inside hood.
 
