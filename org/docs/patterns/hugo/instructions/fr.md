@@ -1,30 +1,30 @@
 <Note>
 
-###### Documentation under construction
-First the good news: There's a video series that shows how to make Hugo from start to finish.
-Scroll down, it's embedded in this page.
+###### Documentation sur le montage
+Première bonne nouvelle : il y a une série de vidéos qui montre comment faire Hugo du début à la fin.
+Faites défiler vers le bas, elle est intégré dans cette page.
 
-Now the bad news: The written instructions for Hugo are not complete yet.
+Maintenant, la mauvaise nouvelle : Les instructions écrites pour Hugo ne sont pas encore complètes.
 
 </Note>
 
-## Video
-Text a bit dry for you? I try to make videos available as part of the pattern documentation.
+## Vidéo
+Le texte est un peu concis pour vous ? J'essaie de rendre les vidéos disponibles comme partie intégrante de la documentation du patron.
 
-This 6-episode series shows you how to make your hoodie start to finish:
+Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche du début à la fin :
 
 <YouTube id='PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO' playlist />
 
-## Construction
+## Montage
 
 
-### Step 1: Prepare the Pocket
+### Étape 1 : Préparer la poche
 
- - Place the Pocket Facing pieces together with the edges of the Pocket piece, good sides together.
- - Stitch the facing pieces to the pocket with a 1cm seam allowance.  Stitch both the long edge, and the shorter edge at the bottom of the pocket.
- - Carefully trim the seam allowance on the facing pieces.
- - Flip and turn the facing pieces good sides out.  Then hand-roll and press the seams.
- - Topstitch or edge-stitch ½ cm along both upper and lower edges on each side of the pocket, to anchor the facing and the seam allowance.
+ - Placez les parmentures de poche aux bords de la pièce de poche, endroit contre endroit.
+ - Cousez les parmentures à la poche avec une marge de 1 cm.  Cousez à la fois le bord long et le bord court sur le bas de la poche.
+ - Dégarnissez soigneusement la marge de couture sur les pièces de parmenture.
+ - Retournez les pièces de parmenture sur l'endroit.  Aplatissez bien la couture en faisant rouler pour bien mettre en place la couture, puis pressez au fer.
+ - Faites une surpiqûre à ½ cm le long des côtés long et bas de chaque coté de la poche afin de maintenir la parmenture et la marge de couture.
  - Topstitch another line ½ from the inside upper edge of the facing on each side of the pocket.  This topstitch line will end at the lower edge stitch line.
  - Trim away the excess facing on the inside of the pocket.
  - Press the edges.
