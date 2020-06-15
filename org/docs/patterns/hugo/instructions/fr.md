@@ -40,30 +40,30 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 ### Étape 3 : Fixer les manches
 
  - Le côté de la manche avec le bord pointu en haut est l'arrière de la manche.  Il est également marqué par une double encoche sur le patron.
- - Placez la manche sur le devant du sweat endroit contre endroit en faisant correspondre les repères du devant et de la pièce de manche. Coudre.  Faites cela pour les deux pièces de manche.
+ - Placez le devant de la manche sur le devant du sweat endroit contre endroit en faisant correspondre les repères du devant et de la manche. Coudre.  Faites cela pour les deux pièces de manche.
  - Pour terminer la couture, vous pouvez utiliser une de ces méthodes :
 
    - Utilisez une surjeteuse pour coudre et surfiler la couture en une étape.  Ceci est rapide et pratique, mais donne un aspect moins raffiné.
    - Si vous n'avez pas de surjeteuse, ou si vous voulez un look plus raffiné, cousez une un point droit avec votre machine à coudre. Pressez les marges de couture en les écartant de chaque côté de la couture.  Ensuite, faites une couture au bord le long des deux côtés de la couture depuis l'endroit.  Enfin, coupez la marge de couture excédentaire.  Cela donne un aspect raffiné, mais prend plus de temps.
-   - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch.  Enfin, coupez la marge de couture excédentaire.  This simulates what a serger would do, and is quicker than option (2).
+   - Une autre option sans surjeteuse est de coudre la couture avec un point droit. Ensuite cousez les marges de couture avec un point supplémentaire en zig-zag le long du point droit.  Enfin, coupez l'excès de marge de couture.  Cela simule ce que ferait une surjeteuse, et c'est plus rapide que l'option (2).
 
- - Match the good sides of the sleeve to the good sides of the back, matching the double notch on back to the double notch on the sleeve seam.  Stitch the seam, then finish the seams as you did for the front.
+ - Placez le dos de la manche sur l'arrière du sweat endroit contre endroit en faisant correspondre les doubles repères du dos et de la manche.  Faites la couture d'assemblage, puis terminez les coutures comme fait pour le devant.
 
-### Step 4: Close the Sides
+### Étape 4 : Fermer les côtés
 
- - Match the good sides together along sides and sleeves.
- - Stitch the side seam and the sleeves together in one long seam, starting at the waist and going all the way through to the end of the sleeve.  You can stop at the underarm point to change colors for the sleeve, if your design calls for it.
- - Finish the seam allowances as you did in step 2.  If you finish the sleeves with the edgestitch method, you will need to go slow for finishing the sleeve seam, as you will be .sewing in the tunnel..
+ - Alignez les bords des manches endroit contre endroit.
+ - Faites la couture latérale et des manches ensemble dans une seule couture longue, à partir de la taille et jusqu'au bout de la manche.  Vous pouvez vous arrêter au point des aisselles pour changer les couleurs si vous avez optez pour une couleur différente de manches.
+ - Terminez les marges de couture comme vous l'avez fait à l'étape 2.  Si vous finissez les manches avec la méthode des doubles surpiqûres, vous devrez aller lentement pour finir la couture de manche car votre couture se fera alors dans un tube..
 
-### Step 5: Add a Drawstring to the Hood (Optional)
+### Étape 5 : Ajouter un cordon à la capuche (facultatif)
 
- - Take one matching set of the Hood Side pieces, that you intend to feature on the outside of the finished hoodie.
- - Mark the place for a hole on each side hood piece, along the rim.
- - The hole should be located about 1.5-2cm from the edge of the fabric.  This is to allow for the seam allowance, as well as for the hood
- - The hole should be located above the notch on the hood rim.  The notch shows where the sides of the hood overlap at center front , so the cord should exit above that point.
- - You can consider using the buttonhole feature of your sewing machine, if it has one, to sew a buttonhole at this point.
- - Cut open a hole at the points you marked.
- - After the hood is prepared, you can run a cord around the front edge of the hood.  Sneaker shoelaces work well for this.
+ - Prenez un ensemble de pièces de la capuche ; celui que vous avez l'intention de mettre à l'extérieur.
+ - Marquez l'emplacement pour un trou sur chaque pièce latérale, le long du rebord.
+ - Le trou doit être situé à environ 1,5-2cm du bord du tissu.  Ceci permet la marge de couture, ainsi que la place de la capuche
+ - Le trou doit être situé au-dessus du repère sur la bordure de la capuche.  Le repère montre où les bords de la capuche se chevauchent à l'avant du centre, de sorte que le cordon devrait sortir au-dessus de ce point.
+ - Vous pouvez utiliser la fonction boutonnière de votre machine à coudre pour coudre l'ouverture.
+ - Ouvrez le trou aux points que vous avez marqués.
+ - Une fois la capuche préparée, vous pouvez faire courir un cordon tout le tour vers l'avant de la capuche.  Sneaker shoelaces work well for this.
 
 
 ### Step 6: Prepare Inside and Outside Hood
