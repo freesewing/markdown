@@ -68,7 +68,7 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
 ### Étape 6 : Préparer l'intérieur et l'extérieur de la capuche
 
-> Follow this set of steps twice, once for the outer hood and again for the inside hood.
+> Suivez ces étapes deux fois, une fois pour la capuche extérieure et à nouveau pour la capuche intérieure.
 
  - Run a Center Panel piece around one outer edge of the Hood Side, good sides together, and pin in place.  Stitch.
  - Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
