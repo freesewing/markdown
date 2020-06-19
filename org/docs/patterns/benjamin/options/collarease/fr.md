@@ -1,7 +1,7 @@
-![How much ease do you use for your collar?](collarease.svg)
+![Quelle aisance utilisez-vous pour votre col ?](collarease.svg)
 
-Using the neck circumference is one part of getting a well-fitting bow tie. The other is how much collar ease you normally use for your shirts. Together they dictate how long the bow tie becomes.
+L'utilisation du tour de cou est une partie de la façon d'obtenir un nœud papillon bien ajusté. L'autre est la quantité d'aisance au col normalement utilisée sur vos chemises. Ensemble, ils déterminent la longueur du nœud papillon.
 
-> #### Not used with the adjustment ribbon option
+> #### Sans l'option avec le ruban de réglage
 > 
-> This option is used to make a precise fitting bow tie. When you use the adjustment ribbon, this option is not used.
+> Cette option est utilisée pour faire un nœud papillon avec ajustement précis. Lorsque vous utilisez le ruban d'ajustement, cette option n'est pas utilisée.

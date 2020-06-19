@@ -1,4 +1,4 @@
-![Knot width](knotwidth.svg)
+![Largeur du nœud](knotwidth.svg)
 
 The knot width is the width in the middle of the tie, where you make the knot.
 

@@ -2,126 +2,126 @@
 
 ### Précision
 
-Comme un nœud papillon est un objet assez petit, la précision de la couture est la clé d'un bon résultat. Toute légère différence entre la partie supérieure et la partie inférieure du nœud se verra. Pour obtenir un excellent résultat, j'ai trouvé très utile de tracer les vrais lignes de couture sur l'entoilage et de les suivre pour la couture.
+Comme un nœud papillon est un objet assez petit, la précision de la couture est la clé d'un bon résultat. Toute légère différence entre la partie supérieure et la partie inférieure du nœud se verra. Pour obtenir un excellent résultat, j'ai trouvé très utile de tracer les lignes de couture sur l'entoilage et de les suivre pour la couture.
 
-### Press wisely
+### Pressez judicieusement
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+Plus loin dans les étapes de construction, on vous demandera de presser votre tissu. Faites attention à que vous n'utilisez pas trop de chaleur sur un tissu délicat qui pourrait ne pas le supporter.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+C'est une bonne idée de faire des essais sur quelques morceaux de tissu avant de commencer. Cela vous permettra de déterminer le bon réglage de chaleur pour le tissu que vous utilisez.
 
-### Choosing your grain
+### Déterminez le sens du tissu
 
-This pattern includes a grain line. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Ce patron comprend un sens de droit fil. Ce droit fil est principalement là pour être utilisé avec l'entoilage. Puisque chaque pièce de patron est entoilée, le droit fil du tissu lui-même n'est pas si important. Vous pouvez même changer cela du standard pour un effet plus original.
 
 <Note>
 
-If this all sounds very confusing, might I suggest reading the help 
-page on [Fabric grain](/docs/sewing/fabric-grain).
+Si tout cela semble très confus, puis-je suggérer de lire la page d'aide 
+sur [le droit fil de tissu](/docs/sewing/fabric-grain).
 
 </Note>
 
-### Bow tie adjustment ribbon
+### Ruban d'ajustement de nœud papillon
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. Il permet également d'en faire un qui possède un ruban et les boucles qui rendent le nœud papillon réglable pour différentes tailles de cou. Ceci est utile si toutes vos chemises n'ont pas les mêmes mesures de cou, ou si vous aimez parfois la chemise avec plus d'aisance au cou.
 
-These ribbons can be found in the better haberdasheries or can be ordered online.
+Ces rubans peuvent être trouvés dans les meilleures merceries ou peuvent être commandés en ligne.
 
 ### Marge de couture
 
-Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Puisque le nœud papillon est construit endroit contre endroit, tout l'ouvrage devra être retourné. Vous voulez probablement envisager d'utiliser une petite marge de couture de 6 mm (¼ pouces) pour réduire le volume.
 
 
-## Construction
+## Montage
 
-### Step 1: Apply interfacing
+### Étape 1 : Thermocoller l'entoilage
 
-Apply interfacing to all parts where you feel it's needed.
+Appliquez l'entoilage à toutes les pièces où vous le jugez nécessaire.
 
 ### Sans ruban d'ajustement
 
-#### Step 2: Sew the knot to the collar band
+#### Étape 2 : Coudre le nœud à la bande de col
 
-Put the collar band part on the bow tie knot part, right sides together. Allign the ends of both parts. Now sew across the end to join the parts.
+Mettre la partie de la bande de col sur la partie du nœud, endroit contre endroit. Alignez les extrémités des deux parties. Coudre alors jusqu'au bout pour assembler les pièces.
 
-![Sew the collar band to the knot](step12.png)
+![Coudre la bande de col au nœud](step12.png)
 
-Do this for each end on both collar bands.
+Faites cela pour chaque extrémité sur les deux bandes de col.
 
-Press open all the seams.
+Pressez pur ouvrir toutes les coutures.
 
-You now have two identical single sided bow ties.
+Vous avez maintenant deux bandes identiques du nœud papillon.
 
-#### Step 3: Join both sides
+#### Étape 3 : Assemblez les deux côtés
 
-![Sew both sides together](step13.png)
+![Coudre endroit contre endroit](step13.png)
 
-Lay both the sides you made on top of each other, right sides together. Sew all along, but leaving an area of 5cm open in the middle of the collar band. Through this opening we will turn the bow tie right side out.
+Disposez les deux côtés que vous avez faits l'un sur l'autre, endroit contre endroit. Cousez tout du long mais laissez une ouverture de 5 cm au milieu de la bande de col. Grâce à cette ouverture, nous allons retourner l'ouvrage.
 
-#### Step 4: Turning
+#### Étape 4 : Retourner
 
-![Clip seam allowance](step14.png)
+![Dégarnir la marge de couture](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Utilisez ensuite le dos d'un crochet de grande taille, ou un autre objet fin et long, afin de retourner les deux côtés à travers la petite ouverture. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
 
-Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
+Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et côtés avant de lui donner un bon coup de fer.
 
-#### Step 5: Closing
+#### Étape 5 : Fermeture
 
-![Closing the bow tie](step15.png)
+![Fermeture du nœud papillon](step15.png)
 
-Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Maintenant tout ce qui reste à faire c'est de fermer le trou que nous avons utilisé pour retourner le nœud papillon. Vous pouvez le faire à la main avec un point de couture invisible. Ou vous pouvez utiliser la machine et coudre au point droit au bord de la bande (couture nervure). Puisque ce sera normalement caché par le col de votre chemise, ce ne sera pas très visible.
 
-Now give it one last press and admire your work.
+Maintenant donnez-lui un dernier coup de fer et admirez votre travail.
 
 ### Avec ruban d'ajustement
 
-#### Step 2: Attaching the ribbon
+#### Étape 2 : Attacher le ruban
 
-![Sew the ribbon to part 1](step22.png)
+![Coudre le ruban à la partie 1](step22.png)
 
-The first thing to do is to sew the adjustment ribbon to the shortest of the bow parts. The ribbon should be 290mm long. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+La première chose à faire est de coudre le ruban de réglage au parties les plus courtes du nœud. Le ruban doit avoir une longueur de 290mm. Si c'est différent, vous devez vous assurer de l'aligner de telle sorte que le ruban et la pièce courte du nœud ensemble sont aussi longs que la pièce longue du nœud.
 
-Put right sides of the short bow piece and the ribbon together.
+Mettre la pièce courte face au ruban, endroit contre endroit.
 
-Now sew across the end to join the parts.
+Coudre alors jusqu'au bout pour assembler les pièces.
 
-#### Step 3: Join both sides
+#### Étape 3 : Assemblez les deux côtés
 
-![Sew both sides together](step23.png)
+![Coudre endroit contre endroit](step23.png)
 
-Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Disposez les deux parties du nœud sur les uns sur les autres, endroit contre endroit. Étalez ensuite le côté long du nœud au haut du ruban et de la partie courte, également endroit contre endroit.
 
-Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
+Coudre tout le long mais laisser un des bouts courts ouvert. Grâce à cette ouverture, nous allons retourner l'ouvrage.
 
-#### Step 4: Turning
+#### Étape 4 : Retourner
 
-![Clip seam allowance](step14.png)
+![Dégarnir la marge de couture](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Entaillez la marge de couture aux endroits usuels et faites de petites coupes pour permettre des courbes lisses.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Utilisez ensuite le dos d'un crochet de grande taille, ou un autre objet fin et long, afin de retourner les deux côtés à travers la petite ouverture. Commencez par tirez doucement les deux pièces de tissu aux bouts du nœud. Ensuite poussez la fin du nœud entre les deux pièces de tissu. Continuez à pousser doucement pendant que vous tirez en coulissant sur le reste de l'ouvrage. Cette manœuvre peut être un peu fastidieuse. Prenez votre temps et soyez délicat. Il est facile de pousser trop fort et de percer des points ou du tissu.
 
-Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
+Une fois notre ouvrage sur l'endroit, assurez-vous de pousser tous les coins et côtés avant de lui donner un bon coup de fer.
 
-Do this with both parts.
+Répétez l'opération avec les deux parties.
 
-#### Step 5: Add hardware
+#### Étape 5 : Ajouter les accessoires d'ajustement
 
-Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
+Maintenant, nous devons ajouter les deux pièces d'ajustement qui rendent la fixation réglable. La pièce ovale sera attachée à la pièce sans ruban d'ajustement. Et la pièce avec l'accessoire en forme de T ira sur la partie avec le ruban.
 
-First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+D'abord faites la partie sans le ruban. Ceci en raison du fait que le bout de tissu du ruban devra passer par la pièce ovale avant de coudre sur son accessoire. Si vous le faisiez dans l'ordre inverse, vous ne pourriez peut-être pas le passer.
 
-To finish the ends, we're going to fold the fabric in three steps:
+Pour terminer les extrémités, nous allons plier le tissu en trois étapes :
 
-![Three steps to fold, one step to sew](step25.png)
+![Trois étapes pour plier, une étape pour coudre](step25.png)
 
-First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Tout d'abord, on plie le côté sous un angle. Puis nous plions la fin par juste une petite marge de couture, quelque chose comme 5mm. Puis nous le plions à nouveau, pour environ 1cm. Enfin on place l'anneau ovale sous ce dernier pli et on coud.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Maintenant, placez le ruban à travers la partie ovale et nous la finissons de la même manière.
 
-Hook the T in one of the adjustment holes and your bow tie is done!
+Accrochez le T dans une des boucles d'ajustement et votre nœud papillon est terminé !
 
-![Good job!](finished.gif)
+![Beau travail !](finished.gif)

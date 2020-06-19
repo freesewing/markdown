@@ -1,12 +1,12 @@
-![Bow ties Wide and Narrow](tipwidth.svg)
+![Nœuds papillons Larges et Fins](tipwidth.svg)
 
-You can make BIG bow ties, or small ones. This option allows you to change the vertical size of the bows. Make them larger to be more flamboyant, or small for a more subdued style.
+Vous pouvez faire des nœud papillon hauts ou fins. Cette option vous permet de changer la taille verticale des extrémités du nœud. Faites-les plus grand pour être plus flamboyant, ou petit pour un style plus discret.
 
 <Note>
 
-###### Not used with the Square bow tie type
+###### Non utilisé avec le type de nœud papillon carré
 
-This option is ignore with the Square bow tie option. Square bow ties are as wide as the knot width.
+Cette option est ignorée avec l'option de nœud papillon carré. Les nœud papillon carrés sont aussi larges que la largeur du nœud.
 
 </Note>
 

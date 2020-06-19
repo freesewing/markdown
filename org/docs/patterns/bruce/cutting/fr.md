@@ -9,7 +9,7 @@ Bruce se compose d'un dos, et de deux côtés, inserts et devants.
 <Warning>
 
 ###### Mise en garde
-- **dos** : marge de couture supllémentaire pour l'ourlet jambe
+- **dos** : marge de couture supplémentaire pour l'ourlet jambe
 - **devant** : Coupez **deux fois**
 
 </Warning>

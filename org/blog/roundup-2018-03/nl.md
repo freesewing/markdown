@@ -25,7 +25,7 @@ That went well, so a couple of weeks ago we finally pushed out Jaeger for genera
 
 ### The *across back* measurement is no more
 
-The across back measurement was cause of a great deal of confusion among our users. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
+De 'across back'-afmeting leverde bij veel gebruikers verwarring op. More often than not, when someone contacted us because their pattern looked wonky, an unrealistic across back measurement was to blame.
 
 So, we stepped in and removed that measurement in favour of calculating it from the *shoulder to shoulder* measurement, and giving you a new *across back factor* option so you can still tweak it if you want to.
 
