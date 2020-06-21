@@ -93,13 +93,13 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
  - Surjetez ou faites un zig-zag sur toutes les couches avec une marge de couture de 1cm.  Vérifiez tout le tour de l'encolure que toutes les couches ont bien été prises dans la couture.
  - Renforcez les points où l'encolure se croise avec les coutures de manche.  Utilisez un point droit sur la machine à coudre pour stabiliser ces coutures.
  - Pliez la bande par-dessus le bord brut de l'encolure, et épinglez.
- - From the outside, topstitch along and approx 1cm away from the neck edge to catch and secure the binding.  You should be able to use a straight stitch here as long as the neck fits somewhat loosely when you try it on.  If the neck fits snug, then use a zigzag stitch.
- - Trim excess binding from the inside.
+ - Depuis l'extérieur, faites une surpiqûre à environ 1 cm du bord de l'encolure pour s'assurer de bien prendre la bande d'encolure.  Vous devriez être en mesure d'utiliser un point droit ici dans la mesure où le cou prévoit suffisamment d'aisance une fois porté.  Si le cou est prévu plus ajusté, alors utilisez un point de zigzag.
+ - Coupez l’excès de marge de couture à l’intérieur.
 
-### Step 9: Attach the Cuffs and Waistband
+### Étape 9 : Attacher les Poignets et la Ceinture
 
- - If the ribbing is light or thin, you can cut the cuff and waistband pieces twice as high, then double-fold them.
- - Place good sides together on the cuffs and waistband pieces, then sew a 1cm seam allowance along the short side to make them into circular bands.
+ - Si la bande est légère ou fine, vous pouvez couper les bandes de poignets et de ceinture deux fois plus haut, puis les plier.
+ - Pliez les bandes de poignets et de ceinture endroit contre endroit et cousez les à 1 cm du bord sur le côté court afin de former des bandes circulaires.
  - Fold along the long side to make cuffs and waistband into double-thick tubes. Sew or serge along the open edges to close.
  - Align the seam on the cuff to the seam on the sleeve.  Pin, good sides together.
  - Pin the opposite side.
