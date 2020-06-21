@@ -100,11 +100,11 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
  - Si la bande est légère ou fine, vous pouvez couper les bandes de poignets et de ceinture deux fois plus haut, puis les plier.
  - Pliez les bandes de poignets et de ceinture endroit contre endroit et cousez les à 1 cm du bord sur le côté court afin de former des bandes circulaires.
- - Fold along the long side to make cuffs and waistband into double-thick tubes. Sew or serge along the open edges to close.
- - Align the seam on the cuff to the seam on the sleeve.  Pin, good sides together.
- - Pin the opposite side.
- - Serge (or zig-zag stitch) the ribbing to the cuff, stretching gently until the ribbing and cuff are the same length.  Remove pins before they enter the serger.
- - Trim the bottom edge of the pocket if it extends past the waistband edge.
- - Ensure the ribbing is gathered as uniformly as possible around the waistband.
- - Serge or zig-zag the waistband, again gently stretching untill the ribbing and waistband are the same length.  Stitch with the hoodie on top so you can see it gets caught in the seam.
- - Topstitch the lower pocket edges to the body of the shirt to anchor the bottom of the pocket.
+ - Pliez en deux le long du côté long pour faire les poignets et la ceinture en tubes à double épaisseur. Cousez ou surjetez le long des bords ouverts pour fermer.
+ - Alignez la couture du poignet à la couture sur la manche.  Épinglez endroit contre endroit.
+ - Épinglez l'autre côté.
+ - Surjetez (ou cousez en zig-zag) la bande de poignet, en l'étirant doucement jusqu'à ce que la bande et le manche soient de la même longueur.  Retirez les épingles avant de passer sous la surjeteuse.
+ - Coupez le bord inférieur de la poche s'il dépasse le bord de la ceinture.
+ - Veillez à ce que la bande soit assemblée de la manière la plus uniforme possible autour de la ceinture.
+ - Suejetez ou faites un zig-zag à la ceinture, encore une fois étirant doucement jusqu'à ce que la bande et la ceinture soient de la même longueur.  Cousez avec le sweat sur le dessus de façon à ce que vous puissiez vous assurer qu'il est bien pris dans la couture.
+ - Surpiquez les bords inférieurs de la poche au corps du vêtement pour maintenir le fond de la poche.
