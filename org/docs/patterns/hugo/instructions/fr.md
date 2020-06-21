@@ -80,11 +80,11 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
  - Alignez les courtures du pan central et épinglez.
  - Cousez tout le long du bord de la capuche en laissant 1 cm de marge de couture.  Ne coupez pas la marge de couture.
  - Retournez les capuches sur l'endroit, puis pressez bien à plat le bord extérieur.
- - Faites une surpiqûre le long des bords de la capuche à environ 1-1,5 cm du bord.  Assurez-vous que vous allez au-delà de la marge de couture et qu'elle n'est pas prise dans cette ligne de couture. This creates a decorative rim.  The enclosed seam allowance helps make the rim a bit poofy.
- - To close the hood, serge together the bottom layers along the neckline.  If you do not have a serger, use a zig-zag stitch.
- - (Optional) If you added holes for a drawstring, you can thread the drawstring now.
+ - Faites une surpiqûre le long des bords de la capuche à environ 1-1,5 cm du bord.  Assurez-vous que vous allez au-delà de la marge de couture et qu'elle n'est pas prise dans cette ligne de couture. Cela crée une bordure décorative.  La marge de couture enfermée aide à rendre la bordure un peu bombée.
+ - Pour fermer la capuche, surjetez ensemble les couches en bas, le long du cou.  Si vous n'avez pas de surjeteuse, utilisez un point zig-zag.
+ - (Facultatif) Si vous avez ajouté des trous pour un cordon, vous pouvez le passer maintenant.
 
-### Step 8: Attach the Hood
+### Étape 8 : Attacher la Capuche
 
  - Place good sides together on the neck binding piece, then sew a 1cm seam allowance along the short side to make the binding into a circular band.
  - Starting from the back, match the outside of the hood to the right side of the neckline. Align the hood panel to the back of the neckline.
