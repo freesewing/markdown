@@ -70,17 +70,17 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
 > Suivez ces étapes deux fois, une fois pour la capuche extérieure et à nouveau pour la capuche intérieure.
 
- - Run a Center Panel piece around one outer edge of the Hood Side, good sides together, and pin in place.  Stitch.
- - Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
- - Press the seam allowances, and finish them as in Step 2.  Trim the seam allowances.
+ - Placez le pan central tout le long du bord d'un côté de la capuche, endroit contre endroit, et épinglez.  Cousez.
+ - Épingler la pièce du panneau central autour du bord extérieur restant de la capuche, endroit contre endroit. Cousez.
+ - Pressez les marges de couture et finissez-les comme à l'étape 2.  Dégarnir les marges de couture.
 
-### Step 7: Join Inside and Outside Hood
+### Étape 7 : Assembler l'intérieur et l'extérieur de la capuche
 
- - With both hoods inside out, put them on top of each other, good sides together.
- - Align the center panel seams and pin.
- - Stitch along the outer edge of the hood with a 1cm seam allowance.  Do not trim the seam allowance.
- - Flip the hood pieces right side out, then press the outer edge flat.
- - Topstitch along the edge of the hood, about 1.5-2 cm from the edge.  Ensure that you go beyond the seam allowance, and that it is not caught in this line of stitching. This creates a decorative rim.  The enclosed seam allowance helps make the rim a bit poofy.
+ - Avec les deux capuches à l'envers, placez-les l'une contre l'autre, endroit contre endroit.
+ - Alignez les courtures du pan central et épinglez.
+ - Cousez tout le long du bord de la capuche en laissant 1 cm de marge de couture.  Ne coupez pas la marge de couture.
+ - Retournez les capuches sur l'endroit, puis pressez bien à plat le bord extérieur.
+ - Faites une surpiqûre le long des bords de la capuche à environ 1-1,5 cm du bord.  Assurez-vous que vous allez au-delà de la marge de couture et qu'elle n'est pas prise dans cette ligne de couture. This creates a decorative rim.  The enclosed seam allowance helps make the rim a bit poofy.
  - To close the hood, serge together the bottom layers along the neckline.  If you do not have a serger, use a zig-zag stitch.
  - (Optional) If you added holes for a drawstring, you can thread the drawstring now.
 
