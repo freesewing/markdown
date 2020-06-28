@@ -70,41 +70,41 @@ Cette série de 6 épisodes vous montre comment réaliser votre sweat à capuche
 
 > Suivez ces étapes deux fois, une fois pour la capuche extérieure et à nouveau pour la capuche intérieure.
 
- - Run a Center Panel piece around one outer edge of the Hood Side, good sides together, and pin in place.  Stitch.
- - Pin the Center Panel piece around the remaining outer edge of the hood, good sides together. Stitch.
- - Press the seam allowances, and finish them as in Step 2.  Trim the seam allowances.
+ - Placez le pan central tout le long du bord d'un côté de la capuche, endroit contre endroit, et épinglez.  Cousez.
+ - Épingler la pièce du panneau central autour du bord extérieur restant de la capuche, endroit contre endroit. Cousez.
+ - Pressez les marges de couture et finissez-les comme à l'étape 2.  Dégarnir les marges de couture.
 
-### Step 7: Join Inside and Outside Hood
+### Étape 7 : Assembler l'intérieur et l'extérieur de la capuche
 
- - With both hoods inside out, put them on top of each other, good sides together.
- - Align the center panel seams and pin.
- - Stitch along the outer edge of the hood with a 1cm seam allowance.  Do not trim the seam allowance.
- - Flip the hood pieces right side out, then press the outer edge flat.
- - Topstitch along the edge of the hood, about 1.5-2 cm from the edge.  Ensure that you go beyond the seam allowance, and that it is not caught in this line of stitching. This creates a decorative rim.  The enclosed seam allowance helps make the rim a bit poofy.
- - To close the hood, serge together the bottom layers along the neckline.  If you do not have a serger, use a zig-zag stitch.
- - (Optional) If you added holes for a drawstring, you can thread the drawstring now.
+ - Avec les deux capuches à l'envers, placez-les l'une contre l'autre, endroit contre endroit.
+ - Alignez les courtures du pan central et épinglez.
+ - Cousez tout le long du bord de la capuche en laissant 1 cm de marge de couture.  Ne coupez pas la marge de couture.
+ - Retournez les capuches sur l'endroit, puis pressez bien à plat le bord extérieur.
+ - Faites une surpiqûre le long des bords de la capuche à environ 1-1,5 cm du bord.  Assurez-vous que vous allez au-delà de la marge de couture et qu'elle n'est pas prise dans cette ligne de couture. Cela crée une bordure décorative.  La marge de couture enfermée aide à rendre la bordure un peu bombée.
+ - Pour fermer la capuche, surjetez ensemble les couches en bas, le long du cou.  Si vous n'avez pas de surjeteuse, utilisez un point zig-zag.
+ - (Facultatif) Si vous avez ajouté des trous pour un cordon, vous pouvez le passer maintenant.
 
-### Step 8: Attach the Hood
+### Étape 8 : Attacher la Capuche
 
- - Place good sides together on the neck binding piece, then sew a 1cm seam allowance along the short side to make the binding into a circular band.
- - Starting from the back, match the outside of the hood to the right side of the neckline. Align the hood panel to the back of the neckline.
- - Working around to the front, pin the hood to the neckline.
- - Match the good side of the neck binding to the outer neckline (this will be the inside of the hood). Pin the binding to the hood.
- - Serge or zig-zag all layers together with 1cm seam allowance.  Check around the neckline to make sure all layers were caught by the stitching.
- - Reinforce the points where the neckline intersects with the sleeve seams.  Use a straight stitch on the sewing machine to stabilize these seams.
- - Fold the binding over the raw edge of the neckline, and pin.
- - From the outside, topstitch along and approx 1cm away from the neck edge to catch and secure the binding.  You should be able to use a straight stitch here as long as the neck fits somewhat loosely when you try it on.  If the neck fits snug, then use a zigzag stitch.
- - Trim excess binding from the inside.
+ - Pliez endroit contre endroit la pièce d'encolure et la coudre à 1 cm sur le côté court afin de créer une bande circulaire.
+ - À partir du dos, faites correspondre l'extérieur de la capuche et le dos de l'encolure, endroit contre endroit. Alignez le panneau de capuche à l'arrière du cou.
+ - Épinglez tout le tour de l'encolure jusqu'au devant.
+ - Faires correspondre l'endroit de la bande d'encolure au bord de la ligne du cou (ce sera l'intérieur de la capuche). Épinglez la bande à la capuche.
+ - Surjetez ou faites un zig-zag sur toutes les couches avec une marge de couture de 1cm.  Vérifiez tout le tour de l'encolure que toutes les couches ont bien été prises dans la couture.
+ - Renforcez les points où l'encolure se croise avec les coutures de manche.  Utilisez un point droit sur la machine à coudre pour stabiliser ces coutures.
+ - Pliez la bande par-dessus le bord brut de l'encolure, et épinglez.
+ - Depuis l'extérieur, faites une surpiqûre à environ 1 cm du bord de l'encolure pour s'assurer de bien prendre la bande d'encolure.  Vous devriez être en mesure d'utiliser un point droit ici dans la mesure où le cou prévoit suffisamment d'aisance une fois porté.  Si le cou est prévu plus ajusté, alors utilisez un point de zigzag.
+ - Coupez l’excès de marge de couture à l’intérieur.
 
-### Step 9: Attach the Cuffs and Waistband
+### Étape 9 : Attacher les Poignets et la Ceinture
 
- - If the ribbing is light or thin, you can cut the cuff and waistband pieces twice as high, then double-fold them.
- - Place good sides together on the cuffs and waistband pieces, then sew a 1cm seam allowance along the short side to make them into circular bands.
- - Fold along the long side to make cuffs and waistband into double-thick tubes. Sew or serge along the open edges to close.
- - Align the seam on the cuff to the seam on the sleeve.  Pin, good sides together.
- - Pin the opposite side.
- - Serge (or zig-zag stitch) the ribbing to the cuff, stretching gently until the ribbing and cuff are the same length.  Remove pins before they enter the serger.
- - Trim the bottom edge of the pocket if it extends past the waistband edge.
- - Ensure the ribbing is gathered as uniformly as possible around the waistband.
- - Serge or zig-zag the waistband, again gently stretching untill the ribbing and waistband are the same length.  Stitch with the hoodie on top so you can see it gets caught in the seam.
- - Topstitch the lower pocket edges to the body of the shirt to anchor the bottom of the pocket.
+ - Si la bande est légère ou fine, vous pouvez couper les bandes de poignets et de ceinture deux fois plus haut, puis les plier.
+ - Pliez les bandes de poignets et de ceinture endroit contre endroit et cousez les à 1 cm du bord sur le côté court afin de former des bandes circulaires.
+ - Pliez en deux le long du côté long pour faire les poignets et la ceinture en tubes à double épaisseur. Cousez ou surjetez le long des bords ouverts pour fermer.
+ - Alignez la couture du poignet à la couture sur la manche.  Épinglez endroit contre endroit.
+ - Épinglez l'autre côté.
+ - Surjetez (ou cousez en zig-zag) la bande de poignet, en l'étirant doucement jusqu'à ce que la bande et le manche soient de la même longueur.  Retirez les épingles avant de passer sous la surjeteuse.
+ - Coupez le bord inférieur de la poche s'il dépasse le bord de la ceinture.
+ - Veillez à ce que la bande soit assemblée de la manière la plus uniforme possible autour de la ceinture.
+ - Suejetez ou faites un zig-zag à la ceinture, encore une fois étirant doucement jusqu'à ce que la bande et la ceinture soient de la même longueur.  Cousez avec le sweat sur le dessus de façon à ce que vous puissiez vous assurer qu'il est bien pris dans la couture.
+ - Surpiquez les bords inférieurs de la poche au corps du vêtement pour maintenir le fond de la poche.
