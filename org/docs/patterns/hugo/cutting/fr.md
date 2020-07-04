@@ -3,23 +3,23 @@
    - Couper **1 dos** au pli
    - Couper **2 manches**, endroit contre endroit
    - Couper **1 poche** au pli
-   - Cut **2 pocket facing(s)**, good sides together
-   - Cut **4 Hood side(s)**, 2x2 good sides together
-   - Cut **2 hood center(s)**, good sides together
-   - Cut **1 neck binding**
- - **Ribbing**
-   - Cut **2 cuff(s)**
-   - Cut **1 waistband**
+   - Couper **2 parmentures de poche(s)**, endroit contre endroit
+   - Couper **4 côté(s) de Capuche**, 2x2 endroit contre endroit
+   - Couper **2 centre(s) de Capuche**, endroit contre endroit
+   - Couper **1 bande d'encolure**
+ - **Bord côte**
+   - Couper **2 poignets**
+   - Couper **1 bande de taille**
 
 <Warning>
 
-###### Caveats
+###### Avertissements
 
- - **sleeve**: There's a single notch at the front, and a double notch at the back. These notches match on the front and back parts respectively.
- - **pocket facing** and **hood**: Watch out for the grainlines on these parts
+ - **manche** : Il y a une encoche à l'avant et une encoche double à l'arrière. Ces encoches correspondent respectivement aux parties avant et arrière.
+ - **Parmenture de poche** et **capuche** : Attention au droit fil sur ces parties
 
-Because Hugo's raglan sleeve also covers a portion of the back and front,
-the sleeve is the dominant feature of your draft.
+Parce que la manche raglan d'Hugo couvre également une partie du dos et de l'avant,
+la manche est la pièce dominante de votre patron.
 
 </Warning>
 
