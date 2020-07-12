@@ -4,7 +4,7 @@ title: Pente d'épaule
 
 La mesure de **pente d'épaule** est un indicateur de la façon dont vos épaules descendent.
 
-To measure your shoulder slope, you need to determine under what angle your shoulder (line) slopes downwards.
+To measure your shoulder slope, you need to determine the angle at which your shoulder line slopes downward.
 
 A good way to measure your shoulder slope is to take a a selfie and rotate it until your shoulder line is horizontal.
 
