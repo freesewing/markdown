@@ -2,7 +2,7 @@
 title: Cutting
 ---
 
-Florence hat nur einen Teil, die *Maske*. Das ist die Hälfte der Maske, also werden wir zwei davon brauchen. Darüber hinaus wollen wir eine äußere und eine innere Gewebeschicht, also brauchen wir insgesamt vier:
+Florence only has one part, the *mask*. Das ist die Hälfte der Maske, also werden wir zwei davon brauchen. Darüber hinaus wollen wir eine äußere und eine innere Gewebeschicht, also brauchen wir insgesamt vier:
 
  - **Main fabric**
    - Schneiden Sie **2 Maskenteile**
