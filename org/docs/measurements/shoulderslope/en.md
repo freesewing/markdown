@@ -4,7 +4,7 @@ title: Shoulder slope
 
 The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward. 
 
-To measure your shoulder slope, you need to determine under what angle your shoulder (line) slopes downwards.
+To measure your shoulder slope, you need to determine the angle at which your shoulder line slopes downward.
 
 A good way to measure your shoulder slope is to take a 
 a selfie and rotate it until your shoulder line is horizontal.
