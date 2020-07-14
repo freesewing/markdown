@@ -1,5 +1,5 @@
 ---
-title: Hauteur taille hanche
+title: Waist to upper leg
 ---
 
-La **hauteur taille hanche** est mesurée du tour de taille jusqu'à l'os de la hanche. Elle se mesure sur le côté du corps.
+The **waist to upper leg** is measured from your waist down to the top of your leg. Elle se mesure sur le côté du corps.

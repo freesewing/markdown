@@ -1,7 +1,7 @@
 ---
-title: Hauteur d'assise
+title: Crotch depth
 ---
 
-La **hauteur d'assise** est la mesure entre la ceinture de votre pantalon jusqu'à la surface d'assise.
+The **crotch depth** measurement is the height your waist rises from the surface you are sitting on.
 
-Pour mesurer la hauteur d'assise, asseyez-vous bien droit sur une chaise ou une table, et mesurez de votre ligne de hanche jusqu'à la chaise/table.
+To measure your crotch depth, sit straight on a flat chair or table, and measure from waist line down to the chair/table.

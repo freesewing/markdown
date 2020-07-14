@@ -1,6 +1,6 @@
 ---
 date: 2018-02-14
-title: "The General Data Protection Regulation of the European Union: Our battle plan."
+title: "Die Datenschutzgrundverordnung der Europäischen Union: Unser Schlachtplan."
 linktitle: "Our battle plan for GDPR compliance"
 img: img.jpg
 caption: "This image is probably the only thing in the post you can skim diagonally"

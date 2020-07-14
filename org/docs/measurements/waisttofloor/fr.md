@@ -1,9 +1,9 @@
 ---
-title: Hauteur de taille
+title: Waist to floor
 ---
 
-La **hauteur de taille** (parfois appelée longueur de jambe) est la mesure depuis votre tour de taille jusqu'au sol.
+The **waist to floor** is the measurement from your waist down to the floor.
 
-Pour mesurer votre hauteur de taille, identifiez votre taille naturelle et mesurer sa hauteur depuis le sol.
+To measure your waist to floor measurement, locate the height of your waist, and measure how high it is from the floor.
 
 Il est souvent plus facile de faire cette mesure sur le côté du corps.

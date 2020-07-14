@@ -1,7 +1,7 @@
 ---
-title: Tour de taille
+title: Waist circumference
 ---
 
-Le **tour de taille** est la circonférence de votre taille sous votre cage thoracique.
+The **waist circumference** measurement is the circumference of your waist below your ribcage.
 
-Pour mesurer votre **tour de taille**, enroulez le mètre-ruban autour de votre taille en dessous de votre cage thoracique, et assurez-vous de le garder bien horizontalement.
+To measure your **waist circumference**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.

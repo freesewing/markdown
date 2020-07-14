@@ -1,5 +1,5 @@
 ---
-title: Natural waist to hip
+title: Waist to upper leg
 ---
 
-The **natural waist to hip** is measured from your natural waist down to the top if your hip bone (where your trousers sit). Measure it a the side of your body.
+The **waist to upper leg** is measured from your waist down to the top of your leg. Measure it a the side of your body.

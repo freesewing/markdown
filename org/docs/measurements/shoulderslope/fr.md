@@ -4,11 +4,20 @@ title: Pente d'épaule
 
 La mesure de **pente d'épaule** est un indicateur de la façon dont vos épaules descendent.
 
-Pour le calcul de votre pente d'épaule, mesurez d'abord la longueur entre le milieu de votre dos (au niveau de la ligne des hanches) et la pointe de votre épaule (là où l'épaule rejoint le haut de l'emmanchure).
+To measure your shoulder slope, you need to determine the angle at which your shoulder line slopes downward.
+
+A good way to measure your shoulder slope is to take a a selfie and rotate it until your shoulder line is horizontal.
+
+The angle you had to rotate is your shoulder slope.
 
 <Note>
 
-Cette mesure sera combinée avec celle de la [longueur dos depuis l'épaule](/docs/measurements/hpstohipsback/), qui part de la base de l'encolure (au sommet de l'épaule) jusqu'à la ligne située au niveau des hanches ; cela permettra de calculer la pente d'épaule.
+Almost all people have a slightly different shoulder slope on both sides.
+That's because your dominant arm is more pronounced.
+
+Unless the different is huge, best not to worry about it.
+It won't show up for casual garments, and for formal wear, you're better to add
+assymetric shoulder padding, rather than create an asymetric pattern.
 
 </Note>
 

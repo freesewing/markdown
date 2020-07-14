@@ -1,5 +1,5 @@
 ---
-title: Hauteur taille hanche
+title: Waist to hips
 ---
 
-La **hauteur taille hanche** est mesurée du tour de taille jusqu'à l'os de la hanche. Elle se mesure sur le côté du corps.
+The **waist to hips** measurement is measured from your waist down to the top if your hip bone (where your trousers sit). Elle se mesure sur le côté du corps.
