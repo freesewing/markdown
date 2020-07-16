@@ -72,7 +72,7 @@ the X-delta between points `bottom` and `right`.
 <Tip>
 
 Points come with a bunch of these methods. 
-You can find them all in [the Point API docs](/referene/api/point/).
+You can find them all in [the Point API docs](/reference/api/point/).
 
 </Tip>
 
