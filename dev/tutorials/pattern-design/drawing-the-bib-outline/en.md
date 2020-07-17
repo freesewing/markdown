@@ -2,7 +2,7 @@
 title: 190|Drawing the bib outline
 ---
 
-With our neck opening in place, let's draw basic outline of our bib:
+With our neck opening in place, let's draw the basic outline of our bib:
 
 ```js
 let width = measurements.headCircumference * options.widthRatio;
@@ -25,7 +25,7 @@ paths.rect = new Path()
   .close();
 ```
 
-Firs thing we did was create the `width` and `length` variables to
+First thing we did was create the `width` and `length` variables to
 save ourselves some typing:
 
 ```js
