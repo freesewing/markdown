@@ -12,7 +12,7 @@ There are macros to add titles to your pattern, or grainline indicators, a scale
 there's a macro to round corners. The `round` macro.
 
 Before we can use it, we have to update our `part.shorthand()` call to indicate that we'd
-also like to make use of macros. Simple add `macro` at the end:
+also like to make use of macros. Simply add `macro` at the end:
 
 ```js
 let {
