@@ -69,7 +69,7 @@ A higher thread count means a smoother (and more expensive) fabric.
 
 Thread count is expressed in numbers, like 60s, 80s, 100s and so on to 300s and more.
 
-There's a catch though. Numbers above 100s are typically made my twisting two yarns together. Like a 160s thread count means that two 80s yarns were twisted together for the thread.
+There's a catch though. Numbers above 100s are typically made by twisting two yarns together. Like a 160s thread count means that two 80s yarns were twisted together for the thread.
 
 
 ## Single ply or Two ply
