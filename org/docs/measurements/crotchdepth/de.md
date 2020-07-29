@@ -1,7 +1,7 @@
 ---
-title: Seat depth
+title: Crotch depth
 ---
 
-The **Seat depth** measurement is the height your trouser waist rises from the surface you are sitting on.
+The **crotch depth** measurement is the height your waist rises from the surface you are sitting on.
 
-To measure your seat depth, sit straight on a flat chair or table, and measure from hip line down to the chair/table.
+To measure your crotch depth, sit straight on a flat chair or table, and measure from waist line down to the chair/table.
