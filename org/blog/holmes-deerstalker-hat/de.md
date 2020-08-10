@@ -1,9 +1,9 @@
 ---
 date: 23.02.2020
 title: "Neues Schnittmuster: Die Holmes Deerstalker-Mütze"
-linktitle: "The Holmes Deerstalker Hat"
+linktitle: "Der Holmes Deerstalker Hut"
 img: hat.jpg
-caption: "Screengrab from  Bernadette Banner's YouTube tutorial for this hat"
+caption: "Screengrab aus Bernadette Banners YouTube-Tutorial für diesen Hut"
 author: joost
 ---
 
@@ -11,8 +11,8 @@ Anfangs dieser Woche hat [AlfaLyr](/users/alfalyr) uns geschrieben, dass sie anh
 
 <YouTube id='H24VBFMZJF4' />
 
-Unfortunately, we were just rounding up [the rollout of v2.2 of FreeSewing](/blog/breanna-measurements-sizes-in-2-2/), and it was too late to squeeze in this extra pattern.
+Leider waren wir gerade dabei, [die Einführung von v2.2 von FreeSewing](/blog/breanna-measurements-sizes-in-2-2/) vorzubereiten, und es war zu spät, um dieses zusätzliche Muster hinzuzufügen.
 
-But obviously we love this hat, not to mention that it is the perfect accessory for our [Carlton](/designs/carlton/) and [Carlita](/designs/carlita/) patterns. So here it is, [FreeSewing 2.3](https://github.com/freesewing/freesewing/releases/tag/v2.2.0) with [the new Holmes pattern](/designs/holmes/).
+Aber natürlich lieben wir diesen Hut, ganz zu schweigen davon, dass er das perfekte Accessoire für unsere Muster [Carlton](/designs/carlton/) und [Carlita](/designs/carlita/) ist. Hier ist sie also, [die FreeSewing Version 2.3](https://github.com/freesewing/freesewing/releases/tag/v2.2.0) mit [dem neuen Holmes-Schnittmuster](/designs/holmes/).
 
 Viel Spaß!

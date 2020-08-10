@@ -40,7 +40,7 @@ Obwohl wir noch nicht da sind wo wir hin wollen, haben wir bei beidem Fortschrit
 
 Neben den erweiterten Musteroptionen zeigt der Exportmodus auch die weniger verwendeten Entwurfseinstellungen wie die Möglichkeit, Sprache, Einheiten, Details, Nahtzugabe und Inhalt Ihres Entwurfs zu ändern.
 
-![Advanced mode](recreate.png)
+![Erweiterter Modus](recreate.png)
 
 <Note> 
 
@@ -57,27 +57,27 @@ Sie können dies im Screenshot oben sehen.
 
 ### Masse: Helfen Ihnen die Fehler in Ihren gemessenen Massen zu entdecken
 
-We've added a few indicators to help you spot mistakes or problems in your measurements. Ihre Modelle zeigen nun eine grafische Darstellung Ihrer Körpermaße, mit der Sie Ausreißer erkennen können.
+Wir haben ein paar Indikatoren hinzugefügt, die Ihnen helfen sollen, Fehler oder Probleme beim Massnehmen. Ihre Modelle zeigen nun eine grafische Darstellung Ihrer Körpermaße, mit der Sie Ausreißer erkennen können.
 
-![A graphical representation of your model's measurements](model.png)
+![Eine grafische Darstellung der Maße Ihres Modells](model.png)
 
 Zusätzlich zeigen wir Ihnen neben dem Istwert eine Schätzung Ihrer verschiedenen Maße (bezogen auf Ihren Halsumfang). Wenn der Unterschied größer wird, werden wir Sie darauf aufmerksam machen.
 
-This is a difficult area for us to work in. We want to help you get the best results, and that includes helping you spot issues with your measurements. On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.
+Dies ist ein schwieriges Arbeitsfeld für uns. Wir möchten Ihnen helfen, die besten Ergebnisse zu erzielen, und dazu gehört auch, dass wir Ihnen helfen, Probleme beim Massnehmen zu erkennen. Auf der anderen Seite wollen wir keinesfalls annehmen, dass die Maße von einem Menschen *falsch* irgendwie falsch sein könnten.
 
-We are an extremely size-inclusive pattern outlet, and a disproportionate amount of our users are people who struggle to find clothes or patterns from other outlets. So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. But you know your body. You know which of your measurements deviate from the average. And us pointing out that they do is in a way only confirmation that you've been measuring correctly. On the other hand, if something jumps out where you are fairly average sized, you know to double-check those measurements.
+Wir sind eine extrem size-inklusive Plattform für Schnittmuster, und ein sehr hoher Anteil unserer Nutzer sind Menschen, die Schwierigkeiten haben, Kleidung oder Schnittmuster bei anderen Anbietern zu finden. Auf der einen Seite könnte es also so aussehen, als ob wir uns auf Fehler einstellen würden, indem wir Messungen mit einem Satz von mehr oder weniger *Standard*Massen vergleichen. Aber Sie kennen Ihren Körper. Sie wissen, welche Ihrer Körpermasse vom Durchschnitt abweichen. Und dass wir darauf hinweisen, dass sie es tun, ist in gewisser Weise nur eine Bestätigung dafür, dass Sie richtig gemessen haben. Wenn andererseits etwas hervorsticht, wo Sie ziemlich durchschnittliche Masse habem, wissen Sie, dass Sie diese Messung vermutlich überprüfen sollten.
 
-Last but not least, während wir versuchen, eine Anleitung für Messungen zu geben, um Fehler zu erkennen, schließen wir niemanden aus egal in welcher Größe oder Abmessung. No matter what you throw at us, we will  draft a pattern that works for you, or (our software will) die trying.
+Last but not least, während wir versuchen, eine Anleitung für Messungen zu geben, um Fehler zu erkennen, schließen wir niemanden aus egal in welcher Größe oder Abmessung. Egal, was Sie uns an den Kopf werfen, wir werden ein Muster entwerfen, das für Sie funktioniert, oder (unsere Software wird) bei dem Versuch sterben.
 
 ## Weitere Änderungen
 
  - Für unsere Vergleichsansichten haben wir unsere Größenbereiche erweitert. Die Größen für Herrenmode werden jetzt von Größe 32 bis 48 gesampelt, während für Damenmode von Größe 28 bis 46.
  - Wir haben einige Änderungen an den Standardeinstellungen im Simon-Muster vorgenommen, basierend auf unseren Tests mit Simone
  - Wir haben unsere Entwicklungsumgebung für Schnittmusterdesigner um die Möglichkeit erweitert, Modelle mit Brüsten als Preload einzustellen
- - We've implemented fixes and improvements in our Jaeger, Bruce, Benajamin, Simon, Carlton, and Carlita patterns
- - We've added a bunch of missing images in the documentation, and [started an effort to make sure all options have an image to illustrate their purpose](https://github.com/freesewing/freesewing.org/issues/190).
+ - Wir haben Korrekturen und Verbesserungen an unseren Scnittmustern Jaeger, Bruce, Benajamin, Simon, Carlton und Carlita vorgenommen
+ - Wir haben der Dokumentation eine Reihe fehlender Bilder hinzugefügt und [bemüht, sicherzustellen, dass alle Optionen mit einem Bild versehen sind, um ihren Verwendungszweck zu veranschaulichen](https://github.com/freesewing/freesewing.org/issues/190).
 
-More information is available [in the changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
+Weitere Informationen finden Sie [im Changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
 
-We hope you enjoy this release, and please [stop by our chat room](https://gitter.im/freesewing/chat) to share your thoughts, feedback, suggestions, or ideas. We'd love to hear from you 
+Wir hoffen, dass Ihnen diese Version gefällt, und laden Sie [zu einem Besuch in unserem Chatroom](https://gitter.im/freesewing/chat) ein, um uns Ihre Gedanken, Rückmeldungen, Vorschläge oder Ideen mitzuteilen. Wir freuen uns, von Ihnen zu hören 
 

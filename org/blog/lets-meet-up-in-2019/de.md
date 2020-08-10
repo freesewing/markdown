@@ -1,35 +1,35 @@
 ---
-title: "Let's meet up in 2019! And other end-of-year musings"
-linktitle: "Let's meet up in 2019"
+title: "Wir treffen uns im 2019! Und andere Jahresendbetrachtungen"
+linktitle: "Treffen wir uns im Jahr 2019"
 date: 2018-12-10
 img: group.jpg
-caption: "As an introvert I don't say this often, but I'd actually like to meet you guys."
+caption: "Als introvertierter Mensch sage ich das nicht oft, aber ich würde Sie eigentlich gerne kennenlernen."
 author: joost
 ---
 
-Because nobody likes a deadline on New Year's Eve, freesewing traditionally wraps up its year on December 10th. Which means that now is the time to reflect on the past, and look forward to what lies ahead.
+Da niemand einen Stichtag am Silvesterabend mag, schließt Freewing traditionell am 10. Dezember sein Jahr ab. Das bedeutet, dass es jetzt an der Zeit ist, über die Vergangenheit nachzudenken und sich auf das zu freuen, was vor uns liegt.
 
-## How do you feel about meeting up?
+## Was halten Sie von einem Treffen?
 
-I'll jump right in: In 2019 I would like to organize a get-together of freesewing supporters and contributors to discuss the future of the project, exchange ideas and experiences. The invitation is open to everyone, so feel free to share this post with others.
+Ich springe gleich rein: Im Jahr 2019 möchte ich ein Treffen mit den FreeSewing Unterstützern und Mitwirkenden organisieren, um die Zukunft des Projekts zu diskutieren, Ideen und Erfahrungen austauschen. Die Einladung steht allen offen, also zögern Sie nicht, diesen Beitrag mit anderen zu teilen.
 
-I can't give you any details yet. Not because I'm lazy (which I am, but that's a different story) but because I want to hear from you what you'd like to do/hear/talk about.
+Ich kann Ihnen noch keine Einzelheiten nennen. Nicht, weil ich faul bin (was ich bin, aber das ist eine andere Geschichte), sondern weil ich von Ihnen hören möchte, was Sie tun/hören/reden möchten über.
 
-So if this sounds like something you'd like to attend, please share your thoughts, ideas, and suggestions. I've created [a GitHub issue for the matter](https://github.com/freesewing/meetup/issues/1) so that's a good place to leave your input. But social media is a good place too.
+Wenn es sich also nach etwas anhört, an dem Sie gerne teilnehmen möchten, teilen Sie uns bitte Ihre Gedanken, Ideen und Vorschläge mit. Ich habe [ein GitHub-Issue für diese Angelegenheit erstellt.](https://github.com/freesewing/meetup/issues/1) Das ist also ein guter Ort, um Ihre Beiträge zu hinterlassen. Aber auch soziale Medien sind ein guter Ort.
 
-Input on what, you ask? Well, here's some questions that need answers:
+Input zu was, fragen Sie sich? Nun, hier sind einige Fragen, die beantwortet werden müssen:
 
- - When are we going to do this? Next week? August? The last blood moon before the reckoning?
- - Where are we going to do this? Your mom's basement? The parish hall of Oostrozebeke? London? Paris? Montreal? Mar-a-Lago?
- - Is this going to be a 2-hour thing, a Thursday afternoon, or a full weekend?
- - What are we going to talk about. What are we going to do? What would you like to see or hear?
+ - Wann werden wir das tun? Nächste Woche? August? Der letzte Blutmond vor der Abrechnung?
+ - Wo werden wir das tun? Im Keller deiner Mutter? Der Pfarrsaal von Oostrozebeke? London? Paris? Montreal? Mar-a-Lago?
+ - Wird dies eine 2-Stunden-Sache, ein Donnerstagnachmittag oder ein ganzes Wochenende sein?
+ - Worüber werden wir reden. Was wollen wir tun? Was möchten Sie sehen oder hören?
 
 
-Once again, nothing is set in stone, and I'm looking forward to hearing from you guys how we could make this memorable.
+Nochmals, nichts ist in Stein gemeiselt, und ich freue mich von Ihnen zu hören, wie wir dies zu einem erinnernswerten Event gestalten.
 
-So don't be shy, just share.
+Seien Sie also nicht schüchtern, sondern teilen Sie sich uns mit.
 
-## freesewing 2.0
+## FreeSewing 2.0
 
 We have done a lot of work since freesewing.org was launched (only) 16 months ago. We've added new patterns,  built a new website, and we've translated freesewing.org into 4 additional languages in order to remove knowledge of English as a barrier to using the site.
 

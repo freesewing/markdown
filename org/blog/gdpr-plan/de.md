@@ -1,77 +1,77 @@
 ---
 date: 2018-02-14
 title: "Die Datenschutzgrundverordnung der Europäischen Union: Unser Schlachtplan."
-linktitle: "Our battle plan for GDPR compliance"
+linktitle: "Unser Plan für die Einhaltung der DSGVO"
 img: img.jpg
-caption: "This image is probably the only thing in the post you can skim diagonally"
+caption: "Dieses Bild ist wahrscheinlich das Einzige in der Post, was Sie diagonal überfliegen können"
 author: joost
 ---
 
-This blog post is about the General Data Protection Regulation (GDPR) of the European Union (EU). While I cover the basics of GDPR, the main focus is on how it impacts freesewing.org, and what we plan to do to in the 100 days that remain before GDPR goes into force.
+Dieser Blogpost handelt von der Datenschutzgrundverordnung (DSGVO) der Europäischen Union (EU). Während ich auf die Grundlagen der DSGVO eingehe, konzentriert sich der Schwerpunkt auf deren Auswirkungen auf FreeSewing.org, und was wir in den 100 Tagen tun wollen, die bleiben, bevor die DSGVO in Kraft tritt.
 
-This is a bit of a long read, so here's a table of contents:
+Dies ist eine etwas lange Lektüre, deshalb hier ein Inhaltsverzeichnis:
 
-## Thoughts on the EU's GDPR
+## Gedanken zur DSGVO der EU
 
-I have a love/hate relationship with the European Union. I love what they do and what they stand for, I hate how they do it.
+Ich habe eine Hassliebe mit der Europäischen Union. Ich liebe, was sie tun und wofür sie stehen, ich hasse, wie sie es tun.
 
-![I totally get this dude](rage-quit.gif)
+![Ich verstehe diesen Typen total](rage-quit.gif)
 
-The GDPR is no different. It's an important piece of legislation that raises the bar for online privacy, which is great. But as I was reading up on the subject, I felt the urge to rage-quit because OMG bureaucrats.
+Mit der DSGVO ist es nicht anders. Es handelt sich um einen wichtiges Stück Gesetzgebung, das die Messlatte für den Online-Datenschutz höher legt, was großartig ist. Aber als ich über das Thema las, verspürte ich den Drang, aus Wut aufzuhören, diese ewigen Bürokraten.
 
-Allow me to explain.
+Erlauben Sie mir, das zu erklären.
 
-### Privacy needs protection
-For better or for worse (I believe for worse) the internet has settled into a modus operandi where you pay for *free stuff* with your personal data. Some people call it [people farming](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), and I think that's a great term.
+### Privatsphäre braucht Schutz
+Auf Gedeih und Verderb (ich glaube eher auf Verderben) hat sich das Internet in einen Modus Operandi eingependelt wobei Sie *freie Sachen* mit Ihren persönlichen Daten bezahlen. Einige Leute nennen es [People-Farming](https://ar.al/notes/we-didnt-lose-control-it-was-stolen/), und ich denke, das ist ein toller Begriff.
 
-The [frightful five](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) are vacuuming up ever more of our personal lives. Short of never going online, there seems to be precious little we can do about it.
+Die [furchterregenden Fünf](https://www.nytimes.com/2017/05/10/technology/techs-frightful-five-theyve-got-us.html) saugen immer mehr unseres persönlichen Lebens ab. Abgesehen davon, dass wir nie online gehen werden, können wir anscheinend nur sehr wenig dagegen tun.
 
-### Why the EU is the best
-This problem is too big to tackle by any of us. Who could possibly stand up to the combined power of the tech giants?
+### Warum die EU die beste ist
+Dieses Problem ist zu groß, um von einem von uns alleine angegangen zu werden. Wer könnte der geballten Macht der Technologieriesen die Stirn bieten?
 
-Well, how's this for a CV:
+Nun, wie ist das für einen Lebenslauf:
 
-  - Fined Facebook 110 million euro for misleading statements about their WhatsApp purchase
-  - Ordered Amazon to pay 250 million euro extra taxes in Luxembourg
-  - Fined Google 2.4 billion euro for abusing its dominant position in search
-  - Ordered Apple to pay 13 billion euro extra taxes in Ireland
+  - Habe Facebook zu 110 Millionen Euro Strafe wegen irreführender Aussagen über den Kauf von WhatsApp verurteilt
+  - Befahl Amazon die Nachzahlung von 250 Millionen Euro zusätzlicher Steuern in Luxemburg
+  - Verhängte gegen Google eine Geldbuße in Höhe von 2,4 Milliarden Euro wegen Missbrauchs seiner dominanten Position bei der Suche
+  - Habe Apple zur Zahlung von 13 Milliarden Euro zusätzlicher Steuern in Irland verurteilt
 
-![We're the EU, bitch](titanfall.gif)
+![Wir sind die EU, Bitch](titanfall.gif)
 
-When it comes to tech giants, the European Union is all stick/ no carrot.
+Wenn es um die Giganten der Technik geht, ist die Europäische Union nur eine Peitsche, kein Zuckerbrot.
 
-The General Data Protection Regulation enforces privacy policies that respect users' rights. It applies to all EU citizens, all the time, everywhere.
+Die Datenschutzgrundverordnung setzt Datenschutzrichtlinien durch, die die Rechte der Nutzer respektieren. Sie gilt für alle EU-Bürger, jederzeit und überall.
 
-Doesn't matter if you're a silicon valley juggernaut, respect the rights of the EU citizens or face the wrath of the eurocracy:
+Es spielt keine Rolle, ob Sie ein "Silicon Valley Juggernaut" sind, die Rechte der EU-Bürger respektieren oder sich dem Zorn der Eurokratie stellen:
 
-> Organizations in breach of GDPR can be fined up to 4% of annual global turnover or 20 million euro (whichever is greater)
+> Organisationen, die gegen GDPR verstoßen, können mit einer Geldstrafe von bis zu 4% des weltweiten Jahresumsatzes oder 20 Millionen Euro (je nachdem, welcher Betrag höher ist) belegt werden
 
-Four percent of global turnover is *a very big stick*.
+Vier Prozent des weltweiten Umsatzes ist *eine sehr lange Peitsche*.
 
-### Why the EU is the worst
+### Warum die EU die schlechteste ist
 
-![What I imagine a Article 29 Working Party looks like](complicated.gif)
+![So stelle ich mir eine Artikel-29-Datenschutzgruppe vor](complicated.gif)
 
-The EU being the EU, the regulation is a mixed bag of lofty goals and ideals, watered down by lobbying groups, and further complicated by the compromise required to get 28 member states on board.
+Da die EU die EU ist, ist die Verordnung ein Mischmasch aus hochgesteckten Zielen und Idealen, die durch Lobbygruppen verwässert und durch den Kompromiss, der erforderlich ist, um 28 Mitgliedstaaten ins Boot zu holen, noch komplizierter wird.
 
-The intentions are great, it's a great idea, but they are doing a terrible job at selling it --- as usual.
+Die Absichten sind großartig, es ist eine großartige Idee, aber sie machen einen schrecklichen Job, sie zu vermarkten --- wie immer.
 
-The practical implementation is in the hands of the so-called *Article 29 Working Party* which is currently keeping busy designing icons (I am [not making this up](https://www.google.be/search?q=standardised+icons+gdpr)) It will change its name to the *European Data Protection Board* come May 25th, because you wouldn't want to get too comfortable with all this jargon now, would you?
+Die praktische Umsetzung liegt in den Händen der so genannten *Artikel-29-Arbeitsgruppe* die sich derzeit mit der Gestaltung von Symbolen beschäftigt (das kann man sich [nicht ausdenken](https://www.google.be/search?q=standardised+icons+gdpr)) Sie wird ihren Namen in *Europäischen Datenschutzrat* am 25. Mai ändern weil Sie mit diesem ganzen Jargon jetzt nicht zu zufrieden sein werden, oder?
 
-## The GDPR in practice
+## Die DSGVO in der praktischen Umsetzung
 
-If you're looking for expert advice on GDPR compliance, this is not the place for you.
+Wenn Sie Expertenrat zur DSGVO-Konformität suchen, ist dies nicht der richtige Ort für Sie.
 
 
-But if you are curious about the GDPR and what it takes for a website like freesewing.org to be compliant, read on.
+Aber wenn Sie neugierig sind auf die DSGVO und was es für eine Website wie FreeSewing.org braucht um der Verordnung gerecht zu werden, lesen Sie weiter.
 
-> ##### Further reading
+> ##### Weiterführende Literatur
 > 
-> If you really want to know what GDPR is, the best thing you can do is [read the damn thing](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679). It ain't no rocket science.
+> Wenn Sie wirklich wissen wollen, was DSGVO ist, ist das Beste, was Sie tun können [Lesen Sie das verdammte Ding einfach durch](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679). Es ist keine Raketenwissenschaft.
 > 
-> If legislative texts make you run for the hills, the UKs ICO has [easily one of the best guides on GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
+> Wenn Gesetzestexte Sie dazu bringen, die Wände hoch zu gehen, hat die ICO des Vereinigten Königreichs [einfach einer der besten Leitfäden zu DSGVO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/).
 
-### Good to know
+### Gut zu wissen
 
 A few things you should know before we dive into GDPR:
 

@@ -1,28 +1,28 @@
 ---
 date: 2020-02-22
-title: "A look at what's new in FreeSewing 2.2, including Breanna, our bodice block for womenswear"
-linktitle: "A look at what's new in FreeSewing 2.2"
+title: "Ein Blick auf die Neuerungen in FreeSewing 2.2, darunter Breanna, unser Grundschnittblock für Damenoberbekleidung"
+linktitle: "Ein Blick auf die Neuerungen bei FreeSewing v2.2"
 img: drops.jpg
-caption: "This post describes what's new in version 2.2 of FreeSewing"
+caption: "Dieser Beitrag beschreibt, was in Version 2.2 von FreeSewing neu ist"
 author: joost
 ---
 
 
-Version 2.2 of FreeSewing is here, and it has a bunch of changes and improvements big and small. The [changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) lists all the changes, but here's what you need to know:
+Version 2.2 von FreeSewing ist da, und sie hat eine Menge großer und kleiner Änderungen und Verbesserungen. Das [Änderungsprotokoll](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) listet alle Änderungen auf, aber hier ist, was Sie wissen müssen:
 
- - [New pattern: Breanna is a bodice block for womenswear](#new-pattern-breanna-is-a-bodice-block-for-womenswear)
- - [New/Different measurements to better suit womenswear](#newdifferent-measurements-to-better-suit-womenswear)
- - [Generate patterns in *standard* sizes (no account required)](#generate-patterns-in-standard-sizes-no-account-required)
+ - [Neues Schnittmuster: Breanna ist ein Grundschnittblock für Damenoberbekleidung](#new-pattern-breanna-is-a-bodice-block-for-womenswear)
+ - [Neue/Verschiedene Maße zur besseren Anpassung an Damenbekleidung](#newdifferent-measurements-to-better-suit-womenswear)
+ - [Erzeugen von Schnittmustern in *Standard*-Größen (kein Konto erforderlich)](#generate-patterns-in-standard-sizes-no-account-required)
 
-Let's have a look at what it all means:
+Schauen wir uns an, was das im Einzelnen bedeutet:
 
-## New pattern: Breanna is a bodice block for womenswear
+## Neues Schnittmuster: Breanna ist ein Grundschnittblock für Damenoberbekleidung
 
 ![Breanna line drawing](breanna.svg)
 
-Meet [Breanna](/designs/breanna/), our bodice block for womenswear.
+Schauen Sie sich [Breanna](/designs/breanna/), unser Grundschnittblock für Damenoberbekleidung an.
 
-A block (or sloper) may not the most exciting pattern to look at, but it plays an important role as it is the basic form which other patterns are built on. For example, we have a similar block for menswear called [Brian](/designs/brian/) and our [Aaron](/designs/aaron/), [Bent](/designs/bent/), [Carlita](/designs/carlita/), [Carlton](/designs/carlton/), [Huey](/designs/huey/), [Hugo](/designs/hugo/), [Jaeger](/designs/jaeger/), [Simon](/designs/simon/), [Simone](/designs/simone/), [Sven](/designs/sven/), and [Wahid](/designs/wahid/) patterns can all can trace their lineage back to Brain somehow.
+Ein Grundschnittblock ist vielleicht nicht das aufregendste Schnittmuster, das es gibt, aber er spielt eine wichtige Rolle, da er die Grundform ist, auf der andere Schnittmuster aufgebaut sind. For example, we have a similar block for menswear called [Brian](/designs/brian/) and our [Aaron](/designs/aaron/), [Bent](/designs/bent/), [Carlita](/designs/carlita/), [Carlton](/designs/carlton/), [Huey](/designs/huey/), [Hugo](/designs/hugo/), [Jaeger](/designs/jaeger/), [Simon](/designs/simon/), [Simone](/designs/simone/), [Sven](/designs/sven/), and [Wahid](/designs/wahid/) patterns can all can trace their lineage back to Brain somehow.
 
 In other words, Breanna is an important building block for us to extend our womenswear collection. But that doesn't mean it's not good news for you too. If you've been sewing for a while, chances are drafting your own block/sloper has perpetually been on your to-do list. Well, good news, because here's your block ready to go.
 
@@ -31,7 +31,7 @@ Oh, and of course it's got all the bells and whistles you've come to expect from
 Breanna has has been a while in the making, and we'd love to get your feedback on it. Making a muslin from a block like this really isn't much work. So if you've got some time to spare to whip this one up and let us know how it went, that would be great.
 
 
-## New/Different measurements to better suit womenswear
+## Neue/Verschiedene Maße zur besseren Anpassung an Damenbekleidung
 
 Now that we're making our jouney into womenswear, we realized that the measurements we use on the site are somewhat skewed towards menswear. In addition, we had a lot of people stuggling with the shoulder slope measurement. So we decided to re-visit our measuremets, and we've made the following changes:
 
