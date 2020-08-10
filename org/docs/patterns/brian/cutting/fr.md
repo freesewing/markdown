@@ -1,7 +1,7 @@
 Pour le haut Brian, vous aurez besoin de :
 
  - 1 devant
- - 2 dos
+ - 1 Back
  - 2 manches
 
 <Note>
