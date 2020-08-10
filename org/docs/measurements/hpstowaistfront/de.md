@@ -1,5 +1,5 @@
 ---
-title: HPS to hips front
+title: HPS to waist front
 ---
 
 <Note>
@@ -11,8 +11,7 @@ Refer to [the hps documentation](/docs/measurements/hps/) for information on how
 
 </Note>
 
-The **high point shoulder (HPS) to hips front** measurement runs from your HPS down to your hipline across the front of your body.
+The **high point shoulder (HPS) to waist front** measurement runs from your HPS down to your waist line across the front of your body.
 
-Tp measure your HPS to hips front, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your hipline, which is the line between the top of your hip bones, across the front of your body.
+To measure your HPS to waist front, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your waist line.
 
-The point of this measurement is to measure the length of your torso, and specifically how much it differs from the back (where there's no breasts to go around).  

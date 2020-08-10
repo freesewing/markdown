@@ -8,4 +8,4 @@ patterns:
 author: MyxterHyde
 ---
 
-JV is a prolific maker and a friend of the site. True to form, he made this stunning Florence face mask.
+JV is a prolific maker and a friend of the site. True to form, they made this stunning Florence face mask.

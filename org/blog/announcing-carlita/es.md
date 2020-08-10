@@ -1,31 +1,31 @@
 ---
 date: 2018-01-26
 title: "Announcing Carlita, the womenswear version of our Carlton coat."
-linktitle: "Announcing the Carlita Coat"
+linktitle: "Anunciando el abrigo de Carlita"
 img: sherlock.jpg
-caption: "Picture you and him, in matching coats."
+caption: "Imagínate a usted y a él, en los abrigos iguales."
 author: joost
 ---
 
-This one's for the ladies --- and I'm not (just) talking about that picture of heart-throb Benedict Cumberbatch at the top of this post.
+Esta es para las damas --- y no estoy (solamente) hablando de la imagen del ídolo Benedict Cumberbatch en la parte superior de este post.
 
-Instead, I'm talking about the release of our latest pattern: the [Carlita Coat](/patterns/carlita) which is out in beta as of today.
+En realidad, estoy hablando del lanzamiento de nuestro último patrón: el [abrigo de Carlita](/patterns/carlita) que está en beta a partir de hoy.
 
-Carlita is --- you guessed it --- the womenswear version of our Carlton coat, which recreates the iconic Sherlock Holmes coat worn by BC on the BBC series.
+Carlita es --- usted lo adivinó --- la versión de ropa de mujeres de nuestro abrigo Carlton, el cual recrea el abrigo icónico de Sherlock Holmes usado por BC en la serie BBC.
 
-## How did we do it?
+## ¿Cómo lo hicimos?
 
-For details on how this project came to be, I refer you to [the Carlton announcement post](/blog/announcing-carlton-and-bent/). Here, I'd like to focus on the specifics of how we turned this menswear pattern into a coat for ladies.
+Para más detalles sobre cómo llegó este proyecto, te remito a [la publicación del anuncio de Carlton](/blog/announcing-carlton-and-bent/). Aquí, me gustaría centrarme en los detalles de cómo convertimos este patrón de menswear en un abrigo para damas.
 
-We wanted to stay as close to the original as possible, so all we did was make changes to address one challenge: fitting the breasts.
+Queriamos mantener el patrón lo mas cerca possible al original, así que todo lo que hicimos fue hacer cambios para abordar un desafío: ajustar los senos.
 
 ### Princess, meet your seam
 
-We drew an extra princess seam in the front panel of the coat, through which we added shaping for the bust.
+Dibujamos una costura princesa adicional en el panel frontal del abrigo, a través del cual añadimos forma para el busto.
 
-To be able to do that accurately, Carlita requires three extra measurements in addition to the measurements required by Carlton. They are:
+Para poder hacerlo con precisión, Carlita requiere tres mediciones adicionales además de las medidas requeridas por Carlton. Estas son:
 
- - The [high bust](/docs/measurements/#highBust)
+ - El [alto polvo](/docs/measurements/#highBust)
  - The [bust span](/docs/measurements/#bustSpan)
  - The [high point shoulder to bust](/docs/measurements/#highPointShoulderToBust)
 

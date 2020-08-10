@@ -1,7 +1,7 @@
 ---
-title: Natural waist
+title: Waist circumference
 ---
 
-The **natural waist** measurement is the circumference of your waist below your ribcage.
+The **waist circumference** measurement is the circumference of your waist below your ribcage.
 
-To measure your **natural waist**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.
+To measure your **waist circumference**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.

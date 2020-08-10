@@ -1,9 +1,9 @@
 ---
 date: 2019-12-10
-title: 4109 reasons to be happy about 2019
-linktitle: "2019 yearly report"
+title: 4109 Gründe, sich über 2019 zu freuen
+linktitle: "Jahresbericht 2019"
 img: cover.jpg
-caption: "Close-up of a dandelion against a pink background"
+caption: "Nahaufnahme eines Löwenzahns vor rosa Hintergrund"
 author: joost
 ---
 
@@ -13,36 +13,36 @@ Wahnsinn! Was für ein Jahr für FreeSewing. Im August haben wir die Version 2.0
 
 So cool wie unser neuer Technologie-Stack ist, ist es nicht die wichtigste Arbeit, die wir im letzten Jahr geleistet haben. Ja, es ist ist recht ordentlich und ja, es ist nur wegen der Arbeit am 2.0 möglich. Aber es ist die Arbeit an sich, die am wichtigsten ist. Der Hauptgrund für das Umschreiben von 2.0 war es, eine vertikale Skalierung des Projekts zu ermöglichen. Oder, um es, es ganz offen auszudrücken: Um es Freesewing zu erlauben sich dorthin zu entwickeln, wo ich es nicht alleine hintragen konnte.
 
-In gewisser Weise hat sich FreeSewing zu einem (Software-)Projekt entwickelt. We have several people making regular contributions, [an active chat room](https://gitter.im/freesewing/chat), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+In gewisser Weise hat sich FreeSewing zu einem (Software-)Projekt entwickelt. Wir haben mehrere Personen regelmäßige Beiträge zu leisten, [ein aktiver Chat-Raum](https://gitter.im/freesewing/chat), [eine spezielle Website für Entwickler- und Übersetzerdokumentation](https://freesewing.dev), eine Fülle von [Paketen, die wir auf NPM](https://www.npmjs.com/search?q=keywords:freesewing) veröffentlichen, Wir haben Korrekturen und Verbesserungen an vorgelagerter Software beigetragen, auf die wir verwemdem, und wir haben auch andere Personen und Teams, die von den Paketen abhängen, die wir publizieren.
 
 Wir haben (derzeit) [23 verfügbare Schnittmuster](/patterns/) und wir veröffentlichen 62 Pakete auf NPM (die Node.js Paket-Registry). Seit wir Version 2.0 veröffentlicht haben, schreiben sich pro Monat durchschnittlich 450 Leute ein und unsere Gesamtzahl zeigt aktuell über 15'000 an.
 
 ## Übersetzen war noch nie einfacher
 
-Seit v2 haben wir für [unsere Übersetzungen](https://freesewing.dev/guides/translator/) auf [Crowdin](https://crowdin.com) gewechselt. Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
+Seit v2 haben wir für [unsere Übersetzungen](https://freesewing.dev/guides/translator/) auf [Crowdin](https://crowdin.com) gewechselt. Übersetzung ist wohl der beste Weg, um den Zugang zu unserer Plattform zu demokratisieren, und ich möchte einen Applaus aussprechen für alle Menschen, die bei diesen Bemühungen geholfen haben und weiterhin helfen.
 
-Vielleicht ist das ein guter Zeitpunkt, um euch darauf hinzuweisen, dass auch ihr mithelfen könnt. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+Vielleicht ist das ein guter Zeitpunkt, um Sie darauf hinzuweisen, dass auch Sie bei uns auch mithelfen können. Unsere [Dokumentation für Übersetzer](https://freesewing.dev/guides/translator/) ist eine guter Einstiegspunkt, um anzufangen, oder schauen Sie in [unserem der Übersetzung gewidmeten Chat-Raum](https://gitter.im/freesewing/translation) vorbei.
 
 ## Was wir für das nächste Jahr vor haben
 
-Our next year plans roughly fall apart into two categories: improving our platform, and adding more patterns.
+Unsere Pläne für das nächste Jahr lassen sich grob in zwei Kategorien unterteilen: die Verbesserung unserer Plattform und das Hinzufügen weiterer Schnittmuster.
 
-As the project grows, so does the amount of work required to keep everything running smoothly. We still have more performance improvements to do, as well as auxiliary tasks such as writing more tests so we can go ahead and change things with confidence, rather than risk that rolling out a new feature causes bugs down the line.
+Mit dem Wachstum des Projekts wächst auch der Arbeitsaufwand, der erforderlich ist, um alles reibungslos am Laufen zu halten. Wir müssen noch weitere Performance-Verbesserungen vornehmen und Hilfsaufgaben erledigen, wie z. B. mehr Tests schreiben, damit wir mit Zuversicht die Dinge ändern können, anstatt zu riskieren, dass die Einführung einer neuen Funktion im weiteren Verlauf Fehler verursacht.
 
-We also know there is a lot of room for improvement of the user experience (UX), as well as design and user interface (UI). We've been doing the best we can, but it's not really our field of expertise, and we're hoping to find more contributors who can help us in this regard.
+Wir wissen auch, dass es viel Raum für die Verbesserung der Benutzererfahrung (UX) sowie des Designs und der Benutzeroberfläche (UI) gibt. Wir haben unser Bestes getan, aber es ist nicht wirklich unser Fachgebiet, und wir hoffen, dass wir noch mehr Mitwirkende finden, die uns in dieser Hinsicht helfen können.
 
-## v2.2 will include a ladies bodice block
+## v2.2 wird einen Damen-Grimdschnittblock enthalten
 
-But hey, you want more patterns, right? So rest assured that that's high on our todo list. We are going to apply some affirmative action towards the ladies who have so far been under-served. Not only by making existing patterns available to them (as we did recently with Simone, a ladies version of our Simon pattern) but also by developing a dedicated ladies block to develop patterns on.
+Aber hey, Sie wollen mehr Schnittmuster, richtig? Seien Sie also versichert, dass das ganz oben auf unserer Todo-Liste steht. Wir werden im Bereichdamenschnittmuster, der bis anhin unterrepräsentiert war, extra Aufmerksamkeit und Ressourcen widmen. Nicht nur, indem wir ihnen bestehende Muster zur Verfügung stellen (wie wir es kürzlich mit Simone, einer Damenversion unseres Simon-Musters, getan haben), sondern auch durch die Entwicklung eines speziellen Damengrundschnittblocks, auf dessen Grundlage weitere Schnittmuster entwickelt werden können.
 
-We have earmarked this as a must-have for FreeSewing v2.2, which we hope to be able to release sometime in January.
+Wir haben dies als ein Muss für FreeSewing v2.2 vorgesehen, von dem wir hoffen, dass es die irgendwann im Januar veröffentlicht werden soll.
 
-We're also looking at ways to get more designers on board with FreeSewing. One plan on the drawing board is to offer pair-programming sessions to designers where they walk us through their vision, and we implement their design in FreeSewing. We're even thinking of live-streaming these sessions so anybody who is interested can drop by and follow along.
+Wir suchen auch nach Möglichkeiten, mehr Designer für FreeSewing ins Boot zu holen. Ein Plan auf dem Zeichenbrett ist es, Designern Paar-Programmiersitzungen anzubieten wo Sie uns durch ihre Vision führen, und wir setzen ihren Entwurf in FreeSewing um. Wir denken sogar darüber nach, diese Sitzungen per Live-Streaming zu übertragen, so dass jede interessierte Person vorbeischauen und es mitverfolgen kann.
 
-## 'Tis the season for giving
+## Es ist die Zeit des Schenkens
 
-Thanks to our awesome patrons, revenue was up this year too. As you may or may not know, FreeSewing donates 100% of its revenue to Médecins Sans Frontières/Doctors Without Borders. So this morning, I had the great honour to write a 4109.38€ cheque to [MSF](https://www.msf.org/).
+Dank unserer großartigen Gönner sind die Einnahmen auch in diesem Jahr gestiegen. Wie Sie vielleicht wissen oder auch nicht, FreeSewing spendet 100% seiner Einnahmen an Ärzte ohne Grenzen/Médecins Sans Frontières. Daher hatte ich heute Morgen die große Ehre, einen Scheck über 4109,38€ auf [MSF](https://www.msf.org/) auszustellen.
 
-That felt **real good** so thanks to [all our patrons](/patrons) for their continued support. If you'd like to join this awesome group of people, [you can do so here](/patrons/join).
+Das fühlte sich **wirklich gut** an, also vielen Dank an [alle unsere Gönner](/patrons) für ihre anhaltende Unterstützung. Wenn Sie dieser großartigen Gruppe von Menschen beitreten möchten, [können Sie dies hier tun](/patrons/join).
 
 
