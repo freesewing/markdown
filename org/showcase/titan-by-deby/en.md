@@ -2,11 +2,10 @@
 date: 2020-07-25
 title: Titan by Deby
 img: showcase.jpg
-caption: These Paco pants were the initial test for this pattern
+caption: A Titan block turned pants by Deby
 patterns: [titan]
-author: joost
+author: Deby
 ---
 
-Here's the very first Paco pair I've made. These ones have side pockets, no back pockets, and an elasticated hem.
-
-In other words, these are made with all default options.
+Deby tried out our Titan trouser block and liked the fit so much that she promptly turned it into proper trousers.
+She added a waistband and pockets to the basic block.
