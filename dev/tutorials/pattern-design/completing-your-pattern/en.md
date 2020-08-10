@@ -86,7 +86,7 @@ Any attributes you set will be added to the SVG output.
 
 </Tip>
 
-Since we're adding snippets, let's throw a logo on there to:
+Since we're adding snippets, let's throw a logo on there too:
 
 ```js
 points.logo = new Point(0, 0);
