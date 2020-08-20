@@ -1,5 +1,5 @@
 ---
-date: 2020-06-30
+date: 2020-08-10
 title: Another Wahid waistcoat by Adam
 img: showcase.jpg
 caption: So. Much. Style.
