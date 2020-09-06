@@ -110,7 +110,7 @@ An array with the names of the measurements required to draft this pattern.
 
 ###### Don't just make up names
 
-See [freesewing models](https://github.com/freesewing/models) 
+See [freesewing models](https://freesewing.dev/reference/packages/models) 
 for a list of measurement names already used in freesewing patterns.
 It is a [best practice](/do/dont-re-invent-the-wheel) to stick to these names.
 
