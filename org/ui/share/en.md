@@ -2,7 +2,26 @@
 title: Sharing is caring
 ---
 
+import Hashtag from '../../../../src/components/hashtag'
+
 Let the world know about FreeSewing.
+
+## Hashtags
+
+On social media, use the pattern-specific tags when posting about our pattern.
+
+For example, for Simon use:
+<Hashtag tag='FreeSewingSimon' title='Simon Hashtag' />
+
+
+For questions, feedback, or interacting with the FreeSewing community in general, use:
+<Hashtag tag='AskFreeSewing' title='Ask FreeSewing Hashtag' />
+
+<Tip>
+
+Make sure to Capitalize the words, which greatly helps people with disabilities who use screen readers.
+
+</Tip>
 
 ## Sharing links
 
