@@ -7,14 +7,6 @@ caption: "Note: This post is a long read. Although nowhere near as long as this 
 author: joost
 ---
 
-<Note>
-
-##### We're getting organized — Join us!
-
-[Click here for more info on the contributor call we're organizing this weekend](https://github.com/freesewing/freesewing/issues/515) (first weekend of September 2020)
-
-</Note>
-
 Hi everyone, Joost here. I am writing this post to address some issues that have been worrying me lately. Specifically, these *problems*:
 
  - Problem 1: [There is too much work](#problem-1-there-is-too-much-work)
