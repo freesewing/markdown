@@ -2,20 +2,6 @@
 title: Frequently asked questions
 ---
 
-
-- [About FreeSewing](#about-freesewing)
-  - [Can I use FreeSewing patterns for commercial purposes?](#can-i-use-freesewing-patterns-for-commercial-purposes)
-  - [What's your end game?](#whats-your-end-game)
-  - [Who pays for all of this?](#who-pays-for-all-of-this)
-- [Accounts & Privacy](#accounts--privacy)
-  - [How can I sign up? I never received the E-mail to activate my account!](#how-can-i-sign-up-i-never-received-the-e-mail-to-activate-my-account)
-  - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
-  - [Why do I need to create an account to download a made-to-measure pattern?](#why-do-i-need-to-create-an-account-to-download-a-made-to-measure-pattern)
-- [Sewing patterns](#sewing-patterns)
-  - [I know my size, but your pattern doesn't fit me](#i-know-my-size-but-your-pattern-doesnt-fit-me)
-  - [Why don't you use double notches to mark the back of the pattern?](#why-dont-you-use-double-notches-to-mark-the-back-of-the-pattern)
-
-
 ## About FreeSewing
 
 ### Can I use FreeSewing patterns for commercial purposes?
