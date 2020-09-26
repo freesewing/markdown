@@ -1,4 +1,3 @@
-# Directions
 
 ## Step 1: Close the shoulder seams
 
