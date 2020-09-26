@@ -13,9 +13,9 @@ On social media, use the pattern-specific tags when posting about our pattern.
 For example, for Simon use: <Hashtag tag='FreeSewingSimon' title='Simon Hashtag' />
 
 
-For questions or help, use: <Hashtag tag='AskFreeSewing' title='Ask FreeSewing Hashtag' />
+Para preguntas o ayuda, usa: <Hashtag tag='AskFreeSewing' title='Ask FreeSewing Hashtag' />
 
-To show your support, or interact with the FreeSewing community in general, use: <Hashtag tag='WeAreFreeSewing' title='We Are FreeSewing Hashtag' />
+Para mostrar tu apoyo, o interactuar con la comunidad de FreeSewing en general, usa: <Hashtag tag='WeAreFreeSewing' title='We Are FreeSewing Hashtag' />
 
 <Tip>
 
@@ -25,16 +25,16 @@ Make sure to Capitalize the words, which greatly helps people with disabilities 
 
 ## Sharing links
 
-You can link to any specific page, or to the homepage: https://freesewing.org/
+Puedes enlazar a cualquier página específica, o a la página de inicio: https://freesewing.org/
 
 ## Images
 
-<img src="/share/en.wide.png" alt="We Are FreeSewing" style="max-height: 25vh;" class="shadow" />
+<img src="/share/en.wide.png" alt="Somos FreeSewing" style="max-height: 25vh;" class="shadow" />
 
 
 For Instagram, you can use this square image:
 
-<img src="/share/en.square.png" alt="We Are FreeSewing" style="max-height: 25vh;" class="shadow" />
+<img src="/share/en.square.png" alt="Somos FreeSewing" style="max-height: 25vh;" class="shadow" />
 
 ## Languages
 
