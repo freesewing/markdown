@@ -1,9 +1,9 @@
 - - -
 - - -
 
-##### Use these hashtags to connect with the community
+##### Usa estos hashtags para conectar con la comunidad
 
- - **`#AskFreeSewing`** to get help and support from the community
- - **`#WeAreFreeSewing`** to show that you too are (part of) FreeSewing
- - Pattern hashtags to tag our patterns (eg: **`#FreeSewingSimon`** for Simon).
+ - **`#AskFreeSewing`** para obtener ayuda y apoyo de la comunidad
+ - **`#WeAreFreeSewing`** para mostrar que también eres (parte de) FreeSewing
+ - Patrón de hashhtags para etiquetar nuestros patrones (por ejemplo: **`#FreeSewingSimon`** para Simon).
 
