@@ -30,7 +30,7 @@ Since it uses the chest circumference it will simply draft a T-shirt to fit your
 We've also added an option to draft this to your high bust, which would give you a more fitted T-shirt 
 with ease & stretch having to accomodate for your breasts.
 
-![A woman wearing a striped T-shirt stands in front of a weathered fence. This T-shirt is more fitted through the chest.](teagan3.jpg)
+![A woman wearing a striped T-shirt stands in front of a weathered fence. This T-shirt is more fitted through the chest.](Teagan3.jpg)
 
 ## Community Updates
 
