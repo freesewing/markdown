@@ -1,7 +1,6 @@
 ---
 date: 2020-08-30
 title: Please help grow FreeSewing beyond what I can do on my own
-linktitle: "Anunciando el abrigo de Carlita"
 img: book.jpg
 caption: "Note: This post is a long read. Although nowhere near as long as this book"
 author: joost
