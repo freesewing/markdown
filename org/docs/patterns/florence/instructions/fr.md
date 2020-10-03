@@ -1,10 +1,9 @@
 
 ### Étape 1 : Coudre la couture centrale
 
-Placer les deux pièces du tissu destiné à l'extérieur du masque endroit contre endroit, et les coudre ensemble sur le côté courbe, qui sera au milieu de notre masque *endroit contre endroit*.
+Placer les deux pièces du tissu destiné à l'extérieur du masque endroit contre endroit, et les coudre ensemble sur le côté courbe, qui sera au milieu de notre masque *endroit contre endroit/0>.</p>
 
-![Coudre la couture centrale](pas1.svg)
-<Note>Répétez cette étape pour le tissu destiné à l'intérieur du masque (doublure).</Note>
+![Coudre la couture centrale](pas1.svg)<Note>Répétez cette étape pour le tissu destiné à l'intérieur du masque (doublure).</Note>
 
 ### Étape 2 (facultative) : Repasser la couture centrale
 
