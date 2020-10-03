@@ -1,5 +1,5 @@
 ---
-title: Natuurlijke taille tot heup
+title: Taille tot heupen
 ---
 
-The **natural waist to hip** is measured from your natural waist down to the top if your hip bone (where your trousers sit). Neem deze maat aan de zijkant van je lichaam.
+De **taille tot heup** wordt gemeten van je taille tot de top van je heupbeenderen (waar je broekriem zit). Neem deze maat aan de zijkant van je lichaam.
