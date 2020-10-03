@@ -40,11 +40,7 @@ Find us on social as @freesewing_org on [Instagram](https://www.instagram.com/fr
 a new [YouTube channel](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for that. It has a whole 
 series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), as well as this amazing preview. 
 
-[![A YouTube video showing a close-up of a garment on a sewing machine.](teagan4.png)]({https://youtu.be/3UGJSNxNe8I} "Teagan T-Shirt Preview")
-
-<!--- If this breaks, what I was trying to do is make a picture be a link pointing to the YouTube video, because
-apparently we can't just embed one. :unamused: Also, change where this is pointing if we move the link to the 
-FreeSewing YouTube channel. --->
+<YouTube id='3UGJSNxNe8I' />
 
 If all of this sounds awesome, and you want to get more involved with FreeSewing, you can check out 
 our repositories and source code on [Github](https://github.com/freesewing/) or connect with other 
