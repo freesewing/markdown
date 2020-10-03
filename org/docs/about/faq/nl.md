@@ -2,82 +2,95 @@
 title: Vaak gestelde vragen
 ---
 
-## How can I sign up? I never received the E-mail to activate my account!
+## Over FreeSewing
 
-If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+### Mag ik FreeSewing-patronen gebruiken voor commerciële doeleinden?
 
-Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so we can help you activate your account.
+Ja, dat mag. Open Source is een developmentmodel, geen bedrijfsmodel.
+
+Als ons werk jou kan helpen om de boterhammen te betalen, ga dan zeker je gang.
+
+### Wat is uiteindelijk je bedoeling?
+
+We willen dat FreeSewing.org het Wikipedia van de naaipatronen wordt.
+
+Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. We willen liever makers ondersteunen door de kennis van de naaigemeenschap te bundelen in patronen en documentatie, en die informatie wereldwijd beschikbaar te maken.
+
+### Wie betaalt dit allemaal?
+
+Het FreeSewing-project wordt financieel ondersteund door [onze Patrons](/patrons).
+
+Patrons zijn gewone gebruikers zoals jij, die zich engageren om een kleine maandelijkse bijdrage te betalen om FreeSewing draaiende te houden.
 
 <Note>
 
-##### Users in France are more likely to run into this problem
+#### Word ook een FreeSewing-Patron
+Je kan al een Patron zijn vanaf 2 euro per maand. Dus waarom word jij ook geen Patron?
 
-In in France, several E-mail provider share the same filtering:
+</Note>
+
+## Accounts & Privacy
+
+### Hoe kan ik een account maken? Ik heb nooit een e-mail ontvangen om mijn account te activeren!
+
+Als je geen e-mail hebt ontvangen, kijk dan in je spam- of junkmap. Als je het daar ook niet terugvindt, is de kans groot dat je e-mailprovider het bericht geblokkeerd heeft.
+
+Probeer het ofwel met een ander e-mailadres, of [geef ons een seintje](https://gitter.im/freesewing/help) zodat we je kunnen helpen je account te activeren.
+
+<Note>
+
+#### Gebruikers in Frankrijk stoten vaker op dit probleem.
+
+In Frankrijk delen meerdere e-mailproviders dezelfde filterinstellingen:
 
  - free.fr
  - laposte.net
- - organge.fr
+ - orange.fr
  - sfr.fr
 
-They are all known to cause issues with deliveries.
+Alle bovenstaande providers hebben problemen met de aflevering van mail.
 
 </Note>
 
-## Why do I need to create an account to download a made-to-measure pattern?
+### Waarom heb ik een account nodig om een patroon op maat te downloaden?
 
-For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
+Om praktische redenen. Om naaipatronen op maat te maken, hebben we je maten nodig.
 
-Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Het zou vervelend zijn om je die elke keer opnieuw te vragen, dus willen we die informatie opslaan. Daar dient je account voor.
 
-Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
+Als we geen manier hadden om je maten op te slaan, zou het hopeloos onpraktisch zijn om patronen op maat te genereren.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Vraag je ernaar omdat je ons niet vertrouwt?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+Deze vraag wijst vaak op wantrouwen bij de aanmaak van een account. Daarom zijn de volgende vragen en antwoorden misschien ook relevant:
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
-
-</Note>
-
-## I know my size, but your pattern doesn't fit me
-
-The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
-
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
-
-Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
-
-## What are you doing with my personal data?
-
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
-
-## Who pays for all of this?
-
-The FreeSewing project is supported financially by [our patrons](/patrons).
-
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
-
-<Note>
-
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+ - [Wat doen jullie met mijn persoonlijke gegevens?](#wat-doen-jullie-met-mijn-persoonlijke-gegevens)
+ - [Wie betaalt dit allemaal?](#wie-betaalt-dit-allemaal)
+ - [Wat is jullie uiteindelijke bedoeling?](#wat-is-jullie-uiteindelijke-bedoeling)
 
 </Note>
 
-## Can I use FreeSewing patterns for commercial purposes?
+### Wat doen jullie met mijn persoonlijke gegevens?
 
-Yes you can. Open Source is a development model, not a business model.
+Hoe we met je persoonlijke gegevens omgaan, is gedocumenteerd in [ons privacybeleid](/docs/about/privacy/).
 
-If our work can help you put food on the table, by all means go ahead.
 
-## What's your end game?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+## Naaipatronen
 
-Wij zijn niet geïnteresseerd in mode, trends of het hippe nieuwe patroon van het seizoen. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available. 
+### Ik ken mijn maten, maar jullie patroon past niet
+
+De standaardmaten die we aanbieden dienen om je een manier te geven om ons platform te ontdekken zonder een account te moeten aanmaken. We bevelen niet aan ze zo te gaan gebruiken.
+
+Patronen op maat genereren is echt wel *ons ding*. Als je per sé een patroon in een standaardmaat wil is FreeSewing niet voor jou.
+
+Gelukkig houdt Fiona een [lijst van onafhankelijke patroonontwerpers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) bij, dus heb je genoeg alternatieven.
+
+### Waarom gebruiken jullie geen dubbel merkteken om de achterkant van het patroon aan te duiden?
+
+Een dubbel merkteken is een veel voorkomende manier om de achterkant van een patroon aan te duiden. Gebruikelijk, maar niet universeel.
+
+Verschillende delen van de wereld hebben verschillende gewoontes of tradities voor het aanduiden van patronen. Om verwarring te voorkomen gebruiken we een verschillend soort merkteken om de achterkant aan te duiden, zoals uitgelegd wordt in onze [legende van patroonmarkeringen](/docs/about/patterns/notation/).
+
