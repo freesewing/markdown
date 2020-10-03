@@ -32,12 +32,7 @@ We've also added an option to draft this to your high bust, which would give you
 
 If you're thinking about sewing Teagan, but you're new to sewing or working with knits, never fear! FreeSewing has more support than ever. Chat with us on [Discord](https://chat.freesewing.org/), in a [Facebook Group](https://www.facebook.com/groups/627769821272714), or on [Reddit](https://www.reddit.com/r/freesewing/). Find us on social as @freesewing_org on [Instagram](https://www.instagram.com/freesewing_org/) and [Twitter](https://twitter.com/freesewing_org). If you're looking for tutorials, there's a new [YouTube channel](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for that. It has a whole series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), as well as this amazing preview.
 
-[![A YouTube video showing a close-up of a garment on a sewing machine.](teagan4.png)]({https://youtu.be/3UGJSNxNe8I} "Teagan T-Shirt Preview")
-
-
-<!--- If this breaks, what I was trying to do is make a picture be a link pointing to the YouTube video, because
-apparently we can't just embed one. :unamused: Also, change where this is pointing if we move the link to the 
-FreeSewing YouTube channel. --->
+<YouTube id='3UGJSNxNe8I' />
 
 If all of this sounds awesome, and you want to get more involved with FreeSewing, you can check out our repositories and source code on [Github](https://github.com/freesewing/) or connect with other contributors via [Zoom](https://meet.freesewing.org./). You can find announcements about upcoming contributor calls on Discord, in the announcements channel.
 
