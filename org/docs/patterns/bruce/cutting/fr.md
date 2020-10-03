@@ -2,7 +2,7 @@ Bruce se compose d'un dos, et de deux côtés, inserts et devants.
 
  - **Tissu principal**
    - Couper **1 dos** au pli
-   - Couper **2 devants** au pli
+   - Cut **2 fronts**
    - Couper **2 inserts**
    - Couper **2 côtés**
 
