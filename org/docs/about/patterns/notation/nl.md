@@ -2,131 +2,125 @@
 title: Notation legend
 ---
 
-## Seams
+## Naden
 
-Seams (the lines on which you sew) are indicated by a solid line.
-The color of the line indicates the fabric type of the pattern piece:
+Naden (de lijnen waarlangs je stikt) worden aangegeven door een ononderbroken lijn. De kleur van de lijn geeft het type stof aan waaruit je het patroondeel knipt:
 
-<Legend part="fabricLines" caption="Seamlines for different fabric types" />
+<Legend part="fabricLines" caption="Seamlines for different fabric types" >
 
-## Seam allowance
+## Naadtoeslag
 
-Seam allowance is indicated by a dashed line, that has the same width and color
-as the seam they belong to:
+Naadwaarde wordt aangegeven door een stippellijn, met dezelfde dikte en kleur als de naad die erbij hoort:
 
-<Legend part="saLines" caption="Seam allowance for different fabric types" />
+<Legend part="saLines" caption="Seam allowance for different fabric types" >
 
-Note that the corners of the seam allowance are trimmed, and not extended:
+Merk op dat de hoeken van de naadwaarde bijgesneden zijn, en niet doorlopen:
 
-<Legend part="sa" caption="A trimmer seam allowance corner" />
+<Legend part="sa" caption="A trimmer seam allowance corner" >
 
-## Other lines
+## Andere lijnen
 
-Some patterns may have other lines on them, there are 4 additional styles:
+Sommige patronen kunnen andere lijnen hebben, er zijn 4 andere mogelijke soorten:
 
- - Note
- - Mark
+ - Let op
+ - Markeer
  - Contrast
  - Help
 
-They might be used by patterns designers to add additional info, depending on the context.
+Deze kunnen gebruikt worden door patroonontwerpers om extra info toe te voegen, afhankelijk van de context.
 
-<Legend part="otherLines" caption="Other line styles" />
+<Legend part="otherLines" caption="Other line styles" >
 
-## Grainline and cut-on-fold indicator
+## Draadrichting en aanduiding van de stofvouw
 
-Grainlines — a line that indicates the *fabric grain* — look like this: 
+Draadrichting - een lijn die de *draadrichting van de stof* aangeeft - ziet er zo uit:
 
-<Legend part="grainline" caption="A grainline indicator" />
+<Legend part="grainline" caption="A grainline indicator" >
 
-Cut-on-fold indicators look similar, but point towards the line on which the fabric should be folded:
+Markeringen voor de stofvouw zien er gelijkaardig uit, maar wijzen naar de lijn waarlangs de stof gevouwen moet worden:
 
-<Legend part="cutonfold" caption="A cut-on-fold indicator" />
+<Legend part="cutonfold" caption="A cut-on-fold indicator" >
 
-## Notches
+## Merktekens
 
-There are two types of notches. The default notch is a blue dot in a blue circle.
+Er zijn twee soorten merktekens. Het standaard merkteken is een blauwe stip in een blauwe cirkel.
 
-An alternative style shows a red cross in a red circle. This style is used to indicate the back of a garment.
-For example, on a sleevecap you may see a blue and a red notch. This way you know which side of the sleevecap is the front (the one with the blue notch).
+Een alternatief is een rood kruisje in een rode cirkel. Dit type wordt gebruikt om de achterkant van een kledingstuk aan te duiden. Aan een mouwkop kan je bijvoorbeeld een blauw en een rood merkteken zien. Op deze manier weet je welke kant van de mouwkop de voorkant is (de kant met het blauwe merkteken).
 
-<Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" />
+<Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" >
 
 <Tip>
 
-**Why we chose these notches**
+**Waarom we deze merktekens kozen**
 
-In electromagnetism, a ⊙ symbol is used to indicate a flow of current coming towards you (to the front),
-whereas ⊗  is used for a current moving away from you (to the back).
+Bij elektromagnetisme wordt een ⊙ symbool gebruikt om stroom aan te geven die jouw richting uitkomt (naar voor), terwijl ⊗ gebruikt wordt voor stroom die van je weg beweegt (naar achter).
 
-You can also think of an arrow. When an arrow flies towards you, you see its tip (⊙).
-When an arrow flies away from you, you see its fletches (⊗).
+Je kan ook aan een pijl denken. Als een pijl jouw kant opkomt, zie je de punt (⊙).
+Als een pijl van je wegvliegt, zie je de veer (⊗).
 
 </Tip>
 
-## Buttons, buttonholes, and snaps
+## Knopen, knoopsgaten en en drukknopen
 
-Buttons and buttonholes may come in different sizes, but always have the same shaped that represents 
-how they look like in real life:
+Knopen en knoopsgaten bestaan in verschillende maten, maar worden altijd aangegeven door dezelfde vorm die aangeeft hoe ze er in het echt uitzien:
 
-<Legend part="buttons" caption="A button is shown on the left, and a buttonhole on the right" />
+<Legend part="buttons" caption="A button is shown on the left, and a buttonhole on the right" >
 
-Snaps have a *stud* and *socket* part, and also look like the real thing:
+Drukknopen hebben een *bol* en een *hol*deel, en zien er ook uit zoals in het echt:
 
-<Legend part="snaps" caption="A snap stud is shown on the left, and a snap socket on the right" />
+<Legend part="snaps" caption="A snap stud is shown on the left, and a snap socket on the right" >
 
-## Dimensions
+## Afmetingen
 
-When you opt for a *paperless* pattern, your pattern will come with dimensions:
+Wanneer je een *papierloos* patroon kiest, komt je patroon in de vorm van een set afmetingen:
 
-<Legend part="dimension" caption="An example of a dimension on a pattern" />
+<Legend part="dimension" caption="An example of a dimension on a pattern" >
 
 <Note>
 
-###### Pay close attention to dimension on (non paperless) patterns
+###### Let goed op de dimensie van (niet papierloze) patronen
 
-Some patterns use dimension to indicate the full size of a pattern piece.
-This typically happens when a part is a mere rectangle and printing, as a way to save paper.
+Sommige patronen gebruiken afmetingen om het volledige formaat van een patroondeel aan te duiden.
+Dit gebeurt gewoonlijk wanneer een patroondeel gewoon een rechthoek is, als een manier om papier te besparen.
 
-So when a pattern includes a dimension, make sure to pay attention to it.
+Dus let goed op wanneer een patroon een afmetingen bevat.
 </Note>
 
-## Scale box
+## Schaal controlevlak
 
-The scale box allows you to verify that your pattern was printed to the correct scale:
+Het schaal controle vlak helpt je om te controleren of je patroon op de juiste schaal afgeprint is:
 
-<Legend part="scalebox" caption="The scale box" />
+<Legend part="scalebox" caption="The scale box" >
 
 <Tip>
-To verify the printed size, you can first only print the page that has the scale box on it.
+Om de printmaat te controleren kan je eerst enkel de pagina printen dat het schaal controle vlak bevat.
 </Tip>
 
-## Title
+## Titel
 
-Each pattern piece has a title that tells you the number and name of the piece, as well as the pattern name:  
+Elk patroondeel heeft een titel dat je het nummer en de naam van het deel geeft, en de naam van het patroon:
 
-<Legend part="title" caption="Example of a title" />
+<Legend part="title" caption="Example of a title" >
 
 <Note>
-When you generate a pattern on freesewing.org, the title will also include the name of the person the pattern was made for.
+Wanneer je een patroon genereert op freesewing.org bevat de titel ook de naam van de persoon waar je het patroon voor gemaakt hebt.
 </Note>
 
 ## Logo
 
-Some (or all) pattern pieces may also include the FreeSewing logo. The logo has no special meaning, it's just branding.
+Sommige (of alle) patroondelen kunnen ook het FreeSewing logo bevatten. Dit logo heeft geen speciale betekenis, het is gewoon ons merk.
 
-<Legend part="logo" caption="The FreeSewing logo" />
+<Legend part="logo" caption="The FreeSewing logo" >
 
-## Lines widths and strokes
+## Lijndikte en type lijn
 
-Designers can, if they so choose, override the default line widths or set a specific stroke.
-They might do that to add additional info, like where to fold a pattern, or the outline of where a pocket would go.
+Ontwerpers kunnen, als ze willen, een andere lijndikte of vorm van lijn kiezen dan de standaard. Dit kunnen ze doen om extra info toe te voegen (zoals waar je een patroon moet plooien, of waar een zak gestikt zou worden).
 
-For reference, here are the different available line widths:
+Ter referentie zijn hier de verschillende beschikbare lijndiktes:
 
-<Legend part="lineWidths" caption="The different line widths" />
+<Legend part="lineWidths" caption="The different line widths" >
 
-And these are the different stroke styles:
+En dit zijn de verschillende types lijnen:
 
-<Legend part="lineStrokes" caption="The different line strokes" />
+<Legend part="lineStrokes" caption="The different line strokes" >
 
