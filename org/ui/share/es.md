@@ -2,31 +2,39 @@
 title: Sharing is caring
 ---
 
+import Hashtag from '../../../../src/components/hashtag'
+
 Let the world know about FreeSewing.
+
+## Hashtags
+
+On social media, use the pattern-specific tags when posting about our pattern.
+
+For example, for Simon use: <Hashtag tag='FreeSewingSimon' title='Simon Hashtag' />
+
+
+Para preguntas o ayuda, usa: <Hashtag tag='AskFreeSewing' title='Ask FreeSewing Hashtag' />
+
+Para mostrar tu apoyo, o interactuar con la comunidad de FreeSewing en general, usa: <Hashtag tag='WeAreFreeSewing' title='We Are FreeSewing Hashtag' />
+
+<Tip>
+
+Make sure to Capitalize the words, which greatly helps people with disabilities who use screen readers.
+
+</Tip>
 
 ## Sharing links
 
- - [Share on Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffreesewing.org%2F)
- - [Share on Twitter](https://twitter.com/intent/tweet/?text=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&url=https%3A%2F%2Ffreesewing.org%2F)
- - [Share on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Ffreesewing.org%2F&t=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns)
- - [Share on Reddit](https://reddit.com/submit/?url=https%3A%2F%2Ffreesewing.org%2F&resubmit=true&title=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns)
- - [Share on Tumblr](https://www.tumblr.com/widgets/share/tool?posttype=link&title=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&caption=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&content=https%3A%2F%2Ffreesewing.org%2F&canonicalUrl=https%3A%2F%2Ffreesewing.org%2F&shareSource=tumblr_share_button)
- - [Share on Pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ffreesewing.org%2F&media=https%3A%2F%2Ffreesewing.org%2F&description=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns)
- - [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ffreesewing.org%2F&title=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&summary=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&source=https%3A%2F%2Ffreesewing.org%2F)
- - [Share on VK](http://vk.com/share.php?title=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&url=https%3A%2F%2Ffreesewing.org%2F)
- - [Share via Email](mailto:?subject=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&body=https%3A%2F%2Ffreesewing.org%2F)
- - [Share via WhatsApp](whatsapp://send?text=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns%20https%3A%2F%2Ffreesewing.org%2F)
- - [Share via Telegram](https://telegram.me/share/url?text=FreeSewing%20is%20an%20open%20source%20platform%20for%20made-to-measure%20sewing%20patterns&url=https%3A%2F%2Ffreesewing.org%2F)
-
+Puedes enlazar a cualquier página específica, o a la página de inicio: https://freesewing.org/
 
 ## Images
 
-[![FreeSewing](/share/en.wide.jpg)](/share/en.wide.jpg)
+<img src="/share/en.wide.png" alt="Somos FreeSewing" style="max-height: 25vh;" class="shadow" />
 
 
 For Instagram, you can use this square image:
 
-[![FreeSewing](/share/en.square.jpg)](/share/en.square.jpg)
+<img src="/share/en.square.png" alt="Somos FreeSewing" style="max-height: 25vh;" class="shadow" />
 
 ## Languages
 

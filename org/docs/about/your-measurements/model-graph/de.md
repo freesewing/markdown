@@ -1,8 +1,8 @@
 ---
-title: Model graph
+title: Modell-Graph
 ---
 
-A so-called *model-graph* is a visual representation of a model's measurements:
+Ein sogenannter *Modell-Graph* ist eine visuelle Darstellung der Masse eines Modells:
 
 ![Example](model.png)
 
