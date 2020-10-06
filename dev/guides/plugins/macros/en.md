@@ -1,5 +1,6 @@
 ---
-title: 30|Macros
+title: Macros
+order: 30
 ---
 
 Plugin structure for macros is similar, with a few changes:

@@ -1,5 +1,6 @@
 ---
-title: 230|Drawing the straps
+title: Drawing the straps
+order: 230
 ---
 
 All we have to do know is flip a bunch of points on the other side,

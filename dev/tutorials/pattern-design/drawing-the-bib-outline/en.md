@@ -1,5 +1,6 @@
 ---
-title: 190|Drawing the bib outline
+title: Drawing the bib outline
+order: 190
 ---
 
 With our neck opening in place, let's draw the basic outline of our bib:

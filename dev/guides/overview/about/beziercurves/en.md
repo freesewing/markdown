@@ -1,5 +1,6 @@
 ---
-title: 04|Bézier curves
+title: Bézier curves
+order: 40
 ---
 
 While lines on computers are easy to store with a start and end point, 

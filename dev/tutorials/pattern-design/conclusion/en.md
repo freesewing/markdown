@@ -1,5 +1,6 @@
 ---
-title: 280|Conclusion
+title: Conclusion
+order: 280
 ---
 
 Congratulations, you have created your first pattern. And while it's arguably rather simple, 

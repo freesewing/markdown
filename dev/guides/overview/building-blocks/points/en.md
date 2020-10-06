@@ -1,5 +1,6 @@
 ---
-title: 05|Points
+title: Points
+order: 10
 ---
 
 <Example 

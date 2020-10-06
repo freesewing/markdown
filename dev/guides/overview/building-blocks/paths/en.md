@@ -1,5 +1,6 @@
 ---
-title: 06|Paths
+title: Paths
+order: 20
 ---
 
 <Example 

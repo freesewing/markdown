@@ -1,5 +1,6 @@
 ---
-title: 07|Snippets
+title: Snippets
+order: 30
 ---
 
 <Example 

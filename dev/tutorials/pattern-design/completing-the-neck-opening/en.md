@@ -1,5 +1,6 @@
 ---
-title: 180|Completing the neck opening
+title: Completing the neck opening
+order: 180
 ---
 
 As the neck opening is symmetrical, there's no need to re-calculate the points

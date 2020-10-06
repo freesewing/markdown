@@ -1,5 +1,6 @@
 ---
-title: 08|Parts
+title: Parts
+order: 40 
 ---
 
 <Example 

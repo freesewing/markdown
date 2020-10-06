@@ -1,5 +1,6 @@
 ---
-title: 09|Config
+title: Config
+order: 50
 ---
 
 <Example 

@@ -1,5 +1,6 @@
 ---
-title: 01|SVG
+title: SVG
+order: 10
 ---
 
 Patterns are rendered as SVG — short

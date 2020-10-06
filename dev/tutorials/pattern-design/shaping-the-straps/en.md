@@ -1,5 +1,6 @@
 ---
-title: 200|Shaping the straps
+title: Shaping the straps
+order: 200
 ---
 
 Our straps should follow the neck opening, which isn't that hard to do.

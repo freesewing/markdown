@@ -1,5 +1,6 @@
 ---
-title: 10|Plugin structure
+title: Plugin structure
+order: 10
 ---
 
 Plugins can do two things: 

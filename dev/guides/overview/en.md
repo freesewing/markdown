@@ -1,5 +1,6 @@
 ---
-title: 01|High-level overview
+title: High-level overview
+order: 20
 ---
 
 The FreeSewing core library is a toolbox for *parametric pattern design*.

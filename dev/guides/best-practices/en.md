@@ -1,5 +1,6 @@
 ---
-title: 03|Best practices
+title: Best practices
+order: 30
 ---
 
-<ReadMore root='guides/best-practices' />
+<ReadMore />

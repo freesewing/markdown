@@ -1,5 +1,6 @@
 ---
-title: 250|Testing your pattern
+title: Testing your pattern
+order: 250
 ---
 
 With the basic outline of your pattern ready, now would be a good time 

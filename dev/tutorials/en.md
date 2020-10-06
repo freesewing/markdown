@@ -1,6 +1,5 @@
 ---
 title: Tutorials
+order: 1010
 ---
-
-<ReadMore root='tutorials' />
 

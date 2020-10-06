@@ -1,5 +1,6 @@
 ---
-title: 120|Your first part
+title: Your first part
+order: 120
 ---
 
 Much like garments themselves, patterns are made up of *parts*. 

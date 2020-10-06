@@ -1,5 +1,5 @@
 ---
-title: zzzz|Code of conduct
+title: Code of conduct
 ---
 
 ## Our pledge

@@ -1,5 +1,6 @@
 ---
-title: 10|Store
+title: Store
+order: 60
 ---
 
 <Example 

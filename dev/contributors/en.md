@@ -1,5 +1,6 @@
 ---
 title: Documentation for contributors
+order: 1110
 ---
 
 Are you interested in contributing to freesewing? 

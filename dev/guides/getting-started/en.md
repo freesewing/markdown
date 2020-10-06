@@ -1,5 +1,6 @@
 ---
-title: 02|Getting started
+title: Getting started
+order: 10
 ---
 
 <Note>

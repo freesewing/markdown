@@ -1,5 +1,6 @@
 ---
-title: 240|Rounding the corners
+title: Rounding the corners
+order: 240
 ---
 
 We already know how to round corners, let the `round` macro do it:

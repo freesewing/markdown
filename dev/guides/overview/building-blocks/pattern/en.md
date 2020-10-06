@@ -1,5 +1,6 @@
 ---
-title: 11|Pattern
+title: Pattern
+order: 60
 ---
 
 <Example 

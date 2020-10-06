@@ -1,5 +1,6 @@
 ---
-title: 20|Hooks
+title: Hooks
+order: 20
 ---
 
 <Note>

@@ -1,5 +1,6 @@
 ---
-title: 20|Building blocks
+title: Building blocks
+order: 20
 ---
 
 This illustration is a good starting point to gain a better 

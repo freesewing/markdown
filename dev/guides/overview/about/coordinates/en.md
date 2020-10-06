@@ -1,5 +1,6 @@
 ---
-title: 02|Coordinate system
+title: Coordinate system
+order: 20
 ---
 
 In FreeSewing, coordinates are like text in a book. 

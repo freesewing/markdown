@@ -1,5 +1,6 @@
 ---
-title: 04|Extending FreeSewing with plugins
+title: Extending FreeSewing with plugins
+order: 40
 ---
 
 Plugins allow you to extend freesewing beyond the basic functionality. 

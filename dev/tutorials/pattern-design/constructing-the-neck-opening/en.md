@@ -1,5 +1,6 @@
 ---
-title: 160|Constructing the neck opening
+title: Constructing the neck opening
+order: 160
 ---
 
 Your goal is to construct a slightly oval neck opening that has a circumference that is

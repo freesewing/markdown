@@ -1,5 +1,12 @@
 ---
 title: Pattern design tutorial
+about: |
+  In this tutorial, you'll learn how to create a FreeSewing pattern.
+  We will take you start to finish, from setting up the development environment
+  up to a completed pattern.
+goals:
+  - Working with A
+  - Doing things with B
 ---
 
 Welcome to the FreeSewing tutorial, where you'll learn how to create a made-to-measure
