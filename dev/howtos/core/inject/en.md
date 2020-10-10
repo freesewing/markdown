@@ -1,5 +1,7 @@
 ---
 title: Part inheritance
+for: developers
+about: Shows how you can use one part of your pattern as the basis for another
 ---
 
 Part inheritance within your own pattern is handled via the `inject` settings in

@@ -1,5 +1,11 @@
 ---
 title: Code of conduct
+for: contributors
+icons: 
+ - face
+ - heart
+about: |
+  FreeSewing's code of conduct is based on the [contributor covenant](https://www.contributor-covenant.org/)
 ---
 
 ## Our pledge

@@ -1,5 +1,7 @@
 ---
 title: Sharing data between parts
+for: developers
+about: Shows how you use the pattern store to share data between parts
 ---
 
 Sometimes, you'll want to access data from one part into another part.

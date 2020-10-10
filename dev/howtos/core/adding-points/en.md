@@ -1,6 +1,8 @@
 ---
 title: Adding points
 order: 260
+for: developers
+about: Shows you how to add points to your pattern
 ---
 
 After using the [shorthand](/howtos/core/shorthand/) call, 

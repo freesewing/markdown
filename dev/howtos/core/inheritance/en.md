@@ -1,5 +1,7 @@
 ---
-title: Pattern inheritance
+title: Design inheritance
+for: developers
+about: Shows how you can use one design as the basis for another
 ---
 
 If your pattern is based on, or extending, another pattern (some of) your

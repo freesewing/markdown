@@ -1,6 +1,8 @@
 ---
 title: Drawing circles
 order: 320
+for: developers
+about: Shows how you can add circles to your pattern
 ---
 
 Real circles are rarely used in pattern design, and they are not part of the SVG path specification, 

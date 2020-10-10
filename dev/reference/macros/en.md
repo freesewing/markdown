@@ -1,5 +1,7 @@
 ---
 title: Macros
+for: developers
+about: Complete list of all available macros and how to use them
 ---
 
 <Note>All macros take a single object as their configuration. </Note>

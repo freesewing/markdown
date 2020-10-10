@@ -1,5 +1,7 @@
 ---
 title: Part dependencies
+for: developers
+about: Shows you how to create dependencies between pattern parts
 ---
 
 Part dependencies are set in the [pattern configuration](/config), and

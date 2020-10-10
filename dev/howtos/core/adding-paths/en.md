@@ -1,5 +1,8 @@
 ---
 title: Adding paths
+for: developers
+icon: pattern
+about: Shows you how to add paths to your pattern
 order: 270
 ---
 
@@ -10,7 +13,7 @@ which is where you should store your paths.
 Things will now *just work* when you do this:
 
 ```js
-paths.example = new Path();
+paths.example = new Path()
 ```
 
 <Tip>

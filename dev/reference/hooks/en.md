@@ -1,5 +1,7 @@
 ---
 title: Hooks API
+for: developers
+about: Documents the available lifecycle hooks in Core and how to use them
 ---
 
 A **hook** is a lifecycle event.

@@ -1,5 +1,10 @@
 ---
 title: Core API
+for: developers
+icons: 
+  - javascript
+  - terms
+about: FreeSewing's core API reference documents all available methods and objects
 ---
 Freesewing exports a single object with the following properties:
 
