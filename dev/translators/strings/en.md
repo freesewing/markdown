@@ -8,8 +8,8 @@ into our repository, where they will be picked up and merged by one of the devel
 
 Here's what you need to know to get started:
 
- - Crowdin link: https://crowdin.com/project/freesewing
- - Request an invite: https://gitter.im/freesewing/translation
+ - Crowdin link: https://crowdin.com/project/fs-markdown
+ - Request an invite: https://chat.freesewing.org/
 
 ## Syntax
 
@@ -19,13 +19,13 @@ Most strings are just text, but sometimes you'll find a little markup sprinkled 
 
 When you encounter HTML tags, simply translate around them. For example:
 
-```markup
+```yaml
 <b>No</b>, never.
 ```
 
 looks like this in Spanish:
 
-```markup
+```yaml
 <b>No</b>, nunca.
 ```
 
@@ -34,7 +34,7 @@ looks like this in Spanish:
 When you encounter a `{key}` between curly braces, leave it as-is.
 These will be filled in later with the correct value. For example:
 
-```markup
+```yaml
 {field} saved
 ```
 

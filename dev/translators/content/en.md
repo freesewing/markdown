@@ -9,15 +9,7 @@ into our repository, where they will be picked up and merged by one of the devel
 Here's what you need to know to get started:
 
  - Crowdin link: https://crowdin.com/project/fs-markdown
- - Request an invite: https://gitter.im/freesewing/help
-
-<Tip>
-
-When translating content, please give priority to the content of freesewing.org, 
-before tackling developer documentation for freesewing.dev.
-In other words, do the `org` folder first.
-
-</Tip>
+ - Request an invite: https://chat.freesewing.org/
 
 ## Content as strings
 
@@ -41,6 +33,6 @@ a number of benefits:
 Content will contain MarkDown syntax. MarkDown is a straight-forward way to format text 
 to turn it into HTML. You’ll be familiar with it in no time.
 
-The [official MarkDown documentation](https://daringfireball.net/projects/markdown/syntax) is a bit dry, but there's plenty of MarkDown guides out there.  
+Our [guide on Markdown](/guides/markdown/) covers all you need to know.
 
-If you have any questions, [we're here to help](https://gitter.im/freesewing/translation).
+If you have any questions, [we're here to help](https://chat.freesewing.org/).

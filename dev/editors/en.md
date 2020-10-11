@@ -10,14 +10,11 @@ to it and submit a pull request.
 Whether it's a documentation page (like this one), a blog post, or showcase, 
 if you see something that can be improved, go ahead and change it.
 
-At the bottom of each page, you'll find a *Edit this page* link that allows you to edit the
-page online in GitHub's editor.
-
-Or fork the repository, make your changes, and submit a pull request.
-
 <Note>
 
 All our content is written in MarkDown. If you're new to 
-MarkDown, [read our MarkDown documentation](/guides/editor/markdown/) first.
+MarkDown, [read our MarkDown guide](/guides/markdown/) first.
 
 </Note>
+
+<ReadMore />
