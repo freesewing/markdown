@@ -1,5 +1,5 @@
 ---
-title: HPS to hips front
+title: HPS tot taille voor
 ---
 
 <Note>
@@ -11,8 +11,7 @@ Refer to [the hps documentation](/docs/measurements/hps/) for information on how
 
 </Note>
 
-The **high point shoulder (HPS) to hips front** measurement runs from your HPS down to your hipline across the front of your body.
+De maat **hoog punt schouder (HPS) tot taille voor** loopt van je HPS tot aan je taille, langs de voorkant van je lichaam.
 
-Tp measure your HPS to hips front, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your hipline, which is the line between the top of your hip bones, across the front of your body.
+Om je HPS tot taille voor te meten, [bepaal eerst waar je HPS ligt](/docs/measurements/hps/). Meet dan van daar recht naar je taille.
 
-The point of this measurement is to measure the length of your torso, and specifically how much it differs from the back (where there's no breasts to go around).  

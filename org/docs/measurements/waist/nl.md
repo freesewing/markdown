@@ -1,7 +1,7 @@
 ---
-title: Natuurlijke taille
+title: Omtrek taille
 ---
 
-The **natural waist** measurement is the circumference of your waist below your ribcage.
+De maat van je **omtrek taille** is de omtrek van je taille onder je ribbenkast.
 
-To measure your **natural waist**, wrap the tape measure around your waist below your ribcage, making sure to keep it horizontal.
+Om de **omtrek taille** te meten hou je de lintmeter rond je natuurlijke taille. Let op dat de lintmeter horizontaal blijft.
