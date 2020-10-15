@@ -1,5 +1,7 @@
 --- 
-title: Draft settings
+title: Settings
+for: developers
+about: Documents all the settings your pattern can receive, including the pattern options, measurmeents, and design options
 ---
 
 <Note>

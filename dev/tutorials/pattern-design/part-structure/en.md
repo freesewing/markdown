@@ -1,5 +1,6 @@
 ---
-title: 150|Structure of a part
+title: Structure of a part
+order: 150
 ---
 
 Let's get rid of the example box first.

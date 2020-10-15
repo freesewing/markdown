@@ -1,5 +1,7 @@
 ---
 title: Using attributes
+for: developers
+about: Show s you have to use attributes on points, paths, and snippets
 order: 300
 ---
 

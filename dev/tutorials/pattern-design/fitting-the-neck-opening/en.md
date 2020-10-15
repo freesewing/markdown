@@ -1,5 +1,6 @@
 ---
-title: 170|Fitting the neck opening
+title: Fitting the neck opening
+order: 170
 ---
 
 Here's how we'll make sure the neck opening is *just right*:

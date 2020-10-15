@@ -1,5 +1,26 @@
 ---
 title: Pattern design tutorial
+order: 50
+icons: 
+  - javascript
+  - pattern
+for: developers
+about: |
+  You'll learn how to create a FreeSewing pattern.
+  We will take you start to finish, from setting up the development environment
+  up to a completed pattern.
+goals:
+  - Setting up the development environment
+  - Creating a pattern part
+  - Using the user's measurements
+  - Using pattern options
+  - Using the shorthand method
+  - Creating points
+  - Creating paths
+  - Using macros and snippets
+  - Testing your pattern
+  - Adding seam allowance
+  - Adding dimentions for a paperless pattern
 ---
 
 Welcome to the FreeSewing tutorial, where you'll learn how to create a made-to-measure

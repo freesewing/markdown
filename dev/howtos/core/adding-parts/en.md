@@ -1,5 +1,7 @@
 ---
 title: Adding pattern parts
+for: developers
+about: Shows you how to add new parts to your pattern
 ---
 
 Since the patterns parts are listed 
@@ -18,7 +20,7 @@ to draft this part:
 export default part => {
   // Your part code here
 
-  return part;
+  return part
 }
 ```
 
@@ -26,15 +28,15 @@ Then, in your `index.js` file, you import this file, and attach the
 method to your pattern's prototype:
 
 ```js
-import freesewing from "freesewing";
-import plugins from "@freesewing/plugin-bundle";
-import config from "../config";
+import freesewing from "freesewing"
+import plugins from "@freesewing/plugin-bundle"
+import config from "../config"
 // Parts
-import draftBack from "./back";
+import draftBack from "./back"
 
 // Create new design
-const Sorcha = new freesewing.Design(config, plugins);
+const Sorcha = new freesewing.Design(config, plugins)
 
 // Attach to pattern prototype
-Sorcha.prototype.draftBack = part => draftBack(part);
+Sorcha.prototype.draftBack = part => draftBack(part)
 ```

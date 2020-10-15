@@ -2,7 +2,7 @@ Bruce bestaat uit een achterkant, twee zijkanten, inzetstukken en voorkanten.
 
  - **Buitenstof**
    - Cut **1 back** on the fold
-   - Cut **2 fronts** on the fold
+   - Cut **2 fronts**
    - Cut **2 insets**
    - Cut **2 sides**
 

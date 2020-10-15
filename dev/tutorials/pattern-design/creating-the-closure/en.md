@@ -1,5 +1,6 @@
 ---
-title: 210|Creating the closure
+title: Creating the closure
+order: 210
 ---
 
 Things are starting to look good, but we can't fit the bib over the baby's head like this.

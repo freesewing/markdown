@@ -1,5 +1,6 @@
 ---
-title: 100|Setting up the development environment
+title: Setting up the development environment
+order: 100
 ---
 
 Open a terminal and enter the following command:

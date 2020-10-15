@@ -1,5 +1,6 @@
 ---
-title: 140|Adding options
+title: Adding options
+order: 140
 ---
 
 You know what your bib should look like, and you have the *headCircumference* measurement

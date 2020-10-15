@@ -1,6 +1,8 @@
 ---
 title:  Using shorthand
 order: 230
+for: developers
+about: Shows you how to use our shorthand method and notation
 ---
 
 The [Part.shorthand()](/reference/api/part/#shorthand) method will become your best friend.
@@ -12,7 +14,7 @@ of handy variables to make your code more concise and readable.
 don't need all of them, but here's everything it has to offer:
 
 ```js
-  let {
+  const {
     options,      // Pattern options
     measurements, // Model measurements
     Point,        // Point constructor
@@ -34,6 +36,6 @@ don't need all of them, but here's everything it has to offer:
 
 <Note>
 
-Many examples throughout our documentation use [shorthand](#using-shorthand) notation.
+Many examples throughout our documentation use shorthand notation.
 
 </Note>

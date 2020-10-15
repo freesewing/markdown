@@ -1,13 +1,20 @@
 ---
 title: Accessing measurements
+for: developers
+about: Shows you how to access user measurements from inside your pattern
 order: 240
 ---
 
-Measusuremnets are stored in `pattern.settings.measurements`, but thanks 
-to the [shorthand](/howtos/core/shorthand/) call, you can simply write:
+Measusuremnets are stored in `pattern.settings.measurements`.
+
+You can pull them out of there with 
+the [shorthand](/howtos/core/shorthand/) call:
+
 
 ```js
-let quarterChest = measurements.chestCircumference / 4;
+const  { measurements, options } = part.shorthand()
+
+let sleeveBonus = measurements.shoulderToWrist * (1 + options.sleeveLengthBonus);
 ```
 
 <Note>

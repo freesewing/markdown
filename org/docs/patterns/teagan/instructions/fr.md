@@ -23,7 +23,9 @@ Optional: In a drapier knit, you may choose to reinforce the shoulder seams by s
 <!--- Tawni is also writing up additional instructions for installing a V-neck --->
 
 <Tip>
+
 A more extensive how-to on knit binding can be found in the [Aaron Instuctions](https://freesewing.org/docs/patterns/aaron/instructions/).
+
 </Tip>
 
 - We are going to finish the arm and neck hole with [knit binding](https://freesewing.org/en/docs/sewing/knit-binding) (note: not a knit band. There’s a difference, and it’s explained [here](https://freesewing.org/en/docs/sewing/knit-binding)).
@@ -42,13 +44,18 @@ This is the most complex step in making the Teagan T-shirt, but it just requires
 - Stop sewing 3 cm before the end, leaving a tail like we did at the beginning.
 
 ### Mark and sew binding ends
+
 - With about 6cm left to go before we complete our circle, it’s time to sew the ends of the binding together.
 - Take one of the edges, and stretch it along the 3cm separating it from the start point as you would while sewing. On the binding, mark where the binding reached the start point. Faites la même chose pour l'autre extrémité.
 - Fold your T-shirt in whatever way makes it more easy for you to place both binding ends with good sides together, aligning the marks. Sew them together at the marks.
+
 <Note>
 
 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them together.
-</Note>- Now that your binding ends are joined together, it’s time to finish the last 6cm of binding. Cousez-les en restant à 1,5cm du bord comme vous l'avez fait auparavant.
+
+</Note>
+
+- Now that your binding ends are joined together, it’s time to finish the last 6cm of binding. Cousez-les en restant à 1,5cm du bord comme vous l'avez fait auparavant.
 
 ### Fold knit binding to the back and sew down
 - Fold your binding fabric around the fabric of your T-shirt to the back. This is how we’ll sew it down.
@@ -63,11 +70,13 @@ If you have a coverlock machine, that would be perfect for this seam.
 
 <Note>
 
-##### Beware of the uneven feed
-<p>As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward.</p>
-<p>Dans un monde parfait, toutes les épaisseurs suivent sans problème. Mais le plus souvent, la couche supérieure (face avant de votre biais) a tendance à se traîner un peu. Cela fait que votre biais ne se plie pas bien autour du bord du tissu, mais fait des plis disgracieux.</p>
-<p>Surveillez donc si cela se produit, et si vous le voyez, étirez la couche inférieure un peu plus pour compenser.
-On the inside of your T-shirt, trim back the knit binding just outside of your seam to finish up.</p>
+##### Méfiez-vous des différences d'entraînement
+En passant votre biais sous votre machine à coudre, les griffes d'entraînement tirent davantage la couche inférieure (arrière de votre biais).
+
+Dans un monde parfait, toutes les épaisseurs suivent sans problème. Mais le plus souvent, la couche supérieure (face avant de votre biais) a tendance à se traîner un peu. Cela fait que votre biais ne se plie pas bien autour du bord du tissu, mais fait des plis disgracieux.
+
+Surveillez donc si cela se produit, et si vous le voyez, étirez la couche inférieure un peu plus pour compenser.
+On the inside of your T-shirt, trim back the knit binding just outside of your seam to finish up.
 
 </Note>
 

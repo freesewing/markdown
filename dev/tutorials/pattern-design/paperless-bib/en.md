@@ -1,5 +1,6 @@
 ---
-title: 270|Making your pattern paperless
+title: Making your pattern paperless
+order:  270
 ---
 
 Users can request paperless patterns by setting the `paperless` setting to `true`.

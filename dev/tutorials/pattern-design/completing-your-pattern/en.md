@@ -1,5 +1,6 @@
 ---
-title: 260|Completing your pattern
+title: Completing your pattern
+order: 260
 ---
 
 When we started out, we said a good part boilerplate looks like this:

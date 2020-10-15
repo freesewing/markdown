@@ -1,5 +1,7 @@
 ---
 title: Pattern configuration
+for: developers
+about: Reference documentation for the pattern configuration file
 ---
 
 <Note>

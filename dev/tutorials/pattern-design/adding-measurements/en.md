@@ -1,5 +1,6 @@
 ---
-title: 130|Adding measurements
+title: Adding measurements
+order: 130
 ---
 
 FreeSewing is all about *made-to-measure* sewing patterns; 

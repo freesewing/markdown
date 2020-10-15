@@ -1,5 +1,6 @@
 ---
-title: 220|Avoiding overlap
+title: Avoiding overlap
+order: 220
 ---
 
 While you've only drawn the end of one strap, it's pretty obvious they overlap.

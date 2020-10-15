@@ -1,5 +1,7 @@
 ---
 title: Adding snippets
+for: developers
+about: Shows you how to add snippets to your pattern
 order: 280
 ---
 

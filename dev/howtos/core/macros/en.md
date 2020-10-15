@@ -1,5 +1,7 @@
 ---
 title: Using macros
+for: developers
+about: Shows how you can use macros within your pattern
 ---
 
 Macros are a way to facilitate pattern design by bundling a bunch of individual actions

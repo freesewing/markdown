@@ -1,7 +1,7 @@
 ---
 ---
 
-## FreeSewing on GitHub
+## Code on GitHub
 
-All our source code is hosted [on GitHub](https://github.com/freesewing/). Pull requests welcome!
+All our source code is hosted [github.com/freesewing](https://github.com/freesewing/)
 
