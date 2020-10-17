@@ -4,31 +4,30 @@ title: FreeSewing 2.9 brings our Teagan T-shirt pattern
 linktitle: "Our latest pattern is Teagan, a fitted T-shirt"
 img: teagan2.jpg
 caption: "Photo by Alex Andrews from Pexels"
-alt: a man in a speckled grey T-shirt, cropped to show a close-up of the neckline and shoulder.
 author: joost
 ---
 
 import LineDrawing from '@freesewing/components/LineDrawing'
 
-A while ago somebody asked whether we had a T-shirt pattern on freesewing.org and it turns out, we didn't.
+Vor einiger Zeit fragte jemand, ob wir ein T-Shirt-Muster auf freesewing.org hatten und es stellte sich heraus, dass wir das nicht hatten.
 
-There's no good reason for that, we just never got around to that. So today we're rolling out version 2.9 of FreeSewing with our latest pattern: [the Teagan T-shirt](/designs/teagan/).
+Dafür gibt es keinen guten Grund, wir sind einfach noch die dazu gekommen. Heute veröffentlichen wir also die Version 2.9 von FreeSewing mit unserem neuesten Muster: [Das Teagan T-Shirt](/designs/teagan/).
 
 <LineDrawing pattern='teagan' />
 
 ![A man, seated on a purple couch and wearing a speckled grey Teagan T-Shirt.](teagan1.jpg)
 
-## Who is this for?
+## Für wen ist es?
 
-Teagan is fitted T-shirt pattern with options for altering the neckline, length, and sleeves.
+Teagan ist ein T-Shirt-Schnittmuster mit Option um den den Halsausschnitt, die Länge und die Ärmel anzupassen.
 
-Teagan is based on [our Brian block](/designs/brian/), which does not take breasts into account. That being said, this will work for people with breasts too. Since it uses the chest circumference it will simply draft a T-shirt to fit your full chest.
+Teagan basiert auf [unserem Brian-Block](/designs/brian/), der Brüste nicht berücksichtigt. Dieses Schnittmuster wird allerdings auch für Menschen mit Brüsten funktionieren. Da es den Brustumfang verwendet, wird es einfach ein T-Shirt entwerfen, welches für den gesamten Brustumfang passt.
 
-We've also added an option to draft this to your high bust, which would give you a more fitted T-shirt with ease & stretch having to accomodate for your breasts.
+Wir haben ebenfalls die Möglichkeit hinzugefügt um entsprechend des höheren Brustumfangs zu entwerfen, welches ein enger anliegendes T-Shirt entwerfen würde, bei dem Dehnbarkeit & Stretch des Stoffes den Brüsten Passraum lassen.
 
 ![A woman wearing a striped T-shirt stands in front of a weathered fence. This T-shirt is more fitted through the chest.](teagan3.jpg)
 
-## Community Updates
+## Community-Updates
 
 If you're thinking about sewing Teagan, but you're new to sewing or working with knits, never fear! FreeSewing has more support than ever. Chat with us on [Discord](https://chat.freesewing.org/), in a [Facebook Group](https://www.facebook.com/groups/627769821272714), or on [Reddit](https://www.reddit.com/r/freesewing/). Find us on social as @freesewing_org on [Instagram](https://www.instagram.com/freesewing_org/) and [Twitter](https://twitter.com/freesewing_org). If you're looking for tutorials, there's a new [YouTube channel](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for that. It has a whole series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), as well as this amazing preview.
 
