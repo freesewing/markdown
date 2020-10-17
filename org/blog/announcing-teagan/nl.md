@@ -4,7 +4,6 @@ title: Samen met FreeSewing 2.9 arriveert ons Teagan t-shirt patroon
 linktitle: "Ons nieuwste patroon is Teagan, een aansluitend t-shirt"
 img: teagan2.jpg
 caption: "Foto door Alex Andrews van Pexels"
-alt: a man in a speckled grey T-shirt, cropped to show a close-up of the neckline and shoulder.
 author: joost
 ---
 
