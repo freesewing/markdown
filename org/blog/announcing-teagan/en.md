@@ -4,7 +4,6 @@ title: FreeSewing 2.9 brings our Teagan T-shirt pattern
 linktitle: "Our latest pattern is Teagan, a fitted T-shirt"
 img: teagan2.jpg
 caption: "Photo by Alex Andrews from Pexels"
-alt: a man in a speckled grey T-shirt, cropped to show a close-up of the neckline and shoulder.
 author: joost
 ---
 
