@@ -35,7 +35,7 @@ Je kan al een Patron zijn vanaf 2 euro per maand. Dus waarom word jij ook geen P
 
 Als je geen e-mail hebt ontvangen, kijk dan in je spam- of junkmap. Als je het daar ook niet terugvindt, is de kans groot dat je e-mailprovider het bericht geblokkeerd heeft.
 
-Probeer het ofwel met een ander e-mailadres, of [geef ons een seintje](https://gitter.im/freesewing/help) zodat we je kunnen helpen je account te activeren.
+Either try using a different E-mail address, or [reach out to us](https://chat.freesewing.org/) so we can help you activate your account.
 
 <Note>
 
