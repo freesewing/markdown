@@ -8,7 +8,7 @@ title: Geef feedback
 
 We horen graag wat je geweldig (of verschrikkelijk) vindt aan FreeSewing.
 
-Bezoek gerust [onze chatroom](https://gitter.im/freesewing/chat) en laat weten wat je denkt.
+Please [join our chat room](https://chat.freesewing.org/) and share your thoughts.
 
 </Note>
 
