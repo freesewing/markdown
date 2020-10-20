@@ -8,4 +8,4 @@ patterns:
 author: karen
 ---
 
-Karen made this version of the Teagan T-shirt drafted for high-bust measurements, one of several options for making the Teagan T-shirt just right for you!
+Karen made this version of [the Teagan T-shirt](/designs/teagan/) drafted for high-bust measurements, one of several options for making the Teagan T-shirt just right for you!
