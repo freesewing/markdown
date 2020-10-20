@@ -29,8 +29,8 @@ been teaching himself the ins and outs of the freesewing platform:
 > I wanted to get the whole process under control before venturing out into the real stuff. 
 > 
 > That I was able to pick things up so easily is due mostly to the great 
-> [BabyBib tutorial](/docs/designer/tutorial/part-1) 
-> and the help you've provided [here](https://gitter.im/freesewing/chat).
+> [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) 
+> and the help you've provided [here](https://chat.freesewing.org).
 
 ## Who will be next to contribute a pattern?
 

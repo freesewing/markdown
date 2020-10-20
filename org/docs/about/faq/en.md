@@ -41,7 +41,7 @@ You can be a patron for as little as 2 euro per month. So why not
 If you did not receive the email, check your spam/junk folder.
 If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
 
-Either try using a different E-mail address, or [reach out to us](https://gitter.im/freesewing/help) so
+Either try using a different E-mail address, or [reach out to us](https://chat.freesewing.org/) so
 we can help you activate your account.
 
 <Note>

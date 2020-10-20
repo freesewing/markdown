@@ -24,7 +24,7 @@ rewrite was to allow the project to scale horizontally. Or to put it bluntly,
 to allow FreeSewing to go where I could not carry it on my own.
 
 In a way, FreeSewing has grown up as a (software) project. We have several people 
-making regular contributions, [an active chat room](https://gitter.im/freesewing/chat), 
+making regular contributions, [an active chat room](https://chat.freesewing.org/), 
 [a dedicated website for developer and translator documentation](https://freesewing.dev), 
 a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), 
 we've contributed fixes and improvements to upstream software we depend on, and we now 
@@ -43,7 +43,7 @@ all people who have helped and continue to help with these efforts.
 
 It's perhaps also a good time to point out that you too can help with this. 
 Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good
-place to get started, or stop by [our chat room dedicated to translation](https://gitter.im/freesewing/translation).
+place to get started, or stop by [our chat room](https://chat.freesewing.org/).
 
 ## What we're planning for next year
 
