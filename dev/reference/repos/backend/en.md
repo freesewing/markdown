@@ -180,7 +180,7 @@ This allows complete end-to-end testing of signup flow and other things the depe
 
 - 💻 Maker site: [freesewing.org](https://freesewing.org)
 - 👩‍💻 Developer site: [freesewing.dev](https://freesewing.dev)
-- 💬 Chat/Support: [Gitter](https://gitter.im/freesewing/help)
+- 💬 Chat/Support: [chat.freesewing.org](https://chat.freesewing.org)
 - 🐦 Twitter: [@freesewing_org](https://twitter.com/freesewing_org)
 - 📷 Instagram: [@freesewing_org](https://instagram.com/freesewing_org)
 

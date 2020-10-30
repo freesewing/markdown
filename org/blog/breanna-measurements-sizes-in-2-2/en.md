@@ -141,7 +141,7 @@ These sizes are just a way to lure you in 🤫
 Now go and click around, for we've changed a bunch of other stuff too.
 
 If you bump into any problems or have questions, as always [our chat room is the place to get
-in touch](https://gitter.im/freesewing/chat).
+in touch](https://chat.freesewing.org/).
 
 And if you happen to like what we do here, perhaps now is a good time to tell your friends about
 FreeSewing. After all, they can now check it out without needing to sign up.
