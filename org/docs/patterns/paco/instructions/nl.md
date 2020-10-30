@@ -77,18 +77,17 @@ Herhaal dit voor de andere pijp.
 
 ![Broekspijp met gestikte zijnaad](step05.jpg)
 
-## Step 6: Finish the side seams
+## Stap 6: Werk de zijnaden af
 
-Finishing these seams requires a touch of delicacy, especially around the tops of the pockets.
+De afwerking van deze naden vraagt een beetje extra aandacht, vooral rond de bovenkant van de zakken.
 
-It would be difficult to finish the top part of the side seam with a serger, so we'll use a zig-zag stitch. Starting at the top of the side seam, zig-zag stitch along the raw edge of the seam allowance, pivoting around the pocket opening. Continue the zig-zag stitch up the side of the pocket, unless you've serged your pockets already (in which case you can stop when you reach the pocket).
+Het zou moeilijk zijn om de bovenkant van de zijnaad af te werken met een overlocker, dus gebruiken we hier een zigzagsteek. Begin aan de bovenkant van de zijnaad en zigzag langs de rafelrand van de naadwaarde. Draai aan de opening van de steekzak. Ga verder met de zigzagsteek langs de rand van de steekzak, tenzij je die al met de overlocker hebt afgewerkt. In dat geval kan je stoppen wanneer je aan de zak komt.
 
-The bottom opening of the pocket is a tight corner. To finish the seam around this corner, zig-zag stitch the raw edge of the seam allowance, starting where it joins the pocket, pivoting at the corner and continuing about 5 cm (2 in.) down the side seam. You can continue finishing the side seam with a zig-zag stitch all the way down. Alternatively, you can serge the side seam, making sure to stop the line of serger stitches a little ways from the pocket.
+De onderste opening van de steekzak is een lastig hoekje. Om de rafelrand aan deze hoek af te werken, gebruik je een zigzagsteek langs de onafgewerkte naadwaarde. Je begint waar de zijnaad de zak kruist, draait aan de hoek en gaat zo'n 5 centimeter (2 inch) verder langs de zijnaad naar beneden. Je kan de hele zijnaad met een zigzagsteek naar beneden afwerken. Of je kan de zijnaad met een overlocker afwerken. Let er dan op dat je niet helemaal met de overlocker tot aan de steekzak stikt.
 
 <Note>
 
-Make sure to secure these serger stitches. They won't be caught in any other seams, so they risk 
-unravelling if left unsecured.
+Maak de overlockstiksels zeker goed vast. Als je dat niet doet, kunnen ze loskomen, want ze worden niet in een andere naad vastgezet.
 
 </Note>
 
@@ -96,23 +95,18 @@ Herhaal dit voor de andere pijp.
 
 ![Zig-zag stitched side seams](step06.jpg)
 
-Press the side seams toward the front.
+Pers de zijnaden naar het voorpand.
 
 <Note>
 
-This may feel counterintuitive, as a lot of pants suggest pressing the side seams to the back. 
-However, with inseam pockets, you'll want the pockets pressed toward the front of the pants. Your 
-pockets will be fighting your side seam if you press the seam to the back, so we'll press it all 
-to the front. This will will result in a smoother finish.
+Dat lijkt misschien geen logische manier van werken. Veel naaipatronen voor broeken laten je de zijnaden naar het achterpand persen. 
+Maar in dit geval heb je steekzakken in de naad verwerkt, en die moeten natuurlijk aan de voorkant van de broek zitten. Als je deze naad naar het achterpand perst, moeten je zakken een rare kronkel maken om naar voor te zitten. Dus persen we de hele naad naar de voorkant. Het resultaat zal er mooier uitzien.
 
 </Note>
 
 <Note>
 
-The corners of a pocket opening are one of the most likely places to wear out or tear, especially 
-if you use your pockets a lot. If you're worried about tearing at the corners of your pockets, or 
-if your fabric is more delicate, you can reinforce the pocket openings with bar tacks along the seam 
-line, just outside the pocket openings.
+De hoeken van de zakopening zullen bij het gebruik waarschijnlijk het snelste slijten, zeker als je je zakken vaak gebruikt. Als je bezorgd bent om de hoeken van de zakken te scheuren, of als je een fijne stof gebruikt, dan kan je de zakopeningen verstevigen met een versterkend stiksel langs de buitenkant. Gebruik hiervoor een smalle zigzagsteek en stik ongeveer een centimeter langs de naad, net buiten de zakopening.
 
 </Note>
 

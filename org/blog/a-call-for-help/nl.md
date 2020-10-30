@@ -71,7 +71,7 @@ Assuming that reading that made you happy rather than angry, we could use your h
 
 We are starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. We start the first weekend of September (next weekend). We haven't picked a time yet, for it will depend on the time zones the participants live in.
 
-If you'd like to attend, please [let us know in our chat room](https://gitter.im/freesewing/chat).
+If you'd like to attend, please [let us know in our chat room](https://chat.freesewing.org/).
 
 ### What kind of help is needed?
 

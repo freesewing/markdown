@@ -26,7 +26,7 @@ Darts are used to compensate for the difference between your waist and seat meas
 
 ## Construction
 
-We're not going into a full explanation here on how to create all the individual details that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible zipper, make a vent, etc. If not, there are numerous excellent articles available on the web, both in writen form, and on video. If you do get stuck, you can always reach out to [other FreeSewers](https://gitter.im/freesewing/help).
+We're not going into a full explanation here on how to create all the individual details that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible zipper, make a vent, etc. If not, there are numerous excellent articles available on the web, both in writen form, and on video. If you do get stuck, you can always reach out to [other FreeSewers](https://chat.freesewing.org/).
 
 First, sew all the darts. You want to press them towards the back. So for the back piece, that means you press boths sides towards eachother. For the front piece, just the opposite.
 

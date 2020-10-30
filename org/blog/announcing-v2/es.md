@@ -37,13 +37,13 @@ For those who are interested in our code, head over to our new developer documen
 
 For those of you who are interested in designing patterns, we have updated our [pattern design tutorial](https://freesewing.dev/tutorial) so you can hit the ground running.
 
-There's good news for translators too, as we now use [Crowdin](https://crowdin.com/) which makes translation a breeze. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://gitter.im/freesewing/chat).
+There's good news for translators too, as we now use [Crowdin](https://crowdin.com/) which makes translation a breeze. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://chat.freesewing.org/).
 
 ## 💩 Usual caveats apply
 
 It's conventional wisdom in software development that refactoring code is good, but rewriting it from scratch is bad. Still, we did it anyway because we wanted to make it easier for people to get involved in the project, and generate patterns in real-time in the browser.
 
-That being said, this is a .zero release so you may stumble upon an issue left or right. When you do, please [let us know](https://gitter.im/freesewing/chat) or submit an issue.
+That being said, this is a .zero release so you may stumble upon an issue left or right. When you do, please [let us know](https://chat.freesewing.org/) or submit an issue.
 
 ## 🤞 Tell us what you think
 
