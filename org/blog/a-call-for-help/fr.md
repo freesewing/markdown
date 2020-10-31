@@ -1,48 +1,48 @@
 ---
-date: 2020-08-30
-title: Please help grow FreeSewing beyond what I can do on my own
+date: 30-08-2020
+title: Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 img: book.jpg
-caption: "Note: This post is a long read. Although nowhere near as long as this book"
+caption: "Note: ceci est un long message. Bien que nettement moins que ce livre"
 author: joost
 ---
 
-Hi everyone, Joost here. I am writing this post to address some issues that have been worrying me lately. Specifically, these *problems*:
+Salut tout le monde, c'est Joost. J'écris ce message pour aborder certains problèmes qui m'ont ennuyé ces derniers temps. Notamment :
 
- - Problem 1: [There is too much work](#problem-1-there-is-too-much-work)
- - Problem 2: [I feel I'm losing track of the community](#problem-2-i-feel-im-losing-track-of-the-community)
- - Problem 3: [I feel insecure about how to deal with the issue of systemic racism](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
+ - Problème 1 : [Il y a trop de travail](#problem-1-there-is-too-much-work)
+ - Problème 2 : [J'ai l'impression de perdre contact avec la communauté](#problem-2-i-feel-im-losing-track-of-the-community)
+ - Problème 3 : [je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-The good news is that three problems is relatively short list. Even better news is that all of these can benefit from the same solution: [Community building](#community-building)
+La bonne nouvelle est que la liste est courte. Et nouvelle encore meilleure, la solution à ces problèmes est la même : [ le community building (construction d'une communauté)](#community-building)
 
-Before we get into that, let's briefly look at each problem:
+Avant d'entrer dans le vif du sujet, examinons brièvement chaque problème :
 
-## Problem 1: There is too much work
+## Problème 1 : il y a trop de travail
 
-Over the course of the last week I read [Working in public](https://www.amazon.com/dp/0578675862/) a book about *The making and maintenance of open source software* by [Nadia Eghbal](https://nadiaeghbal.com/).
+Au cours de la semaine dernière, j'ai lu [Travailler en public](https://www.amazon.com/dp/0578675862/) un livre sur *La création et la maintenance de logiciels open source* par [Nadia Eghbal](https://nadiaeghbal.com/).
 
-I bought it because I was hoping to find answers to some of the questions that I ask myself. Questions like *How do other maintainers do it?*, or *Am I doing it wrong?*
+Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Comme *Comment font les autres ?* ou *Suis-je en train de me tromper ?*
 
-In other words, I was hoping to find a fix for what I increasingly perceive as a problem: The inability to scale my own labour in line with how I'd like to scale FreeSewing, the project.
+En d'autres termes, j''espérais trouver une solution à ce qui est pour moi un problème grandissant : l''incapacité à dimensionner mon propre travail à la façon dont je voudrais dimensionner le projet FreeSewing.
 
-I don't want to spoil the book, but it did not provide any straight-forward answers on how to address that problem. Turns out that the vast majority of open source maintainers are in the same boat. Most projects are ran by either a single person, or a handful of people.
+Sans vouloir trop le critiquer, ce livre ne m'a fourni aucune réponse concrète sur la manière de résoudre ce problème. Il s'avère que la grande majorité des mainteneurs open source sont dans le même bateau. La plupart des projets sont maintenus par une seule personne ou  une poignée de personnes.
 
-And there is nothing wrong with that. But it does put a firm upper limit on how much FreeSewing can accomplish.
+Et il n'y a rien de mal à cela. Mais cela implique que ce que peut accomplir FreeSewing a des liimites.
 
-## Problem 2: I feel I'm losing track of the community
+## Problème 2 : J'ai l'impression de perdre contact avec la communauté
 
-I worry that I have been neglecting the communal aspects of FreeSewing. There are no comments or *social* aspects on the site. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
+Je regrette d'avoir négligé les aspects communautaires de FreeSewing. Il n'y a pas de commentaires ou d'aspects *sociaux* sur le site. J'ai toujours pensé que c'était une erreur d'essayer de réunir les gens sur votre propre site Web, et qu'il vallait mieux les laisser discuter sur les plates-formes de leur choix.
 
-For the sewing community, the platform of choice is often Instagram. Since I have left Instagram year ago, I feel like I am getting further away from the community.
+Pour la communauté couture, c'est souvent Instagram. Or comme j'ai quitté Instagram il y a un an, j'ai l'impression de m'éloigner de la communauté.
 
-My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the community in a way that works for me.
+Mes [raisons de quitter](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) sont les mêmes aujourd'hui qu'à l'époque, mais j'aimerais pouvoir me connecter avec la communauté d'une manière qui fonctionne pour moi.
 
-## Problem 3: I feel insecure about how to deal with the issue of systemic racism.
+## Problème 3: Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme.
 
-First things first: **Black lives matter** ✊🏾
+Premièrement : **Black lives matter**✊🏾
 
-My insecurity stems from my environment. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
+Mon malaise vient de mon environnement. Je suis un homme blanc cis-genre d'âge moyen, né et élevé dans un pays dont l'histoire est teintée du sang de gens de couleur ([ce pays est la Belgique](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). À ce jour, un racisme occasionnel imprègne tous les aspects de la société dans laquelle je vis.
 
-A welcoming a diverse community is *sine qua non* for me. But I feel ill-equiped to figure out how to do that.
+La diversité d'une communauté est *une condition sine qua non* pour moi. Mais je ne sais pas vraiment comment procéder.
 
 ## Community building
 
@@ -67,11 +67,11 @@ To ensure that your values are aligned with those of FreeSewing, please take a m
 
 Assuming that reading that made you happy rather than angry, we could use your help :)
 
-## Please help grow FreeSewing beyond what I can do on my own
+## Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 
 We are starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. We start the first weekend of September (next weekend). We haven't picked a time yet, for it will depend on the time zones the participants live in.
 
-If you'd like to attend, please [let us know in our chat room](https://gitter.im/freesewing/chat).
+If you'd like to attend, please [let us know in our chat room](https://chat.freesewing.org/).
 
 ### What kind of help is needed?
 
