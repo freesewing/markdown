@@ -4,52 +4,52 @@ title: Foire Aux Questions (FAQ)
 
 ## À propos de Freesewing
 
-### Can I use FreeSewing patterns for commercial purposes?
+### Puis-je utiliser les patrons de FreeSewing à des fins commerciales ?
 
-Yes you can. Open Source is a development model, not a business model.
+Oui, vous pouvez. L'Open Source est un modèle de développement, pas un modèle d'affaires.
 
-If our work can help you put food on the table, by all means go ahead.
+Si notre travail peut vous aider à joindre les deux bouts, alors profitez-en.
 
-### What's your end game?
+### Quel est votre objectif ?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+Nous aimerions que freesewing.org devienne le Wikipédia des patrons de couture.
 
-Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
+Nous ne sommes pas intéressés par la mode, les tendances ou la publication du tout nouveau modèle de la saison. Nous voulons plutôt donner des moyens de faire aux créateurs et réalisateurs en distillant les connaissances de la communauté couturière à travers des patrons et de la documentation, tout en rendant ces informations disponibles au plus grand nombre.
 
-### Who pays for all of this?
+### Qui paie pour tout ça ?
 
-The FreeSewing project is supported financially by [our patrons](/patrons).
+Le projet FreeSewing est soutenu financièrement par [nos mécènes](/patrons).
 
-Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
+Les mécènes sont des utilisateurs comme vous qui ont accepté de faire une petite contribution mensuelle pour le maintien et le fonctionnement de Freesewing.
 
 <Note>
 
-##### Join the Freesewing Patrons
-You can be a patron for as little as 2 euro per month. So why not 
-[become a patron](/patrons/join) too?
+##### Rejoignez les mécènes de Freesewing
+Vous pouvez devenir mécène à partir de 2 euros par mois. Alors pourquoi pas 
+[devenir mécène](/patrons/join) vous aussi ?
 
 </Note>
 
-## Accounts & Privacy
+## Comptes & Confidentialité
 
-### How can I sign up? I never received the E-mail to activate my account!
+### Comment s'inscrire ? Je n'ai jamais reçu l'e-mail pour activer mon compte !
 
-If you did not receive the email, check your spam/junk folder. If you can't find it there either, it is most likely that your E-mail provider blocked it outright.
+Si vous n'avez pas reçu l'e-mail, vérifiez votre dossier spam. Si vous ne le trouvez pas dans les spams, il est très probable que votre fournisseur de messagerie l'ait complètement bloqué.
 
-Either try using a different E-mail address, or [reach out to us](https://chat.freesewing.org/) so we can help you activate your account.
+Essayez d'utiliser une adresse mail différente, ou [contactez-nous](https://chat.freesewing.org/) afin que nous puissions vous aider à activer votre compte.
 
 <Note>
 
-##### Users in France are more likely to run into this problem
+##### Les utilisateurs français sont plus susceptibles de rencontrer ce problème
 
-In in France, several E-mail provider share the same filtering:
+En France, plusieurs fournisseurs de messagerie partagent le même filtrage :
 
  - free.fr
  - laposte.net
- - organge.fr
+ - orange.fr
  - sfr.fr
 
-They are all known to cause issues with deliveries.
+Ils sont tous connus pour causer ces problèmes de réception.
 
 </Note>
 
