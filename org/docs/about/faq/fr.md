@@ -53,46 +53,45 @@ Ils sont tous connus pour causer ces problèmes de réception.
 
 </Note>
 
-### Why do I need to create an account to download a made-to-measure pattern?
+### Pourquoi dois-je créer un compte juste pour télécharger un patron sur-mesure ?
 
-For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
+Pour des raisons pratiques. Pour créer des patrons sur mesure, nous avons besoin de vos mesures.
 
-Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Vous demander ces informations à chaque fois serait plutôt fastidieux, donc nous les enregistrons. Et c'est sur votre compte que nous le faisons.
 
-Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
+Sans conservation de vos mesures en mémoire, la génération de patrons sur mesure serait très peu pratique.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Est-ce que vous demandez parce que vous ne nous faites pas confiance ?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+Cette question révèle souvent une méfiance sous-jacente à la création d'un compte. Ainsi, les questions et réponses suivantes peuvent également être pertinentes :
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
+ - [Que faites-vous de mes données personnelles ? (#what-are you-doing-with-my-personal-data)
+ - [Qui paie pour tout ça ?](#who-pays-for-all-of-this)
+ - [Quel est votre objectif ?](#whats-your-end-game)
 
 </Note>
 
-### What are you doing with my personal data?
+### Que faites-vous de mes données personnelles ?
 
-How we handle your personal data is documented in [our privacy notice](/docs/about/privacy/).
+La manière dont nous traitons vos données personnelles est documentée dans [notre politique de confidentialité](/docs/about/privacy/).
 
 
 
-## Sewing patterns
+## Patrons de couture
 
-### I know my size, but your pattern doesn't fit me
+### Je connais ma taille, mais votre patron ne me va pas
 
-The standard sizes we offer are there to allow you to discover our platform without the need to create an account. We advice against using them as-is.
+Les tailles standard que nous proposons sont là pour vous permettre de découvrir notre plate-forme sans avoir besoin de créer un compte. Nous vous déconseillons de les utiliser tels quels.
 
-Drafting made-to-measure sewing patterns really is *our thing*. If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+La conception de patron de couture sur mesure est vraiment *notre spécialité*. Si vous insistez pour obtenir un patron de taille standard, FreeSewing n'est pas fait pour vous.
 
-Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
+Heureusement, Fiona propose [une liste de patrons indépendants](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html), donc vous avez beaucoup d'alternatives.
 
-### Why don't you use double notches to mark the back of the pattern?
+### Pourquoi n'utilisez-vous pas de double repères pour marquer l'arrière du patron ?
 
-A double-notch is a common way to mark the back of the pattern. Common, but not universal.
+Un double repère est un moyen courant de marquer le dos du patron. Commun, mais pas universel.
 
-Different parts of the world have different conventions or tradidions on how to notch patterns. To avoid confusion, we use a differently styled notch to indicate the back, as detailed in [our pattern notation legend](/docs/about/patterns/notation/).
+Différentes parties du monde ont des conventions ou des traditions différentes sur la façon d'encoder les patrons. Pour éviter toute confusion, nous utilisons un repère de style différent pour indiquer le dos, comme détaillé dans [notre légende de notation de patron](/docs/about/patterns/notation/).
 
