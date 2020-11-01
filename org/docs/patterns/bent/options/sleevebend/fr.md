@@ -1,2 +1,2 @@
 
-The angle by which the sleeve bends at the elbow.
+L'angle par lequel la manche se plie au coude.
