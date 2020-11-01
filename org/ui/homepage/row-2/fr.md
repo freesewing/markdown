@@ -9,9 +9,9 @@ Notre [documentation de développeur](https://freesewing.dev) est hébergée sur
 
 ##### Vous souhaitez nous aider ?
 
-Awesome ❤️   
-Our [contributor documentation](https://freesewing.dev/guides/contributor/) is a good starting point. Nous avons également des guides dédiés pour [traducteurs](https://freesewing.dev/guides/contributor/) et [éditeurs](https://freesewing.dev/guides/editor/).
+Génial ❤️   
+Notre documentation [contributeur](https://freesewing.dev/guides/contributor/) est un bon point de départ. Nous avons également des guides dédiés pour [traducteurs](https://freesewing.dev/guides/contributor/) et [éditeurs](https://freesewing.dev/guides/editor/).
 
 ##### Plus de questions ?
 
-Notre [Foire Aux Questions](/docs/about/faq/) peut avoir la réponse que vous recherchez. If not, [join our chat room](https://chat.freesewing.org/) and we'll try to help you there.
+Notre [Foire Aux Questions](/docs/about/faq/) peut avoir la réponse que vous recherchez. Sinon, [rejoignez-nous dans notre salon de discussion](https://chat.freesewing.org/) et nous ferons notre possible pour vous aider.
