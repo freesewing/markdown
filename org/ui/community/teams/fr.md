@@ -1,15 +1,15 @@
 ---
-title: Teams
+title: Équipes
 ---
 
 <Note>
 
-##### What is a team?
+##### Qu'est-ce qu'une équipe ?
 
-A team is no more than a group of people who are interested in the same topic,
-and who want to work together to move it forward.
+Une équipe n'est rien de plus qu'un groupe de personnes intéressées par le même sujet,
+et qui veulent travailler ensemble pour le faire avancer.
 
-Teams emerge organically. When enough people get involved in a specific topic,
-it makes sense to branch it off into its own team.
+Les équipes émergent de façon organique. Quand suffisamment de personnes s'impliquent dans un sujet spécifique,
+il est logique de les rassembler dans sa propre équipe.
 
 </Note>
