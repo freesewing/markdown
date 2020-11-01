@@ -1,7 +1,7 @@
 
-## Bent is a block, not a pattern
+## Bent est un bloc, pas un patron
 
-A block is a basic shape on which other patterns are based. They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
+Un bloc est une forme de base sur laquelle d'autres patron sont basés. They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
 
 Point is, there is no point in providing instructions on how to make Bent.
 
