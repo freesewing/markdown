@@ -1,24 +1,24 @@
 - - -
 - - -
 
-## Latest updates
+## Dernières mises à jour
 
 ##### COVID-19 : Patron de masque
 
-If you're looking for our facemask pattern, follow this link:
+Si vous cherchez notre modèle de masque, suivez ce lien :
 
- - [Face mask pattern and instructions](/blog/facemask-frenzy)
+ - [Patron de masque et instructions](/blog/facemask-frenzy)
 
 
-##### Contributor calls
+##### Appels des contributeurs
 
-Recently, we started organizing contributor calls. Anybody with an interest in FreeSewing is welcome to join.
+Récemment, nous avons commencé à organiser des appels de contributeurs. Toute personne ayant un intérêt dans FreeSewing est invitée à s'y joindre.
 
-All calls can be joined via [meet.freesewing.org](https://meet.freesewing.org/). Check [the calls schedule](/community/calls/) for details on the upcoming calls.
+Tous les appels peuvent être rejoints via [meet.freesewing.org](https://meet.freesewing.org/). Consultez [la planification des appels](/community/calls/) pour plus de détails sur les appels à venir.
 
-##### We've moved to Discord
+##### Nous avons déménagé sur Discord
 
-We've moved our chat rooms from to Discord. Our legacy chat on Gitter is deprecated.
+Nous avons déplacé nos salons de discussion de Discord. Notre ancien chat sur Gitter est obsolète.
 
-You can join us at https://chat.freesewing.org, or use this in-app Discord invite: https://discord.gg/YDV4GvU
+Vous pouvez nous rejoindre sur https://chat.freesewing.org, ou utiliser cette invitation Discord in-app : https://discord.gg/YDV4GvU
 
