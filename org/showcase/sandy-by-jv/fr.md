@@ -1,19 +1,19 @@
 ---
 date: 2020-10-20
-title: JV's dress made using a Sandy circle skirt
+title: Robe de JV fabriquée à l'aide d'une jupe en cercle Sandy
 img: showcase.jpg
-caption: "JV in a Sandy with matching mask"
+caption: "JV dans une Sandy avec un masque assorti"
 patterns:
   - sandy
 author: Leyn
 ---
 
-JV shared their [new dress using the Sandy skirt](https://twitter.com/RedBlaqueGolden/status/1317752221933633537) on Twitter.
+JV a partagé sa[nouvelle robe en utilisant la jupe Sandy](https://twitter.com/RedBlaqueGolden/status/1317752221933633537) sur Twitter.
 
-Here are some other views.
+Voici d'autres vues.
 
-![full length of the outfit](jv_sandy_fulllength.jpg)
+![vue de la tenue complète](jv_sandy_fulllength.jpg)
 
-![mid twirl](jv_sandy_midtwirl.jpg)
+![tourbillon du milieu](jv_sandy_midtwirl.jpg)
 
-![close up of the key fabric](jv_sandy_fabric_closeup.jpg)
+![zoom sur le tissu](jv_sandy_fabric_closeup.jpg)
