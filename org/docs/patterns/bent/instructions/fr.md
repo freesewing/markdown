@@ -1,10 +1,10 @@
 
 ## Bent est un bloc, pas un patron
 
-Un bloc est une forme de base sur laquelle d'autres patron sont basés. They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
+Un bloc est une forme de base sur laquelle d'autres patron sont basés. Ils sont parfois aussi appelés patrons de base, bien que les puristes soutiennent qu'un bloc et un patron de base sont des choses différentes.
 
-Point is, there is no point in providing instructions on how to make Bent.
+Tout ça pour dire que ça ne sert à rien de donner des instructions sur la façon de réaliser Bent.
 
-That's because Bent is not supposed to be made as-is, but rather can serve as the basis for your own pattern designs.
+C'est parce que Bent n'est pas censé être réalisé en l'état, mais peut plutôt servir de base à vos propres conceptions de patron.
 
-> Some of the patterns based on Bent include [Carlton](/patterns/carlton), [Carlita](/patterns/carlita), and [Jaeger](/patterns/jaeger).
+> Certains des patrons basées sur Bent incluent [Carlton](/patterns/carlton), [Carlita](/patterns/carlita), et [Jaeger](/patterns/jaeger).
