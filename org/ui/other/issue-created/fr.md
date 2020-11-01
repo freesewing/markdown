@@ -1,8 +1,8 @@
 ---
-title: We created a Github issue for this
+title: Nous avons créé un ticket Github pour cela
 ---
 
-You can subscribe to this issue, or comment on it if you'd like to share more information.  
-Doing so requires a Github account, but they are free.
+Vous pouvez vous abonner à ce ticket ou y commenter si vous souhaitez partager plus d'informations.  
+Cela nécessite un compte Github, mais c'est gratuit.
 
-**Tip:** An active issue — one that has subscribers or comments — gets more attention.
+**Astuce :** Un problème actif - un problème qui a des abonnés ou des commentaires - reçoit plus d'attention.
