@@ -1,2 +1,2 @@
 
-Controls the amount of opening at the back of your apron.
+Contrôle la quantité d'ouverture à l'arrière de votre tablier.
