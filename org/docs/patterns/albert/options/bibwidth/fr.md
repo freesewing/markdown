@@ -1,2 +1,2 @@
 
-Controls the width of the _bib_ part of your apron.
+Contrôle la largeur du _plastron_ de votre tablier.
