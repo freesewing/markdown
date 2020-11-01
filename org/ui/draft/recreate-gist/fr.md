@@ -1,8 +1,8 @@
 ---
-title: How to recreate a pattern from a Github gist
+title: Comment recréer un patron à partir d'un gist Github
 ---
 
-This page allows you to recreate a pattern from a [Github gist](https://gist.github.com/).
+Cette page vous permet de recréer un patron à partir d'un gist [Github](https://gist.github.com/).
 
-To do so, simply past either the full URL to the gist, or the gist's ID (the last part of the URL).
+Pour ce faire, il suffit de passer soit l'URL complète du gist, soit l'ID du gist (la dernière partie de l'URL).
 
