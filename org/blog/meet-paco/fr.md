@@ -1,31 +1,31 @@
 ---
 date: 2020-08-10
-title: "Meet Paco: Our new unisex pattern for stylish summer pants"
-linktitle: "Meet Paco"
+title: "Découvrez Paco : notre nouveau patron unisexe pour un élégant pantalon d'été"
+linktitle: "Découvrez Paco"
 img: paco.jpg
-caption: "Paco on yours truly"
+caption: "Paco sur votre obligé"
 author: joost
 ---
 
-If you pay attention to our releases, you know that 4 weeks ago we put out our new [Titan trouser block](/designs/titan/). Today, I'm happy to announce our first *real* pattern based on it: The [Paco summer pants](/designs/paco).
+Si vous prêtez attention à nos versions, vous savez qu'il y a 4 semaines, nous avons sorti notre nouveau [bloc de pantalon Titan](/designs/titan/). Aujourd'hui, je suis heureux d'annoncer notre premier *vrai* patron basé sur celui-ci : le [pantalon d'été Paco](/designs/paco).
 
-These are decidedly unisex — in a good way — and they're also quick to make, certainly in comparison to a pair of full-blown trousers like [Theo](/designs/theo/).
+Celui-ci est décidément unisexe — dans le sens positif — et il est aussi rapide à faire, certainement par rapport à un patalon plus complexe comme [Theo](/designs/theo/).
 
-Paco comes with an elasticated waist and cuffs, at least by default, for you can also choose to draft these with regular hemmed legs.
+Paco est prévu avec une taille et des poignets élastiqués, du moins par défaut, car vous pouvez aussi choisir de les tracer avec des finitions à ourlets classiques.
 
-The default options also include front pockets on the side seams. If you want welt pockets in the back, you can chose that as an option. You can also remove the side seam pockets of you'd like that.
+Les options par défaut incluent également des poches avant sur les coutures latérales. Si vous voulez des poches de passepoilées dans le dos, vous pouvez les choisir dans les options. Vous pouvez également retirer les poches de la couture latérale si vous le souhaitez.
 
 
-## Are these just sweat pants?
+## Est-ce juste un pantalon de jogging ?
 
-They could be. If you make these in a knit, than your could certainly use them as such. But no, they are not designed to be.
+Ça pourrait. Si vous le cousez dans une maille, alors vous pourriez certainement l'utiliser comme tel. Mais non, il n'est pas prévu pour ça.
 
-The ones you see in the picture above (full disclosure: I have not taken these off since I've made them) aren't knit either. Here's a close-up of the woven fabric:
+Celui que vous voyez dans la photo ci-dessus (disclaimer : je ne l'ai pas quitté depuis que je l'ai fait) n'est pas cousu dans une maille. Voici un aperçu du tissu tissé :
 
-![Close-up of a woven fabric](fabric.jpg)
+![Close-up d'un tissu tissé](fabric.jpg)
 
-The difference is in the cut — which is a lot more flattering and stylish that your typical sweat pants — and the pockets. Yes, the pockets. Because pockets are important.
+La différence réside dans la coupe – qui est beaucoup plus flatteuse et plus élégante que vos pantalons de jogging classiques – et dans les poches. Oui, les poches. Parce que les poches c'est important.
 
-Both front pockets and (optional) back pockets are anchored at the waist. Which means that you can put things in your pockets without them becoming unsightly bump that's just dangling around in your trouser leg.
+Les poches avant et les poches arrière (optionnelles) sont ancrées à la taille. Ce qui signifie que vous pouvez mettre des choses dans vos poches sans qu'elles ne créent des vilaines bosses qui ne font que se balader dans votre pantalon.
 
-Convinced yet? Then go make some, and make sure to share your pictures :)
+Alors convaincu ? Allez donc en coudre et et surtout partagez les photos :)
