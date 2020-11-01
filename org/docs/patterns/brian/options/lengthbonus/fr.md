@@ -1,5 +1,5 @@
 ![L'option bonus longueur pour Brian](./lengthbonus.svg)
 
-This option controls how far the block extend below your hips.
+Cette option permet de contrôler jusqu'à quel point le bloc se prolonge sous vos hanches.
 
-> Note that by default this block is as long as your hip line, which is almost certainly too short for the final garment.
+> Notez que par défaut, ce bloc est aussi long que ta ligne de hanche, qui est presque certainement trop courte pour le vêtement final.
