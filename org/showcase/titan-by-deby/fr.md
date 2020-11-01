@@ -1,11 +1,11 @@
 ---
 date: 2020-07-25
-title: Titan by Deby
+title: Titan par Deby
 img: showcase.jpg
-caption: A Titan block turned pants by Deby
+caption: Un bloc Titan transformé en pantalon par Deby
 patterns:
   - titan
 author: Deby
 ---
 
-Deby tried out our Titan trouser block and liked the fit so much that she promptly turned it into proper trousers. She added a waistband and pockets to the basic block.
+Deby a essayé notre bloc de pantalon Titan et aimait tellement sa tenue qu'elle l'a rapidement transformé en vrai pantalon. Elle a ajouté une ceinture et des poches au bloc de base.
