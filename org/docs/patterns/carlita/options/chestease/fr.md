@@ -1,3 +1,3 @@
 ![Chest ease](./chestease.svg)
 
-The amount of ease at your chest.
+La quantité d'aisance à votre poitrine.
