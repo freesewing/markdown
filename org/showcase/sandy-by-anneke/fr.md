@@ -1,19 +1,19 @@
 ---
 date: 2020-10-20
-title: Anneke's shiny black Sandy circle skirt
+title: Jupe circulaire noire et brillante d'Anneke
 img: showcase.jpg
-caption: "back view of Anneke's shiny black Sandy skirt"
+caption: "vue zoomée de la jupe Sandy noire brillante d'Anneke"
 patterns:
   - sandy
 author: Leyn
 ---
 
-Read Anneke's extensive 2018 [blogpost about her new Sandy skirt](http://www.annekecaramin.com/2018/08/garbage-dragon.html), including how she added pockets and a curved waistband.
+Lisez le complément en 2018 d'Anneke sur l' [article de blog à propos de sa nouvelle jupe Sandy](http://www.annekecaramin.com/2018/08/garbage-dragon.html), qui inclue la façon dont elle a ajouté des poche et une ceinture courbée.
 
-Other views:
+Autres vues
 
-![full length of the outfit](front_fulllength.jpg)
+![vue de la tenue complète](front_fulllength.jpg)
 
-![dramatic side view](sideview.jpg)
+![vue latérale spectaculaire](sideview.jpg)
 
-![close up of the exposed back zipper](zipper.jpg)
+![zoom sur la fermeture éclair du dos](zipper.jpg)
