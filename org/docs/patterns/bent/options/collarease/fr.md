@@ -1,2 +1,2 @@
 
-The amount of ease at your neck/collar.
+La quantité d'aisance à votre cou/col.
