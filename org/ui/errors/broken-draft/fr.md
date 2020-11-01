@@ -1,11 +1,11 @@
 ---
-title: Something went wrong
+title: Une erreur s'est produite
 ---
 
-##### Help us make FreeSewing better by reporting this crash
+##### Aidez-nous à améliorer FreeSewing en signalant ce problème
 
-We'd like to gather diagnistics and [create an issue on Github](https://github.com/freesewing/freesewing/issues/new) to investigate what exactly went wrong.
+Nous aimerions récolter des diagnostics et [créer une Issue sur Github](https://github.com/freesewing/freesewing/issues/new) pour enquêter sur ce qui s'est exactement mal passé.
 
-We'll keep your (user)name out of the diagnostics data, but we'd still like your consent prior to gathering this data and putting it on Github.
+Nous garderons votre nom (logon) hors des données de diagnostic, mais nous aimerions toujours votre consentement avant de recueillir ces données et ne les mettre sur Github.
 
-If you are on board, click the button below. If not, you can always [report this manually](https://github.com/freesewing/freesewing/issues/new).
+Si vous êtes à bord, cliquez sur le bouton ci-dessous. Sinon, vous pouvez toujours [rapporter cela manuellement](https://github.com/freesewing/freesewing/issues/new).
