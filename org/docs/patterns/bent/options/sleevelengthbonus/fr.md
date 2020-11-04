@@ -1,5 +1,5 @@
-The amount to extend the sleeve beyond the length of the sleeve in the base block.
+La quantité pour allonger la manche au-delà de la longueur de la manche dans le bloc de base.
 
-> #### This is not supposed to be zero<
+> #### Ce n'est pas censé être zéro<
 > 
-> Setting this to zero will make the sleeve length the same as the base length of the Bent block, which is certainly too short for a coat. Please take note of the default value and use that as a basis to lengthen or shorten the sleeve.
+> Mettre à zéro rendra la longueur de la manche identique à la longueur de base du bloc Bent ; ce qui est certainement trop court pour un manteau. Veuillez prendre note de la valeur par défaut et utiliser cela comme base pour allonger ou raccourcir la manche.
