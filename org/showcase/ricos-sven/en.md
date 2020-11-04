@@ -3,7 +3,7 @@ date: 2020-11-03
 title: Sven by Ricos
 img: ricos1.jpg
 caption: "A top-notch Sven, but just wait..."
-patterns: [Sven]
+patterns: [sven]
 author: karen
 ---
 
