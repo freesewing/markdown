@@ -3,7 +3,7 @@ date: 2020-11-03
 title: Huey by Ricos
 img: ricos1.jpg
 caption: "A FreeSewing user wearing their new Huey"
-patterns: [Huey]
+patterns: [huey]
 author: karen
 ---
 
