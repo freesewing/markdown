@@ -88,7 +88,7 @@ We hebben ons best gedaan om een inclusieve maattabel op te stellen, en dit is o
 
 Hup, ga een beetje rondklikken, want we hebben ook nog een heleboel andere dingen veranderd.
 
-Als je op een probleem botst of vragen hebt, kan je net als altijd terecht in onze [chatroom](https://gitter.im/freesewing/chat).
+If you bump into any problems or have questions, as always [our chat room is the place to get in touch](https://chat.freesewing.org/).
 
 En als je het aanstaat wat we hier doen, dan is dit misschien een goed moment om je vrienden te vertellen over FreeSewing. Want nu kunnen ze komen kijken zonder een account te moeten maken.
 
