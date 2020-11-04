@@ -6,6 +6,6 @@ Combien d'aisance aux têtes de manches voulez-vous ?
 > 
 > La quantité d'aisance de la tête de manche détermine comment les manches seront bombées à l'épaule.
 > 
-> More ease makes the sleeve curl into the seam as you would expect from a coat. Less ease makes the sleeve lie flatter.
+> Plus d'aisance rendra la manche plus courbée au niveau de la couture comme vous vous y attendriez sur un manteau. Moins d'aisance aura une manche au tombé plus plat.
 
-> The lighter your fabric, the less sleevecap ease you want.
+> Plus votre tissu est léger, moins vous nécessitez d'aisance de tête de manche.
