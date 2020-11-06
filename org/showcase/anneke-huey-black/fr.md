@@ -1,6 +1,6 @@
 ---
 date: 2020-10-29
-title: A Black Huey by Anneke
+title: Un Huey noir par Anneke
 img: anneke1.jpg
 caption: "Anneke rocking her latest Huey, this time in black."
 patterns:
