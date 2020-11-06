@@ -1,8 +1,8 @@
 ---
 date: 2020-11-03
-title: Huey by Ricos
+title: Huey par Ricos
 img: ricos1.jpg
-caption: "A FreeSewing user wearing their new Huey"
+caption: "Un utilisateur de FreeSewing portant son nouveau Huey"
 patterns:
   - huey
 author: karen
@@ -10,4 +10,4 @@ author: karen
 
 Une autre vue
 
-![Huey hoodie laying on a washing machine, instead of on a human](ricos2.jpg)
+![Sweat à capuche Huey posé sur une machine à laver au lieu d'un humain](ricos2.jpg)
