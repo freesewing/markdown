@@ -1,15 +1,15 @@
 ---
 date: 2020-11-03
-title: Sven by Ricos
+title: Sven par Ricos
 img: ricos1.jpg
-caption: "A top-notch Sven, but just wait..."
+caption: "Un Sven haut de gamme, mais attendez..."
 patterns:
   - sven
 author: karen
 ---
 
-There's more! Check out the sleeves and stripes on this Sven!
+Il y en a plus ! Découvrez les manches et les rayures de ce Sven !
 
-![Side view, showing sleeves with colorblocked stripes](ricos2.jpg)
+![Vue latérale, montrant les manches avec des rayures colorées](ricos2.jpg)
 
-![Back view](ricos3.jpg)
+![Vue de derrière](ricos3.jpg)
