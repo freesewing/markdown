@@ -14,4 +14,4 @@ Our [contributor documentation](https://freesewing.dev/guides/contributor/) is a
 
 ##### More questions?
 
-Our [frequently asked questions](/docs/about/faq/) might have the answer you're looking for. If not, [join our chat room](https://gitter.im/freesewing/help) and we'll try to help you there.
+Our [frequently asked questions](/docs/about/faq/) might have the answer you're looking for. If not, [join our chat room](https://chat.freesewing.org/) and we'll try to help you there.

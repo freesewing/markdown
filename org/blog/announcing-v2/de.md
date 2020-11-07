@@ -37,13 +37,13 @@ Für diejenigen, die an unserem Code interessiert sind, besuchen Sie unsere neue
 
 Für diejenigen unter Ihnen, die an der Gestaltung von Schnittmustern interessiert sind, haben wir unser [Schnittmuster-Howto](https://freesewing.dev/tutorial) aktualisiert, damit Sie sofort loslegen können.
 
-Auch für Übersetzer gibt es gute Nachrichten, denn wir verwenden jetzt [Crowdin](https://crowdin.com/), was die Übersetzung zum Kinderspiel macht. Wenn Sie bei der Übersetzung helfen oder vielleicht sogar eine neue Sprache zu FreeSewing hinzufügen möchten, kontaktieren Sie uns [bitte in unserem Chat auf Gitter](https://gitter.im/freesewing/chat).
+Auch für Übersetzer gibt es gute Nachrichten, denn wir verwenden jetzt [Crowdin](https://crowdin.com/), was die Übersetzung zum Kinderspiel macht. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://chat.freesewing.org/).
 
 ## 💩 Es gelten die üblichen Einschränkungen
 
 In der Softwareentwicklung ist es üblich, dass die Umgestaltung von Code gut ist, aber das Neuschreiben von Grund auf ist schlecht. Dennoch haben wir es trotzdem getan, weil wir es den Menschen erleichtern wollten, sich am Projekt zu beteiligen und Muster in Echtzeit im Browser zu generieren.
 
-Abgesehen davon ist dies eine .Null-Version, sodass Sie über das ein oder andere Problem stolpern könnten. Wenn ja, bitte [lassen Sie es uns wissen](https://gitter.im/freesewing/chat) oder reichen Sie ein Issue ein.
+Abgesehen davon ist dies eine .Null-Version, sodass Sie über das ein oder andere Problem stolpern könnten. When you do, please [let us know](https://chat.freesewing.org/) or submit an issue.
 
 ## 🤞 Verraten Sie uns Ihre Meinung
 

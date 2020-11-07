@@ -135,7 +135,7 @@ Time to feel like a real tailor, and pad-stitch those lapels.
 
 Make sure to make the stitches a bit smaller towards the lapel tip, to make sure it lies flat against the chest, curling a bit inward instead of outward.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://gitter.im/freesewing/chat) and we'll make an attempt to document it.
+> If you're not sure how to pad-stitch the lapels, [let us know](https://chat.freesewing.org/) and we'll make an attempt to document it.
 
 #### Revers contouren en breuklijn
 
