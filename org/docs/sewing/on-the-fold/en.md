@@ -12,7 +12,7 @@ The fold line is indicated with a double arrow like in this example:
 
 <Tip>
 
-For an overview of all indicators on your patter, 
+For an overview of all indicators on your pattern, 
 refer to the [notation legend](/docs/about/patterns/notation/)
 
 </Tip>

@@ -8,7 +8,7 @@ Dit betekent dat het patroondeel maar voor de helft geprint is, en dat je het ui
 
 De vouwlijn wordt aangegeven met een dubbele pijl zoals in dit voorbeeld:
 
-<Legend part="cutonfold" caption="A cut-on-fold indicator" >
+<Legend part="cutonfold" caption="A cut-on-fold indicator" />
 
 <Tip>
 
