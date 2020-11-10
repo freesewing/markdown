@@ -113,11 +113,11 @@ You represent FreeSewing in a non-English community. You can help answer questio
 **Pattern Ambassador**  
 You'll be responsible for a FreeSewing design/pattern. You'll be *the person* to ask questions about how to make said pattern. You'll make sure the documentation is not forgotten. En je kan helpen met vragen of het triëren van probleemrapporten naar developers of ontwerpers.
 
-**Patroonontwerper  
-Je bedenkt nieuwe patronen voor FreeSewing. Je weet misschien niet eens hoe je een computer aanzet, maar je kan wel een verdomd goed bovenlijf tekenen.</p>
+**Patroonontwerper**   
+Je bedenkt nieuwe patronen voor FreeSewing. Je weet misschien niet eens hoe je een computer aanzet, maar je kan wel een verdomd goed bovenlijf tekenen.
 
-**Patroon Developer  
-Je programmeert nieuwe ontwerpen voor FreeSewing. Je weet misschien niet hoe je naaipatronen moet ontwerpen, maar je bent niet bang van Javascript en ziet het zitten om met een ontwerper samen aan een nieuw patroon te werken.</p>
+**Patroon Developer**   
+Je programmeert nieuwe ontwerpen voor FreeSewing. Je weet misschien niet hoe je naaipatronen moet ontwerpen, maar je bent niet bang van Javascript en ziet het zitten om met een ontwerper samen aan een nieuw patroon te werken.
 
 **Proofreader**  
 Je kijkt de originele Engelse tekst of de vertalingen na, op zoek naar typfouten en/of grammaticafouten. Je stelt verbeteringen voor en helpt de toon en schrijfstijl van de documentatie en geschreven tekst op FreeSewing consequent te houden. Je beheerst de taal die je nakijkt goed.

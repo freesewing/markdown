@@ -4,7 +4,7 @@ title: Something went wrong
 
 ##### Help us make FreeSewing better by reporting this crash
 
-We'd like to gather diagnistics
+We'd like to gather diagnostics
 and [create an issue on Github](https://github.com/freesewing/freesewing/issues/new) to
 investigate what exactly went wrong.
 
