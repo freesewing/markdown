@@ -1,5 +1,5 @@
 ---
-title: HPS to waist back
+title: Longueur épaule-taille dos
 ---
 
 <Note>
@@ -11,7 +11,7 @@ Reportez-vous à la [documentation du sommet d'épaule](/docs/measurements/hps/)
 
 </Note>
 
-The **high point shoulder (HPS) to waist back** measurement runs from your HPS down to your waist line.
+La mesure de la **longueur épaule-taille dos** se fait verticalement du point de sommet de l'épaule jusqu'à l'arrière de la ligne qui forme votre tour de taille.
 
-To measure your HPS to waist back, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your waist line.
+Pour mesurer votre longueur de dos depuis l'épaule, il faut d'abord [localiser le point de votre sommet d'épaule](/docs/measurements/hps/). Mesurez ensuite tout droit jusqu'à la ligne de la taille.
 

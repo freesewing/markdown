@@ -1,5 +1,5 @@
 ---
-title: Waist to upper leg
+title: Hauteur taille cuisse
 ---
 
-The **waist to upper leg** is measured from your waist down to the top of your leg. Elle se mesure sur le côté du corps.
+La **hauteur taille cuisse** est mesurée de votre tour à la taille jusqu'au sommet de votre jambe. Elle se mesure sur le côté du corps.

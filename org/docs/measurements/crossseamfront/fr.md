@@ -1,13 +1,13 @@
 ---
-title: Cross seam front
+title: Enfourchure devant
 ---
 
-The **cross seam front** is the front part of the [cross seam](/docs/measurements/crossseam/) measurement.
+L'**enfourchure devant** est la partie avant de la mesure de [la profondeur d'enfourchure](/docs/measurements/crossseam/).
 
-To measure your **cross seam front** tie a string around your waist. Then, measure down from the center front of your waist util the spot that is:
+Pour mesurer votre **enfourchure devant**, attachez une corde autour de votre taille. Ensuite, mesurez à partir du centre devant de votre taille jusqu'à :
 
- - Where the fork of a tight-fitting pair of trousers would sit
- - At the base of your scrotum
- - Somewhere towards the front of your perineum
+ - Là où tombe le croisement de fourche d'un pantalon bien ajusté
+ - À la base de votre scrotum
+ - Quelque part vers l'avant de votre point périnéal
 
 

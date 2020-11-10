@@ -4,21 +4,21 @@ title: Häufig gestellte Fragen
 
 ## About FreeSewing
 
-### Can I use FreeSewing patterns for commercial purposes?
+### Kann ich FreeSewing für kommerzielle Zwecke verwenden?
 
-Yes you can. Open Source is a development model, not a business model.
+Ja, das kannst du. Open Source ist ein Entwicklungsmodell und kein Geschäftsmodell.
 
-If our work can help you put food on the table, by all means go ahead.
+Wenn unsere Arbeit Ihnen helfen kann, Essen auf den Tisch zu bringen, zögern Sie nicht sie dazu zu verwenden.
 
-### What's your end game?
+### Was ist euer Endziel?
 
-We would like freesewing.org to become the WikiPedia of sewing patterns.
+Wir möchten, dass freesewing.org die WikiPedia der Schnittmuster wird.
 
 We are not interested in fashion, trends, or publishing the hot new pattern of the season. Instead, we want to empower makers by distilling the knowledge of the sewing community into patterns and documentation and make that information globally available.
 
-### Who pays for all of this?
+### Wer zahlt für all das?
 
-The FreeSewing project is supported financially by [our patrons](/patrons).
+Das FreeSewing-Projekt wird von [unseren Patrons](/patrons) finanziell unterstützt.
 
 Patrons are regular users like you who agreed to make a small monthly contribution to keep freesewing going.
 

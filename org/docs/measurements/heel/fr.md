@@ -1,7 +1,7 @@
 ---
-title: Heel circumference
+title: Tour de talon
 ---
 
-The **heel circumference** measurement is the narrowest measurment a trouser leg can be so you can still get in to it.
+Le **tour de talon** est la mesure la plus étroite qu'un pantalon peut avoir pour que vous puissiez arriver à l'enfiler.
 
-To measure your heel circumference, stretch your foot forward, and run the tape measure around your foot at the widest part of your heel.
+Pour mesurer votre tour de talon, étirez votre pied vers l’avant et enroulez le mètre ruban autour de votre pied sur la partie la plus large de votre talon.

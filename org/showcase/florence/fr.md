@@ -1,16 +1,16 @@
 ---
 date: 2020-07-12
-title: Various Florence makers
+title: Diverses réalisations de Florence
 img: showcase.jpg
-caption: There's so many people who made our face mask, here's just a few of them
+caption: Il y a tellement de personnes qui ont fabriqué notre masque facial, voici quelques-unes d'entre elles
 patterns:
   - florence
 author: joost
 ---
 
-When we published our face mask in February, we did not anticipate that it would blow up the way it did.
+Lorsque nous avons publié notre masque en février, nous ne nous attendions pas à ce qu'il explose comme il l'a fait.
 
-Countless of people have made our mask, and in the avalange of questions and feedback, we haven't really kept trach of who did what.
+De nombreuses personnes ont fait de notre masque, et dans l'avalanche de questions et de retours, nous n'avons pas vraiment gardé la trace de qui a fait quoi.
 
-Above is selection of people who shared their makes with us on social media.  
-Thanks to all of them for doing so, and please do the same if you'd like us to showcase your makes.
+Ci-dessus se trouve la sélection de personnes qui ont partagé leurs marques avec nous sur les réseaux sociaux.  
+Merci à tous de l'avoir fait, et s'il vous plaît faites la même chose si vous souhaitez que nous présentions vos réalisations.

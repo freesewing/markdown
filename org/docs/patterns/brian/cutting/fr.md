@@ -9,7 +9,7 @@ Pour le haut Brian, vous aurez besoin de :
 ###### Brian est un patron de base.
 
 Un patron de base est une forme basique de laquelle on part pour créer d'autres patrons.
-They are sometimes also called slopers, although purists will argue that a block and a sloper are different things.
+Ils sont parfois aussi appelés patrons de base, bien que les puristes soutiennent qu'un bloc et un patron de base sont des choses différentes.
 
 Les patrons de base ne sont donc généralement pas utilisés tels quels, mais plutôt pour élaborer d'autres modèles.
 

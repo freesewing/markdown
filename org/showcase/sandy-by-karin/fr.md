@@ -8,7 +8,7 @@ patterns:
 author: karinkay
 ---
 
-After [her previous showcase of Hugo](/showcase/hugo-by-karin), Karin is back with another freesewing make: this Sandy skirt.
+Après [sa présentation précédente de Hugo](/showcase/hugo-by-karin), Karin est de retour avec une autre réalisation de freesewing : cette jupe Sandy.
 
 ![Une autre vue](view2.jpg)
 

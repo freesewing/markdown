@@ -1,18 +1,18 @@
 ---
 date: 2020-07-01
-title: Wahid by Adam
+title: Wahid par Adam
 img: showcase.jpg
-caption: Adam looking spectacularly dapper in his Wahid
+caption: Adam a l'air spectaculairement zappé dans son Wahid
 patterns:
   - wahid
 author: AdamBradley
 ---
 
-You'd be forgiven to think we cut this out of a high-fashion magazine, but it's a picture from Adam who made this gorgeous Wahid for himself.
+On vous pardonnerait de penser que nous l'avons pris dans un magazine de haute mode, mais c'est une photo d'Adam qui a fait ce magnifique Wahid pour lui-même.
 
 <Note>
 
-This picture is from the [the Instagram feed](https://www.instagram.com/p/CCGnNvQBxJe/) of [Adam Bradley](https://www.instagram.com/grandmarquess/). 
-It is posted here with permission.
+Cette image provient du [flux Instagram ](https://www.instagram.com/p/CCGnNvQBxJe/) de [Adam Bradley](https://www.instagram.com/grandmarquess/). 
+Elle est publiée ici avec son autorisation.
 
 </Note>

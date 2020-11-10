@@ -1,9 +1,9 @@
 ---
-title: This pattern no longer works
+title: Ce patron ne fonctionne plus
 ---
 
-##### This pattern was made with an earlier version of FreeSewing
+##### Ce patron a été fait avec une version antérieure de FreeSewing
 
-It is not compatible with the most recent version.
+Il n'est pas compatible avec la dernière version.
 
-Click the button below to re-create this pattern as-is in the current version. If it falls apart again, we'll pick up the pieces and offer to submit a bug report.
+Cliquez sur le bouton ci-dessous pour recréer ce patron tel qu'il est dans la version actuelle. Si elle bugge à nouveau, nous reprendrons les pièces et vous proposerons de soumettre un rapport de bug.

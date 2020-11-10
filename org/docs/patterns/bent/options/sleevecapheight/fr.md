@@ -1,2 +1,2 @@
 
-This factor controls the height of the sleevecap.
+Ce facteur contrôle la hauteur de la tête de manche.

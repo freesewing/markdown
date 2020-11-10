@@ -1,13 +1,13 @@
 ---
-date: 2020-08-08
-title: Joost does Paco
+date: 08-08-2020
+title: Joost fait Paco
 img: showcase.jpg
-caption: These Paco pants were the initial test for this pattern
+caption: Ce pantalon Paco a été le premier test pour ce patron
 patterns:
   - paco
 author: joost
 ---
 
-Here's the very first Paco pair I've made. These ones have side pockets, no back pockets, and an elasticated hem.
+Voici la toute première version de Paco que j'ai faite. Celui-ci a des poches latérales, pas de poches arrière, et une ceinture élastique.
 
-In other words, these are made with all default options.
+En d'autres termes, il est fait avec toutes les options par défaut.

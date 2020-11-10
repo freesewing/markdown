@@ -1,11 +1,11 @@
 ---
 date: 2020-07-12
-title: JV does Florence
+title: JV fait Florence
 img: showcase.jpg
-caption: Not all face masks are created equal
+caption: Tous les masques ne sont pas réalisés de la même manière
 patterns:
   - florence
 author: MyxterHyde
 ---
 
-JV is a prolific maker and a friend of the site. True to form, they made this stunning Florence face mask.
+JV est un couturier prolifique et un ami du site. Fidèle à sa forme, il a fait un masque Florence stupéfiant.

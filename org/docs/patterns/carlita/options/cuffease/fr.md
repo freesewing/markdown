@@ -1,3 +1,3 @@
 ![Cuff ease](./cuffease.svg)
 
-The amount of ease at your cuff/wrist.
+L'ampleur d'aisance à votre poignet.

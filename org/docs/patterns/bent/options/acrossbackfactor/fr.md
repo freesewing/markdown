@@ -1,2 +1,2 @@
 
-Controls your across back width as a factor of your shoulder to shoulder measurement
+Contrôle la largeur de votre dos en jouant sur la mesure d'une épaule à l'autre

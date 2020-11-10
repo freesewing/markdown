@@ -2,126 +2,126 @@
 title: Légende d'annotation
 ---
 
-## Seams
+## Coutures
 
-Seams (the lines on which you sew) are indicated by a solid line. The color of the line indicates the fabric type of the pattern piece:
+Les coutures (les lignes sur lesquelles vous coudrez) sont indiquées par une ligne pleine. La couleur de la ligne indique le type de tissu de la pièce de patron :
 
 <Legend part="fabricLines" caption="Seamlines for different fabric types" />
 
 ## Marge de couture
 
-Seam allowance is indicated by a dashed line, that has the same width and color as the seam they belong to:
+La marge de couture est indiquée par une ligne pointillée, qui a la même largeur et la même couleur que la couture à laquelle elle appartient :
 
 <Legend part="saLines" caption="Seam allowance for different fabric types" />
 
-Note that the corners of the seam allowance are trimmed, and not extended:
+Notez que les coins de la marge de couture sont coupés, et non prolongés :
 
 <Legend part="sa" caption="A trimmer seam allowance corner" />
 
-## Other lines
+## Autres lignes
 
-Some patterns may have other lines on them, there are 4 additional styles:
+Certains patrons peuvent contenir d'autres lignes, il y a 4 styles supplémentaires :
 
  - Note
- - Mark
- - Contrast
- - Help
+ - Marquer
+ - Contraste
+ - Aide
 
-They might be used by patterns designers to add additional info, depending on the context.
+Elles peuvent être utilisées par les concepteurs de patrons pour ajouter des informations supplémentaires, selon le contexte.
 
 <Legend part="otherLines" caption="Other line styles" />
 
-## Grainline and cut-on-fold indicator
+## Droit-fil et indications de coupe au-pli
 
-Grainlines — a line that indicates the *fabric grain* — look like this:
+Droit-fil— une ligne qui indique le droit-fil du tissu ** — ressemble à ceci :
 
 <Legend part="grainline" caption="A grainline indicator" />
 
-Cut-on-fold indicators look similar, but point towards the line on which the fabric should be folded:
+Les indicateurs de coupe au-pli sont semblables, mais pointent vers la ligne sur laquelle le tissu doit être plié :
 
 <Legend part="cutonfold" caption="A cut-on-fold indicator" />
 
-## Notches
+## Repères
 
-There are two types of notches. The default notch is a blue dot in a blue circle.
+Il y a deux types de repères. Le repère par défaut est un point bleu dans un cercle bleu.
 
-An alternative style shows a red cross in a red circle. This style is used to indicate the back of a garment. For example, on a sleevecap you may see a blue and a red notch. This way you know which side of the sleevecap is the front (the one with the blue notch).
+Un style alternatif montre une croix rouge dans un cercle rouge. Ce style est utilisé pour indiquer le dos d'un vêtement. Par exemple, sur une tête de manche vous pouvez voir un repère bleu et un rouge. De cette façon, vous savez quel côté de la tête de manche est le devant (celui avec l'encoche bleue).
 
 <Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" />
 
 <Tip>
 
-**Why we chose these notches**
+**Pourquoi nous avons choisi ces repères**
 
-In electromagnetism, a ⊙ symbol is used to indicate a flow of current coming towards you (to the front),
-whereas ⊗  is used for a current moving away from you (to the back).
+Dans l'électromagnétisme, un symbole ⊙ est utilisé pour indiquer un flux de courant venant vers vous (vers l'avant),
+alors que ⊗ est utilisé pour un courant s'éloignant de vous (à l'arrière).
 
-You can also think of an arrow. When an arrow flies towards you, you see its tip (⊙).
-When an arrow flies away from you, you see its fletches (⊗).
+Vous pouvez aussi penser à une flèche. Quand une flèche vole vers vous, vous voyez sa pointe (⊙).
+Quand une flèche s'enfuit de vous, vous voyez ses plumes(⊗).
 
 </Tip>
 
-## Buttons, buttonholes, and snaps
+## Boutons, boutonnières, et boutons pressions
 
-Buttons and buttonholes may come in different sizes, but always have the same shaped that represents how they look like in real life:
+Les boutons et boutonnières peuvent venir dans des tailles différentes, mais ont toujours la même forme que celle à quoi ils ressemblent dans la vie réelle :
 
 <Legend part="buttons" caption="A button is shown on the left, and a buttonhole on the right" />
 
-Snaps have a *stud* and *socket* part, and also look like the real thing:
+Les boutons pressions ont une partie *mâle* et *femelle* et ressemblent également à la réalité :
 
 <Legend part="snaps" caption="A snap stud is shown on the left, and a snap socket on the right" />
 
 ## Dimensions
 
-When you opt for a *paperless* pattern, your pattern will come with dimensions:
+Lorsque vous optez pour un patron *sans papier* , votre patron se fourni avec des dimensions :
 
 <Legend part="dimension" caption="An example of a dimension on a pattern" />
 
 <Note>
 
-###### Pay close attention to dimension on (non paperless) patterns
+###### Faites attention à la dimension sur les patrons (non sans papier)
 
-Some patterns use dimension to indicate the full size of a pattern piece.
-This typically happens when a part is a mere rectangle and printing, as a way to save paper.
+Certains patrons utilisent la dimension pour indiquer la taille totale d'une pièce de patron.
+Cela se produit généralement lorsqu'une pièce n'est qu'un simple rectangle, comme un moyen d'économiser du papier.
 
-So when a pattern includes a dimension, make sure to pay attention to it.
+Donc, quand un patron inclut une dimension, assurez-vous d'y prêter attention.
 </Note>
 
-## Scale box
+## Carré/Rectangle test
 
-The scale box allows you to verify that your pattern was printed to the correct scale:
+Le carré/rectangle test vous permet de vérifier que votre patron a été imprimé à la bonne échelle :
 
 <Legend part="scalebox" caption="The scale box" />
 
 <Tip>
-To verify the printed size, you can first only print the page that has the scale box on it.
+Pour vérifier la taille de l'impression, vous pouvez d'abord imprimer la page qui a le carré/rectangle dessus.
 </Tip>
 
-## Title
+## Titre
 
-Each pattern piece has a title that tells you the number and name of the piece, as well as the pattern name:
+Chaque pièce de patron a un titre qui indique le numéro et le nom de la pièce, ainsi que le nom du patron :
 
 <Legend part="title" caption="Example of a title" />
 
 <Note>
-When you generate a pattern on freesewing.org, the title will also include the name of the person the pattern was made for.
+Lorsque vous générez un patron sur freesewing.org, le titre inclura également le nom de la personne pour laquelle le patron a été conçu.
 </Note>
 
 ## Logo
 
-Some (or all) pattern pieces may also include the FreeSewing logo. The logo has no special meaning, it's just branding.
+Certaines (ou toutes) les pièces de patron peuvent également inclure le logo FreeSewing. Le logo n'a pas de signification particulière, c'est juste la marque.
 
 <Legend part="logo" caption="The FreeSewing logo" />
 
-## Lines widths and strokes
+## Épaisseur des lignes et traits
 
-Designers can, if they so choose, override the default line widths or set a specific stroke. They might do that to add additional info, like where to fold a pattern, or the outline of where a pocket would go.
+Les concepteurs peuvent, s'ils le souhaitent, utiliser les épaisseurs de lignes par défaut ou définir un trait spécifique. Ils peuvent le faire pour ajouter des informations supplémentaires, comme l'endroit où plier un patron ou le contour de l'endroit où va une poche.
 
-For reference, here are the different available line widths:
+Pour référence, voici les différentes épaisseurs de lignes disponibles :
 
 <Legend part="lineWidths" caption="The different line widths" />
 
-And these are the different stroke styles:
+Et ici sont les différents styles de trait :
 
 <Legend part="lineStrokes" caption="The different line strokes" />
 

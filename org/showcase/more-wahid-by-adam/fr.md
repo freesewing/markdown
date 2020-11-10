@@ -1,18 +1,18 @@
 ---
 date: 2020-08-10
-title: Another Wahid waistcoat by Adam
+title: Un autre gilet Wahid par Adam
 img: showcase.jpg
-caption: So. Much. Style.
+caption: Trop. De. Style.
 patterns:
   - wahid
 author: AdamBradley
 ---
 
-After [his first jaw-dropping Wahid](/showcase/wahid-by-adam/) Adam is back with another beauty.
+Après [son premier Wahid à couper le souffle](/showcase/wahid-by-adam/) Adam est de retour avec une autre beauté.
 
 <Note>
 
-This picture is from the [the Instagram feed](https://www.instagram.com/p/CDPh9MbhWuH/) of [Adam Bradley](https://www.instagram.com/grandmarquess/). 
-It is posted here with permission.
+Cette image provient du [flux Instagram ](https://www.instagram.com/p/CDPh9MbhWuH/) de [Adam Bradley](https://www.instagram.com/grandmarquess/). 
+Elle est publiée ici avec son autorisation.
 
 </Note>

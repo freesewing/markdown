@@ -1,11 +1,11 @@
 ---
 date: 2020-10-19
-title: Teagan T-Shirt by Karen
+title: T-shirt Teagan par Karen
 img: showcase.jpg
-caption: Karen in her Teagan T-shirt
+caption: Karen dans son T-shirt Teagan
 patterns:
   - teagan
 author: karen
 ---
 
-Karen made this version of [the Teagan T-shirt](/designs/teagan/) drafted for high-bust measurements, one of several options for making the Teagan T-shirt just right for you!
+Karen a fait cette version du [le T-shirt Teagan](/designs/teagan/) dessiné avec l'option pour mesures du dessus de poitrine, l'une des nombreuses options pour faire le T-shirt Teagan parfait pour vous !

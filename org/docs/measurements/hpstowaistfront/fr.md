@@ -1,5 +1,5 @@
 ---
-title: HPS to waist front
+title: Longueur épaule-taille devant
 ---
 
 <Note>
@@ -11,7 +11,7 @@ Reportez-vous à la [documentation du sommet d'épaule](/docs/measurements/hps/)
 
 </Note>
 
-The **high point shoulder (HPS) to waist front** measurement runs from your HPS down to your waist line across the front of your body.
+La mesure de la **longueur du devant depuis l'épaule** se fait verticalement du point de sommet de l'épaule (PHE) jusqu'à l'avant de la ligne qui forme votre tour de taille.
 
-To measure your HPS to waist front, first [localize your HPS point](/docs/measurements/hps/). Then measure straight down to your waist line.
+Pour mesurer votre longueur de dos depuis l'épaule, il faut d'abord [localiser le point de votre sommet d'épaule](/docs/measurements/hps/). Mesurez ensuite tout droit jusqu'à la ligne de la taille.
 
