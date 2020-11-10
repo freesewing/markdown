@@ -23,7 +23,7 @@ So ist es, Benjamin wurde von [Wouter van Wageningen](/users/xdpug) designed und
 
 > Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. Ich wollte den gesamten Prozess verstehen und beherrschen bevor ich mich an grössere Projekte wage. 
 > 
-> Dass ich die Dinge mir so einfach selbst erarbeiten konnte, liegt vor allem an der großartigen   [Babylätzchen Tutorial](/docs/designer/tutorial/part-1) und an der Hilfestellungen, die ich im [Chat](https://gitter.im/freesewing/chat)erhalten habe. Jeder darf in dem Chat Fragen stellen.
+> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://chat.freesewing.org).
 
 ## Wer wird als Nächstes ein Schnittmuster beisteuern?
 

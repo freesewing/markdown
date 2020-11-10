@@ -53,6 +53,6 @@ Now it is time to sew the waist band. Think about adding interfacing if your fab
 
 Press your pants, and try them on!
 
-If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://gitter.im/freesewing/help).
+If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://chat.freesewing.org/).
 
 [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")

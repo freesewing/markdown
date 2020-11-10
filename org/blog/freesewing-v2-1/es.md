@@ -80,5 +80,5 @@ Last but not least, while we try to provide guidance about measurements to help 
 
 More information is available [in the changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
 
-We hope you enjoy this release, and please [stop by our chat room](https://gitter.im/freesewing/chat) to share your thoughts, feedback, suggestions, or ideas. We'd love to hear from you 
+We hope you enjoy this release, and please [stop by our chat room](https://chat.freesewing.org/) to share your thoughts, feedback, suggestions, or ideas. We'd love to hear from you 
 
