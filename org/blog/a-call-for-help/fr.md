@@ -1,5 +1,5 @@
 ---
-date: 30-08-2020
+date: 2020-08-30
 title: Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 img: book.jpg
 caption: "Note: ceci est un long message. Bien que nettement moins que ce livre"
