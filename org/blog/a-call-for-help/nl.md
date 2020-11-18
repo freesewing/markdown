@@ -62,7 +62,7 @@ Dus ik neem het advies van Julian ten harte, en vraag om hulp. Voor we daarmee b
 To ensure that your values are aligned with those of FreeSewing, please take a moment to familiarize yourself with:
 
  - [Our community standards](/docs/about/community-standards/)
- - [Our code of conduct](https://freesewing.dev/guides/code-of-conduct/)
+ - [Our code of conduct](https://freesewing.dev/contributors/code-of-conduct/)
  - [Our revenue pledge](/docs/about/pledge/)
 
 Assuming that reading that made you happy rather than angry, we could use your help :)
@@ -113,11 +113,11 @@ You represent FreeSewing in a non-English community. You can help answer questio
 **Pattern Ambassador**  
 You'll be responsible for a FreeSewing design/pattern. You'll be *the person* to ask questions about how to make said pattern. You'll make sure the documentation is not forgotten. En je kan helpen met vragen of het triëren van probleemrapporten naar developers of ontwerpers.
 
-**Patroonontwerper**   
-Je bedenkt nieuwe patronen voor FreeSewing. Je weet misschien niet eens hoe je een computer aanzet, maar je kan wel een verdomd goed bovenlijf tekenen.
+**Patroonontwerper  
+Je bedenkt nieuwe patronen voor FreeSewing. Je weet misschien niet eens hoe je een computer aanzet, maar je kan wel een verdomd goed bovenlijf tekenen.</p>
 
-**Patroon Developer**   
-Je programmeert nieuwe ontwerpen voor FreeSewing. Je weet misschien niet hoe je naaipatronen moet ontwerpen, maar je bent niet bang van Javascript en ziet het zitten om met een ontwerper samen aan een nieuw patroon te werken.
+**Patroon Developer  
+Je programmeert nieuwe ontwerpen voor FreeSewing. Je weet misschien niet hoe je naaipatronen moet ontwerpen, maar je bent niet bang van Javascript en ziet het zitten om met een ontwerper samen aan een nieuw patroon te werken.</p>
 
 **Proofreader**  
 Je kijkt de originele Engelse tekst of de vertalingen na, op zoek naar typfouten en/of grammaticafouten. Je stelt verbeteringen voor en helpt de toon en schrijfstijl van de documentatie en geschreven tekst op FreeSewing consequent te houden. Je beheerst de taal die je nakijkt goed.

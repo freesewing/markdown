@@ -15,7 +15,7 @@ Il n'y a pas de bonne raison pour cela, nous ne nous étions juste jamais pench�
 
 <LineDrawing pattern='teagan' />
 
-![A man, seated on a purple couch and wearing a speckled grey Teagan T-Shirt.](teagan1.jpg)
+![Un homme, assis sur un canapé violet et portant un T-Shirt teagan gris mouillé.](teagan1.jpg)
 
 ## A qui est-il destiné ?
 
@@ -25,7 +25,7 @@ Teagan est basé sur [notre bloc Brian](/designs/brian/), qui ne prend pas en co
 
 Nous avons également ajouté une option pour ajuster le patron à votre mesure de dessus de poitrine ; ce qui vous donnera un T-shirt plus ajusté avec une aisance & une élasticité qui permettent de s'ajuster à vos seins.
 
-![A woman wearing a striped T-shirt stands in front of a weathered fence. This T-shirt is more fitted through the chest.](teagan3.jpg)
+![Une femme portant un T-shirt rayé se tient devant une clôture usée par le temps. Ce T-shirt est plus ajusté dans la poitrine.](teagan3.jpg)
 
 ## Mises à jour de la communauté
 

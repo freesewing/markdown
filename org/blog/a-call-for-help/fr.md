@@ -1,5 +1,5 @@
 ---
-date: 30-08-2020
+date: 2020-08-30
 title: Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 img: book.jpg
 caption: "Note: ceci est un long message. Bien que nettement moins que ce livre"
@@ -62,7 +62,7 @@ Je prends donc à cœur les conseils de Julian, et je demande de l'aide. Avant d
 Pour vous assurer que vos valeurs sont alignées avec celles de FreeSewing, veuillez prendre un moment pour vous familiariser avec :
 
  - [Les standards de notre communauté](/docs/about/community-standards/)
- - [Notre code de conduite](https://freesewing.dev/guides/code-of-conduct/)
+ - [Notre code de conduite](https://freesewing.dev/contributors/code-of-conduct/)
  - [Notre engagement de revenus](/docs/about/pledge/)
 
 En supposant que cette lecture vous ait rendu plus heureux qu'en colère, nous pourrions utiliser votre aide :)
