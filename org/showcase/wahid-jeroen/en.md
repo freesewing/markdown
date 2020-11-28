@@ -11,5 +11,5 @@ Jeroen made this stunning Wahid waistcoat in a beautiful red plaid.
 Check out the matching Theo shorts Jeroen made [here](https://freesewing.org/showcase/theo-jeroen/)!
 
 <Note>
-This picture is from [the instagram feed](https://www.instagram.com/p/Bm5y6JWngl2/) of [Jeroen Keerl](https://www.instagram.com/jeroenkeerl/). It is posted here with permission.
+This picture is from the instagram feed of [Jeroen Keerl](https://www.instagram.com/jeroenkeerl/). It is posted here with permission.
 </Note>
