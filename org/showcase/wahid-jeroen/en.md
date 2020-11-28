@@ -1,7 +1,7 @@
 ---
 date: 2020-11-27
 title: Red Plaid Wahid Waistcoat by Jeroen
-img: wahid-jeroen.jpg
+img: jeroen-wahid.jpg
 caption: "Red plaid perfection"
 patterns: [wahid]
 author: karen
