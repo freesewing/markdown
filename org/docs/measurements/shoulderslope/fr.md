@@ -4,20 +4,20 @@ title: Pente d'épaule
 
 La mesure de **pente d'épaule** est un indicateur de la façon dont vos épaules descendent.
 
-To measure your shoulder slope, you need to determine the angle at which your shoulder line slopes downward.
+Pour mesurer la pente de votre épaule, vous devez déterminer l'angle à partir duquel votre ligne d'épaule descend.
 
-A good way to measure your shoulder slope is to take a a selfie and rotate it until your shoulder line is horizontal.
+Une bonne façon de mesurer votre pente d'épaule est de prendre un selfie et de le faire pivoter jusqu'à ce que votre ligne d'épaule soit horizontale.
 
-The angle you had to rotate is your shoulder slope.
+L'angle que vous avez dû tourner est votre pente des épaules.
 
 <Note>
 
-Almost all people have a slightly different shoulder slope on both sides.
-That's because your dominant arm is more pronounced.
+Presque toutes les personnes ont une pente légèrement différente des deux côtés.
+C'est parce que votre bras dominant est plus prononcé.
 
-Unless the different is huge, best not to worry about it.
-It won't show up for casual garments, and for formal wear, you're better to add
-assymetric shoulder padding, rather than create an asymetric pattern.
+À moins que la différence ne soit énorme, mieux vaut ne pas s'en inquiéter.
+Il ne se remarquera pas pour les vêtements décontractés, et pour les vêtements formels, il vaut mieux ajouter
+du rembourrage à l'épaule plutôt que de créer un patron asymétrique.
 
 </Note>
 

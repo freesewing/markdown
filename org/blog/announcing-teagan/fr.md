@@ -1,38 +1,38 @@
 ---
 date: 2020-09-09
-title: FreeSewing 2.9 brings our Teagan T-shirt pattern
-linktitle: "Our latest pattern is Teagan, a fitted T-shirt"
+title: FreeSewing 2.9 apporte notre T-shirt Teagan
+linktitle: "Notre dernier patron est Teagan, un T-shirt ajusté"
 img: teagan2.jpg
-caption: "Photo by Alex Andrews from Pexels"
+caption: "Photo d'Alex Andrews de Pexels"
 author: joost
 ---
 
 import LineDrawing from '@freesewing/components/LineDrawing'
 
-A while ago somebody asked whether we had a T-shirt pattern on freesewing.org and it turns out, we didn't.
+Il y a quelque temps, quelqu'un a demandé si nous avions un patron de T-shirt sur freesewing.org et il s'avère que nous ne l'avions pas.
 
-There's no good reason for that, we just never got around to that. So today we're rolling out version 2.9 of FreeSewing with our latest pattern: [the Teagan T-shirt](/designs/teagan/).
+Il n'y a pas de bonne raison pour cela, nous ne nous étions juste jamais penché sur la question. Donc aujourd'hui nous avons lancé la version 2.9 de FreeSewing avec notre dernier patron : [le T-shirt Teagan](/designs/teagan/).
 
 <LineDrawing pattern='teagan' />
 
-![A man, seated on a purple couch and wearing a speckled grey Teagan T-Shirt.](teagan1.jpg)
+![Un homme, assis sur un canapé violet et portant un T-Shirt teagan gris mouillé.](teagan1.jpg)
 
-## Who is this for?
+## A qui est-il destiné ?
 
-Teagan is fitted T-shirt pattern with options for altering the neckline, length, and sleeves.
+Teagan est un patron ajusté de T-shirt avec des options pour modifier le col, la longueur et les manches.
 
-Teagan is based on [our Brian block](/designs/brian/), which does not take breasts into account. That being said, this will work for people with breasts too. Since it uses the chest circumference it will simply draft a T-shirt to fit your full chest.
+Teagan est basé sur [notre bloc Brian](/designs/brian/), qui ne prend pas en compte les seins. Cela étant dit, cela fonctionnera également pour les personnes qui ont des seins. Comme il utilise la circonférence de la poitrine, vous obtiendrez un T-shirt qui s'adaptera à votre poitrine.
 
-We've also added an option to draft this to your high bust, which would give you a more fitted T-shirt with ease & stretch having to accomodate for your breasts.
+Nous avons également ajouté une option pour ajuster le patron à votre mesure de dessus de poitrine ; ce qui vous donnera un T-shirt plus ajusté avec une aisance & une élasticité qui permettent de s'ajuster à vos seins.
 
-![A woman wearing a striped T-shirt stands in front of a weathered fence. This T-shirt is more fitted through the chest.](teagan3.jpg)
+![Une femme portant un T-shirt rayé se tient devant une clôture usée par le temps. Ce T-shirt est plus ajusté dans la poitrine.](teagan3.jpg)
 
-## Community Updates
+## Mises à jour de la communauté
 
-If you're thinking about sewing Teagan, but you're new to sewing or working with knits, never fear! FreeSewing has more support than ever. Chat with us on [Discord](https://chat.freesewing.org/), in a [Facebook Group](https://www.facebook.com/groups/627769821272714), or on [Reddit](https://www.reddit.com/r/freesewing/). Find us on social as @freesewing_org on [Instagram](https://www.instagram.com/freesewing_org/) and [Twitter](https://twitter.com/freesewing_org). If you're looking for tutorials, there's a new [YouTube channel](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for that. It has a whole series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), as well as this amazing preview.
+Si vous songez à coudre Teagan, mais vous êtes débutant pour coudre ou travailler avec des mailles, n'ayez pas peur ! FreeSewing a plus de support que jamais. Discutez avec nous sur [Discord](https://chat.freesewing.org/), dans un groupe de [Facebook](https://www.facebook.com/groups/627769821272714), ou sur [Reddit](https://www.reddit.com/r/freesewing/). Retrouvez-nous sur les réseaux sociaux comme @freesewing_org sur [Instagram](https://www.instagram.com/freesewing_org/) et [Twitter](https://twitter.com/freesewing_org). Si vous cherchez des tutoriels, il y a une nouvelle [chaîne YouTube](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) pour cela. Il a une série entière de sur [la couture de Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), ainsi que cette incroyable vidéo de présentation.
 
 <YouTube id='3UGJSNxNe8I' />
 
-If all of this sounds awesome, and you want to get more involved with FreeSewing, you can check out our repositories and source code on [Github](https://github.com/freesewing/) or connect with other contributors via [Zoom](https://meet.freesewing.org./). You can find announcements about upcoming contributor calls on Discord, in the announcements channel.
+Si tout cela semble génial, et que vous voulez vous impliquer davantage dans FreeSewing, vous pouvez consulter nos répertoires et notre code source sur [Github](https://github.com/freesewing/) ou vous connecter à d'autres contributeurs via [Zoom](https://meet.freesewing.org./). Vous pouvez trouver les annonces sur les appels des contributeurs à venir sur Discord, dans le canal des annonces.
 
-And if you sew up a Teagan T-shirt, let us know what you think!
+Et si vous coupez un T-shirt Teagan, faites-nous savoir ce que vous en pensez !

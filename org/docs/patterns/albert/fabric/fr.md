@@ -1,6 +1,6 @@
 
-An apron works best with a fabric that is sturdy, tightly woven, and easy to clean. In addition, make sure to go for a natural fibre are in any case something that is heat-resistant.
+Un tablier fonctionne mieux avec un tissu épais, tissé serré et facile à nettoyer. De plus, assurez-vous de prendre une fibre naturelle ou en tout cas quelque chose qui est résistant à la chaleur.
 
-A heavy cotton, chino, canvas or denim are all excellent choices.
+Un coton lourd, un chino, une toile ou un denim sont tous d'excellents choix.
 
-When in doubt, go for raw denim (pure cotton, if it's stretches it's no good)
+En cas de doute, optez pour le denim brut (coton pur, s'il étire, ce n'est pas bon)

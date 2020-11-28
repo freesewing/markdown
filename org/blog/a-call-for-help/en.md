@@ -77,7 +77,7 @@ So I am taking Julian's advice to heart, and I am asking for help. Before we get
 To ensure that your values are aligned with those of FreeSewing, please take a moment to familiarize yourself with:
 
  - [Our community standards](/docs/about/community-standards/)
- - [Our code of conduct](https://freesewing.dev/guides/code-of-conduct/)
+ - [Our code of conduct](https://freesewing.dev/contributors/code-of-conduct/)
  - [Our revenue pledge](/docs/about/pledge/)
 
 Assuming that reading that made you happy rather than angry, we could use your help :)

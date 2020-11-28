@@ -1,5 +1,5 @@
 ---
-date: 10/12/2019
+date: 2019-12-10
 title: 4109 raisons d'être contents de 2019
 linktitle: "Rapport annuel 2019"
 img: cover.jpg
@@ -13,7 +13,7 @@ Whaou ! Quelle année pour FreeSewing. En août, nous avons publié la version 2
 
 Aussi cool que soit notre nouvelle infrastructure, ce n'est pas le travail le plus important que nous ayons fait cette année. Oui, c'est plutôt sympa, et oui c'est possible uniquement grâce au travail effectué en 2.0. But that work itself is what matters most. Mais la raison principale de la réécriture de la version 2.0 était de permettre au projet de s'étendre horizontalement. Autrement dit, pour permettre à FreeSewing d'aller là où je ne pouvais pas le porter seul.
 
-D'une certaine manière, FreeSewing a grandi en tant que projet (logiciel). We have several people making regular contributions, [an active chat room](https://chat.freesewing.org/), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+D'une certaine manière, FreeSewing a grandi en tant que projet (logiciel). Plusieurs personnes font des contributions régulières, il existe [un salon de discussion actif](https://chat.freesewing.org/), [un site web dédié pour les développeurs et de la documentation pour les traducteurs](https://freesewing.dev), une pléthore de [packages que nous publions sur NPM](https://www.npmjs.com/search?q=keywords:freesewing), nous avons contribué à corriger et à améliorer les logiciels desquels nous dépendons, et nous avons maintenant également d'autres personnes et équipes qui dépendent des packages que nous avons sortis.
 
 Nous avons actuellement [23 patrons disponibles](/patterns/), nous avons publié 62 packages sur NPM (le registre de packages Node.js). Depuis la sortie de la version 2.0, en moyenne 450 personnes s'inscrivent chaque mois, et nous avons eu au total plus de 15.000 visiteurs.
 
@@ -21,7 +21,7 @@ Nous avons actuellement [23 patrons disponibles](/patterns/), nous avons publié
 
 Depuis la v2, nous sommes également passés à [Crowdin](https://crowdin.com) pour [nos traductions](https://freesewing.dev/guides/translator/). La traduction est sans doute le meilleur moyen de démocratiser l'accès à notre site, et je voudrais crier un grand merci à tous ceux qui ont aidé et continuent à aider.
 
-C'est d'ailleurs peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room](https://chat.freesewing.org/).
+C'est d'ailleurs peut-être aussi le bon moment pour signaler que vous aussi, vous pouvez aider. Notre [documentation pour les traducteurs](https://freesewing.dev/guides/translator/) est un bon endroit pour commencer, ou vous pouvez aussi passer sur [notre salon de discussion](https://chat.freesewing.org/).
 
 ## Ce qui est prévu l'an prochain
 

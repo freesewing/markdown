@@ -3,14 +3,14 @@
 
 <Note>
 
-##### There's more to the picture than meets the eye
+##### Il y a plus de photos que ce qu'on peut voir
 
-This list of FreeSewing contributors is not exhaustive.
-It only lists contributors who opted-in to having their name disclosed on our website.
+Cette liste de contributeurs de FreeSewing n'est pas exhaustive.
+Elle ne répertorie que les contributeurs qui ont opté pour la divulgation de leur nom sur notre site Web.
 
-###### Are you missing?
-Please [let us know on Discord]("https://chat.freesewing.org/") or
-[create an issue]("https://github.com/freesewing/freesewing/issues/new").
+###### Etes-vous manquant ?
+Veuillez [nous le faire savoir sur Discord]("https://chat.freesewing.org/") ou
+[créer une issue]("https://github.com/freesewing/freesewing/issues/new").
 
 </Note>
 

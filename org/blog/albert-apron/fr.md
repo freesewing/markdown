@@ -1,19 +1,19 @@
 ---
 date: 2020-10-17
-title: "We haz apron now: FreeSewing 2.10 brings you Albert, a humble apron pattern"
+title: "Nous avons un tablier maintenant : FreeSewing 2.10 vous apporte Albert, un humble patron de tablier"
 img: apron.jpg
-caption: "Keep those home-made clothes clean while cooking with the Albert apron"
+caption: "Gardez vos vêtements faits maison propres en cuisinant avec le tablier Albert"
 author: joost
 ---
 
-What do you do if your daughter needed an apron for school?
+Que feriez-vous si votre fille avait besoin d'un tablier pour l'école ?
 
- - Would you run out to the store and buy one?
- - Would you fire up your sewing machine and make one?
- - Would you say to yourself _hmm, better make a pattern first_ and then share your FreeSewing pattern so that now everybody can have an apron?
+ - Vous rendriez-vous au magasin pour en acheter un ?
+ - Ou allumeriez-vous votre machine pour en coudre un ?
+ - Pourriez-vous vous dire _hmm, il faire un patron d'abord_ puis partager votre patron FreeSewing afin que tout le monde puisse maintenant avoir un tablier ?
 
-Because [that's what Wouter did](/showcase/albert-by-wouter/), so we wrapped it into FreeSewing v2.10, and [voila](/designs/albert/).
+Parce que [c'est ce que Wouter a fait](/showcase/albert-by-wouter/), donc nous l'avons intégré dans FreeSewing v2.10, et [voilà](/designs/albert/).
 
-![Wouter's daughter wearing the Albert apron](albert.jpg)
+![Fille de Wouter portant le tablier Albert](albert.jpg)
 
 

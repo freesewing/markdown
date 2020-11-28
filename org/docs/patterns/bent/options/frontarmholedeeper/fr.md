@@ -1,6 +1,6 @@
 
-How much the armhole is cut out deeper at the front, than the back.
+Combien l'emmanchure est découpé plus profondément à l'avant, que dans le dos.
 
-Because a shoulder is more rounded at the front of the body than the back, the front of the armhole cuts deeper into the chest than the back cuts into the back part.
+Parce qu'une épaule est plus arrondie à l'avant du corps que le dos, l'avant de l'emmanchure est plus profonde côté poitrine que l'arrière côté dos.
 
-This options controls by how much.
+Cette option contrôle par combien.

@@ -1,2 +1,2 @@
 
-Controls the length of the straps on your apron.
+Contrôle la longueur des liens sur votre tablier.

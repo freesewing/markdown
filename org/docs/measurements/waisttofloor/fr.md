@@ -1,9 +1,9 @@
 ---
-title: Waist to floor
+title: Hauteur de taille
 ---
 
-The **waist to floor** is the measurement from your waist down to the floor.
+La **heuteur de taille** est la mesure de votre tour de taille vers le sol.
 
-To measure your waist to floor measurement, locate the height of your waist, and measure how high it is from the floor.
+Pour mesurer votre hauteur de taille, identifiez votre taille naturelle et mesurer sa hauteur depuis le sol.
 
 Il est souvent plus facile de faire cette mesure sur le côté du corps.

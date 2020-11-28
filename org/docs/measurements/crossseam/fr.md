@@ -1,8 +1,8 @@
 ---
-title: Cross seam
+title: Profondeur de fourche
 ---
 
-The **cross seam** is measured from the waist line at the front through your legs to the back.
+La **profondeur de fourche** est mesurée à partir de la ligne de taille à l'avant jusqu'à l'arrière en passant par la fourche.
 
-To measure your **cross seam** tie a string around your waist. Then, measure down from the center front of your waist going through your legs back up to the back until your meet the string at your waist.
+Pour mesurer votre **profondeur de fourche**, attachez une corde autour de votre taille. Ensuite, mesurez à partir du centre devant de votre taille en passant par vos jambes jusqu'au dos jusqu'à ce que vous rencontriez la corde à votre taille.
 

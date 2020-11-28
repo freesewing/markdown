@@ -1,11 +1,11 @@
 ---
 date: 2020-10-20
-title: Simon shirt by Stefan
+title: Chemise Simon par Stefan
 img: showcase.jpg
-caption: "Stefan wearing Simon shirt, holding his grandson"
+caption: "Stefan porte une chemise Simon en tenant son petit-fils"
 patterns:
   - simon
 author: Leyn
 ---
 
-Stefan's Simon shirt review is unambiguous - as he puts it, "Simon shirt is what I love most". This is his first Simon, made around 2 years ago.
+L'avis de Stefan sur la chemise Simon est sans ambiguïté - comme il le dit, "la chemise Simon est ce que j'aime le plus". C'est son premier Simon, réalisé il y a environ 2 ans.
