@@ -1,17 +1,23 @@
 - - -
 - - -
 
-## Weiterführende Literatur
+#### What is parametric design?
 
-##### Looking for our code?
+Parametric design refers to the use of parameters or variables to manipulate the outcome of a given design within its rules.
 
-Our [developer documentation](https://freesewing.dev) is hosted on [freesewing.dev](https://freesewing.dev). You'll find links to all our repositories there, as well as in-depth documentation, tutorials, and examples.
+In sewing patterns, the *parameters* are what is provided by the user: Their measurements and options that they have selected.  
+The *rules* of the design are what you, the designer, make them.
 
-##### Want to help out?
+#### What does that mean for designers?
 
-Awesome ❤️   
-Our [contributor documentation](https://freesewing.dev/guides/contributor/) is a good starting point. We also have dedicated guides for [translators](https://freesewing.dev/guides/contributor/) and [editors](https://freesewing.dev/guides/editor/).
+When drafting or designing patterns or garments, it is common practice to start with a *fit model* (or *dress form*). The measurements of the fit model are used as input in the initial design.
 
-##### More questions?
+Adapting the pattern for a different model is a tedious task, which is why patterns are graded up and down to cover different sizes.
 
-Our [frequently asked questions](/docs/about/faq/) might have the answer you're looking for. If not, [join our chat room](https://chat.freesewing.org/) and we'll try to help you there.
+But in a parametric sewing pattern, adapting to different sizes or models *just works*.
+
+#### What can FreeSewing do for me?
+
+FreeSewing provides everything you need to create your own parametric sewing patterns with very little effort.
+
+You are free to sell patterns you create, or contribute them to our growing collection.

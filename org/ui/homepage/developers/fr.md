@@ -1,17 +1,25 @@
 - - -
 - - -
 
-## Lectures additionnelles
+#### Curious how this works?
 
-##### Vous recherchez notre code ?
+FreeSewing is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Our [core library](https://www.npmjs.com/package/@freesewing/core) and [patterns](/patterns) are available both for [NodeJS](https://nodejs.org/) and the browser.
 
-Notre [documentation de développeur](https://freesewing.dev) est hébergée sur [freesewing.dev](https://freesewing.dev). Vous y trouverez des liens vers tous nos référentiels, ainsi que des documentations approfondies, des tutoriels et des exemples.
+Our websites are built with [Gatsby](https://www.gatsbyjs.com/)/[React](https://reactjs.org/) and kindly hosted by [Netlify](https://www.netlify.com/).
 
-##### Vous souhaitez nous aider ?
+Everything runs in the browser except user data and conversion to PDF. For that, we have built a backend with [Express](https://expressjs.com/) exposing a REST API.
+
+Our code and markdown content is hosted by [Github](https://github.com/freesewing/). We use [Crowdin](https://crowdin.com/) for translations, search is handled by [Algolia](https://www.algolia.com/) and [Bugsnag](https://www.bugsnag.com/) does error handling for us.
+
+We are appreciative of these and other projects/companies that allow us to stand on their shoulders.
+
+#### Learn more
+
+Our [developer documentation](https://freesewing.dev) is available on [freesewing.dev](https://freesewing.dev). Vous y trouverez des liens vers tous nos référentiels, ainsi que des documentations approfondies, des tutoriels et des exemples.
+
+#### Vous souhaitez nous aider ?
 
 Génial ❤️   
 Notre documentation [contributeur](https://freesewing.dev/guides/contributor/) est un bon point de départ. Nous avons également des guides dédiés pour [traducteurs](https://freesewing.dev/guides/contributor/) et [éditeurs](https://freesewing.dev/guides/editor/).
 
-##### Plus de questions ?
-
-Notre [Foire Aux Questions](/docs/about/faq/) peut avoir la réponse que vous recherchez. Sinon, [rejoignez-nous dans notre salon de discussion](https://chat.freesewing.org/) et nous ferons notre possible pour vous aider.
+Last but not least, [join us on Discord](https://discord.freesewing.org/) where all the other contributors hang out.
