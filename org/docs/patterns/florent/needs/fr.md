@@ -1,5 +1,5 @@
 ---
-title: What you need
+title: Ce dont vous avez besoin
 ---
 
 To make Florent, you will need the following:
