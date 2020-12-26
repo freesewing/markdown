@@ -1,5 +1,5 @@
 ---
-title: Cutting
+title: Coupe
 ---
 
 Depending on how much fabric is available, you might want to cut two top and or side parts, hence the instructions on the pattern himself. Warning: The pattern includes the seam allowances on the top part so if you cut it on fold, don't include them!
