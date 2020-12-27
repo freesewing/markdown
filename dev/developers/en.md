@@ -1,5 +1,5 @@
 ---
-title: Documentation for developers
+title: For developers
 order: 1120
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Documentation for editors
+title: For editors
 order: 1130
 ---
 
