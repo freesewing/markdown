@@ -23,7 +23,7 @@ You can now align and sew the cross seam.
 
 ###### You probably want to insert a zipper
 
-You should insert a zipper or leave the last part of the cross seam open (so you can pin it).
+You should insert a zipper or leave the last part of the cross seam open (so you can pin it).  
 If you don't you wont be able to put on Titan to check the fit.
 
 </Note>

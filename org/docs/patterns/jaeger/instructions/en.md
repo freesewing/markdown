@@ -43,7 +43,6 @@ Apply a rectangular piece of light fusible interfacing around the chest pocket a
 > Sportcoats are typically made from somewhat heavier fabrics.
 > That, and the fact that I prefer to use canvas rather than fusible interfacing,
 > means that I don't interface the front with fusible.
-{.fs-bq}
 
 #### Baste the chest welt outline, mark top line endpoints
 
@@ -144,7 +143,7 @@ Cut out the chest canvas piece. Align it along the roll line, and baste it in pl
 
 Now baste the front canvas and chest piece to your front. Keep in mind that the canvas has no seam allowance.
 
-> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later.
+> Base it a bit inwards from the seam line so you can fold it away when sewing these seams later.  
 > You don't want your canvas to get caught in the seams.
 
 #### Pad-stitch your lapels
@@ -178,7 +177,6 @@ Keep in mind that:
 > secured in place, yet the stitches don't show at the front.
 >
 > This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel.
-{.fs-bq}
 
 ### Close the body
 
@@ -186,10 +184,10 @@ Keep in mind that:
 
 ![Close the sides](closeSides.svg)
 
-Place your front with the good side up, and your side on it with the good side down.
+Place your front with the good side up, and your side on it with the good side down.  
 Align the front/side seams, pin them in place if you feel like it, and sew them togther.
 
-Place this down with the good side up, and place your back on top with the good side down.
+Place this down with the good side up, and place your back on top with the good side down.  
 Align the back/side seams, pin them in place if you feel like it, and sew them togther.
 
 > Make sure the canvas does not get caught in the seam.
@@ -200,7 +198,6 @@ Align the back/side seams, pin them in place if you feel like it, and sew them t
 >
 > Sew the downward part of the side/back seam and the sideways part that forms the vent.
 > Do not sew downwards after that.
-{.fs-bq}
 
 #### Close the back seam
 
