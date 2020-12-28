@@ -3,7 +3,7 @@
 
 Join the outseam (the seam that runs along the side of your leg) of the front and back.
 
-Repeat the step for teh other leg, but **make sure they are the mirror image of each other**. 
+Repeat the step for the other leg, but **make sure they are the mirror image of each other**.
 
 ### Step 2: Join the inseam
 
@@ -23,7 +23,7 @@ You can now align and sew the cross seam.
 
 ###### You probably want to insert a zipper
 
-You should insert a zipper or leave the last part of the cross seam open (so you can pin it).  
-If you don't you want be able to put on Titan to check the fit.
+You should insert a zipper or leave the last part of the cross seam open (so you can pin it).
+If you don't you wont be able to put on Titan to check the fit.
 
 </Note>

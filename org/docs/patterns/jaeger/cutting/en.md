@@ -27,9 +27,9 @@
 
 <Note>
 
-####### Good sides together, or precise pattern matching?
+###### Good sides together, or precise pattern matching?
 
-When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together).
+When cutting out two, you can cut them [good sides together](/docs/sewing/good-sides-together).
 However, when working with fabric with a pattern, I prefer to cut them individually to finely control the pattern matching.
 
 When you cut them individually, remember that they need to be mirror images of each other. So flip either your pattern or your fabric over when cutting the second one.
@@ -47,5 +47,3 @@ When you cut them individually, remember that they need to be mirror images of e
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
 </Warning>
-
-
