@@ -1,5 +1,5 @@
 ---
-title: Documentation for translators
+title: For translators
 order: 1140
 ---
 
