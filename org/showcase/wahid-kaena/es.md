@@ -14,6 +14,6 @@ Kaena made her husband a Wahid waistcoat to go to a wedding, and we just love it
 
 <Note>
 
-These pictures are from the instagram feed of [Kaena](https://www.instagram.com/kaena.mackinnon/). They is posted here with permission.
+These pictures are from the instagram feed of [Kaena](https://www.instagram.com/kaena.mackinnon/). They are posted here with permission.
 
 </Note>
