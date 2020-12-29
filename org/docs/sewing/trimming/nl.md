@@ -4,7 +4,7 @@ title: Bijknippen
 
 ![Naadtoeslag wordt bijgeknipt](trimming.jpg)
 
-Bijknippen is het wegknippen van overtollige NT.
+Trimming, or to trim, is cutting away excessive [seam allowance](/docs/sewing/seam-allowance).
 
 Vaak is het doel van bijknippen het reduceren van bulk in de naden van een kledingstuk.
 
