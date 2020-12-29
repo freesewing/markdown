@@ -1,6 +1,6 @@
 <Note>
 
-####### Jaeger documentation is under construction
+###### Jaeger documentation is under construction
 
 This documentation is not yet finished.
 
@@ -35,9 +35,7 @@ Apply a rectangular piece of light fusible interfacing around the chest pocket a
 
 > ##### We're not using fusible on the entire front
 > 
-> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible. 
-> 
-> {.fs-bq}
+> Sportcoats are typically made from somewhat heavier fabrics. That, and the fact that I prefer to use canvas rather than fusible interfacing, means that I don't interface the front with fusible.
 
 #### Baste the chest welt outline, mark top line endpoints
 
@@ -153,9 +151,7 @@ Keep in mind that:
 > 
 > At the same time, you should not secure the tape only to your canvas either. Instead, you should try to catch a few threads of your fabric on every stitch, so that the tape is secured in place, yet the stitches don't show at the front.
 > 
-> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel. 
-> 
-> {.fs-bq}
+> This is less of an issue above the break point of your lapel where the fabric will be on the backside of the lapel.
 
 ### Close the body
 
@@ -173,9 +169,7 @@ Place this down with the good side up, and place your back on top with the good 
 > 
 > If you have a double vent, this seam will contain the vent.
 > 
-> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that. 
-> 
-> {.fs-bq}
+> Sew the downward part of the side/back seam and the sideways part that forms the vent. Do not sew downwards after that.
 
 #### Close the back seam
 
@@ -207,17 +201,11 @@ Make sure the canvas does not get caught in the seam.
 ##### Align the shoulder notches
 
 Make sure to carefully align the shoulders based on the notches.
-Because of the different shape of the back and front panels on the neck side, 
-the fabric edge looks different. So aligning those edges will not give you 
+Because of the different shape of the back and front panels on the neck side,
+the fabric edge looks different. So aligning those edges will not give you
 what you need.
 
 So make sure to align the notches. It's what they're there for.
 
 </Note>
-
-
-
-
-
-
 
