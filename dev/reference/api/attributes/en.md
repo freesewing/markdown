@@ -1,5 +1,6 @@
 ---
 title: Attributes
+order: 40
 ---
 
 Attributes is an object that holds attributes for a variety of other objects.

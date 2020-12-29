@@ -2,10 +2,13 @@
 title: title
 ---
 
-Bulk-adds snippets to your pattern. 
+The `title` macro adds a title to a pattern part.  
+It is provided by the [title plugin](/reference/plugins/title).
+
+<Example part="plugin_title" caption="Example of a title added by this macro" />
 
 | Property   | Default | Type                | Description | 
-| ---------- | :-----: | ---------------------------------------------------------- |
+| ----------:| :-----: | ---------------------------------------------------------- |
 | `at`       |         | [Point](/reference/api/point) | The point at which to insert the title |
 | `nr`       |         | String              | The number of the pattern part |
 | `title`    |         | String              | The name of the pattern part. If title is not set or is an empty string, this won't be rendered, and the version will go beneath the nr.|
@@ -13,10 +16,4 @@ Bulk-adds snippets to your pattern.
 | `append`   | `false` | Boolean             | Set this to `true` to append the `nr` to any text already set in Point `at`'s attributes, rather than overwrite it |
 | `rotation` | 0       | Number | An optional rotation in degrees |
 | `scale`    | 1       | Number | An optional scaling factor |
-
-<Note>
-
-The `title` macro is provided by the [title plugin](/reference/plugins/title).
-
-</Note>
 

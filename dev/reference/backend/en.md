@@ -4,6 +4,8 @@ for: developers
 about: Documentation for our backend REST API
 ---
 
+<Fixme>This documentation is outdated</Fixme>
+
 <Note>
 
 See also: [The backend documentation](/reference/repos/backend/)

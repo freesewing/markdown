@@ -1,5 +1,6 @@
 ---
 title: Path
+order: 30
 ---
 
 A path represents an SVG path; The lines and curves on our pattern. 

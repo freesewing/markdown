@@ -2,4 +2,6 @@
 title: Common design challenges
 ---
 
-<ReadMore />
+Below is a list of examples of how to implement common design challenges in code:
+
+<ReadMore list />

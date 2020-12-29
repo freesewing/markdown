@@ -17,6 +17,10 @@ goals:
 
 <Fixme>
 
-This tutorial is not yet written. Sorry.
+This tutorial is not yet written. Sorry about that.
+
+Part of the problem is that our main documentation contributors don't use Windows.  
+If you have a Windows system, you could help us by writing up a guide like the ones
+for [Linux](/tutorials/getting-started-linux/) and [Mac](/tutorials/getting-started-mac).
 
 </Fixme>
