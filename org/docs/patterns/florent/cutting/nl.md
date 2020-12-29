@@ -19,5 +19,4 @@ De onderkant van de klep wordt iets naar binnen gezet, terwijl de bovenkant iets
 
 Een typisch Florent patroon ziet er zo uit:
 
-![Een typisch Florent patroon](/img/patterns/florent/layout.svg)
-
+![Een typisch Florent patroon](layout.svg)
