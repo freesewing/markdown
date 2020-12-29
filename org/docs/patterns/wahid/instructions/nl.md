@@ -87,7 +87,7 @@ If you haven't marked the four corners of that rectangle yet, you should do so n
 
 #### Bevestig paspel en beleg zak
 
-![Bevestig paspel en beleg zak](05c.png) {.fs-row2} ![Bevestig paspel en beleg zak](05d.png) {.fs-row2}
+![Bevestig paspel en beleg zak](05c.png) ![Bevestig paspel en beleg zak](05d.png)
 
 Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
 
@@ -137,7 +137,7 @@ Fold them back making sure you to keep your pocket opening a clean rectangle, an
 
 #### Keer de paspel naar de achterkant, plooi en strijk
 
-![Bring the pocket welt to the front, fold and press](05i.png) {.fs-row2} ![Bring the pocket welt to the front, fold and press](05j.png) {.fs-row2}
+![Bring the pocket welt to the front, fold and press](05i.png) ![Bring the pocket welt to the front, fold and press](05j.png)
 
 Flip the pocket welt with the attache pocket back tot he back side.
 
