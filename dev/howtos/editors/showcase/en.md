@@ -1,5 +1,6 @@
 ---
 title: Adding a showcase on freesewing.org
+for: editors
 ---
 
 These are the steps required to add a new [showcase](https://freesewing.org/showcase/) to the website:

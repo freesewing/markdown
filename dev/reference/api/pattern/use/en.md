@@ -15,5 +15,5 @@ freesewing with plugins.
  - Add code example
  - Explain difference between run and build-time plugins
 
-<Fixme>
+</Fixme>
 

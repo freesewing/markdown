@@ -1,5 +1,6 @@
 ---
 title: Adding a blog post on freesewing.org
+for: editors
 ---
 
 These are the steps required to add a new [blog post](https://freesewing.org/showcase/) to the website:
