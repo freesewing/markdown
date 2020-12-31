@@ -3,20 +3,31 @@ title: ReadMore
 order: 70
 ---
 
+This component will list child pages of the current page.
+
+##### Default
 
 ```md
 <ReadMore />
 ```
-
-Will add a list of child-pages (empty in this case)
-
 <ReadMore />
+
+##### With custom title
+
+You can customize the title by passing a `title` prop:
+
+```md
+<ReadMore title='Example pages'/>
+```
+<ReadMore title='Example pages'/>
+
+##### As a list
+
+The most common use of this component is by passing the `list`
+prop which returns the pages as a list:
 
 ```md
 <ReadMore list />
 ```
-
-The same, but lists pages as a bulleted list (empty in this case)
-
 <ReadMore list />
 
