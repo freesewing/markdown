@@ -1,6 +1,6 @@
 ---
-title: FreeSewing plugins
-order: 40
+title: Plugin guide
+order: 400
 icons: 
   - logo
   - plugin

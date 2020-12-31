@@ -1,6 +1,6 @@
 ---
-title: FreeSewing basics
-order: 10
+title: Prerequisites
+order: 100
 for: developers
 icons: 
   - start

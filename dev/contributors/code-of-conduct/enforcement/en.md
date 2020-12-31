@@ -16,6 +16,6 @@ security of the reporter of any incident.
 
 <Fixme>
 
-Cathering should be replaced. See [the open issue on the matter](https://github.com/freesewing/freesewing/issues/739)
+Catherine should be replaced. See [the open issue on the matter](https://github.com/freesewing/freesewing/issues/739)
 
 </Fixme>

@@ -4,3 +4,5 @@ order: 1020
 wide: true
 ---
 
+<ReadMore list />
+

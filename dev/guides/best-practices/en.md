@@ -1,6 +1,6 @@
 ---
-title: Pattern design best practices
-order: 30
+title: Design guide
+order: 300
 for: developers
 icons: 
   - thumbup

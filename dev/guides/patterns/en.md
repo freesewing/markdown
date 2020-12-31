@@ -1,6 +1,6 @@
 ---
-title: Pattern building blocks
-order: 20
+title: Pattern guide
+order: 200
 for: contributors
 icons: 
   - blocks
@@ -18,7 +18,7 @@ goals:
 ---
 
 This illustration is a good starting point to gain a better 
-understanding of the main FreeSewing building blocks:
+understanding of the structure of a FreeSewing pattern:
 
 <Example 
   part="docs_overview" 

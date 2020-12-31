@@ -10,7 +10,7 @@ The part between square brackets is the image caption or alt-text.
 ![This is the alt text & title](image.jpg)
 ```
 
-![This is the caption](image.jpg)
+![This is the alt text & title](image.jpg)
 
 <Tip>
 

@@ -1,7 +1,7 @@
 ---
-title: Formatting content with Markdown
-order: 90
+title: Markdown guide
 for: contributors
+order: 900
 icons: 
   - edit
   - markdown
