@@ -2,6 +2,6 @@
 title: This is a legacy pattern
 ---
 
-This pattern was made with an older version of FreeSewing and is not compatible with the current version.
+Ce pattron a été fait avec une ancienne version de FreeSewing et n'est pas compatible avec la version actuelle.
 
-Click the button below to try and re-create this pattern in the current version. Si elle bugge à nouveau, nous reprendrons les pièces et vous proposerons de soumettre un rapport de bug.
+Cliquez sur le bouton ci-dessous pour recréer ce patron avec la version actuelle. Si elle bugge à nouveau, nous reprendrons les pièces et vous proposerons de soumettre un rapport de bug.
