@@ -153,7 +153,7 @@ pressed to the back as they feed through the machine.
 ## Step 10: Place eyelets for the draw string (optional)
 Mark the middle of your waistband length. Fold one of your waistband pieces double, and mark the middle of the width (do not take the seam allowance into account).
 
-A bit to the left and right of this, you can add two eyelets to pass a drawstring through. Because your Paco pants have elastic in the waistband, as well, this is a nice detail, but is not required.
+A bit to the left and right of this, you can add two eyelets to pass a drawstring through. Da deine Paco Hosen im Hüftgurt elastisches Band haben, ist dies ein schönes Detail, jedoch ist es nicht notwendig.
 
 <Tip>
 
