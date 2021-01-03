@@ -35,15 +35,15 @@ J'ai terminé le mien juste à temps pour un voyage à K. pour rendre visite à 
 
 ![Je n'ai aucun lien avec Bacci, je suis juste un aspirateur à grands magasins de tissus](bacci.jpg) ![Vous pouvez voir la sous couche en molleton au dos de la doublure de manche](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Prenez le pouvoir grâce à ces poches magnifiques
 
-Ladies take note: Carlita --- a female version of Carlton --- is currently on the drawing board.
+Aux filles : Carlita --- version féminine de Carlton --- est actuellement sur la planche à dessin.
 
 Initialement, le projet était de publier les versions masculine et féminine ensemble, mais l'adaptation s'est avérée plus compliquée que prévu à cause des seins.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+J'ai l'impression de faire tourner trop d'assiettes en même temps en ce moment, donc j'espère que la sortie de Carlton laissera un peu de temps/espace pour que Carlita suive bientôt. Quoi qu'il en soit, j'ai promis à Anneke que nous faisions une version femme, et [comme elle est un capitaine Freesewing maintenant](/patrons), j'ai l'intention de tenir cette promesse.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Oh, et précision : quand Carlita sera prête, elle aura autant de poches que Carlton.
 
 ## Introduction au patron de haut de base Bent
 Nous publions en fait deux patrons aujourd'hui. En plus du manteau Carlton, il y a aussi le patron de haut de base [Bent](/patterns/bent).
