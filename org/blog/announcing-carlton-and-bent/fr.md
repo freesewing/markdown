@@ -1,5 +1,5 @@
 ---
-date: 2017-12-20
+date: 20-12-2017
 title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
 linktitle: "Announcing the Carlton Coat and Bent Body Block"
 img: coat.jpg
