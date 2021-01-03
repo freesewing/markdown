@@ -1,14 +1,14 @@
 ---
-title: Detail
+title: Details
 ---
 
-Turn this setting off to only draft a basic outline of the pattern.
+Deaktivieren Sie diese Einstellung, um nur einen einfachen Umriss des Schnittmusters zu entwerfen.
 
-This is useful particularly for people looking to use a laser cutter or other automated tools, and only want the cutlines of the pattern.
+Dies ist besonders nützlich für Menschen, die einen Laserschneider oder andere automatisierte Werkzeuge verwenden möchten, und deshalb nur die Schnittlinien des Musters brauchen.
 
 <Note>
 
-If you're working with a complex pattern, this can also help (a bit) to keep re-rendering snappy.
+Wenn Sie mit einem komplexen Muster arbeiten, kann dies auch (ein bisschen) helfen das Re-Rendering etwas flotter zu halten.
 
 </Note>
 
