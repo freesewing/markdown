@@ -13,9 +13,9 @@ Mes souvenirs sont flous quant à l'origine exacte de cette intiative. Mis à pa
 
 Je me souviens simplement qu'à un moment, [Anneke](http://www.annekecaramin.com/) et moi avons décidé que nous allions revisiter le manteau de Sherlock Holmes. Plus précisément, le manteau porté par Benedict Cumberbatch dans la série Sherlock Holmes de la BBC.
 
-![That coat though](bc.jpg)
+![Principe de ce manteau](bc.jpg)
 
-Pour des raisons évidentes, ce manteau est populaire auprès des cosplayers, mais c'est aussi un manteau vraiment sympa, et d'autres valeureux [tels que Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) se sont lancés.
+Pour des raisons évidentes, ce manteau est populaire auprès des cosplayers, mais c'est aussi un manteau vraiment sympa, et d'autres valeureux [tels que Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) se sont lancés dans sa réalisation.
 
 Je dois avouer qu'avant de finir le mien, je ne savais pas que Melissa avait fait un manteau similaire. De plus, son blog mentionne qu'elle a suivi les instructions d'un article (sur le site Livejournal) qui n'est plus disponible.
 
@@ -23,13 +23,13 @@ Anneke et moi-même n'avons rien fait de tel ; nous avons créé le patron ensem
 
 ### À propos du manteau
 
-Carlton est un manteau croisé, long, s'inspirant des uniformes de cavaliers, sans fente au dos, mais à la place de larges plis pouvant se draper sur le dos du cheval. Or, more realistically, fan open behind you as you walk about.
+Carlton est un manteau croisé, long, s'inspirant des uniformes de cavaliers, sans fente au dos, mais à la place de larges plis pouvant se draper sur le dos du cheval. Ou, de manière plus réaliste, se soulève derrière vous lorsque vous marchez.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Carlton vu de face](front.jpg) ![Carlton vu de dos](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+Il comporte deux poches appliquées sur le devant, deux poches poitrine et deux poches intérieures. Soit six poches au total, vous aurez donc beaucoup de place pour vos affaires.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Poches poitrine et poches applquées extérieures](pockets.jpg) ![Poches intérieures](innerpocket.jpg)
 
 I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
 
