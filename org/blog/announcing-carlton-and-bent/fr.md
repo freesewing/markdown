@@ -50,8 +50,8 @@ Nous publions en fait deux patrons aujourd'hui. En plus du manteau Carlton, il y
 
 Bent est une variation en deux parties de notre [patron de haut de base Brian](/patterns/bent). C'est un patron de base pour des manteaux et vestes pour hommes.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+J'ai initialement conçu Bent comme une base pour ma veste zèbre [refashioners 2017](/blog/the-refashioners-2017/), donc ce patron de veste ne saurait tarder à arriver sur le site dans les mois à venir.
 
-Carlton is also based on Bent, so we're giving you both today.
+Carlton étant également basé sur Bent, nous vous donnons les deux aujourd'hui.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Passez des vacances merveilleuses et heureuses si vous êtes dans ce genre de choses. Et bonnes réalisations !
