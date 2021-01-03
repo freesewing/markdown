@@ -7,17 +7,17 @@ caption: "Vous aussi, vous pouvez porter ce manteau. Pour le chapeau, c'est vous
 author: joost
 ---
 
-Bonne nouvelle, vos désirs de cosplay vont être exhaucés. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Bonne nouvelle, vos désirs de cosplay vont être exhaucés. En tout cas, si vous endossez le rôle de Sherlock Holmes. Notre dernière version de patron, [du manteau Carlton ](/patterns/carlton) est totalement conforme à la prescription de votre médecin si pour une raison étrange, il veut que vous ressembliez au détective préféré de chacun.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Mes souvenirs sont flous quant à l'origine exacte de cette intiative. Mis à part que probablement, il faisait froid et que je n'avais pas de manteau chaud d'hiver, mystère.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Je me souviens simplement qu'à un moment, [Anneke](http://www.annekecaramin.com/) et moi avons décidé que nous allions revisiter le manteau de Sherlock Holmes. Plus précisément, le manteau porté par Benedict Cumberbatch dans la série Sherlock Holmes de la BBC.
 
 ![That coat though](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+Pour des raisons évidentes, ce manteau est populaire auprès des cosplayers, mais c'est aussi un manteau vraiment sympa, et d'autres valeureux [tels que Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) se sont lancés.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Je dois avouer qu'avant de finir le mien, je ne savais pas que Melissa avait fait un manteau similaire. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
 
 Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
 
