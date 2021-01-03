@@ -17,13 +17,13 @@ Je me souviens simplement qu'à un moment, [Anneke](http://www.annekecaramin.com
 
 Pour des raisons évidentes, ce manteau est populaire auprès des cosplayers, mais c'est aussi un manteau vraiment sympa, et d'autres valeureux [tels que Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) se sont lancés.
 
-Je dois avouer qu'avant de finir le mien, je ne savais pas que Melissa avait fait un manteau similaire. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Je dois avouer qu'avant de finir le mien, je ne savais pas que Melissa avait fait un manteau similaire. De plus, son blog mentionne qu'elle a suivi les instructions d'un article (sur le site Livejournal) qui n'est plus disponible.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke et moi-même n'avons rien fait de tel ; nous avons créé le patron ensemble, sur la base des captures d'écran de l'émission télévisée. A la barbare, comme ça.
 
-### About the coat
+### À propos du manteau
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton est un manteau croisé, long, s'inspirant des uniformes de cavaliers, sans fente au dos, mais à la place de larges plis pouvant se draper sur le dos du cheval. Or, more realistically, fan open behind you as you walk about.
 
 ![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
 
