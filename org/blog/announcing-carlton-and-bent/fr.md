@@ -31,9 +31,9 @@ Il comporte deux poches appliquées sur le devant, deux poches poitrine et deux 
 
 ![Poches poitrine et poches applquées extérieures](pockets.jpg) ![Poches intérieures](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+J'ai terminé le mien juste à temps pour un voyage à K. pour rendre visite à mon cher ami et tailleur [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). Il y faisait un froid de canard, mais le manteau m'a bien tenu chaud. Pas surprenant, car il est réalisé dans une laine lourde que j'ai trouvée chez [Bacci à Florence](http://www.baccitessuti.it/en/index.html) un été, et j'ai choisi l'option de le doubler en molleton french terry (je n'aime vraiment pas avoir froid).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Je n'ai aucun lien avec Bacci, je suis juste un aspirateur à grands magasins de tissus](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
 
 ### Burn the patriarchy to the ground through the power of pockets
 
