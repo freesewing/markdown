@@ -7,7 +7,7 @@ Vielen Dank, dass Sie Teil der FreeSewing-Community wurden. Wenn Sie mit uns in 
 ## Seien Sie höflich
 Wir können keine Kommentare akzeptieren, die entweder anstößig an sich oder eindeutig anstößig für andere sind.
 
-We ask you to avoid obscenities and other insulting language, to show respect for fellow users, public figures and the fundamental principles we hopefully all share.
+Wir bitten Sie, Obszönitäten und andere beleidigende Sprache zu vermeiden, um Respekt gegenüber anderen Mitnutzenden, Persönlichkeiten der Öffentlichkeit und den Grundprinzipien, die wir hoffentlich alle teilen, zu zeigen.
 
 Insbesondere bedeutet dies keinen Rassismus, keine Fremdenfeindlichkeit, keine Aufrufe zu Gewalt, keine Diskriminierung auf Grund von Religion, ethnischer Herkunft, Gender, Alter, Körperform, Sprache und dergleichen.
 
