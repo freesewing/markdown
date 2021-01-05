@@ -26,7 +26,7 @@ Een basisvorm is misschien niet het spannendste patroon om naar te kijken, maar 
 
 Breanna is met andere woorden een belangrijke bouwsteen voor ons om onze collectie voor dameskledij uit te breiden. Maar dat betekent niet dat het ook voor jou geen goed nieuws is. Als je al een tijdje met naaien bezig bent, dan is de kans groot dat een je eigen basiscorsage al een tijd op je to-dolijstje staat. Wel, goed nieuws: hier is je basisvorm, kant en klaar.
 
-En natuurlijk heeft Brianna alle toeters en bellen die je intussen van ons verwacht. Ga maar eens kijken naar de [patroonopties](http://localhost:8000/docs/patterns/breanna/options/) voor Breanna. Ik denk dat je onder de indruk zal zijn. Dit basiscorsage geeft je bijvoorbeeld de optie van 1 of 2 coupenaden op 15 mogelijke posities. Dat geeft je in totaal 120 unieke manieren om je coupenaad of -naden te plaatsen.
+En natuurlijk heeft Brianna alle toeters en bellen die je intussen van ons verwacht. Have a look at [the pattern options](/docs/patterns/breanna/options/) and I think you'll be positively impressed. Dit basiscorsage geeft je bijvoorbeeld de optie van 1 of 2 coupenaden op 15 mogelijke posities. Dat geeft je in totaal 120 unieke manieren om je coupenaad of -naden te plaatsen.
 
 Breanna is al een tijdje in ontwikkeling. We zijn benieuwd naar je feedback erop. Het is echt niet veel werk om een toile te maken van een basiscorsage zoals dit. Dus als je wat tijd vrij hebt om dit patroon te testen en ons te laten weten wat je ervan vindt, dan zou dat geweldig zijn.
 
@@ -71,7 +71,7 @@ Patronen op maat zijn uiteraard *ons ding* en dat blijft ook zo. Maar we hopen d
 
 ### Wat zijn eigenlijk 'standaard'maten?
 
-Het lastigste aan de hele oefening met standaardmaten? Uitvissen wat nu eigenlijk 'standaard' is. We hebben een poging gedaan, en als je nieuwsgierig bent kan je hier onze [maattabel](/docs/about/sizes/) bekijken.
+Het lastigste aan de hele oefening met standaardmaten? Uitvissen wat nu eigenlijk 'standaard' is. We took a stab at it, and if you're curious you can [check out our sizing table here](/docs/various/sizes/).
 
 Voor herenkleding gaat onze maattabel van 32 tot 50. Ze zijn allemaal gebaseerd op een standaardmaat 38 die we dan naar boven en naar beneden gegradeerd hebben. Voor dameskleding gaan onze maten van 28 tot 48. Ze zijn gebaseerd op een standaardmaat 34 en naar boven en naar beneden gegradeerd.
 
