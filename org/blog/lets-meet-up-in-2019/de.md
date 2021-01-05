@@ -45,11 +45,11 @@ So please bear with me as we continue this important behind-the-scenes work. Bec
 
 ## Oh, and one more thing
 
-I'm more of a looking-forward than a looking-back kinda guy, but as I reflect on the year, it is clear to me that the most important thing we did with freesewing, was to team up with [our patrons](/patrons).
+I'm more of a looking-forward than a looking-back kinda guy, but as I reflect on the year, it is clear to me that the most important thing we did with freesewing, was to team up with [our patrons](/community/who/patrons).
 
 Twelve months ago , [we launched our patron project](/blog/calling-all-patrons). Since then, 65 patrons — spread roughly equally among our 3 tiers of patronage — have [stepped forward to support freesewing](/patrons/join). The knock-on effects of these people making a commitment to support our work have surpassed even my most optimistic hopes.
 
-You may or may not know that I have [made a pledge](/docs/about/pledge) to donate all income from freesewing to charity. So this morning I transferred our entire revenue for the year (**3162.14 euros**) to [Médecins Sans Frontières](https://www.msf.org/) (Doctors Without Borders). Money that will go towards bringing relief to some of the most vulnerable people on this planet.
+You may or may not know that I have [made a pledge](/docs/various/pledge) to donate all income from freesewing to charity. So this morning I transferred our entire revenue for the year (**3162.14 euros**) to [Médecins Sans Frontières](https://www.msf.org/) (Doctors Without Borders). Money that will go towards bringing relief to some of the most vulnerable people on this planet.
 
 You made that happen, and if it brings a fraction of the joy to your heart as it does to mine, you'll understand how much your patronage means to me.
 
