@@ -12,4 +12,8 @@ Hier is een typische layout:
 
 ![Een typisch Shin patroon](layout.svg)
 
-> The [notation legend](/docs/about/patterns/notation/) explains all the different markings and lines on your draft.
+<Tip>
+
+The [pattern notation guide][1] explains all the different markings and lines on your draft.
+
+</Tip>
