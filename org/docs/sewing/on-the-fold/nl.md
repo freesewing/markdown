@@ -12,7 +12,6 @@ De vouwlijn wordt aangegeven met een dubbele pijl zoals in dit voorbeeld:
 
 <Tip>
 
-For an overview of all indicators on your pattern, 
-refer to the [notation legend](/docs/about/patterns/notation/)
+For an overview of all indicators on your pattern, refer to the [pattern notation guide][1]
 
 </Tip>
