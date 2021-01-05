@@ -1,5 +1,6 @@
 ---
 title: Patrons
+order: 300
 ---
 
-<ReadMore root='docs/patterns' />
+<ReadMore inline />
