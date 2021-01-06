@@ -1,8 +1,8 @@
 - - -
 - - -
 
-We use [Discord](https://discord.freesewing.org/) as our main platform for discussion and cooperation.
+Wir verwenden [Discord](https://discord.freesewing.org/) als Hauptplattform für Diskussion und Zusammenarbeit.
 
-You can join us at [discord.freesewing.org](https://discord.freesewing.org).
+Du kannst unter [discord.freesewing.org](https://discord.freesewing.org) beitreten.
 
-They also have an excellent mobile apps as well as clients for Windows, Mac, and Linux. Head over to [the Discord download page](https://discord.com/download) for those.
+Sie haben auch hervorragende mobile Apps sowie Clients für Windows, Mac und Linux. Diese findest du auf [der Discord Download-Seite](https://discord.com/download).
