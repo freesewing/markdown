@@ -1,8 +1,8 @@
 - - -
 - - -
 
-[The `freesewing` organisation on Github](https://github.com/freesewing/) holds all our repositories and source code.
+[Die `Freesewing` Organisation auf Github](https://github.com/freesewing/) enthält alle unsere Repositories und Quellcodes.
 
-We don't only use Github for development, but also use Github issues for (lightweight) project management and discussion of feature request and bugs.
+Wir verwenden Github nicht nur für die Entwicklung, sondern verwenden auch Github issues für das (leichtere) Projektmanagement und die Diskussion von Feature-Requests und Bugs.
 
-It's also where you'll find the notes and agenda of our [contributor calls](/community/calls/).
+Hier finden Sie auch die Notizen und die Agenda unserer [Mitwirkendentreffen](/community/calls/).
