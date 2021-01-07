@@ -3,4 +3,4 @@ title: Various
 order: 999
 ---
 
-<ReadMore list recurse />
+<ReadMore list />
