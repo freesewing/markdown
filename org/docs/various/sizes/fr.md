@@ -2,37 +2,22 @@
 title: Tableau des tailles
 ---
 
-import SizingTable from '../../../../../src/components/size-table'
+FreeSewing does not use sizes. All our patterns are drafted to a set of measurements.
 
-<Note>
+Since version 2.2 however, we do provide *standard sizes*. Each size is a set of measurements that is an estimation of what a person with a given neck circumference could have as measurements.
 
-###### Pourquoi nous proposons des tailles alors que nous ne les utilisons pas
+This is not an exact science. We provide these sizes as a fast and easy way to get started with our patterns. But we do hope that you will take the time to take your own measurements, or have them taken. This will always yield better results.
 
-FreeSewing n'utilise pas de tailles. Tous nos patrons sont élaborés selon un ensemble de mesures.
-
-Cependant, depuis la version 2.2, nous fournissons des *tailles standards*. 
-Chaque taille est un ensemble de mesures qui est une estimation de ce qu'une personne avec un tour de cou donné pourrait avoir comme mensuration.
-
-Ce n'est pas une science exacte. Nous fournissons ces tailles comme un moyen rapide et facile de 
-commencer à utiliser nos modèles. Mais nous espérons que vous prendrez le temps de prendre
-vos propres mesures, ou de les faire prendre. Cela donnera toujours de meilleurs résultats.
-
-</Note>
-
-<div class="not-xs">
 <Tip>
 
-###### Pas un fan du défilement horizontal ?
+##### Open in a wide view
 
-Il y a beaucoup d'informations dans les tableaux ci-dessous, causant un dépassement de la table en largeur.
-Vous pouvez faire défiler horizontalement pour accéder au reste des données.
-
-Si vous le souhaitez, vous pouvez aussi [afficher les tailles dans une vue élargie](/sizes/).
+These tables take up a lot or screen real-estate, which is why we
+ [show sizes in a wide view](/sizes/).
 
 </Tip>
-</div>
 
-<SizingTable breasts={true} />
 
-<SizingTable breasts={false} />
+
+
 
