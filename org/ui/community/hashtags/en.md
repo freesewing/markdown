@@ -15,3 +15,9 @@ For questions or help, use `#AskFreeSewing`:
 To show your support, or interact with the FreeSewing community in general, use `#WeAreFreeSewing`:
 
 <Hashtag tag='WeAreFreeSewing' />
+
+<Tip>
+
+For extra impact, consider [including these images](/community/share/)
+
+</Tip>
