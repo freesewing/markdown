@@ -1,23 +1,23 @@
 ---
-title: Use of hashtags
+title: Verwendung von Hashtags
 ---
 
-On social media, use the pattern-specific tags when posting about our pattern.
+Benutzen Sie auf sozialen Medien die musterspezifischen Tags wenn Sie über unser Schnittmuster schreiben.
 
-For example, for Simon use `#FreeSewingSimon`:
+Verwenden Sie zum Beispiel für Simon `#FreeSewingSimon`:
 
 <Hashtag tag='FreeSewingSimon' />
 
-For questions or help, use `#AskFreeSewing`:
+Benutzen Sie für Fragen oder Hilfe `#AskFreeSewing`:
 
 <Hashtag tag='AskFreeSewing' />
 
-To show your support, or interact with the FreeSewing community in general, use `#WeAreFreeSewing`:
+Um Ihre Unterstützung zu zeigen oder allgemein mit der FreeSewing Community izu interagieren, verwenden Sie `#WeAreFreeSewing`:
 
 <Hashtag tag='WeAreFreeSewing' />
 
 <Tip>
 
-For extra impact, consider [including these images](/community/share/)
+Für grössere Reichweite könnten Sie [die Bilder verwenden](/community/share/)
 
 </Tip>
