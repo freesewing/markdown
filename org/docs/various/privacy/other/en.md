@@ -27,5 +27,5 @@ We have also not disclosed any personal information for any other reason.
 
 ##### Use by minors under the age of 16
 
-You need to be at least 16 years old to use freesewing.
+For legal reasons, you need to be at least 16 years old to use freesewing.
 
