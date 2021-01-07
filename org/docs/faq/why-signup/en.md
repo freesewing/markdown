@@ -16,11 +16,12 @@ would be hopelessly inpractical.
 ##### Are you asking because you don't trust us?
 
 This question often hints at an underlying distrust towards
-creating an account. As such, the following questions and answers may also be relevant:
+creating an account. As such, the following links may also be relevant:
 
- - [What are you doing with my personal data?](#what-are-you-doing-with-my-personal-data)
- - [Who pays for all of this?](#who-pays-for-all-of-this)
- - [What's your end game?](#whats-your-end-game)
+ - Read [our privacy notice][1]
+ - Learn more about [your rights][2]
 
 </Note>
 
+[1]:/docs/various/privacy/
+[2]:/docs/various/rights/

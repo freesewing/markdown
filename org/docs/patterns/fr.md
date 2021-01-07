@@ -2,4 +2,4 @@
 title: Patrons
 ---
 
-<ReadMore root='docs/patterns' />
+<ReadMore inline />

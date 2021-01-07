@@ -2,4 +2,4 @@
 title: Patterns
 ---
 
-<ReadMore root='docs/patterns' />
+<ReadMore list />
