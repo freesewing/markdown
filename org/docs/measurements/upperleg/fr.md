@@ -2,6 +2,15 @@
 title: Tour de cuisse
 ---
 
-Le **tour de cuisse** est la mesure autour de votre jambe, sur la partie haute, à la fourche.
+The **upper leg circumference** is the measurement around your leg, near the top of your leg.
 
-Pour mesurer votre **tour de cuisse**, enroulez le mètre-ruban autour de votre cuisse, et faites-le glisser le plus haut que vous pouvez. Assurez-vous de maintenir le mètre-ruban horizontal (parallèle au sol) lorsque vous mesurez votre tour de cuisse.
+You should measure this a bit below your crotch, refer to the illustration for guidance. Assurez-vous de maintenir le mètre-ruban horizontal (parallèle au sol) lorsque vous mesurez votre tour de cuisse.
+
+<Tip>
+
+##### Be mindful of the vertical location of this measurement
+
+This measurements is also used as **a vertical reference** to determine the vertical space in which to draft the seat/crotch of trousers. As such, the vertical location of this measurement is important.
+
+</Tip>
+
