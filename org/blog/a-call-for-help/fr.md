@@ -87,20 +87,20 @@ Vous gardez notre backend en phase avec les derniers développements du frontend
 **Body Ambassadeur**  
 Peut-être que vous êtes inhabituellement petit ou grand. Peut-être que vous avez un peu de ventre ou une poitrine bien généreuse. Peut-être que vous avez un handicap qui nécessite des ajustements. Quoi qu'il en soit, vous représentez une minorité avec des problèmes d'ajustements, et êtes prêts à agir en tant qu'ambassadeur pour s'assurer que vos besoins soient entendus et compris.
 
-**Community Builder**  
-You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
+**Bâtisseur communautaire**  
+Vous êtes un extraordinaire extravagant, ou au moins bon imitateur. Vous aimez bavarder avec toutes sortes de personnes, et le réseautage est votre tasse de thé. Vous êtes comme la gelée qui transforme un groupe d'individus en une communauté unie.
 
-**Database Administrator**  
-You look after our database. Other people might feel that's not important, but you know better. You're familiar with MongoDB.
+**Administrateur de la base de données**  
+Vous vous occupez de notre base de données. D'autres personnes pourraient avoir l'impression que ce n'est pas important, mais vous savez bien que ça l'est. Vous êtes familier avec MongoDB.
 
-**Devops Engineer**  
-Your aim is to make almost all these other roles irrelevant by automating the heck out of everything. CI and Github actions are fun for you. You like to sit back and have the robots do the work for you.
+**Ingénieur Devops**  
+Votre but est de rendre la quasi-totalité de ces autres rôles non pertinents en automatisant le plus de choses possible. Les actions de CI et Github sont amusantes pour vous. Vous aimez vous asseoir et demander aux robots de faire le travail pour vous.
 
-**Frontend Developer**  
-You improve our websites, specifically freesewing.org and freesewing.dev. Both of them are built with [Gatsby](https://www.gatsbyjs.com/), an open source framework for building frontends that is powered by [React](https://reactjs.org/). If you know these things, or would like to learn them, this is your jam.
+**Développeur Frontend**  
+Vous améliorez nos sites Web, en particulier freesewing.org et freesewing.dev. Tous deux sont construits avec [Gatsby](https://www.gatsbyjs.com/), un framework open source pour la construction de frontends qui est alimenté par [React](https://reactjs.org/). Si vous connaissez ces choses, ou si vous voulez les apprendre, c'est pour vous.
 
-**Illustrator**  
-You create illustrations to go alongside the written documentation. If you draw a bicycle from memory, it actually looks like a bicycle.
+**Illustrateur**  
+Vous créez des illustrations pour accompagner la documentation écrite. Quand vous tracez une bicyclette de tête, elle ressemble vraiment à une bicyclette.
 
 **Inclusion & Diversity Manager**  
 You have skin in the game when it comes to inclusion and diversity. You'll help make our community welcoming and diverse. You won't be afraid to tell this pasty white dude when he's wrong.
