@@ -85,7 +85,7 @@ L'ordre est alphabétique.
 Vous gardez notre backend en phase avec les derniers développements du frontend. Express ne vous est pas étranger. Node JS est un bon ami. Ou peut-être aimeriez-vous qu'ils le soient.
 
 **Body Ambassadeur**  
-Peut-être que vous êtes inhabituellement petit ou grand. Maybe you have a bit of a pot belly or very large breasts. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
+Peut-être que vous êtes inhabituellement petit ou grand. Peut-être que vous avez un peu de ventre ou une poitrine bien généreuse. Peut-être que vous avez un handicap qui nécessite des ajustements. Quoi qu'il en soit, vous représentez une minorité avec des problèmes d'ajustements, et êtes prêts à agir en tant qu'ambassadeur pour s'assurer que vos besoins soient entendus et compris.
 
 **Community Builder**  
 You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
