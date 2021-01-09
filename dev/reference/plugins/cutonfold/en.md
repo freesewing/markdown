@@ -30,8 +30,8 @@ paths.box = new Path()
   .close();
 
 macro("cutonfold", {
-  from: points.topRight,
-  to: points.topLeft,
+  from: points.bottomLeft,
+  to: points.bottomRight,
   grainline: true
 });
 ```

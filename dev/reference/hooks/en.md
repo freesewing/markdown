@@ -12,4 +12,6 @@ called. It will receive two parameters:
  - An object relevant to the hook (see the specific hook for details)
  - Data passed when the hook was registered (optional)
 
-<ReadMore root='reference/hooks' title="Available hooks"/>
+Below is a list of all available hooks:
+
+<ReadMore list />

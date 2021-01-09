@@ -45,7 +45,7 @@ a while, chances are drafting your own block/sloper has perpetually been on your
 to-do list. Well, good news, because here's your block ready to go.
 
 Oh, and of course it's got all the bells and whistles you've come to expect from us.
-Have a look at [the pattern options](http://localhost:8000/docs/patterns/breanna/options/) and
+Have a look at [the pattern options](/docs/patterns/breanna/options/) and
 I think you'll be positively impressed. If nothing else, this block can accommodate 1 or 2 bust 
 darts in 15 different places, giving you 120 unique ways to place your bust dart(s).
 
@@ -116,7 +116,7 @@ that by lowering the bar to try out our platform, more people will give FreeSewi
 
 The hardest thing about adding support for standard sizes? Figuring out what the heck standard sizes
 are supposed to be. We took a stab at it, and if you're curious you can [check out
-our sizing table here](/docs/about/sizes/). 
+our sizing table here](/docs/various/sizes/). 
 
 For menswear, our size range is 32 to 50, and they are based on a size 38 baseline that we then graded 
 up and down.  

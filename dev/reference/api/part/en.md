@@ -1,5 +1,6 @@
 ---
 title: Part
+order: 20
 ---
 
 Part objects hold the actual information, and together they make up your pattern.

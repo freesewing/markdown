@@ -12,7 +12,7 @@ Formats input (in mm) as the units requested by the user.
 
 ###### This method is available as shorthand
 
-You can access this units method from the [Part.shorthand](#shorthand) method;
+You can access this units method from the [Part.shorthand](#shorthand) method:
 
 ```js
 let { units } = part.shorthand();

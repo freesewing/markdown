@@ -87,13 +87,13 @@ If you haven't marked the four corners of that rectangle yet, you should do so n
 
 #### Attach pocket welt and pocket facing
 
-![Attach pocket welt and pocket facing](05c.png){.fs-row2}
-![Attach pocket welt and pocket facing](05d.png){.fs-row2}
+![Attach pocket welt and pocket facing](05c.png)
+![Attach pocket welt and pocket facing](05d.png)
 
 Place your front piece down with the good side up. We're going to attach the welt to the bottom line of your pocket outline, and the facing to the top line.
 
 > If you've never made a welt pocket before, it can be a bit counterintuitive to attach the pocket on the outside of the garment. Pocket should be on the inside, right?
-> 
+>
 > Relax, the pocket will end up on the inside
 
 Both your pocket welt and your pocket facing have a help line on them. That line needs to line up with the long edges of your pocket.
@@ -138,8 +138,8 @@ Fold them back making sure you to keep your pocket opening a clean rectangle, an
 
 #### Bring the pocket welt to the back, fold and press
 
-![Bring the pocket welt to the front, fold and press](05i.png){.fs-row2}
-![Bring the pocket welt to the front, fold and press](05j.png){.fs-row2}
+![Bring the pocket welt to the front, fold and press](05i.png)
+![Bring the pocket welt to the front, fold and press](05j.png)
 
 Flip the pocket welt with the attache pocket back tot he back side.
 

@@ -6,29 +6,28 @@ icons:
   - terms
 about: FreeSewing's core API reference documents all available methods and objects
 ---
-Freesewing exports a single object with the following properties:
+
+```js
+import freesewing from '@freesewing/core'
+```
+
+The `@freesewing/core` default export is a single object with the following properties:
 
  - `version`: A string containing the FreeSewing version number
  - `Design()`: A *super-constructor* to create new pattern designs.
-
-## Design()
-
-```js
-function freesewing.Design(object config, object|array plugins)
-```
-
-Use this method to create a new pattern design. It takes the 
-following arguments:
-
- - `config` : The pattern configuration
- - `plugins` : Either a plugin object, or an array of plugin objects
- to load in your pattern
+ - `Pattern()`: The `Pattern` constructor
+ - `Point()`: The `Point` constructor
+ - `Path()`: The `Path` constructor
+ - `Snippet()`: The `Snippet` constructor
+ - `utils`: A collection of utilities
+ - `patterns`: FIXME: Explain use-case
+ - `plugins`: FIXME: Explain use-case
 
 <Tip>
 
-This method is a *super-constructor*. It will return a constructor 
-method that should be called to instantiate your pattern. 
+You will typically only use the `Design()` super-constructor.
 
-See [creating a new pattern design](/howtos/core/new-design/) for an example.
+The other constructors and utilities are exported to facilitate unit testing.  
 
 </Tip>
+

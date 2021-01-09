@@ -4,6 +4,13 @@ for: developers
 about: Complete list of all available macros and how to use them
 ---
 
+Macros are a way to combine different operations into a single command,
+and are typically provided by plugins.
+
+Below is a list of available macros:
+
+<ReadMore list />
+
 <Note>All macros take a single object as their configuration. </Note>
 
 <Tip>
@@ -12,5 +19,4 @@ For more info on a specific macro and examples, follow the link to the plugin th
 
 </Tip>
 
-<ReadMore root='reference/macros' title="List of macros" />
 
