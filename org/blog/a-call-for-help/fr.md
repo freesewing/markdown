@@ -75,9 +75,9 @@ Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de
 
 ### De quelle aide avons nous besoin ?
 
-Les Mendiants ne peuvent faire les difficiles. All help is welcome, and I certainly don't want to turn down any volunteers.
+Les Mendiants ne peuvent faire les difficiles. Toute l'aide est la bienvenue, et je ne veux certainement rejeter aucun volontaire.
 
-That being said, an overly vague call defuses the message. So I've listed/included a number of *roles* below to give you an idea of the kind of work that goes into FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
+Cela étant dit, un appel trop vague désavoue le message. J'ai donc écrit un certain nombre de *rôles* ci-dessous pour vous donner une idée du genre de travail dans FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
 
 The order is alphabetic.
 
