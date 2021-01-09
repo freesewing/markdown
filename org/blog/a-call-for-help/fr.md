@@ -12,13 +12,13 @@ Salut tout le monde, c'est Joost. J'écris ce message pour aborder certains prob
  2. [J'ai l'impression de perdre de le lien avec la communauté de couture](#problem-2-i-feel-im-losing-track-of-the-community)
  3. [Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-La bonne nouvelle est qu'il s'agit d'une liste relativement courte. The even better news is that all of these problems be addressed by the same solution: [Community building](#community-building).
+La bonne nouvelle est qu'il s'agit d'une liste relativement courte. La meilleure nouvelle est que tous ces problèmes peuvent être résolus par la même solution : [Développement Communautaire](#community-building).
 
 Avant d'entrer dans le vif du sujet, examinons brièvement chaque problème :
 
-## Problem 1: There is too much work for one person
+## Problème 1 : Il y a trop de travail pour une personne
 
-Over the course of the last week I read [Working in public: The making and maintenance of open source software](https://www.amazon.com/dp/0578675862/) by [Nadia Eghbal](https://nadiaeghbal.com/).
+Au cours de la semaine dernière, j'ai lu [Travailler en public : La création et la maintenance de logiciels open source](https://www.amazon.com/dp/0578675862/) par [Nadia Eghbal](https://nadiaeghbal.com/).
 
 Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Questions like “*How do other maintainers do it?*”, or “*Am I doing it wrong?*”
 
