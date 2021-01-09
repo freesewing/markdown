@@ -6,13 +6,13 @@ caption: "Note: ceci est un long message. Bien que nettement moins que ce livre"
 author: joost
 ---
 
-Salut tout le monde, c'est Joost. I'm writing this post to address some problems that have been worrying me lately. Specifically, these problems:
+Salut tout le monde, c'est Joost. J'écris ce message pour aborder certains problèmes qui m'ont ennuyé ces derniers temps. Plus spécifiquement, ces problèmes :
 
- 1. [There is too much work for one person](#problem-1-there-is-too-much-work-for-one-person)
- 2. [I feel I'm losing track of the sewing community](#problem-2-i-feel-im-losing-track-of-the-community)
- 3. [I feel insecure about how to deal with the issue of systemic racism](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
+ 1. [Il y a trop de travail pour une seule personne](#problem-1-there-is-too-much-work-for-one-person)
+ 2. [J'ai l'impression de perdre de le lien avec la communauté de couture](#problem-2-i-feel-im-losing-track-of-the-community)
+ 3. [Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-The good news is that it's a relatively short list. The even better news is that all of these problems be addressed by the same solution: [Community building](#community-building).
+La bonne nouvelle est qu'il s'agit d'une liste relativement courte. The even better news is that all of these problems be addressed by the same solution: [Community building](#community-building).
 
 Avant d'entrer dans le vif du sujet, examinons brièvement chaque problème :
 
