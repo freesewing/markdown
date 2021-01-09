@@ -77,15 +77,15 @@ Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de
 
 Les Mendiants ne peuvent faire les difficiles. Toute l'aide est la bienvenue, et je ne veux certainement rejeter aucun volontaire.
 
-Cela étant dit, un appel trop vague désavoue le message. J'ai donc écrit un certain nombre de *rôles* ci-dessous pour vous donner une idée du genre de travail dans FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
+Cela étant dit, un appel trop vague désavoue le message. J'ai donc écrit un certain nombre de *rôles* ci-dessous pour vous donner une idée du genre de travail dans FreeSewing. Il ne s'agit pas d'une liste exhaustive, mais simplement d'un point de départ pour une discussion.
 
-The order is alphabetic.
+L'ordre est alphabétique.
 
-**Backend Developer**  
-You keep our backend in step with the latest frontend developments. Express is no stranger to you. Node JS is a good friend. Or maybe you'd like them to be.
+**Développeur Backend**  
+Vous gardez notre backend en phase avec les derniers développements du frontend. Express ne vous est pas étranger. Node JS est un bon ami. Ou peut-être aimeriez-vous qu'ils le soient.
 
-**Body Ambassador**  
-Maybe you're unusually short or tall. Maybe you have a bit of a pot belly or very large breasts. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
+**Body Ambassadeur**  
+Peut-être que vous êtes inhabituellement petit ou grand. Maybe you have a bit of a pot belly or very large breasts. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
 
 **Community Builder**  
 You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
