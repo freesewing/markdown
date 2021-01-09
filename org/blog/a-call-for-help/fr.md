@@ -46,16 +46,16 @@ La diversité d'une communauté est *une condition sine qua non* pour moi. Mais 
 
 ## Développement communautaire
 
-As I mentioned earlier, these things have been on my mind for a while, albeit they were a lot more fuzzy. Then earlier this month I listened to [Black makers matter with Julian Collins on the podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
+Comme mentionné précédemment, ces choses me trottent dans la tête depuis un bon moment, même si elles sont plutôt floues. Puis plus tôt ce mois-ci, j'ai écouté ["Black makers matter" avec Julian Collins sur le podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
 
-[Julian](https://www.instagram.com/juliancreates/) is a patron of FreeSewing (thanks Julian) and actively involved with the [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) movement on Instagram. J'ai contacté Julian à la recherche d'aide, et nous avons eu un long appel Zoom où nous avons parlé de son travail et comment il s'y prend pour organiser la communauté.
+[Julian](https://www.instagram.com/juliancreates/) est un mécène de FreeSewing (merci Julian) et il est activement impliqué dans le mouvement [Black makers matter](https://www.instagram.com/blkmakersmatter/) sur Instagram. J'ai contacté Julian à la recherche d'aide, et nous avons eu un long appel Zoom où nous avons parlé de son travail et comment il s'y prend pour organiser la communauté.
 
-Julian a eu beaucoup de bons conseils. I couldn't possibly cram it all into this post, but it sort of boils down to:
+Julian a eu beaucoup de bons conseils. Je ne pouvais raisonnablement pas tout détailler dans cet article, mais cela se résume à :
 
- - Just ask people for help
- - Be clear about what kind of community you want to build
+ - Il suffit de demander de l'aide aux gens
+ - Soyez clair sur le type de communauté que vous voulez construire
 
-So I am taking Julian's advice to heart, and asking for help. Before we get to that though, let's make sure we're all on the same page about the kind of community we're trying to build here.
+Je prends donc à cœur les conseils de Julian, et je demande de l'aide. Avant d'y arriver, assurons-nous que nous sommes tous sur la même page sur le genre de communauté que nous essayons de construire ici.
 
 ## Vérification rapide : Êtes-vous en ligne avec les valeurs de FreeSewing ?
 
