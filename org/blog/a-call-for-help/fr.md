@@ -20,21 +20,21 @@ Avant d'entrer dans le vif du sujet, examinons brièvement chaque problème :
 
 Au cours de la semaine dernière, j'ai lu [Travailler en public : La création et la maintenance de logiciels open source](https://www.amazon.com/dp/0578675862/) par [Nadia Eghbal](https://nadiaeghbal.com/).
 
-Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Questions like “*How do other maintainers do it?*”, or “*Am I doing it wrong?*”
+Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Comme *Comment font les autres ?* ou *Suis-je en train de me tromper ?*”
 
 En d'autres termes, j''espérais trouver une solution à ce qui est pour moi un problème grandissant : l''incapacité à dimensionner mon propre travail à la façon dont je voudrais dimensionner le projet FreeSewing.
 
-I don't want to spoil the book, but it didn't provide any straightforward answers on how to address that problem. It turns out that the vast majority of open source maintainers are in the same boat. Most projects are run by either a single person, or a handful of people.
+Sans vouloir trop le critiquer, ce livre ne m'a fourni aucune réponse concrète sur la manière de résoudre ce problème. Il s'avère que la grande majorité des personnes travaillant en open source sont dans le même bateau. La plupart des projets sont maintenus par une seule personne ou une poignée de personnes.
 
-There's nothing wrong with that. But it does put a firm upper limit on how much projects like FreeSewing can accomplish.
+Il n'y a rien de mal à cela. Mais elle impose une limite sur le nombre de projets comme FreeSewing qui peuvent être réalisés.
 
-## Problem 2: I feel I'm losing track of the sewing community
+## Problème 2 : J'ai l'impression de perdre contact avec la communauté couture
 
-I worry that I have been neglecting the communal aspects of FreeSewing, there are no comments or *social* aspects on the site. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
+Je m'inquiète d'avoir négligé les aspects communautaires de FreeSewing, il n'y a pas de commentaires ni d'aspects *sociaux* sur le site. J'ai toujours pensé que c'était une erreur d'essayer de réunir les gens sur son propre site Web. Il vaut mieux les laisser discuter sur les plates-formes de leur choix.
 
-Pour la communauté couture, c'est souvent Instagram. Since I have left Instagram year ago, I feel like I'm getting further away from the sewing community.
+Pour la communauté couture, c'est souvent Instagram. Or comme j'ai quitté Instagram il y a un an, j'ai l'impression de m'éloigner de la communauté.
 
-My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the sewing community in a way that works for me.
+Mes [raisons de partir](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) sont les mêmes aujourd'hui qu'à l'époque, mais j'aimerais pouvoir me connecter avec la communauté couture d'une manière qui fonctionne pour moi.
 
 ## Problème 3: Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme.
 
@@ -42,7 +42,7 @@ Premièrement : **Black lives matter**✊🏾
 
 Mon malaise vient de mon environnement. Je suis un homme blanc cis-genre d'âge moyen, né et élevé dans un pays dont l'histoire est teintée du sang de gens de couleur ([ce pays est la Belgique](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). À ce jour, un racisme occasionnel imprègne tous les aspects de la société dans laquelle je vis.
 
-A welcoming a diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
+La diversité d'une communauté est *une condition sine qua non* pour moi. Mais je me sens mal équipé pour comprendre comment en créer une sur FreeSewing.
 
 ## Développement communautaire
 
