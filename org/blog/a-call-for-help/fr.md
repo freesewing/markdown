@@ -61,15 +61,15 @@ Je prends donc à cœur les conseils de Julian, et je demande de l'aide. Avant d
 
 Pour vous assurer que vos valeurs sont alignées avec celles de FreeSewing, veuillez prendre un moment pour vous familiariser avec :
 
- - [Our community standards](/docs/various/community-standards/)
- - [Our code of conduct](https://freesewing.dev/contributors/code-of-conduct/)
- - [Our revenue pledge](/docs/various/pledge/)
+ - [Les standards de notre communauté](/docs/various/community-standards/)
+ - [Notre code de conduite](https://freesewing.dev/contributors/code-of-conduct/)
+ - [Notre engagement de revenus](/docs/various/pledge/)
 
-If reading that made you happy rather than angry, we could use your help :)
+En supposant que cette lecture vous ait rendu plus heureux qu'en colère, nous pourrions utiliser votre aide :)
 
 ## Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 
-We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
+Nous commençons simplement : nous prévoyons de tenir un Zoom/Skype/Autre toutes les 2 semaines pour faire le point au fur-et-à-mesure. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
 
 Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de discussion](https://chat.freesewing.org/).
 
