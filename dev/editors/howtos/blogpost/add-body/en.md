@@ -3,7 +3,7 @@ title: Add the body of the blog post
 order: 90
 ---
 
-Below the frontmatter, you can write the body of your blog post, [using markdown](/guides/markdown/).
+Below the frontmatter, you can write the body of your blog post, [using markdown](/editors/markdown/).
 
 
 <Tip>

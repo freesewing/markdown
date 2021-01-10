@@ -13,9 +13,9 @@ specific use-cases, but in general content is one of:
  - 1% **HTML**: Used in specific places that don't requires internationalisation.
 
 You guessed it, if you know how to work with markdown, you are already covering 
-95% of all our content. As such, [our Markdown guide](/guides/markdown/) is mandatory
+95% of all our content. As such, [our Markdown guide](/editors/markdown/) is mandatory
 reading for all editors. Even if you already know Markdown, you will want to make
-sure you are aware of all the [custom components](/guides/markdown/custom-components/)
+sure you are aware of all the [custom components](/editors/markdown/custom-components/)
 we provide.
 
 <Tip>
