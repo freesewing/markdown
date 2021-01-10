@@ -12,11 +12,11 @@ Ne sommes-nous pas tous heureux que 2020 soit finie ?
 
 D’un point de vue réaliste, au moins certains d’entre vous, ou vos proches, ont été pris au piège absolu de la pandémie COVID-19. Soit indirectement par la perte de revenus ou d'autres préoccupations pratiques, soit directement par la lutte contre le virus lui-même.
 
-I can only offer my sympathy, and the belief that things will get better. So hang in there, and let me briefly take your mind of things by sharing some good news against the bleak backdrop of the annus horribilis that 2020 turned out to be.
+Je ne peux qu'exprimer ma sympathie et la conviction que les choses vont aller vers du mieux. Alors accrochez-vous, et permettez-moi de vous rappeler brièvement les choses en partageant quelques bonnes nouvelles dans le sombre contexte de l'annus horribilis que 2020 s'est avéré être.
 
-##### The face mask tsunami
+##### Le tsunami du masque
 
-FreeSewing found itself — absolutely unexpected I might add — under the glaring spotlight of international media this year. A tidal wave of attention rolled over us, and while the peak lasted only a good month, the repercussions and long tail of these events have shaped our entire year.
+FreeSewing s’est retrouvé — j’ajouterais de façon absolument inattendue — sous les projecteurs des médias internationaux cette année. Une vague de marée d'attention s'est abattue sur nous, et bien que ce pic n'ait duré qu'un bon mois, les répercussions et la longue queue de ces événements ont façonné notre année entière.
 
 It all started in February when COVID-19 was starting to rear its ugly head in Europe and the supplies of personal protective equipment (PPE) started dwindling. It seemed that face masks were going to be a big factor in trying to slow down the spread of this disease, but they were getting harder to come by every day.
 
