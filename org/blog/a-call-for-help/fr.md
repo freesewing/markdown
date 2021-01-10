@@ -102,17 +102,17 @@ Vous améliorez nos sites Web, en particulier freesewing.org et freesewing.dev. 
 **Illustrateur**  
 Vous créez des illustrations pour accompagner la documentation écrite. Quand vous tracez une bicyclette de tête, elle ressemble vraiment à une bicyclette.
 
-**Inclusion & Diversity Manager**  
-You have skin in the game when it comes to inclusion and diversity. You'll help make our community welcoming and diverse. You won't be afraid to tell this pasty white dude when he's wrong.
+**Responsable de diversité & d'inclusion**  
+Vous êtes personnellement impliqué en matière d'inclusion et de diversité. Vous contribuerez à rendre notre communauté accueillante et diversifiée. Vous n'avez pas peur de dire à ce vilain blanc-bec quand il a tort.
 
-**Language Ambassador**  
-You represent FreeSewing in a non-English community. You can help answer questions or triage problem reports. Or you can point out where translations are missing.
+**Ambassadeur de langue**  
+Vous représentez FreeSewing dans une communauté non anglophone. Vous pouvez aider à répondre aux questions ou à trier les rapports de problèmes. Ou vous pouvez indiquer où les traductions sont manquantes.
 
-**Pattern Ambassador**  
-You'll be responsible for a specific FreeSewing design/pattern. You'll be *the person* to ask questions about how to make that pattern. You'll make sure the documentation is not forgotten. And you can help with questions or triage problem reports to developers or designers.
+**Ambassadeur de patrons**  
+Vous serez responsable d'un design/patron FreeSewing spécifique. Tu seras *la personne* à qui poser des questions sur la réalisation de ce patron. Vous vous assurez qu'il n'y a aucun oubli dans la documentation. Et vous pouvez aider avec les questions ou le tri des rapports d'incident pour les développeurs ou les designers.
 
-**Pattern Designer**  
-You come up with new pattern designs for FreeSewing. You might not know how to turn on a computer, but damn if you can't draft a bodice.
+**Concepteur de patrons**  
+Vous proposez de nouveaux designs de patrons pour FreeSewing. You might not know how to turn on a computer, but damn if you can't draft a bodice.
 
 **Pattern Developer**  
 You program new designs for FreeSewing. You might not know how to design sewing patterns, but you're not afraid of Javascript and are happy to team up with a designer to work on a new pattern together.
