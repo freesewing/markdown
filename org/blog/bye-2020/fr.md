@@ -1,16 +1,16 @@
 ---
 date: 2021-01-10
-title: The year 2020 was something alright
+title: L'année 2020 était quelque chose de tout à fait normal
 img: empty-square.jpg
-caption: "A photo by <a href='https://unsplash.com/@onevagabond'>Paulo Silva</a> shows an empty Times Square in New York during the COVID pandemic"
+caption: "Une photo de <a href='https://unsplash.com/@onevagabond'>Paulo Silva</a> montrant un Times Square vide à New York pendant la pandémie COVID"
 author: joost
 ---
 
 
 
-Aren't we all glad 2020 is over?
+Ne sommes-nous pas tous heureux que 2020 soit finie ?
 
-Realistically, at least some of you, or your loved ones, got caught in the absolute gut-punch that is the COVID-19 pandemic. Either indirectly through lost income or other practical concerns, or directly by battling the virus itself.
+D’un point de vue réaliste, au moins certains d’entre vous, ou vos proches, ont été pris au piège absolu de la pandémie COVID-19. Soit indirectement par la perte de revenus ou d'autres préoccupations pratiques, soit directement par la lutte contre le virus lui-même.
 
 I can only offer my sympathy, and the belief that things will get better. So hang in there, and let me briefly take your mind of things by sharing some good news against the bleak backdrop of the annus horribilis that 2020 turned out to be.
 
