@@ -112,40 +112,40 @@ Vous représentez FreeSewing dans une communauté non anglophone. Vous pouvez ai
 Vous serez responsable d'un design/patron FreeSewing spécifique. Tu seras *la personne* à qui poser des questions sur la réalisation de ce patron. Vous vous assurez qu'il n'y a aucun oubli dans la documentation. Et vous pouvez aider avec les questions ou le tri des rapports d'incident pour les développeurs ou les designers.
 
 **Concepteur de patrons**  
-Vous proposez de nouveaux designs de patrons pour FreeSewing. You might not know how to turn on a computer, but damn if you can't draft a bodice.
+Vous proposez de nouveaux designs de patrons pour FreeSewing. Vous ne savez peut-être pas comment allumer un ordinateur, mais vous déchirez en ébauche de corsage.
 
-**Pattern Developer**  
-You program new designs for FreeSewing. You might not know how to design sewing patterns, but you're not afraid of Javascript and are happy to team up with a designer to work on a new pattern together.
+**Développeur de patrons**  
+Vous programmez de nouveaux designs pour FreeSewing. Vous ne savez peut-être pas comment concevoir des patrons de couture, mais vous n'avez pas peur de Javascript et vous êtes heureux de faire équipe avec un concepteur pour travailler ensemble sur un nouveau patron.
 
-**Proofreader**  
-You check original English text of translations for typos and/or grammar mistakes. You propose improvements and watch over a consistent style and tone across FreeSewing's documentation and written text. You're fluent in the language you're proofreading.
+**Relecteur**  
+Vous vérifiez que la traduction du texte original en anglais ne contient pas de faute de frappe et/ou de grammaire. Vous proposez des améliorations et faites attention à un style et un ton cohérents à travers la documentation et le texte écrit de FreeSewing. Vous maîtrisez parfaitement la langue dont vous êtes relecteur.
 
-**Social Media Platform Manager**  
-You represent FreeSewing on a *platform*, where platform could be Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit &hellip;. You manage the FreeSewing account on the platform, and use it to interact with the community.
+**Responsable de plateforme des réseaux sociaux**  
+Vous représentez FreeSewing sur une *plateforme * où la plateforme peut être Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit, &hellip;. Vous gérez le compte FreeSewing sur la plateforme, et l'utilisez pour interagir avec la communauté.
 
-**System Administrator** You look after our servers. You install updates, make sure certificates are up-to-date, the works. Linux is where your heart lies. You secretly automated most of your work with Ansible but hey, you put the playbooks in Git so no worries.
+**Administrateur système** Vous vous occupez de nos serveurs. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
 
-**Technical Writer (code)**  
-You write documentation for freesewing.dev, our developers website. You have good writing skills and familiarity with code (Javascript).
+**Rédacteur technique (code)**  
+Vous écrivez de la documentation pour freesewing.dev, notre site web de développeurs. Vous avez de bonnes compétences en programmation et vous êtes familier avec le code (Javascript).
 
-**Technical Writer (sewing)**  
-You write documentation for freesewing.org, our makers website. You have good writing skills and are familiarity with sewing.
+**Rédacteur technique (couture)**  
+Vous écrivez de la documentation pour freesewing.org, notre site web pour les ceux qui vont réaliser les patrons. Vous avez de bonnes compétences en rédaction et vous êtes à l'aise en couture.
 
-**Translator**  
-You translate FreeSewing into one of its additional languages (French, German, Dutch, Spanish) or if you're ambitious, add a new one. You're fluent in the language you're translating to, and have a good grasp of English.
+**Traducteur**  
+Vous traduisez dans une des langues supplémentaires de FreeSewing (français, allemand, néerlandais, espagnol) ou si vous êtes ambitieux, ajoutez-en une nouvelle. Vous maîtrisez parfaitement la langue dans laquelle vous traduisez et maîtrisez bien l'anglais.
 
 **UX Designer**  
-You know what UX is and are happy to point out where it sucks and how it can be made better.
+Vous savez ce qu'est l'UX et êtes heureux de signaler où ça ne va pas et comment cela peut être amélioré.
 
-**Release Manager**  
-You pull the plug on new releases, you bundle our code, and publish new versions of our packages on NPM.
+**Responsable des versions**  
+Vous avez la main sur les nouvelles versions, vous groupez notre code et publiez de nouvelles versions de nos packages sur NPM.
 
 **Web Designer**  
-You know how to make things pretty, even if you're not sure how to actually make them work.  You appreciate that we don't use #000 for black.
+Vous savez comment rendre les choses jolies, même si vous ne savez pas comment les faire fonctionner.  Vous appréciez que nous n'utilisions pas #000 pour le noir.
 
-### What's in it for me?
+### Qu'est-ce que j'y gagne ?
 
-We can't offer you money. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
+Nous ne pouvons pas vous offrir d'argent. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
 
 What we can offer is responsibility, recognition, and a stake in something that strives to be a force for good in this world.
 
