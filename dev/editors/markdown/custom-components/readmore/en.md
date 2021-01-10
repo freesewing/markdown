@@ -31,3 +31,12 @@ prop which returns the pages as a list:
 ```
 <ReadMore list />
 
+##### As a recursive list
+
+You can make the list recursive with the `recurse` prop (which implies the `list` prop):
+
+```md
+<ReadMore recurse />
+```
+
+<ReadMore recurse />
