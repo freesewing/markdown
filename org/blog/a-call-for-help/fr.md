@@ -145,18 +145,18 @@ Vous savez comment rendre les choses jolies, même si vous ne savez pas comment 
 
 ### Qu'est-ce que j'y gagne ?
 
-Nous ne pouvons pas vous offrir d'argent. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
+Nous ne pouvons pas vous offrir d'argent. Veuillez [lire notre engagement en matière de revenus](/docs/various/pledge/) pour comprendre pourquoi.
 
-What we can offer is responsibility, recognition, and a stake in something that strives to be a force for good in this world.
+Ce que nous pouvons offrir, c'est la responsabilité, la reconnaissance et une participation dans quelque chose qui cherche à être une force pour le bien dans ce monde.
 
-It can also be an excellent learning opportunity for those of you who would like to pivot to a role in web development. And for as far as my time stretches — I will gladly teach and mentor people from underprivileged communities aiming for social mobility.
+Il peut également être une excellente occasion d’apprendre pour ceux d’entre vous qui voudraient jouer un rôle dans le développement du web. Et tant que mon temps pourra le permettre, je me ferai un plaisir d’enseigner et de superviser les gens des communautés défavorisées qui aspirent à la mobilité sociale.
 
 ## Conclusion
 
-Maybe you can help. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
+Peut-être que vous pouvez nous aider. Peut-être que vous connaissez quelqu'un qui peut aider, ou pour qui cela serait une expérience d'apprentissage précieuse.
 
-Either way, I'd appreciate it if you could help spread the message that I'm asking for help.
+Quoi qu'il en soit, je vous serais reconnaissant si vous pouviez aider à faire passer le message que je demande de l'aide.
 
-Thank you,
+Merci,
 
 Joost
