@@ -18,7 +18,7 @@ Je ne peux qu'exprimer ma sympathie et la conviction que les choses vont aller v
 
 FreeSewing s’est retrouvé — j’ajouterais de façon absolument inattendue — sous les projecteurs des médias internationaux cette année. Une vague de marée d'attention s'est abattue sur nous, et bien que ce pic n'ait duré qu'un bon mois, les répercussions et la longue queue de ces événements ont façonné notre année entière.
 
-It all started in February when COVID-19 was starting to rear its ugly head in Europe and the supplies of personal protective equipment (PPE) started dwindling. It seemed that face masks were going to be a big factor in trying to slow down the spread of this disease, but they were getting harder to come by every day.
+Tout a commencé en février lorsque la COVID-19 commençait à pointer sa tête hideuse en Europe et que les stocks d’équipement de protection individuelle (EPI) commençaient à diminuer. It seemed that face masks were going to be a big factor in trying to slow down the spread of this disease, but they were getting harder to come by every day.
 
 So on February 28th, after some design and experimentation, we [published our face mask pattern on freesewing.org](/blog/florence-face-mask/). Three weeks later, we followed up with [a one-page PDF that people could share and adapt](/blog/facemask-frenzy/).
 
