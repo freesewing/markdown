@@ -1,8 +1,8 @@
 ---
-title: Getting help
+title: Hilfe erhalten
 order: 999
 ---
 
-If you get stuck or have questions, you can [join us on Discord](https://chat.freesewing.org/) where there's always somebody around to offer help.
+Falls Sie irgendwo stecken bleiben oder Fragen haben, können Sie [auf Discord zu uns stossen](https://chat.freesewing.org/), wo immer gerne geholfen wird.
 
-Altenatively, you can check out some of the other places [where you can find us](/community/where/).
+Alternativ können sich einige der anderen Orte ansehen [ wo wird zu finden sind](/community/where/).
