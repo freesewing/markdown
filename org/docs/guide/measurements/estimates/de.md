@@ -6,7 +6,7 @@ Um Ihnen zu helfen, Messfehler zu erkennen, zeigen wir Ihnen eine Schätzung Ihr
 
 <Tip>
 
-This estimate is based on your neck circumference, so this won't show up until you've measured your neck.
+Diese Schätzung basiert auf deinem Nackenumfang, daher wird es erst angezeigt, wenn Sie Ihren Hals gemessen haben.
 
 </Tip>
 
