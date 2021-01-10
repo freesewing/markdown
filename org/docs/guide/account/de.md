@@ -1,11 +1,11 @@
 ---
-title: Your account
+title: Ihr Konto
 order: 300
 ---
 
-To generate made-to-measure sewing patterns, we need measurements. Asking for them every time would be rather tedious, so we store them for you.
+Um massgeschneiderte Nähmuster zu erzeugen, benötigen wir Masse. Jedes Mal danach zu fragen wäre umständlich, weshalb wir sie für Sie speichern.
 
-We need a place to store them, and that *place* is your account. Your account data is stored on our backend, subject to [our privacy notice][2], and with respect for [your rights][2].
+Wir brauchen einen Ort, um sie zu speichern, und dieser *Ort* ist Ihr Konto. Ihre Kontodaten werden im Backend gespeichert, unter Einhaltung [unserer Datenschutzerklärung][2], und [Ihrer Rechte][2].
 
 [2]: /docs/various/rights/
 [2]: /docs/various/rights/
