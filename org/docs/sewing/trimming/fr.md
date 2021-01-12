@@ -4,7 +4,7 @@ title: Dégarnir
 
 ![Dégarnissage en cours](trimming.jpg)
 
-Dégarnir, ou parfois cranter, est le fait de couper l'excédent de marge de couture.
+Trimming, or to trim, is cutting away excessive [seam allowance](/docs/sewing/seam-allowance).
 
 Souvent le but de dégarnir est de réduire l'excès de matière dans les coutures d'un vêtement.
 

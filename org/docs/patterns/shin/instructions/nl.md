@@ -1,130 +1,83 @@
-
-## Wat je nodig hebt
-
-Om Shin te maken heb je het volgende nodig:
-
- - Basis naaimateriaal
- - Ongeveer 0,75 meter geschikte stof ([zie Stofkeuzes](#fabric-options))
- - Twee vetergaatjes en een koordje
-
-> #### Een overlockmachine is handig, maar optioneel
+> ### Images coming soon
 > 
-> Zoals met alle gebreide en elastische stoffen maakt een overlock het leven eenvoudiger.
+> These instructions are a work in progress, and we haven't created the illustrations yet. They will be added soon.
+
+## Step 1: Join the backs
+
+Put your two backs on top of each other with the good sides together, and sew them together allong the center back seam.
+
+## Step 2: Join the fronts
+
+### Sew the front seam
+
+Put two of your fronts on top of each other with the good sides together, and sew them together allong the center front seam.
+
+Repeat with the two other fronts so you have two identical sets.
+
+### Baste fronts together
+
+We have 4 fronts because we'll have a double layer at the front of our swim trunks.
+
+Since swimwear fabric tends to be slippery, it's a good idea to baste your fronts together to make it easier to work with them in the next steps.
+
+So place your fronts on top of each other, with good sides out, and sew them together with some large basting stitches in the seam allowance.
+
+## Step 3: Join the sides
+
+Place your back down with the good side up, and place your double front layer on top. Sew fronts and back together at the side seams.
+
+## Step 4: Sew the cross seams
+
+Keep your swim trunks with the good side inwards (the back at least, the front has good side on both sides) and sew the crossseam to create the leg openings.
+
+## Step 5: Place eyelets for the draw string
+
+Markeer het midden van de lengte van je tailleband. Fold the waistband double, and mark the middle of the width (do not take the seam allowance into account).
+
+Installeer twee vetergaten links en rechts van deze markering. This will avoid an embarassing situation when you go for that big dive and now suddenly find your swim trunks on your ankles.
+
+> ### It's best to add some reinforcement
 > 
-> Als je geen overlock hebt, geen zorg. Je hebt het niet echt nodig. Je kan een andere techniek gebruiken voor het naaien van elastische naden, zoals een zigzagsteek, tweelingnaald of elastisch garen.
+> As swimwear fabric is slippery and thin, you might want to add some reinforcement behind these eyelets. A leftover piece of denim will do just fine.
 
-## Stofkeuze
+## Step 6: Prepare the elastic
 
-Een zwembroek zou gemaakt moeten worden uit elastisch materiaal dat tegen zout of chloor kan.
-
-Gewoonlijk valt dit onder te verdelen in een aantal categorieën:
-
- - Nylon gemengd met elasthaan, spandex of lycra is zacht en elastisch. Dit wordt voor de meeste commerciële zwemkledij gebruikt.
- - Polyester gemengd met PBT (polybutyleen terephthalaat) is minder zacht, maar bestand tegen chloor en zout water. Dit wordt vaak voor competitiebadpakken gebruikt.
- - Neopreen, ook gekend als scuba, is zwaarder en minder elastisch. Hier worden duikpakken van gemaakt.
-
-## Knippen
-
- - Cut **2 backs** with good sides together
- - Cut **4 fronts** 2 x 2 with good sides together
- - Cut **1 waistband**
-
-> #### Opmerkingen
-> 
-> - Om minder papier te verbruiken wordt de tailleband niet helemaal geprint, aangezien het gewoon een lange rechthoek is. Dus kijk uit voor de aangegeven lengte en knip een rechthoek van dat formaat.
-> - De zoomwaarde is twee keer de standaard naadwaarde.
-
-Shin is een heel eenvoudig patroon, en bestaat uit twee hoofddelen plus een tailleband.
-
-Hier is een typische layout:
-
-![Een typisch Shin patroon](layout.svg) {.elevation-1}
-
-> De [legende](/en/docs/patterns/notation) legt alle verschillende merktekens en lijnen op je patroon uit.
-
-
-## Constructie
-
-> ##### Prentjes zijn onderweg
-> 
-> Deze instructies zijn een work in progress, en we hebben de illustraties nog niet gemaakt. We voegen ze binnenkort toe.
-
-### Stap 1: Achternaad
-
-Leg je twee rugpanden op elkaar met de goede kanten samen, en stik langs de middenachternaad.
-
-### Stap 2: Voornaad
-
-**Naai de voornaad**
-
-Leg je twee voorpanden bovenop elkaar met de goede kanten samen, en stik de middenvoornaad.
-
-Herhaal met de twee andere voorpanden zodat je twee identieke sets hebt.
-
-**Drieg de voorpanden samen**
-
-We hebben 4 voorpanden omdat we een dubbele laag hebben aan de voorkant van onze zwembroek.
-
-Omdat badpakstof wel eens glad durft te zijn is het een goed idee om je voorpanden aan elkaar te driegen zodat het makkelijker is ze te verwerken.
-
-Dus leg je voorpanden op elkaar, met de verkeerde kanten samen, en drieg ze met grote steken binnen de naadwaarde aan elkaar.
-
-### Stap 3: Naai de zijnaden
-
-Leg je rugpand neer met de goede kant bovenaan, en leg je dubbele voorpand hier bovenop. Stik de voor-en rugpanden vast aan de zijnaden.
-
-### Stap 4: Stik de kruisnaad
-
-Keer de goede kant van je zwembroek naar binnen (de achterkant toch, de voorkant heeft aan elke kant een goede kant) en stik de kruisnaad om pijpen te maken.
-
-### Stap 5: Plaats vetergaatjes voor het koord
-
-Markeer het midden van de lengte van je tailleband. Vouw de tailleband dubbel, en markeer het midden van de breedte (hou geen rekening met de naadwaarde).
-
-Installeer twee vetergaten links en rechts van deze markering. Dit voorkomt het soort gênante situatie waarbij je voor die indrukwekkende duik gaat en opeens merkt dat je zwembroek op je enkels hangt.
-
-> ##### Verstevigen is een goed idee
-> 
-> Aangezien badpakstof dun en glad is, is het geen slecht idee om een beetje versteviging achter de vetergaatjes toe te voegen. Een restje jeans werkt perfect.
-
-### Stap 6: Bereid het elastiek voor
-
-Er is geen magische formule voor de lengte van je elastiek. Dus wikkel het rond je taille en trek het aan tot je vindt dat het goed past.
+There's no magic formula for the length of your elastic. So you wrap it around your waist and pull it tight until you get a good fit.
 
 Markeer deze lengte, knip het elastiek en naai de uiteindes aan elkaar.
 
-### Stap 7: Naai de tailleband
+## Step 7: Join the waistband
 
-Plooi de tailleband in twee met goede kanten op elkaar en leg de (korte) randen samen. Stik.
+Fold the waistband in half with good sides together and line of the (short) edges. Stik.
 
-### Stap 8: Bevestig de tailleband
+## Step 8: Attach the waistband
 
-Vouw je tailleband dubbel langs de lengte met de goede kant naar buiten, en schuif het elastiek ertussen. Zorg dat je de naad van het elastiek gelijk legt met de naad in de tailleband.
+Fold your waistband double along the length with good sides out, and place the elastic inside. Make sure to align the place where the elastic is joined with the place the waistband is joined.
 
-Leg de naad van de tailleband gelijk met de middenachternaad van de zwembroek. Leg de rand van de tailleband gelijk met de rand van het achterpand en speld samen. (Let op dat je met de goede kanten op elkaar werkt).
+Align the back of your swim trunks with the place where you joined the waistband, align the edge of the waistband with the edge of the back, and pin them together. Make certain that you pin it to the bad side of the back.
 
-> ##### Let op je vetergaten
+> ### Mind your eyelets
 > 
-> Als je vetergaatjes in je tailleband gemaakt hebt, check dan of ze zeker op de buitenkant van je tailleband staan, en niet aan de binnenkant.
+> If you've made eyelets in your waistband, double check that they are placed towards the outside, not the inside of your waistband.
 
-Zoek het middenvoor van de tailleband (makkelijk als je vetergaatjes maakte, indien niet plooi je de tailleband in twee) en leg dit gelijk met de naad middenvoor. Speld dit ook op z'n plaats.
+Find the front of the waistband (easy if there's eyelets, if not just fold it double) and align that with the front seam. Pin this in place too.
 
-Speld nu de tailleband langs de hele taille van de zwembroek.
+Now make your way around the swim trunks waist, pinning the waistband in place.
 
-Stik de tailleband dan aan de zwembroek, zo dicht bij het elastiek als je kan, maar stik niet door het elastiek.
+Then, sew the waistband to the swim trunks, as close to the the elastic as you can, but don't sew into the elastic.
 
-Het is ok om de eerste keer niet te dichtbij te stikken, en voor een tweede ronde te gaan zodra je tailleband met elastiek vasthangen en de lagen minder kunnen verschuiven.
+It's fine to not sew too close the first time around, and once your elastic is attached and encased, make a second round to sew it a bit more snugly.
 
-### Stap 9: Zoom de pijpen
+## Step 9: Hem the legs
 
 Vouw de zoom naar boven en stik door langs de goede kant. Als je een coverlock hebt is dit het moment om hem te gebruiken. Indien niet, gebruik een tweelingnaald of een zigzagsteek zodat de zoom elastisch blijft.
 
-> #### Vouw maar een keer om een teveel aan stof te vermijden
+> ### Fold only once, to avoid bulk
 > 
-> Badpakstof rafelt niet, dus je kan dit gewoon één keer omplooien en vaststikken, en daarna de rand netjes bijknippen.
+> Swimwear fabric doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
-### Stap 10: Haal een koordje door de tailleband
+## Step 10: Thread a draw string around the waist
 
-Haal een koordje door één vetergat, rondom te tailleband, en uit het andere vetergat.
+Thread a drawstring through one eyelet, around the waist, and out of the other eyelet.
 
-Ziezo, je bent klaar!
+Dat is het, je bent klaar!

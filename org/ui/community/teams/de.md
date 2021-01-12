@@ -2,14 +2,6 @@
 title: Teams
 ---
 
-<Note>
+Ein Team ist nicht mehr als eine Gruppe von Personen, die sich für ein und dasselbe Thema interessieren und zusammenarbeiten wollen, um dieses weiterzubringen.
 
-##### What is a team?
-
-A team is no more than a group of people who are interested in the same topic,
-and who want to work together to move it forward.
-
-Teams emerge organically. When enough people get involved in a specific topic,
-it makes sense to branch it off into its own team.
-
-</Note>
+Teams entstehen von selbst. Wenn genug Leute an einem bestimmten Thema beteiligt sind, ist es sinnvoll, es in ein eigenes Team abzuzweigen.

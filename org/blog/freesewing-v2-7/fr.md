@@ -63,8 +63,8 @@ Pour contourner ce problème, vous devriez probablement [recharger votre compte]
 
 Nous avons également apporté quelques modifications au site Web.
 
- - Nous avons ajouté une [légende de notation](/docs/about/patterns/notation/) pour prendre en compte la signification de ces marquages sur votre patron.
- - Nous avons ajouté une page [reload account](/account/reload/) pour vous aider à éviter des problèmes liés aux données du compte mis en cache
+ - We've added a [pattern notation guide](/docs/various/notation/) to take the guesswork out of what those markings on your pattern mean.
+ - We've added a [reload account](/account/actions/reload/) page to help you avoid issues due to cached account data
  - Nous avons changé le style des différentes tailles lorsque vous comparez un patron, et nous avons aussi inclus une légende montrant quel trait correspond à quelle taille.
 
 

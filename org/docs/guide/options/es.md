@@ -1,9 +1,11 @@
 ---
-title: Settings
+title: Configuring your pattern
+order: 998
 ---
 
-When you [create a pattern](/create/) you can not only configure the pattern in ways the designer intended, there's also options that influence how we generate the pattern.
+When you [create a pattern](/create/) there are two important groups of things you can tweak:
 
-The following such options are available on all patterns:
+ - The **design options** are options the designer added to the pattern. Typically style and fit choices.
+ - The **pattern options** are a set of options that come with the platform, and are available for all patterns. Below is a complete list:
 
-<ReadMore root='docs/about/patterns/settings' />
+<ReadMore list />

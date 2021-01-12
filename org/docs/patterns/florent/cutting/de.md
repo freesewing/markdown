@@ -19,5 +19,4 @@ The brim bottom part is inset, while the brim top part is offset so that the sea
 
 A typical Florent layout looks like this:
 
-![A typical Florent layout](/img/patterns/florent/layout.svg)
-
+![A typical Florent layout](layout.svg)

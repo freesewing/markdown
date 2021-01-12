@@ -1,7 +1,7 @@
 ---
-title: Contents
+title: Inhalt
 ---
 
-This setting allows you to manually pick which parts you want to include in your pattern.
+Mit dieser Einstellung können Sie manuell auswählen, welche Teile Sie in Ihr Muster einfügen möchten.
 
-This is often useful when you want to combine different styles. For example, you could draft a shirt pattern, and then also draft different cuffs for it. There's no need to print all pattern parts, so you can only draft your second pair of cuffs.
+Dies ist oft nützlich, wenn Sie verschiedene Stile kombinieren möchten. Beim Entwerfen eines Hemdmuster könnten Sie beispielsweise die Manschetten weglassen und dann andere dafür einsetzen. Dabei wäre es nicht notwendig alle Teile zu drucken, also könnten sie nur Ihr zweites Manschettenpaar benützen.
