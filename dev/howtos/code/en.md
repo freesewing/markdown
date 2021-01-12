@@ -1,5 +1,7 @@
 ---
-title: Common code patterns
+title: Common code challenges
 ---
 
-<ReadMore root='howtos/code' />
+Below is a list of examples of how to implement common tasks in code:
+
+<ReadMore list />

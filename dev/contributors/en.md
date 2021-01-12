@@ -13,7 +13,7 @@ We would love to have you on board, but before we get to that, let's look at wha
 ##### Contributor requirements
 
  - Please respect [our community standards](https://freesewing.org/docs/about/community-standards/)
- - As a contributor, you must uphold [our Code of Conduct](https://freesewing.dev/contributors/code-of-conduct/)
+ - As a contributor, you must uphold [our Code of Conduct](/contributors/code-of-conduct/)
 
 </Note>
 

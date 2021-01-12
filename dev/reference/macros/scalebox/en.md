@@ -2,7 +2,18 @@
 title: scalebox
 ---
 
-Adds a *scale box* to your pattern.
+The `scalebox` macro adds a *scale box* to your pattern. This box allows
+users to verify their pattern is printed to scale.
+
+The `scalebox` macro is provided by the [scalebox plugin](/reference/plugins/scalebox).
+
+<Example part="plugin_scalebox" caption="Example of the scalebox added by this macro" />
+
+```js
+macro('scalebox', {
+  at: points.anchor
+})
+```
 
 | Property    | Default | Type                | Description | 
 |-------------|---------|---------------------|-------------|
@@ -13,10 +24,4 @@ Adds a *scale box* to your pattern.
 | `rotate`    | 0       | Number              | Rotation in degrees |
 
 (\*) `freesewingIsMadeByJoostDeCockAndContributors \n withTheFinancialSupportOfOurPatrons`
-
-<Note>
-
-The `round` macro is provided by the [round plugin](/reference/plugins/round).
-
-</Note>
 

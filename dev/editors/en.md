@@ -3,18 +3,23 @@ title: For editors
 order: 1130
 ---
 
-The *static content* of our websites is 
-stored in [our markdown repository](/reference/repos/markdown/). Anybody can make changes
-to it and submit a pull request.
+Content is king, and as an *editor* content is your baby.
 
-Whether it's a documentation page (like this one), a blog post, or showcase, 
-if you see something that can be improved, go ahead and change it.
+We have a few different [content sources](/editor/content-sources/) that all have their own
+specific use-cases, but in general content is one of:
 
-<Note>
+ - 95% **Markdown**: Used for the vast majority of our content.
+ - 4% **YAML**: Used for the internationalisation of our software.
+ - 1% **HTML**: Used in specific places that don't requires internationalisation.
 
-All our content is written in MarkDown. If you're new to 
-MarkDown, [read our MarkDown guide](/guides/markdown/) first.
+You guessed it, if you know how to work with markdown, you are already covering 
+95% of all our content. As such, [our Markdown guide](/editors/markdown/) is mandatory
+reading for all editors. Even if you already know Markdown, you will want to make
+sure you are aware of all the [custom components](/editors/markdown/custom-components/)
+we provide.
 
-</Note>
+<Tip>
 
-<ReadMore />
+Make sure to check out the howtos on [Common tasks for editors](/howtos/editors/)
+
+</Tip>

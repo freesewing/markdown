@@ -1,5 +1,6 @@
 ---
 title: Patterns
+order: 300
 ---
 
-<ReadMore root='docs/patterns' />
+<ReadMore list />

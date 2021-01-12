@@ -10,9 +10,14 @@ title: buttons
 &nbsp;
 [![Open issues tagged pkg:plugin-buttons](https://img.shields.io/github/issues/freesewing/freesewing/pkg:plugin-buttons.svg?label=Issues)](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3Apkg%3Aplugin-buttons)
 
-The **buttons** plugin provides `button` and `buttonhold` [snippets](/reference/snippets/):
+The **buttons** plugin provides the following [snippets](/reference/snippets/):
 
-<Example part="plugin_buttons" caption="An example of the button, buttonhole, snap-male, and snap-female snippets" design={false} />
+ - `button`
+ - `buttonhole`
+ - `snap-stud`
+ - `snap-socket`
+
+<Example part="plugin_buttons" caption="An example of the button, buttonhole, snap-stud, and snap-socket snippets" design={false} />
 
 ```js
 let { Point, snippets, Snippet } = part.shorthand();
