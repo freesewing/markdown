@@ -72,7 +72,7 @@ Add the frontmatter to the top of the `en.md` file.
 
 ## Add the body
 
-Below the frontmatter, you can write the body of your post, [using markdown](/guides/markdown/).
+Below the frontmatter, you can write the body of your post, [using markdown](/editors/markdown/).
 
 
 <Tip>
