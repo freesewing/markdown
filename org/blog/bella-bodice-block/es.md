@@ -1,6 +1,6 @@
 ---
 date: 2021-01-17
-title: The Bella bodice block, and why I'm taking a break from womenswear
+title: The Bella bodice block for womenswear
 img: court.jpg
 caption: "Remember when we were allowed to go outside?"
 author: joost
