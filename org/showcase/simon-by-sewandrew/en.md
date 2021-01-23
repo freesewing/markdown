@@ -11,6 +11,6 @@ This excellent Simon shirt was made by Andrew, who also [blogged about the proce
 
 <Note>
 
-This picture is from the the Instagram feed of [Andrew](https://www.instagram.com/sewandrew/). It is posted here with permission.
+This picture is from [the Instagram feed of @sewandrew](https://www.instagram.com/sewandrew/). It is reposted here with permission.
 
 </Note>
