@@ -1,15 +1,15 @@
 - - -
 - - -
 
-#### Curious how this works?
+#### Vous êtes curieux de savoir comment ça marche ?
 
-FreeSewing is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Our [core library](https://www.npmjs.com/package/@freesewing/core) and [patterns](/patterns) are available both for [NodeJS](https://nodejs.org/) and the browser.
+FreeSewing est écrit en [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). No [bibliothèque de base](https://www.npmjs.com/package/@freesewing/core) et [patrons](/patterns) sont disponibles à la fois pour [NodeJS](https://nodejs.org/) et le navigateur.
 
-Our websites are built with [Gatsby](https://www.gatsbyjs.com/)/[React](https://reactjs.org/) and kindly hosted by [Netlify](https://www.netlify.com/).
+Nos sites Web sont construits avec [Gatsby](https://www.gatsbyjs.com/)/[React](https://reactjs.org/) et gracieusement hébergés par [Netlify](https://www.netlify.com/).
 
-Everything runs in the browser except user data and conversion to PDF. For that, we have built a backend with [Express](https://expressjs.com/) exposing a REST API.
+Tout fonctionne dans le navigateur, sauf les données des utilisateurs et la conversion en PDF. Pour cela, nous avons construit un backend avec [Express](https://expressjs.com/) exposant une API REST.
 
-Our code and markdown content is hosted by [Github](https://github.com/freesewing/). We use [Crowdin](https://crowdin.com/) for translations, search is handled by [Algolia](https://www.algolia.com/) and [Bugsnag](https://www.bugsnag.com/) does error handling for us.
+Notre contenu de code et de markdown est hébergé par [Github](https://github.com/freesewing/). Nous utilisons [Crowdin](https://crowdin.com/) pour les traductions, la recherche est gérée par [Algolia](https://www.algolia.com/) et [Bugsnag](https://www.bugsnag.com/) gère les erreurs pour nous.
 
 We are appreciative of these and other projects/companies that allow us to stand on their shoulders.
 
