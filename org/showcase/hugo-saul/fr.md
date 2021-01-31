@@ -1,15 +1,15 @@
 ---
 date: 2020-11-27
-title: Black Hugo with Pink Ribbing by Saul
+title: Hugo noir avec bord-côte rose par Saul
 img: hugo-saul.jpg
-caption: "Check out that ribbing!"
+caption: "Admirez ces bords-côtes !"
 patterns:
   - hugo
 author: karen
 ---
 
-Saul sewed up this Hugo hoodie in black, but gave it that extra something with bright pink ribbing at the hem and wrists. Can't buy that at the shop!
+Saul a cousu ce sweat à capuche Hugo en noir, mais lui a donné ce truc en plus avec des bandes rose vif à l'ourlet et aux poignets. Vous ne trouverez pas ça en magasin !
 
 <Note>
-This picture is from the instagram feed of [Sarah](https://www.instagram.com/sarahlh98/). It is posted here with permission from Sarah and Saul.
+Cette image provient du flux Instagram de [Sarah](https://www.instagram.com/sarahlh98/). Il est partagé ici avec la permission de Sarah et Saul.
 </Note>
