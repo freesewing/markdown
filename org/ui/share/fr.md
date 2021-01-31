@@ -2,7 +2,7 @@
 title: Liens de partage
 ---
 
-Faites connaître FreeSewing au monde entier. You can link to any specific page, or to the homepage: https://freesewing.org/
+Faites connaître FreeSewing au monde entier. Vous pouvez fournir un lien vers une page spécifique, ou vers la page d'accueil : https://fr.freesewing.org/
 
 You can use the images below, and make sure to [use the relevant hashtags](/community/hashtags/).
 
