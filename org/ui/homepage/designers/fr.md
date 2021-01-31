@@ -1,12 +1,12 @@
 - - -
 - - -
 
-#### What is parametric design?
+#### Qu'est-ce que la conception paramétrique ?
 
-Parametric design refers to the use of parameters or variables to manipulate the outcome of a given design within its rules.
+La conception paramétrique fait référence à l'utilisation de paramètres ou de variables pour manipuler le résultat d'un design donné selon ses règles.
 
-In sewing patterns, the *parameters* are what is provided by the user: Their measurements and options that they have selected.  
-The *rules* of the design are what you, the designer, make them.
+Dans les patrons de couture, les *paramčtres* sont ce qui est fourni par l'utilisateur : Leurs mensurations et les options qu'ils ont sélectionnées.  
+Les *règles* du design sont celles que vous, le designer, avez déterminées.
 
 #### What does that mean for designers?
 
