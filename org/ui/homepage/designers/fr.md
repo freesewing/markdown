@@ -8,7 +8,7 @@ La conception paramétrique fait référence à l'utilisation de paramètres ou 
 Dans les patrons de couture, les *paramčtres* sont ce qui est fourni par l'utilisateur : Leurs mensurations et les options qu'ils ont sélectionnées.  
 Les *règles* du design sont celles que vous, le designer, avez déterminées.
 
-#### What does that mean for designers?
+#### Qu'est-ce que cela signifie pour les designers ?
 
 When drafting or designing patterns or garments, it is common practice to start with a *fit model* (or *dress form*). The measurements of the fit model are used as input in the initial design.
 
