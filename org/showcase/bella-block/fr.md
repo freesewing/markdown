@@ -12,6 +12,6 @@ Il s'agit d'une toile du bloc de buste Bella faite avec un minimum d'ajustements
 
 <Note>
 
-This picture is from the [FreeSewing Discord](https://discord.freesewing.org/) and has been shared here with permission.
+Cette image provient du [Discord FreeSewing](https://discord.freesewing.org/) et a été partagée ici avec permission.
 
 </Note>
