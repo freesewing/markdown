@@ -1,5 +1,5 @@
 ---
-title: This is a legacy pattern
+title: Il s'agit d'un modèle obsolète
 ---
 
 Ce pattron a été fait avec une ancienne version de FreeSewing et n'est pas compatible avec la version actuelle.
