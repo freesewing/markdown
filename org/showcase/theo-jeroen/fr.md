@@ -8,10 +8,10 @@ patterns:
 author: karen
 ---
 
-Jeroen a fait ce pantalon Theo raccourci dans un tartan rouge vif et audacieux. We love the way they turned out!
+Jeroen a fait ce pantalon Theo raccourci dans un tartan rouge vif et audacieux. Nous aimons la façon dont ça a évolué !
 
-Check out the matching Wahid waistcoat Jeroen made [here](https://freesewing.org/showcase/wahid-jeroen/)!
+Jetez un coup d’œil au gilet Wahid assorti que Jeroen a fait [ici](https://freesewing.org/showcase/wahid-jeroen/)!
 
 <Note>
-This picture is from the instagram feed of [Jeroen Keerl](https://www.instagram.com/jeroenkeerl/). Elle est publiée ici avec son autorisation.
+Cette image provient du flux instagram de [Jeroen Keerl](https://www.instagram.com/jeroenkeerl/). Elle est publiée ici avec son autorisation.
 </Note>
