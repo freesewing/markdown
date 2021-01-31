@@ -11,15 +11,15 @@ Tout fonctionne dans le navigateur, sauf les données des utilisateurs et la con
 
 Notre contenu de code et de markdown est hébergé par [Github](https://github.com/freesewing/). Nous utilisons [Crowdin](https://crowdin.com/) pour les traductions, la recherche est gérée par [Algolia](https://www.algolia.com/) et [Bugsnag](https://www.bugsnag.com/) gère les erreurs pour nous.
 
-We are appreciative of these and other projects/companies that allow us to stand on their shoulders.
+Nous apprécions ces projets/entreprises et d'autres qui nous permettent de nous reposer sur leurs épaules.
 
-#### Learn more
+#### En savoir plus
 
-Our [developer documentation](https://freesewing.dev) is available on [freesewing.dev](https://freesewing.dev). Vous y trouverez des liens vers tous nos référentiels, ainsi que des documentations approfondies, des tutoriels et des exemples.
+Notre [documentation de développeur](https://freesewing.dev) est disponible sur [freesewing.dev](https://freesewing.dev). Vous y trouverez des liens vers tous nos référentiels, ainsi que des documentations approfondies, des tutoriels et des exemples.
 
 #### Vous souhaitez nous aider ?
 
-Awesome ❤️   
-Our [contributor documentation](https://freesewing.dev/contributors/) is a good starting point. We also have dedicated guides for [translators](https://freesewing.dev/translators/) and [editors](https://freesewing.dev/editors/).
+Génial ❤️   
+Notre [documentation pour contributeur](https://freesewing.dev/contributors/) est un bon point de départ. Nous avons également des guides dédiés pour [traducteurs](https://freesewing.dev/translators/) et [éditeurs](https://freesewing.dev/editors/).
 
-Last but not least, [join us on Discord](https://discord.freesewing.org/) where all the other contributors hang out.
+Dernier point, mais non des moindres, [rejoignez-nous sur Discord](https://discord.freesewing.org/) où tous les autres contributeurs se rejoignent.
