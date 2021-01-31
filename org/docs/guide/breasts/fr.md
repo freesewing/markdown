@@ -5,7 +5,7 @@ order: 250
 
 Some people get confused by the terms **with breasts** and **without breasts**.
 
-We use these terms as a gender-inclusive way to ask whether or not a person has breasts.
+Nous utilisons ces termes comme un moyen inclusif de demander si une personne a des seins ou non.
 
 <Tip>
 
