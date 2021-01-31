@@ -14,10 +14,10 @@ Lors de la conception de patrons ou de vêtements, il est courant de commencer a
 
 Adapter le patron pour un modèle différent est une tâche fastidieuse, c'est pourquoi les patrons sont gradés vers le haut et vers le bas pour couvrir des tailles différentes.
 
-But in a parametric sewing pattern, adapting to different sizes or models *just works*.
+Mais dans un patron de couture paramétrique, s'adapter à différentes tailles ou modèles *fonctionne simplement*.
 
-#### What can FreeSewing do for me?
+#### Que peut faire FreeSewing pour moi ?
 
-FreeSewing provides everything you need to create your own parametric sewing patterns with very little effort.
+FreeSewing fournit tout ce dont vous avez besoin pour créer vos propres patrons de couture paramétriques avec très peu d'effort.
 
-You are free to sell patterns you create, or contribute them to our growing collection.
+Vous êtes ensuite libre de vendre les patrons que vous créez, ou de contribuer à notre collection grandissante.
