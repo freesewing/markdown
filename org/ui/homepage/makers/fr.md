@@ -13,8 +13,8 @@ Les patrons FreeSewing sont fournis avec des options qui vous permettent de pers
 
 Les patrons FreeSewing ont souvent tellement d'options qu'un patron peut produire une variété de styles. Vous pouvez partager vos patrons avec les autres afin qu'ils puissent obtenir le même style, conçus à leurs mesures.
 
-#### A community of helpful people
+#### Une communauté de personnes serviables
 
-Questions about a pattern? Stuck on one of the steps when making your garment? No worries, help is available.
+Des questions sur un patron ? Bloqué sur l'une des étapes lors de la réalisation de votre vêtement ? Pas de soucis, de l'aide est disponible.
 
-[Join us on Discord](https://discord.freesewing.org/) and discover what makes the FreeSewing community so great.
+[Rejoignez-nous sur Discord](https://discord.freesewing.org/) et découvrez ce qui rend la communauté FreeSewing si géniale.
