@@ -1,17 +1,17 @@
 ---
 date: 2021-01-22
-title: Simon by Andrew
-img: simon-sewandrew.jpg
-caption: "Simon shirt by Andrew"
+title: Simon door Andrew
+img: simon-seandrew.jpg
+caption: "Simon hemd door Andrew"
 patterns:
   - simon
 author:
 ---
 
-This excellent Simon shirt was made by Andrew, who also [blogged about the process](https://sewandrew.com/2019/03/13/spiderweb-paper-a-freesewing-shirt/).
+Dit uitstekende Simon hemd werd gemaakt door Andrew, die ook [een blogpost schreef over het proces](https://sewandrew.com/2019/03/13/spiderweb-paper-a-freesewing-shirt/).
 
 <Note>
 
-This picture is from [the Instagram feed of @sewandrew](https://www.instagram.com/sewandrew/). Hij werd hier gepost met toestemming.
+Deze foto is komt van [de Instagram feed van @sewandrew](https://www.instagram.com/sewandrew/). Hij werd hier gepost met toestemming.
 
 </Note>
