@@ -1,17 +1,17 @@
 ---
 date: 2021-01-21
-title: Bella bodice block
+title: Bloc de corsage de Bella
 img: bella.jpg
-caption: This is a muslin of the Bella bodice block made with minimal adjustments
+caption: Il s'agit d'une toile du bloc de buste Bella faite avec un minimum d'ajustements
 patterns:
   - bella
 author: user-zzjlw
 ---
 
-This is a muslin of the Bella bodice block made with minimal adjustments. The neckline seam allowance has been trimmed away and the seams were left raw, but otherwise it was made as generated.
+Il s'agit d'une toile du bloc de buste Bella faite avec un minimum d'ajustements. La marge de couture de l'encolure a été enlevée et les coutures ont été laissées brutes, mais autrement, elle a été faite comme prévue.
 
 <Note>
 
-This picture is from the [FreeSewing Discord](https://discord.freesewing.org/) and has been shared here with permission.
+Cette image provient du [Discord FreeSewing](https://discord.freesewing.org/) et a été partagée ici avec permission.
 
 </Note>

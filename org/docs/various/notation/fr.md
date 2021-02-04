@@ -1,18 +1,18 @@
 ---
-title: Pattern notation guide
+title: Guide de notation de patron
 order: 800
 ---
 
-Hopefully our patterns are easy enough to understand, but if you come across something that confuses you, below is a reference of all our pattern notation:
+Nous espérons que nos patrons sont assez faciles à comprendre, mais si vous rencontrez quelque chose qui ne vous paraît pas clair, veuillez trouver ci-dessous une référence de toutes nos notes de patron :
 
 <ReadMore list />
 
 <Tip>
 
-##### Might vary slightly between preview and final result
+##### Cela peut varier légèrement entre l'aperçu et le résultat final
 
-For reason that are surprisingly complex, there might be slight
-differences in fonts and colors between how a pattern looks online 
-and how it looks as a downloaded PDF or SVG.
+Pour une raison étonnamment complexe, il peut y avoir de légères
+différences dans les polices et les couleurs entre l'apparence d'un patron en ligne 
+et son apparence en format PDF ou SVG téléchargé.
 
 </Tip>

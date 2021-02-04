@@ -12,9 +12,9 @@ Sans conservation de vos mesures en mémoire, la génération de patrons sur mes
 
 ##### Est-ce que vous demandez parce que vous ne nous faites pas confiance ?
 
-Cette question révèle souvent une méfiance sous-jacente à la création d'un compte. As such, the following links may also be relevant:
+Cette question révèle souvent une méfiance sous-jacente à la création d'un compte. En tant que tel, les liens suivants peuvent également être pertinents :
 
- - Read [our privacy notice][1]
- - Learn more about [your rights][2]
+ - Lisez [notre politique de confidentialité][1]
+ - En savoir plus sur [vos droits][2]
 
 </Note>

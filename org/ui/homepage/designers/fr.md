@@ -1,23 +1,23 @@
 - - -
 - - -
 
-#### What is parametric design?
+#### Qu'est-ce que la conception paramétrique ?
 
-Parametric design refers to the use of parameters or variables to manipulate the outcome of a given design within its rules.
+La conception paramétrique fait référence à l'utilisation de paramètres ou de variables pour manipuler le résultat d'un design donné selon ses règles.
 
-In sewing patterns, the *parameters* are what is provided by the user: Their measurements and options that they have selected.  
-The *rules* of the design are what you, the designer, make them.
+Dans les patrons de couture, les *paramčtres* sont ce qui est fourni par l'utilisateur : Leurs mensurations et les options qu'ils ont sélectionnées.  
+Les *règles* du design sont celles que vous, le designer, avez déterminées.
 
-#### What does that mean for designers?
+#### Qu'est-ce que cela signifie pour les designers ?
 
-When drafting or designing patterns or garments, it is common practice to start with a *fit model* (or *dress form*). The measurements of the fit model are used as input in the initial design.
+Lors de la conception de patrons ou de vêtements, il est courant de commencer avec un *mannequin de couture*. Les mesures du mannequin sont utilisées comme données d'entrée dans la conception initiale.
 
-Adapting the pattern for a different model is a tedious task, which is why patterns are graded up and down to cover different sizes.
+Adapter le patron pour un modèle différent est une tâche fastidieuse, c'est pourquoi les patrons sont gradés vers le haut et vers le bas pour couvrir des tailles différentes.
 
-But in a parametric sewing pattern, adapting to different sizes or models *just works*.
+Mais dans un patron de couture paramétrique, s'adapter à différentes tailles ou modèles *fonctionne simplement*.
 
-#### What can FreeSewing do for me?
+#### Que peut faire FreeSewing pour moi ?
 
-FreeSewing provides everything you need to create your own parametric sewing patterns with very little effort.
+FreeSewing fournit tout ce dont vous avez besoin pour créer vos propres patrons de couture paramétriques avec très peu d'effort.
 
-You are free to sell patterns you create, or contribute them to our growing collection.
+Vous êtes ensuite libre de vendre les patrons que vous créez, ou de contribuer à notre collection grandissante.

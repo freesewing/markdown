@@ -1,7 +1,7 @@
 - - -
 - - -
 
-Make sure to subscribe to [the FreeSewing YouTube channel](https://youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for our in-depth tutorials that walk you through our patterns.
+Assurez-vous de vous abonner à [la chaîne YouTube de FreeSewing](https://youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) pour nos tutoriels détaillés qui vous guideront pour la réalisation de nos patrons.
 
-We also publish other tutorials there on how to work with the platform and develop pattern for it.
+Nous publions également d'autres tutoriels sur la façon de travailler avec la plateforme et de développer des modèles pour elle.
 

@@ -1,19 +1,19 @@
 ---
 date: 2020-11-27
-title: Purple Wahid by Kaena
+title: Wahid Violet par Kaena
 img: wahid-kaena-1.jpg
-caption: "Purple, floral, utterly delightful Wahid waistcoat"
+caption: "Violet, floral, tout à fait délicieux Gilet Wahid"
 patterns:
   - wahid
 author: karen
 ---
 
-Kaena made her husband a Wahid waistcoat to go to a wedding, and we just love it!
+Kaena a fait de son mari un gilet Wahid pour aller à un mariage, et on l'adore !
 
-![Kaena's husband rocking their Wahid waistcoat](wahid-kaena-2.jpg)
+![Le mari de Kaena qui en jette avec son gilet Wahid](wahid-kaena-2.jpg)
 
 <Note>
 
-These pictures are from the instagram feed of [Kaena](https://www.instagram.com/kaena.mackinnon/). They are posted here with permission.
+Ces images proviennent du flux Instagram de [Kaena](https://www.instagram.com/kaena.mackinnon/). Elles sont postées ici avec autorisation.
 
 </Note>
