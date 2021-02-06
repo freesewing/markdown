@@ -2,7 +2,7 @@
 title: 160|Constructing the neck opening
 ---
 
-Votre but est de construire une encolure légèrement ovale qui a une circonférence égale à la mesure `headCircumference` multipliée par l'option `neckRatio`.
+Votre but est de construire une encolure légèrement ovale qui a une circonférence égale à la mesure `head` multipliée par l'option `neckRatio`.
 
 Cela va peut-être impliquer un peu d'essai-erreur. Mais étant donné que l'encolure sera symétrique à la fois horizontalement et verticalement, vous aurez juste besoin de construire un quart de celle-ci.
 
@@ -24,8 +24,8 @@ Merveilleux. Maintenant, mettons-nous au travail :
 
 ```js
 // Design pattern here (concevoir le patron ici)
-points.right = new Point(measurements.headCircumference / 10, 0);
-points.bottom = new Point(0, measurements.headCircumference / 12);
+points.right = new Point(measurements.head / 10, 0);
+points.bottom = new Point(0, measurements.head / 12);
 
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
@@ -40,12 +40,12 @@ paths.neck = new Path()
 Vous avez ajouté quelques points à votre partie, et dessiné votre premier chemin. Examinons chaque ligne en détail :
 
 ```js
-points.right = new Point(measurements.headCircumference / 10, 0);
+points.right = new Point(measurements.head / 10, 0);
 ```
 
  - Nous ajoutons un point nommé `right` à `points`, qui contient les points de notre partie
  - Nous utilisons le constructeur Point, qui prend deux arguments : les valeurs X et Y du point
- - La valeur X est `measurements.headCircumference / 10`
+ - La valeur X est `measurements.head / 10`
  - La valeur Y est `0`
 
 Le point `bottom` est très similaire, alors passons directement à la ligne suivante :

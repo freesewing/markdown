@@ -2,7 +2,7 @@
 title: 140|Adding options
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. Mais il y a encore un certain nombre de choix que vous allez devoir faire :
+You know what your bib should look like, and you have the *head* measurement to work with. Mais il y a encore un certain nombre de choix que vous allez devoir faire :
 
  - Quelle devrait être la largeur de l'encolure ?
  - Quelle sera la largeur du bavoir ?
