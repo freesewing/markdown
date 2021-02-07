@@ -2,6 +2,17 @@
 title: Ways to contribute
 ---
 
+<Tip>
+
+##### Looking to hit the ground running?
+
+You can start with [our project board](https://todo.freesewing.org/), or
+going through the issues labeled [good first issue](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8D+good+first+issue%22).
+
+Don't be afraid to take on an issue. If you get stuck, [we'll help you out](https://discord.freesewing.org/).
+
+</Tip>
+
 Unsure where to begin contributing to FreeSewing? 
 *Contributing* can take on many shapes and forms. 
 There's certainly a way that works well for you.
@@ -23,7 +34,4 @@ especially when doing so enables upwards social mobility.
 </Note>
 
 
-You can start by looking through the issues labeled [good first issue](https://github.com/freesewing/freesewing/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8D+good+first+issue%22).
-
-Don't be afraid to take on an issue. If you get stuck, [we'll help you out](https://discord.freesewing.org/).
 
