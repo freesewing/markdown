@@ -1,23 +1,23 @@
 ---
-title: "What's all this talk about with or without breasts?"
+title: "De quoi s'agit-il quand on parle des \"avec ou sans seins\" ?"
 ---
 
-Some people get confused by the terms _with breasts_ and _without breasts_.
+Certaines personnes sont confuses par les termes _avec des seins_ et _sans seins_.
 
-We use these terms as a gender-inclusive way to ask whether or not a person has breasts.
+Nous utilisons ces termes comme un moyen inclusif de demander si une personne a des seins ou non.
 
-##### As it applies to bodies
-Nearly every clothing company has two main categories for their clothing: menswear and womenswear. These garment designs are usually based off of the ideal or average body. Meaning, for womenswear, the designer will likely make a garment for a body with breasts, narrow shoulders, a smaller waist and wide hips.
+##### Cela s'applique aux corps
+Presque toutes les sociétés de vêtements ont deux grandes catégories de vêtements : les vêtements pour hommes et les vêtements pour femmes. Ces modèles de vêtements sont généralement basés sur le corps idéal ou moyen. En ce qui concerne les vêtements féminins, le designer fabriquera probablement un vêtement pour le corps avec des seins, épaules étroites, une taille plus petite et de larges hanches.
 
-These characteristics are generally thought of as _the typical characteristics of a woman's body_. However, we believe it is best to stay away from this; no body is average and we want to build a gender-inclusive environment.
+Ces caractéristiques sont généralement considérées comme _les caractéristiques typiques du corps d'une femme_. Cependant, nous pensons qu'il est préférable de rester à l'écart de ceci; aucun corps n'est moyen et nous voulons construire un environnement inclusif et non-sexiste.
 
-We do not want to exclude anyone and we don't agree with the idea that _body shape = gender_. That's why we use the terminology **with breasts** and **without breasts**, simply asking whether a person has breast tissue or not.
+Nous ne voulons exclure personne et nous ne sommes pas d'accord avec l'idée que _forme de corps = genre_. C'est pourquoi nous utilisons la terminologie **avec des seins** et **sans seins**, en demandant simplement si une personne a du tissu mammaires ou non.
 
-##### How it applies to patterns
-We use the terms menswear and womenswear too, but merely to label whether a garment projects a more masculine or feminine style.
+##### Comment cela s'applique aux patrons
+Nous utilisons également les termes masculins et féminins, mais simplement pour indiquer si un vêtement projette un style plus masculin ou féminin.
 
-In general, patterns labelled as _womenswear_ tend to require measurments that are only relevant for people with breasts.
+En général, les pratiques étiquetées comme _vêtements féminins_ ont tendance à nécessiter des mesures qui ne sont pertinentes que pour les personnes ayant des seins.
 
-Any user can draft any pattern on our site, as long as they provide the required measurements. Which for some womenswear patterns includes measurements that are only relevant if you have breasts.
+N'importe quel utilisateur peut tracer n'importe quel patron sur notre site, à condition qu'il fournisse les mensurations requises. Ce qui pour certains modèles de vêtements féminins inclut des mesures qui ne sont pertinentes que si vous avez des seins.
 
 

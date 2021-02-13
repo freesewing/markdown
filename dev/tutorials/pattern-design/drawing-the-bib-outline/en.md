@@ -6,8 +6,8 @@ order: 190
 With our neck opening in place, let's draw the basic outline of our bib:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 
 points.topLeft = new Point(
   width / -2,
@@ -30,8 +30,8 @@ First thing we did was create the `width` and `length` variables to
 save ourselves some typing:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 ```
 
 Both the length and width of your bib are a factor of the head circumference.

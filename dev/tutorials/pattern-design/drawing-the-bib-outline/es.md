@@ -6,8 +6,8 @@ order: 190
 With our neck opening in place, let's draw basic outline of our bib:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 
 points.topLeft = new Point(
   width / -2,
@@ -29,8 +29,8 @@ paths.rect = new Path()
 Firs thing we did was create the `width` and `length` variables to save ourselves some typing:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 ```
 
 Both the length and width of your bib are a factor of the head circumference. This way, your bib size will adapt to the size of the baby, and the user can tweak the length and width by playing with the options you added to the pattern.

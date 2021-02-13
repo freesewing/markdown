@@ -1,5 +1,5 @@
 ---
-title: Various
+title: Divers
 order: 999
 ---
 

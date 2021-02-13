@@ -4,7 +4,7 @@ order: 160
 ---
 
 Your goal is to construct a slightly oval neck opening that has a circumference that is
-the `headCircumference` measurements multiplied by the `neckRatio` option.
+the `head` measurements multiplied by the `neckRatio` option.
 
 That might involve some trial and error. But since the neck opening will be symetric 
 both horizontal and vertical, you only need to construct one quadrant. 
@@ -29,8 +29,8 @@ Great. Now let's get to work:
 
 ```js
 // Design pattern here
-points.right = new Point(measurements.headCircumference / 10, 0);
-points.bottom = new Point(0, measurements.headCircumference / 12);
+points.right = new Point(measurements.head / 10, 0);
+points.bottom = new Point(0, measurements.head / 12);
 
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
@@ -45,12 +45,12 @@ paths.neck = new Path()
 You've added some points to your part, and drawn your first path. Let's look at each line in detail:
 
 ```js
-points.right = new Point(measurements.headCircumference / 10, 0);
+points.right = new Point(measurements.head / 10, 0);
 ```
 
  - We're adding a point named `right` to `points` which holds our part's points
  - We're using the Point constructor, which takes two arguments: The points X and Y values
- - The X value is `measurements.headCircumference / 10`
+ - The X value is `measurements.head / 10`
  - The Y value is `0`
 
 The `bottom` part is very similar, so let's skip to the next line:

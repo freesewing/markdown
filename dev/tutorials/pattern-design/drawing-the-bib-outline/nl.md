@@ -6,8 +6,8 @@ order: 190
 Nu we een halsopening gemaakt hebben, is het tijd om de omtrek van het slabbetje te schetsen:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 
 points.topLeft = new Point(
   width / -2,
@@ -29,8 +29,8 @@ paths.rect = new Path()
 Eerst hebben we de variabelen voor breedte (`width`) en lengte (`length`) aangemaakt om onszelf wat typwerk te besparen:
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 ```
 
 Zowel de lengte als de breedte van het slabbetje zijn een factor van de hoofdomtrek. Op die manier past het formaat van het slabbetje zich automatisch aan. Grotere baby? Groter slabbetje. De gebruiker kan de lengte en breedte aanpassen door te spelen met de opties die je aan het patroon hebt toegevoegd.

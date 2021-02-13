@@ -15,7 +15,7 @@ So let's add it as a required measurement.
 Open the config file at `config/index.js` and update the `measurements` array with the name of our required measurement:
 
 ```js
-measurements: ["headCircumference"],
+measurements: ["head"],
 ```
 
 <Tip>
@@ -26,7 +26,7 @@ See our [best practices](/guides/best-practices/names#re-use-measurements) on th
 
 </Tip>
 
-Now everybody knows your pattern requires the `headCircumference` measurement.
+Now everybody knows your pattern requires the `head` measurement.
 
 This change will also get picked up by the development environment, and you'll now see this screen:
 

@@ -54,7 +54,7 @@ The `lengthRatio` option controls the length of our bib. Testing it confirms tha
 ### neckRatio
 
 The `neckRatio` option will determine the size of the neck opening.
-For a the same `headCircumference` measurement, varying this option should result in bibs with increasingly larger
+For a the same `head` measurement, varying this option should result in bibs with increasingly larger
 neck opening. 
 
 Testing it confirms this. We can also see that as the neck opening gets smaller, we will rotate the straps
@@ -76,7 +76,7 @@ further out of the way to avoid overlap:
 ### widthRatio
 
 The `widthRatio` option will determine the width of our bib.
-For a the same `headCircumference` measurement, varying this option should result in increasingly wider bibs.
+For a the same `head` measurement, varying this option should result in increasingly wider bibs.
 
 If we test it, we can see that it works as intended. But there's one thing that perhaps requires your attention.
 Making the bib wider shortens the length from the bottom of the neck opening to the bottom of the bib. 
@@ -120,7 +120,7 @@ For our bib, we only use one measurement, so it influences the entire pattern:
   settings={{ 
     sample: { 
       type: "measurement", 
-      measurement: "headCircumference" 
+      measurement: "head" 
     } 
   }} 
 />
@@ -146,15 +146,15 @@ pattern will adapt to differently sizes bodies.
     sample: { 
       type: "models", 
       models: {
-        baby1: { headCircumference: 340 },
-        baby2: { headCircumference: 350 },
-        baby3: { headCircumference: 360 },
-        baby4: { headCircumference: 370 },
-        baby5: { headCircumference: 380 },
-        baby6: { headCircumference: 390 },
-        baby7: { headCircumference: 400 },
-        baby8: { headCircumference: 410 },
-        baby9: { headCircumference: 420 }
+        baby1: { head: 340 },
+        baby2: { head: 350 },
+        baby3: { head: 360 },
+        baby4: { head: 370 },
+        baby5: { head: 380 },
+        baby6: { head: 390 },
+        baby7: { head: 400 },
+        baby8: { head: 410 },
+        baby9: { head: 420 }
       }
     } 
   }} 
@@ -185,8 +185,8 @@ The best patterns will pass the antman test with 2 exact pattern. One will simpl
     sample: { 
       type: "models", 
       models: {
-        ant: { headCircumference: 39 },
-        man: { headCircumference: 390 },
+        ant: { head: 39 },
+        man: { head: 390 },
       }
     } 
   }} 

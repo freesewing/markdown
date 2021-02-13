@@ -53,12 +53,15 @@ git config --global user.name "<your display name for your git account>"
 [Download and install VSCode](https://code.visualstudio.com/).
 
 <Note>
+
 FreeSewing uses .editorconfig files to enforce a consistent style for the project. VSCode relies on extensions to provide this functionality and due to a design shortcoming it does not respect certain editorconfig options which will break certain files in the freesewing project ([see vscode/65663 for details](https://github.com/microsoft/vscode/issues/65663)). If you use this editor please ensure that your settings.json file is configured to not trim trailing whitespace from markdown files. The following snippet can be added to your settings.json file to add an exemption for this file type:
+
 ```
     "[markdown]": {
         "files.trimTrailingWhitespace": false
     },
 ```
+
 </Note>
 
 #### Install VSCode Remote

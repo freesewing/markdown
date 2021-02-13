@@ -2,7 +2,7 @@
 title: 160|Constructing the neck opening
 ---
 
-Wat je nodig hebt, is een licht ovale halsopening met een doorsnee die overeenkomt met de hoofdomtrek `headCircumference`, vermenigvuldigd met de optie `neckRatio`.
+Wat je nodig hebt, is een licht ovale halsopening met een doorsnee die overeenkomt met de hoofdomtrek `head`, vermenigvuldigd met de optie `neckRatio`.
 
 Het zou kunnen dat je dit een paar keer moet proberen voordat het goed zit. Maar aangezien de halsopening zowel horizontaal als verticaal symmetrisch is, moet je maar één kwadrant opbouwen.
 
@@ -24,8 +24,8 @@ Top. Nu kunnen we beginnen:
 
 ```js
 // Design pattern here
-points.right = new Point(measurements.headCircumference / 10, 0);
-points.bottom = new Point(0, measurements.headCircumference / 12);
+points.right = new Point(measurements.head / 10, 0);
+points.bottom = new Point(0, measurements.head / 12);
 
 points.rightCp1 = points.right
   .shift(90, points.bottom.dy(points.right)/2);
@@ -40,12 +40,12 @@ paths.neck = new Path()
 Je hebt een aantal punten toegevoegd aan je patroondeel en je eerste pad getekend. Even kijken naar elke lijn in detail:
 
 ```js
-points.right = new Point(measurements.headCircumference / 10, 0);
+points.right = new Point(measurements.head / 10, 0);
 ```
 
  - We voegen een punt met de naam `right` toe aan `points`, waar alle punten van het patroondeel opgeslagen zitten
  - We gebruiken de Point constructor, die twee argumenten nodig heeft: de waarden voor punten X en Y
- - De waarde voor X is `measurements.headCircumference / 10`
+ - De waarde voor X is `measurements.head / 10`
  - De waarde voor Y is `0`
 
 Het deel voor `bottom` is bijna identiek, dus laten we verdergaan met de volgende regel:

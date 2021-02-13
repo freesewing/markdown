@@ -15,7 +15,7 @@ Dus voegen we die toe als vereiste afmeting.
 Open het config-bestand in `config/index.js` en update de `measurements`-reeks met de naam van de benodigde afmeting:
 
 ```js
-measurements: ["headCircumference"],
+measurements: ["head"],
 ```
 
 <Tip>
@@ -26,7 +26,7 @@ See our [best practices](/guides/best-practices/names#re-use-measurements) on th
 
 </Tip>
 
-Nu weet iedereen dat je patroon de afmeting `headCircumference` gebruikt.
+Nu weet iedereen dat je patroon de afmeting `head` gebruikt.
 
 Ook de developmentomgeving pikt deze verandering op. Je krijgt dus het volgende scherm te zien:
 

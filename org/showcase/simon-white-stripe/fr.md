@@ -1,15 +1,15 @@
 ---
 date: 2020-11-27
-title: White Striped Simon Shirt by Michele
+title: Chemise Simon blanche rayée par Michele
 img: white-stripe-simon.jpg
-caption: "Looking sharp in a striped Simon"
+caption: "A l'air chic dans un Simon rayé"
 patterns:
   - simon
 author: karen
 ---
 
-Michele made this Simon shirt in a white cotton with thin blue stripes. Don't miss the dark blue thread they used to add a little extra interest!
+Michele a fabriqué cette chemise Simon en coton blanc avec de fines rayures bleues. Ne manquez pas le fil bleu foncé qu'ils ont utilisé pour ajouter un peu d'intérêt supplémentaire !
 
 <Note>
-This picture is from the instagram feed of [Michele](https://www.instagram.com/swissarmywife/). Elle est publiée ici avec son autorisation.
+Cette image provient du flux Instagram de [Michele](https://www.instagram.com/swissarmywife/). Elle est publiée ici avec son autorisation.
 </Note>

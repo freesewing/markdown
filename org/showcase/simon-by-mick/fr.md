@@ -1,16 +1,16 @@
 ---
 date: 2020-11-27
-title: Speckled Simon Shirt by Mick
+title: Chemise Simon mouchetée par Mick
 img: simon-mick.jpg
-caption: "This matching shirt and mask are coordinated perfection"
+caption: "Cette chemise et ce masque assorti sont coordonnés la perfection"
 patterns:
   - simon
   - florence
 author: karen
 ---
 
-Micheál made this fantastic Simon shirt in multicolored dots, with Florence face mask to match!
+Micheál a fait cette fantastique chemise Simon dans un tissu à pois multicolores, avec le masque de Florence pour être assorti !
 
 <Note>
-This picture is from the instagram feed of [Micheál](https://www.instagram.com/popshaped/). Elle est publiée ici avec son autorisation.
+Cette image provient du flux Instagram de [Micheál](https://www.instagram.com/popshaped/). Elle est publiée ici avec son autorisation.
 </Note>
