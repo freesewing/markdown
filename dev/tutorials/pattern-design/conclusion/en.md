@@ -21,9 +21,9 @@ you have learned a bunch of things along the way. Let's list some of the things 
 
 ## More reading material
 
- - If you haven't done so already, read through [the high-level overview of FreeSewing](/guides/overview/)
+ - If you haven't done so already, read through [the pattern guide](/guides/patterns/) which provides a good overview of how patterns work under the hood
  - Bookmark [the FreeSewing API docs](/reference/api/), they are your reference every time you're not entirely certain how something works
- - Have a look at [our best practices](/guides/best-practices/) that will help you make the best possible patterns
+ - Have a look at [the design guide](/guides/best-practices/) for best practices that will help you make the best possible patterns
 
 ## What to do next
 
