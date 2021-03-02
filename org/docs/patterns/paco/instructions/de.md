@@ -2,18 +2,18 @@
 
 ##### A note on seam finishes
 
-Before you get started, you'll want to decide on your method of seam finishing, or how you tidy 
-up the raw seams along the legs of your pants to keep them from fraying. There are a lot of 
-options for this. Common choices are serging the raw edges, or using French seams to encase 
+Before you get started, you'll want to decide on your method of seam finishing, or how you tidy
+up the raw seams along the legs of your pants to keep them from fraying. There are a lot of
+options for this. Common choices are serging the raw edges, or using French seams to encase
 the raw edges.
 
-For these instructions, we'll assume that you are using a serger for seam finishes, but we'll 
-also provide alternatives. Other options for finishing seams include trimming them with pinking 
-shears, stitching a zig-zag along the edge of the seam to keep it from fraying, or binding with 
+For these instructions, we'll assume that you are using a serger for seam finishes, but we'll
+also provide alternatives. Other options for finishing seams include trimming them with pinking
+shears, stitching a zig-zag along the edge of the seam to keep it from fraying, or binding with
 bias tape.
  </Tip>
 
-## Step 1: Costruct the back pockets
+## Step 1: Construct the back pockets
 
 Are you planning to insert welt pockets in the back of your Paco pants? Is so, awesome! This is arguably the trickiest part, and we'll accomplish it first. If not, you can skip ahead to the next step, preparing the front pockets.
 
@@ -23,17 +23,17 @@ Construct the welt pockets at the back of your trousers, including the pocket ba
 
 ##### Welt pockets
 
-Constructing a welt pocket is a technique that is used is different garments. That is why it's 
+Constructing a welt pocket is a technique that is used is different garments. That is why it's
 branched it off into its own documentation page.
 
-There’s both written documentation and a video series that shows you how to do it, so even if 
+There’s both written documentation and a video series that shows you how to do it, so even if
 you’ve never made welt pockets before, you’ll be fine.
 
 [To the welt pockets documentation](https://freesewing.org/docs/sewing/double-welt-pockets/)
 
 </Tip>
 
-<!--- One tricky bit, this documentation is for double welts, but this is I think a single welt? 
+<!--- One tricky bit, this documentation is for double welts, but this is I think a single welt?
 Does it need a note to that effect? --->
 
 ## Step 2: Prepare the front pockets
@@ -57,7 +57,7 @@ Press all seams toward the pants (away from the pocket bag).
 
 <Note>
 
-Optional: You can understitch here, a millimeter or two in from the seam on each side of the pocket 
+Optional: You can understitch here, a millimeter or two in from the seam on each side of the pocket
 bag, to secure the flaps and pocket bag all together the way you pressed them.
 
 </Note>
@@ -96,7 +96,7 @@ The bottom opening of the pocket is a tight corner. To finish the seam around th
 
 <Note>
 
-Make sure to secure these serger stitches. They won't be caught in any other seams, so they risk 
+Make sure to secure these serger stitches. They won't be caught in any other seams, so they risk
 unravelling if left unsecured.
 
 </Note>
@@ -109,18 +109,18 @@ Press the side seams toward the front.
 
 <Note>
 
-This may feel counterintuitive, as a lot of pants suggest pressing the side seams to the back. 
-However, with inseam pockets, you'll want the pockets pressed toward the front of the pants. Your 
-pockets will be fighting your side seam if you press the seam to the back, so we'll press it all 
+This may feel counterintuitive, as a lot of pants suggest pressing the side seams to the back.
+However, with inseam pockets, you'll want the pockets pressed toward the front of the pants. Your
+pockets will be fighting your side seam if you press the seam to the back, so we'll press it all
 to the front. This will will result in a smoother finish.
 
 </Note>
 
 <Note>
 
-The corners of a pocket opening are one of the most likely places to wear out or tear, especially 
-if you use your pockets a lot. If you're worried about tearing at the corners of your pockets, or 
-if your fabric is more delicate, you can reinforce the pocket openings with bar tacks along the seam 
+The corners of a pocket opening are one of the most likely places to wear out or tear, especially
+if you use your pockets a lot. If you're worried about tearing at the corners of your pockets, or
+if your fabric is more delicate, you can reinforce the pocket openings with bar tacks along the seam
 line, just outside the pocket openings.
 
 </Note>
@@ -143,7 +143,7 @@ To attach the individual legs, flip one leg good side out (it doesn't matter whi
 
 <Note>
 
-If you sew from center front to center back, it's easier to keep your inseam seam allowances 
+If you sew from center front to center back, it's easier to keep your inseam seam allowances
 pressed to the back as they feed through the machine.
 
 </Note>
@@ -153,13 +153,13 @@ pressed to the back as they feed through the machine.
 ## Step 10: Place eyelets for the draw string (optional)
 Mark the middle of your waistband length. Fold one of your waistband pieces double, and mark the middle of the width (do not take the seam allowance into account).
 
-A bit to the left and right of this, you can add two eyelets to pass a drawstring through. Because your Paco pants have elastic in the waistband, as well, this is a nice detail, but is not required.
+A bit to the left and right of this, you can add two eyelets to pass a drawstring through. Da deine Paco Hosen im Hüftgurt elastisches Band haben, ist dies ein schönes Detail, jedoch ist es nicht notwendig.
 
 <Tip>
 
 ##### It’s best to add some reinforcement
 
-If you've chosen a fabric that is slippery, drapey, or thin, you might want to add some reinforcement 
+If you've chosen a fabric that is slippery, drapey, or thin, you might want to add some reinforcement
 behind these eyelets. A bit of interfacing or a leftover piece of denim will do just fine.
 
 </Tip>
@@ -189,13 +189,13 @@ Keep your waistband folded double, and place the elastic inside. Make sure to al
 
 <!--- Insert image with elastic sticking out, step13 --->
 
-Find the center front of your waistband (easy if there are eyelets, if not just fold it double), and align that with the center front seam of your pants. Make sure that your waistband is outside of your pants, with good sides together. Pin in place. 
+Find the center front of your waistband (easy if there are eyelets, if not just fold it double), and align that with the center front seam of your pants. Make sure that your waistband is outside of your pants, with good sides together. Pin in place.
 
 <Tip>
 
 ##### Mind your eyelets
 
-If you’ve made eyelets in your waistband, double check that they are placed towards the outside, 
+If you’ve made eyelets in your waistband, double check that they are placed towards the outside,
 not the inside of your waistband.
 
 </Tip>
@@ -216,12 +216,12 @@ Finish the seam with a serger or other method.
 
 Open the waistband. You will still be able to see the fold along its length, but you will be working with each side of the waistband individually.
 
-Find the center front of your waistband (easy if there are eyelets, if not just fold it double), and align that with the center front seam of your pants. Make sure that your waistband is outside of your pants, with good sides together. Pin in place. 
+Find the center front of your waistband (easy if there are eyelets, if not just fold it double), and align that with the center front seam of your pants. Make sure that your waistband is outside of your pants, with good sides together. Pin in place.
 
 <Tip>
 
 ##### Mind your eyelets
-To make sure your eyelets will end up on the outside, make sure they are closer to the top of your 
+To make sure your eyelets will end up on the outside, make sure they are closer to the top of your
 waistband, above the fold, for now.
 
 </Tip>
@@ -265,7 +265,7 @@ You will attach your cuffs the same way that you attached the waistband. As with
 
 <Note>
 
- If your sewing machine has a detachable bed (usually removed to expose the "free arm" for sewing 
+ If your sewing machine has a detachable bed (usually removed to expose the "free arm" for sewing
  sleeve cuffs), this will make sewing the cuffs easier.
 
  </Note>
@@ -282,10 +282,10 @@ Align the seam in the cuff with the inseam of the pants. Make sure that your cuf
 
 ##### Pinning the cuffs
 
-The elastic will make the cuffs more difficult to pin. To make sure that your cuffs are pinned evenly 
-to the pants, place your second pin on the opposite side of the leg opening from the first. You can 
-stretch the elastic to make sure that everything is lined up smoothly, then place your next pins halfway 
-between the first two. Continue this way, pinning halfway between other pins, until you feel confident 
+The elastic will make the cuffs more difficult to pin. To make sure that your cuffs are pinned evenly
+to the pants, place your second pin on the opposite side of the leg opening from the first. You can
+stretch the elastic to make sure that everything is lined up smoothly, then place your next pins halfway
+between the first two. Continue this way, pinning halfway between other pins, until you feel confident
 there are enough.
 
 </Tip>
@@ -330,7 +330,7 @@ You can do the same for the waistband.
 
 <Note>
 
-If you put in eyelets for a drawstring, sew a line of stitches above the eyelets and a separate line 
+If you put in eyelets for a drawstring, sew a line of stitches above the eyelets and a separate line
 below the eyelets, leaving a channel wide enough for your drawstring.
 
 </Note>
@@ -342,9 +342,9 @@ If you put eyelets in your waistband, thread a drawstring through one eyelet, ar
 
 <Note>
 
-There are tools to make this task easier, but one that almost everyone has is a simple safety pin. 
-Pin the safety pin to one end of your drawstring, then push it through the channel. The safety pin 
-will be easier to maneuver through the fabric, and it will pull the drawstring along with it. 
+There are tools to make this task easier, but one that almost everyone has is a simple safety pin.
+Pin the safety pin to one end of your drawstring, then push it through the channel. The safety pin
+will be easier to maneuver through the fabric, and it will pull the drawstring along with it.
 
 </Note>
 

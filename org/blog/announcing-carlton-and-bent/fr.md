@@ -1,57 +1,57 @@
 ---
 date: 2017-12-20
-title: "Announcing Carlton, aka the Sherlock Holmes coat, and the Bent Body Block"
-linktitle: "Announcing the Carlton Coat and Bent Body Block"
+title: "Annonce de Carlton, le manteau de Sherlock Holmes, et de Bent, haut de base"
+linktitle: "Annonce du haut de base Carlton et Bent"
 img: coat.jpg
-caption: "You too can wear this coat. Although you're on your own for the hat. At least for now."
+caption: "Vous aussi, vous pouvez porter ce manteau. Pour le chapeau, c'est vous qui verrez. Du moins, pour l'instant."
 author: joost
 ---
 
-Good news everybody, we've got your cosplaying needs covered. That is, if you are cosplaying as Sherlock Holmes. Our newest pattern release, [the Carlton Coat](/patterns/carlton) is exactly what the doctor prescribed if for some weird reason your doctor wants you to look like everyone's favorite detective.
+Bonne nouvelle, vos désirs de cosplay vont être exhaucés. En tout cas, si vous endossez le rôle de Sherlock Holmes. Notre dernière version de patron, [du manteau Carlton ](/patterns/carlton) est totalement conforme à la prescription de votre médecin si pour une raison étrange, il veut que vous ressembliez au détective préféré de chacun.
 
-My memory is foggy on the exact origin of this endeavor. It probably involved me complaining about the cold and my lack of a warm winter coat, but apart from that, I'm not too sure.
+Mes souvenirs sont flous quant à l'origine exacte de cette intiative. Mis à part que probablement, il faisait froid et que je n'avais pas de manteau chaud d'hiver, mystère.
 
-What I do remember is that at one point, [Anneke](http://www.annekecaramin.com/) and myself decided that we would reverse-engineer the Sherlock Holmes coat. More specifically, the coat worn by Benedict Cumberbatch in the BBC series Sherlock Holmes.
+Je me souviens simplement qu'à un moment, [Anneke](http://www.annekecaramin.com/) et moi avons décidé que nous allions revisiter le manteau de Sherlock Holmes. Plus précisément, le manteau porté par Benedict Cumberbatch dans la série Sherlock Holmes de la BBC.
 
-![That coat though](bc.jpg)
+![Principe de ce manteau](bc.jpg)
 
-The coat is popular with cosplayers for obvious reasons, but it's also just a really nice coat, and other brave souls [such as Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) have tried their hand at it.
+Pour des raisons évidentes, ce manteau est populaire auprès des cosplayers, mais c'est aussi un manteau vraiment sympa, et d'autres valeureux [tels que Melissa](http://blog.fehrtrade.com/gallery/868/the-sherlock-coat/) se sont lancés dans sa réalisation.
 
-I must admit that I didn't know Melissa made a similar coat until mine was finished. Furthermore, her blog post mentions that she used the instructions in a livejournal post that is no longer available.
+Je dois avouer qu'avant de finir le mien, je ne savais pas que Melissa avait fait un manteau similaire. De plus, son blog mentionne qu'elle a suivi les instructions d'un article (sur le site Livejournal) qui n'est plus disponible.
 
-Anneke and myself did no such thing and just put the pattern together based on screengrabs from the TV show. We're hardcore like that.
+Anneke et moi-même n'avons rien fait de tel ; nous avons créé le patron ensemble, sur la base des captures d'écran de l'émission télévisée. A la barbare, comme ça.
 
-### About the coat
+### À propos du manteau
 
-Carlton is a double-breasted long overcoat in the tradition of horseback uniform coats where the back of the coat isn't split, but rather has wide pleats that can drape over the back of the horse. Or, more realistically, fan open behind you as you walk about.
+Carlton est un manteau croisé, long, s'inspirant des uniformes de cavaliers, sans fente au dos, mais à la place de larges plis pouvant se draper sur le dos du cheval. Ou, de manière plus réaliste, se soulève derrière vous lorsque vous marchez.
 
-![Front view of Carlton on yours truly](front.jpg) ![Back view of Carlton on yours truly](back.jpg)
+![Carlton vu de face](front.jpg) ![Carlton vu de dos](back.jpg)
 
-It comes with two patch pockets on the front, two map pockets at the chest, and two inner pockets. Six pockets in total, so you'll have plenty of room for all your belongings.
+Il comporte deux poches appliquées sur le devant, deux poches poitrine et deux poches intérieures. Soit six poches au total, vous aurez donc beaucoup de place pour vos affaires.
 
-![Map and patch pockets on the outside](pockets.jpg) ![Inner pockets on the inside](innerpocket.jpg)
+![Poches poitrine et poches applquées extérieures](pockets.jpg) ![Poches intérieures](innerpocket.jpg)
 
-I finished mine just in time for a trip to K&ouml;ln to visit my beloved friend and tailor [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). It was cold as eff over there, but the coat kept me nice and warm. Not surprising since it's made in a hefty wool I picked up in [Bacci in Florence](http://www.baccitessuti.it/en/index.html) over the summer, and I took the extra step of interlining it with French terry (I really don't like to be cold).
+J'ai terminé le mien juste à temps pour un voyage à K. pour rendre visite à mon cher ami et tailleur [Sebastian Hoofs](http://sebastian-hoofs.de/massschneider/). Il y faisait un froid de canard, mais le manteau m'a bien tenu chaud. Pas surprenant, car il est réalisé dans une laine lourde que j'ai trouvée chez [Bacci à Florence](http://www.baccitessuti.it/en/index.html) un été, et j'ai choisi l'option d'ajouter une sous-couche en molleton french terry (je n'aime vraiment pas avoir froid).
 
-![I have no affiliation with Bacci, I'm just a sucker for great fabric stores](bacci.jpg) ![You can see the terry interlining where I peeled back the sleeve lining](interlining.jpg)
+![Je n'ai aucun lien avec Bacci, je suis juste un aspirateur à grands magasins de tissus](bacci.jpg) ![Vous pouvez voir la sous couche en molleton au dos de la doublure de manche](interlining.jpg)
 
-### Burn the patriarchy to the ground through the power of pockets
+### Prenez le pouvoir grâce à ces poches magnifiques
 
-Ladies take note: Carlita --- a female version of Carlton --- is currently on the drawing board.
+Aux filles : Carlita --- version féminine de Carlton --- est actuellement sur la planche à dessin.
 
-Initially, the plan was to release male and female versions side by side, but adapting the coat has proven to be more involved than anticipated because, well, because boobs.
+Initialement, le projet était de publier les versions masculine et féminine ensemble, mais l'adaptation s'est avérée plus compliquée que prévu à cause des seins.
 
-I also feel like I have to keep too many plates spinning right now, so I'm hopeful that getting Carlton out the door will create some time/space to make Carlita follow soon(ish). Either way, I've promised Anneke that we'd do a female version, and [she's a freesewing Captain now](/patrons), so I intend to keep that promise.
+J'ai l'impression de faire tourner trop d'assiettes en même temps en ce moment, donc j'espère que la sortie de Carlton laissera un peu de temps/espace pour que Carlita suive bientôt. Quoi qu'il en soit, j'ai promis à Anneke que nous faisions une version femme, et [comme elle est un capitaine Freesewing maintenant](/patrons), j'ai l'intention de tenir cette promesse.
 
-Oh, and about that title: When Carlita's ready, she will have just as many pockets as Carlton.
+Oh, et précision : quand Carlita sera prête, elle aura autant de poches que Carlton.
 
-## Also, this: Introducing the Bent Body Block
-We're actually releasing two patterns today. Apart from the Carlton Coat, there's also the [Bent Body Block](/patterns/bent).
+## Introduction au patron de haut de base Bent
+Nous publions en fait deux patrons aujourd'hui. En plus du manteau Carlton, il y a aussi le patron de haut de base [Bent](/patterns/bent).
 
-Bent is a two-part sleeve variation of our [Brian Body Block](/patterns/bent). It's essentially a base for coat and jacket patterns for menswear.
+Bent est une variation en deux parties de notre [patron de haut de base Brian](/patterns/bent). C'est un patron de base pour des manteaux et vestes pour hommes.
 
-I originally designed Bent as a base for my [refashioners 2017 zebra jacket](/blog/the-refashioners-2017/), so you can expect that jacket pattern to also hit the site in the coming months.
+J'ai initialement conçu Bent comme une base pour ma veste zèbre [refashioners 2017](/blog/the-refashioners-2017/), donc ce patron de veste ne saurait tarder à arriver sur le site dans les mois à venir.
 
-Carlton is also based on Bent, so we're giving you both today.
+Carlton étant également basé sur Bent, nous vous donnons les deux aujourd'hui.
 
-Have wonderful and happy holidays if you're into that kind of thing. And happy making!
+Passez des vacances merveilleuses et heureuses si vous êtes dans ce genre de choses. Et bonnes réalisations !

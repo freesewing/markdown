@@ -27,9 +27,9 @@
 
 <Note>
 
-####### Good sides together, or precise pattern matching?
+###### Good sides together, or precise pattern matching?
 
-When cutting out two, you can cut them [good sides together](/en/docs/sewing/good-sides-together).
+When cutting out two, you can cut them [good sides together](/docs/sewing/good-sides-together).
 Als ik echter een stof met een patroon gebruik knip ik ze liever apart zodat ik meer controle heb over de plaatsing van het patroon.
 
 Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus draai of je patroondeel of je stof om als je een tweede deel knips.
@@ -47,8 +47,4 @@ Als je alles apart uitknipt, onthou dan dat de delen gespiegeld moeten zijn. Dus
 ![Trace the front facing and lining from the front part](cuttingCaveat.svg)
 
 </Warning>
-
-
-
-
 

@@ -15,7 +15,7 @@ Alors ajoutons-le comme mesure nécessaire.
 Ouvrez le fichier de configuration à l'adresse `config/index.js` et mettez à jour le tableau `measurements` avec le nom des mesures requises :
 
 ```js
-measurements: ["headCircumference"],
+measurements: ["head"],
 ```
 
 <Tip>
@@ -26,7 +26,7 @@ See our [best practices](/guides/best-practices/names#re-use-measurements) on th
 
 </Tip>
 
-A présent tout le monde sait que votre patron a besoin de la mesure `headCircumference`.
+A présent tout le monde sait que votre patron a besoin de la mesure `head`.
 
 Ce changement sera également repris par l'environnement de programmation, et vous verrez alors à l'écran :
 

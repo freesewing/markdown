@@ -6,35 +6,35 @@ caption: "Note: ceci est un long message. Bien que nettement moins que ce livre"
 author: joost
 ---
 
-Salut tout le monde, c'est Joost. I'm writing this post to address some problems that have been worrying me lately. Specifically, these problems:
+Salut tout le monde, c'est Joost. J'écris ce message pour aborder certains problèmes qui m'ont ennuyé ces derniers temps. Plus spécifiquement, ces problèmes :
 
- 1. [There is too much work for one person](#problem-1-there-is-too-much-work-for-one-person)
- 2. [I feel I'm losing track of the sewing community](#problem-2-i-feel-im-losing-track-of-the-community)
- 3. [I feel insecure about how to deal with the issue of systemic racism](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
+ 1. [Il y a trop de travail pour une seule personne](#problem-1-there-is-too-much-work-for-one-person)
+ 2. [J'ai l'impression de perdre de le lien avec la communauté de couture](#problem-2-i-feel-im-losing-track-of-the-community)
+ 3. [Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-The good news is that it's a relatively short list. The even better news is that all of these problems be addressed by the same solution: [Community building](#community-building).
+La bonne nouvelle est qu'il s'agit d'une liste relativement courte. La meilleure nouvelle est que tous ces problèmes peuvent être résolus par la même solution : [Développement Communautaire](#community-building).
 
 Avant d'entrer dans le vif du sujet, examinons brièvement chaque problème :
 
-## Problem 1: There is too much work for one person
+## Problème 1 : Il y a trop de travail pour une personne
 
-Over the course of the last week I read [Working in public: The making and maintenance of open source software](https://www.amazon.com/dp/0578675862/) by [Nadia Eghbal](https://nadiaeghbal.com/).
+Au cours de la semaine dernière, j'ai lu [Travailler en public : La création et la maintenance de logiciels open source](https://www.amazon.com/dp/0578675862/) par [Nadia Eghbal](https://nadiaeghbal.com/).
 
-Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Questions like “*How do other maintainers do it?*”, or “*Am I doing it wrong?*”
+Je l'ai acheté en espérant y trouver des réponses à certaines des questions que je me pose. Comme *Comment font les autres ?* ou *Suis-je en train de me tromper ?*”
 
 En d'autres termes, j''espérais trouver une solution à ce qui est pour moi un problème grandissant : l''incapacité à dimensionner mon propre travail à la façon dont je voudrais dimensionner le projet FreeSewing.
 
-I don't want to spoil the book, but it didn't provide any straightforward answers on how to address that problem. It turns out that the vast majority of open source maintainers are in the same boat. Most projects are run by either a single person, or a handful of people.
+Sans vouloir trop le critiquer, ce livre ne m'a fourni aucune réponse concrète sur la manière de résoudre ce problème. Il s'avère que la grande majorité des personnes travaillant en open source sont dans le même bateau. La plupart des projets sont maintenus par une seule personne ou une poignée de personnes.
 
-There's nothing wrong with that. But it does put a firm upper limit on how much projects like FreeSewing can accomplish.
+Il n'y a rien de mal à cela. Mais elle impose une limite sur le nombre de projets comme FreeSewing qui peuvent être réalisés.
 
-## Problem 2: I feel I'm losing track of the sewing community
+## Problème 2 : J'ai l'impression de perdre contact avec la communauté couture
 
-I worry that I have been neglecting the communal aspects of FreeSewing, there are no comments or *social* aspects on the site. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
+Je m'inquiète d'avoir négligé les aspects communautaires de FreeSewing, il n'y a pas de commentaires ni d'aspects *sociaux* sur le site. J'ai toujours pensé que c'était une erreur d'essayer de réunir les gens sur son propre site Web. Il vaut mieux les laisser discuter sur les plates-formes de leur choix.
 
-Pour la communauté couture, c'est souvent Instagram. Since I have left Instagram year ago, I feel like I'm getting further away from the sewing community.
+Pour la communauté couture, c'est souvent Instagram. Or comme j'ai quitté Instagram il y a un an, j'ai l'impression de m'éloigner de la communauté.
 
-My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the sewing community in a way that works for me.
+Mes [raisons de partir](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) sont les mêmes aujourd'hui qu'à l'époque, mais j'aimerais pouvoir me connecter avec la communauté couture d'une manière qui fonctionne pour moi.
 
 ## Problème 3: Je ne me sens pas à l'aise sur la manière de traiter les problèmes de racisme.
 
@@ -42,121 +42,121 @@ Premièrement : **Black lives matter**✊🏾
 
 Mon malaise vient de mon environnement. Je suis un homme blanc cis-genre d'âge moyen, né et élevé dans un pays dont l'histoire est teintée du sang de gens de couleur ([ce pays est la Belgique](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). À ce jour, un racisme occasionnel imprègne tous les aspects de la société dans laquelle je vis.
 
-A welcoming a diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
+La diversité d'une communauté est *une condition sine qua non* pour moi. Mais je me sens mal équipé pour comprendre comment en créer une sur FreeSewing.
 
 ## Développement communautaire
 
-As I mentioned earlier, these things have been on my mind for a while, albeit they were a lot more fuzzy. Then earlier this month I listened to [Black makers matter with Julian Collins on the podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
+Comme mentionné précédemment, ces choses me trottent dans la tête depuis un bon moment, même si elles sont plutôt floues. Puis plus tôt ce mois-ci, j'ai écouté ["Black makers matter" avec Julian Collins sur le podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
 
-[Julian](https://www.instagram.com/juliancreates/) is a patron of FreeSewing (thanks Julian) and actively involved with the [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) movement on Instagram. J'ai contacté Julian à la recherche d'aide, et nous avons eu un long appel Zoom où nous avons parlé de son travail et comment il s'y prend pour organiser la communauté.
+[Julian](https://www.instagram.com/juliancreates/) est un mécène de FreeSewing (merci Julian) et il est activement impliqué dans le mouvement [Black makers matter](https://www.instagram.com/blkmakersmatter/) sur Instagram. J'ai contacté Julian à la recherche d'aide, et nous avons eu un long appel Zoom où nous avons parlé de son travail et comment il s'y prend pour organiser la communauté.
 
-Julian a eu beaucoup de bons conseils. I couldn't possibly cram it all into this post, but it sort of boils down to:
+Julian a eu beaucoup de bons conseils. Je ne pouvais raisonnablement pas tout détailler dans cet article, mais cela se résume à :
 
- - Just ask people for help
- - Be clear about what kind of community you want to build
+ - Il suffit de demander de l'aide aux gens
+ - Soyez clair sur le type de communauté que vous voulez construire
 
-So I am taking Julian's advice to heart, and asking for help. Before we get to that though, let's make sure we're all on the same page about the kind of community we're trying to build here.
+Je prends donc à cœur les conseils de Julian, et je demande de l'aide. Avant d'y arriver, assurons-nous que nous sommes tous sur la même page sur le genre de communauté que nous essayons de construire ici.
 
 ## Vérification rapide : Êtes-vous en ligne avec les valeurs de FreeSewing ?
 
 Pour vous assurer que vos valeurs sont alignées avec celles de FreeSewing, veuillez prendre un moment pour vous familiariser avec :
 
- - [Our community standards](/docs/about/community-standards/)
- - [Our code of conduct](https://freesewing.dev/contributors/code-of-conduct/)
- - [Our revenue pledge](/docs/about/pledge/)
+ - [Les standards de notre communauté](/docs/various/community-standards/)
+ - [Notre code de conduite](https://freesewing.dev/contributors/code-of-conduct/)
+ - [Notre engagement de revenus](/docs/various/pledge/)
 
-If reading that made you happy rather than angry, we could use your help :)
+En supposant que cette lecture vous ait rendu plus heureux qu'en colère, nous pourrions utiliser votre aide :)
 
 ## Aidez à faire grandir FreeSewing au-delà de ce que je peux faire seul
 
-We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
+Nous commençons simplement : nous prévoyons de tenir un Zoom/Skype/Autre toutes les 2 semaines pour faire le point au fur-et-à-mesure. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
 
 Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de discussion](https://chat.freesewing.org/).
 
 ### De quelle aide avons nous besoin ?
 
-Les Mendiants ne peuvent faire les difficiles. All help is welcome, and I certainly don't want to turn down any volunteers.
+Les Mendiants ne peuvent faire les difficiles. Toute l'aide est la bienvenue, et je ne veux certainement rejeter aucun volontaire.
 
-That being said, an overly vague call defuses the message. So I've listed/included a number of *roles* below to give you an idea of the kind of work that goes into FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
+Cela étant dit, un appel trop vague désavoue le message. J'ai donc écrit un certain nombre de *rôles* ci-dessous pour vous donner une idée du genre de travail dans FreeSewing. Il ne s'agit pas d'une liste exhaustive, mais simplement d'un point de départ pour une discussion.
 
-The order is alphabetic.
+L'ordre est alphabétique.
 
-**Backend Developer**  
-You keep our backend in step with the latest frontend developments. Express is no stranger to you. Node JS is a good friend. Or maybe you'd like them to be.
+**Développeur Backend**  
+Vous gardez notre backend en phase avec les derniers développements du frontend. Express ne vous est pas étranger. Node JS est un bon ami. Ou peut-être aimeriez-vous qu'ils le soient.
 
-**Body Ambassador**  
-Maybe you're unusually short or tall. Maybe you have a bit of a pot belly or very large breasts. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
+**Body Ambassadeur**  
+Peut-être que vous êtes inhabituellement petit ou grand. Peut-être que vous avez un peu de ventre ou une poitrine bien généreuse. Peut-être que vous avez un handicap qui nécessite des ajustements. Quoi qu'il en soit, vous représentez une minorité avec des problèmes d'ajustements, et êtes prêts à agir en tant qu'ambassadeur pour s'assurer que vos besoins soient entendus et compris.
 
-**Community Builder**  
-You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
+**Bâtisseur communautaire**  
+Vous êtes un extraordinaire extravagant, ou au moins bon imitateur. Vous aimez bavarder avec toutes sortes de personnes, et le réseautage est votre tasse de thé. Vous êtes comme la gelée qui transforme un groupe d'individus en une communauté unie.
 
-**Database Administrator**  
-You look after our database. Other people might feel that's not important, but you know better. You're familiar with MongoDB.
+**Administrateur de la base de données**  
+Vous vous occupez de notre base de données. D'autres personnes pourraient avoir l'impression que ce n'est pas important, mais vous savez bien que ça l'est. Vous êtes familier avec MongoDB.
 
-**Devops Engineer**  
-Your aim is to make almost all these other roles irrelevant by automating the heck out of everything. CI and Github actions are fun for you. You like to sit back and have the robots do the work for you.
+**Ingénieur Devops**  
+Votre but est de rendre la quasi-totalité de ces autres rôles non pertinents en automatisant le plus de choses possible. Les actions de CI et Github sont amusantes pour vous. Vous aimez vous asseoir et demander aux robots de faire le travail pour vous.
 
-**Frontend Developer**  
-You improve our websites, specifically freesewing.org and freesewing.dev. Both of them are built with [Gatsby](https://www.gatsbyjs.com/), an open source framework for building frontends that is powered by [React](https://reactjs.org/). If you know these things, or would like to learn them, this is your jam.
+**Développeur Frontend**  
+Vous améliorez nos sites Web, en particulier freesewing.org et freesewing.dev. Tous deux sont construits avec [Gatsby](https://www.gatsbyjs.com/), un framework open source pour la construction de frontends qui est alimenté par [React](https://reactjs.org/). Si vous connaissez ces choses, ou si vous voulez les apprendre, c'est pour vous.
 
-**Illustrator**  
-You create illustrations to go alongside the written documentation. If you draw a bicycle from memory, it actually looks like a bicycle.
+**Illustrateur**  
+Vous créez des illustrations pour accompagner la documentation écrite. Quand vous tracez une bicyclette de tête, elle ressemble vraiment à une bicyclette.
 
-**Inclusion & Diversity Manager**  
-You have skin in the game when it comes to inclusion and diversity. You'll help make our community welcoming and diverse. You won't be afraid to tell this pasty white dude when he's wrong.
+**Responsable de diversité & d'inclusion**  
+Vous êtes personnellement impliqué en matière d'inclusion et de diversité. Vous contribuerez à rendre notre communauté accueillante et diversifiée. Vous n'avez pas peur de dire à ce vilain blanc-bec quand il a tort.
 
-**Language Ambassador**  
-You represent FreeSewing in a non-English community. You can help answer questions or triage problem reports. Or you can point out where translations are missing.
+**Ambassadeur de langue**  
+Vous représentez FreeSewing dans une communauté non anglophone. Vous pouvez aider à répondre aux questions ou à trier les rapports de problèmes. Ou vous pouvez indiquer où les traductions sont manquantes.
 
-**Pattern Ambassador**  
-You'll be responsible for a specific FreeSewing design/pattern. You'll be *the person* to ask questions about how to make that pattern. You'll make sure the documentation is not forgotten. And you can help with questions or triage problem reports to developers or designers.
+**Ambassadeur de patrons**  
+Vous serez responsable d'un design/patron FreeSewing spécifique. Tu seras *la personne* à qui poser des questions sur la réalisation de ce patron. Vous vous assurez qu'il n'y a aucun oubli dans la documentation. Et vous pouvez aider avec les questions ou le tri des rapports d'incident pour les développeurs ou les designers.
 
-**Pattern Designer**  
-You come up with new pattern designs for FreeSewing. You might not know how to turn on a computer, but damn if you can't draft a bodice.
+**Concepteur de patrons**  
+Vous proposez de nouveaux designs de patrons pour FreeSewing. Vous ne savez peut-être pas comment allumer un ordinateur, mais vous déchirez en ébauche de corsage.
 
-**Pattern Developer**  
-You program new designs for FreeSewing. You might not know how to design sewing patterns, but you're not afraid of Javascript and are happy to team up with a designer to work on a new pattern together.
+**Développeur de patrons**  
+Vous programmez de nouveaux designs pour FreeSewing. Vous ne savez peut-être pas comment concevoir des patrons de couture, mais vous n'avez pas peur de Javascript et vous êtes heureux de faire équipe avec un concepteur pour travailler ensemble sur un nouveau patron.
 
-**Proofreader**  
-You check original English text of translations for typos and/or grammar mistakes. You propose improvements and watch over a consistent style and tone across FreeSewing's documentation and written text. You're fluent in the language you're proofreading.
+**Relecteur**  
+Vous vérifiez que la traduction du texte original en anglais ne contient pas de faute de frappe et/ou de grammaire. Vous proposez des améliorations et faites attention à un style et un ton cohérents à travers la documentation et le texte écrit de FreeSewing. Vous maîtrisez parfaitement la langue dont vous êtes relecteur.
 
-**Social Media Platform Manager**  
-You represent FreeSewing on a *platform*, where platform could be Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit &hellip;. You manage the FreeSewing account on the platform, and use it to interact with the community.
+**Responsable de plateforme des réseaux sociaux**  
+Vous représentez FreeSewing sur une *plateforme * où la plateforme peut être Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit, &hellip;. Vous gérez le compte FreeSewing sur la plateforme, et l'utilisez pour interagir avec la communauté.
 
-**System Administrator** You look after our servers. You install updates, make sure certificates are up-to-date, the works. Linux is where your heart lies. You secretly automated most of your work with Ansible but hey, you put the playbooks in Git so no worries.
+**Administrateur système** Vous vous occupez de nos serveurs. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
 
-**Technical Writer (code)**  
-You write documentation for freesewing.dev, our developers website. You have good writing skills and familiarity with code (Javascript).
+**Rédacteur technique (code)**  
+Vous écrivez de la documentation pour freesewing.dev, notre site web de développeurs. Vous avez de bonnes compétences en programmation et vous êtes familier avec le code (Javascript).
 
-**Technical Writer (sewing)**  
-You write documentation for freesewing.org, our makers website. You have good writing skills and are familiarity with sewing.
+**Rédacteur technique (couture)**  
+Vous écrivez de la documentation pour freesewing.org, notre site web pour les ceux qui vont réaliser les patrons. Vous avez de bonnes compétences en rédaction et vous êtes à l'aise en couture.
 
-**Translator**  
-You translate FreeSewing into one of its additional languages (French, German, Dutch, Spanish) or if you're ambitious, add a new one. You're fluent in the language you're translating to, and have a good grasp of English.
+**Traducteur**  
+Vous traduisez dans une des langues supplémentaires de FreeSewing (français, allemand, néerlandais, espagnol) ou si vous êtes ambitieux, ajoutez-en une nouvelle. Vous maîtrisez parfaitement la langue dans laquelle vous traduisez et maîtrisez bien l'anglais.
 
 **UX Designer**  
-You know what UX is and are happy to point out where it sucks and how it can be made better.
+Vous savez ce qu'est l'UX et êtes heureux de signaler où ça ne va pas et comment cela peut être amélioré.
 
-**Release Manager**  
-You pull the plug on new releases, you bundle our code, and publish new versions of our packages on NPM.
+**Responsable des versions**  
+Vous avez la main sur les nouvelles versions, vous groupez notre code et publiez de nouvelles versions de nos packages sur NPM.
 
 **Web Designer**  
-You know how to make things pretty, even if you're not sure how to actually make them work.  You appreciate that we don't use #000 for black.
+Vous savez comment rendre les choses jolies, même si vous ne savez pas comment les faire fonctionner.  Vous appréciez que nous n'utilisions pas #000 pour le noir.
 
-### What's in it for me?
+### Qu'est-ce que j'y gagne ?
 
-We can't offer you money. Please [read our revenue pledge](/docs/about/pledge/) to understand why that is.
+Nous ne pouvons pas vous offrir d'argent. Veuillez [lire notre engagement en matière de revenus](/docs/various/pledge/) pour comprendre pourquoi.
 
-What we can offer is responsibility, recognition, and a stake in something that strives to be a force for good in this world.
+Ce que nous pouvons offrir, c'est la responsabilité, la reconnaissance et une participation dans quelque chose qui cherche à être une force pour le bien dans ce monde.
 
-It can also be an excellent learning opportunity for those of you who would like to pivot to a role in web development. And for as far as my time stretches — I will gladly teach and mentor people from underprivileged communities aiming for social mobility.
+Il peut également être une excellente occasion d’apprendre pour ceux d’entre vous qui voudraient jouer un rôle dans le développement du web. Et tant que mon temps pourra le permettre, je me ferai un plaisir d’enseigner et de superviser les gens des communautés défavorisées qui aspirent à la mobilité sociale.
 
 ## Conclusion
 
-Maybe you can help. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
+Peut-être que vous pouvez nous aider. Peut-être que vous connaissez quelqu'un qui peut aider, ou pour qui cela serait une expérience d'apprentissage précieuse.
 
-Either way, I'd appreciate it if you could help spread the message that I'm asking for help.
+Quoi qu'il en soit, je vous serais reconnaissant si vous pouviez aider à faire passer le message que je demande de l'aide.
 
-Thank you,
+Merci,
 
 Joost

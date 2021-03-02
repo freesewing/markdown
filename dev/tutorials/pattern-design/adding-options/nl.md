@@ -2,7 +2,7 @@
 title: 140|Adding options
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. Maar je moet nog een aantal keuzes maken:
+You know what your bib should look like, and you have the *head* measurement to work with. Maar je moet nog een aantal keuzes maken:
 
  - Hoe groot moet de halsopening zijn?
  - Hoe breed moet het slabbetje zijn?

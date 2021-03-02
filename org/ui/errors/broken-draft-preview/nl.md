@@ -1,9 +1,7 @@
 ---
-title: Dit patroon werkt niet meer
+title: Dit is een verouderd patroon
 ---
 
-##### Dit patroon is gemaakt met een oudere versie van FreeSewing
+Dit patroon werd gemaakt met een oudere versie van FreeSewing en is niet compatibel met de huidige versie.
 
-Het is niet compatibel met de meest recente versie.
-
-Klik op de knop hieronder om dit patroon opnieuw te maken met de courante versie. Als het opnieuw uit elkaar valt zullen we de stukjes oprapen en aanbieden om een bug te rapporteren.
+Klik op de knop hieronder op dit patroon opnieuw te creëren in de huidige versie. Als het opnieuw uit elkaar valt zullen we de stukjes oprapen en aanbieden om een bug te rapporteren.

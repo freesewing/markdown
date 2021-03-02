@@ -6,8 +6,8 @@ order: 190
 Avec notre encolure en place, attaquons-nous au contour du bavoir :
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 
 points.topLeft = new Point(
   width / -2,
@@ -29,8 +29,8 @@ paths.rect = new Path()
 La première chose que nous avons faite est de créer les variables `width` (largeur) et `length` (longueur) afin de nous épargner un peu de dactylographie :
 
 ```js
-let width = measurements.headCircumference * options.widthRatio;
-let length = measurements.headCircumference * options.lengthRatio;
+let width = measurements.head * options.widthRatio;
+let length = measurements.head * options.lengthRatio;
 ```
 
 La longueur et la largeur de votre bavoir sont tous les deux des facteurs du tour de tête (head circumference). De cette façon, la taille du bavoir s'adaptera à celle du bébé, et l'utilisateur pourra ajuster la longueur et la largeur en jouant avec les options que vous aurez ajouté au patron.

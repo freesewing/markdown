@@ -2,6 +2,6 @@
 title: Sans papier
 ---
 
-Les patrons sans papier ont des marquages supplémentaires pour pouvoir les utiliser sans imprimante
+Paperless patterns have extra markings to use them without a printer.
 
-L'idée est qu'avec l'aide de la grille et les dimensions supplémentaires, vous n'avez pas besoin d'imprimer le patron. Au lieu de cela, vous pouvez le transférer directement sur le tissu, ou sur un support intermédiaire tel que le papier à patron.
+L'idée est qu'avec l'aide de la grille et les dimensions supplémentaires, vous n'avez pas besoin d'imprimer le patron. Instead, you can transfer it directly onto fabric, or onto a intermediate medium such as drafting paper.

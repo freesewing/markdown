@@ -2,7 +2,7 @@
 title: 140|Adding options
 ---
 
-You know what your bib should look like, and you have the *headCircumference* measurement to work with. But there's still a number of choices you have to make:
+You know what your bib should look like, and you have the *head* measurement to work with. But there's still a number of choices you have to make:
 
  - How large should the neck opening be?
  - How wide should the bib be?

@@ -21,7 +21,7 @@ Where the world of makers and developers collide, that's where you'll find FreeS
 
 Our [core library](https://freesewing.dev/) is a *batteries-included* toolbox
 for parametric design of sewing patterns. It's a modular system (check our list
-of [plugins](https://freesewing.dev/plugins) and getting started is as simple as:
+of [plugins](https://freesewing.dev/reference/plugins/) and getting started is as simple as:
 
 ```bash
 npm init freesewing-pattern
@@ -38,10 +38,10 @@ our sewing patterns adapted to your measurements.
 
 ## Support FreeSewing: Become a patron 🥰
 
-FreeSewing is an open source project run by a community, 
+FreeSewing is an open source project run by a community,
 and financially supported by our patrons.
 
-If you feel what we do is worthwhile, you too 
+If you feel what we do is worthwhile, you too
 should [become a patron](https://freesewing.org/patrons/join).
 
 ## Links 👩‍💻

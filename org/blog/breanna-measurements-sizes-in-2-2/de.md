@@ -26,7 +26,7 @@ Ein Grundschnittblock ist vielleicht nicht das aufregendste Schnittmuster, das e
 
 In other words, Breanna is an important building block for us to extend our womenswear collection. But that doesn't mean it's not good news for you too. If you've been sewing for a while, chances are drafting your own block/sloper has perpetually been on your to-do list. Well, good news, because here's your block ready to go.
 
-Oh, and of course it's got all the bells and whistles you've come to expect from us. Have a look at [the pattern options](http://localhost:8000/docs/patterns/breanna/options/) and I think you'll be positively impressed. If nothing else, this block can accommodate 1 or 2 bust darts in 15 different places, giving you 120 unique ways to place your bust dart(s).
+Oh, and of course it's got all the bells and whistles you've come to expect from us. Have a look at [the pattern options](/docs/patterns/breanna/options/) and I think you'll be positively impressed. If nothing else, this block can accommodate 1 or 2 bust darts in 15 different places, giving you 120 unique ways to place your bust dart(s).
 
 Breanna has has been a while in the making, and we'd love to get your feedback on it. Making a muslin from a block like this really isn't much work. So if you've got some time to spare to whip this one up and let us know how it went, that would be great.
 
@@ -71,7 +71,7 @@ Obvously, made-to-measure patterns is *our thing*, and we're not changing that. 
 
 ### What are standard sizes anyway?
 
-The hardest thing about adding support for standard sizes? Figuring out what the heck standard sizes are supposed to be. We took a stab at it, and if you're curious you can [check out our sizing table here](/docs/about/sizes/).
+The hardest thing about adding support for standard sizes? Figuring out what the heck standard sizes are supposed to be. We took a stab at it, and if you're curious you can [check out our sizing table here](/docs/various/sizes/).
 
 For menswear, our size range is 32 to 50, and they are based on a size 38 baseline that we then graded up and down. For womenswear, our size range is 28 to 48, and they are based on a size 34 baseline that we then graded up and down.
 

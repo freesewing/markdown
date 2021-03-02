@@ -20,6 +20,6 @@ Our [developer documentation](https://freesewing.dev) is available on [freesewin
 #### Want to help out?
 
 Awesome ❤️   
-Our [contributor documentation](https://freesewing.dev/guides/contributor/) is a good starting point. We also have dedicated guides for [translators](https://freesewing.dev/guides/contributor/) and [editors](https://freesewing.dev/guides/editor/).
+Our [contributor documentation](https://freesewing.dev/contributors/) is a good starting point. We also have dedicated guides for [translators](https://freesewing.dev/translators/) and [editors](https://freesewing.dev/editors/).
 
 Last but not least, [join us on Discord](https://discord.freesewing.org/) where all the other contributors hang out.

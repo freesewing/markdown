@@ -1,8 +1,8 @@
 <Note>
 
-####### Sandy documentatie ontbreekt
+###### Sandy documentation is missing
 
-De documentatie voor dit patroon moet nog geschreven worden.
+The documentation for this pattern is yet to be written.
 
 </Note>
 
