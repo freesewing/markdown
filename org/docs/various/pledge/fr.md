@@ -2,21 +2,21 @@
 title: Engagement de revenus de FreeSewing
 ---
 
-The **FreeSewing revenue pledge** states that:
+La **promesse de revenus de FreeSewing** indique que :
 
-> ##### All FreeSewing revenue will be donated to [Doctors Without Borders (MSF)](http://www.msf.org/)
+> ##### Tous les revenus de FreeSewing seront donnés à [Médecins Sans Frontières (MSF)](http://www.msf.org/)
 
-The pledge is made and enforced by the FreeSewing maintainer (joost). You can read about [his motivations for doing so on this page](/docs/various/pledge/motivation/).
+La promesse est faite et appliquée par le responsable de FreeSewing (joost). Vous pouvez lire davantage sur [ses motivations pour cela sur cette page](/docs/various/pledge/motivation/).
 
 <Tip>
 
-If you'd like to support FreeSewing, you can [join us here](/community/join/)
+Si vous souhaitez soutenir FreeSewing, vous pouvez [nous rejoindre ici](/community/join/)
 
 </Tip>
 
-##### History
+##### Historique
 
-|      Year |        Amount |          |
+|     Année |       Montant |          |
 | ---------:| -------------:| -------- |
 |      2015 |        256,65 |          |
 |      2016 |        473,50 |          |
