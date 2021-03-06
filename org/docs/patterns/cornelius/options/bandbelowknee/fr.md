@@ -1,6 +1,6 @@
 ---
-title: Cuff below knee
+title: Bracelet sous le genou
 ---
 
-Controls how far the cuff will sit below your knee.
+Contrôle la distance à laquelle le bracelet se place sous le genou.
 
