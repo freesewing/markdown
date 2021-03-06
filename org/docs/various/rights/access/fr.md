@@ -5,4 +5,4 @@ order: 20
 
 Vous disposez d'un droit d'accès à vos données personnelles.
 
-Go to [/account](/account/) to do so.
+Pour cela, allez dans la partie [/Mon compte](/account/).
