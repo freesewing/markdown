@@ -1,13 +1,13 @@
 ---
 date: 2021-02-13
-title: "Say hi to our latest pattern: The Hortensia handbag"
-linktitle: "Announcing the Hortensia handbag"
+title: "Dites bonjour à notre dernier modèle : le sac à main Hortensia"
+linktitle: "Annonce du sac à main Hortensia"
 img: hortensia.jpg
-caption: "An example Hortensia made by the designer"
+caption: "Un exemple de Hortensia fait par le designer"
 author: joost
 ---
 
-I'm happy to announce the immeadiate availability of our latest FreeSewing pattern: [the Hortensia handbag](/designs/hortensia/).
+Je suis heureux d'annoncer la disponibilité immédiate de notre dernier modèle FreeSewing : [le sac à main Hortensia](/designs/hortensia/).
 
 Hortensia's origin story traces back to [@stofsutchti](https://twitter.com/stoffsuchti) who wanted to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
 
