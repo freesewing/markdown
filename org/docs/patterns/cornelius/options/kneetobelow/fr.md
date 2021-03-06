@@ -1,6 +1,6 @@
 ---
-title: Cuff length
+title: Longueur de bracelet
 ---
 
-Controls the length of the cuff.
+Contrôle la longueur des bracelets.
 
