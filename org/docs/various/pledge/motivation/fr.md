@@ -4,8 +4,8 @@ title: Motivation
 
 <Note>
 
-This is a personal note by Joost De Cock -- the FreeSewing maintainer -- about
-his motivations for [the FreeSewing revenue pledge](/docs/various/pledge/)
+Ceci est une note personnelle de Joost De Cock -- le responsable de FreeSewing -- à propos de
+ses motivations pour [l'engagement de revenus de FreeSewing](/docs/various/pledge/)
 
 </Note>
 
@@ -13,18 +13,18 @@ Vous supposez probablement que nous demandons de l'argent pour faire tourner les
 
 Je ne sais pas si vous êtes familier avec l'expression **noblesse oblige** mais cela signifie essentiellement que le privilège implique une responsabilité.
 
-Je suis privilégié, et j'ai donc des responsabilités. I am very fortunate to have been born in Western Europe, to have a good job, and a roof over my head.
+Je suis privilégié, et j'ai donc des responsabilités. J'ai la chance d'être né en Europe occidentale, d'avoir un bon travail et un toit au-dessus de ma tête.
 
-Pourrais-je utiliser cet argent ? Yes I could.  
-Do I need the money? Non.
+Pourrais-je utiliser cet argent ? Oui, je pouvais.  
+Ai-je besoin de l'argent ? Non.
 
 ##### La valeur de votre soutien
 
 Le risque principal pour FreeSewing est le même que n'importe quel projet open source : le burnout du responsable.
 
-While I no longer carry FreeSewing alone — and I can't overstate the value of the work of all contributors — that doesn't make me immune to feelings of **Why the hell am I doing this?**
+Bien que je ne supporte plus FreeSewing seul — et je ne saurais trop insister sur la valeur du travail de tous les contributeurs — cela ne m'immunise pas contre le sentiments de **Pourquoi donc est-ce que je fais tout ça ?**
 
-When you become a FreeSewing Patron, you give more than money. To me, the main value is the message you send to me and other people working on this. And that message is: **Hey, you're doing a worthwhile thing. Keep up the good work**.
+Quand vous devenez un Mécène de FreeSewing, vous donnez plus que de l'argent. Pour moi, la principale valeur est le message que vous envoyez à moi, ainsi qu'aux autres personnes qui travaillent sur ce projet. Et ce message est : **Hey, vous faites quelque chose qui en vaut la peine. Continuez à bien travailler**.
 
 ##### La valeur de votre argent
 
@@ -32,7 +32,7 @@ Il ne s'agit pas de *seulement* d'argent. Mais cela ne signifie pas que l'argent
 
 Gagner de l'argent en faisant quelque chose que j'aime et ensuite le transmettre aux œuvres caritatives me permet de dormir la nuit.
 
-I could volunteer at a soup kitchen, or teach underprivileged children how to code. Mais à la place, je travaille sur FreeSewing.
+Je pourrais faire du bénévolat aux resto du cœur ou apprendre aux enfants défavorisés à coder. Mais à la place, je travaille sur FreeSewing.
 
 C'est pourquoi tout l'argent récolté par FreeSewing va aux bonnes œuvres. Il rend ce projet non seulement amusant à faire, mais aussi socialement responsable. And I need that to convince myself that yes, it's OK to spend all my time doing this, because FreeSewing is a force for good.
 
