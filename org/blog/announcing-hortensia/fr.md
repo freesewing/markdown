@@ -9,20 +9,20 @@ author: joost
 
 Je suis heureux d'annoncer la disponibilité immédiate de notre dernier modèle FreeSewing : [le sac à main Hortensia](/designs/hortensia/).
 
-Hortensia's origin story traces back to [@stofsutchti](https://twitter.com/stoffsuchti) who wanted to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
+L'histoire de Hortensia remonte à [@stofsutchti](https://twitter.com/stoffsuchti) qui voulait créer un patron pour un sac à main, et cherchait quelqu'un qui pourrait implémenter ce design dans le code.
 
-It was [Wouter](https://github.com/woutervdub) who answered the call and implemented the pattern, making this another success story from the FreeSewing community.
+C'est [Wouter](https://github.com/woutervdub) qui a répondu à l'appel et développé le patron, ce qui fait de cette histoire le nouveau succès de la communauté FreeSewing.
 
-## No measurements needed
+## Aucune mesure nécessaire
 
-This is the first pattern on FreeSewing that does not require any measurements to make. There's some options you can choose — to control the size of the handbag for one thing — but since this is a handbag, no measurements are needed.
+C'est le premier modèle sur FreeSewing qui ne nécessite aucune mesure à faire. Il y a quelques options que vous pouvez choisir — dont le fait de contrôler la taille du sac à main — mais puisqu'il s'agit d'un sac à main, aucune mesure n'est nécessaire.
 
-This makes Hortensia a great project to make as a gift, since there's no need to worry about fit.
+Cela fait de Hortensia un grand projet à faire en cadeau, car il n'y a pas besoin de s'inquiéter de l'ajustement.
 
 <Tip>
 
-##### Now show us yours
+##### Maintenant, montrez-nous le vôtre
 
-If you do make a Hortensia, do [send us pictures](https://chat.freesewing.org/).
+Si vous faites une Hortensia, [envoyez-nous des photos](https://chat.freesewing.org/).
 
 </Tip>
