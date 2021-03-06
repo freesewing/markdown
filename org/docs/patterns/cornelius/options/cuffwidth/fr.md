@@ -1,6 +1,6 @@
 ---
-title: Cuff width
+title: Largeur du bracelet
 ---
 
-Controls the width of the cuff.
+Contrôle la largeur des bracelets.
 
