@@ -2,13 +2,13 @@
 title: Politique de confidentialité
 ---
 
-**Last update**: 8 January 2021
+**Dernière mise à jour**: 8 janvier 2021
 
 Cette politique de confidentialité décrit les données personnelles que nous stockons. Cela explique pourquoi nous avons besoin de ces données, combien de temps nous les conserverons et si nous les partageons avec des tiers.
 
 Nous sommes convaincus que ça prouve notre engagement en faveur de la protection de la vie privée.
 
-For clarity, we've broken this up in four different types of roles:
+Pour plus de clarté, nous avons divisé ceci en quatre types de rôles différents :
 
  - For **visitors of our website**, we store **[visitor data](/docs/various/privacy/visitor/)**
  - For **subscribers to our newsletter**, we store **[subscriber data](/docs/various/privacy/subscriber/)**
