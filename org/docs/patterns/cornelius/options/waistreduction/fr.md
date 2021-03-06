@@ -1,5 +1,5 @@
 ---
-title: Waist reduction
+title: Réduction de la taille
 ---
 
-Reduces the waist for a more snug fit.
+Réduit la taille de la ceinture pour un porté plus ajusté.
