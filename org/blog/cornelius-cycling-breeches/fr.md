@@ -8,10 +8,10 @@ author: joost
 
 [Wouter](https://www.instagram.com/wouter.vdub/) s'y est remis, cette fois-ci il nous a préparé une culotte de cyclisme classique.
 
-Ce patron est basé sur la méthode de patronage Keystone. Not that it matters because as always you get it made-to-measure for you [right here on FreeSewing.org](/designs/cornelius/).
+Ce patron est basé sur la méthode de patronage Keystone. Cela n'a pas d'importance parce que, comme toujours, vous le faites sur mesure pour vous [ici sur FreeSewing.org](/designs/cornelius/).
 
-![Here's the man himself](wouter.jpg)
+![Voici l'homme lui-même](wouter.jpg)
 
-Note that you don't have to cycle to wear these. All that's required is a willingness to show of those socks (or calfs).
+Notez que vous n'avez pas à faire de vélo pour les porter. Tout ce qu'il faut c'est une volonté de montrer vos chaussettes (ou mollets).
 
-Cornelius is available at [/designs/cornelius/](/designs/cornelius/).
+Cornelius est disponible à [/designs/cornelius/](/designs/cornelius/).
