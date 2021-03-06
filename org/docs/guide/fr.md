@@ -11,19 +11,19 @@ La lecture de ce guide prendra environ 10 minutes de votre temps maintenant, ce 
  - Nous allons vous dire [ce qu'est FreeSewing][1] et [ce qu'est freesewing.org][2]
  - Nous allons vous parler de nos [patrons de couture sur mesure][3] et de ce que nous entendons par [*avec des seins* vs *sans seins*][4]
  - Nous allons couvrir les questions [pourquoi vous avez besoin d'un compte][5] ce que nous entendons par [vos personnes][6] ou [vos patrons][7], et quand nous parlons de [mensurations][8]
- - We'll go over [how you can configure your patterns][9] with design and pattern options
- - Finally, we'll tell you [where you can get help][10] if you get stuck.
+ - Nous enchaînerons avec [comment vous pouvez configurer vos patrons][9] avec des options de design et de patron
+ - Enfin, nous vous dirons [où vous pouvez obtenir de l'aide][10] si vous êtes bloqué.
 
-Sounds good? Then let's dive right in:
+Ça vous paraît bien ? Alors plongeons directement dans le bain :
 
 <ReadMore list />
 
 <Tip>
 
-##### You don't have to read everything
+##### Vous n'avez pas à tout lire
 
-Feel free to click around to the parts that are most relevant to you. 
-This guide is more reference than story.
+N'hésitez pas à cliquer sur les parties qui vous intéressent le plus. 
+Ce tutoriel est plus une référence que toute une histoire.
 
 </Tip>
 [1]: /docs/guide/what/
