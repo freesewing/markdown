@@ -2,7 +2,7 @@
 title: Boutons, boutonnières, et boutons pressions
 ---
 
-Buttons and buttonholes may come in different sizes, but always have the same shape that represents how they look in real life:
+Les boutons et boutonnières peuvent avoir des tailles différentes, mais ont toujours la même forme que celle à quoi ils ressemblent dans la vie réelle :
 
 <Legend part="buttons" caption="A button is shown on the left, and a buttonhole on the right" >
 
