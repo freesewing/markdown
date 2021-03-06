@@ -1,6 +1,6 @@
 ---
-title: Vent length
+title: Longueur de la fente
 ---
 
-Controls the length of vent between cuff and knee.
+Contrôle la longueur de la fente entre le bracelet et le genou.
 
