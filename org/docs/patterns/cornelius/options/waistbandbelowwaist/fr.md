@@ -1,5 +1,5 @@
 ---
-title: Lower waistband
+title: Abaissement de la ceinture
 ---
 
-This option allows you to lower the waistband below your (natural) waist.
+Cette option vous permet de baisser la ceinture sous votre taille (naturelle).
