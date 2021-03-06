@@ -1,12 +1,12 @@
 ---
-title: Measurements estimates
+title: Estimation des mesures
 ---
 
 Pour vous aider à repérer les erreurs de mesure, nous affichons une estimation de vos différentes mesures à côté de la valeur réelle. Si la différence s'accentue, nous attirerons votre attention sur ce point.
 
 <Tip>
 
-This estimate is based on your neck circumference, so this won't show up until you've measured your neck.
+Cette estimation est basée sur votre circonférence du cou et n'apparaîtra donc pas avant que vous ayez mesuré votre cou.
 
 </Tip>
 
