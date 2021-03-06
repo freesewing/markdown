@@ -1,24 +1,23 @@
 ---
-title: With or without breasts?
+title: Avec ou sans seins ?
 order: 250
 ---
 
-Some people get confused by the terms **with breasts** and **without breasts**.
+Certaines personnes sont perturbées par les termes **avec des seins** et **sans seins**.
 
 Nous utilisons ces termes comme un moyen inclusif de demander si une personne a des seins ou non.
 
 <Tip>
 
-Check [our FAQ on the matter](/docs/faq/breasts/) for more info.
+Consultez [notre FAQ à ce sujet](/docs/faq/breasts/) pour plus d'informations.
 
 </Tip>
 
 <Note>
 
-##### Why we ask in the first place
+##### Pourquoi demandons-nous en premier lieu
 
-Fitting a chest with breasts is more complex than fitting a chest without breasts. 
-There are extra measurements and options required, and we want to display these
-only when it's relevant.
+Ajuster un buste avec des seins est plus complexe que d'ajuster un buste sans sein. 
+Des mensurations et options supplémentaires sont nécessaires et nous ne voulons les afficher que quand c'est pertinent.
 
 </Note>
