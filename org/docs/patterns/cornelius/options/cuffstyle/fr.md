@@ -1,12 +1,12 @@
 ---
-title: Cuff style
+title: Style de bracelet
 ---
 
-This pattern supports three different cuff styles:
+Ce patron supporte trois styles de bracelet différents :
 
- - Traditional
- - Elegant
+ - Traditionnel
+ - Élégant
  - Keystone
 
-<Fixme>Describe the different styles</Fixme>
+<Fixme>Décrire les différents styles</Fixme>
 
