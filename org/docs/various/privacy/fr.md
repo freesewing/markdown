@@ -10,36 +10,36 @@ Nous sommes convaincus que ça prouve notre engagement en faveur de la protectio
 
 Pour plus de clarté, nous avons divisé ceci en quatre types de rôles différents :
 
- - For **visitors of our website**, we store **[visitor data](/docs/various/privacy/visitor/)**
- - For **subscribers to our newsletter**, we store **[subscriber data](/docs/various/privacy/subscriber/)**
- - For **users with an account** on our website, we store **[account data](/docs/various/privacy/account/)**
- - For **users with an account that contains people**, we store **[people data](/docs/various/privacy/people/)**
+ - Pour **les visiteurs de notre site**, nous stockons **[les données des visiteurs](/docs/various/privacy/visitor/)**
+ - Pour **les abonnés à notre newsletter**, nous stockons **[les données d'abonné](/docs/various/privacy/subscriber/)**
+ - Pour **utilisateurs ayant un compte** sur notre site web, nous stockons **[données de compte](/docs/various/privacy/account/)**
+ - Pour **utilisateurs avec un compte qui contient des personnes**, nous stockons **[données de personnes](/docs/various/privacy/people/)**
 
-Here are the relevant sections:
+Voici les sections pertinentes :
 
 <ReadMore list />
 
 <Tip>
 
-##### These roles are typically cumulative
+##### Ces rôles sont généralement cumulatifs
 
-If you are a newsletter subscriber, you are also a visitor.
+Si vous êtes abonné à la newsletter, vous êtes également un visiteur.
 Et si vous êtes un utilisateur avec un ou plusieurs modèles, vous êtes aussi un utilisateur, ainsi qu'un visiteur.
 
 </Tip>
 
-##### Data Controller and Contact information
+##### Gestionnaire des données et informations de contact
 
-For questions about this privacy notice, you can contact Joost De Cock at joost@joost.at.
+Pour toute question concernant cette politique de confidentialité, vous pouvez contacter Joost De Cock à joost@joost.at.
 
-##### Changes and Updates to this Policy
+##### Modifications et mises à jour de cette politique
 
-This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
+Cette politique peut être mise à jour occasionnellement. Nous l'indiquerons dans la date de **Dernière mise à jour** en haut de ce document.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/various/privacy)
+Un aperçu plus complet de l'historique de ce document est [disponible sur GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/various/privacy)
 
-##### See also
+##### Voir aussi
 
  - [Vos droits](/docs/various/right/)
- - [Your consent](/account/actions/consent/)
+ - [Votre consentement](/account/actions/consent/)
 
