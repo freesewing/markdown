@@ -1,5 +1,5 @@
 ---
-title: Fullness
+title: Ampleur
 ---
 
-Influences the ease on the legs for a looser style.
+Influence l'aisance aux jambes pour un style plus détendu.
