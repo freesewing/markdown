@@ -10,11 +10,11 @@ author: joost
 
 Il a écrit :
 
-> When I was a child my dad would tell me stories about hiking in the mountains, something magical for a kid living in The Netherlands. He had a suitcase with his mountaineering things in it, and part of that were some 'knickerbockers', baggy trousers that reached down to your calves. 
+> Quand j’étais enfant, mon père me racontait des histoires sur la randonnée dans les montagnes, quelque chose de magique pour un enfant vivant aux Pays-Bas. Il avait une valise avec ses affaires d'alpinisme dedans, et une partie était des "culottes", pantalon baggy qui descendait jusqu'aux mollets. 
 > 
-> When I moved to the USA in my thirties and started hiking myself, I would often reflect on those talks and felt sad that I didn't inherit those knickerbockers. Then when I discovered sewing, I decided I would make myself a pair, but no good patterns presented themselves. 
+> Quand j'ai déménagé aux États-Unis dans ma trentaine et j'ai commencé à faire de la randonnée. Je pensais souvent à ces discussions et je me sentais triste de ne pas avoir hérité de ces culottes. Puis quand j'ai découvert la couture, j'ai décidé de m'en faire, mais aucun bon patron ne s'est présenté. 
 > 
-> This year someone on the Freesewing discord server posted a link to The 'Keystone' Systems, Practical methods of cutting, from around the turn of the century. This contained a drafting system for 'Cycling Breeches', which seemed to be close to what my father used to wear, and could be translated into a Freesewing pattern. A project was born, and I'm happy to be able to present the results to you.
+> Cette année, quelqu'un sur le serveur discord de Freesewing a posté un lien vers les systèmes de la "Keystone", méthodes pratiques de coupe, du début du siècle dernier. Celui-ci contenait un système de patronage pour les "culottes de cyclisme", qui semblait être proche de ce que mon père avait l'habitude de porter, et pouvait être traduit en un patron Freesewing. Un projet est né et je suis heureux de pouvoir vous présenter les résultats.
 
 As Wouter mentioned; This pattern is based on [the Keystone drafting method](https://archive.org/details/keystonesystemsc00heck/page/n5/mode/2up). Not that it matters because as always you get it made-to-measure for you [right here on FreeSewing.org](/designs/cornelius/).
 
