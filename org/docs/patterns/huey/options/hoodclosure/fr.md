@@ -1,4 +1,4 @@
-![Hood closure](./hoodclosure.svg)
+![Fermeture de capuche](./hoodclosure.svg)
 
-Controls how much of the hood is part of the front closure.
+Contrôle la quantité de capuche sur la partie avant.
 
