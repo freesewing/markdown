@@ -16,10 +16,10 @@ Il a écrit :
 > 
 > Cette année, quelqu'un sur le serveur discord de Freesewing a posté un lien vers les systèmes de la "Keystone", méthodes pratiques de coupe, du début du siècle dernier. Celui-ci contenait un système de patronage pour les "culottes de cyclisme", qui semblait être proche de ce que mon père avait l'habitude de porter, et pouvait être traduit en un patron Freesewing. Un projet est né et je suis heureux de pouvoir vous présenter les résultats.
 
-As Wouter mentioned; This pattern is based on [the Keystone drafting method](https://archive.org/details/keystonesystemsc00heck/page/n5/mode/2up). Not that it matters because as always you get it made-to-measure for you [right here on FreeSewing.org](/designs/cornelius/).
+Comme Wouter l'a mentionné; Ce modèle est basé sur [la méthode de patronage de Keystone](https://archive.org/details/keystonesystemsc00heck/page/n5/mode/2up). Cela n'a pas d'importance parce que, comme toujours, vous le faites sur mesure pour vous [ici sur FreeSewing.org](/designs/cornelius/).
 
-![Here's the man himself](wouter.jpg)
+![Voici l'homme lui-même](wouter.jpg)
 
-Note that you don't have to cycle to wear these. All that's required is a willingness to show of those socks (or calfs).
+Notez que vous n'avez pas à faire de vélo pour les porter. Tout ce qu'il faut c'est une volonté de montrer vos chaussettes (ou mollets).
 
-Cornelius is available at [/designs/cornelius/](/designs/cornelius/).
+Cornelius est disponible à [/designs/cornelius/](/designs/cornelius/).
