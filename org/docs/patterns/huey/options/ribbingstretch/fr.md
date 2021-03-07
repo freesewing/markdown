@@ -1,3 +1,3 @@
 ![Ribbing stretch](./ribbingstretch.svg)
 
-Controls the amount of stretch to foresee in the ribbing.
+Contrôle la quantité d'élasticité à prévoir dans le bord côte.
