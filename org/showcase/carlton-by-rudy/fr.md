@@ -1,15 +1,15 @@
 ---
 date: 2021-02-26
-title: Carlton coat by Rudy
+title: Manteau Carlton par Rudy
 img: carltonrudy1.jpg
-caption: "The Carlton coat by Rudy"
+caption: "Le manteau Carlton par Rudy"
 patterns:
   - carlton
 ---
 
-This stylish Carlton coat was made by Rudy, who shared:
+Ce manteau élégant Carlton a été fait par Rudy qui a partagé :
 
-> My take on the Carlton coat. My first big sewing project and first time using a freesewing pattern. I even made my own buttons :)
+> Mon avis sur le manteau Carlton. My first big sewing project and first time using a freesewing pattern. I even made my own buttons :)
 
 ![Photo de l'avant](carltonrudy2.jpg)
 
