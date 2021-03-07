@@ -9,16 +9,16 @@ patterns:
 
 Ce manteau élégant Carlton a été fait par Rudy qui a partagé :
 
-> Mon avis sur le manteau Carlton. My first big sewing project and first time using a freesewing pattern. I even made my own buttons :)
+> Ma version du manteau Carlton. Mon premier grand projet de couture et la première fois en utilisant un patron freesewing. J'ai même fait mes propres boutons :)
 
 ![Photo de l'avant](carltonrudy2.jpg)
 
-![Buttoned view](carltonrudy3.jpg)
+![Vue boutonnée](carltonrudy3.jpg)
 
 ![Vue du dos](carltonrudy4.jpg)
 
 <Note>
 
-This picture is from Rudy, [@rudy_lee21 on Instagram](https://www.instagram.com/rudy_lee21/). Elle est publiée ici avec son autorisation.
+Cette photo provient de Rudy, [@rudy_lee21 sur Instagram](https://www.instagram.com/rudy_lee21/). Elle est publiée ici avec son autorisation.
 
 </Note>
