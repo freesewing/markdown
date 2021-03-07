@@ -1,17 +1,17 @@
 ---
 date: 2021-03-06
-title: Wahid by Minty
+title: Wahid par Minty
 img: wahidminty.jpg
-caption: "Wahid waistcoat by Minty"
+caption: "Gilet Wahid par Minty"
 patterns:
   - wahid
 author:
 ---
 
-This classy Wahid waistcoat was made by Minty!
+Ce joli gilet Wahid a été réalisé par Minty !
 
 <Note>
 
-This picture is from Minty on Discord. Elle est publiée ici avec son autorisation.
+Cette photo provient de Minty sur Discord. Elle est publiée ici avec son autorisation.
 
 </Note>
