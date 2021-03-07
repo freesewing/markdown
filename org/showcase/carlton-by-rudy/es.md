@@ -9,10 +9,16 @@ patterns:
 
 This stylish Carlton coat was made by Rudy, who shared:
 
-"My take on the Carlton coat. My first big sewing project and first time using a freesewing pattern. I even made my own buttons :).""
+> My take on the Carlton coat. My first big sewing project and first time using a freesewing pattern. I even made my own buttons :)
+
+![View of the front](carltonrudy2.jpg)
+
+![Buttoned view](carltonrudy3.jpg)
+
+![View of the back](carltonrudy4.jpg)
 
 <Note>
-  
-This picture is from Rudy, [@rudy_lee21 on Instagram](https://www.instagram.com/rudy_lee21). It is reposted here with permission.
+
+This picture is from Rudy, [@rudy_lee21 on Instagram](https://www.instagram.com/rudy_lee21/). It is reposted here with permission.
 
 </Note>
