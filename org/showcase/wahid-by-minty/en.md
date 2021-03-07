@@ -3,7 +3,7 @@ date: 2021-03-06
 title: Wahid by Minty
 img: wahidminty.jpg
 caption: "Wahid waistcoat by Minty"
-patterns: [minty]
+patterns: [wahid]
 author:
 ---
 
