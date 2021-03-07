@@ -1,6 +1,6 @@
 ---
 date: 2021-03-06
-title: Cette culotte de cyclisme Cornelius est le dernier cadeau de Woutdoor pour nous tous
+title: Cette culotte de cyclisme Cornelius est le dernier cadeau de Woutter pour nous tous
 img: main.jpg
 caption: "Faire du vélo comme un vrai gentilhomme"
 author: joost
@@ -8,7 +8,7 @@ author: joost
 
 [Wouter](https://www.instagram.com/wouter.vdub/) s'y est remis, cette fois-ci il nous a préparé une culotte de cyclisme classique.
 
-He writes:
+Il a écrit :
 
 > When I was a child my dad would tell me stories about hiking in the mountains, something magical for a kid living in The Netherlands. He had a suitcase with his mountaineering things in it, and part of that were some 'knickerbockers', baggy trousers that reached down to your calves. 
 > 
