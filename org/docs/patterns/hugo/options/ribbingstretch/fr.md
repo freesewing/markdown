@@ -1,3 +1,5 @@
+![élasticité de bord côte](./ribbingstretch.svg)
+
 
 Cette option vous permet d'adapter élasticité de votre bord côte.
 
