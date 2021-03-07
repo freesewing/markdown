@@ -2,18 +2,18 @@
 title: Repères
 ---
 
-Il y a deux types de repères. The default notch is a dot in a circle.
+Il y a deux types de repères. Le repère par défaut est un point dans un cercle.
 
-An alternative style shows a cross in a circle. Ce style est utilisé pour indiquer le dos d'un vêtement. For example, on a sleevecap you may see a dot and a cross notch. This way you know which side of the sleevecap is the back (the one with the cross notch).
+Un style alternatif montre une croix dans un cercle. Ce style est utilisé pour indiquer le dos d'un vêtement. Par exemple, sur une tête de manche vous pouvez voir un point et une croix. De cette façon, vous savez quel côté de la tête de manche est le devant (celui avec le repère en croix).
 
-<Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" >
+<Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" />
 
 <Tip>
 
-##### Why we chose these notches
+##### Pourquoi nous avons choisi ces repères
 
-In electromagnetism, a ⊙ symbol is used to indicate a flow of current coming towards you (to the front),
-whereas ⊗ is used for a current moving away from you (to the back).
+Dans l'électromagnétisme, un symbole ⊙ est utilisé pour indiquer un flux de courant venant vers vous (vers l'avant),
+alors que ⊗ est utilisé pour un courant s'éloignant de vous (à l'arrière).
 
 Vous pouvez aussi penser à une flèche. Quand une flèche vole vers vous, vous voyez sa pointe (⊙).
 Quand une flèche s'enfuit de vous, vous voyez ses plumes(⊗).

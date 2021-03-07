@@ -1,7 +1,7 @@
 ---
-title: Measurements graph
+title: Graphique des mesures
 ---
 
-Below is an example of a measurements graph. We will generate such a graph for your people as soon as you provide us with their neck circumference.
+Voici un exemple de graphique de mesure. Nous générerons un tel graphique pour vos gens dès que vous nous fournirez leur circonférence du cou.
 
-![Example of a measurements graph](graph.svg)
+![Exemple de graphique de mesure](graph.svg)

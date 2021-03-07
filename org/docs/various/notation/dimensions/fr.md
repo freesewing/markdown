@@ -4,14 +4,15 @@ title: Dimensions
 
 Lorsque vous optez pour un patron *sans papier* , votre patron se fourni avec des dimensions :
 
-<Legend part="dimension" caption="An example of a dimension on a pattern" >
+<Legend part="dimension" caption="An example of a dimension on a pattern" />
 
 <Tip>
 
-###### Pay close attention to dimensions on non-paperless patterns
+###### Faites attention aux dimensions sur les patrons (pas sans papier)
 
-Some patterns use dimension to indicate the full size of a pattern piece.
-This typically happens when a part is a mere rectangle.
+Certains patrons utilisent une dimension pour indiquer la taille totale d'une pièce de patron.
+Cela se produit généralement lorsqu'une partie est un simple rectangle.
 
-So when a pattern includes a dimension, make sure to pay attention to it before you cut into your fabric.
+Ainsi, quand un patron comprend une dimension, assurez-vous d'y prêter attention avant de couper votre tissu.
+
 </Tip>

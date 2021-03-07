@@ -7,7 +7,7 @@ caption: "Ce message traite principalement de notre travail sur la révélation 
 author: joost
 ---
 
-Nous venons juste de publier FreeSewing v2.1 <unk> 🎉
+Nous venons juste de publier FreeSewing v2.1 🎉
 
 ## Rencontrez Pénelope, Waralee et Simone
 

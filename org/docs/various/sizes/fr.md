@@ -2,18 +2,18 @@
 title: Tableau des tailles
 ---
 
-FreeSewing does not use sizes. All our patterns are drafted to a set of measurements.
+FreeSewing n'utilise pas les tailles. Tous nos patrons sont élaborés selon un ensemble de mesures.
 
-Since version 2.2 however, we do provide *standard sizes*. Each size is a set of measurements that is an estimation of what a person with a given neck circumference could have as measurements.
+Depuis la version 2.2 cependant, nous fournissons *tailles standards*. Chaque taille est un ensemble de mesures qui est une estimation de ce qu'une personne avec un tour de cou donné pourrait avoir comme mensuration.
 
-This is not an exact science. We provide these sizes as a fast and easy way to get started with our patterns. But we do hope that you will take the time to take your own measurements, or have them taken. This will always yield better results.
+Ce n'est pas une science exacte. Nous fournissons ces tailles comme un moyen rapide et facile de commencer à utiliser nos patrons. Mais nous espérons que vous prendrez le temps de prendre vos propres mesures, ou de les faire prendre. Cela donnera toujours de meilleurs résultats.
 
 <Tip>
 
-##### Open in a wide view
+##### Ouvrir en vue élargie
 
-These tables take up a lot or screen real-estate, which is why we
- [show sizes in a wide view](/sizes/).
+Ces tables prennent beaucoup de place et plus que contient l'écran, c'est pourquoi nous
+ [montrons les tailles dans une vue élargie](/sizes/).
 
 </Tip>
 

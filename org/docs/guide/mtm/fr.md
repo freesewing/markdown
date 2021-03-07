@@ -1,21 +1,21 @@
 ---
-title: Made-to-measure sewing patterns
+title: Modèles de couture sur mesure
 order: 200
 ---
 
-All of our sewing patterns are **made to measure**.
+Toutes nos patrons de couture sont **sur mesure**.
 
-We don’t scale or grade patterns. Nous ébauchons plutôt le patron à vos mesures. Cela se produit en temps réel, dans votre navigateur.
+Nous ne faisons pas de mise à l'échelle ou de gradation des patrons. Nous ébauchons plutôt le patron à vos mesures. Cela se produit en temps réel, dans votre navigateur.
 
 <Note>
 
-##### But you do have sizes?
+##### Mais vous avez des tailles ?
 
-Generating a made-to-measure sewing pattern requires an account.
-For the casual visitor who stumbles upon our website, that
-adds a lot of friction before they can try out the website.
+La génération d'un modèle de couture sur mesure nécessite un compte.
+Pour le visiteur décontracté qui tombe sur notre site web,
+cela ajoute beaucoup de frein avant de pouvoir essayer le site Web.
 
-For this reason, we've added standard sizes since version 2.2.  
-We advice against using our standard sizes for actual garment construction.
+Pour cette raison, nous avons ajouté des tailles standards depuis la version 2.2.  
+Nous vous conseillons de ne pas utiliser nos tailles standard pour la construction de vêtements.
 
 </Note>
