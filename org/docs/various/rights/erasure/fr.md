@@ -5,4 +5,4 @@ order: 40
 
 Vous disposez d'un droit à l'effacement de vos données personnelles.
 
-Go to [/account/remove](/account/remove/) to remove all your data.  
+Allez dans [/Mon compte/Supprimer votre compte](/account/remove/) pour supprimer toutes vos données.  

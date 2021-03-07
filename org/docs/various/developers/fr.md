@@ -1,9 +1,9 @@
 ---
-title: Developer documentation
+title: Documentation pour les développeurs
 ---
 
-Freesewing.org only hosts documentation for makers.
+Freesewing.org n'héberge que la documentation pour les créateurs.
 
-Our documentation for developers, contributors, editors, and translators alike is available on [freesewing.dev][1]
+Notre documentation pour les développeurs, contributeurs, éditeurs et traducteurs est disponible sur [freesewing.dev][1]
 
 [1]: https://freesewing.dev/

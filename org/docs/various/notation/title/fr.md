@@ -1,5 +1,5 @@
 ---
-title: Titles
+title: Titres
 ---
 
 Chaque pièce de patron a un titre qui indique le numéro et le nom de la pièce, ainsi que le nom du patron :  

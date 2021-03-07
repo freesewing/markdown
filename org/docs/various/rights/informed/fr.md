@@ -5,4 +5,4 @@ order: 10
 
 Vous avez le droit d'être informé de la collecte et de l'utilisation de vos données personnelles.
 
-Read [our privacy notice](/docs/various/privacy/) to inform yourself.
+Lisez [notre politique de confidentialité](/docs/various/privacy/) pour vous informer.

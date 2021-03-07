@@ -1,9 +1,9 @@
 ---
-title: What is freesewing.org?
+title: Qu'est-ce que freesewing.org ?
 order: 150
 ---
 
-Freesewing.org is our flagship website that offers made-to-measure sewing patterns to makers all over the world.
+Freesewing.org est notre site phare qui offre des patrons de couture sur mesure aux couturier.e.s du monde entier.
 
-It is our most visible asset, and for many people their first encounter with the project. The place where all our work on comes together and teams up, to provide you with something we hope you will appreciate.
+C'est notre vitrine la plus visible, et pour beaucoup de gens leur première rencontre avec le projet. L'endroit où tout notre travail et collaboration se réunit, pour vous fournir quelque chose que nous espérons que vous apprécierez.
 
