@@ -1,3 +1,3 @@
-![Pocket height](./pocketheight.svg)
+![Hauteur de la poche](./pocketheight.svg)
 
-Controls the height of the front pocket.
+Contrôle la hauteur de la poche avant.

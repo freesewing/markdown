@@ -1,12 +1,12 @@
 
 <Note>
 
-This patterns was featured in [issue 27 of HackSpace magazine](https://hackspace.raspberrypi.org/issues/27),
-the article includes instructions too, so you may want to have a look at it.
+Ce patron a été mis en vedette dans le [numéro 27 du magazine HackSpace ](https://hackspace.raspberrypi.org/issues/27),
+l'article contient également des instructions, donc vous pouvez vouloir le consulter.
 
 </Note>
 
 <Warning>
-Documentation for this pattern is yet to be written.
+La documentation pour ce patron n'est pas encore écrite.
 </Warning>
 

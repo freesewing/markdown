@@ -1,19 +1,19 @@
 ---
 date: 2021-02-15
-title: Sandy skirt by Sunshine
+title: Jupe Sandy par Sunshine
 img: sandy-by-sunshine-1.jpg
-caption: "Paneled Sandy skirt by Sunshine"
+caption: "Jupe Sandy à panneaux par Sunshine"
 patterns:
   - sandy
 author: Sunshine
 ---
 
-This lovely Sandy skirt was made by Sunshine. The maker shared more information about the project:
+Cette jolie jupe Sandy a été réalisée par Sunshine. La créatrice a fourni plus d'informations sur ce projet :
 
-"I couldn't fit the Sandy pattern on the 44"fabric I bought, so I ended up folding it a few times and using it to cut sections for a panel skirt using alternating colors instead that I had dyed last week. I added a strip on the bottom to increase the length. Then, I added a  trim that I had sitting in my sewing basket for 2 years. I hadn't previously considered using a section of the Sandy as a panel segment, but it worked super well!!! I'm not perfect at sewing, but I think it turned out alright!"
+Je ne pouvais pas adapter le patron Sandy sur le tissu de 44" (112 cm) de laize que j'ai acheté. J'ai donc fini par le plier à plusieurs reprises et l'utiliser pour couper des sections pour une jupe en panneaux, en utilisant des couleurs alternatives plutôt que ce que j'avais teint la semaine dernière. J'ai ajouté une bande en bas pour la rallonger. Ensuite, j'ai ajouté un ruban que j'avais dans mon stock depuis 2 ans. Je n'avais pas pensé au début à utiliser les section du patron Sandy en tant que panneaux, mais finalement ça a très bien fonctionné !!! Je ne suis pas experte pour la couture, mais je pense que le résultat est réussi !"
 
 <Note>
 
-This project is from [the FreeSewing Discord](https://discord.freesewing.org/) and has been shared here with permission.
+Ce projet provient du [Discord FreeSewing](https://discord.freesewing.org/) et a été partagée ici avec permission.
 
 </Note>

@@ -1,3 +1,3 @@
 ![Bord côte](./ribbing.svg)
 
-Whether to include ribbing or not.
+Si l'on doit inclure ou non du bord côte.
