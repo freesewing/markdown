@@ -1,3 +1,4 @@
+![Ribbing stretch on Hugo](./ribbingstretch.svg)
 
 Met deze optie kan je de stretch van je boord aanpassen.
 

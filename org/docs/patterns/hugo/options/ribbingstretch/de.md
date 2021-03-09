@@ -1,3 +1,5 @@
+![Ribbing stretch on Hugo](./ribbingstretch.svg)
+
 
 This option allows you to tweak the stretch of your ribbing.
 
