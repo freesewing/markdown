@@ -41,19 +41,19 @@ Your pockets are cut from a lining material, which can save on weight and bulk, 
 
 Als je een overlocker gebruikt, werk dan nu de gebogen randen van je zakstukken af. Then, serge along the long edges of the pocket flaps.
 
-![Voorzakken met overlockranden](step02.jpg)
+![Voorzakken met overlockranden](step02.svg)
 
 ## Stap 3: Bevestig de zakken aan de broekspijpen
 
 With [good sides together](https://freesewing.org/docs/sewing/good-sides-together/), line up the markings on the edge of the pocket bag with the ends of the flap along the outside seam of the front leg. Stik ze aan elkaar. Herhaal dit voor de andere pijp.
 
-![De zakken aan het voorpand vastgestikt](step03.jpg)
+![De zakken aan het voorpand vastgestikt](step03.svg)
 
 Doe nu hetzelfde met de achterpanden. With good sides together, line up the markings on the edge of the pocket bag with the ends of the flap along the outside seam of the back leg. Before sewing, make sure that your left leg front and back are attached to one pocket, and your right leg front and back are attached to the other. Stik ze aan elkaar.
 
 Pers de naadwaarde van de steekzak en de broekspijp weg van de zak, tegen de broekspijp.
 
-![Geperste voorzakken](step03b.jpg)
+![Geperste voorzakken](step03b.svg)
 
 <Note>
 
@@ -62,17 +62,13 @@ bag, to secure the flaps and pocket bag all together the way you pressed them.
 
 </Note>
 
-![Steekzakken met tegenstiksel](step03c.jpg)
+![Steekzakken met tegenstiksel](step03c.svg)
 
 ## Stap 4: Bereid de zijnaden en de steekzak voor
 
 Je hebt nu twee grote delen voor elke pijp, elk met een voor- en achterpand die aan elkaar vasthangen met een zak.
 
-![Vastgemaakte steekzakken en pijpen](step04.jpg)
-
 Neem één van de pijpen en leg het voor- en achterpand op elkaar met de goede kant naar binnen. Align the outer side seam, so that the side seam of the leg pieces match up, and the pocket bag edges are aligned, with good sides together.
-
-![Zakken en zijnaden, op elkaar gelegd](step04b.jpg)
 
 ## Stap 5: Stik de zijnaden
 
@@ -84,7 +80,7 @@ Nu ga je de onderkant van de steekzak sluiten en de rest van de zijnaad stikken.
 
 Herhaal dit voor de andere pijp.
 
-![Broekspijp met gestikte zijnaad](step05.jpg)
+![Broekspijp met gestikte zijnaad](step05.svg)
 
 ## Stap 6: Werk de zijnaden af
 
@@ -103,7 +99,7 @@ unravelling if left unsecured.
 
 Herhaal dit voor de andere pijp.
 
-![Zig-zag stitched side seams](step06.jpg)
+![Zig-zag stitched side seams](step06.svg)
 
 Pers de zijnaden naar het voorpand.
 
@@ -131,11 +127,13 @@ The pockets in Paco are anchored at the waist. This means that you can put thing
 
 To anchor each pocket, align the top of the pocket with the mark along the waistline of your pattern. Sew a line of basting stitches inside your seam allowance to hold the pocket in place.
 
-![Anchored pocket bags showing basted seam](step07.jpg)
+![Anchored pocket bags showing basted seam](step07.svg)
 
 ## Step 8: Sew and finish the inseams
 
 Align the inseams with good sides together, then sew up the inseams. Finish the seams the same way you finished the side seams. Press inseams to the back.
+
+![Sewn up inseam](step08.svg)
 
 ## Step 9: Sew and finish crotch seam
 
@@ -148,7 +146,7 @@ pressed to the back as they feed through the machine.
 
 </Note>
 
-<!--- Insert image --->
+![Crotch seam](step09.svg)
 
 ## Step 10: Place eyelets for the draw string (optional)
 Markeer het midden van de lengte van je tailleband. Fold one of your waistband pieces double, and mark the middle of the width (do not take the seam allowance into account).
@@ -164,19 +162,19 @@ behind these eyelets. A bit of interfacing or a leftover piece of denim will do 
 
 </Tip>
 
-<!--- Insert image --->
+![Waistband with eyelets](step10.svg)
 
 ## Step 11: Prepare the waist elastic
 There’s no magic formula for the length of your elastic. So you wrap it around your waist and pull it tight until you get a good fit. Paco is cut to sit at the high hip, so make sure your elastic is long enough to sit comfortably at the high hip.
 
 Markeer deze lengte, knip het elastiek en naai de uiteindes aan elkaar.
 
-![Elastic joined with a series of zig-zag stitches](step11.jpg)
+![Elastic joined with a series of zig-zag stitches](step11.svg)
 
 ## Step 12: Join the waistband
 Place the two waistband pieces good sides together, and align the short edges. Sew the short edges together, then press open. These will be inside the waistband, so you don't need to finish the edges of these seams unless your fabric is particularly likely to fray.
 
-![Joined waistband pieces](step12.jpg)
+![Joined waistband pieces](step12.svg)
 
 Vouw de tailleband dubbel in de lengte met de goede kanten naar buiten. Pers. This fold will be the top of your waistband.
 
@@ -186,8 +184,6 @@ Je kan de tailleband op twee manieren vastmaken. One is a bit simpler, but leave
 
 ### De eenvoudige methode
 Houd je tailleband dubbelgevouwen en schuif de elastiek erin. Make sure to align the place where the elastic is joined with the back of the waistband (opposite the eyelets).
-
-<!--- Insert image with elastic sticking out, step13 --->
 
 Find the center front of your waistband (easy if there are eyelets, if not just fold it double), and align that with the center front seam of your pants. Make sure that your waistband is outside of your pants, with good sides together. Speld vast.
 
@@ -200,11 +196,11 @@ not the inside of your waistband.
 
 </Tip>
 
-Next, align the center front of your waistband with the center front seam. Speld vast. Then, align the center backs and pin in place, adding additional pins around the waistband as needed.
+Next, align the center back of your waistband with the center back seam. Speld vast. Then, add additional pins around the waistband as needed.
 
 Sew the waistband to the pants, as close to the the elastic as you can, but don’t sew into the elastic.
 
-<!--- Insert image, step13b --->
+![Waistband sewn with simple method](step13.svg)
 
 It’s fine to not sew too close the first time around, and once your elastic is attached and encased, make a second round to sew it a bit more snugly.
 
@@ -226,7 +222,7 @@ waistband, above the fold, for now.
 
 </Tip>
 
-<!--- Insert image, step 13c --->
+![Open waistband sewn to pants](step13b.svg)
 
 Next, align the center back of your waistband with the center back seam. Speld vast. Then, add additional pins around the waistband as needed.
 
@@ -234,13 +230,11 @@ Sew the waistband to the pants.
 
 Press the waistband up. Press the seam allowance in on the opposite side of the waistband, maintaining the fold along the center of the waistband.
 
-![Pressed waistband, prepared for sewing](step13d.jpg)
-
 Refold the waistband, turning half the waistband to the inside. Pin so that the seam allowance on the inside is just below the seam joining the waistband to the pants, and pin in place around the waistband. From the outside, stitch in the ditch, catching the inner waistband as you go.
 
 <!--- Probably put a note here about stitching in the ditch? --->
 
-![Pinned waistband](step13e.jpg)
+![Waistband sewn with enclosed seams](step13c.svg)
 
 ## Step 14: Prepare the cuff elastic
 
@@ -248,16 +242,14 @@ As you did with the waistband elastic, wrap the elastic for your cuff around you
 
 Markeer deze lengte, knip het elastiek en naai de uiteindes aan elkaar. Repeat for the other cuff elastic.
 
-![Elastic joined with zig-zag stitching](step14.jpg)
+![Elastic joined with zig-zag stitching](step14.svg)
 
 ## Step 15: Join the cuffs
 Fold each cuff with good sides together, aligning the short edges. For each cuff, sew the short edges together, then press open. These will be inside the cuff, so you don't need to finish the edges of these seams unless your fabric is particularly likely to fray.
 
-![Joined cuffs](step15.jpg)
+![Joined cuffs](step15.svg)
 
 Fold each cuff double along the length, with good sides out, and press. This fold will be the bottom of your cuffs.
-
-<!--- Insert image --->
 
 ## Step 16: Attach the cuffs
 
@@ -274,8 +266,6 @@ You will attach your cuffs the same way that you attached the waistband. As with
 
 Keep your cuffs folded double, and place the elastic inside.
 
-<!--- Insert image, step16 --->
-
 Align the seam in the cuff with the inseam of the pants. Make sure that your cuff is outside of your pants, with good sides together. Pin in place, then pin the rest of the way around the cuff.
 
 <Tip>
@@ -290,11 +280,9 @@ there are enough.
 
 </Tip>
 
-<!--- Insert image, step16b --->
-
 Sew the cuff to the pants opening, as close to the the elastic as you can, but don’t sew into the elastic.
 
-<!--- Insert image, step16c --->
+![Cuffs sewn with simple method](step16.svg)
 
 Finish the seam with a serger or other method.
 
@@ -306,15 +294,13 @@ Align the seam in the cuff with the inseam of the pants. Make sure that your cuf
 
 Sew the cuff to the pants.
 
-![Sewing the cuff to the pants](step16d.jpg)
+![Sewing the open cuffs to the pants](step16b.svg)
 
 Press the cuff away from the pants. Press the seam allowance in on the opposite side of the cuff, maintaining the fold along the center of the cuff.
 
-![Pressed cuff, with elastic inside, being pinned closed](step16e.jpg)
-
 Refold the cuff, turning half the cuff to the inside. Pin so that the seam allowance on the inside is just past the seam joining the cuff to the pants, and pin in place around the cuff. From the outside, stitch in the ditch, catching the inner cuff as you go.
 
-![Cuff on the free arm of sewing machine, showing stitching in the ditch](step16f.jpg)
+![Cuffs sewn with enclosed seams](step16c.svg)
 
 ## Step 17: Stitching the cuffs and waistband (optional)
 
@@ -323,8 +309,6 @@ If you have wider cuff elastic, you may want to stitch a horizontal line halfway
 <!--- You could also do a zig-zag stitch here, but I think straight probably looks nicer? --->
 
 If you like the look, you can also sew more than one line of stitches, evenly spaced between the top and bottom of the cuff.
-
-<!--- Insert image --->
 
 You can do the same for the waistband.
 
@@ -335,7 +319,7 @@ below the eyelets, leaving a channel wide enough for your drawstring.
 
 </Note>
 
-<!--- Insert image --->
+![Waistband and cuffs with decorative stitching](step17.svg)
 
 ## Step 18: Thread a draw string around the waist (optional)
 If you put eyelets in your waistband, thread a drawstring through one eyelet, around the waist, and out of the other eyelet.
@@ -347,6 +331,8 @@ Pin the safety pin to one end of your drawstring, then push it through the chann
 will be easier to maneuver through the fabric, and it will pull the drawstring along with it.
 
 </Note>
+
+![Paco threaded with drawstring](step18.svg)
 
 ## Step 19: Enjoy your Paco pants!
 You did it! Way to go!
