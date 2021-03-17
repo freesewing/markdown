@@ -1,19 +1,19 @@
 ---
 date: 2021-03-06
-title: Huey by Minty
+title: Huey par Minty
 img: hueyminty1.jpg
-caption: "Huey hoodie by Minty"
+caption: "Sweat à capuche Huey par Minty"
 patterns:
   - huey
 author:
 ---
 
-This fantastic Huey hoodie was made by Minty! Minty shared that he made this with a regular machine instead of a serger.
+Ce fantastique sweat à capuche Huey a été cousu par Minty! Minty a partagé qu'il l'a réalisé avec une machine normale sans surjeteuse.
 
-![Zipped view](hueyminty2.jpg)
+![Vue du zip](hueyminty2.jpg)
 
 <Note>
 
-This picture is from Minty on Discord. Elle est publiée ici avec son autorisation.
+Cette photo provient de Minty sur Discord. Elle est publiée ici avec son autorisation.
 
 </Note>

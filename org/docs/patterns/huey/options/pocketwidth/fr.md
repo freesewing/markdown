@@ -1,3 +1,3 @@
-![Pocket width](./pocketwidth.svg)
+![Largeur de poche](./pocketwidth.svg)
 
-Controls the width of the front pocket.
+Contrôle la largeur de la poche avant.

@@ -1,3 +1,3 @@
-![Hood cutback](./hoodcutback.svg)
+![Coupe arrière de capuche](./hoodcutback.svg)
 
-Controls how much the hood opening is cut back, making the hood less deep.
+Contrôle combien l'ouverture de la capuche est coupée, rendant la capuche moins profonde.

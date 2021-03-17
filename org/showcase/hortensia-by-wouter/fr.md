@@ -1,25 +1,25 @@
 ---
 date: 2021-03-06
-title: Hortensia by Wouter
+title: Hortensia par Wouter
 img: hortensia1.jpg
-caption: "Haring's Hortensia handbag by Wouter"
+caption: "Sac à main Hortensia illustré Haring par Wouter"
 patterns:
   - hortensia
 author:
 ---
 
-Not only did Wouter sew this Haring's Hortensia handbag, he also designed the fabric and made the pattern! He shared that he made the fabric design with his daughter and had it printed through Spoonflower.
+Wouter n'a pas seulement cousu ce sac à main Hortensia aux illustrations d'Haring, il a aussi conçu le tissu et fait le patron ! Il a partagé qu'il a fait le design du tissu avec sa fille et l'a fait imprimer via Spoonflower.
 
-Wouter also shares on [the Instagram feed @Wouter.vdub](https://www.instagram.com/Wouter.vdub/) and [blogs at ShirtArtistry]https://shirtartistry.blog/).
+Wouter partage également sur [son Instagram @Wouter.vdub](https://www.instagram.com/Wouter.vdub/) et [blogs à ShirtArtistry]https://shirtartistry.blog/).
 
 ![Photo de l'avant](hortensia2.jpg)
 
-![View of the side](hortensia3.jpg)
+![Vue du côté](hortensia3.jpg)
 
-![View of the zipper](hortensia4.jpg)
+![Vue de la fermeture à glissière](hortensia4.jpg)
 
 <Note>
 
-This picture is from Wouter on Discord. Elle est publiée ici avec son autorisation.
+Cette photo provient de Wouter sur Discord. Elle est publiée ici avec son autorisation.
 
 </Note>

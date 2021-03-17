@@ -1,4 +1,4 @@
 
-![Ribbing height](ribbingheight.svg)
+![Hauteur de bord côte](ribbingheight.svg)
 
-The height of the ribbing at the hem and cuffs.
+La hauteur de la bande à l'ourlet du bas et aux poignets.
