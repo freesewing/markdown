@@ -1,3 +1,125 @@
+# Pattern releases winter 2021
+
+Here's a quick recap of the new patterns we released in the first quarter of this year:
+
+ - [The Bella bodice block for womenswear](https://freesewing.org/blog/bella-bodice-block/): A collaboration with somebody from the industry to replicate the kind of bodice block that's used in fashion today. Currently it has a bust dart towards the side-seam. A variation with a shoulder dart is on our todo list.
+ - [The Hortensia handbag](https://freesewing.org/blog/announcing-hortensia/): Another collaboration, this time between Stofsuchti and long-time contributor Wouter Van Wageningen brought the first handbag pattern to FreeSewing.
+ - [The Cornelius cycling breeches](https://freesewing.org/blog/cornelius-cycling-breeches/): More from Wouter still, these cycling breeches or knickerbockers are based on the Keystone drafting method.
+
+Click through any of the links for the blog posts announcing these patterns.
+
+
+---
+
+
+# Spotlight on some lesser-know FreeSewing features
+
+Regardless of whether you've only recently discovered FreeSewing, or have been a user for many years, here are some things you might not have discovered on your own:
+
+## Multilingualism
+
+FreeSewing is available in 5 languages, each with their own website. In addition to English at freesewing.org, we have websites in [French](https://fr.freesewing.org/), [German](https://de.freesewing.org/), [Dutch](https://nl.freesewing.org/), and [Spanish](https://es.freesewing.org/).
+
+If you'd like to help us add more languages, [get in touch](https://discord.freesewing.org/).
+## Paperless patterns
+
+Not a fan of printing and sticking pages together? Or perhaps you don't have a printer? Don't despair, because FreeSewing provides **paperless patterns**.
+
+You'll find the **paperless** option under the **Pattern options**. Flick it on and now you'll have dimensions as well as a grid in either metric or imperial so you can transfer your pattern directly to fabric or another medium like pattern paper.
+
+## Custom layout/tiler
+
+Laying out the different pattern parts on your pattern happens automatically. But alas, it's one of those things that computers are far worse at that humans. Often you can save a bunch of pages by squishing things together yourself. If only you could, right?
+
+Turns out you can. Simply **Export** your pattern as **SVG** and fire up **Inkscape** (which you can [download for free](https://inkscape.org/)). 
+
+When you open the pattern in Inkscape, the entire pattern will be in a *group*, so first thing to do is to **select** it and **right-click** and choose **ungroup**. Now you can rotate and flip each part around and arrange them just as you like. When you're happy, click **File** -> **Document properties** and choose **Resize page to content**.
+
+When you're done, save the SVG and upload it to our custom tiler: https://tiler.freesewing.org/
+There you can upload the SVG and pick your page size, and you'll get a PDF just like on the  website. Only this time, with your own layout 👍
+
+## Remove details from a pattern
+
+This option was originally intended for laser cutters, but has other uses too.
+
+For this, you'll have to enable so-called **Expert mode**. Under **Pattern options**, click **Expert mode** and set it to **Show**.
+Now, you'll have the **Advanced** option under which you'll find **Detail**. If you set it to **Hide**, your pattern will not only show the outline of the different pattern parts.
+
+This is also handy for when you are making doll clothes as the titles, logo, and size box end up being taking up more space than the pattern itself.
+
+## Include only certain pattern parts
+
+Since we've unlocked **Expert mode**, here's another tip you mightn't be aware of: the **Contents** option. This option allows you to not draft the entire pattern, but only those parts that you want. 
+
+This can be handy if you want to make a change to a pattern and only print those parts that are affected. But also if you want to combine different styles. For example you can generate a complete Simon pattern, and then additional collar or cuff styles where only the collar/cuffs are included in the pattern.
+
+Got an idea for some other cool feature you'd like to see? Make sure to [let us know](https://discord.freesewing.org/).
+
+
+---
+
+
+# Some of the more crazy ideas on our drawing board
+
+We're rarely stuck for things to do, because some work is never finished: adding more patterns, writing more or better documentation, improving user experience, and so on.
+
+But sometimes, we also like to shoot the breeze and come up with some ideas that are a bit off the beaten path. Here's a selection of them that we've been mulling over. Don't consider it a sneak preview though, some of these are bona fide moonshots:
+
+## Allowing users to create their own pattern layouts on the site
+
+The pattern layout -- the way the individual pattern pieces are laid out on the page -- seems like the low-hanging fruit of improvements. Almost without exception, your pattern will not be the most optimal layout.
+
+Thing is, computers are not very good at this sort of spacial problem that's called *packing*. We could try to tweak the algorithm, but human beings are just intuitively better at it than computers are. 
+
+**The goal**
+To make it possible (and ideally easy) for people to do their own layout. So that before you export your pattern, you have the option to arrange it just as you like it.
+
+**What it would take**
+This is something that's been on the drawing board for quite some time. FreeSewing core already has support for custom layouts, so it's really *just* a matter of creating the frontend interface to handle the layouting.
+
+**Roadblocks**
+Doing the SVG layout on mobile is a minefield.
+
+**Chances of this happening**
+High. We're almost certainly going to do this at some point.
+
+## Using 3D renders to showcase patterns or options
+
+3D in general is something we have our eye on, but in this case it's really about presenting the patterns to the user. People want to know what they're going to get, and line drawings and showcases can only go so far to show that.
+
+The idea would be to be able to show patterns on a 3D avatar. However, a big caveat is that we would have to be able to somehow automate this process since we can't go manually creating a 3D render of every pattern & option.
+
+**The goal**
+Create 3D renders of different patterns and the effect of pattern options. Integrating this with our build pipeline so those renders can be auto-generated.
+
+**What it would take**
+Some work has been done already. Last year we wrote a DXF-exporter plugin that can export patterns as DXF, a popular format in 3D tools. We did some initial tests with CLO3D but the lack of automation options not to mention the fact that it's a closed-source commercial product made us abandon that path.
+
+The right thing to do would be using Blender so that this work would benefit the open source community.
+
+**Roadblocks**
+Blender is not that easy to learn. Automation and plugins in Blender need to be written in Python, and we're a JavaScript project. Basically, we have nobody who knows how to even start on this today.
+
+**Chances of this happening**
+Medium. Could really use some help on this.
+
+## Frankenstein patterns
+
+The name *Frankenstein pattern* is something that came up during one of our contributor calls, and the name sort of stuck. The idea is that you could mix and match parts from different patterns to create your own combinations. Like, pick a top and combine it with the sleeves from another top and perhaps the collar from yet another top.
+
+**The goal**
+Allow patterns to be created by combining different building blocks.
+
+**Roadblocks**
+This would require some sort of inter-pattern API or interface specification. 
+
+**Chances of this happening**
+Low. For pattern developers, combining parts from different patterns is already possible via inheritance. Exposing this sort of functionality to the user level would already be a significant challenge. But doing it in a way that requires no code and merely some clicking around is pretty far out there.
+
+
+---
+
+
 # FreeSewing is Brought to You By the Kindness of Strangers
 
 On April 5th 2011, a Tuesday of all days, I published a sewing pattern on my blog. 
