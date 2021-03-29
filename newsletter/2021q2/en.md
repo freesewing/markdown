@@ -25,7 +25,7 @@ Born in the Netherlands and lived there for 30 years before moving to “the Sta
 He accompanied his American wife at that time when she wanted to return. 
 At this moment, he has been living there for about 20 years and still remembers the Netherlands as his former home. 
 
-As an busy IT manager, he still manages to create a new pattern from time to time.
+As a busy IT manager, he still manages to create a new pattern from time to time.
 
 ## How did you learn about freesewing?
 
@@ -45,7 +45,7 @@ I picked something easy as a bow tie (https://freesewing.org/designs/benjamin/).
 It is a simple object as it is a flat “thing” that has a width and a height, but no real depth. 
 Therefore, I don’t have to try to form a piece of fabric around a 3D shape.
 
-As I did draw a pencil skirt before by just using measurements for a partner, 
+As I did draw a pencil skirt before by just using measurements (for a partner), 
 I realized whilst working on the bow tie, I could do the same thing for this skirt. 
 Thus, the Penelope pencil skirt (https://freesewing.org/designs/penelope/) was born.
 
@@ -63,10 +63,11 @@ The Cornelius is actually an implementation of another existing drafting system.
 Seven or eight years ago, I wanted to know what it would be like to wear a kilt. 
 Kilts are insanely expensive because they are made of very nice wool and it takes an enormous amount of time to actually make a real Scottish kilt. 
 In response, there are these “utility kilts” which are basically a cargo pair of pants made in that fashion. 
-Although, these are crafted out of cotton and has practical pockets, these still cost around $200. 
+Although, they are crafted out of cotton and have practical pockets, they still cost around $200. 
 
-Because, I was still figuring out whether I could wear or even enjoy wearing a kilt, it didn't make much sense to invest that much. 
-I found a website dedicated to people wearing kilts and a description on how to create your own utilly kilt and as I did have a sewing machine, I bought some fabrics and started sewing. 
+Because, I was still figuring out whether I could wear or even enjoy wearing a kilt, it didn't make much sense to me to invest that much. 
+I found a website dedicated to people wearing kilts and a description on how to create your own utility kilt. 
+And as I did have a sewing machine, I bought some fabrics and started sewing. 
 One became two and then, I also needed a shirt to go along with it and it should be somewhat contemporary to what I’m doing. 
 Hence, I found a pattern to make that shirt. That led to making more and more shirts, and then pants and... 
 
@@ -92,7 +93,7 @@ The Cornelius cycling breeches (https://freesewing.org/designs/cornelius/) and t
 ## What sewing project are you most proud of?
 
 A lot of projects, my first shirt, even though it has a lot of problems, my first tailored coat, all of my art shirts, … 
-But if I had to pick one, it would probably be my Mondrian shirt. It was the one where I went all the way from concept in my mind to creating it on paper to turning it into a garment.
+But if I had to pick one, it would probably be my Mondrian shirt. It was the one where I went all the way from a concept in my mind to creating it on paper to turning it into a garment.
 
 ## What in your life are you most proud of?
 
@@ -111,7 +112,7 @@ And, I'm not good at all of them, but I can do most of them well enough that I c
 
 ## What do you hate the most about sewing?
 
-I am bit too impatient to do large parts of hand sewing and that is not my most favorable part of sewing. 
+I am a bit too impatient to do large parts of handsewing and that is not my most favorable part of sewing. 
 I have done this before when I made my buttonholes by hand on my tailored jacket, 
 but it takes too much time to give me any pleasure and it'll most likely take a long time before I’ll do it again.
 
@@ -131,8 +132,9 @@ If something goes wrong, correct it while you're doing it again or focus on the 
 It is important that you keep trying to do things, and not necessarily the same thing. 
 It could be useful to make a different concept to get a new view on your previous obstacles. 
 
-Lastly, don’t be intimidated by patterns, try different patterns, creators and techniques, and pick out what works for you. 
-Enjoy the process of creating, not the product, as this is the key of getting good at it. 
+Lastly, don’t be intimidated by patterns.
+Try different patterns, creators and techniques, and pick out what works for you. 
+Enjoy the process of creating, not the product, as that is the key of getting good at it. 
 Eventually, you will get the garments you like.
 
 ## Are you married?
