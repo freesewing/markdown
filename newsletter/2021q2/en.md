@@ -22,69 +22,73 @@ Click through any of the links for the blog posts announcing these patterns.
 ## Bio
 
 Born in the Netherlands and lived there for 30 years before moving to “the States”. 
-He accompanied his American wife at that time when she wanted to return. 
-At this moment, he has been living there for about 20 years and still remembers the Netherlands as his former home. 
+He accompanied his American wife when she wanted to return and has been living there for
+over 20 years. He now considers it his home, while recognizing all the emotional ties to
+The Netherlands when he goes back to visit. 
 
-As a busy IT manager, he still manages to create a new pattern from time to time.
+While a busy IT manager, he likes to create new patterns for FreeSewing from time to time.
 
 ## How did you learn about freesewing?
 
-Many years ago, I was looking for patterns for men. 
-The site of Joost, Makemypattern (since late 2012), came up my search results and it had an interesting concept.
+When I started sewing many years ago, I was continuously looking for patterns for men. 
+The site of Joost, Makemypattern (since late 2012), came up in one of my searches, and 
+I thought it was an interesting concept.
 
 ## How did you become a contributor?
 
-In the beginning, there were no contributors or at least not that I remember, 
-but I am the first non-Joost pattern holder since freesewing. 
-So, I wanted to test the tools that Joost created which were originally created in the PHP programming language. 
-Although, I am a programmer, either employed or as a hobby, I never worked with this language before. 
-Nevertheless, I thought this was an interesting challenge to contribute to the work of Joost. 
+In the beginning, there were no contributors other than Joost, that I remember. He had 
+made this framework that allowed other people to make patterns that could be incorporated. 
+Being a programmer, as a professional and hobbyist, this intrigued me. The originally site
+was created in the PHP programming language, one I had not worked with before. I thought
+this made for an interesting challenge to contribute to the work of Joost. 
 
-As this was my first experience with the toolset, the language and pattern making, 
-I picked something easy as a bow tie (https://freesewing.org/designs/benjamin/). 
-It is a simple object as it is a flat “thing” that has a width and a height, but no real depth. 
-Therefore, I don’t have to try to form a piece of fabric around a 3D shape.
+As this was my first experience with the toolset, the language, and making patterns, 
+I picked something as easy as a bow tie (https://freesewing.org/designs/benjamin/). 
+It is a simple object, as it is flat with a width and a height, but no real depth. 
+Therefore, I didn’t have to try to shape a piece of fabric around a 3D shape. The result passed the muster of Joost, and became an official pattern on the site.
 
-As I did draw a pencil skirt before by just using measurements (for a partner), 
-I realized whilst working on the bow tie, I could do the same thing for this skirt. 
+Before finding FreeSewing, I had drawn a pencil skirt for my partner by just using 
+her measurements. I realized while working on the bow tie that I could try to combine
+the experience of making this skirt with that of making the pattern for the bow tie, and 
+make another pattern for FreeSewing. 
 Thus, the Penelope pencil skirt (https://freesewing.org/designs/penelope/) was born.
 
 ## What has been your contributor work so far?
 
-Afterwards, I created the Waralee wrap pants (https://freesewing.org/designs/waralee/), 
-Albert apron (https://freesewing.org/designs/albert/) and Cornelius cycling breeches (https://freesewing.org/designs/cornelius/). 
-Additionally, I also did the implementation of the Hortensia handbag (https://freesewing.org/designs/hortensia/), but that is not my design, I got the drawings and measurements from the designer. 
-Whilst, the Benjamin bow tie was totally my own creation as I imagined it how it should look like. 
-The Penelope and Waralee designs, on the other hand, were built from the knowledge I gathered by reading about those types of garments. 
-The Cornelius is actually an implementation of another existing drafting system.
+I have created the Waralee wrap pants (https://freesewing.org/designs/waralee/), 
+Albert apron (https://freesewing.org/designs/albert/), and Cornelius cycling breeches (https://freesewing.org/designs/cornelius/). 
+I also did the implementation of the Hortensia handbag (https://freesewing.org/designs/hortensia/), but that is not my design. I got the drawings and measurements from the designer (Stoffsuchti), and translated those
+into a FreeSewing pattern.
+
+The Benjamin bow tie was totally my own creation, exactly as I imagined what it should look. 
+The Penelope and Waralee designs were built from the knowledge I gathered by reading about those types of garments, and implementing my interpretation of them. 
+The Cornelius is actually an implementation of a pattern in an existing drafting system (The "Keystone" System).
 
 ## When and why did you start sewing?
 
-Seven or eight years ago, I wanted to know what it would be like to wear a kilt. 
-Kilts are insanely expensive because they are made of very nice wool and it takes an enormous amount of time to actually make a real Scottish kilt. 
-In response, there are these “utility kilts” which are basically a cargo pair of pants made in that fashion. 
-Although, they are crafted out of cotton and have practical pockets, they still cost around $200. 
+Seven or eight years ago, I wanted to know what it would be like to wear a kilt. But
+kilts are insanely expensive. They are made of very nice wool and it takes an enormous amount of time to make a real Scottish kilt. There are these “utility kilts”, which are basically cargo pants made into a kilt. More
+practical with pockets, and made out of cotton, but they still cost around $200. 
 
-Because, I was still figuring out whether I could wear or even enjoy wearing a kilt, it didn't make much sense to me to invest that much. 
-I found a website dedicated to people wearing kilts and a description on how to create your own utility kilt. 
-And as I did have a sewing machine, I bought some fabrics and started sewing. 
-One became two and then, I also needed a shirt to go along with it and it should be somewhat contemporary to what I’m doing. 
-Hence, I found a pattern to make that shirt. That led to making more and more shirts, and then pants and... 
+Because I was still figuring out whether I would enjoy wearing a kilt, it didn't make much sense to me to invest that much. While researching this I found a website dedicated to people wearing kilts (http://www.xmarksthescot.com/), and it had a documented process on how to create your own utility kilt. 
+I did have a sewing machine, it seemed within my abilities, so I bought some fabric and started sewing. 
+One kilt became two, and then I figured I needed a shirt to go along with it. It should be somewhat 
+contemporary to old kilts. With a little searching I found a pattern to make such a shirt. And that led to making more and more shirts, and then pants and... 
 
-At one point, I decided I'm not going to buy anymore clothes, I'm just going to make them. 
-The first exceptions to that new rule are underwear and socks as these don’t give me the pleasure in making them and are usually so ridiculously cheap. 
-The second are athletic clothing as I just cannot buy the fabrics (e.g. eVent) you need for it. 
-These are exclusively sold to vendors of this type of clothing.
+At one point I decided that I wasn't going to buy any more clothes, I was just going to make them. 
+One exception to that are underwear and socks, as these don’t give me much pleasure in making them, and are usually ridiculously cheap. I have knitted a pair of socks, and I like knitting a lot. I just don't seem to be able to knit fast enough to keep up with the wear and tear.
+The other exception is athletic or technical clothing, as I just cannot buy the fabrics (e.g. eVent) you need for it. 
+These are exclusively sold to vendors of this type of clothing. I have recently made some yoga pants and biking shorts for myself, so this may change.
 
 ## What is your daily job, outside of freesewing?
 
-IT manager, I take care of the IT means for a union of homecare workers.
+IT manager. I take care of the IT needs for a union of homecare workers.
 
 ## What are you currently working on?
 
-Nothing at the moment, but I am looking into the possibility to make a pattern based on the trouser block. 
-That way, I don't have to start from scratch as I usually do, but I can start from Joost's work. 
-I'm looking forward to this technique whilst creating a pair of pants.
+Nothing for FreeSewing at the moment, but I am looking into the possibility to make a pattern based 
+on the trouser block. That way, I don't have to start from scratch as I usually do, and just extend 
+Joost's work. I'm looking forward to trying this approach, but I first have to complete my doublet.
 
 ## Which project did you just finish?
 
@@ -92,58 +96,61 @@ The Cornelius cycling breeches (https://freesewing.org/designs/cornelius/) and t
 
 ## What sewing project are you most proud of?
 
-A lot of projects, my first shirt, even though it has a lot of problems, my first tailored coat, all of my art shirts, … 
-But if I had to pick one, it would probably be my Mondrian shirt. It was the one where I went all the way from a concept in my mind to creating it on paper to turning it into a garment.
+I'm proud of a lot of projects; my first shirt (even though it has a lot of faults), my first tailored coat, all of my art shirts, … 
+But if I had to pick one, it would probably be my Mondrian shirt (https://shirtartistry.blog/2019/01/23/mondrian-shirt-the-beginning/). It was the one where I went all the way from a concept in my mind, though creating it on paper, to turning it into a garment.
 
 ## What in your life are you most proud of?
 
-The non-trivial thing I'm proud of because I did it is to the extent that I was a volunteer firefighter for 10 years. 
-Additionally, for the last 20 years or so, I've worked for nonprofits trying to make the world a better place.
+Everybody will answer that with something like 'my children'. And I am proud of the persons they've become. 
+But I think that is more something they have done, than what I have done. I was just there to help
+them when needed. One of the things I've done that I'm proud of is having been a volunteer firefighter for 10 years. 
+And, for the last 20 years or so, I've worked for nonprofits trying to make the world a better place.
 
 ## What do you love the most about sewing?
 
-The creativity. On the one hand, I like to make things and with sewing, in contrast to woodworking, 
-I discovered that I can be really precise and I can bring out the patience in myself to do that precision. 
-What’s more, if my assumptions are not correct, I can usually undo it (e.g. take the seam out). 
-On the other hand, I can make something that is a flat drawing on a piece of paper to something that is turned 
-into a 3D real thing by putting those patterns into pieces of fabric and sewing them together. 
-Even the trail and error to adapt a pattern to my needs and all the different aspects that come into play in order to be successful. 
-And, I'm not good at all of them, but I can do most of them well enough that I can go from something in my head to something that I can wear, that's practical.
+The creativity. I like to make things. I discovered that with sewing, in contrast to things like wood or metal working, I can be really precise. And I can find the patience in myself to create that precision. 
+What’s more, if I make a mistake, I can usually undo it (e.g. take the seam out). It's a lot harder to take things apart once you've glued them together.
+I also like that I can make something that is a flat drawing on a piece of paper into something that is a
+real three dimensional thing, by turning those patterns into pieces of fabric and sewing them together. 
+Even the trail and error process to adapt a pattern to my needs, or to create a new pattern from scratch, is interesting to me. It's a discovery journey with practical outcomes.
+And, although I'm not good at all of the required skills, I can do most of them well enough that I can go from something in my head to something that I can wear, and that is very satisfying.
 
 ## What do you hate the most about sewing?
 
-I am a bit too impatient to do large parts of handsewing and that is not my most favorable part of sewing. 
-I have done this before when I made my buttonholes by hand on my tailored jacket, 
-but it takes too much time to give me any pleasure and it'll most likely take a long time before I’ll do it again.
+I am a bit too impatient to do large parts of sewing by hand, and that is my least favorable part of sewing. The occasional basting is fine, it is the sewing of a full seam by hand that is beyond me.
+I have made buttonholes by hand on my tailored jacket, and that was satisfying by itself. Yet it takes too much time 
+and it doesn't fascinate me enough to allow me to become good at it. It'll most likely take a long time before I’ll do it again. For some reason I don't mind doing the pad stitching for lapels and such on tailored jackets.
 
 ## What’s the hardest part of sewing to you?
 
-It is nearly impossible for me to draw the mental picture that is in my head on a piece of paper. 
-For this reason, I cannot, not even temporarily, put an end result of a certain clothing design on a piece of paper to look at it. 
-Thus, I cannot get someone else’s opinion or input before I create it.
+It is nearly impossible for me to draw the mental picture that is in my head on a piece of paper. I'm really 
+bad at drawing free form. Because of this, I cannot, not even temporarily, put the end result of a certain clothing design on a piece of paper to look at it. And therefore I cannot get someone else’s opinion or input on it 
+before I create it. It is frustrating.
 
 ## What would be your advice for starting sewists/sewistas?
 
-First of all, go for it and concentrate on the parts you like of it. 
-For the things you do not like so much, look at the bigger picture to find the reason what is motivating you to do it. 
+First of all, go for it and concentrate on the parts of the sewing process you enjoy. Look at the big
+picture of creating a garment for yourself, and let that motivate you to get through the parts you
+don't like so much. 
 
-Secondly, just keep going and don’t look at things that could discourage you. 
-If something goes wrong, correct it while you're doing it again or focus on the smaller intermediate steps. 
-It is important that you keep trying to do things, and not necessarily the same thing. 
-It could be useful to make a different concept to get a new view on your previous obstacles. 
+Secondly, just keep going and don’t look at things that didn't work out so well too much. Everything
+takes practice, and you will get better at it. Break up things into smaller parts and think about
+what you can do to improve that one part. Maybe there's a different way to do this step that works 
+better for you.
 
-Lastly, don’t be intimidated by patterns.
-Try different patterns, creators and techniques, and pick out what works for you. 
-Enjoy the process of creating, not the product, as that is the key of getting good at it. 
-Eventually, you will get the garments you like.
+Lastly, don’t be intimidated by patterns. Try different patterns, designers, and techniques. Pick out what works for you. All designers have their own way of doing certain things, and they may not always align with your strengths and weeknesses. I always
+do a zipper fly the same way, regardless of what the designer suggested. My way works for me and
+gives me good results. Others may prefer other techniques, so find your own by trying a lot of different ways.
+
+And most of all; enjoy the process of creating. The end product is an additinal benefit. Through the enjoyment of the process, you will gain the experience to get good at it. And with that, you will get the garments you like.
 
 ## Are you married?
 
-Not anymore, after 25 years I split up. I have a new partner now.
+Not anymore, after 25 years we amicably split up. I have a new partner now.
 
 ## Do you have children?
 
-Five in total, two of myself and three of my partner.
+Five in total, two adult children of myself and three almost adults of my partner.
 
 ## Are you a dog person or a cat person?
 
@@ -151,16 +158,16 @@ I am a dog person, but I don’t have a dog anymore.
 
 ## Do you have pets?
 
-I had three dogs. I would enjoy having a dog, but my current life style and freedom to travel does not match up with having one.
+I have had three dogs. I would enjoy having a dog, but my current life style and freedom to travel does not match up with having one.
 
 ## If there was one thing you could take with you to an uninhibited island what would it be? Why?
 
-A knife, because it looks the most useful item to be able to cut stuff.
+A knife, because it seems to be the most useful item to help me survive.
 
 ## If there was one person you could take with you to an uninhibited island, who would it be? Why?
 
-Nobody, I could not forgive myself putting someone else through the same horror. 
-I love what thousands of years of society has brought us, so I cannot pluck someone out of that luxury.
+Nobody, since I could not forgive myself for putting someone else through the same ordeal. 
+I love what thousands of years of society has brought us, and I don't want to be without its fruits. So it would be cruel for me to subject someone else to this punishment.
 
 
 ---
