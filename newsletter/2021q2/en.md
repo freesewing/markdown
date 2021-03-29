@@ -12,7 +12,7 @@ Click through any of the links for the blog posts announcing these patterns.
 ---
 
 
-# Behind the seams: Wouter Van Wageningen
+# Behind the seams: Wouter van Wageningen
 
 > With two pattern releases to his name in the last 3 months, 
 > who better to shine a spotlight on than long time contributor Wouter.
