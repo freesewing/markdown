@@ -1,7 +1,7 @@
 
 ## Step 1: Close the shoulder seams
 
-![Close the shoulder seams](step01.svg)
+![Sluit de schoudernaden](step01.svg)
 
 - Place the front and back on top of each other with [good sides together](https://freesewing.org/docs/sewing/good-sides-together/). Align the shoulder seams.
 - Serge the shoulder seams, or stitch them with a narrow (~2 mm) zigzag stitch at the standard seam allowance.
@@ -12,7 +12,7 @@ Optional: In a drapier knit, you may choose to reinforce the shoulder seams by s
 
 ## Stap 2: Zet de mouwen in
 
-![Zet de mouwen in](step02.svg)
+![Set in sleeves](step02.svg)
 
 - Leg je aan elkaar bevestigde voor- en achterpand neer met de goede kant naar boven.
 - Identify the front and back sides of each of your sleeves. (This is how you separate the left sleeve from the right.) On your paper pattern piece, the front side of the sleeve is to the left.
@@ -40,7 +40,7 @@ This is the most complex step in making the Teagan T-shirt, but it just requires
 
 ### Positioneer (het begin van) je bies
 
-![Positioneer je bies](step03a.svg)
+![Place your binding](step03a.svg)
 
 - Put your T-shirt down with the back good side up, and place your binding strip on top of it with the good side down (as in, good sides together). Your binding should start at the center back of the neck opening.
 - Leg de lange rand van je bies gelijk met de rand van je stof zodat de bies op de stof ligt (en niet in de opening). Leg de hoek van je bies op je startpunt.
