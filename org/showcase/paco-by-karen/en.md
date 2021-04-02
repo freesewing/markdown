@@ -13,6 +13,6 @@ The Pacos were made in a rayon challis, with the default options (and the front 
 
 Some additional views...
 
-![Paco side view](showcase3.jpeg)
+![Paco rear view](showcase3.jpeg)
 
-![Paco rear view](showcase.jpeg)
+![Paco side view](showcase4.jpeg)
