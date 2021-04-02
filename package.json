@@ -1,0 +1,32 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "Markdown repository for FreeSewing",
+  "main": "index.js",
+  "scripts": {
+    "send:test": "node scripts/send-test-newsletter.js",
+    "send:real": "node scripts/send-real-newsletter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freesewing/markdown.git"
+  },
+  "author": "joost@joost.at",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freesewing/markdown/issues"
+  },
+  "homepage": "https://github.com/freesewing/markdown#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "mustache": "^4.2.0",
+    "nodemailer": "^6.5.0",
+    "rehype-format": "^3.1.0",
+    "rehype-stringify": "^8.0.0",
+    "remark-parse": "^9.0.0",
+    "remark-rehype": "^8.0.0",
+    "unified": "^9.2.1"
+  }
+}

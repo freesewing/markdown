@@ -1,4 +1,22 @@
-# Pattern releases winter 2021
+Welcome to the 2021 Spring edition of the FreeSewing newsletter.  
+Here's what we have included for you:
+
+- 👕 Pattern releases winter 2021 (1-minute read - by Joost)
+- 🕵️ Behind the seams: Wouter van Wageningen (9-minute read - by An & Wouter)
+- 🔍 Spotlight on some lesser-know FreeSewing features (3-minute read - by Joost)
+- 🤯 Some of the more crazy ideas on our drawing board (3-minute read - by Joost)
+- ❤️ FreeSewing is brought to you by the kindness of strangers (5-minute read by Joost)
+
+We hope you enjoy it.
+If not, mash that reply button and tell us what you'd like to read instead ¯\\\_(ツ)\_/¯
+
+&nbsp;  
+
+&nbsp;  
+
+
+
+# 👕 Pattern releases winter 2021
 
 Here's a quick recap of the new patterns we released in the first quarter of this year:
 
@@ -9,15 +27,18 @@ Here's a quick recap of the new patterns we released in the first quarter of thi
 Click through any of the links for the blog posts announcing these patterns.
 
 
+&nbsp;  
+
 ---
 
+&nbsp;  
 
-# Behind the seams: Wouter van Wageningen
+# 🕵️ Behind the seams: Wouter van Wageningen
 
-> With two pattern releases to his name in the last 3 months, 
-> who better to shine a spotlight on than long time contributor Wouter.
+> *With two pattern releases to his name in the last 3 months,*
+> *who better to shine a spotlight on than long time contributor Wouter.*
 >
-> One of our more recent contributors An interviewed him for this newsletter:
+> *An — one of our newer contributors — interviewed him for this newsletter:*
 
 ## Bio
 
@@ -43,7 +64,7 @@ was created in the PHP programming language, one I had not worked with before. I
 this made for an interesting challenge to contribute to the work of Joost. 
 
 As this was my first experience with the toolset, the language, and making patterns, 
-I picked something as easy as a bow tie (https://freesewing.org/designs/benjamin/). 
+I picked something as easy as [a bow tie](https://freesewing.org/designs/benjamin/). 
 It is a simple object, as it is flat with a width and a height, but no real depth. 
 Therefore, I didn’t have to try to shape a piece of fabric around a 3D shape. The result passed the muster of Joost, and became an official pattern on the site.
 
@@ -51,13 +72,13 @@ Before finding FreeSewing, I had drawn a pencil skirt for my partner by just usi
 her measurements. I realized while working on the bow tie that I could try to combine
 the experience of making this skirt with that of making the pattern for the bow tie, and 
 make another pattern for FreeSewing. 
-Thus, the Penelope pencil skirt (https://freesewing.org/designs/penelope/) was born.
+Thus, [the Penelope pencil skirt](https://freesewing.org/designs/penelope/) was born.
 
 ## What has been your contributor work so far?
 
-I have created the Waralee wrap pants (https://freesewing.org/designs/waralee/), 
-Albert apron (https://freesewing.org/designs/albert/), and Cornelius cycling breeches (https://freesewing.org/designs/cornelius/). 
-I also did the implementation of the Hortensia handbag (https://freesewing.org/designs/hortensia/), but that is not my design. I got the drawings and measurements from the designer (Stoffsuchti), and translated those
+I have created [the Waralee wrap pants](https://freesewing.org/designs/waralee/), 
+[Albert apron](https://freesewing.org/designs/albert/), and [Cornelius cycling breeches](https://freesewing.org/designs/cornelius/). 
+I also did the implementation of [the Hortensia handbag](https://freesewing.org/designs/hortensia/), but that is not my design. I got the drawings and measurements from the designer (Stoffsuchti), and translated those
 into a FreeSewing pattern.
 
 The Benjamin bow tie was totally my own creation, exactly as I imagined what it should look. 
@@ -70,7 +91,7 @@ Seven or eight years ago, I wanted to know what it would be like to wear a kilt.
 kilts are insanely expensive. They are made of very nice wool and it takes an enormous amount of time to make a real Scottish kilt. There are these “utility kilts”, which are basically cargo pants made into a kilt. More
 practical with pockets, and made out of cotton, but they still cost around $200. 
 
-Because I was still figuring out whether I would enjoy wearing a kilt, it didn't make much sense to me to invest that much. While researching this I found a website dedicated to people wearing kilts (http://www.xmarksthescot.com/), and it had a documented process on how to create your own utility kilt. 
+Because I was still figuring out whether I would enjoy wearing a kilt, it didn't make much sense to me to invest that much. While researching this I found [a website dedicated to people wearing kilts](http://www.xmarksthescot.com/), and it had a documented process on how to create your own utility kilt. 
 I did have a sewing machine, it seemed within my abilities, so I bought some fabric and started sewing. 
 One kilt became two, and then I figured I needed a shirt to go along with it. It should be somewhat 
 contemporary to old kilts. With a little searching I found a pattern to make such a shirt. And that led to making more and more shirts, and then pants and... 
@@ -92,12 +113,12 @@ Joost's work. I'm looking forward to trying this approach, but I first have to c
 
 ## Which project did you just finish?
 
-The Cornelius cycling breeches (https://freesewing.org/designs/cornelius/) and the implementation of the Hortensia handbag (https://freesewing.org/designs/hortensia/).
+The [Cornelius cycling breeches](https://freesewing.org/designs/cornelius/) and the implementation of [the Hortensia handbag](https://freesewing.org/designs/hortensia/).
 
 ## What sewing project are you most proud of?
 
 I'm proud of a lot of projects; my first shirt (even though it has a lot of faults), my first tailored coat, all of my art shirts, … 
-But if I had to pick one, it would probably be my Mondrian shirt (https://shirtartistry.blog/2019/01/23/mondrian-shirt-the-beginning/). It was the one where I went all the way from a concept in my mind, though creating it on paper, to turning it into a garment.
+But if I had to pick one, it would probably be [my Mondrian shirt](https://shirtartistry.blog/2019/01/23/mondrian-shirt-the-beginning/). It was the one where I went all the way from a concept in my mind, though creating it on paper, to turning it into a garment.
 
 ## What in your life are you most proud of?
 
@@ -170,16 +191,20 @@ Nobody, since I could not forgive myself for putting someone else through the sa
 I love what thousands of years of society has brought us, and I don't want to be without its fruits. So it would be cruel for me to subject someone else to this punishment.
 
 
+&nbsp;  
+
 ---
 
+&nbsp;  
 
-# Spotlight on some lesser-know FreeSewing features
+
+# 🔍 Spotlight on some lesser-know FreeSewing features
 
 Regardless of whether you've only recently discovered FreeSewing, or have been a user for many years, here are some things you might not have discovered on your own:
 
 ## Multilingualism
 
-FreeSewing is available in 5 languages, each with their own website. In addition to English at freesewing.org, we have websites in [French](https://fr.freesewing.org/), [German](https://de.freesewing.org/), [Dutch](https://nl.freesewing.org/), and [Spanish](https://es.freesewing.org/).
+FreeSewing is available in 5 languages, each with their own website. In addition to [English at freesewing.org](https://freesewing.org/), we have websites in [French](https://fr.freesewing.org/), [German](https://de.freesewing.org/), [Dutch](https://nl.freesewing.org/), and [Spanish](https://es.freesewing.org/).
 
 If you'd like to help us add more languages, [get in touch](https://discord.freesewing.org/).
 ## Paperless patterns
@@ -217,10 +242,14 @@ This can be handy if you want to make a change to a pattern and only print those
 Got an idea for some other cool feature you'd like to see? Make sure to [let us know](https://discord.freesewing.org/).
 
 
+&nbsp;  
+
 ---
 
+&nbsp;  
 
-# Some of the more crazy ideas on our drawing board
+
+# 🤯 Some of the more crazy ideas on our drawing board
 
 We're rarely stuck for things to do, because some work is never finished: adding more patterns, writing more or better documentation, improving user experience, and so on.
 
@@ -228,20 +257,20 @@ But sometimes, we also like to shoot the breeze and come up with some ideas that
 
 ## Allowing users to create their own pattern layouts on the site
 
-The pattern layout -- the way the individual pattern pieces are laid out on the page -- seems like the low-hanging fruit of improvements. Almost without exception, your pattern will not be the most optimal layout.
+The pattern layout — the way the individual pattern pieces are laid out on the page — seems like the low-hanging fruit of improvements. Almost without exception, your pattern will not be the most optimal layout.
 
 Thing is, computers are not very good at this sort of spacial problem that's called *packing*. We could try to tweak the algorithm, but human beings are just intuitively better at it than computers are. 
 
-**The goal**
+**The goal**  
 To make it possible (and ideally easy) for people to do their own layout. So that before you export your pattern, you have the option to arrange it just as you like it.
 
-**What it would take**
+**What it would take**  
 This is something that's been on the drawing board for quite some time. FreeSewing core already has support for custom layouts, so it's really *just* a matter of creating the frontend interface to handle the layouting.
 
-**Roadblocks**
+**Roadblocks**  
 Doing the SVG layout on mobile is a minefield.
 
-**Chances of this happening**
+**Chances of this happening**  
 High. We're almost certainly going to do this at some point.
 
 ## Using 3D renders to showcase patterns or options
@@ -250,38 +279,42 @@ High. We're almost certainly going to do this at some point.
 
 The idea would be to be able to show patterns on a 3D avatar. However, a big caveat is that we would have to be able to somehow automate this process since we can't go manually creating a 3D render of every pattern & option.
 
-**The goal**
+**The goal**  
 Create 3D renders of different patterns and the effect of pattern options. Integrating this with our build pipeline so those renders can be auto-generated.
 
-**What it would take**
+**What it would take**  
 Some work has been done already. Last year we wrote a DXF-exporter plugin that can export patterns as DXF, a popular format in 3D tools. We did some initial tests with CLO3D but the lack of automation options not to mention the fact that it's a closed-source commercial product made us abandon that path.
 
 The right thing to do would be using Blender so that this work would benefit the open source community.
 
-**Roadblocks**
+**Roadblocks**  
 Blender is not that easy to learn. Automation and plugins in Blender need to be written in Python, and we're a JavaScript project. Basically, we have nobody who knows how to even start on this today.
 
-**Chances of this happening**
+**Chances of this happening**  
 Medium. Could really use some help on this.
 
 ## Frankenstein patterns
 
 The name *Frankenstein pattern* is something that came up during one of our contributor calls, and the name sort of stuck. The idea is that you could mix and match parts from different patterns to create your own combinations. Like, pick a top and combine it with the sleeves from another top and perhaps the collar from yet another top.
 
-**The goal**
+**The goal**  
 Allow patterns to be created by combining different building blocks.
 
-**Roadblocks**
+**Roadblocks**  
 This would require some sort of inter-pattern API or interface specification. 
 
-**Chances of this happening**
+**Chances of this happening**  
 Low. For pattern developers, combining parts from different patterns is already possible via inheritance. Exposing this sort of functionality to the user level would already be a significant challenge. But doing it in a way that requires no code and merely some clicking around is pretty far out there.
 
 
+&nbsp;  
+
 ---
 
+&nbsp;  
 
-# FreeSewing is Brought to You By the Kindness of Strangers
+
+# ❤️ FreeSewing is brought to you by the kindness of strangers
 
 On April 5th 2011, a Tuesday of all days, I published a sewing pattern on my blog. 
 BXR-M01A was a pattern for boxer briefs that came in one size only, and was free to download under a Creative Commons license.
@@ -304,9 +337,9 @@ It wasn’t an immediate success.
 As a matter of fact, to the best of my knowledge, only one person ever tested it. 
 That person was Nico in Copenhagen (who I've sadly lost track of) who wrote:
 
-> That is sooo cool.  
-> I will enter my thoughts about your project using your feed back thingy on the pattern web site. 
-> But you should know that the overall fit is amazing! I think I have a new favourite pattern :-)
+> *That is sooo cool.*  
+> *I will enter my thoughts about your project using your feed back thingy on the pattern web site.*  
+> *But you should know that the overall fit is amazing! I think I have a new favourite pattern :-)*
 
 ## makemypattern.com
 
@@ -317,7 +350,7 @@ Things sort of trickled along as I added a pattern every now and then.
 Then, in January 2014 I got an email from Tin Doan in Canada asking how they could donate to the site. 
 I sort of expected this to be some sort of scam, but I still answered the email asking “Are you for real?”. Tin answered:
 
-> Yes Joost, I'm serious. Please kindly accept $200.00 from me.
+> *Yes Joost, I'm serious. Please kindly accept $200.00 from me.*
 
 Sure enough, I soon found myself at the receiving end of a $200 donation. 
 To this day, it remains the highest amount I've ever received in a single donation.
@@ -372,4 +405,4 @@ I couldn't possible mention them all. But what they have in common is that at on
 
 It’s the kindness of strangers that brought us here.
 
-Thank you, Strangers.
+Thank you strangers.
