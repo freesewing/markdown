@@ -40,7 +40,7 @@ This is the most complex step in making the Teagan T-shirt, but it just requires
 
 ### Placer (démarrer) votre biais
 
-![Placer votre biais](step03a.svg)
+![Place your binding](step03a.svg)
 
 - Put your T-shirt down with the back good side up, and place your binding strip on top of it with the good side down (as in, good sides together). Your binding should start at the center back of the neck opening.
 - Alignez le bord long de votre bande avec le bord de votre tissu, de sorte que la bande se trouve sur le tissu (pas dans l'ouverture). Placez le coin sur votre point de départ.
