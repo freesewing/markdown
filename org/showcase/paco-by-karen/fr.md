@@ -3,7 +3,9 @@ date: 2021-04-01
 title: Tropical Pacos
 img: showcase1.jpeg
 caption: "Rayon Paco pants in a dark floral print"
-patterns: [paco, teagan]
+patterns:
+  - paco
+  - teagan
 author: karen
 ---
 
