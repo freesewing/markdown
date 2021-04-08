@@ -10,7 +10,7 @@ Serge them together, taking into account that the seam allowance is 1cm. So aim 
 
 > If metric is not your bag, 1 cm is 3/8 inch.
 
-> Some sergers have a a lever to choose between flat seams, or bundled up seams. 
+> Some sergers have a a lever to choose between flat seams, or bundled up seams.
 > If you plan to topstitch later (see Step 6), make sure to choose flat seams.
 
 ### Step 2: Join back to second side
@@ -21,7 +21,7 @@ Align the other side of the back (piece 1) with the second side (piece 3) making
 
 Serge them together, as you did on the other side.
 
-> The back and sides are now joined together. 
+> The back and sides are now joined together.
 > Put them aside for a moment as we turn our attention to the other pieces.
 
 ### Step 3: Join first inset and fronts
@@ -32,10 +32,10 @@ Serge them together, as you did on the other side.
 
 Joining the inset (piece 4) with the fronts (piece 2) requires you to serge them together across their curvy edges.
 
-> Remember that you have two fronts. 
+> Remember that you have two fronts.
 > You have to put them on top of each other and treat it as one double-layered front.
 
-Faced with a tricky seam like this, you might reach for your pins or basting thread, but don't. 
+Faced with a tricky seam like this, you might reach for your pins or basting thread, but don't.
 Pinning or basting this will make it harder to sew.
 
 Instead, start at the top of the curved seam, aligning the pieces as shown, and slowly serge them together a few cm.
@@ -58,10 +58,10 @@ This is probably the hardest seam in the pattern. Take it slow, and you'll be fi
 
 ###### Or enclose these seams by sandwiching them between the fronts
 
-While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, 
-and then sew your front pieces together with the insets sandwiched inside. 
+While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first,
+and then sew your front pieces together with the insets sandwiched inside.
 
-Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front. 
+Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front.
 
 </Tip>
 
@@ -92,13 +92,13 @@ Alternatively, sew the darts on each piece individually so that both seams are f
 Arguably, not having an exposed seam in this area is more comfortable for the wearer.
 
 </Tip>
- 
+
 ### Step 6: Optional: Topstitch
 ![Boxers with (left) and without topstitching](step06.jpg)
 
 <Note>
 
-This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces. 
+This step is optional. Topstitching adds a visual effect that emphasizes the individual pattern pieces.
 It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
 
 </Note>
@@ -109,8 +109,8 @@ If you topstitch, simply do it for every seam, making sure to do so with a flexi
 
 <Tip>
 
-When topstitching the seam that closed the fronts dart, start from the bottom, 
-and let the topstitching run all the way to the top, where the waistband will come. 
+When topstitching the seam that closed the fronts dart, start from the bottom,
+and let the topstitching run all the way to the top, where the waistband will come.
 The seam stops halfway through (where the dart ends) but your topstitching should continue.
 
 </Tip>
@@ -135,7 +135,7 @@ If you've topstitched before, make sure to do the same now for the seams you mad
 
 We will now serge the arched opening in the back part to the front parts of the boxers, made up of the fronts and insets.
 
-The notches on the back piece will help you. 
+The notches on the back piece will help you.
 There's the center notch, and the other two notches should match up with where the fronts and inset pieces are joined.
 
 <Tip>
@@ -153,8 +153,8 @@ Time to hem the legs. Hem them as you would do any other stretchy knit. Go for a
 
 <Note>
 
-I feel that hemming is much easier when you pin things in place first. 
-So fold back your hem, and pin it in place. 
+I feel that hemming is much easier when you pin things in place first.
+So fold back your hem, and pin it in place.
 Even better: pin both legs in place and only sew when you're happy with how it looks.
 
 </Note>
@@ -172,7 +172,7 @@ Sew both ends of your elastic together with good sides together.
 <Note>
 
 ###### Not sure how much elastic you need?
-Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. 
+Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right.
 Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
 
 </Note>
@@ -188,7 +188,7 @@ If you're using a coverlock, put the elastic on top of the good side of the fabr
 
 <Tip>
 
-The length of your elastic will probably difffer from the fabric length, as they stretch differently. 
+The length of your elastic will probably difffer from the fabric length, as they stretch differently.
 Pinning will help you achieve an even stretch.
 
 Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
