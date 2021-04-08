@@ -50,11 +50,12 @@ Il s'agit probablement de la couture la plus difficile de ce modèle. Prenez vot
 
 <Tip>
 
-###### Ou enfermez ces coutures en sandwich entre les devants.
+###### Or enclose these seams by sandwiching them between the fronts
 
-Bien que ce soit un peu plus de travail, vous pouvez enfermer cette couture en bâtissant d'abord les inserts sur un des deux devants, puis en cousant les deux devants ensemble avec les inserts en sandwich à l'intérieur. 
+While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first,
+and then sew your front pieces together with the insets sandwiched inside.
 
-Cousez les pinces du devant séparément et retourner le tout à l'intérieur, et vous avez une belle zone sans couture sur le devant. 
+Cousez les pinces du devant séparément et retourner le tout à l'intérieur, et vous avez une belle zone sans couture sur le devant.
 
 </Tip>
 
@@ -90,7 +91,7 @@ Ne pas avoir de couture apparente dans cette zone sera plus confortable.
 
 <Note>
 
-Cette étape est facultative. Surpiquer ajoute un effet de style qui souligne les différentes pièces du patron. 
+Cette étape est facultative. Surpiquer ajoute un effet de style qui souligne les différentes pièces du patron.
 Ce peut être joli avec un tissu uni, mais pas nécessairement avec un imprimé, ou avec des pièces de différentes couleur.
 
 </Note>
@@ -101,7 +102,8 @@ Si vous surpiquez, faites-le pour chaque couture, en vous assurant d'utiliser un
 
 <Tip>
 
-Pour surpiquer la couture qui ferme la pince frontale, commencez par le bas, en remontant jusqu'en haut, là où viendra la ceinture. 
+When topstitching the seam that closed the fronts dart, start from the bottom,
+and let the topstitching run all the way to the top, where the waistband will come.
 La couture s’arrête à mi-chemin (là où se termine la pince), mais votre surpiqûre doit continuer.
 
 </Tip>
@@ -143,8 +145,8 @@ Il est temps de faire les ourlets. Procédez comme vous le feriez pour n'importe
 
 <Note>
 
-A mon avis l'ourlet est beaucoup plus facile à faire si vous épinglez d'abord. 
-Donc pliez votre ourlet et épinglez-le en place. 
+A mon avis l'ourlet est beaucoup plus facile à faire si vous épinglez d'abord.
+Donc pliez votre ourlet et épinglez-le en place.
 Ou mieux: épinglez les ourlets des deux jambes et ne cousez que lorsque l'aspect vous satisfait.
 
 </Note>
@@ -162,7 +164,7 @@ Cousez les deux extrémités de votre élastique ensemble endroit contre endroit
 <Note>
 
 ###### Combien d'élastique me faut-il ?
-Entourez simplement votre élastique autour de votre taille, là où vous porterez votre boxer, et serrez un peu jusqu'à ce que cela vous convienne. 
+Entourez simplement votre élastique autour de votre taille, là où vous porterez votre boxer, et serrez un peu jusqu'à ce que cela vous convienne.
 Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur d'élastique.
 
 </Note>
@@ -178,7 +180,7 @@ Si vous utilisez un point overlock, placez l'élastique sur l'endroit, en haut d
 
 <Tip>
 
-La longueur de votre élastique sera plus courte que celle de la taille du boxer, l'élastique devra donc être étiré. 
+La longueur de votre élastique sera plus courte que celle de la taille du boxer, l'élastique devra donc être étiré.
 Epingler vous aidera à bien répartir l'étirement.
 
 Divisez votre élastique et la taille de votre boxer en 4 (ou 8) parties. Epinglez élastique et tissu ensemble.
