@@ -52,10 +52,10 @@ This is probably the hardest seam in the pattern. Take it slow, and you'll be fi
 
 ###### Or enclose these seams by sandwiching them between the fronts
 
-While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first, 
-and then sew your front pieces together with the insets sandwiched inside. 
+While it's a bit more work, you can enclose this seam if you baste the insets to a single one of the front pieces first,
+and then sew your front pieces together with the insets sandwiched inside.
 
-Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front. 
+Sew the front darts separately and turn the whole thing inside out, and you have a nice seamless package area in front.
 
 </Tip>
 
@@ -91,7 +91,7 @@ Arguably, not having an exposed seam in this area is more comfortable for the we
 
 <Note>
 
-Deze stap is optioneel. Topstitching adds a visual effect that emphasizes the individual pattern pieces. 
+Deze stap is optioneel. Topstitching adds a visual effect that emphasizes the individual pattern pieces.
 It's nice to visually break up a solid fabric, but if you're using a print, or when you're colour-blocking, you might want to not topstitch.
 
 </Note>
@@ -102,8 +102,8 @@ If you topstitch, simply do it for every seam, making sure to do so with a flexi
 
 <Tip>
 
-When topstitching the seam that closed the fronts dart, start from the bottom, 
-and let the topstitching run all the way to the top, where the waistband will come. 
+When topstitching the seam that closed the fronts dart, start from the bottom,
+and let the topstitching run all the way to the top, where the waistband will come.
 The seam stops halfway through (where the dart ends) but your topstitching should continue.
 
 </Tip>
@@ -145,8 +145,8 @@ Time to hem the legs. Hem them as you would do any other stretchy knit. Go for a
 
 <Note>
 
-I feel that hemming is much easier when you pin things in place first. 
-So fold back your hem, and pin it in place. 
+I feel that hemming is much easier when you pin things in place first.
+So fold back your hem, and pin it in place.
 Even better: pin both legs in place and only sew when you're happy with how it looks.
 
 </Note>
@@ -164,7 +164,7 @@ Sew both ends of your elastic together with good sides together.
 <Note>
 
 ###### Not sure how much elastic you need?
-Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right. 
+Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right.
 Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
 
 </Note>
@@ -180,7 +180,7 @@ If you're using a coverlock, put the elastic on top of the good side of the fabr
 
 <Tip>
 
-The length of your elastic will probably difffer from the fabric length, as they stretch differently. 
+The length of your elastic will probably difffer from the fabric length, as they stretch differently.
 Pinning will help you achieve an even stretch.
 
 Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
