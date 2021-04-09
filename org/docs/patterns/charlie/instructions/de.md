@@ -61,7 +61,7 @@ Before we go any further, we'll overlock/serge the edges of the front and back p
 
 What we want to to prevent these edges from ravelling after we've completed our trousers, and now is the best time to do so.
 
-## Step 4:  Construct the front pockets
+## Step 4:  Construct the front pocket opening
 
 The front pockets are a little unusual because they have the appearance of classic slanted pockets, but are constructed on the side seam.
 
@@ -103,4 +103,62 @@ Start with the front, since that's the easier seam. Once you've got some practic
 ### Sew the front pocket in place
 
 Sew from the waist down right until the notch that indicates where to stop.
+
+### Press the front pocket slant
+
+Now press the slant of the front pocket, both on the back and front panel, so that it's a sharp crease.
+
+## Step 5:  Close the outseam
+
+### Baste the front pockets shut
+
+I strongly advice you to baste the pocket shut/in place before sewing this seam so that you know it's precise.
+
+Closing the outseam means to place front and back panel with good sides together, and sew the outer seam. That's easy enough at the legs, but at the top we have our pocket, which complicates things.
+
+### Sew the top of the outer seam until the top notch of the pocket slant
+
+Make sure everything is neatly aligned. Then sew from the top of the waist down to the top notch (this is just over a cm or half an inch).
+
+
+### Sew the bottom of the outer seam from the bottom notch of the pocket slant
+
+Now move to the bottom notch of the pocket slant, and sew from there all the way to the bottom of the legs.
+
+### Press the outer seam open
+
+When you're done, make sure to press the seam allowance open along the leg. Don't press the pocket, we already did that.
+
+## Step 6:  Finish the front pocket bag
+
+### Sew pocket bag close inside-out
+
+With our pocket opening constructed and outer seam closed, we should now finish the pocket bag.
+
+Pull the pocket bag out so that it dangles on the outside of the trouser leg. Then place both halves together and either use a serger to finish the edge, or sew closely to the edge.
+
+Make sure you end up at the point where the bottom part of the outer seam starts.
+
+### Finish pocket bag edge
+
+When you're done, you can flip the pocket bag back to the inside of the trouser leg.
+
+Our pocket bag is now closed, but when we put our hand in it, you can feel the raw edge of the seam allowance. To avoid that, topstitch along the edge of the pocket bag, locking in the seam allowance.
+
+<Note>
+If your seam allowance is wide, you might want to trim it back first.
+</Note>
+
+## Step 7:  Bar-tack the pocket opening
+
+At the place the leg down with the good side up, making sure the pocket bag lies flat and towards the front panel.
+
+Now at the top and bottom of the pocket opening, place a bar-tack perpendicular to the outer seam.
+
+## Step 8:  Close the inseam
+
+With our front pockets finished, close the inseam of both legs.
+
+When you're done, press open the inseam.
+
 
