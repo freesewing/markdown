@@ -22,7 +22,7 @@ To run your own copy of our website, follow these steps:
 git clone --recurse-submodules git@github.com:freesewing/freesewing.org.git
 cd freesewing
 npm install
-export GATSBY_LANGUAGE=en
+cp .env.example .env
 npm run develop
 ```
 
@@ -39,7 +39,7 @@ please check [these alternatives](https://stackoverflow.com/questions/3796927/ho
 
 <Note>
 
-We're setting the GATSBY_LANGUAGE environment variable here because it's required.
+We're creating a copy of the `.env.example` file here as it contains required environment variables.
 For more details, see **Environment variables** below.
 
 </Note>
@@ -94,7 +94,7 @@ This feature is not yet implemented.
 ## Environment variables
 
 The following variables configure different aspects of our website.
-Only `GATSBY_LANGUAGE` is required to get the site up and running.
+The `.env.example` file contains the required variables to get the site up and running.
 
 | Var    | Purpose | Example |
 |--------|---------|---------|
