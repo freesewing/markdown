@@ -196,4 +196,19 @@ Serge (or zig-zag) along the open side of the fly extension. No need to serge th
 
 while you're at it, also serge along the entirety of the fly facings J-shaped edge.
 
+### Cut away the extra seam allowance on the left leg front
+
+There's extra seam allowance that runs along the fly. We only need this on the right leg panel. Cut it away on the left panel so you're left with the regular seam allowance only.
+
+### Attach the fly facing
+
+Sew the fly facing to the left front. Place them with good sides together, alingning the top.
+
+### Tuck in the tip of the fly facing
+
+Fold the bottom of the fly facing seam allowance inwards and secure with a few stitches
+
+### Edge stitch the fly facing to the seam alowance
+
+Sew the fly facing to the seam allowance. Make sure to leave the front panel out of it.
 
