@@ -166,4 +166,42 @@ With our front pockets finished, close the inseam of both legs.
 
 When you're done, press open the inseam.
 
+## Step 9:  Close the crossseam
+
+Make sure one leg is turned with the good side out, and the other has the good side in.
+
+Not tuck the leg with the good side out inside the leg that has the good side in.
+This way, they have their good sides against each other.
+
+Aling the cross seam, starting at the back waist, pinning both halves together as you make your way
+towards the fly. Stop at the lowest fly notch.
+
+When you're done. Do it again. Always sew the cross seam twice. 
+It's one of those best practices you ignore at your own peril.
+
+<Tip>
+
+Take extra care to carefully align the seams where both legs have their back and front panels joined together.
+Doing so will ensure your cross seam results with a perfectly aligned _cross_ where 4 pattern parts meet each other in a single point.
+
+Getting it just right is one of those things you'll end up cherishing each time you wear these.
+
+</Tip>
+
+## Step 10: Construct the fly
+
+### Close fly extension
+
+Fold the fly extension on its fold line with good sides together.
+
+Now sew along the bottom, to close the fly extension.
+
+Trim back one half of the seam allowance to remove bulk before turning it good side out and pressing.
+
+### Serge the fly extension and fly facing
+
+Serge (or zig-zag) along the open side of the fly extension. No need to serge the top as that will get caught in our waistband.
+
+while you're at it, also serge along the entirety of the fly facings J-shaped edge.
+
 
