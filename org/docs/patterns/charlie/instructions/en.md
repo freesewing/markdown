@@ -221,3 +221,163 @@ Fold the bottom of the fly facing seam allowance inwards and secure with a few s
 
 Sew the fly facing to the seam allowance. Make sure to leave the front panel out of it.
 
+### Press cross seam, fly facing and the fly edge
+
+Press open the cross seam. Press the fly facing to the side.
+
+Then, fold over the extra seam allowance on the right front leg and press it down.
+
+### Baste the zipper to the fly extension
+
+Place the zipper along the (slightly curved) edge of the fly extension.
+
+Now sew along the edge. No need to get close to the zipper, just sew along the edge to hold them in place.
+
+### Attach zipper to the fly
+
+Now place the right front leg's fly with the extra seam allowance that you folded back on top of the zip.
+
+Use a zipper foot edge-stitch the folded-over edge along the zipper edge.
+
+<Tip>
+
+You might want to baste this first to make sure it is nicely parallel to the zipper. Close, but not too close.
+
+</Tip>
+
+### Sew the zipper to the fly facing
+
+Now sew the other side of the zipper to the fly facing. Make sure to align it properly so that
+when the trousers are closed, the zip is hidden
+
+
+### Finish the cross seam
+
+Sew the last bit of the cross seam up to the highest fly notch.
+
+### Sew the J-seam of the fly
+
+Now topstitch the so-called J-seam of the fly. Make sure to keep the fly extension out of the way.
+
+### Bar tack the bottom of the fly
+
+Now bartack the very botton of the J-seam (the horizontal part) but this time make sure to also catch the fly extension.
+
+## Step 11: Attach the belt loops
+
+### Construct the belt loops
+
+<Note>
+
+For efficiency, we will contruct one long strip of belt loop that we'll divide into 8 parts.
+
+</Note>
+
+Cut a strip of 80cm long (32 inch) and 2.8cm wide (1 1/8 inch).
+
+Serge (or zigzag) the long edge of the strip on both sides.
+
+Fold one side inwards, and the other side over it. Then press down with your iron.
+The end result should be a long strip about 1cm wide.
+
+Now sew along the entire length of the strip, smack in the middle of it.
+Make sure to use a generous stitch length for this.
+
+Finally, cut your length belt loops strip into 8 equal parts to make 8 belt loops.
+
+### Attach the belt loops
+
+We're going to divide our belt loops along the waist:
+
+ - 2 at the center back, each set aside a bit from the center so there's a small gap between them.
+ - 1 above the back dart on each side
+ - 1 on each side more or less where the side seam would hit the waist if it went straight up 
+ - 1 on each side from center front. Not too close to each other so there's no room for belt buckles, but not too far either so it doesn't look weird
+
+Place the belt loop at these places with their good side down (against the good side of the fabric of your trousers, and the top aligned with the waist.
+Sew this down in the seam allowance of the waist, making sure that they are perpendicular to the waistband.
+
+## Step 12: Attach the waist band
+
+### Attach the waist band to the outside
+
+Place the waistband with good sides together along the waist. 
+Make sure the side with the standard seam allowance is aligned witht the waist, 
+and not the side with double seam allowance.
+
+Also make sure to leave suffucient seam allowance beyond the start and end of the waistband.
+
+Sew along the entirety of the waist, attaching the waist band and sewing down the belt loops in one go.
+
+### Press the waistband seam and fold the waistband
+
+Press the seam you just sewed, pressing the seam allowance up into the waistband.
+
+Now fold over the waistband at the correct width and press in the crease.
+
+### Close the start and end of the waistband.
+
+At the start and end, fold the waistband over so it has it's good sides together.
+
+Now sew the end shut by sewing top to bottom to just the point where the waistband seam ends.
+
+Trim back the seam allowance a bit so you can tuck it all into the waistband later.
+
+### Baste the waistband in place
+
+The waistband has extra seam allowance here, and we're going to use that to our advantage.
+
+Fold the waistband in the fold you pressed. Then on the inside, fold the seam allowance inwards, making sure to let it run a few mm beyond the waistband seam.
+
+You want to baste this in place so it stays put as you make your way around the waistband.
+
+At the start and end of the waistband, you'll need to tuck in some more seam allowance. Take a moment to get it right.
+
+### Sew the waistband close
+
+Now with the good side up, sew exactly in the seam that was sewn before (so called _stitch in the ditch_).
+
+This will catch the back of the waistband which we've made to extend slightly further, and lock all the seam allowance inside.
+
+## Step 13: Finalize the belt loops
+
+### Sew the belt loops down to make them wider
+
+It's best to make the belt loops a bit wider than the waitband, to accomodate wider belts.
+
+For this, let the waistband lie flat, and sew it down with a bartack 1.5cm or so (half and inch) below the waistband.
+
+### Fold upwards, down again, and sew down
+
+Now fold the belt loops upwards (hiding the bartack you just did).
+
+They'll extend beyond the top of the waistband. So fold the excess down again.
+Don't fold it over/around the waistband, but fold it double on itself.
+
+Now do a bartack along the top of the waistband to lock the belt loop in place.
+
+When you're done, carefull twist the back of the beltloop to the front and cut off the excess right next to the bartack.
+
+<Note>
+
+Be careful not to bartack the front of your trousers to the back.
+
+Double-check you don't have any extra layers under your needle because unpicking a bartack is no joy.
+
+</Note>
+
+## Step 14: Hem the pants
+
+Fold the hem allowance halfway up, and press.
+Then fold them again, and press again.
+
+Finalize by hand and blind hem your trousers.
+
+## Step 15: Button on buttonhole
+
+Create a buttonhole. Either by hand (it's worth practicing) or with a machine.
+
+Finally, attach the button.
+
+Now take a moment to appreciate all the hard work you did.
+We hope you'll get a lot of wears out of these.
