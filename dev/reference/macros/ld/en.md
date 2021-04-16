@@ -2,7 +2,22 @@
 title: ld
 ---
 
-Adds a *linear dimension* to your pattern.
+The `ld` macro adds a *linear dimension* to your pattern.  
+It is provided by the [dimension plugin](/reference/plugins/dimension/).
+
+<Example 
+  part="point_dist"
+  caption="An example of a linear dimension"
+/>
+
+```js
+macro('ld', {
+  from: points.from,
+  to: points.to,
+  d: 0
+})
+```
+
 
 | Property        | Default | Type                | Description | 
 |-----------------|---------|---------------------|-------------|
@@ -12,10 +27,4 @@ Adds a *linear dimension* to your pattern.
 | `text`          | Linear distance   | Number    | The text to go on the dimension if not the from-to linear distance |
 | `noStartMarker` | `false` | Boolean             | Whether to not draw a start marker |
 | `noEndMarker`  | `false` | Boolean             | Whether to not draw an end marker |
-
-<Note>
-
-The `ld` macro is provided by the [dimension plugin](/reference/plugins/dimension).
-
-</Note>
 
