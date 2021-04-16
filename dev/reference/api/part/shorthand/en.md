@@ -8,21 +8,23 @@ object Part.shorthand();
 
 This method returns a plain object with the following properties:
 
-  - `Point` : the [Point](/reference/api/point) constructor
-  - `points` = `part.points`
+  - `events` : An object holding the raised events (see `raise`)
+  - `final` : `true` is this is a full draft, or `false` if this is a sample.
+  - `macro` : The macro runner
+  - `measurements` = `pattern.settings.measurements`
+  - `paperless` = `pattern.settings.paperless`
   - `Path` : the [Path](/reference/api/path) constructor
   - `paths` = `part.paths`
+  - `Point` : the [Point](/reference/api/point) constructor
+  - `points` = `part.points`
   - `Snippet` : the [Snippet](/reference/api/snippet) constructor
   - `snippets` = `part.snippets`
-  - `measurements` = `pattern.settings.measurements`
   - `options` = `pattern.settings.options`
+  - `raise` : An object holding the various methods that allow you to [raise events](/reference/api/part/raise/)
   - `sa` = `pattern.settings.sa`
+  - `store` = `pattern.store`, a [Store](/reference/api/store) instance that is shared across parts
   - `utils` : A [Utils](/reference/api/utils) instance with utility methods
   - `units` : A context-aware version of `utils.units`
-  - `macro` : The macro runner
-  - `store` = `pattern.store`, a [Store](/reference/api/store) instance that is shared across parts
-  - `final` : `true` is this is a full draft, or `false` if this is a sample.
-  - `paperless` = `pattern.settings.paperless`
 
 As the name implies, this method can save you a bunch of typing, and keep your
 code concise. We highly recommend it. Below are some examples:
