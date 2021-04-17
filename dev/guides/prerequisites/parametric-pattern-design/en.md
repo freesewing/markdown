@@ -27,8 +27,8 @@ But in a parametric sewing pattern, adapting to different sizes or models *just 
 FreeSewing patterns are implemented **as code**, which has a lot of advantages.
 
 It allows for patterns that adapt to your measurements or preferences, 
-fine-grained version control, seamless collaboration, and using one's work
-as a starting point for you own, to name but a few.
+fine-grained version control, seamless collaboration, and using existing
+patterns as a starting point for you own, to name but a few.
 
 That being said, you don't have to be a code monkey to use FreeSewing.
 
