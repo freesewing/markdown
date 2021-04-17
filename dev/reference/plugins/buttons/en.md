@@ -14,10 +14,12 @@ The **buttons** plugin provides the following [snippets](/reference/snippets/):
 
  - `button`
  - `buttonhole`
+ - `buttonhole-start`
+ - `buttonhole-end`
  - `snap-stud`
  - `snap-socket`
 
-<Example part="plugin_buttons" caption="An example of the button, buttonhole, snap-stud, and snap-socket snippets" design={false} />
+<Example part="plugin_buttons" caption="An example of the button, buttonhole, buttonhole-start, buttonhole-end, snap-stud, and snap-socket snippets" design={false} />
 
 ```js
 let { Point, snippets, Snippet } = part.shorthand();

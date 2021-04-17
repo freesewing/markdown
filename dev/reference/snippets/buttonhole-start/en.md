@@ -1,15 +1,15 @@
 ---
-title: buttonhole
+title: buttonhole-start
 ---
 
-The `buttonhole` snippet is used to mark buttonhole placement and is
+The `buttonhole-start` snippet is used to mark buttonhole placement and is
 provided by [plugin-buttons](/reference/plugins/buttons/).
 
 ```js
-snippets.demo = new Snippet('buttonhole', points.anchor)
+snippets.demo = new Snippet('buttonhole-start', points.anchor)
 ```
 
-<Example part="snippets_buttonhole" caption="An example of the buttonhole snippet" />
+<Example part="snippets_buttonhole_start" caption="An example of the buttonhole-start snippet" />
 
 <Note>
 
@@ -22,4 +22,3 @@ We provide three buttonhole snippets with a different alignment:
  - [buttonhole-end](/reference/snippets/buttonhole-end/): Anchor point is the end of the buttonhole
 
 </Note>
-
