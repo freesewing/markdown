@@ -7,7 +7,7 @@ Images are like links, just prefix them with an exclamation mark.
 The part between square brackets is the image caption or alt-text.
 
 ```md
-![This is the alt text & title](image.jpg)
+![This is the alt-text & title](image.jpg)
 ```
 
 ![This is the alt text & title](image.jpg)
