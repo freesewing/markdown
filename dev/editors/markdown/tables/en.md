@@ -20,7 +20,7 @@ If you need them, you can create tables too, using a structure as shown below:
 | Mixture | Two or more substances that are not chemically united, such as air |
 | Solution | A uniform mixture of varying proportions of a solvent and a solute |
 
-You can change the alignment of the columns by using a colon (`:`) on the line below the colum title:
+You can change the alignment of the columns by using a colon (`:`) on the line below the column title:
 
 ```md
 | Align-right | Align-center |
