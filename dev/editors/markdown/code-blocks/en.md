@@ -36,7 +36,7 @@ To get:
 let me = 'you'
 ```
 
-The folowing language codes are supported:
+The following language codes are supported:
 
  - `js` for Javascript code
  - `md` for Markdown
