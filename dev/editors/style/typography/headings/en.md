@@ -27,7 +27,7 @@ a flowing text, and as such come with copious spacing above
 and below them.
 
 In addition, headings of level 2 and 3 will also get an 
-anchorlink inserted, allowing users to link to that specific
+anchor link inserted, allowing users to link to that specific
 heading in any given page.
 
 However, due to subtle differences between _SSR_ and client-side
@@ -64,36 +64,36 @@ below is the exception that confirms the rule.
 # Heading 1
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
 ## Heading 2
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
 ### Heading 3
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
 #### Heading 4
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
 ##### Heading 5
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
 ###### Heading 6
 
 This is what a paragraph looks like. Ubuntu is a sans-serif font, giving it
-a somewhat modern look that is associated with reading on screen, rathern than
+a somewhat modern look that is associated with reading on screen, rather than
 on paper (where serif fonts reign).
 
