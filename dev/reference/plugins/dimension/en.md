@@ -12,10 +12,12 @@ title: dimension
 
 The **dimension** plugin provides the following [macros](/plugins#macros):
 
- - [hd](#hd) : Adds a horizontal dimension
- - [vd](#vd) : Adds a vertical dimension
- - [ld](#ld) : Adds a linear dimension
- - [pd](#pd) : Adds a dimension along a path
+ - [hd](/reference/macros/hd/) : Adds a horizontal dimension
+ - [vd](/reference/macros/vd/) : Adds a vertical dimension
+ - [ld](/reference/macros/ld/) : Adds a linear dimension
+ - [pd](/reference/macros/pd/) : Adds a dimension along a path
+ - [rmd](/reference/macros/rmd/) : Removes a dimension
+ - [rmad](/reference/macros/rmad/) : Removes all dimensions with a default prefix
 
 <Example part="plugin_dimension" caption="An example of the different dimensinon macros" design={false} />
 

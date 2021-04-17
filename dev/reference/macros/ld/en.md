@@ -24,7 +24,17 @@ macro('ld', {
 | `from`          |         | [Point](/reference/api/point) | The startpoint of the dimension |
 | `to`            |         | [Point](/reference/api/point) | The endpoint of the dimension |
 | `d`             | 0       | Number              | The offset at which to draw the dimension |
+| `id`            | auto-assigned | String | A custom ID under wich paths and points will be created |
 | `text`          | Linear distance   | Number    | The text to go on the dimension if not the from-to linear distance |
 | `noStartMarker` | `false` | Boolean             | Whether to not draw a start marker |
 | `noEndMarker`  | `false` | Boolean             | Whether to not draw an end marker |
+
+<Note>
+
+Setting a custom ID will:
+
+ - Allow removal of the dimension with [the `rmd` macro](/reference/macros/rmd)
+ - Prevent removal of the dimension with [the `rmad` macro](/reference/macros/rmad/) 
+
+</Note>
 
