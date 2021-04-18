@@ -23,43 +23,40 @@ So instead, let me tell you about who I am so excited about this.
 
 First up, Charlie is based on Titan, our unisex trouser block that is also the
 foundation for [our Paco pattern](/designs/paco/). So if you're familiar with 
-any these, you already know how it will fit you.
+any these, you already know how Charlie will fit you.
 
 ##### More measurements, more options, better fit
 
-As a token of how much I feel this is an improvement, I've effective immeadiatly 
-deprecated [Theo](/designs/theo/). Based on an Aldrich draft, Theo uses very few measurements
+As a token of how much I feel this is an improvement, I've deprecated [Theo](/designs/theo/). 
+Based on an Aldrich draft, Theo uses very few measurements
 and while that worked fine for a certain set of people, it is a less versatile pattern.
 
 Charlie will adapt better to differently shaped bodies, and has a hell of a lot more options
 that allow you to configure your trousers so you get them just as you like. In case you're
 wondering, Theo has 5 options, whereas Charlie has 31.
 
-That being said, we will keep Theo avialable. Deprecated merely means that we've added a little
-warning message saying that we recomend Charlie instead.
+That being said, we will keep Theo available. Deprecated merely means that we've added a little
+warning message saying that we recommend Charlie instead.
 
 ##### Easier to make
 
 Another reason to opt for Charlie rather than Theo: Charlie is easier to make.
-Theo ranks 4 stars on our difficulty scale, and I've given Charlie 3 stars because it 
-
 It has a more straight-forward fly and waistband construction, and the front
-pockets have been cleverly designed to give you the ease of an construction that
+pockets have been cleverly designed to give you the ease of construction that
 comes with side-seam pockets, yet the classic look of slanted pockets.
 
-really is easier, and if you were afraid of making trousers, this would be a good starting point.
+Theo ranks 4 stars on our difficulty scale, and I've given Charlie 3 stars.
+If you were afraid of making trousers, this might be the pattern you've been waiting for.
 
 ##### Real pockets
 
-This is a unisex pattern and the pockets are real. You have welt (aka jetted) pockets at the back, 
+Charlie is a unisex pattern and the pockets are real. You have welt (aka jetted) pockets at the back, 
 and slanted pockets at the front.
 In both cases, you have control over the size and depth of the pockets.
 
 The front pockets deserve a special mention. They look like traditional slanted pockets, but are
 set in on the side seam. To make that possible, the back panel of the trousers wraps around the front,
 following the pocket slant.
-
-I hope you will like it :)
 
 ## Other 2.15 news
 
@@ -77,13 +74,12 @@ all the details, but allow me to highlight some of the more noteworthy changes:
  - The [logo plugin](https://freesewing.dev/reference/plugins/logo/) now supports dark mode
  - Titan and Paco have a new `waistbandHeight` option
  - Core no longer rounds point coordinates to avoid misses when using [path.split](https://freesewing.dev/reference/api/path/split/)
- - [Bella](/designs/bella/) has a fix to the shoulder to better accomodate doll-sized clothing
+ - [Bella](/designs/bella/) has a fix to the shoulder to better accommodate doll-sized clothing
  - [Charlie](/designs/charlie/) is the first pattern to list some of the absolute dimensions when configuring
  a pattern, but we plan to extend this to other designs. 
  We have documented [the new raise methods](https://freesewing.dev/reference/api/part/raise) for designers
  who want to utilize this feature.
  - Speaking of documentation, our examples in our [documentation for developers](https://freesewing.dev/) now
  allows you to toggle a switch to reveal the points and paths in the examples
- - The [part.getId()](https://freesewing.dev/reference/api/part/getid/) method now takes a prefix argumnent
-
+ - The [part.getId()](https://freesewing.dev/reference/api/part/getid/) method now takes a prefix argument
 
