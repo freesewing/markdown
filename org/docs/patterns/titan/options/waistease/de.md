@@ -1,12 +1,4 @@
 
-Controls the width of the legs. 
+Controls the amount of ease at your waist.
 
-<Note>
-
-This pattern used to come in two variations. Theodore, and Theo, the latter having
-a slimmer cut.
-
-Since FreeSewing v2.0 we've merged these into a single pattern and this option
-allows you to alter the leg width.
-
-</Note>
+Even if you draft lower pants, this will still influence the ease at the top of your pants (the closure).

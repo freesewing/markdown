@@ -1,8 +1,2 @@
 
-Controls the amount of ease at your knees.
-
-<Note>
-
-This will only be taken into account when you chose to [fit the knees](/docs/patterns/titan/options/fitknee), which is a style option.
-
-</Note>
+Controls the amount of ease at your knees, which also determines the width of the trouser legs.

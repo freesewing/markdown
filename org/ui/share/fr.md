@@ -1,5 +1,5 @@
 ---
-title: Liens de partage
+title: Partage de liens
 ---
 
 Faites connaître FreeSewing au monde entier. Vous pouvez fournir un lien vers une page spécifique, ou vers la page d'accueil : https://fr.freesewing.org/
