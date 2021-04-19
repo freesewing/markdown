@@ -28,11 +28,11 @@ If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [
 
 ###### Repeat steps 3 and 4 for both armholes and the neck opening
 
-The procedure outline below applies to both of the armholes as well as the neck opening. Met andere woorden, je zal dit drie keer moeten doen.
+The procedure outlined below applies to both of the armholes as well as the neck opening. Met andere woorden, je zal dit drie keer moeten doen.
 
 ###### Start with the simplest opening
 
-I would advice you to start with whatever opening has the most uniform curvature. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
+I would advise you to start with whatever opening has the most uniform curvature. Meestal zijn dit de armsgaten, maar als je de patroonopties aangepast hebt (denk aan een racerback) is dat misschien niet het geval.
 
 Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met een makkelijker opwarmertje voor je aan de lastigere stukken begint.
 
@@ -53,7 +53,7 @@ Dit is het enige onderdeel van dit hemdje waar wat oefening voor vereist is. Gee
 Het eerste dat we moeten doen is beslissen waar de bies gaat starten en stoppen. Dit zou ik suggereren:
 
   - Voor de armsgaten: aan de zijnaad. Zo zit de naad verstopt onder je arm
-  - Voor de halsopening: middenachter aan je nek. Het is aangeraden dit met een speldje aan te duiden
+  - Voor de halsopening: middenachter aan je nek. You might want to mark this with a pin
 
 ### Positioneer (het begin van) je bies
 
@@ -74,7 +74,7 @@ We gaan op 1,5 cm van de rand naaien. Opletten dus, want dit is niet de standaar
 <Tip>
 
 The easy way to keep this 1.5cm distance is by using a seam gauge. 
-Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
+Or do what I do, place a piece of marking tape on your sewing machine and mark a line on it 1.5cm from your needle. 
 Then all you need to do is keep the edge of your fabric aligned with that line.
 
 </Tip>
@@ -101,13 +101,13 @@ Met nog een zestal cm te gaan voor de een complete cirkel gemaakt hebben is het 
 
 Neem een van de uiteindes, en rek het lichtjes uit langs de 3 cm tot aan het startpunt, zoals je zou doen als je aan het naaien was.
 
-Markeer waar de bies aan het startpunt zou komen. Doe hetzelfde voor het andere uiteinde.
+Mark the binding where it reaches the start point. Doe hetzelfde voor het andere uiteinde.
 
 ### Stik de uiteindes van de biezen aan elkaar
 
 ![Zet de uiteindes van de bies aan elkaar](step03g.png)
 
-Plooi je hemdje zo uit de weg dat je de twee uiteindes van je bies met de goede kanten op elkaar kan leggen. Zorg dat de markeringen overeenkomen. Naai de uiteindes aan elkaar op de markering.
+Fold your A-shirt in whatever way makes it easier for you to place both binding ends with good sides together, aligning the marks. Naai de uiteindes aan elkaar op de markering.
 
 > 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
@@ -145,13 +145,13 @@ Wederom moet je de bies een beetje uitrekken terwijl je dit doet. Maar nu is er 
 <Note>
 
 ##### Beware of the uneven feed
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
+As you feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
 
 In een ideale wereld zouden alle lagen gelijkmatig volgen. 
 Maar meestal blijft de bovenste laag (de voorkant van je bies) wat achter. 
 Dit zorgt dat je bies niet helemaal recht rond de randjes geplooid ligt, en lelijke rimpels maakt.
 
-Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje uit om te compenseren. Een boventransportvoet op je naaimachine helpt ook met dit probleem.
+So watch out for this, and if you see it happening, stretch the under-layer a bit extra to compensate.
 
 </Note>
 
@@ -159,7 +159,7 @@ Dus let hierop, en als je het ziet gebeuren, rek dan de onderste laag een beetje
 
 ![Knip de bies langs de binnenkant bij](step05.png)
 
-Keer je hemdje naar de verkeerde kant en knip de bies bij om alles netjes af te werken.
+On the inside of your A-shirt, trim back the knit binding against your seam to finish up.
 
 <Note>
 
