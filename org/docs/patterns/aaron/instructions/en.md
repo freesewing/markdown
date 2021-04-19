@@ -29,11 +29,11 @@ If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [
 
 ###### Repeat steps 3 and 4 for both armholes and the neck opening
 
-The procedure outline below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
+The procedure outlined below applies to both of the armholes as well as the neck opening. In other words, you'll have to do this three times.
 
 ###### Start with the simplest opening
 
-I would advice you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
+I would advise you to start with whatever opening has the most uniform curvature. By default, those are the arm holes, but if you changed the pattern options (think racerback) that might not be the case.
 
 Either way, the less sharp bends you have, the easier it will be. So start with that to warm up before you do the trickier bends.
 
@@ -55,7 +55,7 @@ This is the only part of making this A-shirt that requires a bit of practice. Do
 The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
 
   - For the armholes: at the side seam. This will hide our seam under the arm
-  - For the neck opening: the center back of the neck. You might want to make this with a pin
+  - For the neck opening: the center back of the neck. You might want to mark this with a pin
 
 ### Place (the start of) your binding
 
@@ -76,7 +76,7 @@ We are going to sew 1.5cm from the edge. So be careful because this is not the s
 <Tip>
 
 The easy way to keep this 1.5cm distance is by using a seam gauge. 
-Or do what I do, place a piece of making tape on your sewing machine and mark a line on it 1.5cm from your needle. 
+Or do what I do, place a piece of marking tape on your sewing machine and mark a line on it 1.5cm from your needle. 
 Then all you need to do is keep the edge of your fabric aligned with that line.
 
 </Tip>
@@ -104,13 +104,13 @@ With about 6cm left to go before we complete our circle, it's time to sew the en
 
 Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
 
-Mark the where the binding reached the start point. Do the same for the other end.
+Mark the binding where it reaches the start point. Do the same for the other end.
 
 ### Sew binding ends together
 
 ![Join the ends of the binding](step03g.png)
 
-Fold you A-shirt in whatever way makes it more easy for your to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
+Fold your A-shirt in whatever way makes it easier for you to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
 
 > 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
@@ -148,13 +148,13 @@ You'll have to, once again, stretch your binding a bit while doing this. But thi
 <Note>
 
 ##### Beware of the uneven feed
-As your feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
+As you feed your binding through your sewing machine, the feed dogs will pull the bottom layer (back of your binding) forward. 
 
 In a perfect world, all layers will follow smoothly. 
 But more often than not, the top layer (front of your binding) tends to lag behind a bit. 
 This causes your binding to not neatly fold around the edge of the fabric, but make ugly wrinkles.
 
-So watch out for this, and if you see it happening, stretch the under layer a bit extra to compensate.
+So watch out for this, and if you see it happening, stretch the under-layer a bit extra to compensate.
 
 </Note>
 
@@ -162,7 +162,7 @@ So watch out for this, and if you see it happening, stretch the under layer a bi
 
 ![Trim back knit binding on the inside](step05.png)
 
-On the inside of you A-shirt, trim back the knit binding against your seam to finish up.
+On the inside of your A-shirt, trim back the knit binding against your seam to finish up.
 
 <Note>
 
