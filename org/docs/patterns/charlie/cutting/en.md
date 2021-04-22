@@ -8,7 +8,8 @@
 - Part **8**: **2 x** 2 _with good sides together_
 - Part **9**: **2 x** _with good sides together_
 - Part **10**: **1 x** on the fold
-- Part **11**: **1 x**
+- Part **11**: **1 x** if making a straight waistband
+- Part **11**: **2 x** _with good sides together_ if making a curved waistband
 - Part **12**: **1 x**
 
 ##### From lining (or any material suitable for pocket bags)
