@@ -299,10 +299,25 @@ Sew this down in the seam allowance of the waist, making sure that they are perp
 
 ## Step 12: Attach the waist band
 
+### Assemble curved waistband
+
+If you're making a straight waistband, skip directly to attaching the waistband to the outside.
+
+Place both waistbands with good sides together, and sew along the top of the waistband (the shorter edge).
+
+Trim the seam allowance of the inner waistband, and press all seam allowances towards the inner waisband.
+
+You can now treat your assembled waisband as one piece, and continue as for the straight waistband.
+
+<Tip>
+To make sure your inner waistband doesn't peek out, you can _understitch_.
+Sew a line of stitching on the inside waistband, close to the edge, through the inner waistband and seam-allowances (but not the outer waistband!).
+</Tip>
+
 ### Attach the waist band to the outside
 
 Place the waistband with good sides together along the waist. 
-Make sure the side with the standard seam allowance is aligned witht the waist, 
+For the straight waistband, make sure the side with the standard seam allowance is aligned with the waist,
 and not the side with double seam allowance.
 
 Also make sure to leave suffucient seam allowance beyond the start and end of the waistband.
