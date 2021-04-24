@@ -12,41 +12,31 @@ const testers = require('./testers')
 const backend = process.env.FS_BACKEND
 
 const asHtml = async (text) => {
-  let content = await unified()
-  .use(markdown)
-  .use(remark2rehype)
-  .use(format)
-  .use(html)
-  .process(text)
+  let content = await unified().use(markdown).use(remark2rehype).use(format).use(html).process(text)
 
   return content.contents
-
 }
 
 const getToken = async () => {
-  let res = await axios.post(
-    `${backend}login`,
-    {
-      username: process.env.FS_USER,
-      password: process.env.FS_PASSWORD,
-    }
-  )
+  let res = await axios.post(`${backend}login`, {
+    username: process.env.FS_USER,
+    password: process.env.FS_PASSWORD,
+  })
   if (res.data) return res.data.token
   else if (res.err) return console.log(err)
 }
 
-const getSubscribers = async (test=true) => {
+const getSubscribers = async (test = true) => {
   if (test) return testers
   let token = await getToken()
-  let res = await axios.get(
-    `${backend}admin/subscribers`,
-    { headers: { Authorization: 'Bearer ' + token } }
-  )
+  let res = await axios.get(`${backend}admin/subscribers`, {
+    headers: { Authorization: 'Bearer ' + token },
+  })
   if (res.data) return res.data
   else return false
 }
 
-const send = async (test=true) => {
+const send = async (test = true) => {
   const template = fs.readFileSync(`${__dirname}/../templates/newsletter.html`, 'utf8')
   const text = fs.readFileSync(`${__dirname}/../newsletter/${process.env.NL_EDITION}/en.md`, 'utf8')
   const subscribers = await getSubscribers(test)
@@ -74,15 +64,15 @@ const send = async (test=true) => {
       await smtp.sendMail({
         from: '"FreeSewing" <info@freesewing.org>',
         to: sub.email,
-        subject: "FreeSewing newsletter: Spring 2021",
+        subject: 'FreeSewing newsletter: Spring 2021',
         headers: {
-          'Language': 'en',
+          Language: 'en',
           'List-Owner': 'joost@joost.at',
           'List-Subscribe': 'https://freesewing.org/community/newsletter/',
-          'List-Unsubscribe': unsub
+          'List-Unsubscribe': unsub,
         },
         text,
-        html: body
+        html: body,
       })
     }
     i++
@@ -94,5 +84,5 @@ const sendReal = () => send(false)
 
 module.exports = {
   sendTest,
-  sendReal
+  sendReal,
 }
