@@ -8,28 +8,28 @@ author: joost
 ---
 
 We've just published FreeSewing v2.15 and it comes with a new pattern:
-[The Carlie Chinos trouser pattern](/designs/charlie/).
+[The Charlie Chinos trouser pattern](/designs/charlie/).
 
-I have lost track of how long a chino trouser pattern is on my todo list,
+I have lost track of how long a chino trouser pattern has been on my to-do list,
 but it's measured in years. I'm very happy I finally landed where I wanted to be.
 
 I have a picture of it here, but due to the dark fabric, you can't really make out much:
 
 ![A pair of Charlies by Joost](joost.jpg)
 
-So instead, let me tell you about who I am so excited about this.
+So instead, let me tell you about why I am so excited about this.
 
 ##### Based on Titan
 
 First up, Charlie is based on Titan, our unisex trouser block that is also the
 foundation for [our Paco pattern](/designs/paco/). So if you're familiar with 
-any these, you already know how Charlie will fit you.
+any of those, you already know how Charlie will fit you.
 
 ##### More measurements, more options, better fit
 
 As a token of how much I feel this is an improvement, I've deprecated [Theo](/designs/theo/). 
-Based on an Aldrich draft, Theo uses very few measurements
-and while that worked fine for a certain set of people, it is a less versatile pattern.
+Based on an Aldrich draft, Theo uses very few measurements,
+and while that worked fine for a certain set of people, it's a less versatile pattern.
 
 Charlie will adapt better to differently shaped bodies, and has a hell of a lot more options
 that allow you to configure your trousers so you get them just as you like. In case you're
@@ -76,10 +76,10 @@ all the details, but allow me to highlight some of the more noteworthy changes:
  - Core no longer rounds point coordinates to avoid misses when using [path.split](https://freesewing.dev/reference/api/path/split/)
  - [Bella](/designs/bella/) has a fix to the shoulder to better accommodate doll-sized clothing
  - [Charlie](/designs/charlie/) is the first pattern to list some of the absolute dimensions when configuring
- a pattern, but we plan to extend this to other designs. 
+ a pattern, but we plan to extend this to other designs
  We have documented [the new raise methods](https://freesewing.dev/reference/api/part/raise) for designers
  who want to utilize this feature.
- - Speaking of documentation, our examples in our [documentation for developers](https://freesewing.dev/) now
+ - Speaking of documentation, the examples in our [documentation for developers](https://freesewing.dev/) now
  allows you to toggle a switch to reveal the points and paths in the examples
  - The [part.getId()](https://freesewing.dev/reference/api/part/getid/) method now takes a prefix argument
 
