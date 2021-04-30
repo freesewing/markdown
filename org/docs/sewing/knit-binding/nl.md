@@ -99,7 +99,7 @@ Dit houdt dan in dat de schoudernaad ook door de bies loopt, wat onaanvaardbaar 
 
  - Knip je bies even lang als de rand waar hij aan moet. Geen 90%, maar 100%. Op deze manier weet je dat het te lang gaat zijn, en dat willen we.
  - Markeer waar je de naad van je bies wil (bijvoorbeeld, achteraan de halslijn) en leg je bies 1 cm voorbij dit punt.
- - Begin je bies 3 cm voorbij dit punt vast te naaien, en ga helemaal rond. Terwijl je dit doet pas je de hoeveelheid stretch aan de curve aan. Hier zijn geen trucjes voor, je gaat moeten oefenen tot je het aanvoelt.
+ - Begin je bies 3 cm voorbij dit punt vast te naaien, en ga helemaal rond. Terwijl je dit doet pas je de hoeveelheid stretch aan de curve aan. There's no tricks for this, you'll have to practice until it comes naturally to you.
  - Wanneer je bijna rond bent en in de buurt komt van het punt dat je gemarkeerd hebt, stop je ongeveer 3 cm ervoor.
  - Nu is je hele bies bevestigd, behalve een zestal cm aan de achterkant. Speld de twee uiteindes van je bies met de goede kanten op elkaar, exact zo lang als nodig, en stik vast.
  - Naai de overgebleven 6 cm van je bies.

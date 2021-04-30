@@ -99,7 +99,7 @@ Une autre approche pour contourner le problème de longueur est d'attacher le bi
 
  - Coupez votre biais d'autant que la longueur du bord du tissu à coudre. Pas 90 %, mais 100 %. De cette façon, vous savez que ça va être trop long, et c'est ce que nous voulons.
  - Marquez l'endroit où vous voulez que votre reliure soit reliée (par exemple au centre de l'encolure) et placez votre biais 1cm au-delà de ce point.
- - Commencez à coudre votre biais à environ 3cm à partir de ce point, et faites tout le tour. Pendant toute la couture du tour, assurez-vous d'ajuster l'étirement à ce que la courbe exige. Il n'y a pas d'astuces pour cela, vous devrez vous entraîner jusqu'à ce que ça devienne naturel pour vous.
+ - Commencez à coudre votre biais à environ 3cm à partir de ce point, et faites tout le tour. Pendant toute la couture du tour, assurez-vous d'ajuster l'étirement à ce que la courbe exige. There's no tricks for this, you'll have to practice until it comes naturally to you.
  - Lorsque vous vous déplacez et que vous vous approchez du point que vous avez marqué, arrêtez environ 3cm avant ce repère.
  - Maintenant votre biais est entièrement cousu, à part environ 6cm restant à l'arrière. Épingler les deux extrémités endroit contre endroit en fermant l'encolure de façon à ce qu'elle ait exactement la même longueur que le tissu auquel il sera cousu.
  - Coudre les 6 cm restants de votre biais.
