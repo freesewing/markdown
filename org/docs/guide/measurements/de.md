@@ -10,5 +10,5 @@ Wir haben ein paar Indikatoren hinzugefügt, die Ihnen helfen sollen, Fehler ode
  - We include [estimates for your different measurements][2], and highlight those measurements where a person differs significantly from the estimate
  - Your models show [a graph of their body measurements][2] in comparison to our standard sizes
 
-[2]: /docs/guides/measurements/graph/
-[2]: /docs/guides/measurements/graph/
+[2]: /docs/guide/measurements/graph/
+[2]: /docs/guide/measurements/graph/

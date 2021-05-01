@@ -10,5 +10,5 @@ Nous avons ajouté quelques indicateurs pour vous aider à repérer des erreurs 
  - Nous incluons des[estimations pour vos différentes mesures][2], et mettons en évidence les mesures où votre modèle diffère considérablement de l'estimation
  - Vos modèles montrent [un graphique de leurs mesures corporelles][2] par rapport à nos tailles standards
 
-[2]: /docs/guides/measurements/graph/
-[2]: /docs/guides/measurements/graph/
+[2]: /docs/guide/measurements/graph/
+[2]: /docs/guide/measurements/graph/
