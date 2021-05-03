@@ -13,7 +13,7 @@ websites.
 
 You should only update English content via this repository. Translation is handled
 via [Crowdin](https://crowdin.com/project/fs-markdown).  
-See the [documentation for translators](https://freesewing.dev/guides/translator/) for more info.
+See the [documentation for translators](https://freesewing.dev/translators/) for more info.
 
 ## About FreeSewing 💀
 
@@ -33,7 +33,7 @@ our [API reference](https://freesewing.dev/api),
 as well as [our turorial](https://freesewing.dev/tutorial),
 and [best practices](https://freesewing.dev/do).
 
-If you're a maker, checkout [freesewing.org](https://freesewing/) where you can generate
+If you're a maker, checkout [freesewing.org](https://freesewing.org) where you can generate
 our sewing patterns adapted to your measurements.
 
 ## Support FreeSewing: Become a patron 🥰
