@@ -278,7 +278,7 @@ Sew on those buttons.
 
 If you'd like, you can pick-stitch around the edges of your waistcoat.
 
-Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches it surface for a few threads. You've certainly seen it as a finish on suit jackets.
+Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches surface for a few threads. You've certainly seen it as a finish on suit jackets.
 
 > You can pick-stitch with thread of the same colour, or use a contrasting colour of you're feeling bold.
 

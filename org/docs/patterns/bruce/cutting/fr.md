@@ -1,4 +1,4 @@
-Bruce se compose d'un dos, et de deux côtés, inserts et devants.
+Bruce consists of a back, and two sides, insets and fronts.
 
  - **Tissu principal**
    - Couper **1 dos** au pli

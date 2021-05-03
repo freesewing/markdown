@@ -1,4 +1,4 @@
-Bruce bestaat uit een achterkant, twee zijkanten, inzetstukken en voorkanten.
+Bruce consists of a back, and two sides, insets and fronts.
 
  - **Buitenstof**
    - Cut **1 back** on the fold

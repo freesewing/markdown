@@ -1,4 +1,4 @@
-Bruce consist of a back, and two sides, insets and fronts.
+Bruce consists of a back, and two sides, insets and fronts.
 
  - **Main fabric**
    - Cut **1 back** on the fold
