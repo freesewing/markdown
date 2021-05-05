@@ -3,7 +3,7 @@ title: shiftFractionAlong()
 ---
 
 ```js
-Point path.shiftFractionAlong(float fraction)
+Point path.shiftFractionAlong(float fraction[, int stepsPerMm=25])
 ```
 
 Returns a point that lies at fraction of the length of the path travelled along the path.
@@ -41,3 +41,16 @@ points.x2 = paths.example
 snippets.xl = new Snippet("notch", points.x1);
 snippets.x2 = new Snippet("notch", points.x2);
 ```
+
+<Note>
+
+##### The second parameter is optional
+
+The second parameter controls the precision by which the path will be *walked*.
+By default, we'll divide it into 25 steps per mm.
+
+If you don't need that precision, you can pass a lower number.
+But for most cases, you can just ignore it.
+
+</Note>
+
