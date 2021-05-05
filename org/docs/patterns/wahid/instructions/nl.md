@@ -276,7 +276,7 @@ Naai de knopen aan.
 
 Als je wil kan je een doorpitsteek rond de randen van je gilet gebruiken.
 
-Een doorpitsteek wordt met de hand gemaakt. Je maakt een eenvoudige steek een paar mm van de randen van je gilet, maar maakt je steekje maar voor een paar draadjes aan de buitenkant zichtbaar. Je hebt dit sowieso al gezien als een afwerking aan kostuumjasjes.
+Een doorpitsteek wordt met de hand gemaakt. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches surface for a few threads. Je hebt dit sowieso al gezien als een afwerking aan kostuumjasjes.
 
 > Je kan de doorpitsteek maken met garen van dezelfde kleur, of een contrasterende kleur gebruiken als je eens gek wil doen.
 
