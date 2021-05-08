@@ -25,7 +25,7 @@ measurements: ["head"],
 
 Make sure to re-use the names of existing measurements, rather than invent your own.
 
-See our [best practices](/guides/best-practices/names#re-use-measurements) on this topic for details.
+See our [best practices](/guides/best-practices/reuse-measurements) on this topic for details.
 
 </Tip>
 
@@ -33,7 +33,7 @@ Now everybody knows your pattern requires the `head` measurement.
 
 This change will also get picked up by the development environment, and you'll now see this screen:
 
-![This screen tells you you are missing some required measurments](./required-measurements.png)
+![This screen tells you you are missing some required measurements](./required-measurements.png)
 
 Since it's just one measurements, let's simply enter a value by hand. 
 For example `38` as 38cm is a realistic head circumference measurement for a baby.
