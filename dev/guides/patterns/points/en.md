@@ -26,7 +26,7 @@ Together, these coordinates determine the location of the point in the 2-dimensi
 <Note>
 
 Points are unlikely to confuse you. The only gotcha is [the
-coordinate system](/guides/basics/coordinate-system/) which has a Y-axis that is inverted to what you 
+coordinate system](/guides/prerequisites/coordinate-system/) which has a Y-axis that is inverted to what you 
 may intuitively expect.
 
 </Note>
