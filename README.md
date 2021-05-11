@@ -1,6 +1,6 @@
 ![FreeSewing](https://freesewing.org/banner.jpg)
 <p align="center">
-  <a href="https://gitter.im/freesewing/help"><img src="https://badgen.net/badge/chat/on%20Gitter/cyan" alt="Chat on Gitter"></a>
+  <a href="https://chat.freesewing.org" title="Chat with us on Discord"><img src="https://img.shields.io/discord/698854858052075530?label=Chat%20on%20Discord" alt="Chat with us on Discord"/></a>
   <a href="https://freesewing.org/patrons/join"><img src="https://badgen.net/badge/become/a%20Patron/FF5B77" alt="Become a Patron"></a>
 </p>
 
@@ -30,7 +30,7 @@ npm init freesewing-pattern
 The [getting started](https://freesewing.dev/start) section on [freesewing.dev](https://freesewing.dev/) is a good
 entrypoint to our documentation, but you'll find a lot more there, including
 our [API reference](https://freesewing.dev/api),
-as well as [our turorial](https://freesewing.dev/tutorial),
+as well as [our tutorial](https://freesewing.dev/tutorial),
 and [best practices](https://freesewing.dev/do).
 
 If you're a maker, checkout [freesewing.org](https://freesewing.org) where you can generate
@@ -48,7 +48,7 @@ should [become a patron](https://freesewing.org/patrons/join).
 
  - 💻 Makers website: [freesewing.org](https://freesewing.org)
  - 💻 Developers website: [freesewing.dev](https://freesewing.dev)
- - 💬 Chat: [gitter.im/freesewing](https://gitter.im/freesewing/chat)
+ - 💬 Chat: On Discord via [https://chat.freesewing.org/](chat.freesewing.org)
  - 🐦 Twitter: [@freesewing_org](https://twitter.com/freesewing_org)
  - 📷 Instagram: [@freesewing_org](https://instagram.com/freesewing_org)
 
@@ -59,7 +59,7 @@ See [the license file](https://github.com/freesewing/freesewing/blob/develop/LIC
 
 ## Where to get help 🤯
 
-Our [chatroom on Gitter](https://gitter.im/freesewing/chat) is the best place to ask questions,
+Our [chatroom on Discord](https://chat.freesewing.org/) is the best place to ask questions,
 share your feedback, or just hang out.
 
 If you want to report a problem, please [create an issue](https://github.com/freesewing/freesewing/issues/new).
