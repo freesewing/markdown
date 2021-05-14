@@ -12,9 +12,9 @@ about: Adding multiple snippets doesn't need to be a chore with this handy macro
 
 </Note>
 
-Adding multiple snippets of the same time result in a lot of repetetive code.
+Adding multiple snippets at the same time results in a lot of repetitive code.
 
-Better to use the `sprikle` macro instead:
+Better to use the `sprinkle` macro instead:
 
 ```js
 macro('sprinkle', {
