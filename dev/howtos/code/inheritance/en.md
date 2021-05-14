@@ -33,7 +33,7 @@ Sorcha.prototype.draftBase = function(part) {
 
 <Warning>
 
-Because we're using to the `this` keyword here, you cannot use the arrow notation.
+Because we're using the `this` keyword here, you cannot use the arrow notation.
 
 </Warning>
 
