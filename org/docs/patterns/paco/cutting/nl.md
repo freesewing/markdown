@@ -13,7 +13,7 @@ Als een patroondeel niet is afgedrukt, betekent dit dat je het niet nodig hebt.
     - 2x **deel 4**: Dit is de enkelboord. Knip deze uit je **buitenstof** _aan de stofvouw_ (niet nodig als je geen elastische zoom wil)
     - 2x **deel 7**: Dit is de paspel voor de achterzak. Knip 2 van deze uit je **buitenstof** met _goede kanten op elkaar_
   - Uit je voeringsstof:
-    - 1x **deel 5**: Dit is het voorste zakdeel. Knip deze _aan de stofvouw_ van je **voeringsstof** (niet nodig als je geen voorzakken wil)
+    - 2x **deel 5**: Dit is het voorste zakdeel. Knip deze _aan de stofvouw_ van je **voeringsstof** (niet nodig als je geen voorzakken wil)
     - 2x **deel 6**: Dit is het achterste zakdeel. Knip 2 van deze uit je **voeringsstof** _aan de stofvouw_
   - Uit tussenvoering:
     - 2x **deel 8**: Dit is de versteviging van de paspel voor de achterzak. Knip 2 van deze uit **tussenvoering**

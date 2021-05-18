@@ -13,7 +13,7 @@ If a pattern part is not printed, it means you don't need it.
     - 2x **part 4**: This is the ankle cuff. Cut these, from your **main fabric** _on the fold_ (not needed if your chose not to have an elasticated hem)
     - 2x **part 7**: This is the back pocket welt. Cut 2 of these from your **main fabric** with _good sides together_
   - From your lining fabric:
-    - 1x **part 5**: This is the front pocket bag. Cut these, from your **lining fabric** _on the fold_ (not needed if your chose to not have front pockets)
+    - 2x **part 5**: This is the front pocket bag. Cut these, from your **lining fabric** _on the fold_ (not needed if your chose to not have front pockets)
     - 2x **part 6**: This is the back pocket bag. Cut 2 of these from your **lining fabric** _on the fold_
   - From interfacing:
     - 2x **part 8**: This is the back pocket welt interfacing. Cut 2 of these from **interfacing**
