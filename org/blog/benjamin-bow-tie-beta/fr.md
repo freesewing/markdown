@@ -1,6 +1,6 @@
 ---
 date: 2017-11-14
-title: "The Benjamin Bow Tie pattern is now available in beta. And I didn't even have to do anything."
+title: "Le patron du noeud papillon Benjamin est maintenant disponible en version bêta. Et je n'ai rien eu à faire."
 linktitle: "The Benjamin Bow Tie is now available in beta"
 img: bowtie.jpg
 caption: "If you like it, put a bow on it"
