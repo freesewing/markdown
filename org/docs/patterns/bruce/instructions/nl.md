@@ -10,7 +10,7 @@ Serge them together, taking into account that the seam allowance is 1cm. So aim 
 
 > If metric is not your bag, 1 cm is 3/8 inch.
 
-> Some sergers have a a lever to choose between flat seams, or bundled up seams. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
+> Some sergers have a lever to choose between flat seams, or bundled up seams. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
 
 ### Step 2: Join back to second side
 
@@ -24,7 +24,7 @@ Serge them together, as you did on the other side.
 
 ### Step 3: Join first inset and fronts
 
-![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until your reach the other end](step03-c.png)
+![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until you reach the other end](step03-c.png)
 
 Joining the inset (piece 4) with the fronts (piece 2) requires you to serge them together across their curvy edges.
 
@@ -38,7 +38,7 @@ As you move along, manipulate the fabric to make sure both edges stay on top of 
 
 As you manipulate the fabric to get it aligned properly, it's easy to stretch one part more than the other. The notch in the curved edge can help you make sure you're keeping things even.
 
-Once you've passed the notch, things will get easier. This would also be a good time to compare the remaining lenght of the curved seams. If one is a bit longer than the other, simply stretch the shorter one until they match up.
+Once you've passed the notch, things will get easier. This would also be a good time to compare the remaining length of the curved seams. If one is a bit longer than the other, simply stretch the shorter one until they match up.
 
 If the difference is too big however, just leave it. It will get get cut off when we do the crotchseam.
 
@@ -111,7 +111,7 @@ The seam stops halfway through (where the dart ends) but your topstitching shoul
 ### Step 7: Join the first side to the fronts
 ![Join the first side to the fronts](step07.png)
 
-Align the side edge of the first side with the edge make up of the fronts+inset (good sides together as usual) and serge them together.
+Align the side edge of the first side with the edge made up of the fronts+inset (good sides together as usual) and serge them together.
 
 ### Step 8: Join the second side to the fronts
 ![Join the second side to the fronts](step08.png)
@@ -164,7 +164,7 @@ Sew both ends of your elastic together with good sides together.
 <Note>
 
 ###### Not sure how much elastic you need?
-Simply wrap your elastic around your waist where it would end up sitting, and tighten it until if feels right.
+Simply wrap your elastic around your waist where it would end up sitting, and tighten it until it feels right.
 Make a mark of where the edge joins, add 2cm seam allowance, and that's your length.
 
 </Note>
@@ -183,9 +183,9 @@ If you're using a coverlock, put the elastic on top of the good side of the fabr
 The length of your elastic will probably difffer from the fabric length, as they stretch differently.
 Pinning will help you achieve an even stretch.
 
-Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these point.
+Divide both your elastic and boxer waistline into 4 (or 8) parts. Pin elastic and fabric together at these points.
 
-While sewing, stretch elastic and fabric together between each set of pins, removing the pins as your move on.
+While sewing, stretch elastic and fabric together between each set of pins, removing the pins as you move on.
 
 </Tip>
 
