@@ -10,7 +10,7 @@ Serge them together, taking into account that the seam allowance is 1cm. So aim 
 
 > If metric is not your bag, 1 cm is 3/8 inch.
 
-> Some sergers have a lever to choose between flat seams, or bundled up seams. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
+> Algunos sergueros tienen una palanca para elegir entre costuras planas o costuras empaquetadas. If you plan to topstitch later (see Step 6), make sure to choose flat seams.
 
 ### Step 2: Join back to second side
 
@@ -24,7 +24,7 @@ Serge them together, as you did on the other side.
 
 ### Step 3: Join first inset and fronts
 
-![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Until you reach the other end](step03-c.png)
+![Start at one end](step03-a.png) ![Continue to align the pieces as you move on](step03-b.png) ![Hasta llegar al otro extremo](step03-c.png)
 
 Joining the inset (piece 4) with the fronts (piece 2) requires you to serge them together across their curvy edges.
 
@@ -38,7 +38,7 @@ As you move along, manipulate the fabric to make sure both edges stay on top of 
 
 As you manipulate the fabric to get it aligned properly, it's easy to stretch one part more than the other. The notch in the curved edge can help you make sure you're keeping things even.
 
-Once you've passed the notch, things will get easier. This would also be a good time to compare the remaining length of the curved seams. If one is a bit longer than the other, simply stretch the shorter one until they match up.
+Once you've passed the notch, things will get easier. También sería un buen momento para comparar la longitud restante de las costuras curvas. If one is a bit longer than the other, simply stretch the shorter one until they match up.
 
 If the difference is too big however, just leave it. It will get get cut off when we do the crotchseam.
 
