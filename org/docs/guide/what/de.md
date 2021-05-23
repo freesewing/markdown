@@ -3,7 +3,7 @@ title: What is FreeSewing?
 order: 100
 ---
 
-[FreeSewing is an open source software project](https://github.com/freesewing/) with the aim of becoming the Wikipedia of sewing patterns.
+[FreeSewing ist ein Open-Source Software-Projekt](https://github.com/freesewing/) mit dem Ziel, die Wikipedia der Schnittmuster zu werden.
 
 We provide a [core library](https://www.npmjs.com/package/@freesewing/core) for parametric pattern design, an ever-growing [library of designs](/designs/) implemented in code, as well as a bunch of adjacent tools for building modern interfaces on top of our platform.
 
