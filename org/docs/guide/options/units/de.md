@@ -1,13 +1,13 @@
 ---
-title: Units
+title: Einheiten
 ---
 
-This controls the units used (by the text) on the pattern.
+Dies liegt die Einheiten fest, die (im Text) auf dem Schnittmuster verwendet werden.
 
-Freesewing supports two types of units:
+Freesewing unterstützt zwei Arten von Einheiten:
 
- - Metric units (cm)
- - Imperial units (inch)
+ - Metrische Einheiten (cm)
+ - Imperiale Einheiten (cm)
 
 You can configure your default units in your account settings.  
 In addition, you can set the units individually for each model.  
