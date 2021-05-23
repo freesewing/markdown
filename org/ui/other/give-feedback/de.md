@@ -6,9 +6,9 @@ title: Feedback geben
 
 ##### Gib uns dein Feedback
 
-Wir würden uns freuen zu hören, was du anFreeSewing liebst (oder hasst).
+Wir würden uns freuen zu hören, was du an FreeSewing liebst (oder hasst).
 
-Please [join our chat room](https://chat.freesewing.org/) and share your thoughts.
+[Trete unserem Chatroom bei](https://chat.freesewing.org/) und sag uns was du denkst.
 
 </Note>
 
