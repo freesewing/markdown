@@ -1,7 +1,7 @@
 ---
-title: Seat circumference
+title: Gesäßumfang
 ---
 
-The **seat circumference** is the measurement around the fullest part of your bum.
+Der **Gesäßumfang** ist der Umfang des vollsten Teils deines Hinterns.
 
-To measure your **seat circumference**, run the tape measure around your bum at the fullest part. Make sure to keep the tape measure horizontal while doing so. In other words, parallel to the floor.
+Um deinen **Gesäßumfang** zu messen, wickel das Maßband um den breitesten Teil deines Hinterns. Stell sicher, dass das Maßband währenddessen horizontal bleibt. In other words, parallel to the floor.
