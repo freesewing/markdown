@@ -2,9 +2,9 @@
 title: Sharing links
 ---
 
-Let the world know about FreeSewing. You can link to any specific page, or to the homepage: https://freesewing.org/
+Let the world know about FreeSewing. Du kannst auf eine bestimmte Seite oder auf die Homepage verlinken: https://freesewing.org/
 
-You can use the images below, and make sure to [use the relevant hashtags](/community/hashtags/).
+Du kannst die folgenden Bilder verwenden, und achte darauf, [die entsprechenden Hashtags](/community/hashtags/) zu benutzen.
 
 <img src="/share/en.wide.png" alt="We Are FreeSewing" style="max-height: 25vh;" class="shadow" />
 
