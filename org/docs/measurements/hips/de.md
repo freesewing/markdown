@@ -1,7 +1,7 @@
 ---
-title: Hips circumference
+title: Hüftumfang
 ---
 
-The **hips circumference** is measured at the top of your hipbones.
+Der **Hüftumfang** wird an der obersten Stelle deiner Hüftknochen gemessen.
 
-To measure your **hips circumference** put a tape measure around your body at the height of your hip bone.
+Um deinen **Hüftumfang** zu messen, lege ein Maßband auf der Höhe deiner Hüftknochen um deinen Körper.
