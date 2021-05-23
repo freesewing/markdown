@@ -1,7 +1,7 @@
 ---
-title: Chest circumference
+title: Brustumfang
 ---
 
-The **chest circumference** measurement wraps around the fullest part of your chest.
+Der **Brustsumfang** ist der Umfang des breitesten Teils deines Brust.
 
-To measure your chest circumference, wrap the tape measure around your chest at the fullest part. Make sure to keep the tape measure horizontal (parallel to the floor).
+Um deinen Brustumfang zu messen, wickel das Maßband um den breitesten Teil deiner Brust. Stell sicher, dass das Maßband horizontal (parallel zum Boden) bleibt.
