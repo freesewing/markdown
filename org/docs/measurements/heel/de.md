@@ -1,5 +1,5 @@
 ---
-title: Heel circumference
+title: Fersenumfang
 ---
 
 The **heel circumference** measurement is the narrowest measurment a trouser leg can be so you can still get in to it.
