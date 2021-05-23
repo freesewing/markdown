@@ -9,4 +9,4 @@ Wir bieten eine [Core-Bibliothek](https://www.npmjs.com/package/@freesewing/core
 
 We are not interested in fashion, trends, or publishing the hot new pattern of the season. Stattdessen wollen wir Macher stärken, indem wir das Wissen der Näh-Community zu parametrischen Designs + Dokumentationen destillieren und diese Informationen frei zur Verfügung stellen.
 
-FreeSewing is built by [contributors](/community/who/contributors/) who are all volunteers, and financially supported by [our Patrons](/community/who/patrons/).
+FreeSewing wird von [freiwilligen Mitwirkenden](/community/who/contributors/) aufgebaut, die von [unseren Förderern](/community/who/patrons/) finanziell unterstützt werden.
