@@ -20,10 +20,10 @@ Klingt das gut? Dann fangen wir einfach direkt an:
 
 <Tip>
 
-##### You don't have to read everything
+##### Du musst nicht alles lesen
 
-Feel free to click around to the parts that are most relevant to you. 
-This guide is more reference than story.
+Klicke einfach herum und schau dir die Teile an, die für dich am relevantesten sind. 
+Diese Anleitung ist eher eine Referenz als eine Geschichte.
 
 </Tip>
 [1]: /docs/guide/what/
