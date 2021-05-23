@@ -3,5 +3,5 @@
 
 ### Für Designer
 
-Finden Sie heraus, wie parametrisches Design sich abhebt und was das für Sie als Designer bedeutet
+Finde heraus, was so besonders an parametrischem Design ist und was das für dich als Designer bedeutet
 
