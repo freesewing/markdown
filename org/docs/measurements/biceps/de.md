@@ -1,7 +1,7 @@
 ---
-title: Biceps circumference
+title: Bizepsumfang
 ---
 
-The **biceps circumference** measurement goes around the fullest part of your upper arm.
+Der **Bizepsumfang** ist der Umfang des breitesten Teils deines Oberarmes.
 
-To measure your Biceps circumference, run the tape measure around the fullest part of your upper arm.
+Um den Umfang deines Bizeps zu messen, wickel das Maßband um den breitesten Teil deines Oberarmes.
