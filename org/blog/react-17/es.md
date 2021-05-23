@@ -1,6 +1,6 @@
 ---
 date: 2021-05-22
-title: FreeSewing 2.26 comes with React 17 and Webpack 5
+title: FreeSewing 2.16 comes with React 17 and Webpack 5
 img: student.jpg
 caption: "Hat-tip to nappy.co for the picture"
 author: joost
