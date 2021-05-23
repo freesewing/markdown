@@ -10,7 +10,7 @@ Assemblez-les ensemble à la surjeteuse, en tenant compte d'une marge de couture
 
 > Pour ceux dont la mesure métrique n'est pas la tasse de thé : 1 cm correspond à 3/8 pouce.
 
-> Certaines surjeteuses ont une manette permettant de choisir entre coutures plates et coutures roulottées. Si vous prévoyez de surpiquer plus tard (voir Étape 6), assurez-vous de choisir des coutures plates.
+> Some sergers have a lever to choose between flat seams, or bundled up seams. Si vous prévoyez de surpiquer plus tard (voir Étape 6), assurez-vous de choisir des coutures plates.
 
 ### Étape 2 : Assembler le dos et le second côté
 
@@ -24,7 +24,7 @@ Assemblez-les ensemble à la surjeteuse, comme précédemment.
 
 ### Étape 3 : Assembler le premier insert et les devants
 
-![Commencer à une extrémité](step03-a.png) ![Maintenez les pièces alignées au fur et à mesure que vous avancez](step03-b.png) ![Jusqu'à atteindre l'autre bout](step03-c.png)
+![Commencer à une extrémité](step03-a.png) ![Maintenez les pièces alignées au fur et à mesure que vous avancez](step03-b.png) ![Until you reach the other end](step03-c.png)
 
 Assemblez l'insert (pièce 4) avec les devants (pièce 2) à la surjeteuse sur leurs bords courbes.
 
@@ -38,7 +38,7 @@ Au fur et à mesure que vous avancez, maintenez les deux bords du tissu l'un sur
 
 Lorsque vous maintenez les bords du tissu alignés, vous risquez d'étirer un côté plus que l'autre. Le repère sur le bord courbe peut vous aider à éviter cela.
 
-Après le repère, les choses seront plus faciles. C'est le moment de comparer la longueur restante des coutures courbes. Si l'une est un peu plus longue que l'autre, étirez un peu la plus courte jusqu'à ce qu'elles correspondent.
+Après le repère, les choses seront plus faciles. This would also be a good time to compare the remaining length of the curved seams. Si l'une est un peu plus longue que l'autre, étirez un peu la plus courte jusqu'à ce qu'elles correspondent.
 
 Si la différence est trop grande, laissez-la tout simplement. L'excédent sera coupé quand nous ferons la couture d'entrejamble.
 
@@ -111,7 +111,7 @@ La couture s’arrête à mi-chemin (là où se termine la pince), mais votre su
 ### Étape 7 : Assembler le premier côté et les devants
 ![Assemblez le premier côté et les devants](etape 7)
 
-Alignez le bord latéral du premier côté avec le bord de l'ensemble devants+ insert (endroit contre endroit, comme d'habitude) et cousez les ensemble à la surjeteuse.
+Align the side edge of the first side with the edge made up of the fronts+inset (good sides together as usual) and serge them together.
 
 ### Étape 8 : Assembler le second côté et les devants
 ![Assembler le second côté et les devants](step08.png)
@@ -164,7 +164,7 @@ Cousez les deux extrémités de votre élastique ensemble endroit contre endroit
 <Note>
 
 ###### Combien d'élastique me faut-il ?
-Entourez simplement votre élastique autour de votre taille, là où vous porterez votre boxer, et serrez un peu jusqu'à ce que cela vous convienne.
+Simply wrap your elastic around your waist where it would end up sitting, and tighten it until it feels right.
 Marquez l'endroit où les bords se rejoignent, ajoutez une marge de couture de 2cm, et c'est votre longueur d'élastique.
 
 </Note>
@@ -183,9 +183,9 @@ Si vous utilisez un point overlock, placez l'élastique sur l'endroit, en haut d
 La longueur de votre élastique sera plus courte que celle de la taille du boxer, l'élastique devra donc être étiré.
 Epingler vous aidera à bien répartir l'étirement.
 
-Divisez votre élastique et la taille de votre boxer en 4 (ou 8) parties. Epinglez élastique et tissu ensemble.
+Divisez votre élastique et la taille de votre boxer en 4 (ou 8) parties. Pin elastic and fabric together at these points.
 
-Cousez tout en étirant l'élastique entre 2 épingles, en enlevant les épingles au fur et à mesure.
+While sewing, stretch elastic and fabric together between each set of pins, removing the pins as you move on.
 
 </Tip>
 
