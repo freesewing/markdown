@@ -39,11 +39,11 @@ Theo wird mit 4 Sternen auf unserer Schwierigkeitsskala eingestuft, und ich habe
 
 Charlie ist ein Unisex-Schnitt und die Taschen sind echt. Das hast hinten Paspeltaschen, und schräge Taschen vorne. In beiden Fällen hast du die Kontrolle darüber, wie groß und tief die Taschen sind.
 
-Die vorderen Taschen verdienen eine gesonderte Erwähnung. They look like traditional slanted pockets, but are set in on the side seam. To make that possible, the back panel of the trousers wraps around the front, following the pocket slant.
+Die vorderen Taschen verdienen eine gesonderte Erwähnung. Sie sehen zwar aus wie traditionelle, schräg angesetzte Taschen, liegen aber in der Seitennaht. Damit das möglich ist, erstreckt sich ein Teil des hinteren Stoffstückes nach vorne, dem Winkel der Hosentasche folgend.
 
-## Other 2.15 news
+## Andere Neuigkeiten zu 2.15
 
-Charlie is the main act, but there's a lot of work that went in this 2.15 release.
+Charlie ist der Hauptakt, aber in dieser 2.15 Version steckt eine ganze Menge Arbeit.
 
 As always, [the changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) has all the details, but allow me to highlight some of the more noteworthy changes:
 
