@@ -53,8 +53,8 @@ Wie immer finden sich [im Changelog](https://github.com/freesewing/freesewing/bl
  - Das [Logo-Plugin](https://freesewing.dev/reference/plugins/logo/) unterstützt nun den dunklen Modus
  - Titan und Paco haben eine neue `waistbandHeight`-Option
  - Punktkoordinaten werden nicht mehr vom Core gerundet, um zu vermeiden, dass [path.split](https://freesewing.dev/reference/api/path/split/) nicht trifft
- - [Bella](/designs/bella/) has a fix to the shoulder to better accommodate doll-sized clothing
- - [Charlie](/designs/charlie/) is the first pattern to list some of the absolute dimensions when configuring a pattern, but we plan to extend this to other designs We have documented [the new raise methods](https://freesewing.dev/reference/api/part/raise) for designers who want to utilize this feature.
- - Speaking of documentation, the examples in our [documentation for developers](https://freesewing.dev/) now allows you to toggle a switch to reveal the points and paths in the examples
- - The [part.getId()](https://freesewing.dev/reference/api/part/getid/) method now takes a prefix argument
+ - [Bella](/designs/bella/) hat einen Bug-Fix an der Schulter bekommen, um Puppenkleidung besser zu unterstützen
+ - [Charlie](/designs/charlie/) ist das erste Schnittmuster, das ein paar absolute Dimensionen während der Konfiguration anzeigt. Wir haben vor, das auf weitere Schnittmuster auszudehnen. Designer, die dieses Feature nutzen wollen, finden die neuen [raise-Methoden](https://freesewing.dev/reference/api/part/raise) in der Dokumentation.
+ - Wo wir schon bei der Dokumentation sind, die Beispiele in unserer [Dokumentation für Entwickler](https://freesewing.dev/) erlaubt es dir nun, dir die Punkte und Pfade in den Beispielen per Knopfdruck anzeigen zu lassen
+ - Die [part.getId()](https://freesewing.dev/reference/api/part/getid/)-Methode verwendet nun ein Präfix-Argument
 
