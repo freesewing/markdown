@@ -82,9 +82,9 @@ This script will prompt you for certain options. Only "Pattern name" is mandator
  - **Package manager**: Choose either `npm` or `yarn` as your package manager. If you're not sure, pick `npm`.
 
 ### Start the development environment (WSL)
-After this process completes you will be ready to run the development environment. In the current terminal (or a new window if you prefer) you will need to build the package. Navigate to the folder you created during the previous step (whatever you provided for the "Pattern name" option) and run `npm start` or `yarn start` depending on the build system you chose. This will build the pattern package which is used by the development instance.
+After this process completes you will be ready to run the development environment. 
 
-Next, open a new terminal window and navigate to the `example` folder inside this folder. Run `npm start`/`yarn start` again to build the example application and start a local web server instance so you can test your changes.
+Navigate to the `example` folder and run `npm start`/`yarn start` to launch the development environment.
 
 <Note>
 Your browser will not automatically open if you are running the freesewing example application inside the WSL environment. You will need to navigate to the URL shown in your browser manually (your terminal may let you click on the link to open it).
