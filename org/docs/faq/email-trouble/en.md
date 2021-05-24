@@ -12,7 +12,7 @@ we can help you activate your account.
 
 ##### Users in France are more likely to run into this problem
 
-In France, several E-mail providers share the same filtering:
+In in France, several E-mail provider share the same filtering:
 
  - free.fr
  - laposte.net
