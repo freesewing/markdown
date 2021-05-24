@@ -1,11 +1,11 @@
 ---
-title: Configuring your pattern
+title: Konfiguriere dein Schnittmuster
 order: 998
 ---
 
-When you [create a pattern](/create/) there are two important groups of things you can tweak:
+Wenn du [ein Schnittmuster erstellst](/create/), gibt es zwei wichtige Gruppen von Dingen, die du anpassen kannst:
 
- - Die **Designoptionen** sind Optionen, die der/die Designer/in dem Schnittmuster hinzugefügt hat. Typically style and fit choices.
- - The **pattern options** are a set of options that come with the platform, and are available for all patterns. Hier ist eine vollständige Liste:
+ - Die **Designoptionen** sind Optionen, die der/die Designer/in dem Schnittmuster hinzugefügt hat. Typischerweise Stil und Sitz/Passform.
+ - Die **Schnittmusteroptionen** sind eine Reihe an Optionen, die durch die Plattform erstellt werden und für alle Muster zur Verfügung stehen. Hier ist eine vollständige Liste:
 
 <ReadMore list />
