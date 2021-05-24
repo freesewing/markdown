@@ -31,15 +31,15 @@ Trotzallem werden wir Theo weiter zur Verfügung stellen. Veraltet bedeutet nur,
 
 ##### Einfacher zu fertigen
 
-Another reason to opt for Charlie rather than Theo: Charlie is easier to make. It has a more straight-forward fly and waistband construction, and the front pockets have been cleverly designed to give you the ease of construction that comes with side-seam pockets, yet the classic look of slanted pockets.
+Ein weiterer Grund um sich für Charlie statt für Theo zu entscheiden: Charlie ist einfacher zu fertigen. Der Schnitt hat eine unkompliziertere Konstruktionsmethode für den Hosenstall und -bund, und die vorderen Taschen wurden so clever designt, dass sie in den Seitennähten und dadurch viel einfacher zu nähen sind, aber dennoch den klassischen Look von schräg angesetzten Taschen haben.
 
-Theo ranks 4 stars on our difficulty scale, and I've given Charlie 3 stars. If you were afraid of making trousers, this might be the pattern you've been waiting for.
+Theo wird mit 4 Sternen auf unserer Schwierigkeitsskala eingestuft, und ich habe Charlie 3 Sterne gegeben. Wenn du Angst davor hattest, Hosen zu machen, könnte dies das Schnittmuster sein, auf das du gewartet hast.
 
-##### Real pockets
+##### Echte Taschen
 
-Charlie is a unisex pattern and the pockets are real. You have welt (aka jetted) pockets at the back, and slanted pockets at the front. In both cases, you have control over the size and depth of the pockets.
+Charlie ist ein Unisex-Schnitt und die Taschen sind echt. Das hast hinten Paspeltaschen, und schräge Taschen vorne. In beiden Fällen hast du die Kontrolle darüber, wie groß und tief die Taschen sind.
 
-The front pockets deserve a special mention. They look like traditional slanted pockets, but are set in on the side seam. To make that possible, the back panel of the trousers wraps around the front, following the pocket slant.
+Die vorderen Taschen verdienen eine gesonderte Erwähnung. They look like traditional slanted pockets, but are set in on the side seam. To make that possible, the back panel of the trousers wraps around the front, following the pocket slant.
 
 ## Other 2.15 news
 
