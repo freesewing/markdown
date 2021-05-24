@@ -45,14 +45,14 @@ Die vorderen Taschen verdienen eine gesonderte Erwähnung. Sie sehen zwar aus wi
 
 Charlie ist der Hauptakt, aber in dieser 2.15 Version steckt eine ganze Menge Arbeit.
 
-As always, [the changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) has all the details, but allow me to highlight some of the more noteworthy changes:
+Wie immer finden sich [im Changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md) alle Details, ich möchte aber ein paar erwähnenswerte Änderungen besonders hervorheben:
 
- - We have [a new bartack plugin](https://freesewing.dev/reference/plugins/bartack/)
- - The [buttons plugin](https://freesewing.dev/reference/plugins/buttons/) provides new [buttonhole-start](https://freesewing.dev/reference/snippets/buttonhole-start) and [buttonhole-end](https://freesewing.dev/reference/snippets/buttonhole-end) snippets
- - The [dimension plugin](https://freesewing.dev/reference/plugins/dimension/) provides a new [rmad macro](https://freesewing.dev/reference/macros/rmad/)
- - The [logo plugin](https://freesewing.dev/reference/plugins/logo/) now supports dark mode
- - Titan and Paco have a new `waistbandHeight` option
- - Core no longer rounds point coordinates to avoid misses when using [path.split](https://freesewing.dev/reference/api/path/split/)
+ - Wir haben [ein neues Plugin für Riegel](https://freesewing.dev/reference/plugins/bartack/)
+ - Das [Knopf-Plugin](https://freesewing.dev/reference/plugins/buttons/) bietet neue [Knopfloch-Beginn](https://freesewing.dev/reference/snippets/buttonhole-start) und [Knopfloch-Ende](https://freesewing.dev/reference/snippets/buttonhole-end) Snippets
+ - Das [Dimensions-Plugin](https://freesewing.dev/reference/plugins/dimension/) stellt ein neues [rmad Makro](https://freesewing.dev/reference/macros/rmad/) zur Verfügung
+ - Das [Logo-Plugin](https://freesewing.dev/reference/plugins/logo/) unterstützt nun den dunklen Modus
+ - Titan und Paco haben eine neue `waistbandHeight`-Option
+ - Punktkoordinaten werden nicht mehr vom Core gerundet, um zu vermeiden, dass [path.split](https://freesewing.dev/reference/api/path/split/) nicht trifft
  - [Bella](/designs/bella/) has a fix to the shoulder to better accommodate doll-sized clothing
  - [Charlie](/designs/charlie/) is the first pattern to list some of the absolute dimensions when configuring a pattern, but we plan to extend this to other designs We have documented [the new raise methods](https://freesewing.dev/reference/api/part/raise) for designers who want to utilize this feature.
  - Speaking of documentation, the examples in our [documentation for developers](https://freesewing.dev/) now allows you to toggle a switch to reveal the points and paths in the examples
