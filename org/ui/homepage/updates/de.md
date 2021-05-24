@@ -20,5 +20,5 @@ An allen Treffen kann via [meet.freesewing.org](https://meet.freesewing.org/) te
 
 Wir haben unsere Chatrooms nach Discord verschoben. Unser ursprünglicher Chat auf Gitter ist veraltet.
 
-You can join us at https://chat.freesewing.org, or use this in-app Discord invite: https://discord.gg/YDV4GvU
+Du kannst uns auf https://chat.freesewing.org beitreten oder diese in-app Discord-Einladung verwenden: https://discord.gg/YDV4GvU
 
