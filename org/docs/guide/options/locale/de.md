@@ -1,7 +1,7 @@
 ---
-title: Language
+title: Sprache
 ---
 
-This determines the language used on your pattern.
+Legt die für deine Schnittmuster verwendete Sprache fest.
 
-By default, we use the same language as you're using on the website, but if for some reason you want a pattern in a different language, this is where to configure that.
+Standardmäßig verwenden wir dieselbe Sprache wie auf der Webseite, aber wenn aus irgendeinem Grund ein Muster in einer anderen Sprache gewünscht wird, lässt sich das hier einstellen.
