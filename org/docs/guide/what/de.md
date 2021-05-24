@@ -1,5 +1,5 @@
 ---
-title: What is FreeSewing?
+title: Was ist FreeSewing?
 order: 100
 ---
 
