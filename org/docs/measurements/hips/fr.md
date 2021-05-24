@@ -2,6 +2,6 @@
 title: Tour des petites hanches
 ---
 
-Le **tour des petites hanches** est mesuré en haut de vos hanches, 9-10 cm sous la taille.
+The **hips circumference** is measured at the top of your hip bones.
 
 Pour mesurer votre **tour de petites hanches** placez un ruban autour de votre corps à la hauteur des os de votre hanche.
