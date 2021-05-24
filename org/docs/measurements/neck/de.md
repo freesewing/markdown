@@ -1,7 +1,7 @@
 ---
-title: Neck circumference
+title: Halsumfang
 ---
 
-The **neck circumference** is the measurement around your neck, at the level you would wear your shirt collar, or tie.
+Der **Halsumfang** ist das Maß um deinen Hals herum, auf der Höhe, wo du einen Hemdkragen oder eine Krawatte tragen würdest.
 
-To measure your **neck circumference**, wrap the tape measure around your neck where your shirt collar would sit.
+Um deinen **Halsumfang** zu messen, wickel das Maßband an der Stelle um deinen Hals, wo ein Hemdkragen sitzen würde.

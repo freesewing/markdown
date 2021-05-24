@@ -1,5 +1,5 @@
 ---
-title: Your patterns
+title: Deine Schnittmuster
 order: 400
 ---
 
@@ -8,7 +8,7 @@ But it remains ephemeral until you save it to your account, so it becomes one of
 
 Saving your pattern is optional, but it allows you to re-visit the pattern later, make further tweaks to it or simply download the PDF again.
 
-You can save as many patterns as you like.
+Du kannst so viele Schnittmuster erstellen wie du möchtest.
 
 <Tip>
 

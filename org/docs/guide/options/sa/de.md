@@ -2,6 +2,6 @@
 title: Seam allowance
 ---
 
-This controls whether you want _seam allowance_ or not. And, if you want it, how much you want.
+Legt fest, ob du eine _Nahtzugabe_ möchtest oder nicht. Und, wenn du eine willst, wie groß sie sein soll.
 
-This will probably be self-explanatory if you know what seam allowance is. In case you don't, check out [the seam allowance documentation](/docs/sewing/seam-allowance).
+Das ist wahrscheinlich selbsterklärend, wenn du weißt, was eine Nahtzugabe ist. Für den Fall, dass du es nicht weißt, hilft dir die [Dokumentation zur Nahtzugabe](/docs/sewing/seam-allowance) weiter.
