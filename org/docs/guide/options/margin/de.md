@@ -1,5 +1,5 @@
 ---
-title: Margin
+title: Randabstand
 ---
 
-This controls the margin around pattern parts. The default margin is 2mm, but you can change it.
+Steuert den Rand um den Musterteilen. Der standardmäßig eingestellte Randabstand ist 2mm, das lässt sich aber ändern.
