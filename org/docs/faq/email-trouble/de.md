@@ -8,15 +8,15 @@ Versuche es entweder mit einer anderen E-Mail-Adresse, oder [melde dich bei uns]
 
 <Note>
 
-##### Users in France are more likely to run into this problem
+##### Nutzer in Frankreich werden eher mit diesem Problem konfrontiert
 
-In in France, several E-mail provider share the same filtering:
+In Frankreich haben einige E-Mail Provider dieselben Filtereinstellungen:
 
  - free.fr
  - laposte.net
  - organge.fr
  - sfr.fr
 
-They are all known to cause issues with deliveries.
+Diese Provider sind bekannt dafür, Probleme beim Zustellen der Aktivierungsemail zu verursachen.
 
 </Note>
