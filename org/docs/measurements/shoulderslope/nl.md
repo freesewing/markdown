@@ -16,7 +16,8 @@ Bijna iedereen heeft aan beide kanten een licht verschillende schouderhelling.
 Dit is omdat je dominante arm meer uitgesproken is.
 
 Tenzij het verschil heel groot is, maak je je er best geen zorgen over.
-Bij casual kledingstukken zal het niet opvallen, en bij meer formele outfits is het beter om asymmetrische schoudervulling toe te voegen dan een asymmetrisch patroon te maken.
+It won't show up for casual garments, and for formal wear, it's better to add
+asymmetric shoulder padding, rather than create an asymmetric pattern.
 
 </Note>
 
