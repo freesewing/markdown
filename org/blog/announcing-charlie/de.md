@@ -1,15 +1,15 @@
 ---
 date: 2021-04-18
-title: "Charlie Chinos: who wants some new trousers?"
-linktitle: "Announcing the Charlie chino trouser pattern"
+title: "Charlie Chinos: Wer will ein paar neue Hosen?"
+linktitle: "Ankündigung für das Chinohosen-Schnittmuster Charlie"
 img: cover.jpg
-caption: "Photo by Flo Dahm from Pexels"
+caption: "Foto von Flo Dahm von Pexels"
 author: joost
 ---
 
-We've just published FreeSewing v2.15 and it comes with a new pattern: [The Charlie Chinos trouser pattern](/designs/charlie/).
+Wir haben soeben FreeSewing v2.15 veröffentlicht und es kommt mit einem neuen Muster: [Das Charlie Chinohosenmuster](/designs/charlie/).
 
-I have lost track of how long a chino trouser pattern has been on my to-do list, but it's measured in years. I'm very happy I finally landed where I wanted to be.
+Ich habe den Überblick darüber verloren, wie lange ein Chinohosenmuster schon auf meiner To-Do-Liste stand, die verwendete Einheit ist aber sicher Jahre. Ich bin sehr froh, dass ich endlich dort angekommen bin, wo ich hin wollte.
 
 I have a picture of it here, but due to the dark fabric, you can't really make out much:
 
