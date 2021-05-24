@@ -8,15 +8,15 @@ Essayez d'utiliser une adresse mail différente, ou [contactez-nous](https://cha
 
 <Note>
 
-##### Les utilisateurs français sont plus susceptibles de rencontrer ce problème
+##### Users in France are more likely to run into this problem
 
-En France, plusieurs fournisseurs de messagerie partagent le même filtrage :
+In France, several E-mail providers share the same filtering:
 
  - free.fr
  - laposte.net
- - orange.fr
+ - organge.fr
  - sfr.fr
 
-Ils sont tous connus pour causer ces problèmes de réception.
+They are all known to cause issues with deliveries.
 
 </Note>
