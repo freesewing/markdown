@@ -1,9 +1,9 @@
 ---
-title: Your people
+title: Deine Personen
 order: 350
 ---
 
-Once you have an account, you can start adding measurements. But that quickly brings up the next question: what if you want a pattern for you, but also for your partner?
+Sobald du einen Account hast, kannst du damit anfangen, Körpermaße hinzuzufügen. Aber das wirft schnell die Frage auf: Was, wenn du ein Schnittmuster für dich haben willst, aber auch für deine/n Partner/in?
 
 Deswegen haben wir *Personen*.
 
