@@ -9,21 +9,21 @@ author: joost
 
 Wir haben soeben FreeSewing v2.15 veröffentlicht und es kommt mit einem neuen Muster: [Das Charlie Chinohosenmuster](/designs/charlie/).
 
-Ich habe den Überblick darüber verloren, wie lange ein Chinohosenmuster schon auf meiner To-Do-Liste stand, die verwendete Einheit ist aber sicher Jahre. Ich bin sehr froh, dass ich endlich dort angekommen bin, wo ich hin wollte.
+Ich habe den Überblick darüber verloren, wie lange ein Schnittmuster für Chinos schon auf meiner To-Do Liste stand, aber die verwendete Einheit ist sicher Jahre. Ich bin sehr froh, dass ich endlich dort angekommen bin, wo ich hin wollte.
 
-I have a picture of it here, but due to the dark fabric, you can't really make out much:
+Hier ist ein Bild davon, aber durch den dunklen Stoff erkennt man leider nicht so viel:
 
 ![A pair of Charlies by Joost](joost.jpg)
 
-So instead, let me tell you about why I am so excited about this.
+Stattdessen erzähle ich dir lieber, warum ich hierüber so begeistert bin.
 
-##### Based on Titan
+##### Basierend auf Titan
 
-First up, Charlie is based on Titan, our unisex trouser block that is also the foundation for [our Paco pattern](/designs/paco/). So if you're familiar with any of those, you already know how Charlie will fit you.
+Vorweg: Charlie basiert auf Titan, unserem Unisex-Hosengrundschnitt, der auch die Grundlage für [unseren Paco-Schnitt](/designs/paco/) ist. Wenn du also diese Schitte kennst, weißt du schon, wie dir Charlie passen wird.
 
-##### More measurements, more options, better fit
+##### Mehr Körpermaße, mehr Optionen, besserer Sitz
 
-As a token of how much I feel this is an improvement, I've deprecated [Theo](/designs/theo/). Based on an Aldrich draft, Theo uses very few measurements, and while that worked fine for a certain set of people, it's a less versatile pattern.
+Um zu zeigen, für wie groß ich diese Verbesserung halte, habe ich [Theo](/designs/theo/) als veraltet markiert. Based on an Aldrich draft, Theo uses very few measurements, and while that worked fine for a certain set of people, it's a less versatile pattern.
 
 Charlie will adapt better to differently shaped bodies, and has a hell of a lot more options that allow you to configure your trousers so you get them just as you like. In case you're wondering, Theo has 5 options, whereas Charlie has 31.
 
