@@ -11,7 +11,7 @@ Reportez-vous à la [documentation du sommet d'épaule](/docs/measurements/hps/)
 
 </Note>
 
-La mesure de la **hauteur de poitrine** (aussi appelée épaule poitrine) se fait verticalement du sommet de l'épaule jusqu'à la ligne qui forme votre tour de poitrine.
+The **high point shoulder (HPS) to bust** measurement runs from your HPS down to the line that forms your bust span.
 
 Pour mesurer votre hauteur de poitrine, il faut d'abord [localiser le point de votre sommet d'épaule](/docs/measurements/hps/). Mesurez alors de façon verticale la ligne qui va jusqu'à la ligne de votre tour de poitrine.
 
