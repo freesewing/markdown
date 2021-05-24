@@ -23,13 +23,13 @@ Vorweg: Charlie basiert auf Titan, unserem Unisex-Hosengrundschnitt, der auch di
 
 ##### Mehr Körpermaße, mehr Optionen, besserer Sitz
 
-Um zu zeigen, für wie groß ich diese Verbesserung halte, habe ich [Theo](/designs/theo/) als veraltet markiert. Based on an Aldrich draft, Theo uses very few measurements, and while that worked fine for a certain set of people, it's a less versatile pattern.
+Um zu zeigen, für wie groß ich diese Verbesserung halte, habe ich [Theo](/designs/theo/) als veraltet markiert. Da Theo auf der Aldrich-Entwurfsmethode basiert, werden dort nur sehr wenige Körpermaße verwendet. Das funktioniert zwar gut für einige bestimmte Leute, ist aber dadurch nicht sehr vielseitig.
 
-Charlie will adapt better to differently shaped bodies, and has a hell of a lot more options that allow you to configure your trousers so you get them just as you like. In case you're wondering, Theo has 5 options, whereas Charlie has 31.
+Charlie passt sich unterschiedlich geformten Körpern besser an, und hat verdammt viele Optionen, die es dir ermöglichen, deine Hose so zu konfigurieren wie du sie haben willst. Falls du dich fragst: Theo hat 5 Optionen, während es bei Charlie 31 sind.
 
-That being said, we will keep Theo available. Deprecated merely means that we've added a little warning message saying that we recommend Charlie instead.
+Trotzallem werden wir Theo weiter zur Verfügung stellen. Veraltet bedeutet nur, dass wir eine kleine Warnmeldung hinzugefügt haben, die dir sagt, dass wir stattdessen Charlie empfehlen.
 
-##### Easier to make
+##### Einfacher zu fertigen
 
 Another reason to opt for Charlie rather than Theo: Charlie is easier to make. It has a more straight-forward fly and waistband construction, and the front pockets have been cleverly designed to give you the ease of construction that comes with side-seam pockets, yet the classic look of slanted pockets.
 
