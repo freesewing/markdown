@@ -1,7 +1,7 @@
 ---
-title: Measurements graph
+title: Graph für Körpermaße
 ---
 
-Below is an example of a measurements graph. We will generate such a graph for your people as soon as you provide us with their neck circumference.
+Untenstehend ist ein Beispiel eines Graphen für Körpermaße. Wir generieren einen solchen Graph für deine Personen, sobald du uns ihren Halsumfang zur Verfügung stellst.
 
-![Example of a measurements graph](graph.svg)
+![Beispiel für einen Graphen für Körpermaße](graph.svg)
