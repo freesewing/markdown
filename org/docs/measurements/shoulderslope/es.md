@@ -16,8 +16,8 @@ Almost all people have a slightly different shoulder slope on both sides.
 That's because your dominant arm is more pronounced.
 
 Unless the different is huge, best not to worry about it.
-It won't show up for casual garments, and for formal wear, you're better to add
-assymetric shoulder padding, rather than create an asymetric pattern.
+It won't show up for casual garments, and for formal wear, it's better to add
+asymmetric shoulder padding, rather than create an asymmetric pattern.
 
 </Note>
 

@@ -1,21 +1,20 @@
 ---
-title: Notches
+title: Knipse
 ---
 
-There are two types of notches. The default notch is a dot in a circle.
+Es gibt zwei Arten von Knipsen. Der standardmäßige Knips ist ein Punkt in einem Kreis.
 
-An alternative style shows a cross in a circle. This style is used to indicate the back of a garment. For example, on a sleevecap you may see a dot and a cross notch. This way you know which side of the sleevecap is the back (the one with the cross notch).
+Ein alternativer Stil zeigt ein Kreuz in einem Kreis. Dieser Stil wird verwendet, um die Rückseite eines Kleidungsstückes zu markieren. Beispielsweise könntest du an einer Ärmelkugel einen Punkt- und einen Kreuzknips sehen. Auf diese Art und Weise weißt du, welche Seite der Ärmelkugel hinten ist (die Seite mit dem Kreuzknips).
 
 <Legend part="notches" caption="The default notch style (shown left) and alternative style for notches on the back" />
 
 <Tip>
 
-##### Why we chose these notches
+##### Warum wir diese Knipse verwenden
 
-In electromagnetism, a ⊙ symbol is used to indicate a flow of current coming towards you (to the front),
-whereas ⊗ is used for a current moving away from you (to the back).
+Im Elektromagnetismus bedeutet das Symbol ⊙, dass ein Stromfluss auf dich zukommt (aus der Seitenebene heraus), während ⊗ für einen Strom verwendet wird, der sich von dir wegbewegt (in die Seitenebene hinein).
 
-You can also think of an arrow. When an arrow flies towards you, you see its tip (⊙).
-When an arrow flies away from you, you see its fletches (⊗).
+Du kannst dir das auch wie einen Pfeil vorstellen. Wenn ein Pfeil auf dich zufliegt, sieht du seine Spitze (⊙).
+Wenn ein Pfeil von dir wegfliegt, siehst du seine Befiederung (⊗).
 
 </Tip>

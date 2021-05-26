@@ -10,7 +10,7 @@ Either try using a different E-mail address, or [reach out to us](https://chat.f
 
 ##### Users in France are more likely to run into this problem
 
-In in France, several E-mail provider share the same filtering:
+In France, several E-mail providers share the same filtering:
 
  - free.fr
  - laposte.net

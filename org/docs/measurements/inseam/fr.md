@@ -2,6 +2,6 @@
 title: Longueur d'entrejambe
 ---
 
-La longueur d'entrejambe est la mesure de votre fourche jusqu'au sol.
+The **inseam** is the measurement from your crotch down to the floor.
 
-Pour mesurer votre longueur d'entrejambe, mesurez verticalement à partir du point de jonction de vos jambes (au niveau de la fourche) jusqu'au sol.
+To measure your **inseam**, measure down vertically from the point your legs join (at the crotch) down to the floor.

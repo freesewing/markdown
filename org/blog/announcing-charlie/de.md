@@ -13,7 +13,7 @@ Ich habe den Überblick darüber verloren, wie lange ein Schnittmuster für Chin
 
 Hier ist ein Bild davon, aber durch den dunklen Stoff erkennt man leider nicht so viel:
 
-![A pair of Charlies by Joost](joost.jpg)
+![Einmal Charlie von Joost](joost.jpg)
 
 Stattdessen erzähle ich dir lieber, warum ich hierüber so begeistert bin.
 

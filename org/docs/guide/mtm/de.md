@@ -1,21 +1,20 @@
 ---
-title: Made-to-measure sewing patterns
+title: Maßgeschneiderte Schnittmuster
 order: 200
 ---
 
-All of our sewing patterns are **made to measure**.
+Alle unsere Schnittmuster sind **maßgeschneidert**.
 
-We don’t scale or grade patterns. Instead, we draft the pattern to your measurements. That happens in real-time, in your browser.
+Wir skalieren oder gradieren keine Schnittmuster. Stattdessen erstellen wir den Schnitt nach deinen Körpermaßen. Das passiert in Echtzeit, in deinem Browser.
 
 <Note>
 
-##### But you do have sizes?
+##### Aber ihr habt doch Größen?
 
-Generating a made-to-measure sewing pattern requires an account.
-For the casual visitor who stumbles upon our website, that
-adds a lot of friction before they can try out the website.
+Um ein maßgeschneidertes Schnittmuster zu erstellen, brauchst du einen Account.
+Für den/die unbedarfte/n Besucher/in, der/die über unsere Website stolpert, erzeugt das einiges an Aufwand, bevor er/sie die Website ausprobieren kann.
 
-For this reason, we've added standard sizes since version 2.2.  
-We advice against using our standard sizes for actual garment construction.
+Aus diesem Grund haben wir seit Version 2.2 Standardgrößen hinzugefügt.  
+Wir raten davon ab, unsere Standardgrößen für die tatsächliche Konstruktion eines Kleidungsstückes zu verwenden.
 
 </Note>

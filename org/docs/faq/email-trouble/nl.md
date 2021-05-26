@@ -8,15 +8,15 @@ Either try using a different E-mail address, or [reach out to us](https://chat.f
 
 <Note>
 
-#### Gebruikers in Frankrijk stoten vaker op dit probleem.
+##### Users in France are more likely to run into this problem
 
-In Frankrijk delen meerdere e-mailproviders dezelfde filterinstellingen:
+In France, several E-mail providers share the same filtering:
 
  - free.fr
  - laposte.net
- - orange.fr
+ - organge.fr
  - sfr.fr
 
-Alle bovenstaande providers hebben problemen met de aflevering van mail.
+They are all known to cause issues with deliveries.
 
 </Note>
