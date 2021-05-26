@@ -2,9 +2,9 @@
 title: Ich kenne meine Größe, aber euer Schnittmuster passt mir nicht
 ---
 
-Die von uns angebotenen Standardgrößen sollen es dir ermöglichen, unsere Plattform zu entdecken, ohne einen Account erstellen zu müssen. We advise against using them as-is.
+Die von uns angebotenen Standardgrößen sollen es dir ermöglichen, unsere Plattform zu entdecken, ohne einen Account erstellen zu müssen. Wir raten davon ab, sie ohne Anpassung zu verwenden.
 
-Drafting made-to-measure sewing patterns really is *our thing*.  
-If you insist on getting a pattern in a standard size, FreeSewing is not for you.
+Das Erstellen von maßgeschneiderten Schnittmustern ist wirklich *unser Ding*.  
+Wenn du darauf bestehst, ein Schnittmuster in einer Standardgröße zu bekommen, ist FreeSewing wohl leider nichts für dich.
 
-Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) , so you have plenty of alternatives.
+Zum Glück hat Fiona [eine Liste an Indie-Schnittmusterdesignern](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) zusammengestellt, sodass du viele Alternativen hast.
