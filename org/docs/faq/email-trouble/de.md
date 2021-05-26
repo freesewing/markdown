@@ -1,5 +1,5 @@
 ---
-title: Wie kann ich mich registrieren? Ich habe nie eine E-Mail zur Aktivierung meines Kontos erhalten!
+title: Wie kann ich mich registrieren? Ich habe nie eine E-Mail zur Aktivierung meines Accounts erhalten!
 ---
 
 Wenn du die E-Mail nicht erhalten hast, überprüfe deinen Spam/Junk Ordner. Wenn du sie auch dort nicht findest, ist es am wahrscheinlichsten, dass dein E-Mail Provider die E-Mail komplett blockiert hat.
