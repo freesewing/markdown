@@ -1,12 +1,12 @@
 ---
 date: 2021-03-06
-title: These Cornelius cycling breeches are Wouter's latest gift to us all
+title: Diese Radfahr-Kniehosen Cornelius sind Wouters neuestes Geschenk an uns alle
 img: main.jpg
 caption: "Radfahren wie ein wahrer Gentleman"
 author: joost
 ---
 
-[Wouter](https://www.instagram.com/wouter.vdub/) is at it again, this time around he's treating us to classic cycling breeches.
+[Wouter](https://www.instagram.com/wouter.vdub/) ist wieder einmal dabei, diesmal verwöhnt er uns mit klassischen Kniebundhosen zum Radfahren.
 
 Er schreibt:
 
@@ -14,12 +14,12 @@ Er schreibt:
 > 
 > Als ich in meinen Dreißigern in die USA zog und selber mit dem Wandern begann, habe ich häufig an diese Unterhaltungen zurückgedacht und es als schade empfunden, dass ich diese Knickerbocker nicht geerbt habe. Als ich dann das Nähen entdeckte, beschloss ich, mir selber welche zu machen, aber es ließen sich keine guten Muster finden. 
 > 
-> Dieser Jahr postete jemand im Freesewing Discord-Server einen Link zu den "Keystone"-Systemen, praktische Methoden des Schneiderns aus der Zeit der Jahrhundertwende. This contained a drafting system for 'Cycling Breeches', which seemed to be close to what my father used to wear, and could be translated into a Freesewing pattern. A project was born, and I'm happy to be able to present the results to you.
+> Dieser Jahr postete jemand im Freesewing Discord-Server einen Link zu den "Keystone"-Systemen, praktische Methoden des Schneiderns aus der Zeit der Jahrhundertwende. Diese enthielten ein Entwurfssystem für "Radfahr-Kniehosen", die nah an dem waren, was mein Vater früher trug, und die sich in ein Freesewing-Schnittmuster übertragen ließen. Ein Projekt war geboren, und ich freue mich darüber, euch nun das Ergebnis präsentieren zu können.
 
-As Wouter mentioned; This pattern is based on [the Keystone drafting method](https://archive.org/details/keystonesystemsc00heck/page/n5/mode/2up). Not that it matters because as always you get it made-to-measure for you [right here on FreeSewing.org](/designs/cornelius/).
+Wie Wouter erwähnt: dises Schnittmuster basiert auf [der Entwurfsmethode nach Keystone](https://archive.org/details/keystonesystemsc00heck/page/n5/mode/2up). Das spielt aber natürlich keine Rolle, weil du es wie immer für dich maßgeschneidert bekommst, [direkt hier auf FreeSewing.org](/designs/cornelius/).
 
 ![Hier ist der Herr höchstpersönlich](wouter.jpg)
 
-Note that you don't have to cycle to wear these. All that's required is a willingness to show of those socks (or calfs).
+Beachte, dass du nicht Fahrrad fahren musst, um diese zu tragen. Du musst nur dazu bereit sein, deine Socken (oder Waden) zur Schau zu stellen.
 
 Cornelius ist verfügbar unter [/designs/cornelius/](/designs/cornelius/).
