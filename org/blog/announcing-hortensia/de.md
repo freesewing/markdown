@@ -9,7 +9,7 @@ author: joost
 
 Ich freue mich, dass ich die unmittelbare Verfügbarkeit unseres neusten FreeSeewing-Schnittmusters vorstellen kann: [die Handtasche Hortensia](/designs/hortensia/).
 
-Hortensias Ursprung geht zurück auf [@stoffsuchti](https://twitter.com/stoffsuchti). Stoffsuchti wollte ein Schnittmuster für eine Handtasche erstellen, und war auf der Suche nach einer Person, die dieses Design in Code umsetzen kann.
+Hortensia's origin story traces back to [@stoffsuchti](https://twitter.com/stoffsuchti) who wanted to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
 
 Es war [Wouter](https://github.com/woutervdub), der den Ruf hörte und das Schnittmuster implementierte, wodurch dies zu einer weiteren Erfolgsgeschichte der FreeSewing-Community wurde.
 
