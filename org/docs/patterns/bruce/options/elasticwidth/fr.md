@@ -1,7 +1,7 @@
-![The elastic width option on Bruce](./elasticwidth.svg)
+![L'option largeur d'élastique pour Bruce](./elasticwidth.svg)
 
-> #### What's the point?
+> #### ###### Pour quoi faire ?
 > 
-> This option is closely linked to the **rise** option that determines how high your boxers will rise on your waist.
+> Cette option est étroitement liée à l'option **hauteur** qui détermine à quelle hauteur remonte le boxer sur votre taille.
 > 
-> However, the width of your elastic is also a factor to take into account, so that's where this option comes in.
+> La largeur de votre élastique doit être prise en compte, c'est à cela que sert l'option largeur d'élastique.
