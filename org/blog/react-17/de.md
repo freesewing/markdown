@@ -44,13 +44,13 @@ npx create-freesewing-pattern
 
 nun einen symbolischen Link von `example/src/pattern` im root-Ordner deines Schnittmusters anlegen. Das bringt den Code in den lokalen Bereich, so dass er korrekt geladen und fast-refreshed werden kann.
 
-There's another advantage to this approach: Where previously you had to run two terminals — one to build/watch the pattern code and one to build/watch the development environment — you now need to load just one because the development environment will also build/watch the pattern code.
+Dieser Ansatz hat einen weiteren Vorteil: Wo zuvor zwei Terminals laufen mussten — eines zum Erstellen/Beobachten des Schnittmustercodes, und eines zum Erstellen/Beobachten der Entwicklungsumgebung —, brauchst du jetzt nur noch eines, weil die Entwicklungsumgebung nun auch den Schnittmustercode erstellen/beobachten kann.
 
-Developers rejoice 🎉
+Entwickler, frohlocket 🎉
 
-## Migration of react-markdown 5 to 6
+## Migration von react-markdown 5 zu 6
 
-Another major change is [react-markdown](https://www.npmjs.com/package/react-markdown). We've already upgraded it on our websites (part of the migration to Gatsby v3 that we completed earlier this month), but we're also using it in our development environment.
+Eine weitere wichtige Änderung ist [react-markdown](https://www.npmjs.com/package/react-markdown). Wir haben es bereits auf unseren Webseiten aktualisiert (Teil der Migration nach Gatsby v3, die wir Anfang dieses Monats abgeschlossen haben), aber wir verwenden es auch in unserer Entwicklungsumgebung.
 
 It's a relatively trivial change where the markdown content is no longer passed in as an explicit prop:
 
