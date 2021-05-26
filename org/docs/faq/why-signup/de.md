@@ -12,9 +12,9 @@ Ohne die Möglichkeiit, deine Körpermaße zu speichern, wäre das Erstellen von
 
 ##### Fragst du das, weil du uns nicht traust?
 
-Diese Frage deutet häufig auf ein zugrundeliegendes Misstrauen gegenüber dem Erstellen eines Accounts. As such, the following links may also be relevant:
+Diese Frage deutet häufig auf ein zugrundeliegendes Misstrauen gegenüber dem Erstellen eines Accounts. Von daher sind die folgenden Links vielleicht auch relevant:
 
- - Read [our privacy notice][1]
- - Learn more about [your rights][2]
+- Schau dir [unsere Datenschutzerklärung][1] an
+- Erfahre mehr über [deine Rechte][2]
 
 </Note>
