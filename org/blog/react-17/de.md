@@ -18,13 +18,13 @@ Die größte Änderung betrifft [create-freesewing-pattern](https://www.npmjs.co
 
 Unter der Haube verwenden wir [create-react-app](https://www.npmjs.com/package/create-react-app) (alias <abbr title='Create React App'>CRA</abbr>), und FreeSewing 2.16 ist die erste Version, die [React](https://reactjs.org/) 17, CRA 4 und [Webpack](https://webpack.js.org/) 5 enthält.
 
-That migration to CRA 4 (and its companion [react-scripts](https://www.npmjs.com/package/react-scripts) 4) is significant be because it has a whole new way of hot-reloading your application, called `FAST_REFRESH`.
+Die Migration zu CRA 4 (und seinem Begleiter, [react-scripts](https://www.npmjs.com/package/react-scripts) 4) ist signifikant, weil es eine ganz neue Art und Weise für den hot-reload deiner Anwendung enthält, genannt `FAST_REFRESH`.
 
-The downside is that it will only work for *local components* in your app. And since our development environment loads your pattern code as a (local) dependency, it does not reload when you change your pattern file.
+Der Nachteil ist, dass das nur für *lokale Komponenten* deiner Anwendung geht. Und da unsere Entwicklungsumgebung deinen Schnittmustercode als (lokale) Dependency lädt, wird es nicht neugeladen, wenn du die Datei deines Schnittmusters änderst.
 
-To make matters worse, Webpack 5 will keep a cache in memory of the built dependencies. So even restarting the development environment won't show the changes you've made to your pattern.
+Schlimmer noch, Webpack 5 behält die erstellten Dependencies als Cache im Speicher. So werden selbst beim Neustart der Entwicklungsumgebung die Änderungen, die du an deinem Schnittmuster vorgenommen hast, nicht angezeigt.
 
-Obviously, that ain't cool. And while there's certainly ways to configure Webpack to behave as we want it to, CRA doesn't allow for that sort of customization. You can always eject the CRA configuration (or fork react-scripts) but that would create too much maintenance overhead.
+Das ist selbstverständlich nicht cool. Und während es durchaus Möglichkeiten gibt, Webpack so zu konfigurieren, dass es sich so verhält wie wir wollen, erlaubt CRA so eine Art von Anpassung nicht. You can always eject the CRA configuration (or fork react-scripts) but that would create too much maintenance overhead.
 
 ## The FreeSewing development environment: Now with fast refresh
 
