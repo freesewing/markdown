@@ -1,5 +1,5 @@
 ---
-title: Mit oder ohne Brüsten?
+title: Mit oder ohne Brüste?
 order: 250
 ---
 
