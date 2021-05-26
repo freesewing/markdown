@@ -3,7 +3,7 @@ title: Measurements
 order: 420
 ---
 
-Taking accurate measurements is crucial for good results with our designs, yet not as trivial as you would think.
+Genaue Körpermaße nehmen ist essentiell um gute Ergbebnisse mit unseren Designs zu erzielen, aber nicht so trivial wie manche vielleicht denken.
 
 Wir haben ein paar Indikatoren hinzugefügt, die Ihnen helfen sollen, Fehler oder Probleme beim Massnehmen.
 
