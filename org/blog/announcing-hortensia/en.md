@@ -9,7 +9,7 @@ author: joost
 
 I'm happy to announce the immeadiate availability of our latest FreeSewing pattern: [the Hortensia handbag](/designs/hortensia/).
 
-Hortensia's origin story traces back to [@stofsutchti](https://twitter.com/stoffsuchti) who wanted
+Hortensia's origin story traces back to [@stoffsuchti](https://twitter.com/stoffsuchti) who wanted
 to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
 
 It was [Wouter](https://github.com/woutervdub) who answered the call and implemented the pattern,
