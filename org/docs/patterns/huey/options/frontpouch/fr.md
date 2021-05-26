@@ -1,4 +1,4 @@
 
-![Front pouch](frontpouch.svg)
+![Poche avant](frontpouch.svg)
 
-This option controls whether or not to include the front pouch pocket
+Cette option permet d'inclure ou non la poche avant
