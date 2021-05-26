@@ -1,16 +1,16 @@
 ---
 date: 2021-05-22
-title: FreeSewing 2.16 comes with React 17 and Webpack 5
+title: FreeSewing 2.16 enthält React 17 und Webpack 5
 img: student.jpg
-caption: "Hat-tip to nappy.co for the picture"
+caption: "Kurze Anerkennung für nappy.co für das Bild"
 author: joost
 ---
 
-We released FreeSewing v2.16 today. To the casual observer, there's not that many changes. And for users of this website, that's certainly the case.
+Wir haben heute FreeSewing v2.16 veröffentlicht. Der oberflächliche Beobachter erkennt nicht viele Änderungen. Und für die Nutzer dieser Website ist das sicherlich der Fall.
 
-Scratch the surface however, and you'll find a lot of work went into this release.
+Gehe aber nur ein wenig in die Tiefe, und du erkennst, dass eine ganze Menge Arbeit in dieser Version steckt.
 
-Let's look at what's been changed:
+Schauen wir uns doch einmal an, was sich alles geändert hat:
 
 ## create-freesewing-pattern
 
