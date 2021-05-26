@@ -7,4 +7,4 @@ Les tailles standard que nous proposons sont là pour vous permettre de découvr
 Créer des patrons de couture sur mesure est vraiment *notre truc*.  
 Si vous insistez pour obtenir un patron en taille standard, FreeSewing n'est pas pour vous.
 
-Heureusement, Fiona propose [une liste de patrons indépendants](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html), donc vous avez beaucoup d'alternatives.
+Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html), so you have plenty of alternatives.
