@@ -32,7 +32,7 @@ Wir wollen, dass die Entwicklungsumgebung alle Änderungen widerspiegelt, die du
 
 Im Gegensatz zum vorherigen hot-reload, der einfach nur die Seite neugeladen hat, kann fast refresh eine geänderte React-Komponente dynamisch aktualisieren.
 
-Das ist eine wichtige Unterscheidung, weil ein Neuladen der Seite die Entwicklungsumgebung in den Zustand zurücksetzt, der im lokalen Speicher gespeichert ist. That includes the most important things like measurements, but it does not include what you were looking at in the development environment, pattern configuration, and so on. So each reload you'd need a few clicks to get back to what you were doing, which was a bit of an annoyance.
+Das ist eine wichtige Unterscheidung, weil ein Neuladen der Seite die Entwicklungsumgebung in den Zustand zurücksetzt, der im lokalen Speicher gespeichert ist. Das umfasst zwar die allerwichtigsten Dinge wie Körpermaße, aber es beinhaltet nicht, was genau du dir in der Entwicklungsumgebung angeschaut hast, die Konfiguration des Schnittmusters, und so weiter. So each reload you'd need a few clicks to get back to what you were doing, which was a bit of an annoyance.
 
 Fast refresh has the potential to fix that, and to enable it all we need to do is import the pattern as a local component. Alas, CRA uses Webpack's `ModuleScopePlugin` which forbids importing local code from outside the `example/src` folder.
 
