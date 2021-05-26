@@ -4,4 +4,4 @@ title: Bizepsumfang
 
 Der **Bizepsumfang** ist der Umfang des breitesten Teils deines Oberarmes.
 
-To measure your **biceps circumference**, run the tape measure around the fullest part of your upper arm.
+Um den **Umfang deines Bizeps** zu messen, wickel das Maßband um den breitesten Teil deines Oberarmes.
