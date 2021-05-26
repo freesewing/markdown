@@ -1,7 +1,7 @@
 ---
-title: Inhalt
+title: Inhalte
 ---
 
-Mit dieser Einstellung können Sie manuell auswählen, welche Teile Sie in Ihr Muster einfügen möchten.
+Mit dieser Einstellung kannst du manuell auswählen, welche Teile du in deinem Schnittmuster einbeziehen möchtest.
 
-Dies ist oft nützlich, wenn Sie verschiedene Stile kombinieren möchten. Beim Entwerfen eines Hemdmuster könnten Sie beispielsweise die Manschetten weglassen und dann andere dafür einsetzen. Dabei wäre es nicht notwendig alle Teile zu drucken, also könnten sie nur Ihr zweites Manschettenpaar benützen.
+Dies ist oft nützlich, wenn du verschiedene Stile kombinieren möchtest. Du könntest beispielsweise einen Schnitt für ein Hemd erstellen, und dann beschließen, andere Manschetten dafür erstellen. Dabei wäre es nicht notwendig alle Teile zu drucken, also könntest du nur das zweite Manschettenpaar erstellen.
