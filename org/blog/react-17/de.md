@@ -88,6 +88,6 @@ Im FreeSewing-Code selber hat sich nicht so viel verändert, aber es gibt eine g
 
 Dies sind typischerweise die schwierigsten und esoterischsten Dinge eines jeden JavaScript-Projekts.
 
-If you run into any problems after upgrading to FreeSewing v2.16, please [hop onto our Discord server](https://discord.freesewing.org/) so we can help you out.
+Wenn du nach dem Upgrade auf FreeSewing v2.16 auf irgendwelche Probleme stößt, komm in [unseren Discord-Server](https://discord.freesewing.org/), damit wir dir weiterhelfen können.
 
-That being said, as long as you use the same version of different FreeSewing packages, you should not have any problems.
+Nichtsdestotrotz solltest du eigentlich keine Probleme haben, solange du die gleiche Version der verschiedenen FreeSewing-Pakete verwendest.
