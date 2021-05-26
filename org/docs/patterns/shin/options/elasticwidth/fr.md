@@ -1,6 +1,6 @@
 
-> #### What's the point?
+> #### ###### Pour quoi faire ?
 > 
 > This option is closely linked to the **rise** option that determines how high your swim trunks will rise on your waist.
 > 
-> However, the width of your elastic is also a factor to take into account, so that's where this option comes in.
+> La largeur de votre élastique doit être prise en compte, c'est à cela que sert l'option largeur d'élastique.
