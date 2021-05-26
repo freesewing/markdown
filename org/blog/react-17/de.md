@@ -52,33 +52,33 @@ Entwickler, frohlocket 🎉
 
 Eine weitere wichtige Änderung ist [react-markdown](https://www.npmjs.com/package/react-markdown). Wir haben es bereits auf unseren Webseiten aktualisiert (Teil der Migration nach Gatsby v3, die wir Anfang dieses Monats abgeschlossen haben), aber wir verwenden es auch in unserer Entwicklungsumgebung.
 
-It's a relatively trivial change where the markdown content is no longer passed in as an explicit prop:
+Es handelt sich um eine relativ triviale Änderung, bei der der Markdown-Inhalt nicht mehr als expliziter prop übergeben wird:
 
 ```jsx
 <Markdown source={`Hello, I am **Markdown**`} />
 ```
 
-But rather via the special *children* prop.
+Sondern stattdessen via dem besonderen *children* prop.
 
 ```jsx
 <Markdown>Hello, I am **Markdown**</Markdown>
 ```
 
-## Upgraded rollup plugins
+## Aktualisierte rollup-Plugins
 
-The following rollup-plugins also had some major changes:
+Die folgenden rollup-Plugins haben ebenfalls einige wesentliche Änderungen erfahren:
 
 - rollup-plugin-terser 6 => 7
 - @rollup/plugin-commonjs 14 => 19
 - @rollup/plugin-node-resolve 8 => 13
 
-This should not cause any issues unless perhaps you're bundling your own freesewing patterns. If you hit any snags, [let us know](https://discord.freesewing.org/).
+Dies sollte keine Probleme verursachen, vielleicht höchstens, wenn du deine freesewing-Schnittmuster selber bündelst. Wenn du auf irgendwelche Probleme stößst, [sag uns Bescheid](https://discord.freesewing.org/).
 
-## Defaults for browserlist
+## Standardwerte für browserlist
 
-We now use the recommended `defaults` setting for [browserlist](https://github.com/browserslist/browserslist) which controls browser support for cross-compilers such as [Babel](https://babeljs.io/).
+Wir verwenden nun die empfohlenen `default`-Einstellungen für [browserlist](https://github.com/browserslist/browserslist), was die Browser-Unterstützung von Cross-Compilern wie [Babel](https://babeljs.io/) steuert.
 
-We used to have a set of custom settings but there is no real reason for us to not stick to the defaults.
+Früher hatten wir eine Reihe von eigenen Einstellungen, aber es gibt keinen wirklichen Grund für uns, nicht an den Standardeinstellungen festzuhalten.
 
 This could potentiality impact browser support for some really old browsers, but chances are this too will pass under the radar.
 
