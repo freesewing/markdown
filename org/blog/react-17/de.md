@@ -80,13 +80,13 @@ Wir verwenden nun die empfohlenen `default`-Einstellungen für [browserlist](htt
 
 Früher hatten wir eine Reihe von eigenen Einstellungen, aber es gibt keinen wirklichen Grund für uns, nicht an den Standardeinstellungen festzuhalten.
 
-This could potentiality impact browser support for some really old browsers, but chances are this too will pass under the radar.
+Dies könnte möglicherweise Auswirkungen auf die Unterstützung von wirklich alten Browsern haben, aber wahrscheinlich wird auch das größtenteils unbemerkt bleiben.
 
-## Summary
+## Zusammenfassung
 
-Not so much has changed in the FreeSewing code itself, but there's a bunch of changes that impact the dependencies and bundlers.
+Im FreeSewing-Code selber hat sich nicht so viel verändert, aber es gibt eine ganze Reihe an Änderungen, die die dependencies und bundler beeinflussen.
 
-These are typically the hardest and most esoteric things about any JavaScript project.
+Dies sind typischerweise die schwierigsten und esoterischsten Dinge eines jeden JavaScript-Projekts.
 
 If you run into any problems after upgrading to FreeSewing v2.16, please [hop onto our Discord server](https://discord.freesewing.org/) so we can help you out.
 
