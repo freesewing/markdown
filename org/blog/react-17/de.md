@@ -24,15 +24,15 @@ Der Nachteil ist, dass das nur für *lokale Komponenten* deiner Anwendung geht. 
 
 Schlimmer noch, Webpack 5 behält die erstellten Dependencies als Cache im Speicher. So werden selbst beim Neustart der Entwicklungsumgebung die Änderungen, die du an deinem Schnittmuster vorgenommen hast, nicht angezeigt.
 
-Das ist selbstverständlich nicht cool. Und während es durchaus Möglichkeiten gibt, Webpack so zu konfigurieren, dass es sich so verhält wie wir wollen, erlaubt CRA so eine Art von Anpassung nicht. You can always eject the CRA configuration (or fork react-scripts) but that would create too much maintenance overhead.
+Das ist selbstverständlich nicht cool. Und während es durchaus Möglichkeiten gibt, Webpack so zu konfigurieren, dass es sich so verhält wie wir wollen, erlaubt CRA so eine Art von Anpassung nicht. Es ist zwar jederzeit möglich, die CRA Konfiguration abzustoßen (oder react-scripts zu forken), das würde aber zu viel Mehraufwand in der Wartung bedeuten.
 
-## The FreeSewing development environment: Now with fast refresh
+## Die FreeSewing Entwicklungsumgebung: Jetzt mit fast refresh
 
-We want the development environment to reflect any changes you make to your code. And we'd like to use the new fast refresh feature because it's pretty great.
+Wir wollen, dass die Entwicklungsumgebung alle Änderungen widerspiegelt, die du an deinem Code vornimmst. Und wir würden gerne die neue fast refresh Funktion nutzen, weil sie ziemlich toll ist.
 
-Unlike the previous hot-reload that would just reload the page, fast refresh can dynamically update a changed React component.
+Im Gegensatz zum vorherigen hot-reload, der einfach nur die Seite neugeladen hat, kann fast refresh eine geänderte React-Komponente dynamisch aktualisieren.
 
-That's an important distinction because a page reload will reset the development environment to the state that's stored in local storage. That includes the most important things like measurements, but it does not include what you were looking at in the development environment, pattern configuration, and so on. So each reload you'd need a few clicks to get back to what you were doing, which was a bit of an annoyance.
+Das ist eine wichtige Unterscheidung, weil ein Neuladen der Seite die Entwicklungsumgebung in den Zustand zurücksetzt, der im lokalen Speicher gespeichert ist. That includes the most important things like measurements, but it does not include what you were looking at in the development environment, pattern configuration, and so on. So each reload you'd need a few clicks to get back to what you were doing, which was a bit of an annoyance.
 
 Fast refresh has the potential to fix that, and to enable it all we need to do is import the pattern as a local component. Alas, CRA uses Webpack's `ModuleScopePlugin` which forbids importing local code from outside the `example/src` folder.
 
