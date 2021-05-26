@@ -7,22 +7,22 @@ caption: "Eine Beispiel-Hortensia, gefertigt vom Designer"
 author: joost
 ---
 
-I'm happy to announce the immeadiate availability of our latest FreeSewing pattern: [the Hortensia handbag](/designs/hortensia/).
+Ich freue mich, dass ich die unmittelbare Verfügbarkeit unseres neusten FreeSeewing-Schnittmusters vorstellen kann: [die Handtasche Hortensia](/designs/hortensia/).
 
-Hortensia's origin story traces back to [@stofsutchti](https://twitter.com/stoffsuchti) who wanted to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
+Hortensias Ursprung geht zurück auf [@stoffsuchti](https://twitter.com/stoffsuchti). Stoffsuchti wollte ein Schnittmuster für eine Handtasche erstellen, und war auf der Suche nach einer Person, die dieses Design in Code umsetzen kann.
 
-It was [Wouter](https://github.com/woutervdub) who answered the call and implemented the pattern, making this another success story from the FreeSewing community.
+Es war [Wouter](https://github.com/woutervdub), der den Ruf hörte und das Schnittmuster implementierte, wodurch dies zu einer weiteren Erfolgsgeschichte der FreeSewing-Community wurde.
 
-## No measurements needed
+## Keine Körpermaße erforderlich
 
-This is the first pattern on FreeSewing that does not require any measurements to make. There's some options you can choose — to control the size of the handbag for one thing — but since this is a handbag, no measurements are needed.
+Dies ist das erste Muster bei FreeSewing, das zum Herstellen gar keine Körpermaße benötigt. Es gibt ein paar Optionen, die du wählen kannst — um beispielsweise die Größe der Handtasche zu kontrollieren —, aber da dies eine Handtasche ist, werden keine Körpermaße gebraucht.
 
-This makes Hortensia a great project to make as a gift, since there's no need to worry about fit.
+Das macht Hortensia zu einem tollen Projekt für ein Geschenk, da du dir keine Gedanken über die Passform machen musst.
 
 <Tip>
 
-##### Now show us yours
+##### Zeig' uns deine
 
-If you do make a Hortensia, do [send us pictures](https://chat.freesewing.org/).
+Wenn du eine Hortensia herstellst, dann [sende uns gerne Bilder](https://chat.freesewing.org/) davon.
 
 </Tip>
