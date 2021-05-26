@@ -32,17 +32,17 @@ Wir wollen, dass die Entwicklungsumgebung alle Änderungen widerspiegelt, die du
 
 Im Gegensatz zum vorherigen hot-reload, der einfach nur die Seite neugeladen hat, kann fast refresh eine geänderte React-Komponente dynamisch aktualisieren.
 
-Das ist eine wichtige Unterscheidung, weil ein Neuladen der Seite die Entwicklungsumgebung in den Zustand zurücksetzt, der im lokalen Speicher gespeichert ist. Das umfasst zwar die allerwichtigsten Dinge wie Körpermaße, aber es beinhaltet nicht, was genau du dir in der Entwicklungsumgebung angeschaut hast, die Konfiguration des Schnittmusters, und so weiter. So each reload you'd need a few clicks to get back to what you were doing, which was a bit of an annoyance.
+Das ist eine wichtige Unterscheidung, weil ein Neuladen der Seite die Entwicklungsumgebung in den Zustand zurücksetzt, der im lokalen Speicher gespeichert ist. Das umfasst zwar die allerwichtigsten Dinge wie Körpermaße, aber es beinhaltet nicht, was genau du dir in der Entwicklungsumgebung angeschaut hast, die Konfiguration des Schnittmusters, und so weiter. Also brauchtest du mit jedem Neuladen ein paar Klicks, um wieder dorthin zu kommen, wo du vorher warst, was ein wenig nervig war.
 
-Fast refresh has the potential to fix that, and to enable it all we need to do is import the pattern as a local component. Alas, CRA uses Webpack's `ModuleScopePlugin` which forbids importing local code from outside the `example/src` folder.
+Fast refresh hat das Potential, das zu beheben, und alles was wir tun müssen, damit es funktionieren kann, ist das Schnittmuster als lokale Komponente zu laden. Leider verwendet CRA das `ModuleScopePlugin` von Webpack, das es uns verbietet, lokalen Code von außerhalb des `example/src`-Ordners zu importieren.
 
-To sidestep that issue, running:
+Um dieses Problem zu umgehen, wird das Ausführen von
 
 ```bash
 npx create-freesewing-pattern
 ```
 
-will now symlink `example/src/pattern` to the root folder of your pattern. That brings the code into the local scope, so it can be correctly loaded and fast-refreshed.
+nun einen symbolischen Link von `example/src/pattern` im root-Ordner deines Schnittmusters anlegen. Das bringt den Code in den lokalen Bereich, so dass er korrekt geladen und fast-refreshed werden kann.
 
 There's another advantage to this approach: Where previously you had to run two terminals — one to build/watch the pattern code and one to build/watch the development environment — you now need to load just one because the development environment will also build/watch the pattern code.
 
