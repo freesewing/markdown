@@ -1,9 +1,9 @@
 ---
-title: Why don't you use double notches to mark the back of the pattern?
+title: Warum verwendet ihr keine doppelten Knipse, um die Rückseite des Schnittes zu markieren?
 ---
 
-A double-notch is a common way to mark the back of the pattern. Common, but not universal.
+Ein doppelter Knips ist eine gängige Methode, um die Rückseite eines Schnittmusters zu markieren. Gängig, aber nicht universell.
 
-Different parts of the world have different conventions or traditions on how to notch patterns. To avoid confusion, we use a differently styled notch to indicate the back, as detailed in [our pattern notation guide][1].
+Verschiedene Teile der Welt haben unterschiedliche Konventionen oder Traditionen, wie man Schnitte markiert. Um Verwirrung zu vermeiden, verwenden wir einen anders gestalteten Knips, um die Rückseite zu markieren. Dies wird in [unserer Anleitung zur Schnittmusternotation][1] genauer beschrieben.
 
 [1]: /docs/various/notation/
