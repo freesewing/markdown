@@ -1,19 +1,18 @@
 ---
-title: Why do I need to create an account to download a made-to-measure pattern?
+title: Warum muss ich einen Account erstellen, um ein maßgeschneidertes Schnittmuster herunterladen zu können?
 ---
 
-For practical reasons. To generate made-to-measure sewing patterns, we need your measurements.
+Aus praktischen Gründen. Zum Erstellen von maßgeschneiderten Schnittmustern benötigen wir deine Körpermaße.
 
-Asking for them every time would be rather tedious, so we need to store this information. And your account is where we do that.
+Dich jedesmal danach zu fragen wäre ziemlich umständlich, weshalb wir diese Information speichern müssen. Und genau das machen wir in deinem Account.
 
-Without a way to store your measurements, generating made-to-measure patterns would be hopelessly inpractical.
+Ohne die Möglichkeiit, deine Körpermaße zu speichern, wäre das Erstellen von maßgeschneiderten Schnittmustern hoffnungslos unpraktikabel.
 
 <Note>
 
-##### Are you asking because you don't trust us?
+##### Fragst du das, weil du uns nicht traust?
 
-This question often hints at an underlying distrust towards
-creating an account. As such, the following links may also be relevant:
+Diese Frage deutet häufig auf ein zugrundeliegendes Misstrauen gegenüber dem Erstellen eines Accounts. As such, the following links may also be relevant:
 
  - Read [our privacy notice][1]
  - Learn more about [your rights][2]
