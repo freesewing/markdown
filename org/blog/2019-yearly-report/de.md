@@ -41,8 +41,8 @@ Wir suchen auch nach Möglichkeiten, mehr Designer für FreeSewing ins Boot zu h
 
 ## Es ist die Zeit des Schenkens
 
-Dank unserer großartigen Gönner sind die Einnahmen auch in diesem Jahr gestiegen. Wie Sie vielleicht wissen oder auch nicht, FreeSewing spendet 100% seiner Einnahmen an Ärzte ohne Grenzen/Médecins Sans Frontières. Daher hatte ich heute Morgen die große Ehre, einen Scheck über 4109,38€ auf [MSF](https://www.msf.org/) auszustellen.
+Dank unserer großartigen Förderer sind die Einnahmen auch in diesem Jahr gestiegen. Wie du vielleicht weißt, spendet FreeSewing 100% der Einnahmen an Ärzte ohne Grenzen/Médecins Sans Frontières. Daher hatte ich heute Morgen die große Ehre, einen Scheck über 4109,38€ auf [MSF](https://www.msf.org/) auszustellen.
 
-Das fühlte sich **wirklich gut** an, also vielen Dank an [alle unsere Gönner](/patrons) für ihre anhaltende Unterstützung. Wenn Sie dieser großartigen Gruppe von Menschen beitreten möchten, [können Sie dies hier tun](/patrons/join).
+Das fühlte sich **wirklich gut** an, also vielen Dank an [alle unsere Förderer](/patrons) für ihre anhaltende Unterstützung. Wenn du Teil dieser großartigen Gruppe von Menschen werden möchtest, [kannst du dies hier tun](/patrons/join).
 
 
