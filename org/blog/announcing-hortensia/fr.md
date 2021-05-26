@@ -9,7 +9,7 @@ author: joost
 
 Je suis heureux d'annoncer la disponibilité immédiate de notre dernier modèle FreeSewing : [le sac à main Hortensia](/designs/hortensia/).
 
-L'histoire de Hortensia remonte à [@stofsutchti](https://twitter.com/stoffsuchti) qui voulait créer un patron pour un sac à main, et cherchait quelqu'un qui pourrait implémenter ce design dans le code.
+Hortensia's origin story traces back to [@stoffsuchti](https://twitter.com/stoffsuchti) who wanted to create a pattern for a handbag, and was looking for somebody who could implement that design in code.
 
 C'est [Wouter](https://github.com/woutervdub) qui a répondu à l'appel et développé le patron, ce qui fait de cette histoire le nouveau succès de la communauté FreeSewing.
 
