@@ -14,9 +14,9 @@ Schauen wir uns doch einmal an, was sich alles geändert hat:
 
 ## create-freesewing-pattern
 
-The biggest change is related to [create-freesewing-pattern](https://www.npmjs.com/package/create-freesewing-pattern) and the development environment it sets up for you.
+Die größte Änderung betrifft [create-freesewing-pattern](https://www.npmjs.com/package/create-freesewing-pattern) und die Entwicklungsumgebung, die es für dich einrichtet.
 
-We use [create-react-app](https://www.npmjs.com/package/create-react-app) (aka <abbr title='Create React App'>CRA</abbr>) under the hood, and FreeSewing 2.16 is our first release to ship with [React](https://reactjs.org/) 17, CRA 4, and [Webpack](https://webpack.js.org/) 5.
+Unter der Haube verwenden wir [create-react-app](https://www.npmjs.com/package/create-react-app) (alias <abbr title='Create React App'>CRA</abbr>), und FreeSewing 2.16 ist die erste Version, die [React](https://reactjs.org/) 17, CRA 4 und [Webpack](https://webpack.js.org/) 5 enthält.
 
 That migration to CRA 4 (and its companion [react-scripts](https://www.npmjs.com/package/react-scripts) 4) is significant be because it has a whole new way of hot-reloading your application, called `FAST_REFRESH`.
 
