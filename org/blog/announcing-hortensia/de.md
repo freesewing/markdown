@@ -1,9 +1,9 @@
 ---
 date: 2021-02-13
-title: "Say hi to our latest pattern: The Hortensia handbag"
-linktitle: "Announcing the Hortensia handbag"
+title: "Sagt Hi zu unserem neuesten Schnittmuster: Die Handtasche Hortensia"
+linktitle: "Ankündigung der Hortensia-Handtasche"
 img: hortensia.jpg
-caption: "An example Hortensia made by the designer"
+caption: "Eine Beispiel-Hortensia, gefertigt vom Designer"
 author: joost
 ---
 
