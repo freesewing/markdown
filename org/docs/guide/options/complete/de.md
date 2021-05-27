@@ -2,7 +2,7 @@
 title: Details
 ---
 
-Deaktiviere diese Einstellung, um nur einen einfachen Umriss des Schnittmusters zu entwerfen.
+Deaktiviere diese Einstellung, um nur einen einfachen Umriss des Schnittmusters zu erstellen.
 
-This is particularly useful for people looking to use a laser cutter or other automated tools, and only want the cutlines of the pattern.
+Dies ist besonders nützlich für Menschen, die einen Laserschneider oder andere automatisierte Werkzeuge verwenden möchten, und deshalb nur die Schnittlinien des Schnittmusters brauchen.
 
