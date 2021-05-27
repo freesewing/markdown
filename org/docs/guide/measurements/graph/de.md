@@ -1,7 +1,7 @@
 ---
-title: Graph für Körpermaße
+title: Graph für Maße
 ---
 
-Untenstehend ist ein Beispiel eines Graphen für Körpermaße. Wir generieren einen solchen Graph für deine Personen, sobald du uns ihren Halsumfang zur Verfügung stellst.
+Untenstehend ist ein Beispiel eines Graphen für Maße. Wir generieren einen solchen Graph für deine Personen, sobald du uns ihren Halsumfang zur Verfügung stellst.
 
-![Beispiel für einen Graphen für Körpermaße](graph.svg)
+![Beispiel für einen Graphen für Maße](graph.svg)

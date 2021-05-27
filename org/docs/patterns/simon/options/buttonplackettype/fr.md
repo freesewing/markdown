@@ -9,6 +9,6 @@ Do you want the button placket to be part of the right front pattern part (cut-o
 > 
 > #### Why pick grown on?
 > 
-> It's less work, and you can go for that seamless look.
+> C'est moins de travail, et vous pouvez faire une gorge cachée.
 
 > It's worth pointing out that unlike the buttonhole placket, you cannot see the button placket when your shirt is closed all the way up.

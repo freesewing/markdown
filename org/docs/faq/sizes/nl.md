@@ -7,4 +7,4 @@ De standaardmaten die we aanbieden dienen om je een manier te geven om ons platf
 Drafting made-to-measure sewing patterns really is *our thing*.  
 If you insist on getting a pattern in a standard size, FreeSewing is not for you.
 
-Gelukkig houdt Fiona een [lijst van onafhankelijke patroonontwerpers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html) bij, dus heb je genoeg alternatieven.
+Thankfully, Fiona curates [a list of indie pattern designers](https://chainstitcher.blogspot.com/p/indie-pattern-designers.html), so you have plenty of alternatives.
