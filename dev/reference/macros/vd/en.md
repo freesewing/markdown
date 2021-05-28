@@ -11,7 +11,7 @@ It is provided by the [dimension plugin](/reference/plugins/dimension/).
 />
 
 ```js
-macro('hd', {
+macro('vd', {
   from: points.from,
   to: points.to,
   x: 25
