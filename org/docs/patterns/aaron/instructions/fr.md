@@ -38,7 +38,7 @@ Dans les deux cas, moins vous avez d'arrondi "serré", plus il sera facile de le
 
 </Note>
 
-Nous finirons par le trou du bras et du cou avec un [biais de jersey](/en/docs/sewing/knit-binding) (Remarque : pas une bande de jersey. Il y a une différence, et elle est expliquée [ici](/en/docs/sewing/knit-binding)).
+We are going to finish the arm and neck hole with [knit binding](/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/docs/sewing/knit-binding)).
 
 <Note>
 
