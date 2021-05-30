@@ -38,7 +38,7 @@ Hoe dan ook, hoe minder scherp de curves zijn, hoe makkelijker. Start dus met ee
 
 </Note>
 
-We gaan de armsgaten en nekopening afwerken met een [jersey bies](/en/docs/sewing/knit-binding) (Pas op: geen jersey band. Er is een verschil, en dat wordt [hier](/en/docs/sewing/knit-binding) uitgelegd).
+We are going to finish the arm and neck hole with [knit binding](/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/docs/sewing/knit-binding)).
 
 <Note>
 
