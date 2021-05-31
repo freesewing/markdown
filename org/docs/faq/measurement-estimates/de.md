@@ -116,6 +116,6 @@ Es ist harte Arbeit, für eine Vielzahl an Formen Schnittmuster zu designen.
 Im Gegensatz zu anderen Schnittmusterfirmen beschränken wir uns nicht auf einen bestimmten Größenbereich.
 Alle Menschen und alle Körper sind hier willkommen.
 
-If it turns out it doesn't work for you, please [let us know](https://discord.freesewing.org/) and we'll try to do better.
+Falls es für dich nicht funktionieren sollte, [lass es uns bitte wissen](https://discord.freesewing.org/), und wir versuchen es besser zu machen.
 
 </Note>
