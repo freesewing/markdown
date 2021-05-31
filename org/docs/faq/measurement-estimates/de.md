@@ -1,13 +1,13 @@
 ---
-title: What are those symbols next to my measurements?
+title: Was sind diese Symbole neben meinen Maßen?
 ---
 
 import Gauge from '../../../../../src/components/measurements/gauge.js'
 
-You might have noticed these kind of icons next to your measurements:
+Dir sind vielleicht diese Art von Symbolen neben deinen Maßen aufgefallen:
 <Gauge val={0} theme='light' />
 
-The value they represent shows how far the measurement deviates from the proportions we test our designs with:
+Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit denen wir unsere Designs testen:
 
 <table spaces-before="0">
   <tr>
@@ -114,7 +114,7 @@ These indicators serve a dual purpose:
 Designing patterns for a variety of shapes is hard work.
 
 Unlike other pattern companies, we don't limit ourselves to a particular size range.
-All people and all bodies are welcome here.
+Alle Menschen und alle Körper sind hier willkommen.
 
 If it turns out it doesn't work for you, please [let us know](https://discord.freesewing.org/) and we'll try to do better.
 
