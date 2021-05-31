@@ -38,7 +38,7 @@ Either way, the less sharp bends you have, the easier it will be. So start with 
 
 </Note>
 
-We are going to finish the arm and neck hole with [knit binding](/docs/sewing/knit-binding) (note: not a knit band. There's a difference, and it's explained [here](/docs/sewing/knit-binding)).
+We are going to finish the arm and neck hole with [knit binding](/docs/sewing/knit-binding) (note: not a knit band. Es gibt einen Unterschied, und der wird [hier](/docs/sewing/knit-binding) erklärt).
 
 <Note>
 
