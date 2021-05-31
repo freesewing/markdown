@@ -7,7 +7,7 @@ import Gauge from '../../../../../src/components/measurements/gauge.js'
 Dir sind vielleicht diese Art von Symbolen neben deinen Maßen aufgefallen:
 <Gauge val={0} theme='light' />
 
-Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit denen wir unsere Designs testen:
+Diese Symbole zeigen einen Wert an, der zeigt, wie sehr die Maße von den Proportionen abweichen, mit denen wir unsere Designs testen:
 
 <table spaces-before="0">
   <tr>
@@ -26,7 +26,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">significantly lower</strong>
+      Der Wert ist <strong x-id="1">signifikant niedriger</strong>
     </td>
   </tr>
   
@@ -36,7 +36,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">a good bit lower</strong>
+      Der Wert ist <strong x-id="1">ein gutes Stück niedriger</strong>
     </td>
   </tr>
   
@@ -46,7 +46,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">a bit lower</strong>
+      Der Wert ist <strong x-id="1">ein bisschen niedriger</strong>
     </td>
   </tr>
   
@@ -56,7 +56,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">very close</strong>
+      Der Wert ist <strong x-id="1">sehr nah</strong>
     </td>
   </tr>
   
@@ -66,7 +66,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">very close</strong>
+      Der Wert ist <strong x-id="1">sehr nah</strong>
     </td>
   </tr>
   
@@ -76,7 +76,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">a bit higher</strong>
+      Der Wert ist <strong x-id="1">ein bisschen höher</strong>
     </td>
   </tr>
   
@@ -86,7 +86,7 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">a good bit higher</strong>
+      Der Wert ist <strong x-id="1">ein gutes Stück höher</strong>
     </td>
   </tr>
   
@@ -96,24 +96,24 @@ Diese Symbole zeigen an, wie sehr die Maße von den Proportionen abweichen, mit 
     </td>
     
     <td>
-      The value is <strong x-id="1">significantly higher</strong>
+      Der Wert ist <strong x-id="1">signifikant höher</strong>
     </td>
   </tr>
 </table>
 
 
-These indicators serve a dual purpose:
+Diese Indikatoren dienen einem doppelten Zweck:
 
- - Help you spot mistakes in your measurements (you know best where your outliers are)
- - Help you anticipate where our software might struggle to come up with good results
+ - Es soll dir dabei helfen, Messfehler in deinen Maßen zu finden (du weißt sicher selber am besten, wo deine Ausreißer sind)
+ - Es soll dir dabei helfen, im Voraus abzuschätzen, wo unsere Software vielleicht Probleme haben könnte, ein gutes Ergebnis zu liefern
 
 <Note>
 
-##### There are no good or bad measurements
+##### Es gibt keine guten oder schlechten Maße
 
-Designing patterns for a variety of shapes is hard work.
+Es ist harte Arbeit, für eine Vielzahl an Formen Schnittmuster zu designen.
 
-Unlike other pattern companies, we don't limit ourselves to a particular size range.
+Im Gegensatz zu anderen Schnittmusterfirmen beschränken wir uns nicht auf einen bestimmten Größenbereich.
 Alle Menschen und alle Körper sind hier willkommen.
 
 If it turns out it doesn't work for you, please [let us know](https://discord.freesewing.org/) and we'll try to do better.
