@@ -23,3 +23,4 @@ path.seam.attr("data-text", "finishWithBiasTape");
 
 This way, it can be translated.
 
+You can find and browse the translations and available translation keys [in the freesewing/freesewing project](https://github.com/freesewing/freesewing/tree/develop/packages/i18n/src/locales).
