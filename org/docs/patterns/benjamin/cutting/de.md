@@ -1,4 +1,4 @@
-Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
+Benjamin ist ein eher einfaches Schnittmsuter, aber die von dir gewählten Optionen beeinflussen, was ausgeschnitten werden muss. Hier sind zwei typische Layouts:
 
 ## Without adjustment ribbon
 
