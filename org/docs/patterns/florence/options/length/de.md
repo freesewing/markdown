@@ -1,3 +1,3 @@
 ![Längen-Option](./length.svg)
 
-Steuert die Länge Ihrer Gesichtsmaske.
+Steuert die Länge deiner Gesichtsmaske.
