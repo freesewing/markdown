@@ -53,7 +53,7 @@ When a pattern is drafted, the different pattern parts are laid out on the patte
 
 It's in early beta (as in, it still breaks from time to time) but you can now change the width of your pattern, move your pattern parts around, rotate them, or even mirror them vertically or horizontally to suit whatever your plans are. All of that can be done in your browser, on the site.
 
-## Developer documentation
+## Entwicklerdokumentation
 
 We've also integrated our developer documentation on the new site. Until yesterday, documentation about the new platform was hosted on a separate site, but now, we've ported the documentation and everything is integrated in our (future) website.
 
