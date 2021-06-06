@@ -15,7 +15,7 @@
    - Cut **4 front pocket bag(s)** 2x2 with good sides together (**see caveats below**)
    - Cut **2 back inner pocket bag(s)**
    - Cut **2 back outer pocket bag(s)**
- - **Interfacing**
+ - **Einlage**
    - Cut **1 waistband interfacing left**
    - Cut **1 waistband interfacing right**
    - Cut **4 back pocket interfacing(s)**
