@@ -2,13 +2,13 @@
 date: 29.10.2020
 title: Ein schwarzer Huey von Anneke
 img: anneke1.jpg
-caption: "Anneke mit ihrem neusten Huey, diesmal in Schwarz."
+caption: "Anneke mit ihrem neuesten Huey, diesmal in Schwarz."
 patterns:
   - huey
 author: karen
 ---
 
-Anneke hat einige Variationen des Hey Kapuzenpullis gemacht. Check out her other ones [here](https://freesewing.org/showcase/anneke-huey/) and [here](https://freesewing.org/showcase/anneke-huey-grey/).
+Anneke hat einige Variationen des Huey-Kapuzenpullis gemacht. Schau dir ihre anderen Versionen [hier](https://freesewing.org/showcase/anneke-huey/) und [hier](https://freesewing.org/showcase/anneke-huey-grey/) an.
 
 Andere Ansichten.
 
