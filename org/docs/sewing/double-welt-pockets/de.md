@@ -35,7 +35,7 @@ Two values determine the size of your double welt pocket. Das sind:
 
 > In the example below, I use a pocket width of 13cm and a welt height of 0.5cm
 
-## Cutting
+## Zuschnitt
 
 ### Pocket welts
 
