@@ -1,6 +1,6 @@
 
 To make Teagan, you will need the following:
-- [Basic sewing supplies](https://freesewing.org/docs/sewing/basic-sewing-supplies)
+- [Grundlegendes Nähzubehör](https://freesewing.org/docs/sewing/basic-sewing-supplies)
 - About 1 meter of a suitable fabric ([see Fabric options](https://freesewing.org/docs/patterns/teagan/fabric))
 
 <!--- This link isn't a thing yet, but it follows the site nomenclature, so it should work when everything's up? --->
