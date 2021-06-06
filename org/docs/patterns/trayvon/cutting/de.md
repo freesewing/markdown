@@ -1,4 +1,4 @@
- - **Main fabric**
+ - **Oberstoff**
    - Cut **1 tip**
    - Cut **1 tail**
  - **Futterstoff**
