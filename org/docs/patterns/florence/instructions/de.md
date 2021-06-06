@@ -5,18 +5,18 @@ Füge die gekrümmte Naht, die die Mitte unserer Maske bildet, zusammen, indem d
 
 ![Fügen Sie die Mittelnaht ein](step1.svg)<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
-### Schritt 2 (optional): Drücken Sie die Mittelnaht
+### Schritt 2 (optional): Die Mittelnaht bügeln
 
 <Note>
 
-Dieser Schritt hat keinen funktionellen Wert, er wird Ihre Maske nur besser aussehen lassen.
-Wenn Ihnen das also nicht allzu viel ausmacht, können Sie es gerne überspringen.
+Dieser Schritt hat keinen funktionellen Wert, er wird deine Maske nur besser aussehen lassen.
+Wenn dir das also nicht allzu viel ausmacht, kannst du es gerne überspringen.
 
 </Note>
 
-Bügeln Sie die Nahtzugabe an der Mittelnaht auf, so dass die Naht schön flach liegt.
+Bügel die Nahtzugabe an der Mittelnaht auf, so dass die Naht schön flach liegt.
 
-Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber Sie können sich mit Ihrem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternativ können Sie zum Pressen einen Schneidersaum oder ein Kissen verwenden.<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber du kannst dich mit deinem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternativ können Sie zum Pressen einen Schneidersaum oder ein Kissen verwenden.<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 3: Nähen Sie den äußeren an den inneren Stoff und befestigen Sie die Bänder
 
@@ -56,7 +56,7 @@ Greifen Sie einfach durch die linke Seite hinein und ziehen Sie die Maske vorsic
 <Note>
 
 Dieser Schritt hat wenig funktionalen Wert, er wird Ihre Maske nur besser aussehen lassen.
-Wenn Ihnen das also nicht allzu viel ausmacht, können Sie es gerne überspringen.
+Wenn dir das also nicht allzu viel ausmacht, kannst du es gerne überspringen.
 
 </Note>
 
