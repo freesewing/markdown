@@ -1,5 +1,5 @@
 ---
-title: Cutting
+title: Zuschnitt
 ---
 
  - **Main fabric**
