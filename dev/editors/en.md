@@ -20,6 +20,6 @@ we provide.
 
 <Tip>
 
-Make sure to check out the howtos on [Common tasks for editors](/howtos/editors/)
+Make sure to check out the howtos on [Common tasks for editors](/editors/howtos/)
 
 </Tip>
