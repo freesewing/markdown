@@ -2,7 +2,7 @@
 title: Measurements estimates
 ---
 
-Um Ihnen zu helfen, Messfehler zu erkennen, zeigen wir Ihnen eine Schätzung Ihrer unterschiedlichen Masse neben dem tatsächlichen Wert. Wenn der Unterschied gross wird, lenken wir Ihre Aufmerksamkeit darauf.
+Um dir zu helfen, Messfehler zu erkennen, zeigen wir dir eine Abschätzung deiner unterschiedlichen Maße neben dem tatsächlichen Wert. Wenn der Unterschied groß wird, machen wir dich darauf aufmerksam.
 
 <Tip>
 
