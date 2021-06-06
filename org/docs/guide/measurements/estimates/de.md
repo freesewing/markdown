@@ -6,7 +6,7 @@ Um dir zu helfen, Messfehler zu erkennen, zeigen wir dir eine Abschätzung deine
 
 <Tip>
 
-Diese Schätzung basiert auf deinem Nackenumfang, daher wird sie erst angezeigt, wenn du deinen Hals gemessen hast.
+Diese Abschätzung basiert auf deinem Nackenumfang, daher wird sie erst angezeigt, wenn du deinen Hals gemessen hast.
 
 </Tip>
 
