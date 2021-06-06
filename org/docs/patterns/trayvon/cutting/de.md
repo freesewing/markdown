@@ -5,7 +5,7 @@
    - Cut **1 lining tip**
    - Cut **1 lining tail**
    - Cut **1 loop**
- - **Interfacing**
+ - **Einlage**
    - Cut **1 interfacing tip**
    - Cut **1 interfacing tail**
 
