@@ -1,3 +1,3 @@
 ![Höhen-Option](./height.svg)
 
-Regeln Sie die Höhe Ihrer Gesichtsmaske.
+Steuert die Höhe deiner Gesichtsmaske.
