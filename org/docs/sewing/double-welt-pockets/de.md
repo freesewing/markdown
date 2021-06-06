@@ -15,11 +15,11 @@ David is a friend of the site, and by all measures much better at explaining thi
 
 ## Before you start
 
-### What you need
+### Was du brauchst
 
 To make double welt pockets, you will need:
 
- - Basic sewing supplies
+ - Grundlegendes Nähzubehör
  - The fabric or pattern piece you want to make the pocket in
  - Two fabric strips for the welts
  - A strip of interfacing
