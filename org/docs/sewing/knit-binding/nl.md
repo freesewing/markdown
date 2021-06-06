@@ -89,7 +89,7 @@ De lengte van je bies hangt af van hoeveel die uitgerokken moet worden. Dit hang
 ### Doe dit niet
 Er zijn een hoop tutorials op het internet die je tonen hoe je biezen naait. Many of those suggest something like _make the neck binding 90% of the length of the seam you are attaching it to_ (the percentage varies).
 
-Het idee is dat je je bies knipt, de uiteindes aan elkaar bevestigt, en alles dan in de opening naait. Dat is (volgens mij) geen goed idee.
+Het idee is dat je je bies knipt, de uiteindes aan elkaar bevestigt, en alles dan in de opening naait. That is (in my opinion) no good.
 
 Een alternatief om het lengteprobleem te omzeilen is de bies te bevestigen voor je de opening waar de bies in komt sluit. Bijvoorbeeld, bij een t-shirt zou je één schoudernaad sluiten, de bies vaststikken, en dan de tweede schoudernaad sluiten.
 
