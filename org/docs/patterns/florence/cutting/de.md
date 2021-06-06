@@ -6,7 +6,7 @@ Florence hat nur einen Teil, die *Maske*. Das ist die Hälfte der Maske, also we
 
  - **Main fabric**
    - Schneide **2 Maskenteile**
- - **Lining fabric**
+ - **Futterstoff**
    - Schneide **2 Maskenteile**
 
 Wenn du den gleichen Stoff innen und außen verwendest (was in Ordnung ist), dann schneide einfach **4 Maskenteile** zu.
