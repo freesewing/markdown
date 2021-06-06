@@ -1,9 +1,9 @@
 
-### Schritt 1: Fügen Sie die Mittelnaht zusammen
+### Schritt 1: Füge die Mittelnaht zusammen
 
-Fügen Sie die gekrümmte Naht, die die Mitte unserer Maske bildet, zusammen, indem Sie die *guten Seiten* zusammenlegen und vernähen.
+Füge die gekrümmte Naht, die die Mitte unserer Maske bildet, zusammen, indem du die *guten Seiten* zusammenlegst und vernähst.
 
-![Fügen Sie die Mittelnaht ein](step1.svg)<Note>Wiederholen Sie diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+![Fügen Sie die Mittelnaht ein](step1.svg)<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 2 (optional): Drücken Sie die Mittelnaht
 
@@ -16,7 +16,7 @@ Wenn Ihnen das also nicht allzu viel ausmacht, können Sie es gerne überspringe
 
 Bügeln Sie die Nahtzugabe an der Mittelnaht auf, so dass die Naht schön flach liegt.
 
-Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber Sie können sich mit Ihrem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternativ können Sie zum Pressen einen Schneidersaum oder ein Kissen verwenden.<Note>Wiederholen Sie diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber Sie können sich mit Ihrem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternativ können Sie zum Pressen einen Schneidersaum oder ein Kissen verwenden.<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 3: Nähen Sie den äußeren an den inneren Stoff und befestigen Sie die Bänder
 
