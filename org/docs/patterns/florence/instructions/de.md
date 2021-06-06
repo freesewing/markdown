@@ -3,7 +3,7 @@
 
 Füge die gekrümmte Naht, die die Mitte unserer Maske bildet, zusammen, indem du die *guten Seiten* zusammenlegst und vernähst.
 
-![Fügen Sie die Mittelnaht ein](step1.svg)<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+![Füge die Mittelnaht zusammen](step1.svg)<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 2 (optional): Die Mittelnaht bügeln
 
@@ -20,7 +20,7 @@ Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber du
 
 ### Schritt 3: Nähe den äußeren an den inneren Stoff und befestige die Bänder
 
-![Verbinden Sie den inneren mit dem äußeren Stoff](step3.svg)
+![Verbinde den inneren mit dem äußeren Stoff](step3.svg)
 
 Nun werden wir den inneren (Futter) an den äußeren (Haupt) Stoff nähen und die Bänder in einem Schritt anbringen.
 
@@ -74,7 +74,7 @@ Achte darauf, dass die offene Seite ordentlich nach innen gefaltet wird, und nä
 
 ### Schritt 7: Trage deine Maske oder nähe einen ganzen Stapel
 
-Das war's, du bist fertig! Sie können jetzt Ihre Maske tragen.
+Das war's, du bist fertig! Du kannst jetzt deine Maske tragen.
 
-Noch besser: Machen ein paar mehr, damit Sie anderen auch Masken geben können.
+Noch besser: Mache ein paar mehr, damit du anderen auch Masken geben kannst.
 
