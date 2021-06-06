@@ -1,11 +1,11 @@
 ---
 date: 2017-12-08
-title: Another grey Huey by Anneke Caramin
+title: Noch ein grauer Huey von Anneke Caramin
 img: showcase.jpg
-caption: "Anneke is wearing a light grey Huey with black ribbing, which isn't very obvious on this black skirt."
+caption: "Anneke trägt einen hellgrauen Huey mit schwarzen Bündchen, die auf diesem schwarzem Rock nicht sehr offensichtlich sind."
 patterns:
   - huey
 author: 'Anneke Caramin'
 ---
 
-This is Anneke's [second Huey](/en/showcase/anneke-huey/)
+Das ist Annekes [zweiter Huey](/en/showcase/anneke-huey/)
