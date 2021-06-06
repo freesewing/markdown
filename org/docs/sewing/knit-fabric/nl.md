@@ -2,7 +2,7 @@
 title: Gebreide stof
 ---
 
-![Een stuk grijze jersey, een gebreide stof](/img/sewing/knit-fabric.jpg)
+![Een stuk grijze (French Terry) jersey, een gebreide stof](fabric.jpg)
 
 Gebreide stof is stof die gebreid is in plaats van geweven. Gebreide stof heeft meestal wat stretch.
 

@@ -2,7 +2,7 @@
 title: Knit fabric
 ---
 
-![A piece of grey jersey, a knit fabric](/img/sewing/knit-fabric.jpg)
+![A piece of grey (French Terry) jersey, a knit fabric](fabric.jpg)
 
 Knit fabric is fabric that is knitted, rather than woven. Knit fabric typically stretches to some extent.
 

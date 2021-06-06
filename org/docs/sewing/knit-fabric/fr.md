@@ -2,7 +2,7 @@
 title: Tissu Maille
 ---
 
-![Un morceau de jersey gris, un tissu maille (tricoté)](/img/couture/knit-fabric.jpg)
+![Un morceau de jersey (French Terry) gris, un tissu maille (tricoté)](fabric.jpg)
 
 Le tissu maille est un tissu tricoté plutôt que tissé. Le tissu maille est extensible dans une certaine mesure.
 
