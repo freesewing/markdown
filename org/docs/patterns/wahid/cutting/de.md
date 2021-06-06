@@ -8,7 +8,7 @@
    - Cut **2 front lining(s)** with good sides together
    - Cut **2 back(s)** with good sides together
    - Cut **2 pocket bag(s)** with good sides together
- - **Interfacing**
+ - **Einlage**
    - Cut **2 front(s)** with good sides together
    - Cut **2 pocket interfacing(s)**
 
