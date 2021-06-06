@@ -2,7 +2,7 @@ Benjamin ist ein eher einfaches Schnittmsuter, aber die von dir gewählten Optio
 
 ## Without adjustment ribbon
 
- - **Main fabric**
+ - **Oberstoff**
    - Cut **4 Knot**
    - Cut **2 Collar band**
  - **Einlage**
@@ -11,7 +11,7 @@ Benjamin ist ein eher einfaches Schnittmsuter, aber die von dir gewählten Optio
 
 ## With adjustment ribbon
 
- - **Main fabric**
+ - **Oberstoff**
    - Cut **1 Knot 1**
    - Cut **1 Knot 2**
    - Cut **2 Knot 3**
