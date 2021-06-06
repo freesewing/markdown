@@ -1,4 +1,4 @@
- - **Main fabric**
+ - **Oberstoff**
    - Cut **1 front left**
    - Cut **1 button placket** (only if you opted for a separate button placket)
    - Cut **1 front right**
