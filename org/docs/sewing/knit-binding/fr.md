@@ -89,7 +89,7 @@ La longueur de votre biais dépend de la quantité nécessaire d'étirement. Cel
 ### A ne pas faire
 Il y a un tas de tutoriels sur Internet qui vous montrent comment coudre un biais de jersey. Beaucoup d'entre eux suggèrent quelque chose comme _calculer 90% de la longueur de l'encolure_ (le pourcentage varie).
 
-L'idée est que vous coupez votre biais, rejoignez ses bords, puis cousez sur l'ouverture. C'est (à mon avis) pas la bonne solution.
+L'idée est que vous coupez votre biais, rejoignez ses bords, puis cousez sur l'ouverture. That is (in my opinion) no good.
 
 Une autre approche pour contourner le problème de longueur est d'attacher le biais avant de fermer l'ouverture en question. Par exemple, sur un T-shirt où vous assemblez une couture d'épaule, fixez le biais, puis assemblez la deuxième couture d'épaule.
 
