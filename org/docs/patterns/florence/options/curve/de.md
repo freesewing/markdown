@@ -1,3 +1,3 @@
-![Kurven-Option](./curve.svg)
+![Krümmungs-Option](./curve.svg)
 
-Steuert die Kurve des oberen Randes Ihrer Gesichtsmaske.
+Steuert die Krümmung des oberen Randes deiner Gesichtsmaske.
