@@ -5,7 +5,7 @@ Benjamin is ar rather simple pattern, but your options will determine what needs
  - **Main fabric**
    - Cut **4 Knot**
    - Cut **2 Collar band**
- - **Interfacing**
+ - **Einlage**
    - Cut **4 interfacing knot**
    - Cut **2 interfacing collar band**
 
@@ -15,7 +15,7 @@ Benjamin is ar rather simple pattern, but your options will determine what needs
    - Cut **1 Knot 1**
    - Cut **1 Knot 2**
    - Cut **2 Knot 3**
- - **Interfacing**
+ - **Einlage**
    - Cut **1 interfacing knot 1**
    - Cut **1 interfacing knot 2**
    - Cut **2 interfacing knot 3**
