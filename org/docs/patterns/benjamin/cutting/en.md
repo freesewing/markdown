@@ -1,5 +1,5 @@
-Benjamin is ar rather simple pattern, but your options will determine what
-needs to be cut out. Below are two typicaly layouts.
+Benjamin is a rather simple pattern, but your options will determine what
+needs to be cut out. Below are two typical layouts.
 
 ## Without adjustment ribbon
 
