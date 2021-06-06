@@ -10,7 +10,7 @@ author:
 
 Wouter created the Cornelius cycling breeches pattern based on the Keystone systems. Read more [on the FreeSewing blog](https://freesewing.org/blog/cornelius-cycling-breeches/).
 
-Wouter also shares on [the Instagram feed @Wouter.vdub](https://www.instagram.com/Wouter.vdub/) and [blogs at ShirtArtistry](https://shirtartistry.blog/).
+Wouter teilt auch Dinge auf [Instagram @Wouter.vdub](https://www.instagram.com/Wouter.vdub/) and [bloggt bei ShirtArtistry](https://shirtartistry.blog/).
 
 ![View of the side](cornelius2.jpg)
 
