@@ -14,6 +14,6 @@ Diese Eigenschaften werden im Allgemeinen als _die typischen Merkmale eines Frau
 Wir wollen niemanden ausschließen und wir stimmen _Körperform = Gender_ definitiv nicht zu. Deswegen verwenden wir die Terminologie **mit Brüsten** und **ohne Brüste**, um einfach zu fragen, ob eine Person Brustgewebe hat oder nicht.
 
 ##### Schnittmuster betreffend
-Any user can draft any pattern on our site, as long as they provide the required measurements. Which for some patterns includes measurements that are only relevant if you have breasts.
+Jede/r Nutzer/in kann jedes Schnittmuster auf unserer Seite erstellen, sofern die benötigten Maße bereitgestellt werden. Das enthält für einige Schnitte Maße, die nur relevant sind, wenn du Brüste hast.
 
 
