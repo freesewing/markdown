@@ -6,14 +6,14 @@ Um dir zu helfen, Messfehler zu erkennen, zeigen wir dir eine Abschätzung deine
 
 <Tip>
 
-Diese Abschätzung basiert auf deinem Nackenumfang, daher wird sie erst angezeigt, wenn du deinen Hals gemessen hast.
+Diese Abschätzung basiert auf deinem Halsumfang, daher wird sie erst angezeigt, wenn du deinen Hals gemessen hast.
 
 </Tip>
 
 <Note>
 
-##### This is a difficult area for us to work in
-We want to help you get the best results, and that includes helping you spot issues with your measurements. 
+#### Das ist für uns ein schwieriger Bereich
+Wir wollen dir dabei helfen, die besten Ergebnisse zu erzielen, und das beinhaltet auch, dich auf mögliche Fehler beim Maßnehmen hinzuweisen. 
 On the other hand, we in no way want to imply that someone's measurements are *wrong* somehow.  
 
 Wir sind eine extrem size-inklusive Plattform für Schnittmuster, und ein sehr hoher Anteil unserer Nutzer sind Menschen, die Schwierigkeiten haben, Kleidung oder Schnittmuster bei anderen Anbietern zu finden. 
