@@ -16,7 +16,7 @@ Wenn dir das also nicht allzu viel ausmacht, kannst du es gerne überspringen.
 
 Bügel die Nahtzugabe an der Mittelnaht auf, so dass die Naht schön flach liegt.
 
-Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber du kannst dich mit deinem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternativ kannst du zum Bügeln ein Bügelei oder ein Kissen verwenden.<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
+Da es sich um eine gekrümmte Naht handelt, wird sie nicht flach liegen. Aber du kannst dich mit deinem Bügeleisen von der einen Seite her nähern und dann die zweite Hälfte von der anderen Seite machen. Alternatively, you can use a tailor's ham or cushion to press.<Note>Wiederhole diesen Schritt sowohl für den äußeren Hauptstoff als auch für den inneren Futterstoff.</Note>
 
 ### Schritt 3: Nähe den äußeren an den inneren Stoff und befestige die Bänder
 
