@@ -16,7 +16,7 @@ So if you're not too bothered about that, feel free to skip it.
 
 Strijk de naadwaarde aan de middennaad open zodat de naad plat ligt.
 
-As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's hem or cushion to press.<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
+As this is a curved seam, it won't lay flat. But you can approach it with your iron from one side, then do the second half from the other side. Alternatively, you can use a tailor's ham or cushion to press.<Note>Herhaal deze stap voor zowel de (buiten) stof als voor de voering.</Note>
 
 ### Step 3: Sew the outer to the inner fabric and attach ribbons
 
