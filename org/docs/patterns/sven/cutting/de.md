@@ -1,6 +1,6 @@
 Sven is a very simply pattern, and consists of two main parts plus some strips for the neck and armhole binding.
 
- - **Main fabric**
+ - **Oberstoff**
    - Cut **1 back** on the fold
    - Cut **1 front** on the fold
    - Cut **2 sleeves** with good sides together

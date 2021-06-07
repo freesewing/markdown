@@ -1,3 +1,3 @@
-![Buttons](buttons.svg)
+![Knöpfe](buttons.svg)
 
 How many buttons do you want?

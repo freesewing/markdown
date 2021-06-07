@@ -12,11 +12,11 @@ Diese Symbole zeigen einen Wert an, der zeigt, wie sehr die Maße von den Propor
 <table spaces-before="0">
   <tr>
     <th>
-      Icon
+      Symbol
     </th>
     
     <th>
-      Description
+      Beschreibung
     </th>
   </tr>
   

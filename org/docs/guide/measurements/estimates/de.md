@@ -6,7 +6,7 @@ Um dir zu helfen, Messfehler zu erkennen, zeigen wir dir eine Abschätzung deine
 
 <Tip>
 
-Diese Schätzung basiert auf deinem Nackenumfang, daher wird es erst angezeigt, wenn Sie Ihren Hals gemessen haben.
+Diese Abschätzung basiert auf deinem Nackenumfang, daher wird sie erst angezeigt, wenn du deinen Hals gemessen hast.
 
 </Tip>
 
@@ -18,9 +18,9 @@ On the other hand, we in no way want to imply that someone's measurements are *w
 
 Wir sind eine extrem size-inklusive Plattform für Schnittmuster, und ein sehr hoher Anteil unserer Nutzer sind Menschen, die Schwierigkeiten haben, Kleidung oder Schnittmuster bei anderen Anbietern zu finden. 
 So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. 
-Aber Sie kennen Ihren Körper. Sie wissen, welche Ihrer Körpermasse vom Durchschnitt abweichen. 
-Und dass wir darauf hinweisen, dass sie es tun, ist in gewisser Weise nur eine Bestätigung dafür, dass Sie richtig gemessen haben.
-Wenn andererseits etwas hervorsticht, wo Sie ziemlich durchschnittliche Masse habem, wissen Sie, dass Sie diese Messung vermutlich überprüfen sollten.
+Aber du kennst deinen Körper. Du weißt, welches deiner Maße vom Durchschnitt abweicht. 
+Und dass wir darauf hinweisen, dass sie es tun, ist in gewisser Weise nur eine Bestätigung dafür, dass du richtig gemessen hast.
+Wenn andererseits etwas hervorsticht, wo du ziemlich durchschnittliche Maße hast, weißt du, dass du diese Messung vermutlich überprüfen solltest.
 
 Last but not least, while we try to provide guidance about measurements to help spot mistakes, 
 we never exclude anyone based on size or measurement. 

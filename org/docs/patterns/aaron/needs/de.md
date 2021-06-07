@@ -1,7 +1,7 @@
 
 To make Aaron, you will need the following:
 
-- [Basic sewing supplies](/docs/sewing/basic-sewing-supplies)
+- [Grundlegendes Nähzubehör](/docs/sewing/basic-sewing-supplies)
 - About 0.75 meter of a suitable fabric ([see Fabric options](/docs/patterns/aaron/fabric))
 
 <Note>

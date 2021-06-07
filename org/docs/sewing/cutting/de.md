@@ -1,6 +1,6 @@
 ---
 layout: onecol
-title: Cutting
+title: Zuschnitt
 ---
 
 ![Me cutting out some T-shirts](cutting.jpg)

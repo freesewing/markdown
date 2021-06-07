@@ -1,21 +1,21 @@
-Benjamin is ar rather simple pattern, but your options will determine what needs to be cut out. Below are two typicaly layouts.
+Benjamin ist ein eher einfaches Schnittmsuter, aber die von dir gewählten Optionen beeinflussen, was ausgeschnitten werden muss. Hier sind zwei typische Layouts:
 
 ## Without adjustment ribbon
 
- - **Main fabric**
+ - **Oberstoff**
    - Cut **4 Knot**
    - Cut **2 Collar band**
- - **Interfacing**
+ - **Einlage**
    - Cut **4 interfacing knot**
    - Cut **2 interfacing collar band**
 
 ## With adjustment ribbon
 
- - **Main fabric**
+ - **Oberstoff**
    - Cut **1 Knot 1**
    - Cut **1 Knot 2**
    - Cut **2 Knot 3**
- - **Interfacing**
+ - **Einlage**
    - Cut **1 interfacing knot 1**
    - Cut **1 interfacing knot 2**
    - Cut **2 interfacing knot 3**
