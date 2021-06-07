@@ -20,7 +20,7 @@ Press the seam allowance on the center seam open so the seam lies nice and flat.
 
 As this is a curved seam, it won't lay flat. 
 But you can approach it with your iron from one side, then do the second half from the other side.
-Alternatively, you can use a tailor's hem or cushion to press.
+Alternatively, you can use a tailor's ham or cushion to press.
 
 <Note>Repeat this step for both the outer (main) fabric, and the inner (lining) fabric.</Note>
 
