@@ -6,7 +6,7 @@ Aus praktischen Gründen. Zum Erstellen von maßgeschneiderten Schnittmustern be
 
 Dich jedesmal danach zu fragen wäre ziemlich umständlich, weshalb wir diese Information speichern müssen. Und genau das machen wir in deinem Account.
 
-Ohne die Möglichkeiit, deine Körpermaße zu speichern, wäre das Erstellen von maßgeschneiderten Schnittmustern hoffnungslos unpraktikabel.
+Ohne die Möglichkeit, deine Körpermaße zu speichern, wäre das Erstellen von maßgeschneiderten Schnittmustern hoffnungslos unpraktikabel.
 
 <Note>
 
