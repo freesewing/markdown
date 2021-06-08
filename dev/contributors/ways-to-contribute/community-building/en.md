@@ -7,5 +7,5 @@ Just being there to answer questions and chat with other people is a valuable pa
 
 We also can be found [in plenty of other places](https://freesewing.org/community/where/) where we'd love to have you join us.
 
-Apart from being present in chat rooms and social media, you could also take on some responsibility one or more platforms.
+Apart from being present in chat rooms and social media, you could also take on some responsibility on one or more platforms.
 
