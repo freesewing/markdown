@@ -2,7 +2,7 @@
 title: Triage issues
 ---
 
-Triaging issues is a great way to get involved FreeSewing. You can do tasks such as:
+Triaging issues is a great way to get involved in FreeSewing. You can do tasks such as:
 
  - Making sure issues are properly labeled
  - Ensuring they have a good title that explains the issue in brief
