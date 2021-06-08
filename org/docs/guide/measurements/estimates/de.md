@@ -17,7 +17,7 @@ Wir wollen dir dabei helfen, die besten Ergebnisse zu erzielen, und das beinhalt
 Aber natürlich wollen wir niemals andeuten, dass die Maße einer Person *falsch* sind.  
 
 Wir sind eine extrem größeninklusive Plattform für Schnittmuster, und ein sehr hoher Anteil unserer Nutzer sind Menschen, die Schwierigkeiten haben, Kleidung oder Schnittmuster bei anderen Anbietern zu finden. 
-So on one hand, it might seem like we're setting ourselves up for failure by comparing measurements to a set of more or less *standard* measurements. 
+Es könnte also so aussehen, als wären wir von vornherein zum Scheitern verurteilt, weil wir Maße mit einem Satz an mehr oder weniger *Standard*maßen vergleichen. 
 Aber du kennst deinen Körper. Du weißt, welches deiner Maße vom Durchschnitt abweicht. 
 Und dass wir darauf hinweisen, dass sie es tun, ist in gewisser Weise nur eine Bestätigung dafür, dass du richtig gemessen hast.
 Wenn andererseits etwas hervorsticht, wo du ziemlich durchschnittliche Maße hast, weißt du, dass du diese Messung vermutlich überprüfen solltest.
