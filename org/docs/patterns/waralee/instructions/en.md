@@ -43,14 +43,15 @@ Now you get to sew the two parts together. Lay them with _good sides together_ a
 
 The strings are just long tubes of fabric.
 
-Take a quarter of your waist measurement. Add that number to 40cm (17”). That is the length of each string. Add your seam allowance. Cut out two strips of fabric that are that long and 5cm (2”) wide.
+Take a quarter of your waist measurement. Add that number to 40cm (17”). Add your seam allowance. That is the length of each string. Cut out two strips of fabric that are that long and 5cm (2”) wide.
 
 For example, if my waist circumference is 84.6cm: 84.6cm divided by 4 is 21.2cm. 21.2cm plus 40cm is 61.2cm. 61.2cm plus my seam allowance of 1cm is 62.2cm. I will cut four strips of fabric that are 62.2cm by 5cm.
 
 <Note>
+##### You can lengthen the front ties
 Optionally, to make the front ties longer, extend them by your quarter waist measurement.
 
-When generating your pattern, one of the style options is called “Waist Band”. The strings, when folded, should have the same width as you specified for that option , 2.5cm (1") by default.
+When generating your pattern, one of the style options is called “Waist Band”. The strings, when folded, should have the same width as you specified for that option, 2.5cm (1") by default.
 
 The extra 40cm (17") of length is to make the knot.
 
@@ -88,7 +89,7 @@ The strings keep your pants up, so having that stitching fail will result in awk
 
 Press your pants, and try them on!
 
-Hold the front side against your belly and wrap both straps all the way around you and tie in the front. Then hand the back side through your legs to yourself and tie in the front too.
+Hold the front side against your belly and wrap both strings around you and tie in the back (or, if you have long strings, wrap them all the way around you and tie in the front). Then hand the back side through your legs to yourself and tie the other strings in the front.
 
 Here is an article demonstrating how to tie wrap pants: [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")
 
