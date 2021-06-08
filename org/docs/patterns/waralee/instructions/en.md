@@ -43,7 +43,7 @@ Now you get to sew the two parts together. Lay them with _good sides together_ a
 
 The strings are just long tubes of fabric.
 
-Take a quarter of your waist measurement. Add that number to 40cm (17”). Add your seam allowance. That is the length of each string. Cut out two strips of fabric that are that long and 5cm (2”) wide.
+Take a quarter of your waist measurement. Add that number to 40cm (17”). Add your seam allowance. That is the length of each string. Cut out four strips of fabric that are that long and 5cm (2”) wide.
 
 For example, if my waist circumference is 84.6cm: 84.6cm divided by 4 is 21.2cm. 21.2cm plus 40cm is 61.2cm. 61.2cm plus my seam allowance of 1cm is 62.2cm. I will cut four strips of fabric that are 62.2cm by 5cm.
 
