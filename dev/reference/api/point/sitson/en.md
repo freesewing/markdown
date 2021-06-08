@@ -6,7 +6,7 @@ title: sitsOn()
 bool point.sitsOn(Point check)
 ```
 
-Returns true is the point has the same coordinates as the one you pass to it.
+Returns true if the point has the same coordinates as the one you pass to it.
 
 <Example 
   part="point_sitson"
