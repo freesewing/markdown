@@ -9,7 +9,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
 * **Describe the exact steps which reproduce the problem** in as many details as possible. 
-* **Include relevant information** such as your username on the site, or the person you draften a pattern for.
+* **Include relevant information** such as your username on the site, or the person you drafted a pattern for.
 
 Provide more context by answering these questions:
 
