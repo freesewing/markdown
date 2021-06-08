@@ -16,7 +16,7 @@ These characteristics are generally thought of as _the typical characteristics o
 However, we believe it is best to stay away from this; 
 no body is average and we want to build a gender-inclusive environment. 
 
-We do not want to exclude anyone and we don't agree with the idea that _body shape = gender_. 
+We do not want to exclude anyone and we think that _body shape ≠ gender_. 
 That's why we use the terminology **with breasts** and **without breasts**, 
 simply asking whether a person has breast tissue or not.
 
