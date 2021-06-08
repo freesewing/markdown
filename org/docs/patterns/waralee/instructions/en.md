@@ -48,6 +48,7 @@ Take a quarter of your waist measurement. Add that number to 40cm (17”). Add y
 For example, if my waist circumference is 84.6cm: 84.6cm divided by 4 is 21.2cm. 21.2cm plus 40cm is 61.2cm. 61.2cm plus my seam allowance of 1cm is 62.2cm. I will cut four strips of fabric that are 62.2cm by 5cm.
 
 <Note>
+
 ##### You can lengthen the front ties
 Optionally, to make the front ties longer, extend them by your quarter waist measurement.
 
