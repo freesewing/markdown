@@ -14,12 +14,12 @@ Instead, embrace percentages as options.
 
 <Tip>
 
-##### Use the antman/antwoman tests
+##### Use the antperson tests
 
 To check how well your pattern scales, you can 
-use the *ant-man* test by sampling the pattern for 2 models:
+use the *antperson* test by sampling the pattern for 2 models:
 
- - A model with measurements of avarage person (the man)
+ - A model with measurements of avarage person (the person)
  - A model with measurements 1/10th of an average person (the ant)
 
 A well-designed pattern will scale a factor 10 down and hold its shape.

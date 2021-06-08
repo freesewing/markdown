@@ -161,25 +161,25 @@ pattern will adapt to differently sizes bodies.
   }} 
 />
 
-## The antman test
+## The antperson test
 
-A special case of model testing is the so-called *antman test*.
+A special case of model testing is the so-called *antperson test*.
 It drafts your pattern with a set of *typical* measurements , and then drafts it again
 with measurements that are 1/10th of those *typical* measurements.
 
 It is named after [the cartoon character](https://en.wikipedia.org/wiki/Ant-Man_(film)) who can shrink, 
 yet somehow his suit still fits.
 
-The purpose of the antman test is to bring out areas in your pattern where you made assumptions
+The purpose of the antperson test is to bring out areas in your pattern where you made assumptions
 that will not properly scale.
 Many drafting books will tell you to *add 3cm there* or *measure 2 inch to the right*. Those instructions
 don't scale, and you should avoid them. 
 
-The best patterns will pass the antman test with 2 exact pattern. One will simply be 1/10th the scale of the other.
+The best patterns will pass the antperson test with 2 exact pattern. One will simply be 1/10th the scale of the other.
 
 <Example 
   sample 
-  caption="Congratulations, your bib passes the antman test" 
+  caption="Congratulations, your bib passes the antperson test" 
   pattern="tutorial" 
   part="bib" 
   settings={{ 
