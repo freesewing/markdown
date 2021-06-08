@@ -14,7 +14,7 @@ Du kannst so viele Schnittmuster erstellen wie du möchtest.
 
 ##### Schnittmuster vs. Designs
 
-Wenn du auf der Suche nach Schnittmustern auf diese Seite gestoßen bist, hast du sie womöglich unter *Designs* gefunden.
+Wenn du auf der Suche nach *Schnittmustern* auf diese Seite gestoßen bist, hast du sie womöglich unter *Designs* gefunden.
 Es ist keine super wichtige Unterscheidung, aber es hilft dem Verständnis:
 
 - **Design**: Einer der Styles, die wir anbieten. Wir haben Dutzende von Designs, und du kannst sie alle ausprobieren
