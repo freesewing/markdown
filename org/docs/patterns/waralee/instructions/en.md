@@ -3,7 +3,7 @@
 
 ##### The key to Waralee is the waist band
 
-In a way, Waralee is just a waist band with a long piece of fabric attached. The waist band needs to continue from the fabric into two strings of fabric that are used to tie the pants in the front and two in the back. These strings are not included in the pattern. Traditionally, they are of similar length. You can make longer ones for the front panel (the side that is a little taller than the other), to allow you to tie both sets in the front. I prefer this as it is easier to tie, and you don't have the bulk of the knot in the back.
+In a way, Waralee is just a waist band with a long piece of fabric attached. The waist band needs to continue from the fabric into two strings of fabric that are used to tie the pants in the front and two in the back. These strings are not included in the pattern. Traditionally, they are of similar length. You can make longer ones for the front panel (the side that is a little shorter than the other, on the left in the illustrations below), to allow you to tie both sets in the front. I prefer this as it is easier to tie, and you don't have the bulk of the knot in the back.
 
 </Tip>
 
@@ -14,7 +14,7 @@ In a way, Waralee is just a waist band with a long piece of fabric attached. The
 ##### Pockets are optional
 Traditionally, these types of pants do not have pockets. But I want to put my phone, keys and wallet somewhere. So I've included pockets in the pattern. You can decide for yourself if you would like them on your pants.
 
-The pictures in the next steps show the Waralee pants without pockets. Only the pocket placements from the pattern are shown, to help you orient yourself.
+The illustrations in the next steps show the Waralee pants without pockets. Only the pocket placements from the pattern are shown, to help you orient yourself.
 
 ##### If you do want pockets, make them first
 If you're going to make the pockets, make them before putting one piece of fabric on the other. It's easier to work with the parts still separated.
@@ -74,9 +74,9 @@ This can be made easier by taking a piece of twine longer than the strips. Lay t
 
 Now it is time to sew the waist band. Think about adding interfacing if your fabric is delicate.
 
-Fold the seam allowance in, and then fold along the waist band line.
+Fold the seam allowance in, and then fold along the waist band line. (red)
 
-Insert one of the strings you made in the previous step on each side. Sew along the waist band line, and add some additional stitching to make sure those strings are attached well.
+Insert one of the strings you made in the previous step on each side. Sew along the waist band line, and add some additional stitching to make sure those strings are attached well. (blue)
 
 <Tip>
 
@@ -86,7 +86,7 @@ The strings keep your pants up, so having that stitching fail will result in awk
 
 </Tip>
 
-## Step 6: Wear your Pants
+## Step 6: Wear your pants
 
 Press your pants, and try them on!
 
