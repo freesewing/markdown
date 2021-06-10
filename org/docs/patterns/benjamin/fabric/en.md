@@ -33,7 +33,7 @@ a bow tie that stands proud and crisp. Or one that droops a bit at the tips. Thi
 your preference. 
 
 It is good to experiment with the interfacing on a scrap piece of your fabric, specially with
-the fusible kind. You want to make sure you get the structure you like before commiting it 
+the fusible kind. You want to make sure you get the structure you like before committing it 
 to your pattern pieces.
 
 Although the pattern calls for applying interfacing to all parts, if you have thick or stiff 
