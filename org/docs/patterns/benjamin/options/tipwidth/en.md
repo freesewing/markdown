@@ -7,6 +7,6 @@ them larger to be more flamboyant, or small for a more subdued style.
 
 ###### Not used with the Square bow tie type
 
-This option is ignore with the Square bow tie option. Square bow ties are as wide as the knot width.
+This option is ignored with the Square bow tie option. Square bow ties are as wide as the knot width.
 
 </Note>
