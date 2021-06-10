@@ -14,7 +14,7 @@ Tussenvoering om in te naaien wordt op zijn plek genaaid voor de stof gebruikt w
 
 Het doel van de tussenvoering is je vlinderdas de structuur te geven die je wil. Je kan kiezen voor een das met veel volume en schwung. Of een die de boel wat meer laat hangen. Dit hangt allemaal af van je persoonlijke voorkeur.
 
-Het is goed om met de tussenvoering te experimenteren op een restje stof, vooral met de kleefbare soort. Je wil zeker zijn dat je de gewenste structuur krijgt voor je alles aan je patroondelen kleeft.
+Het is goed om met de tussenvoering te experimenteren op een restje stof, vooral met de kleefbare soort. You want to make sure you get the structure you like before committing it to your pattern pieces.
 
 Hoewel het patroon zegt tussenvoering op alle delen te gebruiken kan je kiezen om dit maar aan één kant (of zelfs geen kant) te doen, afhankelijk van de dikte en structuur van je stof.
 
