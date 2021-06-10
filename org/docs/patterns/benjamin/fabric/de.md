@@ -14,7 +14,7 @@ Sew-in interfacing is sew into place before the fabric pieces are used. You atta
 
 The key part of the interfacing is to give your bow tie the structure you like. You can have a bow tie that stands proud and crisp. Or one that droops a bit at the tips. This is all about your preference.
 
-It is good to experiment with the interfacing on a scrap piece of your fabric, specially with the fusible kind. You want ot make sure you get the structure you like before commiting it to your pattern pieces.
+It is good to experiment with the interfacing on a scrap piece of your fabric, specially with the fusible kind. You want to make sure you get the structure you like before committing it to your pattern pieces.
 
 Although the pattern calls for applying interfacing to all parts, if you have thick or stiff fabric, you may be able to only do one side, or no sides at all.
 
