@@ -14,7 +14,7 @@ L'entoilage à coudre est cousu en place avant que les pièces de tissu ne soien
 
 L'objectif principal de l'entoilage est de donner à votre nœud papillon la structure que vous voulez. Vous pouvez avoir un nœud papillon qui tient fièrement et droit. Ou un qui tombe un peu aux pointes. Il s'agit de de votre préférence.
 
-Il est bon de faire un essai avec l'entoilage sur un morceau de chute de votre tissu, en particulier avec le type thermocollant. Vous voulez vous assurer d'avoir la tenue que vous aimez avant de l'appliquer à vos pièces de patrons.
+Il est bon de faire un essai avec l'entoilage sur un morceau de chute de votre tissu, en particulier avec le type thermocollant. You want to make sure you get the structure you like before committing it to your pattern pieces.
 
 Bien que le patron appelle à l'application d'entoilage sur toutes les parties, si vous avez un tissu épais ou rigide, vous ne pourrez peut-être faire qu'un seul côté ou aucun côté.
 
