@@ -12,7 +12,7 @@ author: ecmtts
 
 ![That fabric is gorgeous](view3.jpg)
 
-![Shoulder slope](view4.jpg)
+![Schulterneigung](view4.jpg)
 
 ![View from the back](view5.jpg)
 
