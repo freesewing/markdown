@@ -1,5 +1,5 @@
 ---
-title: Umfang des Handgelenks
+title: Handgelenksumfang
 ---
 
 The **wrist circumference** measurement is the circumference of your wrist.
