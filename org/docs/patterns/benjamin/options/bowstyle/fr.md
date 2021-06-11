@@ -1,6 +1,6 @@
 Quatre styles de nœud papillon différents !
 
-Le benjamin vous permet de faire quatre nœud papillon différents.
+Benjamin allows you to make four different bow ties.
 
  - Diamant contemporain
  - Papillon classique
