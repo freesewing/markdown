@@ -2,22 +2,22 @@
 title: Verwendung von Hashtags
 ---
 
-Benutzen Sie auf sozialen Medien die musterspezifischen Tags wenn Sie über unser Schnittmuster schreiben.
+Benutze auf sozialen Medien die schnittmusterspezifischen Tags, wenn du über unser Schnittmuster schreibst.
 
-Verwenden Sie zum Beispiel für Simon `#FreeSewingSimon`:
+Verwende zum Beispiel für Simon `#FreeSewingSimon`:
 
 <Hashtag tag='FreeSewingSimon' />
 
-Benutzen Sie für Fragen oder Hilfe `#AskFreeSewing`:
+Benutze für Fragen oder Hilfe `#AskFreeSewing`:
 
 <Hashtag tag='AskFreeSewing' />
 
-Um Ihre Unterstützung zu zeigen oder allgemein mit der FreeSewing Community izu interagieren, verwenden Sie `#WeAreFreeSewing`:
+Um deine Unterstützung zu zeigen oder allgemein mit der FreeSewing Community izu interagieren, verwende `#WeAreFreeSewing`:
 
 <Hashtag tag='WeAreFreeSewing' />
 
 <Tip>
 
-Für grössere Reichweite könnten Sie [die Bilder verwenden](/community/share/)
+Für größere Reichweite könntest du [diese Bilder verwenden](/community/share/)
 
 </Tip>
