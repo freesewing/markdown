@@ -1,5 +1,5 @@
 ---
-title: Something went wrong
+title: Etwas ist schiefgelaufen
 ---
 
 ##### Help us make FreeSewing better by reporting this crash
