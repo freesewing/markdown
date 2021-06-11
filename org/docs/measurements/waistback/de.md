@@ -1,5 +1,5 @@
 ---
-title: Waist back
+title: Taillenweite hinten
 ---
 
 The **waist back** measurement is the back part of your waist circumference.
