@@ -1,5 +1,5 @@
 ---
-title: Cross seam front
+title: Taille-Schritt
 ---
 
 The **cross seam front** is the front part of the [cross seam](/docs/measurements/crossseam/) measurement.
