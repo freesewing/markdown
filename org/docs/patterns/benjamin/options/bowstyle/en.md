@@ -1,6 +1,6 @@
 Four different bow tie styles!
 
-The benjamin allows you to make four different bow ties.
+Benjamin allows you to make four different bow ties.
 
  - Contemporary Diamond
  - Traditional Butterfly
