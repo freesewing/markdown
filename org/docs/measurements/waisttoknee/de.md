@@ -1,5 +1,5 @@
 ---
-title: Waist to knee
+title: Taille bis Knie
 ---
 
 The **waist to knee** is the measurement from your waist down towards your knee, measured on the side of your body.
