@@ -1,7 +1,7 @@
 ---
-title: Bizepsumfang
+title: Oberarmweite
 ---
 
-Der **Bizepsumfang** ist der Umfang des breitesten Teils deines Oberarmes.
+Die **Oberarmweite** ist der Umfang des breitesten Teils deines Oberarmes.
 
-Um den **Umfang deines Bizeps** zu messen, wickel das Maßband um den breitesten Teil deines Oberarmes.
+Um den **Umfang deines Oberarms** zu messen, wickel das Maßband um den breitesten Teil deines Oberarmes, am Bizeps.
