@@ -1,5 +1,5 @@
 ---
-title: High bust
+title: Oberbrustweite
 ---
 
 The **high bust** measurement is your chest circumference measured just under your arms, above the fullest part of your bust.
