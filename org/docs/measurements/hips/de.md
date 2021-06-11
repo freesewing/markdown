@@ -1,7 +1,7 @@
 ---
-title: Hüftumfang
+title: Hüftweite
 ---
 
-Der **Hüftumfang** wird an der obersten Stelle deiner Hüftknochen gemessen.
+Die **Hüftweite** wird an der obersten Stelle deiner Hüftknochen gemessen.
 
-Um deinen **Hüftumfang** zu messen, lege ein Maßband auf der Höhe deiner Hüftknochen um deinen Körper.
+Um deine **Hüftweite** zu messen, lege ein Maßband auf der Höhe deiner Hüftknochen um deinen Körper.
