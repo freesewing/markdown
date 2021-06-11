@@ -1,5 +1,5 @@
 ---
-title: Waist circumference
+title: Taillenweite
 ---
 
 The **waist circumference** measurement is the circumference of your waist below your ribcage.
