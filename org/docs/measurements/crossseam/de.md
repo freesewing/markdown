@@ -1,5 +1,5 @@
 ---
-title: Cross seam
+title: Taille-Schritt-Taille
 ---
 
 The **cross seam** is measured from the waist line at the front through your legs to the back.
