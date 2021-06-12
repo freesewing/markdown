@@ -28,22 +28,22 @@ Diese Bänder findest du in besseren Kurzwarenläden oder online.
 
 ### Nahtzugabe
 
-Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, muss das Ganze am Ende von innen nach außen gedreht werden. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, muss das Ganze am Ende von innen nach außen gedreht werden. Du solltest vielleicht erwägen, eine kleinere Nahtzugabe wie 6mm (¼ inch) zu verwenden, um die Menge an Stoff zu reduzieren.
 
 
 ## Construction
 
-### Step 1: Apply interfacing
+### Schritt 1: Einlage einsetzen
 
 Apply interfacing to all parts where you feel it's needed.
 
 ### Without adjustment ribbon
 
-#### Step 2: Sew the knot to the collar band
+#### Schritt 2: Den Knoten an das Kragenband annähen
 
-Put the collar band part on the bow tie knot part, right sides together. Align the ends of both parts. Now sew across the end to join the parts.
+Lege das Kragenbandstück auf das Fliegenknotenstück, rechte Seiten zusammen. Richte die Enden beider Stücke aus. Nähe nun über das Ende um beide Teile zusammenzufügen.
 
-![Sew the collar band to the knot](step12.png)
+![Nähe das Kragenband an den Knoten](step12.png)
 
 Do this for each end on both collar bands.
 
@@ -85,7 +85,7 @@ The first thing to do is to sew the adjustment ribbon to the shortest of the bow
 
 Put right sides of the short bow piece and the ribbon together.
 
-Now sew across the end to join the parts.
+Nähe nun über das Ende um beide Teile zusammenzufügen.
 
 #### Step 3: Join both sides
 
