@@ -45,21 +45,21 @@ Lege das Kragenbandstück auf das Fliegenknotenstück, rechte Seiten zusammen. R
 
 ![Nähe das Kragenband an den Knoten](step12.png)
 
-Do this for each end on both collar bands.
+Tu dies für jedes Ende beider Kragenbänder.
 
-Press open all the seams.
+Alle Nähte außeinander bügeln.
 
-You now have two identical single sided bow ties.
+Nun hast du zwei identische einseitige Fliegen.
 
-#### Step 3: Join both sides
+#### Schritt 3: Beide Seiten zusammenfügen
 
-![Sew both sides together](step13.png)
+![Nähe beide Seiten zusammen](step13.png)
 
-Lay both the sides you made on top of each other, right sides together. Sew all along, but leaving an area of 5cm open in the middle of the collar band. Through this opening we will turn the bow tie right side out.
+Lege beide Seiten aufeinander, rechte Seiten zusammen. Nähe rundherum, aber lass dabei einen Bereich von 5cm in der Mitte des Kragenbandes offen. Durch diese Öffnung werden wir die Fliege auf rechts wenden.
 
-#### Step 4: Turning
+#### Schritt 4: Wenden
 
-![Clip seam allowance](step14.png)
+![Nahtzugabe zurückschneiden](step14.png)
 
 Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
 
@@ -87,17 +87,17 @@ Put right sides of the short bow piece and the ribbon together.
 
 Nähe nun über das Ende um beide Teile zusammenzufügen.
 
-#### Step 3: Join both sides
+#### Schritt 3: Beide Seiten zusammenfügen
 
-![Sew both sides together](step23.png)
+![Nähe beide Seiten zusammen](step23.png)
 
 Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
 
 Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
 
-#### Step 4: Turning
+#### Schritt 4: Wenden
 
-![Clip seam allowance](step14.png)
+![Nahtzugabe zurückschneiden](step14.png)
 
 Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
 
