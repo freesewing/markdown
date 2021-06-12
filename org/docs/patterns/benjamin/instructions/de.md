@@ -22,7 +22,7 @@ Wenn das alles sehr verwirrend ist, schlage ich vor, die Hilfeseite zum [Fadenla
 
 ### Bow tie adjustment ribbon
 
-Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
 
 These ribbons can be found in the better haberdasheries or can be ordered online.
 
