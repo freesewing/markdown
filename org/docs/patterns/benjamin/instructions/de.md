@@ -12,18 +12,17 @@ Es ist immer eine gute Idee, dein Bügeleisen auf ein paar Stoffresten zu testen
 
 ### Fadenlauf wählen
 
-Dieses Schnittmuster enthält einen Fadenlauf. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Dieses Schnittmuster enthält einen Fadenlauf. Der Fadenlauf ist hier größtenteils dafür gedacht, um mit der Einlage verwendet zu werden. Da jedes Teil des Schnittmusters mit Einlage versehen wird, ist der Fadenlauf des Oberstoffes nicht so wichtig. Du kannst hier auch vom Standard abweichen, um einen informelleren Eindruck zu erzeugen.
 
 <Note>
 
-If this all sounds very confusing, might I suggest reading the help 
-page on [Fabric grain](/docs/sewing/fabric-grain).
+Wenn das alles sehr verwirrend ist, schlage ich vor, die Hilfeseite zum [Fadenlauf](/docs/sewing/fabric-grain) zu lesen.
 
 </Note>
 
 ### Bow tie adjustment ribbon
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
 
 These ribbons can be found in the better haberdasheries or can be ordered online.
 
