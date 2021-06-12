@@ -22,13 +22,13 @@ Wenn das alles sehr verwirrend ist, schlage ich vor, die Hilfeseite zum [Fadenla
 
 ### Bow tie adjustment ribbon
 
-Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. Das ist sehr nützlich, wenn deine Hemden nicht alle dasselbe Halsmaß/Kragenweite haben oder wenn du manchmal gerne Hemden trägst, die etwas mehr Zugabe am Hals haben.
 
-These ribbons can be found in the better haberdasheries or can be ordered online.
+Diese Bänder findest du in besseren Kurzwarenläden oder online.
 
 ### Nahtzugabe
 
-Since the bow tie is constructed with the right sides of the fabric against each other, the whole thing will have to be turned inside out. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
+Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, muss das Ganze am Ende von innen nach außen gedreht werden. You probably want to consider using a small seam allowance of 6mm (¼ inch) to reduce the bulk.
 
 
 ## Construction
