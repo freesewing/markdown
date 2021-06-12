@@ -61,9 +61,9 @@ Lege beide Seiten aufeinander, rechte Seiten zusammen. Nähe rundherum, aber las
 
 ![Nahtzugabe zurückschneiden](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Schneide die Nahtzugabe an den üblichen Stellen zurück und mache kleine Schnitte, um glatte Kurven zu ermöglichen.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two sides right-side-out through the little opening. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Verwende dann das hintere Ende einer großen Häkelnadel oder ein anderes, angemessen langes und schmales Objekt, um beide Seiten durch die kleine Öffnung auf rechts zu wenden. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
 
 Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
 
@@ -99,7 +99,7 @@ Sew all along, but leave the short ends open. Through these openings we will tur
 
 ![Nahtzugabe zurückschneiden](step14.png)
 
-Clip the seam allowance back in the usual spots and make little cuts to allow for a smooth curves.
+Schneide die Nahtzugabe an den üblichen Stellen zurück und mache kleine Schnitte, um glatte Kurven zu ermöglichen.
 
 Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Start by gently pulling the two fabric pieces at the end of the bow apart. Then push the end of the bow up between the two pieces of fabric. Keep gently pushing while pulling the rest of the tie down over it. This can be a tedious procedure. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
 
