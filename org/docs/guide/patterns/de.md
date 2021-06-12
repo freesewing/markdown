@@ -18,6 +18,6 @@ Wenn du auf der Suche nach *Schnittmustern* auf diese Seite gestoßen bist, hast
 Es ist keine super wichtige Unterscheidung, aber es hilft dem Verständnis:
 
 - **Design**: Einer der Styles, die wir anbieten. Wir haben Dutzende von Designs, und du kannst sie alle ausprobieren
--**Schnittmuster**: Das Ergebnis, wenn du aus einem dieser Styles ein Schnittmuster generierst. Wir haben Tausende von Schnittmustern für unsere Nutzer/innen gespeichert, und ein paar davon sind vielleicht von dir
+ -**Schnittmuster**: Das Ergebnis, wenn du aus einem dieser Styles ein Schnittmuster generierst. Wir haben Tausende von Schnittmustern für unsere Nutzer/innen gespeichert, und ein paar davon sind vielleicht von dir
 
 </Tip>
