@@ -16,7 +16,7 @@ To practice tip-making, execute constructions steps 1 through 4 a couple of time
 
 Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Es ist immer eine gute Idee, dein Bügeleisen auf ein paar Stoffresten zu testen. This will allow you to figure out what is a good heat setting for the fabric you are using.
 
 </Tip>
 
