@@ -1,18 +1,18 @@
 ## Notes and tips
 
-### Precision
+### Präzision
 
-Since a bow tie is a rather small item, precission with sewing is key to a good result. Any slight difference between the upper and lower part of the bow will stand out. To get a great result I found it very helpful to trace the actual seam lines onto the interfacing and follow that while sewing.
+Da eine Fliege ein ziemlich kleiner Gegenstand ist, ist Präzision beim Nähen ausschlaggebend für ein gutes Ergebnis. Jeder leichte Unterschied zwischen dem oberen und unteren Teil der Schleife wird hervorstechen. Um gute Ergebnisse zu erzielen, fand ich es immer sehr hilfreich, die Nahtlinie auf die Einlage zu übertragen und dieser beim Nähen zu folgen.
 
-### Press wisely
+### Setze das Bügeleisen weise ein
 
-Later in the construction steps, you will be asked to press your fabric. Please be careful that you are not using too much heat on a delicate fabric that can't handle it.
+In späteren Konstruktionsschritten wirst du aufgefordert, deinen Stoff zu bügeln. Sei dabei bitte vorsichtig, damit du deinen womöglich empfindlichen Stoff nicht zu viel Hitze aussetzt.
 
-It's a good idea to try pressing some fabric scraps before you start. This will allow you to figure out what is a good heat setting for the fabric you are using.
+Es ist immer eine gute Idee, dein Bügeleisen auf ein paar Stoffresten zu testen. Dies erlaubt dir, die richtigen Hitzeinstellungen für den verwendeten Stoff zu finden.
 
-### Choosing your grain
+### Fadenlauf wählen
 
-This pattern includes a grain line. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
+Dieses Schnittmuster enthält einen Fadenlauf. This grain line is mostly there to be used with the interfacing. Since each pattern piece is interfaced, the grain line of the fabric itself is not so important. You can even change this from the standard for more informal impressions.
 
 <Note>
 
