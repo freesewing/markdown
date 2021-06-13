@@ -34,7 +34,7 @@ page on [Fabric grain](/docs/sewing/fabric-grain).
 This pattern allows you to make a bow tie that is the right length for a certain neck
 size. It can also make one that has a ribbon and hardware that makes the bow tie
 adjustable to different neck sizes. This is useful if not all of your shirts have
-the same neck measurements, or if you sometimes like shirt with more ease in the
+the same neck measurements, or if you sometimes like shirts with more ease in the
 neck.
 
 These ribbons can be found in the better haberdasheries or can be ordered online.
