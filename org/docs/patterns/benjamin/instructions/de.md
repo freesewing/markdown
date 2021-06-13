@@ -91,7 +91,7 @@ Nähe nun über das Ende um beide Teile zusammenzufügen.
 
 ![Nähe beide Seiten zusammen](step23.png)
 
-Lege beide Seiten der mittleren Schleife rechts auf rechts zusammen. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Lege beide Seiten der mittleren Schleife rechts auf rechts zusammen. Und lege die lange Schleife auf das Band und den kurzen Schleifenteil, ebenso rechts auf rechts.
 
 Nähe ringsherum, lasse aber die kurzen Enden offen. Durch diese Öffnungen werden wir die Fliegenteile auf rechts wenden.
 
@@ -107,7 +107,7 @@ Sobald du ein Teil auf rechts gewendet hast, drücke alle Ecken und Kanten nach 
 
 Mache dies mit beiden Teilen.
 
-#### Step 5: Add hardware
+#### Schritt 5: Zubehör hinzufügen
 
 Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
 
