@@ -1,4 +1,4 @@
-Four different bow tie styles!
+Vier verschiedene Fliegen-Stile!
 
 Benjamin allows you to make four different bow ties.
 
