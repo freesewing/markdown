@@ -73,7 +73,7 @@ Sobald du die Fliege auf rechts gewendet hast, drücke alle Ecken und Kanten nac
 
 Das Einzige was jetzt noch zu tun ist, ist die kleine Öffnung zu schließen, die wir zum Wenden verwendet haben. Du kannst dies per Hand mit einem Leiterstich oder einem Blindstich tun. Oder du nimmst die Maschine und nähst direkt an der Kante des Bandes entlang. Da diese Stelle normalerweise vom Kragen deines Hemdes verdeckt wird, wird es nicht so auffallen.
 
-Now give it one last press and admire your work.
+Bügel die Fliege nun ein letztes Mal und bewundere deine Arbeit.
 
 ### With adjustment ribbon
 
@@ -93,7 +93,7 @@ Nähe nun über das Ende um beide Teile zusammenzufügen.
 
 Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
 
-Sew all along, but leave the short ends open. Through these openings we will turn the bow tie parts right side out.
+Nähe ringsherum, lasse aber die kurzen Enden offen. Durch diese Öffnungen werden wir die Fliegenteile auf rechts wenden.
 
 #### Schritt 4: Wenden
 
@@ -101,11 +101,11 @@ Sew all along, but leave the short ends open. Through these openings we will tur
 
 Schneide die Nahtzugabe an den üblichen Stellen zurück und mache kleine Schnitte, um glatte Kurven zu ermöglichen.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Lass dir Zeit und sei behutsam. Es passiert schnell zu fest zu schieben und dadurch Nähte oder Stoff zum Reißen zu bringen.
+Verwende dann das hintere Ende einer großen Häkelnadel oder ein anderes, angemessen langes und schmales Objekt, um beide Teile durch die Enden auf rechts zu wenden. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Lass dir Zeit und sei behutsam. Es passiert schnell zu fest zu schieben und dadurch Nähte oder Stoff zum Reißen zu bringen.
 
-Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
+Sobald du ein Teil auf rechts gewendet hast, drücke alle Ecken und Kanten nach außen bevor du die Fliege bügelst.
 
-Do this with both parts.
+Mache dies mit beiden Teilen.
 
 #### Step 5: Add hardware
 
