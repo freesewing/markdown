@@ -23,13 +23,13 @@ So ist es, Benjamin wurde von [Wouter van Wageningen](/users/xdpug) designed und
 
 > Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. Ich wollte den gesamten Prozess verstehen und beherrschen bevor ich mich an größere Projekte wage. 
 > 
-> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://chat.freesewing.org).
+> Dass ich mir die Dinge so einfach selbst erarbeiten konnte, liegt vor allem an dem großartigen [Babylätzchen Tutorial](https://freesewing.org/tutorials/pattern-design/) und an der Hilfestellungen, die ich im [Chat](https://chat.freesewing.org)erhalten habe. Jeder darf in dem Chat Fragen stellen.
 
 ## Wer wird als Nächstes ein Schnittmuster beisteuern?
 
 Als ich Freesewing als Open-Source-Plattform veröffentlichte, hatte ich die Hoffnung, dass sich andere an den Bemühungen beteiligen würden.
 
-Aber ich hätte nie gedacht, dass weniger als drei Monate nach der öffentlichen Veröffentlichung von FreeSewing, wir bereits das erste Schnittmuster, das aus der Community beigesteuert wird, auf FreeSewing veröffentlichen können.
+Aber ich hätte nie gedacht, dass weniger als drei Monate nach der öffentlichen Veröffentlichung von FreeSewing wir bereits das erste Schnittmuster, das aus der Community beigesteuert wird, auf FreeSewing veröffentlichen können.
 
 ![Benjamin ist eine große Sache](giphy.gif)
 
