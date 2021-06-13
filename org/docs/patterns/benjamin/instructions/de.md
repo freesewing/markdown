@@ -75,7 +75,7 @@ Das Einzige was jetzt noch zu tun ist, ist die kleine Öffnung zu schließen, di
 
 Bügel die Fliege nun ein letztes Mal und bewundere deine Arbeit.
 
-### With adjustment ribbon
+### Mit Einstellband
 
 #### Step 2: Attaching the ribbon
 
