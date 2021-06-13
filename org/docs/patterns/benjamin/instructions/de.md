@@ -22,7 +22,7 @@ Wenn das alles sehr verwirrend ist, schlage ich vor, die Hilfeseite zum [Fadenla
 
 ### Bow tie adjustment ribbon
 
-Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. Das ist sehr nützlich, wenn deine Hemden nicht alle dasselbe Halsmaß/Kragenweite haben oder wenn du manchmal gerne Hemden trägst, die etwas mehr Zugabe am Hals haben.
+Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirts with more ease in the neck.
 
 Diese Bänder findest du in besseren Kurzwarenläden oder online.
 
@@ -63,13 +63,13 @@ Lege beide Seiten aufeinander, rechte Seiten zusammen. Nähe rundherum, aber las
 
 Schneide die Nahtzugabe an den üblichen Stellen zurück und mache kleine Schnitte, um glatte Kurven zu ermöglichen.
 
-Verwende dann das hintere Ende einer großen Häkelnadel oder ein anderes, angemessen langes und schmales Objekt, um beide Seiten durch die kleine Öffnung auf rechts zu wenden. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Verwende dann das hintere Ende einer großen Häkelnadel oder ein anderes, angemessen langes und schmales Objekt, um beide Seiten durch die kleine Öffnung auf rechts zu wenden. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Lass dir Zeit und sei behutsam. Es passiert schnell zu fest zu schieben und dadurch Nähte oder Stoff zum Reißen zu bringen.
 
-Once you have the tie right side out, make sure you push all the corners and sides out before giving it a good press.
+Sobald du die Fliege auf rechts gewendet hast, drücke alle Ecken und Kanten nach außen bevor du die Fliege bügelst.
 
-#### Step 5: Closing
+#### Schritt 5: Schließen
 
-![Closing the bow tie](step15.png)
+![Die Fliege schließen](step15.png)
 
 Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
 
@@ -101,7 +101,7 @@ Sew all along, but leave the short ends open. Through these openings we will tur
 
 Schneide die Nahtzugabe an den üblichen Stellen zurück und mache kleine Schnitte, um glatte Kurven zu ermöglichen.
 
-Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Take your time and be gentle. It's easy to push too hard and rip stitches or fabric.
+Then use the back of a large crochet hook, or some other appropriately long skinny object, to turn the two parts right-side-out through the ends. Beginne damit, die beiden Stoffteile am Ende der Schleife sanft außeinanderzuziehen. Dann drücke das Ende der Schleife zwischen die beiden Stoffteile. Drücke vorsichtig weiter, während du den Rest der Fliege über sie hinweg ziehst. Das kann ein mühsamer Prozess sein. Lass dir Zeit und sei behutsam. Es passiert schnell zu fest zu schieben und dadurch Nähte oder Stoff zum Reißen zu bringen.
 
 Once you have the part right side out, make sure you push all the corners and sides out before giving it a good press.
 
@@ -123,4 +123,4 @@ Now feed the ribbon piece through the oval part and we finish it the same way.
 
 Hook the T in one of the adjustment holes and your bow tie is done!
 
-![Good job!](finished.gif)
+![Gut gemacht!](finished.gif)
