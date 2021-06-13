@@ -6,7 +6,7 @@ title: dx()
 float point.dx(Point point)
 ```
 
-Returns de delta along the X-axis between this point and the point you pass it.
+Returns the delta along the X-axis between this point and the point you pass it.
 
 <Example 
   part="point_dx"
