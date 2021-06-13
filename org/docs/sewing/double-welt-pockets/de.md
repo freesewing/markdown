@@ -93,7 +93,7 @@ The shape of the pocket bag depends on the pattern. For simplicity, I will use a
 
 > There is typically a longer and shorter version of the pocket bag. This is because one side is attached to the top welt, while the other is attached to the bottom welt.
 
-## Construction
+## Konstruktion
 
 ### Step 1: Fuse interfacing in place
 
