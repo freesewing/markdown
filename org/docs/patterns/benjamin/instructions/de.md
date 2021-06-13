@@ -71,7 +71,7 @@ Sobald du die Fliege auf rechts gewendet hast, drücke alle Ecken und Kanten nac
 
 ![Die Fliege schließen](step15.png)
 
-Das Einzige was jetzt noch zu tun ist, ist die kleine Öffnung zu schließen, die wir zum Wenden verwendet haben. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Das Einzige was jetzt noch zu tun ist, ist die kleine Öffnung zu schließen, die wir zum Wenden verwendet haben. Du kannst dies per Hand mit einem Leiterstich oder einem Blindstich tun. Oder du nimmst die Maschine und nähst direkt an der Kante des Bandes entlang. Da diese Stelle normalerweise vom Kragen deines Hemdes verdeckt wird, wird es nicht so auffallen.
 
 Now give it one last press and admire your work.
 
