@@ -24,7 +24,7 @@ A vent in the back is optional with Penelope. It will allow you to walk a lot ea
 
 Darts are used to compensate for the difference between your waist and seat measurements. Depending on this difference, there can be two darts, one dart, or no darts at all. More darts make for a potentially better fit. But if the amount of fabric that the dart will take in becomes too small, the number of darts will be reduced. Otherwise it would be very difficult to sew the darts, and they would probably become rather unsightly. Some of the difference will be taken in by the side seam, and if the difference is small, no darts will be included in the front and back pieces.
 
-## Construction
+## Konstruktion
 
 We're not going into a full explanation here on how to create all the individual details that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible zipper, make a vent, etc. If not, there are numerous excellent articles available on the web, both in writen form, and on video. If you do get stuck, you can always reach out to [other FreeSewers](https://chat.freesewing.org/).
 
