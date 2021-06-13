@@ -20,7 +20,7 @@ Wenn das alles sehr verwirrend ist, schlage ich vor, die Hilfeseite zum [Fadenla
 
 </Note>
 
-### Bow tie adjustment ribbon
+### Fliegen-Einstellband
 
 Dieses Schnittmuster ermöglicht es dir, eine Fliege zu erstellen, die genau die richtige Länge für einen bestimmten Hals hat. Es ermöglicht es dir auch, eine Fliege zu erstellen, die ein Band und das nötige Zubehör hat, um die Fliege für verschiedene Hälse anpassbar zu machen. Das ist sehr nützlich, wenn deine Hemden nicht alle dasselbe Halsmaß/Kragenweite haben oder wenn du manchmal gerne Hemden trägst, die etwas mehr Zugabe am Hals haben.
 
@@ -77,13 +77,13 @@ Bügel die Fliege nun ein letztes Mal und bewundere deine Arbeit.
 
 ### Mit Einstellband
 
-#### Step 2: Attaching the ribbon
+#### Schritt 2: Das Band anfügen
 
-![Sew the ribbon to part 1](step22.png)
+![Nähe das Band an Teil 1 an](step22.png)
 
-The first thing to do is to sew the adjustment ribbon to the shortest of the bow parts. The ribbon should be 290mm long. If it is different, you have to make sure that you align it such that the ribbon and short bow piece together are as long as the long bow piece.
+Der erste Schritt ist, das Einstellband an das kürzeste Teil der Schlaufen zu nähen. Das Band sollte 290mm lang sein. Wenn es eine andere Länge hat, musst du sicherstellen, dass du es so ausrichtest, dass das Band und das kurze Schleifenteil zusammen so lang sind wie das lange Schleifenteil.
 
-Put right sides of the short bow piece and the ribbon together.
+Lege die rechten Seiten des kurzen Schleifenteils und des Bandes aufeinander.
 
 Nähe nun über das Ende um beide Teile zusammenzufügen.
 
@@ -91,7 +91,7 @@ Nähe nun über das Ende um beide Teile zusammenzufügen.
 
 ![Nähe beide Seiten zusammen](step23.png)
 
-Lay both the parts of the medium bow on top of each other, right sides together. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
+Lege beide Seiten der mittleren Schleife rechts auf rechts zusammen. And lay the long bow on top of the ribbon and short bow part, also rights sides together.
 
 Nähe ringsherum, lasse aber die kurzen Enden offen. Durch diese Öffnungen werden wir die Fliegenteile auf rechts wenden.
 
