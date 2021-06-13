@@ -6,7 +6,7 @@ title: dy()
 float point.dy(Point point)
 ```
 
-Returns de delta along the Y-axis between this point and the point you pass it.
+Returns the delta along the Y-axis between this point and the point you pass it.
 
 <Example 
   part="point_dy"
