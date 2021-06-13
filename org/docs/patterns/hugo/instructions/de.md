@@ -15,7 +15,7 @@ This 6-episode series shows you how to make your hoodie start to finish:
 
 <YouTube id='PL1gv5yv3DoZOHLjisuD1JcUPTkFy_IGGO' playlist />
 
-## Construction
+## Konstruktion
 
 
 ### Step 1: Prepare the Pocket
