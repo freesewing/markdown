@@ -31,7 +31,7 @@ Diese Bänder findest du in besseren Kurzwarenläden oder online.
 Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, muss das Ganze am Ende von innen nach außen gedreht werden. Du solltest vielleicht erwägen, eine kleinere Nahtzugabe wie 6mm (¼ inch) zu verwenden, um die Menge an Stoff zu reduzieren.
 
 
-## Construction
+## Konstruktion
 
 ### Schritt 1: Einlage einsetzen
 
@@ -71,7 +71,7 @@ Sobald du die Fliege auf rechts gewendet hast, drücke alle Ecken und Kanten nac
 
 ![Die Fliege schließen](step15.png)
 
-Now all that is left is closing the litle hole we used to turn the bow tie right side out. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
+Das Einzige was jetzt noch zu tun ist, ist die kleine Öffnung zu schließen, die wir zum Wenden verwendet haben. You can do this by hand with a slip stitch, or a ladder stitch. Or you can use the machine and stitch right at the edge of the band. Since this will normally be hidden by the collar of your shirt, it will not be all that obvious.
 
 Now give it one last press and admire your work.
 
