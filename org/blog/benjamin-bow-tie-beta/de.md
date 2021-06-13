@@ -9,9 +9,9 @@ author: joost
 
 Unsere Familie an freien und opensource Schnittmustern ist wieder gewachsen, und das neueste Mitglied der Familie ist... [Benjamin](/patterns/benjamin).
 
-Benjamin ist eine Fliege, die mit einer Vielzahl von Optionen ausgestattet ist, um so ziemlich jeden Aspekt Ihrer Fliege einstellen zu können.
+Benjamin ist eine Fliege, die mit einer Vielzahl von Optionen ausgestattet ist, um so ziemlich jeden Aspekt deiner Fliege einstellen zu können.
 
-Sie können sich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mit einem Einstellband entwerfen, das Ihnen etwas Flexibilität in der Passform ermöglicht. Eine Eigenschaft, die diese Fliege zu einem großartigen handgefertigten Geschenk für die bevorstehende Weihnachtszeit macht.
+Du kannst dich für eine maßgeschneiderte Fliege entscheiden oder Benjamin mit einem Einstellband entwerfen, das dir etwas Flexibilität in der Passform ermöglicht. Eine Eigenschaft, die diese Fliege zu einem großartigen handgefertigten Geschenk für die bevorstehende Weihnachtszeit macht.
 
 ## Benjamin ist vielseitiger und ausgefallener, als man denkt
 
@@ -21,7 +21,7 @@ Hier ist die Geschichte von Benjamin, über die ich mich am meisten freue: Ich h
 
 So ist es, Benjamin wurde von [Wouter van Wageningen](/users/xdpug) designed und erstellt, der sich in den letzten Monaten das Arbeiten mit FreeSewing selbst beigebracht hat:
 
-> Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. Ich wollte den gesamten Prozess verstehen und beherrschen bevor ich mich an grössere Projekte wage. 
+> Ich hatte einen Riesenspaß bei der Erstellung des Fliegenschnittes. Ich habe es im Grunde genommen benutzt, um das Tutorial mit dem Babylätzchen in etwas zu verwandeln, das originell und nicht zu komplex (und tatsächlich nützlich) ist. Ich wollte den gesamten Prozess verstehen und beherrschen bevor ich mich an größere Projekte wage. 
 > 
 > That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://chat.freesewing.org).
 
