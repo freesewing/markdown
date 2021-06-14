@@ -1,7 +1,7 @@
-![How much ease do you use for your collar?](collarease.svg)
+![Wie viel Zugabe verwendest du für deinen Kragen?](collarease.svg)
 
-Using the neck circumference is one part of getting a well-fitting bow tie. The other is how much collar ease you normally use for your shirts. Together they dictate how long the bow tie becomes.
+Die Verwendung des Halsumfanges ist eine Zutat dafür, eine gut sitzende Fliege zu bekommen. The other is how much collar ease you normally use for your shirts. Together they dictate how long the bow tie becomes.
 
-> #### Not used with the adjustment ribbon option
+> #### Wird nicht angwandt bei der Option mit Einstellband
 > 
-> This option is used to make a precise fitting bow tie. When you use the adjustment ribbon, this option is not used.
+> Diese Option ist dafür da, um eine präzise passende Fliege zu erstellen. Wenn du ein Einstellband verwendest, wird diese Option nicht angewandt.
