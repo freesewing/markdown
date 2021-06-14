@@ -6,7 +6,7 @@ Wie breit deine Fliege in der Mitte ist, wird den Fliegenknoten beeinflussen. Gr
 
 <Note>
 
-With the Square type bow tie, this value also dictates the width of the tips
+Beim Fliegen-Stil "Rechteck" legt dieser Wert auch die Breite der Spitzen fest
 
 </Note>
 
