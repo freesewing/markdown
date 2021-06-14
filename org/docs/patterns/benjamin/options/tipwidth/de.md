@@ -4,9 +4,9 @@ Du kannst GROSSE Fliegen machen, oder kleine. Diese Option erlaubt es dir, die v
 
 <Note>
 
-###### Not used with the Square bow tie type
+##### Nicht verwendet beim Fliegen-Stil "Rechteck"
 
-This option is ignored with the Square bow tie option. Square bow ties are as wide as the knot width.
+Diese Option wird ignoriert beim rechteckigem Fliegen-Stil. Rechteckige Fliegen sind so breit wie die Knotenbreite.
 
 </Note>
 
