@@ -1,6 +1,6 @@
 ![Bow ties Wide and Narrow](tipwidth.svg)
 
-You can make BIG bow ties, or small ones. This option allows you to change the vertical size of the bows. Make them larger to be more flamboyant, or small for a more subdued style.
+Du kannst GROSSE Fliegen machen, oder kleine. Diese Option erlaubt es dir, die vertikale Größe der Fliege zu ändern. Make them larger to be more flamboyant, or small for a more subdued style.
 
 <Note>
 
