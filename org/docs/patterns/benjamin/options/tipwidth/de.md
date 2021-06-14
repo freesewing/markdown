@@ -1,6 +1,6 @@
 ![Fliegen breit und schmal](tipwidth.svg)
 
-Du kannst GROSSE Fliegen machen, oder kleine. Diese Option erlaubt es dir, die vertikale Größe der Fliege zu ändern. Make them larger to be more flamboyant, or small for a more subdued style.
+Du kannst GROSSE Fliegen machen, oder kleine. Diese Option erlaubt es dir, die vertikale Größe der Fliege zu ändern. Mach sie größer, um flamboyanter zu sein, oder kleiner für einen etwas gedämpfteren Stil.
 
 <Note>
 
