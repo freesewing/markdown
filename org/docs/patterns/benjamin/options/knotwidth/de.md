@@ -1,8 +1,8 @@
 ![Knotenbreite](knotwidth.svg)
 
-The knot width is the width in the middle of the bow tie, where you make the knot.
+Die Knotenbreite ist die Breite in der Mitte der Fliege, dort, wo du den Knoten machst.
 
-How wide your bow tie is in the middle will influence the tie knot. Bigger works better with larger bow ties.
+Wie breit deine Fliege in der Mitte ist, wird den Fliegenknoten beeinflussen. Größer funktioniert bei größeren Fliegen besser.
 
 <Note>
 
