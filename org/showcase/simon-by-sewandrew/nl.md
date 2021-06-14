@@ -1,7 +1,7 @@
 ---
 date: 2021-01-22
 title: Simon door Andrew
-img: simon-sewandrew.jpg
+img: simon-seandrew.jpg
 caption: "Simon hemd door Andrew"
 patterns:
   - simon
