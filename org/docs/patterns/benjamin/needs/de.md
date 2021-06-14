@@ -1,7 +1,7 @@
-To make Benjamin, you will need the following:
+Um Benjamin zu erstellen, benötigst du Folgendes:
 
   - Grundlegendes Nähzubehör
-  - About 0.5 meter of a suitable fabric ([see Fabric options](/docs/patterns/benjamin/fabric/)). Left over pieces of a recent project could work too.
-  - About the same amount of interfacing
-  - Optionally: Bow tie adjustment ribbon and hardware
+  - Etwa 0.5 Meter eines geeigneten Stoffes ([siehe Stoffoptionen](/docs/patterns/benjamin/fabric/)). Übrig gebliebene Teile eines vorherigen Projektes gehen vielleicht auch.
+  - Ungefähr die gleiche Menge an Einlage
+  - Optional: Fliegen-Einstellband und Zubehör
 
