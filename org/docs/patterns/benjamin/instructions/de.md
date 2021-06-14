@@ -37,7 +37,7 @@ Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, mu
 
 Apply interfacing to all parts where you feel it's needed.
 
-### Without adjustment ribbon
+### Ohne Einstellband
 
 #### Schritt 2: Den Knoten an das Kragenband annähen
 
@@ -109,9 +109,9 @@ Mache dies mit beiden Teilen.
 
 #### Schritt 5: Zubehör hinzufügen
 
-Now we need to add the two pieces of hardware that make the bow tie adjustable. The oval looking piece will be attached to the part without the adjustment ribbon. And the piece with the T shaped attachment will go on the part with the ribbon.
+Jetzt müssen wir die beiden Zubehörteile anbringen, die die Fliege einstellbar machen. Das oval aussehende Stück wird an das Teil ohne Einstellband befestigt. Und das Stück mit der T-förmigen Befestigung kommt an das Teil mit der Schleife.
 
-First do the part without the ribbon. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+Befestige zunächst das Stück ohne die Schleife. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
 
 To finish the ends, we're going to fold the fabric in three steps:
 
