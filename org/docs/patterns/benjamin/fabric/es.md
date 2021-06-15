@@ -6,7 +6,7 @@ Silk and silk imitation is slippery and tricky to work with. This can be compens
 
 ## Interfacing
 
-Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing comes in two main types; fusible and sew-in.
+Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing comes in two main types: fusible and sew-in.
 
 The fusible variety has some adhesive attached to one side that is activated with the heat of your iron. This attaches the interfacing to the fabric and the two can then be used as one. Fusible interfacing can be a great option if your fabric allows the heat required, and you use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
 
