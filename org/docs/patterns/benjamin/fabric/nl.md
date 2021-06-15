@@ -6,7 +6,7 @@ Zijde en imitatiezijde is glad en lastig om mee te werken. Dit kan je compensere
 
 ## Tussenvoering
 
-Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Tussenvoering bestaat in twee hoofdvarianten: kleefbaar en om in te naaien.
+Afhankelijk van de stof die je kiest voor je vlinderdas ga je waarschijnlijk tussenvoering nodig hebben. Interfacing comes in two main types: fusible and sew-in.
 
 De kleefbare variant heeft een lijmlaag aan één kant die geactiveerd wordt met de hitte van je strijkijzer. Dit bevestigt de tussenvoering aan de stof, en vanaf dan worden de twee als één stuk behandeld. Kleefbare tussenvoering kan een geweldige optie zijn als je stof de nodige hitte kan verdragen, en je goede kwaliteit gebruikt. Sommige tussenvoeringen zijn van mindere kwaliteit waardoor de lijm loslaat, wat zichtbaar wordt als bubbels op het oppervlak van je vlinderdas. Kwalitatieve tussenvoering en een correcte applicatie zou niet tot deze problemen mogen leiden.
 
