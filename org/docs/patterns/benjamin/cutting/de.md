@@ -3,7 +3,7 @@ Benjamin ist ein eher einfaches Schnittmsuter, aber die von dir gewählten Optio
 ## Ohne Einstellband
 
  - **Oberstoff**
-   - Cut **4 Knot**
+   - Schneide **4 Knoten**
    - Cut **2 Collar band**
  - **Einlage**
    - Cut **4 interfacing knot**
