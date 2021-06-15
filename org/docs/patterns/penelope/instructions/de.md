@@ -1,4 +1,4 @@
-## Notes and tips
+## Anmerkungen und Hinweise
 
 ### Lining
 
