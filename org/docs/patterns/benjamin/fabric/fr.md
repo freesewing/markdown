@@ -6,7 +6,7 @@ La soie et l'imitation de la soie est glissante et délicate à travailler. Cela
 
 ## Entoilage
 
-Selon le tissu que vous avez choisi pour votre nœud papillon, vous aurez probablement besoin d'entoilage. L'entoilage est disponible en deux types principaux; thermocollant et à coudre.
+Selon le tissu que vous avez choisi pour votre nœud papillon, vous aurez probablement besoin d'entoilage. Interfacing comes in two main types: fusible and sew-in.
 
 La variété thermocollante a des points de colle sur un côté, qui sont activés avec la chaleur de votre fer. Cela fixe l'entoilage au tissu et les deux peuvent ensuite être utilisés comme un seul. L'entoilage thermocollant peut être une excellente option si votre tissu permet la chaleur requise et que vous utilisez un thermocollant de qualité. Quelques thermocollants de moindre qualité peuvent se décoller, et cela fait apparaître comme des bulles sur la surface du tissu plus tard dans la vie de votre nœud papillon. De bons entoilages de qualité et posés correctement suivant les directives pour fixer le thermocollant ne présenteront pas ces problèmes.
 
