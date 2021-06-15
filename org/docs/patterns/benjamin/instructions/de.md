@@ -35,7 +35,7 @@ Da die Fliege mit den rechten Seiten des Stoffes zueinander konstruiert wird, mu
 
 ### Schritt 1: Einlage einsetzen
 
-Apply interfacing to all parts where you feel it's needed.
+Bringe Einlage an allen Teilen an, wo du sie für notwendig hältst.
 
 ### Ohne Einstellband
 
