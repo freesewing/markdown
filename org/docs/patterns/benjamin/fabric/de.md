@@ -1,6 +1,6 @@
-Die Fliegen, die du in Geschäften findest, bestehen typischerweise aus Seide oder einer Art von Seidenimitation aus Polyester. Deswegen ist es wohl keine Überraschung, dass dies gute Optionen sind. Any type of fabric that you like the pattern or looks of can become a candidate for a bow tie. The only real limitation is that the bow tie will have to be turned inside out through a tube that is only 2cm across. With some thicker fabrics, this will be a difficult proposition.
+Die Fliegen, die du in Geschäften findest, bestehen typischerweise aus Seide oder einer Art von Seidenimitation aus Polyester. Deswegen ist es wohl keine Überraschung, dass dies gute Optionen sind. Jede Art von Stoff, der dir vom Muster oder Aussehen gefällt, kann ein Kandidat für eine Fliege werden. Die einzige wirkliche Einschränkung ist, dass die Fliege durch einen Schlauch von nur 2cm von innen nach außen gedreht werden muss. Bei einigen dickeren Stoffen wird das ein schwieriges Unterfangen.
 
-Bow ties are more whimsical than normal ties, so having a fun pattern or loud colour is not as much of a problem as it would be with a regular tie.
+Fliegen sind etwas schrulliger als normale Krawatten, deswegen wird ein lustiges Muster oder eine knallige Farbe nicht so problematisch wie bei einer regulären Krawatte.
 
 Silk and silk imitation is slippery and tricky to work with. This can be compensated for with a fusible interfacing.
 
