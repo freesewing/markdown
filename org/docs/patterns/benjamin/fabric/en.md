@@ -13,7 +13,7 @@ a fusible interfacing.
 ## Interfacing
 
 Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing
-comes in two main types; fusible and sew-in. 
+comes in two main types: fusible and sew-in. 
 
 The fusible variety has some adhesive attached to one side that is activated with the heat 
 of your iron. This attaches the interfacing to the fabric and the two can then be used as one. 
