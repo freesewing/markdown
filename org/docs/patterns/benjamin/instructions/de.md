@@ -1,4 +1,4 @@
-## Notes and tips
+## Anmerkungen und Hinweise
 
 ### Präzision
 
@@ -115,7 +115,7 @@ Befestige zunächst das Stück ohne die Schleife. This is because the fabric tai
 
 To finish the ends, we're going to fold the fabric in three steps:
 
-![Three steps to fold, one step to sew](step25.png)
+![Drei Schritte zu falten, ein Schritt zum Nähen](step25.png)
 
 First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
 
