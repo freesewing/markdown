@@ -14,7 +14,7 @@ Returns the delta along the X-axis between this point and the point you pass it.
 />
 
 ```js
-let { Point, points, Path, paths} = part.shorthand()
+let { Point, points, Path, paths } = part.shorthand()
 
 points.from = new Point(10, 10)
 points.to = new Point(80, 70)
