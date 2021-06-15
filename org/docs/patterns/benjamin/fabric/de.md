@@ -2,13 +2,13 @@ Die Fliegen, die du in Geschäften findest, bestehen typischerweise aus Seide od
 
 Fliegen sind etwas schrulliger als normale Krawatten, deswegen wird ein lustiges Muster oder eine knallige Farbe nicht so problematisch wie bei einer regulären Krawatte.
 
-Silk and silk imitation is slippery and tricky to work with. This can be compensated for with a fusible interfacing.
+Seide und Seidenimitat sind rutschig und schwierig zu verarbeiten. Das kann mit Bügeleinlage kompensiert werden.
 
 ## Einlage
 
-Depending on the fabric you chose for your bow tie, you will probably need interfacing. Interfacing comes in two main types; fusible and sew-in.
+Je nach gewähltem Oberstoff für die Fliege wirst du wahrscheinlich Einlage brauchen. Einlage gibt es meistens in zwei Varianten: Bügeleinlage und Einlage zum Einnähen.
 
-The fusible variety has some adhesive attached to one side that is activated with the heat of your iron. This attaches the interfacing to the fabric and the two can then be used as one. Fusible interfacing can be a great option if your fabric allows the heat required, and you use a quality interfacing. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
+Bügeleinlage hat eine Art Kleber auf einer Seite, der durch die Hitze deines Bügeleisens aktiviert wird. Dies befestigt die Einlage am Stoff und die beiden können zusammen verwendet werden, als wären sie nur eine Lage. Bügeleinlage kann eine gute Option sein, wenn dein Stoff der Hitze widerstehen kann und du eine Einlage guter Qualität verwendest. Some lesser quality interfacings can have the adhesive detach, and this shows as bubbles on the fabric surface later on in the life of your bow tie. Good quality interfacings and correctly following the guidelines for adhering the interfacing will not present these problems.
 
 Sew-in interfacing is sew into place before the fabric pieces are used. You attach the interfacing to the fabric by sewing the two together inside the seam allowance. If you use a seam allowance of 6mm, you will sew the interfacing at 3mm. Anything may work as a sew-in interfacing, including an extra layer of the same fabric.
 
