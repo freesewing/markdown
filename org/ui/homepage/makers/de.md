@@ -13,7 +13,7 @@ FreeSewing patterns come with options that allow you to customize different aspe
 
 FreeSewing patterns often have so many options that one pattern can yield a variety of styles. You can share your patterns with others so they can get the same style, drafted to their measurements.
 
-#### A community of helpful people
+#### Eine Gemeinschaft hilfreicher Personen
 
 Questions about a pattern? Stuck on one of the steps when making your garment? No worries, help is available.
 
