@@ -3,13 +3,13 @@ title: How we use your people data
 order: 40
 ---
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
 - Body measurements
 - Whether the model has breasts or not
 - Optional: An avatar for the model
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
 - We need the body measurements to draft made-to-measure sewing patterns
 - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
