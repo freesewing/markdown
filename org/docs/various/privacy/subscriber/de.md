@@ -11,11 +11,11 @@ order: 20
 
 - To send you our newsletter
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
 - As long as you remain subscribed
 
-##### Do we share it?
+##### Teilen wir sie?
 
 - No, never
 
