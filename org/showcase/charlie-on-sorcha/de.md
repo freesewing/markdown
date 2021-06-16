@@ -10,7 +10,7 @@ author: joost
 
 Sorcha is posing in a pair of [Charlie chinos](/designs/charlie/).
 
-![Back view](back.jpg)
+![Rückansicht](back.jpg)
 
 ![Side view](side.jpg)
 
