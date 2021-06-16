@@ -8,38 +8,38 @@ Diese Datenschutzerklärung beschreibt die persönlichen Daten, die wir speicher
 
 Wir sind zuversichtlich, dass sie unser Engagement für Privatsphäre unter Beweis stellen wird.
 
-For clarity, we've broken this up in four different types of roles:
+Der Übersicht wegen haben wir dies in vier verschiedene Rollen aufgeteilt:
 
- - For **visitors of our website**, we store **[visitor data](/docs/various/privacy/visitor/)**
- - For **subscribers to our newsletter**, we store **[subscriber data](/docs/various/privacy/subscriber/)**
- - For **users with an account** on our website, we store **[account data](/docs/various/privacy/account/)**
- - For **users with an account that contains people**, we store **[people data](/docs/various/privacy/people/)**
+ - Für **Besucher unserer Website**speichern wir **[Besucherdaten](/docs/various/privacy/visitor/)**
+ - Für **Abonnenten unseres Newsletters**speichern wir **[Abonnentendaten](/docs/various/privacy/subscriber/)**
+ - Für **Benutzer mit einem Account** auf unserer Website speichern wir **[Accountdaten](/docs/various/privacy/account/)**
+ - Für **Benutzer mit einem Account, der Personen enthält**, speichern wir **[Personendaten](/docs/various/privacy/people/)**
 
-Here are the relevant sections:
+Hier sind die relevanten Abschnitte:
 
 <ReadMore list />
 
 <Tip>
 
-##### These roles are typically cumulative
+##### Diese Rollen sind normalerweise kumulativ
 
-If you are a newsletter subscriber, you are also a visitor.
-And if you are a user with one or more models, you are also a user, and also a visitor.
+Wenn du ein Newsletter-Abonnent bist, bist du auch Besucher.
+Und wenn du ein/e Benutzer/in mit einem oder mehrerer Modellen bist, bist du auch ein/e Nutzer/in und ebenso ein/e Besucher/in.
 
 </Tip>
 
 ##### Data Controller and Contact information
 
-For questions about this privacy notice, you can contact Joost De Cock at joost@joost.at.
+Bei Fragen zu dieser Datenschutzerklärung kannst du dich an Joost De Cock unter joost@joost.at wenden.
 
-##### Changes and Updates to this Policy
+##### Änderungen und Aktualisierungen dieser Erklärung
 
-This policy may be updated occasionally. We will indicate this in the **Last update** data at the top of this document.
+Diese Erklärung kann gelegentlich aktualisiert werden. We will indicate this in the **Last update** data at the top of this document.
 
 A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/various/privacy)
 
-##### See also
+##### Siehe auch
 
- - [Your rights](/docs/various/right/)
- - [Your consent](/account/actions/consent/)
+ - [Deine Rechte](/docs/various/right/)
+ - [Deine Einwilligungen](/account/actions/consent/)
 
