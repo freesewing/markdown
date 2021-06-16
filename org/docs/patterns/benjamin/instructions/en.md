@@ -166,7 +166,7 @@ First we fold the side in under an angle. Then we fold the end over by just a sm
 seam allowance, something like 5mm. Then we fold it over again, for about 1cm. 
 Finally we stick the oval ring under this last fold and stitch across.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Now feed the ribbon piece through the oval part and finish it the same way.
 
 Hook the T in one of the adjustment holes and your bow tie is done!
 
