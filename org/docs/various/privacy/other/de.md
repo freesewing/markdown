@@ -15,13 +15,13 @@ Unser Hosting-Provider verwaltet unsere Backend-Systeme für uns. Dazu gehören 
 
 Das bedeutet zwar, dass sie (streng genommen) deine Daten verarbeiten, aber sie benötigen keinen Zugang zu Informationen über dich. Außerdem verschlüsseln wir ruhende Profildaten, wodurch es für sie nicht trivial ist auf sie zuzugreifen, selbst wenn sie dies wollten.
 
-##### Law enforcement
+##### Gesetzesvollzug
 
-While we have no intention of sharing any of your personal data, we are not above the law.
+Wir haben zwar nicht die Absicht, irgendwelche deiner persönlichen Daten weiterzugeben, aber wir stehen nicht über dem Gesetz.
 
-If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
+Wenn wir gesetzlich dazu verpflichtet sind oder wenn wir der Meinung sind, dass dies das kleinere Übel wäre, werden wir personenbezogene Daten preisgeben.
 
-So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
+Bisher haben wir von der Strafverfolgung keine Anfrage erhalten, Informationen über eine/n unserer Nutzer/innen zu veröffentlichen. Wir haben auch keine persönlichen Informationen aus irgendeinem anderen Grund preisgegeben.
 
 ##### Nutzung von Minderjährigen unter 16 Jahren
 
