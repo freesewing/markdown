@@ -6,7 +6,7 @@ title: Datenschutzerklärung
 
 Diese Datenschutzerklärung beschreibt die persönlichen Daten, die wir speichern. Sie stellt dar, warum wir die Daten brauchen, wie lange wir sie behalten, und ob wir sie mit Dritten teilen.
 
-We are confident it will demonstrate our commitment to privacy.
+Wir sind zuversichtlich, dass sie unser Engagement für Privatsphäre unter Beweis stellen wird.
 
 For clarity, we've broken this up in four different types of roles:
 
