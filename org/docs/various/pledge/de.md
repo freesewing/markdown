@@ -16,7 +16,7 @@ If you'd like to support FreeSewing, you can [join us here](/community/join/)
 
 ##### History
 
-|      Year |        Amount |          |
+|      Jahr |        Betrag |          |
 | ---------:| -------------:| -------- |
 |      2015 |        256,65 |          |
 |      2016 |        473,50 |          |
@@ -24,5 +24,5 @@ If you'd like to support FreeSewing, you can [join us here](/community/join/)
 |      2018 |      3.162,14 |          |
 |      2019 |      4.109,38 |          |
 |      2020 |     10.736,82 |          |
-| **Total** | **19.418,63** | **Euro** |
+| **Summe** | **19.418,63** | **Euro** |
 
