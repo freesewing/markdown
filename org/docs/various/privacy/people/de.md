@@ -15,11 +15,11 @@ order: 40
 - We use the information about whether a model has breasts to only show relevant measurements when configuring the model
 - The model avatar only serves to help you differentiate between your different models
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
 - We keep model data up to 12 months after your last login, or until you remove it.
 
-##### Do we share it?
+##### Teilen wir sie?
 
 - We never share personal model data
 - We publish an open data set of measurements, containing fully anonymized data.
