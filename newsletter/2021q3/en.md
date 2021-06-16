@@ -2,7 +2,7 @@ Welcome to the 2021 Summer edition of the FreeSewing newsletter.
 Here's what we've included for you:
 
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
-- 🕵️ Behind the seams: An FIXME (8-minute read - by Eleonore)
+- 🕵️ Behind the seams: An Gargouri (8-minute read - by Eleonore)
 - 🤓 Git good: Let’s walk through a simple FreeSewing contribution together (2-minute read - by Natalia)
 - ⚡ FreeSewing v2.16: This one's for the developers (1-minute read - by Joost)
 - 🤷 Gender is an anti-pattern (3-minute read - by Joost)
@@ -48,7 +48,7 @@ continue to cherish. And also one that made one thing painfully clear to me: He 
 &nbsp;  
 
 
-# 🕵️ Behind the seams: An FIXME
+# 🕵️ Behind the seams: An Gargouri
 
 > *When we were discussing what kind of content we would like to create for*
 > *the very newsletter you’re reading now, An didn’t have to think long.*
@@ -70,7 +70,8 @@ the [Bruce boxer briefs](https://freesewing.org/designs/bruce/) with Joost’s
 video instructions. And honestly, once you understand how FreeSewing works, 
 how could you not get hooked? I started entering measurements and watching the magic happen. 
 I was so impressed that all of this was available for free, that I became a Patron. 
-Joost sent me an e-mail with a link to FreeSewing’s Discord, and that’s where 
+Joost sent me an e-mail with a link to [FreeSewing’s Discord](https://discord.freesewing.org/) — 
+an online platform for community building — and that’s where 
 I found out about the contributor calls. Being a curious person, the rest is history!
 
 ## How did you become a contributor?
@@ -121,7 +122,7 @@ The pattern pieces can look like such a puzzle, but once you start putting it to
 
 ## Anything you dislike about sewing?
 
-Honestly? I dislike most of the process other than actually seaming the pieces together. 
+Honestly? I dislike most of the process other than actually sewing the pieces together. 
 I also really hate cutting patterns out of fabric. That’s where Bart comes in, usually. 
 I tend to buy less fabric than I’ll actually need, but Bart is so good at pattern 
 tetris that he can make almost anything fit onto the fabric.
@@ -227,6 +228,7 @@ I will just [point you to the blog post on the matter](https://freesewing.org/bl
 
 # 🤷 Gender is an anti-pattern 
 
+To be clear: When I say *anti-pattern*, I am not talking about sewing patterns.  
 An anti-pattern is a term used in technology to label a common approach that is counter-productive. 
 In other words, when a poor solution is nevertheless a popular one, we call that an anti-pattern.
 
