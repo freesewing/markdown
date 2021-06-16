@@ -1,23 +1,23 @@
 ---
 date: 2021-06-12
-title: Jaeger by Roberta
+title: Jaeger von Roberta
 img: jaegerbyroberta1.jpg
-caption: "A flamboyant flamingo Jaeger jacket"
+caption: "Eine flamboyate Flamingo Jaeger-Jacke"
 patterns:
   - jaeger
 author:
 ---
 
-This Jaeger jacket has all of us at FreeSewing considering how we can work flamingo prints into all of our makes.
+Diese Jaeger-Jacke lässt uns alle bei FreeSewing überlegen, wie wir Flamingo-Muster in alle unsere Kreationen einbauen können.
 
-Roberta made this for her friend who will wear it at his daughter's wedding.
+Roberta nähte dies für einen Freund, der es auf der Hochzeit seiner Tochter tragen wird.
 
-Roberta shared:
+Roberta teilte:
 
 > Fabric from Spoonflower with flamingos in a cotton linen blend is working perfectly for the jacket. I did a mock up and alterations were minimal; just tiny a adjustment on the shoulder. Will send pictures for the finished product to share with you. It is looking spectacular and your draft is brilliant.
 
 <Note>
 
-This flamingo jacket was shared with us by Roberta Doylend, Head Of Wardrobe at the Marilyn I Walker School of Fine and Performing Arts, Dramatic Arts at Brock University.
+Diese Flamingo-Jacke wurde mit uns geteilt von Roberta Doylend, Head Of Wardrobe an der Marilyn I Walker School of Fine and Performing Arts, Dramatic Arts an der Brock University.
 
 </Note>
