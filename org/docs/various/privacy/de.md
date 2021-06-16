@@ -34,9 +34,9 @@ Bei Fragen zu dieser Datenschutzerklärung kannst du dich an Joost De Cock unter
 
 ##### Änderungen und Aktualisierungen dieser Erklärung
 
-Diese Erklärung kann gelegentlich aktualisiert werden. We will indicate this in the **Last update** data at the top of this document.
+Diese Erklärung kann gelegentlich aktualisiert werden. Wir werden dies bei **Letztes Update** am oberen Rand dieses Dokuments angeben.
 
-A more comprehensive overview of this document's history is [available on GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/various/privacy)
+Eine umfassendere Übersicht über die bisherigen Änderungen dieses Dokuments ist [auf GitHub](https://github.com/freesewing/markdown/commits/develop/org/docs/various/privacy) verfügbar
 
 ##### Siehe auch
 
