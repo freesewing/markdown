@@ -10,7 +10,7 @@ author:
 
 Joost made another excellent pair of Charlie Chinos in this tan fabric.
 
-![Another view](charliebyjoost3.jpg)
+![Eine andere Ansicht](charliebyjoost3.jpg)
 
 ![A look at the fabric](charliebyjoost4.jpg)
 
