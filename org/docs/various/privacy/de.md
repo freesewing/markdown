@@ -1,10 +1,10 @@
 ---
-title: Privacy notice
+title: Datenschutzerklärung
 ---
 
-**Last update**: 8 January 2021
+**Letztes Update**: 8. Januar 2021
 
-This privacy notice describes the personal data we store. It outlines why we need the data, how long we keep it, and whether we share it with any third-parties.
+Diese Datenschutzerklärung beschreibt die persönlichen Daten, die wir speichern. Sie stellt dar, warum wir die Daten brauchen, wie lange wir sie behalten, und ob wir sie mit Dritten teilen.
 
 We are confident it will demonstrate our commitment to privacy.
 
