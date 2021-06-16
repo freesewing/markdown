@@ -9,11 +9,11 @@ Wenn wir erfahren, dass unsere Sicherheitssysteme umgangen wurden, werden wir di
 Wenn du glaubst, dass deine persönlichen Daten kompromittiert wurden, kontaktiere bitte joost@joost.at.
 
 
-##### Service Providers
+##### Dienstanbieter
 
-Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
+Unser Hosting-Provider verwaltet unsere Backend-Systeme für uns. Dazu gehören Hosting, Speicher und Backup.
 
-While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
+Das bedeutet zwar, dass sie (streng genommen) deine Daten verarbeiten, aber sie benötigen keinen Zugang zu Informationen über dich. Außerdem verschlüsseln wir ruhende Profildaten, wodurch es für sie nicht trivial ist auf sie zuzugreifen, selbst wenn sie dies wollten.
 
 ##### Law enforcement
 
