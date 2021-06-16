@@ -211,7 +211,7 @@ Place your lining in your waistcoat, good sides together. In other words, the wa
 
 Align the lining with the fabric edge, and pin it in place.
 
-Start at center back, and follow the neckline down the front closure. Work your way around the hem, but leave about a 15cm gat at the center back.
+Start at center back, and follow the neckline down the front closure. Work your way around the hem, but leave about a 15cm gap at the center back.
 
 #### Sew lining to fabric
 
@@ -280,7 +280,7 @@ If you'd like, you can pick-stitch around the edges of your waistcoat.
 
 Pick-stitching needs to be done by hand. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches surface for a few threads. You've certainly seen it as a finish on suit jackets.
 
-> You can pick-stitch with thread of the same colour, or use a contrasting colour of you're feeling bold.
+> You can pick-stitch with thread of the same colour, or use a contrasting colour if you're feeling bold.
 
 > While pick-stitching adds a distinctive look, it also locks your fabric to your lining/facing which prevents things from shifting around.
 
