@@ -14,7 +14,7 @@ Wouter teilt auch Dinge auf [Instagram @Wouter.vdub](https://www.instagram.com/W
 
 ![View of the side](cornelius2.jpg)
 
-![Another view](cornelius3.jpg)
+![Eine andere Ansicht](cornelius3.jpg)
 
 <Note>
 
