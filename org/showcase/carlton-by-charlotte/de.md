@@ -16,7 +16,7 @@ Charlotte shared:
 
 We think it was a year well spent!
 
-![Another view](carltonbycharlotte2.jpg)
+![Eine andere Ansicht](carltonbycharlotte2.jpg)
 
 ![Yet another view](carltonbycharlotte3.jpg)
 
