@@ -28,7 +28,7 @@ Und wenn du ein/e Benutzer/in mit einem oder mehrerer Modellen bist, bist du auc
 
 </Tip>
 
-##### Data Controller and Contact information
+##### Datencontroller und Kontaktinformationen
 
 Bei Fragen zu dieser Datenschutzerklärung kannst du dich an Joost De Cock unter joost@joost.at wenden.
 
