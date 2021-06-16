@@ -14,17 +14,17 @@ order: 30
 
 - Um dich zu authentifizieren
 - Um dich bei Bedarf kontaktieren zu können
-- Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
+- Optional: Wir brauchen kein Bild oder deine Accounts bei sozialen Medien, aber sie helfen dabei, eine Online-Community aufzubauen
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
-- We keep profile data up to 12 months after your last login, or until you remove it.
+- Wir behalten Profildaten bis zu 12 Monate nach deiner letzten Anmeldung oder bis du sie entfernst.
 
-##### Do we share it?
+##### Teilen wir sie?
 
-- No, never.
+- Nein, niemals.
 
 <Note>
-This data is stored for anybody with an account on our website.
+Diese Daten werden für jede Person mit einem Account auf unserer Website gespeichert.
 </Note>
 
