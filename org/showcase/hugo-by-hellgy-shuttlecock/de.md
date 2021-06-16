@@ -12,9 +12,9 @@ Hellgy has captured our hearts with their Hugo hoodie creations with fun and che
 
 ![Eine Detailansicht](hugobyhellgy_shuttlecock_2.jpg)
 
-![Another detail view](hugobyhellgy_shuttlecock_3.jpg)
+![Noch eine Detailansicht](hugobyhellgy_shuttlecock_3.jpg)
 
-![The back view](hugobyhellgy_shuttlecock_4.jpg)
+![Die Rückansicht](hugobyhellgy_shuttlecock_4.jpg)
 
 <Note>
 
