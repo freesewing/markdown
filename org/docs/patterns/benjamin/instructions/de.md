@@ -115,12 +115,12 @@ Befestige zunächst das Stück ohne die Schleife. Das liegt daran, dass das Stof
 
 Um die Enden zu versäubern, falten wir den Stoff in drei Schritten:
 
-![Drei Schritte zu falten, ein Schritt zum Nähen](step25.png)
+![Drei Schritte zu falten, ein Schritt zu nähen](step25.png)
 
-Zuerst falten wir die Seiten unter einem Winkel nach innen. Dann falten wir das Ende darüber, mit einer kleinen Nahtzugabe, etwa 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Zuerst falten wir die Seiten unter einem Winkel nach innen. Dann falten wir das Ende darüber, mit einer kleinen Nahtzugabe, etwa 5mm. Dann falten wir es nochmal, für ca. 1cm. Als letztes klemmen wir den ovalen Ring unter diese letzte Falte und nähen die Stofflagen fest.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Now feed the ribbon piece through the oval part and finish it the same way.
 
-Hook the T in one of the adjustment holes and your bow tie is done!
+Hake das T in einer der Verstelllöcher fest und deine Fliege ist fertig!
 
 ![Gut gemacht!](finished.gif)
