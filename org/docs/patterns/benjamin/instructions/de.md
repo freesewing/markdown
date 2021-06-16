@@ -111,13 +111,13 @@ Mache dies mit beiden Teilen.
 
 Jetzt müssen wir die beiden Zubehörteile anbringen, die die Fliege einstellbar machen. Das oval aussehende Stück wird an das Teil ohne Einstellband befestigt. Und das Stück mit der T-förmigen Befestigung kommt an das Teil mit der Schleife.
 
-Befestige zunächst das Stück ohne die Schleife. This is because the fabric tail of the ribbon piece will have to go through the oval part before sewing on its hardware. If you would do it in the other sequence, you may not be able to feed it through.
+Befestige zunächst das Stück ohne die Schleife. Das liegt daran, dass das Stoffende des Schleifenstückes durch die ovale Öffnung passen muss, bevor wir das Zubehör annähen. Wenn du die Reihenfolge änderst, könnte es nicht mehr hindurchpassen.
 
-To finish the ends, we're going to fold the fabric in three steps:
+Um die Enden zu versäubern, falten wir den Stoff in drei Schritten:
 
 ![Drei Schritte zu falten, ein Schritt zum Nähen](step25.png)
 
-First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
+Zuerst falten wir die Seiten unter einem Winkel nach innen. Dann falten wir das Ende darüber, mit einer kleinen Nahtzugabe, etwa 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
 
 Now feed the ribbon piece through the oval part and we finish it the same way.
 
