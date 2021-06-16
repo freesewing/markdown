@@ -3,11 +3,11 @@ title: How we use your subscriber data
 order: 20
 ---
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
-- Your E-mail address
+- Deine E-Mail-Adresse
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
 - To send you our newsletter
 
