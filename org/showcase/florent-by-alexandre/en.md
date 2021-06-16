@@ -13,6 +13,6 @@ What a great reuse of fabric into an adorable Florent cap. Alexandre said:
 
 <Note>
 
-This picture is from Aleandre, [@bankair on Twitter](https://twitter.com/bankair). It is reposted here with permission.
+This picture is from Alexandre, [@bankair on Twitter](https://twitter.com/bankair). It is reposted here with permission.
 
 </Note>
