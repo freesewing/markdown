@@ -14,6 +14,6 @@ What a great reuse of fabric into an adorable Florent cap. Alexandre said:
 
 <Note>
 
-This picture is from Aleandre, [@bankair on Twitter](https://twitter.com/bankair). Hij werd hier gepost met toestemming.
+This picture is from Alexandre, [@bankair on Twitter](https://twitter.com/bankair). Hij werd hier gepost met toestemming.
 
 </Note>
