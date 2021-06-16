@@ -3,15 +3,15 @@ title: How we use your visitor data
 order: 10
 ---
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
 - Your IP address
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
 - Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
 - We keep these logs no longer than 6 months.
 
