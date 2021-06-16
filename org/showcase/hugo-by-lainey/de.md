@@ -10,4 +10,4 @@ author: iggyblade
 
 Lainey hacked this Hugo and gave it extra warm lining and zippers on the pouch pocket.
 
-![Another view](2.jpg)
+![Eine andere Ansicht](2.jpg)
