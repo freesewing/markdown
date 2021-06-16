@@ -8,7 +8,7 @@ patterns:
 author: swissarmywife
 ---
 
-![Another view](2.jpg)
+![Eine andere Ansicht](2.jpg)
 
 ![And a back view](3.jpg)
 
