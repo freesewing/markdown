@@ -9,7 +9,7 @@ order: 20
 
 ##### Warum brauchen wir sie?
 
-- To send you our newsletter
+- Um dir unseren Newsletter zu schicken
 
 ##### Für wie lange behalten wir sie?
 
@@ -17,11 +17,11 @@ order: 20
 
 ##### Teilen wir sie?
 
-- No, never
+- Nein, niemals
 
 <Note> 
 
-This data is stored for anybody who subscribes to our newsletter.
+Diese Daten werden für jede Person gespeichert, die unseren Newsletter abonniert.
 
 For people with an account on the website who enable the newsletter subscription in their account settings, we store no additional personal data as we already have their email on file in their [account data][1].
 
