@@ -15,9 +15,9 @@ order: 10
 
 - We keep these logs no longer than 6 months.
 
-##### Do we share it?
+##### Teilen wir sie?
 
-- No, never.
+- Nein, niemals.
 
 <Note>
 This data is stored for anybody who visits our website or connects to our backend APIs.
