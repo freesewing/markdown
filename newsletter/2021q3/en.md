@@ -1,5 +1,5 @@
 Welcome to the 2021 Summer edition of the FreeSewing newsletter.  
-Here's what we have included for you:
+Here's what we've included for you:
 
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
 - 🕵️ Behind the seams: An FIXME (8-minute read - by Eleonore)
@@ -18,32 +18,27 @@ If not, mash that reply button and tell us what you'd like to read instead ¯\\\
 
 # 😢 Farewell David: Remembering David Page Coffin
 
-Early May, I received news of the passing of David Page Coffin. 
-David was editor of Threads Magazine back when animals could talk, 
-and his books on making trousers and shirts adorns my bookshelves, 
-as I'm sure they do many others.
-
-David was also a friend of FreeSewing, and he reached out to me a couple 
-of years ago to discuss plans he had for a new book. He wanted to make 
-another book about shirts. Not so much about the basic grunt work of making a 
-shirt that fits. But more about all the little style variations and creative 
+In early May, I received news of the passing of David Page Coffin. David was editor of Threads 
+Magazine back when animals could talk, and his books on making trousers and shirts adorns my 
+bookshelves, as I'm sure they do many others. 
+David was also a friend of FreeSewing, and he reached out to me a couple of years ago to discuss plans 
+he had for a new book. He wanted to make another book about shirts. Not so much about the basic grunt 
+work of making a shirt that fits. But more about all the little style variations and creative 
 embellishments one could add to a shirt to make it into something really special.
 
-Still, he also felt that somebody who would pick up a book about making 
-shirts would also expect to, you know, make a shirt from it. So he was 
-wondering whether he could point them to FreeSewing's Simon pattern instead of 
-having to dedicate a section of the book to the basics.
+Still, he also felt that somebody who would pick up a book about making shirts would also expect 
+to, you know, make a shirt from it. So he was wondering whether he could point them to FreeSewing's 
+Simon pattern instead of having to dedicate a section of the book to the basics.
 
-I really enjoyed talking to David at length about what he was working on, 
-and his tacit endorsement felt like a big deal from someone who would have 
-no trouble getting his foot in the door of a household-brand pattern company.
+I really enjoyed talking to David at length about what he was working on, and his tacit endorsement 
+felt like a big deal from someone who would have no trouble getting his foot in the door of a 
+household-brand pattern company.
 
-Like so many other ideas and good intentions, this one too ended up in the 
-time-deprived *maybe one day* pile.
+Like so many other ideas and good intentions, this one too ended up in the time-deprived *maybe 
+one day* pile.
 
-Still, for a brief moment I was allowed to bask in the David's enthusiasm. 
-It is a conversation I will continue to cherish. And also one that made 
-one thing painfully clear to me: He will be sorely missed.
+Still, for a brief moment I was allowed to bask in the David's enthusiasm. It is a conversation I will 
+continue to cherish. And also one that made one thing painfully clear to me: He will be sorely missed.
 
 
 &nbsp;  
@@ -131,16 +126,16 @@ I also really hate cutting patterns out of fabric. That’s where Bart comes in,
 I tend to buy less fabric than I’ll actually need, but Bart is so good at pattern 
 tetris that he can make almost anything fit onto the fabric.
 
-## Any advice for fellow sewers?
+## Any advice for fellow sewists?
 
 Just keep going. It can be so frustrating when things don’t work out the way you’d envisioned. 
 But you just have to wait for things to ‘click’. And they will, eventually. 
-I think, haha! I’m still a beginner myself!
+I think, Haha! I’m still a beginner myself!
 
 ## Do you sew more for yourself or for others?
 
 Bart dislikes new things, so if I make him anything, he’ll wait five years before he decides to wear it. 
-And our son Luc has more clothes than he can wear already. He doesn’t need anything more. 
+And our son Luc has more clothes than he can wear already. He doesn’t need any more. 
 So I sew for me. I’m the only one who’s actually grateful for handmade clothes!
 
 ## What do you do outside of FreeSewing?
@@ -194,10 +189,10 @@ At this point, we're editing the *For editors* file. We’ll swap out the old li
 new link we identified, and then propose changes. Let’s give the proposal a nice title and description.
 
 Time to submit a pull request! Now we’re cooking with fire. A pull request, or PR, is a way to 
-tell FreeSewing that we are proposing a change. In this case we’re saying, hi, I found a broken link and I fixed it.
+tell FreeSewing that we are proposing a change. In this case we’re saying: "Hi, I found a broken link and I fixed it".
 
-Finally, someone at FreeSewing will review the PR and say cool, this looks great, 
-so I’ll accept the change; I’ll *merge* it. That will send you, the author, a brief email, 
+Finally, someone at FreeSewing will review the PR and say: "Cool, this looks great, 
+so I’ll accept the change; I’ll *merge* it". That will send you, the author, a brief email, 
 it’ll be updated in GitHub, and when Joost next deploys the site, typically within a week or so, 
 you’ll see your contributions live on FreeSewing.org or FreeSewing.dev. Crushed it.
 
@@ -239,7 +234,7 @@ Anti-patterns are often not the result of a conscious choice, but rather the abs
 I was reminded of this recently when we were having a discussion on how we use gender on the FreeSewing website.
 
 As you may or may not know, we have a history of striving for diversity and inclusion, 
-and as part of those efforts have gone through several iterations of how we gather input 
+and as part of those efforts have gone through several iterations of the way we gather input 
 from our users about their bodies. In the end, we landed on merely making the distinction between 
 bodies *with-breasts*, and bodies *without-breasts*. Since that is an important distinction 
 when designing patterns, and we don't care or need to know about gender.
@@ -258,9 +253,9 @@ Partially because I am a hopelessly flawed human being, but also because I belie
 
 When writing software, designing patterns, or building a website, we have the luxury to come back to it 
 to improve things, fix problems, and make it better. 
-Without such a safety net, the worries of getting it wrong would paralyze me, and I'd get nothing done.
+Without such a safety net, the worries of getting it wrong would paralyse me, and I'd get nothing done.
 
-So if you see something that is wrong. [Let us know](https://discord.freesewing.org/). 
+So if you see something that's wrong. [Let us know](https://discord.freesewing.org/). 
 That's how we make it better.
 
 
