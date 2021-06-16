@@ -1,12 +1,12 @@
 ---
-title: Other privacy-related topics
+title: Andere Themen im Zusammenhang mit Datenschutz
 ---
 
-##### Full disclosure
+##### Vollständige Offenlegung
 
-If we learn of a security systems breach, we will inform both you and the authorities.
+Wenn wir erfahren, dass unsere Sicherheitssysteme umgangen wurden, werden wir dich und die Behörden informieren.
 
-If you believe your personal data has been compromised, please contact joost@joost.at.
+Wenn du glaubst, dass deine persönlichen Daten kompromittiert wurden, kontaktiere bitte joost@joost.at.
 
 
 ##### Service Providers
@@ -23,7 +23,7 @@ If we are required to do so by law, or if we feel that doing so would be the les
 
 So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
 
-##### Use by minors under the age of 16
+##### Nutzung von Minderjährigen unter 16 Jahren
 
-For legal reasons, you need to be at least 16 years old to use freesewing.
+Aus rechtlichen Gründen musst du mindestens 16 Jahre alt sein, um Freesewing zu benutzen.
 
