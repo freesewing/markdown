@@ -14,6 +14,6 @@ Was für eine tolle Wiederverwertung von Stoff in eine bewundernswerte Florent-M
 
 <Note>
 
-This picture is from Alexandre, [@bankair on Twitter](https://twitter.com/bankair). It is reposted here with permission.
+Dieses Bild stammt von Alexandre, [@bankair auf Twitter](https://twitter.com/bankair). It is reposted here with permission.
 
 </Note>
