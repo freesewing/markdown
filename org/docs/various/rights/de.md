@@ -1,9 +1,9 @@
 ---
-title: Your rights
+title: Deine Rechte
 ---
 
-Freesewing applies the General Data Protection Regulation (GDPR) of the European Union (EU).
+Freesewing wendet die Datenschutzgrundverordnung (DSGVO) der Europäischen Union (EU) an.
 
-EU citizen or not, for us these are your rights:
+Ob EU-Bürger oder nicht, für uns sind dies deine Rechte:
 
 <ReadMore list />

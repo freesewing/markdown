@@ -23,7 +23,7 @@ page on [Fabric grain](/docs/sewing/fabric-grain).
 
 ### Bow tie adjustment ribbon
 
-This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirt with more ease in the neck.
+This pattern allows you to make a bow tie that is the right length for a certain neck size. It can also make one that has a ribbon and hardware that makes the bow tie adjustable to different neck sizes. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirts with more ease in the neck.
 
 These ribbons can be found in the better haberdasheries or can be ordered online.
 
@@ -120,7 +120,7 @@ To finish the ends, we're going to fold the fabric in three steps:
 
 First we fold the side in under an angle. Then we fold the end over by just a small seam allowance, something like 5mm. Then we fold it over again, for about 1cm. Finally we stick the oval ring under this last fold and stitch across.
 
-Now feed the ribbon piece through the oval part and we finish it the same way.
+Now feed the ribbon piece through the oval part and finish it the same way.
 
 Hook the T in one of the adjustment holes and your bow tie is done!
 

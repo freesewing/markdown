@@ -1,8 +1,8 @@
 ---
-title: Twin needle
+title: Zwillingsnadel
 ---
 
-![A twin needle from Schmetz](twin-needle.jpg)
+![Eine Zwillingsnadel von Schmetz](twin-needle.jpg)
 
 ![A twin needle stitch is flexible because of the zig-zag at the back.](twin-needle.gif)
 

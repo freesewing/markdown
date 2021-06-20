@@ -1,6 +1,6 @@
 Vier verschillende stijlen van vlinderdas!
 
-De Benjamin kan op vier manieren gestrikt worden.
+Benjamin allows you to make four different bow ties.
 
  - Hedendaagse diamant
  - Traditionele vinder

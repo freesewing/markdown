@@ -3,7 +3,7 @@ layout: onecol
 title: Zuschnitt
 ---
 
-![Me cutting out some T-shirts](cutting.jpg)
+![Ich, wie ich ein paar T-Shirts ausschneide](cutting.jpg)
 
 Cutting is the act of cutting out the different pattern pieces out of your fabric.
 

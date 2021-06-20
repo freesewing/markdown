@@ -1,5 +1,5 @@
 ---
-title: Bust span
+title: Brustpunkte Abstand
 ---
 
 The **bust span** is the horizontal distance between the two apex points of your bust.

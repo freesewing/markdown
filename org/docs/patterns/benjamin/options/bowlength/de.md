@@ -1,4 +1,4 @@
-![Bow length](bowlength.svg)
+![Fliegenlänge](bowlength.svg)
 
-You can make wide bow ties, or narrow ones. This option allows you to change the horizontal size of the bows. Make them larger to be more flamboyant, or small for a more subdued style.
+Du kannst breite Fliegen machen, oder schmale. Diese Option erlaubt es dir, die horizontale Größe der Fliege zu ändern. Mach sie größer, um flamboyanter zu sein, oder kleiner für einen etwas gedämpfteren Stil.
 

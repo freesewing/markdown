@@ -2,6 +2,6 @@
 
 What style of hem line do you want?
 
- - Straight
+ - Gerade
  - Baseball
  - Slashed

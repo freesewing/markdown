@@ -1,24 +1,24 @@
 ---
-title: How we use your visitor data
+title: Wie wir deine Besucherdaten verwenden
 order: 10
 ---
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
-- Your IP address
+- Deine IP-Adresse
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
-- Your IP address is logged on our backend systems. We use these logs and the information in them only to diagnose problems.
+- Deine IP-Adresse wird auf unseren Backend-Systemen geloggt. Wir verwenden diese Logs und die darin enthaltenen Informationen nur zur Diagnose von Problemen.
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
-- We keep these logs no longer than 6 months.
+- Wir behalten diese Logs nicht länger als 6 Monate.
 
-##### Do we share it?
+##### Teilen wir sie?
 
-- No, never.
+- Nein, niemals.
 
 <Note>
-This data is stored for anybody who visits our website or connects to our backend APIs.
+Diese Daten werden für jede Person gespeichert, die unsere Website besucht oder sich mit unseren Backend-APIs verbindet.
 </Note>

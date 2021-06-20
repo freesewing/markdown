@@ -1,5 +1,5 @@
 ---
-title: Pattern notation guide
+title: Schnittmuster-Notation
 order: 800
 ---
 

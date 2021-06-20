@@ -1,30 +1,30 @@
 ---
-title: How we use your account data
+title: Wie wir deine Accountdaten verwenden
 order: 30
 ---
 
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
-- Your E-mail address
-- Your username and password
-- Optional: A profile picture, bio, and your social media accounts
+- Deine E-Mail-Adresse
+- Deinen Benutzernamen und dein Passwort
+- Optional: ein Profilbild, eine Beschreibung über dich, und deine Accounts bei sozialen Medien
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
-- To authenticate you
-- To be able to contact you when required
-- Optional: We don't need a picture or your social media accounts, but they help to build an on-line community
+- Um dich zu authentifizieren
+- Um dich bei Bedarf kontaktieren zu können
+- Optional: Wir brauchen kein Bild oder deine Accounts bei sozialen Medien, aber sie helfen dabei, eine Online-Community aufzubauen
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
-- We keep profile data up to 12 months after your last login, or until you remove it.
+- Wir behalten Profildaten bis zu 12 Monate nach deiner letzten Anmeldung oder bis du sie entfernst.
 
-##### Do we share it?
+##### Teilen wir sie?
 
-- No, never.
+- Nein, niemals.
 
 <Note>
-This data is stored for anybody with an account on our website.
+Diese Daten werden für jede Person mit einem Account auf unserer Website gespeichert.
 </Note>
 

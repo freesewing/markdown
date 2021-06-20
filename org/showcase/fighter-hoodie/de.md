@@ -8,13 +8,13 @@ patterns:
 author: Topstithed
 ---
 
-![Another view](1.jpg)
+![Eine andere Ansicht](1.jpg)
 
-![Another view](2.jpg)
+![Eine andere Ansicht](2.jpg)
 
-![Another view](3.jpg)
+![Eine andere Ansicht](3.jpg)
 
-![Another view](4.jpg)
+![Eine andere Ansicht](4.jpg)
 
 <Note>
 

@@ -1,5 +1,5 @@
 ---
-title: Seam allowance
+title: Nahtzugabe
 ---
 
 Legt fest, ob du eine _Nahtzugabe_ möchtest oder nicht. Und, wenn du eine willst, wie groß sie sein soll.

@@ -5,7 +5,7 @@
 
 ##### COVID-19: Gesichtsmasken-Muster
 
-Wenn du auf der Suche nach unserem Gesichtsmasken Muster bist, folge diesem Link:
+Wenn du auf der Suche nach unserem Gesichtsmasken-Schnittmuster bist, folge diesem Link:
 
  - [Schnittmuster für Gesichtsmasken und Anleitung](/blog/facemask-frenzy)
 

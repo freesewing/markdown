@@ -1,5 +1,5 @@
 ---
-title: Waist to floor
+title: Taille bis Boden
 ---
 
 The **waist to floor** is the measurement from your waist down to the floor.

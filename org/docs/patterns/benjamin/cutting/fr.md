@@ -1,4 +1,4 @@
-Benjamin est un modèle plutôt simple, mais vos options détermineront ce qui doit être coupé. Voici deux versions typiques.
+Benjamin is a rather simple pattern, but your options will determine what needs to be cut out. Below are two typical layouts.
 
 ## Sans ruban d'ajustement
 

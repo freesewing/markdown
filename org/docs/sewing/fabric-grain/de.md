@@ -1,5 +1,5 @@
 ---
-title: Fabric grain
+title: Fadenlauf
 ---
 
 ![The grainline runs parallel to the selvedge](fabric-grain.jpg)

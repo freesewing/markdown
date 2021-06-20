@@ -209,7 +209,7 @@ Leg je voering in je gilet, met de goede kanten op elkaar. In andere woorden, je
 
 Leg de voering gelijk met de rand van de stof, en speld vast.
 
-Begin aan de middenrug, en volg de halslijn tot aan de sluiting vooraan. Ga rond de zoom, maar laat een stuk van 15 cm open onder aan de middenrug.
+Begin aan de middenrug, en volg de halslijn tot aan de sluiting vooraan. Work your way around the hem, but leave about a 15cm gap at the center back.
 
 #### Stik voering aan de stof
 
@@ -278,7 +278,7 @@ Als je wil kan je een doorpitsteek rond de randen van je gilet gebruiken.
 
 Een doorpitsteek wordt met de hand gemaakt. You run a simple stitch a few mm from the edges of your waistcoat, but only let your stitches surface for a few threads. Je hebt dit sowieso al gezien als een afwerking aan kostuumjasjes.
 
-> Je kan de doorpitsteek maken met garen van dezelfde kleur, of een contrasterende kleur gebruiken als je eens gek wil doen.
+> You can pick-stitch with thread of the same colour, or use a contrasting colour if you're feeling bold.
 
 > Een doorpitsteek geeft een bepaald uitzicht, maar bevestigt ook de stof aan de voering en beleg zodat dingen minder gaan rondschuiven.
 

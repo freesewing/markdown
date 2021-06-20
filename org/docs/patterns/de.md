@@ -1,5 +1,5 @@
 ---
-title: Patterns
+title: Schnittmuster
 order: 300
 ---
 

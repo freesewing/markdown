@@ -1,29 +1,29 @@
 ---
-title: Other privacy-related topics
+title: Andere Themen im Zusammenhang mit Datenschutz
 ---
 
-##### Full disclosure
+##### Vollständige Offenlegung
 
-If we learn of a security systems breach, we will inform both you and the authorities.
+Wenn wir erfahren, dass unsere Sicherheitssysteme umgangen wurden, werden wir dich und die Behörden informieren.
 
-If you believe your personal data has been compromised, please contact joost@joost.at.
+Wenn du glaubst, dass deine persönlichen Daten kompromittiert wurden, kontaktiere bitte joost@joost.at.
 
 
-##### Service Providers
+##### Dienstanbieter
 
-Our hosting provider manages our backend systems for us. This includes hosting, storage, and backup.
+Unser Hosting-Provider verwaltet unsere Backend-Systeme für uns. Dazu gehören Hosting, Speicher und Backup.
 
-While this means they process your data (in the strict sense of the word), they do not require access to information about you. Furthermore, as we encrypt profile data at rest, it is non-trivial for them to access it even if they wanted to.
+Das bedeutet zwar, dass sie (streng genommen) deine Daten verarbeiten, aber sie benötigen keinen Zugang zu Informationen über dich. Außerdem verschlüsseln wir ruhende Profildaten, wodurch es für sie nicht trivial ist auf sie zuzugreifen, selbst wenn sie dies wollten.
 
-##### Law enforcement
+##### Gesetzesvollzug
 
-While we have no intention of sharing any of your personal data, we are not above the law.
+Wir haben zwar nicht die Absicht, irgendwelche deiner persönlichen Daten weiterzugeben, aber wir stehen nicht über dem Gesetz.
 
-If we are required to do so by law, or if we feel that doing so would be the lesser evil, we will disclose personal data.
+Wenn wir gesetzlich dazu verpflichtet sind oder wenn wir der Meinung sind, dass dies das kleinere Übel wäre, werden wir personenbezogene Daten preisgeben.
 
-So far, we have not received any request from law enforcement to disclose information about one of our users. We have also not disclosed any personal information for any other reason.
+Bisher haben wir von der Strafverfolgung keine Anfrage erhalten, Informationen über eine/n unserer Nutzer/innen zu veröffentlichen. Wir haben auch keine persönlichen Informationen aus irgendeinem anderen Grund preisgegeben.
 
-##### Use by minors under the age of 16
+##### Nutzung von Minderjährigen unter 16 Jahren
 
-For legal reasons, you need to be at least 16 years old to use freesewing.
+Aus rechtlichen Gründen musst du mindestens 16 Jahre alt sein, um Freesewing zu benutzen.
 

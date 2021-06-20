@@ -79,7 +79,7 @@ Aber ich wollte völlig transparent sein, was vor sich geht, also habe ich mich 
 > 
 > Ich könnte freiwillig in einer Suppenküche arbeiten oder unterprivilegierten Kindern das Nähen beibringen. Aber stattdessen arbeite ich an FreeSewing.
 > 
-> Darum gehen alle Einnahmen und Spenden, die ich durch FreeSewing erziele an eine gemeinnützige Organisation. So macht dieses Projekt nicht nur Spaß, sondern auch sozial verantwortlich. Und ich brauche das, um mich davon zu überzeugen, dass es in Ordnung ist, meine ganze Zeit damit zu verbringen, denn am Ende des Jahres kann ich einen Scheck an Leute schreiben, die ihn viel mehr brauchen als ich.
+> Darum gehen alle Einnahmen und Spenden, die ich durch FreeSewing erziele an eine gemeinnützige Organisation. So macht dieses Projekt nicht nur Spaß, sondern ist auch sozial verantwortlich. Und ich brauche das, um mich davon zu überzeugen, dass es in Ordnung ist, meine ganze Zeit damit zu verbringen, denn am Ende des Jahres kann ich einen Scheck an Leute schreiben, die ihn viel mehr brauchen als ich.
 > 
 > ##### Gemeinnützigkeit ist nicht sexy
 > 

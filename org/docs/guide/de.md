@@ -6,12 +6,12 @@ order: 100
 Hallo 👋 und willkommen bei freesewing.org 🙂  
 Das Lesen dieser Anleitung nimmt etwa 10 Minuten deiner Zeit in Anspruch, wird dir aber später eine Reihe von Fragen ersparen und stellt sicher, dass du das Beste aus unserer Website herausholen kannst.
 
-##### Was wir erklären werden
+##### Was wir dir erklären werden
 
  - Wir werden dir erklären, [was FreeSewing][1] und [freesewing.org ist][2]
  - Wir erzählen dir von unseren [maßgeschneiderten Schnittmustern][3] und was wir mit [*mit Brüsten* vs *ohne Brüste*][4] meinen
- - Wir behandeln, [warum du ein Konto brauchst][5], was wir unter [deine Personen][6] oder [deine Muster][7]verstehen und wir sprechen über [Körpermaße][8]
- - Wir befassen uns damit, [wie du deine Muster][9] mit Design- und Musteroptionen konfigurieren kannst
+ - Wir behandeln, [warum du einen Account brauchst][5], was wir unter [deine Personen][6] oder [deine Schnittmuster][7] verstehen und wir sprechen über [Maße][8]
+ - Wir befassen uns damit, [wie du deine Schnittmuster mit Design- und Schnittmusteroptionen konfigurieren][9] kannst
  - Schlussendlich erklären wir dir, [wo du Hilfe finden kannst,][10] solltest du einmal nicht weiterkommen.
 
 Klingt das gut? Dann fangen wir einfach direkt an:

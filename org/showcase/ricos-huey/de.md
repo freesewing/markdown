@@ -8,6 +8,6 @@ patterns:
 author: karen
 ---
 
-Another view
+Eine andere Ansicht
 
 ![Huey hoodie laying on a washing machine, instead of on a human](ricos2.jpg)

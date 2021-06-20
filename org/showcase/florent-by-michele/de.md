@@ -8,4 +8,4 @@ patterns:
 author: swissarmywife
 ---
 
-![Another view](24.jpg) ![Another view](25.jpg) ![Another view](27.jpg) ![Another view](31.jpg) ![Another view](38.jpg) ![Another view](43.jpg) ![Another view](46.jpg)
+![Eine andere Ansicht](24.jpg) ![Eine andere Ansicht](25.jpg) ![Eine andere Ansicht](27.jpg) ![Eine andere Ansicht](31.jpg) ![Eine andere Ansicht](38.jpg) ![Eine andere Ansicht](43.jpg) ![Eine andere Ansicht](46.jpg)

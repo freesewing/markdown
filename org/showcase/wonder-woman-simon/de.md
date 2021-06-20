@@ -8,7 +8,7 @@ patterns:
 author: 'MyxterHyde'
 ---
 
-![Another view](view2.jpg) ![Another view](view3.jpg) ![Another view](view4.jpg) ![Another view](view5.jpg)
+![Eine andere Ansicht](view2.jpg) ![Eine andere Ansicht](view3.jpg) ![Eine andere Ansicht](view4.jpg) ![Eine andere Ansicht](view5.jpg)
 
 <Note>
 

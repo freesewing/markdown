@@ -23,7 +23,7 @@ sur [le droit fil de tissu](/docs/sewing/fabric-grain).
 
 ### Ruban d'ajustement de nœud papillon
 
-Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. Il permet également d'en faire un qui possède un ruban et les boucles qui rendent le nœud papillon réglable pour différentes tailles de cou. Ceci est utile si toutes vos chemises n'ont pas les mêmes mesures de cou, ou si vous aimez parfois la chemise avec plus d'aisance au cou.
+Ce patron vous permet de faire un nœud papillon à la bonne longueur pour une certain tour de cou. Il permet également d'en faire un qui possède un ruban et les boucles qui rendent le nœud papillon réglable pour différentes tailles de cou. This is useful if not all of your shirts have the same neck measurements, or if you sometimes like shirts with more ease in the neck.
 
 Ces rubans peuvent être trouvés dans les meilleures merceries ou peuvent être commandés en ligne.
 
@@ -120,7 +120,7 @@ Pour terminer les extrémités, nous allons plier le tissu en trois étapes :
 
 Tout d'abord, on plie le côté sous un angle. Puis nous plions la fin par juste une petite marge de couture, quelque chose comme 5mm. Puis nous le plions à nouveau, pour environ 1cm. Enfin on place l'anneau ovale sous ce dernier pli et on coud.
 
-Maintenant, placez le ruban à travers la partie ovale et nous la finissons de la même manière.
+Now feed the ribbon piece through the oval part and finish it the same way.
 
 Accrochez le T dans une des boucles d'ajustement et votre nœud papillon est terminé !
 

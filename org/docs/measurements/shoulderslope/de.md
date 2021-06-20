@@ -1,5 +1,5 @@
 ---
-title: Shoulder slope
+title: Schulterneigung
 ---
 
 The **shoulder slope** measurement is an indicator for the amount with which your shoulder slopes downward.

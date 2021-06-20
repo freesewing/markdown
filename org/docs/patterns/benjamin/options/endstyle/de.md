@@ -1,8 +1,8 @@
-![Three different tip shapes](endstyle.svg)
+![Drei verschiedene Spitzen Formen](endstyle.svg)
 
-In addition to having four different bow tie styles, each style can be individualized with three different tip options:
+Zusätzlich zu den vier verschiedenen Fliegen-Stilen kann jeder Stil mit drei verschiedenen Spitzenoptionen individualisiert werden:
 
- - Straight
- - Pointed
- - Round
+ - Gerade
+ - Spitz
+ - Abgerundet
 

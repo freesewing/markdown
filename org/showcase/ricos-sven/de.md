@@ -12,4 +12,4 @@ There's more! Check out the sleeves and stripes on this Sven!
 
 ![Side view, showing sleeves with colorblocked stripes](ricos2.jpg)
 
-![Back view](ricos3.jpg)
+![Rückansicht](ricos3.jpg)

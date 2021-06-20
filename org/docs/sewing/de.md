@@ -1,5 +1,5 @@
 ---
-title: Sewing
+title: Nähen
 order: 300
 ---
 

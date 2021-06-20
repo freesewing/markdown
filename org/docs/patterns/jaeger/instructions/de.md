@@ -6,7 +6,7 @@ This documentation is not yet finished.
 
 </Note>
 
-## Construction
+## Konstruktion
 
 ### Close the front darts
 

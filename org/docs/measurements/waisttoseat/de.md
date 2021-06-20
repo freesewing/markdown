@@ -1,5 +1,5 @@
 ---
-title: Waist to seat
+title: Taille bis Gesäß
 ---
 
 The **waist to seat** is the measurement from your waist down towards the fullest part of your bum, measured on the side of your body.

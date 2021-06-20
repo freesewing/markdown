@@ -1,5 +1,5 @@
 ---
-title: Kann ich FreeSewing für kommerzielle Zwecke verwenden?
+title: Kann ich FreeSewing-Schnittmuster für kommerzielle Zwecke verwenden?
 ---
 
 Ja, das kannst du. Open Source ist ein Entwicklungsmodell und kein Geschäftsmodell.

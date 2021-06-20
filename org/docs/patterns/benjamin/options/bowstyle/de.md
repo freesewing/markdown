@@ -1,8 +1,8 @@
-Four different bow tie styles!
+Vier verschiedene Fliegen-Stile!
 
-The benjamin allows you to make four different bow ties.
+Benjamin ermöglicht es dir, vier verschiedene Fliegen zu erstellen.
 
- - Contemporary Diamond
- - Traditional Butterfly
- - Classic Square
- - Whimsical Wide Square
+ - Zeitgenössischer Diamant
+ - Traditioneller Butterfly
+ - Klassisches Viereck
+ - Eigenwilliges breites Rechteck

@@ -15,8 +15,8 @@ I don't know if you're familiar with the phrase **noblesse oblige** but it essen
 
 Ich bin privilegiert, und damit habe ich Verantwortung. I am very fortunate to have been born in Western Europe, to have a good job, and a roof over my head.
 
-Könnte ich das Geld gebrauchen? Yes I could.  
-Do I need the money? No I don't.
+Könnte ich das Geld gebrauchen? Ja, könnte ich.  
+Brauche ich das Geld? Nein, tue ich nicht.
 
 ##### Der Wert Ihrer Unterstützung
 
@@ -34,7 +34,7 @@ Geld zu sammeln, indem ich etwas tue, das ich liebe, und es dann an die Wohltät
 
 I could volunteer at a soup kitchen, or teach underprivileged children how to code. But instead I’m working on FreeSewing.
 
-Which is why all the money raised through FreeSewing goes to charity. So macht dieses Projekt nicht nur Spaß, sondern auch sozial verantwortlich. And I need that to convince myself that yes, it's OK to spend all my time doing this, because FreeSewing is a force for good.
+Which is why all the money raised through FreeSewing goes to charity. So macht dieses Projekt nicht nur Spaß, sondern ist auch sozial verantwortlich. And I need that to convince myself that yes, it's OK to spend all my time doing this, because FreeSewing is a force for good.
 
 ##### Gemeinnützigkeit ist nicht sexy
 Here's the tricky part: People give less once they know the money goes to charity. I wish it wasn't the case, but it is.

@@ -3,25 +3,25 @@ title: How we use your subscriber data
 order: 20
 ---
 
-##### What personal data do we store?
+##### Welche persönlichen Daten speichern wir?
 
-- Your E-mail address
+- Deine E-Mail-Adresse
 
-##### Why do we need it?
+##### Warum brauchen wir sie?
 
-- To send you our newsletter
+- Um dir unseren Newsletter zu schicken
 
-##### How long do we keep it?
+##### Für wie lange behalten wir sie?
 
 - As long as you remain subscribed
 
-##### Do we share it?
+##### Teilen wir sie?
 
-- No, never
+- Nein, niemals
 
 <Note> 
 
-This data is stored for anybody who subscribes to our newsletter.
+Diese Daten werden für jede Person gespeichert, die unseren Newsletter abonniert.
 
 For people with an account on the website who enable the newsletter subscription in their account settings, we store no additional personal data as we already have their email on file in their [account data][1].
 

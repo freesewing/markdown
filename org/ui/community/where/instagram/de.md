@@ -2,6 +2,6 @@
 - - -
 
 Unser Instagram-Account ist [@freesewing_org](https://instagram.com/freesewing_org).  
-Folgen Sie uns für Updates über neue Schnittmuster, Produkte aus der Community und andere Neuigkeiten.
+Folge uns für Updates über neue Schnittmuster, Genähtes aus der Community und andere Neuigkeiten.
 
-Wenn Sie Ihre fertigen Kleidungsstücke auf Instagram veröffentlichen, erwähnen Sie uns bitte, damit wir reposten und [unsere Hashtags](/community/hashtags/) verwenden können.
+Wenn du deine fertigen Kleidungsstücke auf Instagram veröffentlichest, erwähne uns bitte, damit wir reposten können, und verwende [unsere Hashtags](/community/hashtags/).
