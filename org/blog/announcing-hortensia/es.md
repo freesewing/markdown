@@ -23,6 +23,6 @@ This makes Hortensia a great project to make as a gift, since there's no need to
 
 ##### Now show us yours
 
-If you do make a Hortensia, do [send us pictures](https://chat.freesewing.org/).
+If you do make a Hortensia, do [send us pictures](https://discord.freesewing.org/).
 
 </Tip>
