@@ -37,13 +37,13 @@ Wie geïnteresseerd is in onze code, kan in onze developerdocumentatie duiken op
 
 Wie graag patronen zou ontwerpen, kan meteen aan het werk aan de hand van onze [ontwerptutorial](https://freesewing.dev/tutorial).
 
-En er is ook goed nieuws voor vertalers, want we gebruiken voortaan [Crowdin](https://crowdin.com/) zodat je kan vertalen met twee vingers in je neus. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://chat.freesewing.org/).
+En er is ook goed nieuws voor vertalers, want we gebruiken voortaan [Crowdin](https://crowdin.com/) zodat je kan vertalen met twee vingers in je neus. If you'd like to help out with translation, or maybe even add a new language to FreeSewing, make sure to [get in touch](https://discord.freesewing.org/).
 
 ## 💩 De gebruikelijke addertjes onder het gras
 
 In softwaredevelopment is het algemeen geweten dat het een goed idee is om code te refactoren, maar niet om hem van nul te herschrijven. En toch hebben we dat gedaan. We wilden het gemakkelijker maken voor mensen om bij het project betrokken te raken en om patronen in realtime te genereren in de browser.
 
-Maar wees je er dus van bewust dat dit een .zero-release is. Het kan dus goed zijn dat je hier en daar een probleem opmerkt. When you do, please [let us know](https://chat.freesewing.org/) or submit an issue.
+Maar wees je er dus van bewust dat dit een .zero-release is. Het kan dus goed zijn dat je hier en daar een probleem opmerkt. When you do, please [let us know](https://discord.freesewing.org/) or submit an issue.
 
 ## 🤞 Laat ons weten wat je ervan denkt
 
