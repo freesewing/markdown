@@ -48,7 +48,7 @@ should [become a patron](https://freesewing.org/patrons/join).
 
  - 💻 Makers website: [freesewing.org](https://freesewing.org)
  - 💻 Developers website: [freesewing.dev](https://freesewing.dev)
- - 💬 Chat: On Discord via [https://chat.freesewing.org/](chat.freesewing.org)
+ - 💬 Chat: On Discord via [https://discord.freesewing.org/](discord.freesewing.org)
  - 🐦 Twitter: [@freesewing_org](https://twitter.com/freesewing_org)
  - 📷 Instagram: [@freesewing_org](https://instagram.com/freesewing_org)
 
@@ -59,7 +59,7 @@ See [the license file](https://github.com/freesewing/freesewing/blob/develop/LIC
 
 ## Where to get help 🤯
 
-Our [chatroom on Discord](https://chat.freesewing.org/) is the best place to ask questions,
+Our [chatroom on Discord](https://discord.freesewing.org/) is the best place to ask questions,
 share your feedback, or just hang out.
 
 If you want to report a problem, please [create an issue](https://github.com/freesewing/freesewing/issues/new).
