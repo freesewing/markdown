@@ -71,7 +71,7 @@ En supposant que cette lecture vous ait rendu plus heureux qu'en colère, nous p
 
 Nous commençons simplement : nous prévoyons de tenir un Zoom/Skype/Autre toutes les 2 semaines pour faire le point au fur-et-à-mesure. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
 
-Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de discussion](https://chat.freesewing.org/).
+If you'd like to attend, please [let us know in our chat room](https://discord.freesewing.org/).
 
 ### De quelle aide avons nous besoin ?
 
