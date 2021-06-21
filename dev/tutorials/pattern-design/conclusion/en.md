@@ -32,7 +32,7 @@ You can find the complete code of the tutorial pattern [here on GitHub](https://
 Now that you have learned how to create a pattern, why don't you make one?
 
 Think about what it is you would like to create, and just do it. If you get stuck at any moment,
-or need some help or advice, you can [join our chat room](https://chat.freesewing.org/) and we'll help you out.
+or need some help or advice, you can [join our chat room](https://discord.freesewing.org/) and we'll help you out.
 
 <Note>
 

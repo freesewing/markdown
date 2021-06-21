@@ -34,7 +34,7 @@ with ease & stretch having to accomodate for your breasts.
 ## Community Updates
 
 If you're thinking about sewing Teagan, but you're new to sewing or working with knits, never fear! 
-FreeSewing has more support than ever. Chat with us on [Discord](https://chat.freesewing.org/), in a [Facebook Group](https://www.facebook.com/groups/627769821272714), or on [Reddit](https://www.reddit.com/r/freesewing/). 
+FreeSewing has more support than ever. Chat with us on [Discord](https://discord.freesewing.org/), in a [Facebook Group](https://www.facebook.com/groups/627769821272714), or on [Reddit](https://www.reddit.com/r/freesewing/). 
 Find us on social as @freesewing_org on [Instagram](https://www.instagram.com/freesewing_org/) and [Twitter](https://twitter.com/freesewing_org). If you're looking for tutorials, there's 
 a new [YouTube channel](https://www.youtube.com/channel/UCLAyxEL72gHvuKBpa-GmCvQ) for that. It has a whole 
 series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y7FonIHD6mX9yIpFh_emX1), as well as this amazing preview. 
@@ -43,7 +43,7 @@ series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y
 
 If all of this sounds awesome, and you want to get more involved with FreeSewing, you can check out 
 our repositories and source code on [Github](https://github.com/freesewing/) or connect with other 
-contributors via [Zoom](https://meet.freesewing.org./). You can find announcements about upcoming contributor calls 
+contributors via [Discord](https://discord.freesewing.org/). You can find announcements about upcoming contributor calls 
 on Discord, in the announcements channel.
 
 And if you sew up a Teagan T-shirt, let us know what you think!

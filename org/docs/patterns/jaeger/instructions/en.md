@@ -153,7 +153,7 @@ Time to feel like a real tailor, and pad-stitch those lapels.
 Make sure to make the stitches a bit smaller towards the lapel tip,
 to make sure it lies flat against the chest, curling a bit inward instead of outward.
 
-> If you're not sure how to pad-stitch the lapels, [let us know](https://chat.freesewing.org/)
+> If you're not sure how to pad-stitch the lapels, [let us know](https://discord.freesewing.org/)
 and we'll make an attempt to document it.
 
 #### Tape the lapel edge and roll line

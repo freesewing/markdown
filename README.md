@@ -1,6 +1,6 @@
 ![FreeSewing](https://freesewing.org/banner.jpg)
 <p align="center">
-  <a href="https://chat.freesewing.org" title="Chat with us on Discord"><img src="https://img.shields.io/discord/698854858052075530?label=Chat%20on%20Discord" alt="Chat with us on Discord"/></a>
+  <a href="https://discord.freesewing.org" title="Chat with us on Discord"><img src="https://img.shields.io/discord/698854858052075530?label=Chat%20on%20Discord" alt="Chat with us on Discord"/></a>
   <a href="https://freesewing.org/patrons/join"><img src="https://badgen.net/badge/become/a%20Patron/FF5B77" alt="Become a Patron"></a>
 </p>
 

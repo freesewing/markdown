@@ -5,11 +5,11 @@ icons:
   - help
   - discord
 about: |
-  Our [chatrooms on Discord](https://chat.freesewing.org/) are the best place to 
+  Our [chatrooms on Discord](https://discord.freesewing.org/) are the best place to 
   ask questions or share your feedback
 ---
 
-Our [chatrooms on Discord](https://chat.freesewing.org/) are the best place to 
+Our [chatrooms on Discord](https://discord.freesewing.org/) are the best place to 
 ask questions or share your feedback.
 
 Many of the FreeSewing contributors hang out there, and since we're spread over
