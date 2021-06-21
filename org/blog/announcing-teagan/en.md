@@ -43,7 +43,7 @@ series on [sewing up Teagan](https://www.youtube.com/playlist?list=PLY9EmRuXR20Y
 
 If all of this sounds awesome, and you want to get more involved with FreeSewing, you can check out 
 our repositories and source code on [Github](https://github.com/freesewing/) or connect with other 
-contributors via [Zoom](https://meet.freesewing.org./). You can find announcements about upcoming contributor calls 
+contributors via [Discord](https://discord.freesewing.org/). You can find announcements about upcoming contributor calls 
 on Discord, in the announcements channel.
 
 And if you sew up a Teagan T-shirt, let us know what you think!
