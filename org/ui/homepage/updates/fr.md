@@ -20,5 +20,5 @@ Tous les appels peuvent être rejoints via [meet.freesewing.org](https://meet.fr
 
 Nous avons déplacé nos salons de discussion de Discord. Notre ancien chat sur Gitter est obsolète.
 
-Vous pouvez nous rejoindre sur https://chat.freesewing.org, ou utiliser cette invitation Discord in-app : https://discord.gg/YDV4GvU
+You can join us at https://discord.freesewing.org, or use this in-app Discord invite: https://discord.gg/YDV4GvU
 
