@@ -9,8 +9,8 @@ This list of FreeSewing contributors is not exhaustive.
 Sie listet nur Mitwirkende auf, die sich dafür entschieden haben, ihren Namen auf unserer Website bekannt zu geben.
 
 ###### Fehlst du?
-Bitte lass es uns [auf Discord]("https://chat.freesewing.org/") wissen oder
-[erstelle ein Issue]("https://github.com/freesewing/freesewing/issues/new").
+Please [let us know on Discord]("https://discord.freesewing.org/") or
+[create an issue]("https://github.com/freesewing/freesewing/issues/new").
 
 </Note>
 
