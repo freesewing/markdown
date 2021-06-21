@@ -21,8 +21,8 @@ Cela fait de Hortensia un grand projet à faire en cadeau, car il n'y a pas beso
 
 <Tip>
 
-##### Maintenant, montrez-nous le vôtre
+##### Now show us yours
 
-Si vous faites une Hortensia, [envoyez-nous des photos](https://chat.freesewing.org/).
+If you do make a Hortensia, do [send us pictures](https://discord.freesewing.org/).
 
 </Tip>
