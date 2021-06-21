@@ -13,7 +13,7 @@ Wow! Wat een jaar voor FreeSewing. In augustus hebben we versie 2.0 gelanceerd, 
 
 Hoe cool onze nieuwe technology stack ook is, het is niet het belangrijkste dat we in het afgelopen jaar hebben gedaan. Ja, het is best netjes, en ja, het zou niet mogelijk geweest zijn zonder al het werk aan versie 2.0. Maar het is juist dat werk dat er het meeste toe doet. De belangrijkste reden voor het herschrijven voor versie 2.0, is dat we ons project horizontaal willen schalen. Of, simpel gezegd, om FreeSewing te laten voortgaan voorbij wat ik zelf kon dragen.
 
-In zekere zin is FreeSewing volwassen geworden als (software)project. We have several people making regular contributions, [an active chat room](https://chat.freesewing.org/), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+In zekere zin is FreeSewing volwassen geworden als (software)project. We have several people making regular contributions, [an active chat room](https://discord.freesewing.org/), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
 
 We stellen (op dit moment) [23 patronen ter beschikking](/patterns/) en hebben 26 packages op NPM (het Node.js package-register). Sinds we versie 2.0 uitgebracht hebben, worden gemiddeld 450 mensen per maand lid. De teller staat nu op meer dan 15.000.
 
@@ -21,7 +21,7 @@ We stellen (op dit moment) [23 patronen ter beschikking](/patterns/) en hebben 2
 
 Sinds v2 zijn we ook overgeschakeld op [Crowdin](https://crowdin.com) voor [onze vertalingen](https://freesewing.dev/guides/translator/). Vertaling is misschien wel de beste manier om toegang tot ons platform te democratiseren. Ik wil graag de mensen erkennen die hebben geholpen en blijven helpen bij deze inspanningen.
 
-Dit is misschien een goed moment om te vermelden dat jij hier ook bij kan helpen. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room](https://chat.freesewing.org/).
+Dit is misschien een goed moment om te vermelden dat jij hier ook bij kan helpen. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room](https://discord.freesewing.org/).
 
 ## Wat we van plan zijn voor volgend jaar
 
