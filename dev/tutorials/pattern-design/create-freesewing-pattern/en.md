@@ -68,7 +68,7 @@ If all goes well, your browser will open and show the following landing page:
 We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have
 a Windows machine I can test this on.
 
-If you run into any issues, join [our chatroom](https://chat.freesewing.org/) and
+If you run into any issues, join [our chatroom](https://discord.freesewing.org/) and
 we'll figure it out together.
 
 </Note>
