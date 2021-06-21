@@ -55,7 +55,7 @@ We're not going into a full explanation here on how to create all the individual
 that make up a pencil skirt. We assume that you know how to sew a dart, insert an invisible 
 zipper, make a vent, etc. If not, there are numerous excellent articles available on the 
 web, both in writen form, and on video. If you do get stuck, you can always reach out to 
-[other FreeSewers](https://chat.freesewing.org/).
+[other FreeSewers](https://discord.freesewing.org/).
 
 First, sew all the darts. You want to press them towards the back. So for the back piece, 
 that means you press boths sides towards eachother. For the front piece, just the opposite.
