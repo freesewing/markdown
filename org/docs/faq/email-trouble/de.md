@@ -4,7 +4,7 @@ title: Wie kann ich mich registrieren? Ich habe nie eine E-Mail zur Aktivierung 
 
 Wenn du die E-Mail nicht erhalten hast, überprüfe deinen Spam/Junk Ordner. Wenn du sie auch dort nicht findest, ist es am wahrscheinlichsten, dass dein E-Mail Provider die E-Mail komplett blockiert hat.
 
-Versuche es entweder mit einer anderen E-Mail-Adresse, oder [melde dich bei uns](https://chat.freesewing.org/), damit wir dir beim Aktivieren deines Accounts helfen können.
+Either try using a different E-mail address, or [reach out to us](https://discord.freesewing.org/) so we can help you activate your account.
 
 <Note>
 
