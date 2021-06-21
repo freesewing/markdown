@@ -21,8 +21,8 @@ Das macht Hortensia zu einem tollen Projekt für ein Geschenk, da du dir keine G
 
 <Tip>
 
-##### Zeig' uns deine
+##### Now show us yours
 
-Wenn du eine Hortensia herstellst, dann [sende uns gerne Bilder](https://chat.freesewing.org/) davon.
+If you do make a Hortensia, do [send us pictures](https://discord.freesewing.org/).
 
 </Tip>
