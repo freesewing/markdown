@@ -23,7 +23,7 @@ Echt waar. Benjamin is ontworpen en gecodeerd door [Wouter Van Wageningen](/user
 
 > Ik heb me enorm geamuseerd met dit vlinderdaspatroon te maken. Eigenlijk heb ik dit project gebruikt om van de BabyBib-tutorial over te stappen op iets dat origineel was en niet te ingewikkeld (en nog bruikbaar ook). Ik wou het hele proces onder de knie krijgen voordat ik overging naar het echte werk. 
 > 
-> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://chat.freesewing.org).
+> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://discord.freesewing.org).
 
 ## Wie is de volgende om een patroon bij te dragen?
 
