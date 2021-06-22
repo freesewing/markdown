@@ -1,18 +1,18 @@
 ---
 date: 2020-08-30
-title: Please help grow FreeSewing beyond what I can do on my own
+title: Bitte helft mit dabei, FreeSewing über das hinauswachsen zu lassen, was ich alleine tun kann
 img: book.jpg
-caption: "Note: This post is a long read. Although nowhere near as long as this book"
+caption: "Anmerkung: Dieser Beitrag ist etwas lang. Aber auf keinen Fall so lang wie dieses Buch"
 author: joost
 ---
 
-Hi everyone, Joost here. I'm writing this post to address some problems that have been worrying me lately. Specifically, these problems:
+Hallo zusammen, Joost hier. Ich schreibe diesen Beitrag, um einige Probleme anzugehen, die mich in letzter Zeit beunruhigt haben. Um genau zu sein, diese Probleme:
 
- 1. [There is too much work for one person](#problem-1-there-is-too-much-work-for-one-person)
- 2. [I feel I'm losing track of the sewing community](#problem-2-i-feel-im-losing-track-of-the-community)
+ 1. [Es gibt zu viel zu tun für eine Person](#problem-1-there-is-too-much-work-for-one-person)
+ 2. [Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere](#problem-2-i-feel-im-losing-track-of-the-community)
  3. [I feel insecure about how to deal with the issue of systemic racism](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-The good news is that it's a relatively short list. The even better news is that all of these problems be addressed by the same solution: [Community building](#community-building).
+Die gute Nachricht ist, dass es eine relativ kurze Liste ist. Die noch bessere Nachricht ist, dass alle diese Probleme mit der gleichen Lösung gelöst werden: [Community Building](#community-building).
 
 Before we get into that, let's briefly look at each problem:
 
@@ -38,7 +38,7 @@ My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-fro
 
 ## Problem 3: I feel insecure about how to deal with the issue of systemic racism.
 
-First things first: **Black lives matter** ✊🏾
+Das wichtigste vorweg: **Black Lives Matter** ✊🏾
 
 My insecurity stems from my environment. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
 
@@ -61,21 +61,21 @@ So I am taking Julian's advice to heart, and asking for help. Before we get to t
 
 To ensure that your values are aligned with those of FreeSewing, please take a moment to familiarize yourself with:
 
- - [Our community standards](/docs/various/community-standards/)
- - [Our code of conduct](https://freesewing.dev/contributors/code-of-conduct/)
- - [Our revenue pledge](/docs/various/pledge/)
+ - [Unsere Gemeinschaftsstandards](/docs/various/community-standards/)
+ - [Unsere Verhaltensregeln](https://freesewing.dev/contributors/code-of-conduct/)
+ - [Unser Umsatzversprechen](/docs/various/pledge/)
 
 If reading that made you happy rather than angry, we could use your help :)
 
-## Please help grow FreeSewing beyond what I can do on my own
+## Bitte helft mit dabei, FreeSewing über das hinauswachsen zu lassen, was ich alleine tun kann
 
 We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. We start the first weekend of September (next weekend). We haven't picked a time yet, for it will depend on the time zones the participants live in.
 
-If you'd like to attend, please [let us know in our chat room](https://discord.freesewing.org/).
+Wenn du gerne teilnehmen möchtest, [lass es uns bitte in unserem Chatroom wissen](https://discord.freesewing.org/).
 
-### What kind of help is needed?
+### Welche Art von Hilfe wird benötigt?
 
-Beggars can't be choosers. All help is welcome, and I certainly don't want to turn down any volunteers.
+Beggars can't be choosers. Jede Art von Hilfe ist willkommen, und ich möchte ganz sicher keine Freiwilligen abweisen.
 
 That being said, an overly vague call defuses the message. So I've listed/included a number of *roles* below to give you an idea of the kind of work that goes into FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
 
@@ -151,7 +151,7 @@ What we can offer is responsibility, recognition, and a stake in something that 
 
 It can also be an excellent learning opportunity for those of you who would like to pivot to a role in web development. And for as far as my time stretches — I will gladly teach and mentor people from underprivileged communities aiming for social mobility.
 
-## Conclusion
+## Fazit
 
 Maybe you can help. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
 
