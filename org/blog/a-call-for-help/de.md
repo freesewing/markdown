@@ -32,7 +32,7 @@ Das an sich ist kein Problem. Aber es legt eine feste Obergrenze fest, wie viel 
 
 Ich mache mir Sorgen, dass ich die Gemeinschaftsaspekte von FreeSewing vernachlässigt habe, es gibt keine Kommentare oder *soziale* Aspekte auf der Website. Ich hatte immer das Gefühl, dass es vergebliche Liebesmüh ist, Leute auf der eigenen Website einzusperren. Es ist besser, sie auf den Plattformen ihrer Wahl diskutieren zu lassen.
 
-Für die Näh-Community ist die Plattform der Wahl oft Instagram. Seit ich Instagram vor einem Jahren verlassen habe, habe ich das Gefühl, dass ich mich weiter von der Näh-Community entferne.
+Für die Näh-Community ist die Plattform der Wahl oft Instagram. Since I have left Instagram a year ago, I feel like I'm getting further away from the sewing community.
 
 My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the sewing community in a way that works for me.
 
@@ -42,7 +42,7 @@ Das wichtigste vorweg: **Black Lives Matter** ✊🏾
 
 My insecurity stems from my environment. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
 
-A welcoming a diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
+A welcoming and diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
 
 ## Community building
 
@@ -129,7 +129,7 @@ You represent FreeSewing on a *platform*, where platform could be Facebook, Twit
 You write documentation for freesewing.dev, our developers website. You have good writing skills and familiarity with code (Javascript).
 
 **Technical Writer (sewing)**  
-You write documentation for freesewing.org, our makers website. You have good writing skills and are familiarity with sewing.
+You write documentation for freesewing.org, our makers website. You have good writing skills and familiarity with sewing.
 
 **Translator**  
 You translate FreeSewing into one of its additional languages (French, German, Dutch, Spanish) or if you're ambitious, add a new one. You're fluent in the language you're translating to, and have a good grasp of English.
