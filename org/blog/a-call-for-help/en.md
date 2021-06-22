@@ -148,7 +148,7 @@ You check original English text of translations for typos and/or grammar mistake
 You represent FreeSewing on a *platform*, where platform could be Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit &hellip;. 
 You manage the FreeSewing account on the platform, and use it to interact with the community.
 
-**System Administrator**
+**System Administrator**  
 You look after our servers. You install updates, make sure certificates are up-to-date, the works.
 Linux is where your heart lies. You secretly automated most of your work with Ansible but hey, you put the playbooks in Git so no worries.
 
