@@ -59,17 +59,17 @@ Also nehme ich Julians Ratschlag zu Herzen und bitte um Hilfe. Bevor wir aber do
 
 ## Schneller Check: Stimmst du den Wertvorstellungen von FreeSewing zu?
 
-Um sicherzustellen, dass deine Wertvorstellungen mit denen von FreeSewing in Einklang stehen, nimm dir bitte einen Moment Zeit, um dich vertraut zu machen mit:
+Um sicherzustellen, dass deine Wertvorstellungen mit denen von FreeSewing in Einklang stehen, nimm dir bitte einen Moment Zeit, um dich mit dem Folgenden vertraut zu machen:
 
  - [Unsere Gemeinschaftsstandards](/docs/various/community-standards/)
  - [Unsere Verhaltensregeln](https://freesewing.dev/contributors/code-of-conduct/)
  - [Unser Umsatzversprechen](/docs/various/pledge/)
 
-If reading that made you happy rather than angry, we could use your help :)
+Wenn dich das lesen hiervon froh und nicht wütend gemacht hast, können wir deine Hilfe gebrauchen :)
 
 ## Bitte helft mit dabei, FreeSewing über das hinauswachsen zu lassen, was ich alleine tun kann
 
-We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. Wir fangen im ersten Septemberwochenende an (nächstes Wochenende). Wir haben noch keine Zeit ausgewählt, denn es hängt von den Zeitzonen ab, in denen die Teilnehmer/innen leben.
+Wir fangen einfach an: Wir haben vor, alle 2 Wochen ein Zoom/Skype/was-auch-immer Treffen abzuhalten, um herauszufinden, wie wir vorgehen möchten. Wir fangen im ersten Septemberwochenende an (nächstes Wochenende). Wir haben noch keine Zeit ausgewählt, denn es hängt von den Zeitzonen ab, in denen die Teilnehmer/innen leben.
 
 Wenn du gerne teilnehmen möchtest, [lass es uns bitte in unserem Chatroom wissen](https://discord.freesewing.org/).
 
@@ -77,15 +77,15 @@ Wenn du gerne teilnehmen möchtest, [lass es uns bitte in unserem Chatroom wisse
 
 Beggars can't be choosers. Jede Art von Hilfe ist willkommen, und ich möchte ganz sicher keine Freiwilligen abweisen.
 
-That being said, an overly vague call defuses the message. So I've listed/included a number of *roles* below to give you an idea of the kind of work that goes into FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
+Allerdings entkräftet ein zu vager Aufruf die Botschaft. Deswegen habe ich unten eine Reihe an *Rollen* aufgelistet, um dir eine Idee zu geben, welche Art von Arbeit in FreeSewing gesteckt wird. Es soll keine vollständige Liste sein, sondern nur ein Ausgangspunkt für Diskussionen darüber.
 
-Die Reihenfolge ist alphabetisch.
+Die Reihenfolge ist alphabetisch (im englischen Originaltext).
 
-**Backend Developer**  
-You keep our backend in step with the latest frontend developments. Express is no stranger to you. Node JS is a good friend. Or maybe you'd like them to be.
+**Backend-Entwickler**  
+Du lässt unser Backend Schritt halten mit den neuesten Frontend-Entwicklungen. Express ist dir nicht fremd. Node JS ist ein guter Freund. Oder vielleicht möchtest du, dass sie es werden.
 
-**Body Ambassador**  
-Maybe you're unusually short or tall. Maybe you have a bit of a pot belly or very large breasts. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
+**Körper-Botschafter **  
+Vielleicht bist du ungewöhnlich klein oder groß. Vielleicht hast du einen kleinen Hängebauch oder sehr große Brüste. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
 
 **Community Builder**  
 You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
