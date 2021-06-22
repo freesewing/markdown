@@ -2,7 +2,7 @@
 date: 2021-06-22
 title: Hugo by Alan
 img: showcase.jpg
-caption: Teagan T-shirt with a scalloped hem made out of lace fabric
+caption: Alan wearing his awesome Hugo Hoodie
 patterns: 
     - hugo
 author: Alan
