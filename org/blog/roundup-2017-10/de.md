@@ -20,7 +20,7 @@ First up: a new pattern. The Huey Hoodie is [now available](/patterns/huey) in b
 
 Huey is a zip-up hoodie, have a look at [the Huey showcase page](/showcase/pattern/huey) for examples. [The announcement blog post](/blog/huey-hoodie-beta/) also explains what it means for a pattern to be in beta.
 
-### Community building
+### Community Building
 
 Freesewing is slowly evolving into a communal effort. The [freesewing chat room](https://chat.freesewing.org/) is turning into a rather chatty place, which is really wonderful to see.
 
