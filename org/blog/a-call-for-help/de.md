@@ -30,9 +30,9 @@ Das an sich ist kein Problem. Aber es legt eine feste Obergrenze fest, wie viel 
 
 ## Problem 2: Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere
 
-Ich mache mir Sorgen, dass ich die Gemeinschaftsaspekte von FreeSewing vernachlässigt habe, es gibt keine Kommentare oder *soziale* Aspekte auf der Website. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
+Ich mache mir Sorgen, dass ich die Gemeinschaftsaspekte von FreeSewing vernachlässigt habe, es gibt keine Kommentare oder *soziale* Aspekte auf der Website. Ich hatte immer das Gefühl, dass es vergebliche Liebesmüh ist, Leute auf der eigenen Website einzusperren. Es ist besser, sie auf den Plattformen ihrer Wahl diskutieren zu lassen.
 
-For the sewing community, the platform of choice is often Instagram. Since I have left Instagram year ago, I feel like I'm getting further away from the sewing community.
+Für die Näh-Community ist die Plattform der Wahl oft Instagram. Seit ich Instagram vor einem Jahren verlassen habe, habe ich das Gefühl, dass ich mich weiter von der Näh-Community entferne.
 
 My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the sewing community in a way that works for me.
 
