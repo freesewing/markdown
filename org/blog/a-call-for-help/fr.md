@@ -123,7 +123,8 @@ Vous vérifiez que la traduction du texte original en anglais ne contient pas de
 **Responsable de plateforme des réseaux sociaux**  
 Vous représentez FreeSewing sur une *plateforme * où la plateforme peut être Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit, &hellip;. Vous gérez le compte FreeSewing sur la plateforme, et l'utilisez pour interagir avec la communauté.
 
-**Administrateur système** Vous vous occupez de nos serveurs. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
+**System Administrator**  
+You look after our servers. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
 
 **Rédacteur technique (code)**  
 Vous écrivez de la documentation pour freesewing.dev, notre site web de développeurs. Vous avez de bonnes compétences en programmation et vous êtes familier avec le code (Javascript).
