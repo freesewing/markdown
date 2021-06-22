@@ -12,7 +12,7 @@ Hallo zusammen, Joost hier. Ich schreibe diesen Beitrag, um einige Probleme anzu
  2. [Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere](#problem-2-i-feel-im-losing-track-of-the-community)
  3. [Ich bin unsicher, wie ich mit dem Problem des institutionellen Rassismus umgehen soll](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
-Die gute Nachricht ist, dass es eine relativ kurze Liste ist. Die noch bessere Nachricht ist, dass alle diese Probleme mit der gleichen Lösung gelöst werden: [Community Building](#community-building).
+Die gute Nachricht ist, dass es eine relativ kurze Liste ist. Die noch bessere Nachricht ist, dass alle diese Probleme mit der gleichen Lösung gelöst werden: [Community Building/Gemeinschaftsbildung](#community-building).
 
 Bevor wir darauf eingehen, schauen wir uns kurz jedes Problem an:
 
@@ -40,22 +40,22 @@ Meine [Gründe](https://joost.decock.org/post/187710847164/24-hours-from-now-i-w
 
 Das wichtigste vorweg: **Black Lives Matter** ✊🏾
 
-Meine Unsicherheit ist auf meine Umgebung zurückzuführen. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
+Meine Unsicherheit ist auf meine Umgebung zurückzuführen. Ich bin ein weißer, cis-gender Mann mittleren Alters, der in einem Land geboren und aufgewachsen ist, das eine Geschichte hat, die mit dem Blut von People of Color getränkt ist ([dieses Land ist Belgien](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). Bis heute durchdringt beiläufiger Rassismus alle Aspekte der Gesellschaft, in der ich lebe.
 
-A welcoming and diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
+Eine einladende und vielfältige Community ist für mich *sine qua non*. Aber ich fühle mich schlecht ausgerüstet, um herauszufinden, wie ich eine auf FreeSewing erstellen kann.
 
-## Community building
+## Community Building
 
-As I mentioned earlier, these things have been on my mind for a while, albeit they were a lot more fuzzy. Then earlier this month I listened to [Black makers matter with Julian Collins on the podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
+Wie ich bereits sagte, spuken mir diese Dinge schon lange im Kopf herum, wenn auch viel verschwommener. Then earlier this month I listened to [Black makers matter with Julian Collins on the podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
 
-[Julian](https://www.instagram.com/juliancreates/) is a patron of FreeSewing (thanks Julian) and actively involved with the [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) movement on Instagram. I reached out to Julian looking for help, and we had a lengthy Zoom call where we talked about his work and how he goes about organizing the community.
+[Julian](https://www.instagram.com/juliancreates/) ist ein Förderer von FreeSewing (vielen Dank Julian) und beteiligt sich aktiv an der [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) Bewegung auf Instagram. I reached out to Julian looking for help, and we had a lengthy Zoom call where we talked about his work and how he goes about organizing the community.
 
-Julian had a lot of good advice. I couldn't possibly cram it all into this post, but it sort of boils down to:
+Julian hatte eine Menge guter Ratschläge. Ich konnte es unmöglich alles in diesen Beitrag stopfen, aber es lässt sich zu Folgendem herunterkochen:
 
- - Just ask people for help
- - Be clear about what kind of community you want to build
+ - Fragen einfach Leute um Hilfe
+ - Stelle klar, was für eine Community du aufbauen möchtest
 
-So I am taking Julian's advice to heart, and asking for help. Before we get to that though, let's make sure we're all on the same page about the kind of community we're trying to build here.
+Also nehme ich Julians Ratschlag zu Herzen und bitte um Hilfe. Before we get to that though, let's make sure we're all on the same page about the kind of community we're trying to build here.
 
 ## Quick check: Are you on board with FreeSewing's values?
 
@@ -69,7 +69,7 @@ If reading that made you happy rather than angry, we could use your help :)
 
 ## Bitte helft mit dabei, FreeSewing über das hinauswachsen zu lassen, was ich alleine tun kann
 
-We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. We start the first weekend of September (next weekend). We haven't picked a time yet, for it will depend on the time zones the participants live in.
+We're starting simple: We plan to hold a Zoom/Skype/Whatever call every 2 weeks to figure it out as we go. Wir fangen im ersten Septemberwochenende an (nächstes Wochenende). Wir haben noch keine Zeit ausgewählt, denn es hängt von den Zeitzonen ab, in denen die Teilnehmer/innen leben.
 
 Wenn du gerne teilnehmen möchtest, [lass es uns bitte in unserem Chatroom wissen](https://discord.freesewing.org/).
 
@@ -79,7 +79,7 @@ Beggars can't be choosers. Jede Art von Hilfe ist willkommen, und ich möchte ga
 
 That being said, an overly vague call defuses the message. So I've listed/included a number of *roles* below to give you an idea of the kind of work that goes into FreeSewing. It's not meant to be an exhaustive list, but merely a starting point for a discussion.
 
-The order is alphabetic.
+Die Reihenfolge ist alphabetisch.
 
 **Backend Developer**  
 You keep our backend in step with the latest frontend developments. Express is no stranger to you. Node JS is a good friend. Or maybe you'd like them to be.
@@ -145,7 +145,7 @@ You know how to make things pretty, even if you're not sure how to actually make
 
 ### What's in it for me?
 
-We can't offer you money. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
+Wir können dir kein Geld bieten. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
 
 What we can offer is responsibility, recognition, and a stake in something that strives to be a force for good in this world.
 
@@ -153,10 +153,10 @@ It can also be an excellent learning opportunity for those of you who would like
 
 ## Fazit
 
-Maybe you can help. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
+Vielleicht kannst du helfen. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
 
 Either way, I'd appreciate it if you could help spread the message that I'm asking for help.
 
-Thank you,
+Vielen Dank
 
 Joost
