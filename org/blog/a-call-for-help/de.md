@@ -10,7 +10,7 @@ Hallo zusammen, Joost hier. Ich schreibe diesen Beitrag, um einige Probleme anzu
 
  1. [Es gibt zu viel zu tun für eine Person](#problem-1-there-is-too-much-work-for-one-person)
  2. [Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere](#problem-2-i-feel-im-losing-track-of-the-community)
- 3. [Ich bin unsicher, wie ich mit dem Problem des institutionellem Rassismus umgehen soll](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
+ 3. [Ich bin unsicher, wie ich mit dem Problem des institutionellen Rassismus umgehen soll](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
 Die gute Nachricht ist, dass es eine relativ kurze Liste ist. Die noch bessere Nachricht ist, dass alle diese Probleme mit der gleichen Lösung gelöst werden: [Community Building](#community-building).
 
@@ -32,15 +32,15 @@ Das an sich ist kein Problem. Aber es legt eine feste Obergrenze fest, wie viel 
 
 Ich mache mir Sorgen, dass ich die Gemeinschaftsaspekte von FreeSewing vernachlässigt habe, es gibt keine Kommentare oder *soziale* Aspekte auf der Website. Ich hatte immer das Gefühl, dass es vergebliche Liebesmüh ist, Leute auf der eigenen Website einzusperren. Es ist besser, sie auf den Plattformen ihrer Wahl diskutieren zu lassen.
 
-Für die Näh-Community ist die Plattform der Wahl oft Instagram. Since I have left Instagram a year ago, I feel like I'm getting further away from the sewing community.
+Für die Näh-Community ist die Plattform der Wahl oft Instagram. Seit ich Instagram vor einem Jahren verlassen habe, habe ich das Gefühl, dass ich mich weiter von der Näh-Community entferne.
 
-My [reasons for leaving](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) are as valid today as they were back then, but I wish I could connect with the sewing community in a way that works for me.
+Meine [Gründe](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) zu gehen sind heute so gültig wie damals, aber ich wünschte, ich könnte mich auf eine Weise mit der Näh-Community verbinden, die für mich funktioniert.
 
-## Problem 3: I feel insecure about how to deal with the issue of systemic racism.
+## Problem 3: Ich bin unsicher, wie ich mit dem Problem des institutionellen Rassismus umgehen soll.
 
 Das wichtigste vorweg: **Black Lives Matter** ✊🏾
 
-My insecurity stems from my environment. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
+Meine Unsicherheit ist auf meine Umgebung zurückzuführen. I am a white, middle-aged, cis-gender man who was born and raised in a country with a history drenched in the blood of people of color ([that country is Belgium](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). To this day, casual racism permeates all aspects of the society I live in.
 
 A welcoming and diverse community is a *sine qua non* for me. But I feel ill-equipped to figure out how to create one on FreeSewing.
 
