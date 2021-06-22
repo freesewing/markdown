@@ -79,13 +79,13 @@ Beggars can't be choosers. Jede Art von Hilfe ist willkommen, und ich möchte ga
 
 Allerdings entkräftet ein zu vager Aufruf die Botschaft. Deswegen habe ich unten eine Reihe an *Rollen* aufgelistet, um dir eine Idee zu geben, welche Art von Arbeit in FreeSewing gesteckt wird. Es soll keine vollständige Liste sein, sondern nur ein Ausgangspunkt für Diskussionen darüber.
 
-Die Reihenfolge ist alphabetisch (im englischen Originaltext).
+Die Reihenfolge ist alphabetisch (im englischen Originaltext, A. d. Ü.).
 
-**Backend-Entwickler**  
+**Backend-Entwickler/in**  
 Du lässt unser Backend Schritt halten mit den neuesten Frontend-Entwicklungen. Express ist dir nicht fremd. Node JS ist ein guter Freund. Oder vielleicht möchtest du, dass sie es werden.
 
-**Körper-Botschafter **  
-Vielleicht bist du ungewöhnlich klein oder groß. Vielleicht hast du einen kleinen Hängebauch oder sehr große Brüste. Maybe you have a disability that requires fit adjustments. Whatever it is, you represent a minority fitting issue, and are willing to act as an ambassador to make sure your needs are heard and understood.
+**Körper-Botschafter/in **  
+Vielleicht bist du ungewöhnlich klein oder groß. Vielleicht hast du einen kleinen Hängebauch oder sehr große Brüste. Vielleicht hast du eine Behinderung, die Anpassungen in der Passform erfordert. Was auch immer es ist, du repräsentierst eine Minderheit was Passformen angeht und bist bereit, als Botschafter/in zu fungieren, um sicherzustellen, dass deine Bedürfnisse gehört und verstanden werden.
 
 **Community Builder**  
 You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
@@ -129,21 +129,21 @@ You represent FreeSewing on a *platform*, where platform could be Facebook, Twit
 You write documentation for freesewing.dev, our developers website. You have good writing skills and familiarity with code (Javascript).
 
 **Technical Writer (sewing)**  
-You write documentation for freesewing.org, our makers website. You have good writing skills and familiarity with sewing.
+You write documentation for freesewing.org, our makers website. Du hast gute Schreibfähigkeiten und bist mit dem Nähen gut vertraut.
 
-**Translator**  
-You translate FreeSewing into one of its additional languages (French, German, Dutch, Spanish) or if you're ambitious, add a new one. You're fluent in the language you're translating to, and have a good grasp of English.
+**Übersetzer/in**  
+Du übersetzt FreeSewing in eine der zusätzlichen Sprachen (Französisch, Deutsch, Niederländisch, Spanisch) oder fügst eine neue hinzu, wenn du ehrgeizig bist. Du sprichst die Sprache fließend, in die du übersetzen willst, und hast ein gutes Verständnis von Englisch.
 
-**UX Designer**  
-You know what UX is and are happy to point out where it sucks and how it can be made better.
+**UX Designer/in**  
+Du weißt, was UX ist und sagst uns gerne, was schlecht ist und wie es besser gemacht werden kann.
 
 **Release Manager**  
 You pull the plug on new releases, you bundle our code, and publish new versions of our packages on NPM.
 
-**Web Designer**  
-You know how to make things pretty, even if you're not sure how to actually make them work.  You appreciate that we don't use #000 for black.
+**Webdesigner/in**  
+Du weißt, wie man Dinge schön macht, auch wenn du dir nicht sicher sind, wie du sie zum funktionieren bringst.  Du weißt es zu schätzen, dass wir nicht #000 für schwarz verwenden.
 
-### What's in it for me?
+### Was habe ich davon?
 
 Wir können dir kein Geld bieten. Please [read our revenue pledge](/docs/various/pledge/) to understand why that is.
 
@@ -153,9 +153,9 @@ It can also be an excellent learning opportunity for those of you who would like
 
 ## Fazit
 
-Vielleicht kannst du helfen. Maybe you know somebody who can help, or for whom this would be a valuable learning experience.
+Vielleicht kannst du helfen. Vielleicht kennst du eine Person, die helfen kann oder für die dies ein wertvolles Lernerlebnis wäre.
 
-Either way, I'd appreciate it if you could help spread the message that I'm asking for help.
+In jedem Fall würde ich es begrüßen, wenn du helfen könntest, die Nachricht zu verbreiten, dass ich um Hilfe bitte.
 
 Vielen Dank
 
