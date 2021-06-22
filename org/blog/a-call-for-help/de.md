@@ -46,20 +46,20 @@ Eine einladende und vielfältige Community ist für mich *sine qua non*. Aber ic
 
 ## Community Building
 
-Wie ich bereits sagte, spuken mir diese Dinge schon lange im Kopf herum, wenn auch viel verschwommener. Then earlier this month I listened to [Black makers matter with Julian Collins on the podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/).
+Wie ich bereits sagte, spuken mir diese Dinge schon lange im Kopf herum, wenn auch viel verschwommener. Dann hörte ich mir Anfang diesen Monats [Black makers matter mit Julian Collins im Podcast Love To Sew](https://lovetosewpodcast.com/episodes/episode-156-black-makers-matter-with-julian-collins/) an.
 
-[Julian](https://www.instagram.com/juliancreates/) ist ein Förderer von FreeSewing (vielen Dank Julian) und beteiligt sich aktiv an der [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) Bewegung auf Instagram. I reached out to Julian looking for help, and we had a lengthy Zoom call where we talked about his work and how he goes about organizing the community.
+[Julian](https://www.instagram.com/juliancreates/) ist ein Förderer von FreeSewing (vielen Dank Julian) und beteiligt sich aktiv an der [Black Makers Matter](https://www.instagram.com/blkmakersmatter/) Bewegung auf Instagram. Ich wandte mich hilfesuchend an Julian und wir führten ein langes Gespräch über Zoom, wo wir über seine Arbeit sprachen und wie er die Community organisiert.
 
 Julian hatte eine Menge guter Ratschläge. Ich konnte es unmöglich alles in diesen Beitrag stopfen, aber es lässt sich zu Folgendem herunterkochen:
 
  - Fragen einfach Leute um Hilfe
  - Stelle klar, was für eine Community du aufbauen möchtest
 
-Also nehme ich Julians Ratschlag zu Herzen und bitte um Hilfe. Before we get to that though, let's make sure we're all on the same page about the kind of community we're trying to build here.
+Also nehme ich Julians Ratschlag zu Herzen und bitte um Hilfe. Bevor wir aber dorthin kommen, sollten wir sicherstellen, dass wir uns alle darüber einig sind, was für eine Art von Community wir hier versuchen zu bauen.
 
-## Quick check: Are you on board with FreeSewing's values?
+## Schneller Check: Stimmst du den Wertvorstellungen von FreeSewing zu?
 
-To ensure that your values are aligned with those of FreeSewing, please take a moment to familiarize yourself with:
+Um sicherzustellen, dass deine Wertvorstellungen mit denen von FreeSewing in Einklang stehen, nimm dir bitte einen Moment Zeit, um dich vertraut zu machen mit:
 
  - [Unsere Gemeinschaftsstandards](/docs/various/community-standards/)
  - [Unsere Verhaltensregeln](https://freesewing.dev/contributors/code-of-conduct/)
