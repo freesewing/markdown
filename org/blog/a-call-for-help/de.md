@@ -10,27 +10,27 @@ Hallo zusammen, Joost hier. Ich schreibe diesen Beitrag, um einige Probleme anzu
 
  1. [Es gibt zu viel zu tun für eine Person](#problem-1-there-is-too-much-work-for-one-person)
  2. [Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere](#problem-2-i-feel-im-losing-track-of-the-community)
- 3. [I feel insecure about how to deal with the issue of systemic racism](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
+ 3. [Ich bin unsicher, wie ich mit dem Problem des institutionellem Rassismus umgehen soll](#problem-3-i-feel-insecure-about-how-to-deal-with-the-issue-of-systemic-racism)
 
 Die gute Nachricht ist, dass es eine relativ kurze Liste ist. Die noch bessere Nachricht ist, dass alle diese Probleme mit der gleichen Lösung gelöst werden: [Community Building](#community-building).
 
-Before we get into that, let's briefly look at each problem:
+Bevor wir darauf eingehen, schauen wir uns kurz jedes Problem an:
 
-## Problem 1: There is too much work for one person
+## Problem 1: Es gibt zu viel zu tun für eine Person
 
-Over the course of the last week I read [Working in public: The making and maintenance of open source software](https://www.amazon.com/dp/0578675862/) by [Nadia Eghbal](https://nadiaeghbal.com/).
+Im Laufe der letzten Woche habe ich [Working in public: The making and maintenance of open source software](https://www.amazon.com/dp/0578675862/) von [Nadia Eghbal](https://nadiaeghbal.com/) gelesen.
 
-I bought it because I was hoping to find answers to some of the questions that I ask myself. Questions like “*How do other maintainers do it?*”, or “*Am I doing it wrong?*”
+Ich kaufte es, weil ich hoffte, Antworten auf einige der Fragen zu finden, die ich mir stelle. Fragen wie „*Wie machen andere Maintainer das?*“, oder “*Mache ich es falsch?*”
 
-In other words, I was hoping to find a fix for what I increasingly perceive as a problem: The inability to scale my own labour in line with how I'd like to scale FreeSewing, the project.
+Mit anderen Worten: Ich hatte gehofft, eine Lösung für etwas zu finden, das ich zunehmend als Problem betrachte: Die Unfähigkeit, meine eigene Arbeit so zu skalieren, wie ich das Projekt FreeSewing skalieren möchte.
 
-I don't want to spoil the book, but it didn't provide any straightforward answers on how to address that problem. It turns out that the vast majority of open source maintainers are in the same boat. Most projects are run by either a single person, or a handful of people.
+Ich will das Buch nicht spoilern, aber es gab keine einfachen Antworten darauf, wie dieses Problem angegangen werden sollte. Wie sich herausstellt, ist die große Mehrheit der Open-Source-Maintainer im selben Boot. Die meisten Projekte werden entweder von einer Person oder von einer Handvoll Personen betrieben.
 
-There's nothing wrong with that. But it does put a firm upper limit on how much projects like FreeSewing can accomplish.
+Das an sich ist kein Problem. Aber es legt eine feste Obergrenze fest, wie viel Projekte wie FreeSewing erreichen können.
 
-## Problem 2: I feel I'm losing track of the sewing community
+## Problem 2: Ich habe das Gefühl, dass ich die Verbindung zu der Näh-Community verliere
 
-I worry that I have been neglecting the communal aspects of FreeSewing, there are no comments or *social* aspects on the site. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
+Ich mache mir Sorgen, dass ich die Gemeinschaftsaspekte von FreeSewing vernachlässigt habe, es gibt keine Kommentare oder *soziale* Aspekte auf der Website. I've always felt it was a fool's errand to try to corral people onto your own website. Better to let them have discussions on the platforms of their choice.
 
 For the sewing community, the platform of choice is often Instagram. Since I have left Instagram year ago, I feel like I'm getting further away from the sewing community.
 
