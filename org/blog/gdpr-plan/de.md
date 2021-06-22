@@ -276,7 +276,7 @@ This would add an extra layer of defense for our users' privacy in case somehow 
 
 While this change will be non-trivial to implement and come with a performance penalty, I feel it's worth looking in to.
 
-## Conclusion
+## Fazit
 
 While we still have some work to do, we are already compliant with large parts of the GDPR, especially when it comes to respecting users rights:
 
