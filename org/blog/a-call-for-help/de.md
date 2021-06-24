@@ -97,10 +97,10 @@ Du kümmerst dich um unsere Datenbank. Andere Leute mögen das nicht für wichti
 Your aim is to make almost all these other roles irrelevant by automating the heck out of everything. CI and Github actions are fun for you. You like to sit back and have the robots do the work for you.
 
 **Frontend-Entwickler/in**  
-Du verbesserst unsere Webseiten, insbesondere freesewing.org und freesewing.dev. Both of them are built with [Gatsby](https://www.gatsbyjs.com/), an open source framework for building frontends that is powered by [React](https://reactjs.org/). If you know these things, or would like to learn them, this is your jam.
+Du verbesserst unsere Webseiten, insbesondere freesewing.org und freesewing.dev. Beide sind mit [Gatsby](https://www.gatsbyjs.com/) gebaut, einem Open Source Framework um Frontends zu bauen, die mit [React](https://reactjs.org/) betrieben werden. Wenn du diese Dinge kennst oder sie gerne lernen würdest, ist das etwas für dich.
 
-**Illustrator**  
-You create illustrations to go alongside the written documentation. If you draw a bicycle from memory, it actually looks like a bicycle.
+**Illustrator/in**  
+Du erstellt Illustrationen, die die schriftliche Dokumentation begleiten. Wenn du ein Fahrrad aus dem Gedächtnis zeichnest, sieht es tatsächlich aus wie ein Fahrrad.
 
 **Inclusion & Diversity Manager**  
 You have skin in the game when it comes to inclusion and diversity. You'll help make our community welcoming and diverse. You won't be afraid to tell this pasty white dude when he's wrong.
