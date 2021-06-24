@@ -4,7 +4,7 @@ title: Rayon
 
 ![I use rayon for my underwear](rayon.jpg)
 
-Rayon, sometimes referred to as viscose, is a man-made fiber. It originates from wood pulp, but there's a lot of chemical hoops to jump through before it becomes fabric.
+Rayon, sometimes referred to as viscose, is a synthetic fiber. It originates from wood pulp, but there's a lot of chemical hoops to jump through before it becomes fabric.
 
 As rayon is a fiber (like cotton is) the resulting fabric will depend on how it is woven. However, in general rayon is a versatile fabric that is smooth to the touch, drapes, and is somewhat slippery.
 
