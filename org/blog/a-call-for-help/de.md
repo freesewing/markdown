@@ -90,14 +90,14 @@ Vielleicht bist du ungewöhnlich klein oder groß. Vielleicht hast du einen klei
 **Community Builder**  
 You're an extrovert extraordinaire, or you're good at faking it. You enjoy chatting with all sorts of people, and networking is just you doing you. You're like the jelly that molds a group of individuals into a cohesive community.
 
-**Database Administrator**  
-You look after our database. Other people might feel that's not important, but you know better. You're familiar with MongoDB.
+**Datenbank-Administrator/in**  
+Du kümmerst dich um unsere Datenbank. Andere Leute mögen das nicht für wichtig halten, aber du weißt es besser. Du bist mit MongoDB vertraut.
 
 **Devops Engineer**  
 Your aim is to make almost all these other roles irrelevant by automating the heck out of everything. CI and Github actions are fun for you. You like to sit back and have the robots do the work for you.
 
-**Frontend Developer**  
-You improve our websites, specifically freesewing.org and freesewing.dev. Both of them are built with [Gatsby](https://www.gatsbyjs.com/), an open source framework for building frontends that is powered by [React](https://reactjs.org/). If you know these things, or would like to learn them, this is your jam.
+**Frontend-Entwickler/in**  
+Du verbesserst unsere Webseiten, insbesondere freesewing.org und freesewing.dev. Both of them are built with [Gatsby](https://www.gatsbyjs.com/), an open source framework for building frontends that is powered by [React](https://reactjs.org/). If you know these things, or would like to learn them, this is your jam.
 
 **Illustrator**  
 You create illustrations to go alongside the written documentation. If you draw a bicycle from memory, it actually looks like a bicycle.
@@ -123,8 +123,8 @@ You check original English text of translations for typos and/or grammar mistake
 **Social Media Platform Manager**  
 You represent FreeSewing on a *platform*, where platform could be Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit &hellip;. You manage the FreeSewing account on the platform, and use it to interact with the community.
 
-**System Administrator**  
-You look after our servers. Du installierst Updates, stellst sicher, dass Zertifikate aktuell sind, das ganze Zeug. Dein Herz schlägt für Linux. You secretly automated most of your work with Ansible but hey, you put the playbooks in Git so no worries.
+**Systemadministrator/in**  
+Du kümmerst dich um unsere Server. Du installierst Updates, stellst sicher, dass Zertifikate aktuell sind, das ganze Zeug. Dein Herz schlägt für Linux. You secretly automated most of your work with Ansible but hey, you put the playbooks in Git so no worries.
 
 **Technical Writer (code)**  
 You write documentation for freesewing.dev, our developers website. You have good writing skills and familiarity with code (Javascript).
