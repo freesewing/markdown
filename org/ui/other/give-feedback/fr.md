@@ -8,7 +8,7 @@ title: Donnez votre avis
 
 Nous aimerions entendre vos retours sur ce que vous aimez (ou pas) à propos de FreeSewing.
 
-Veuillez [rejoindre notre salle de chat](https://chat.freesewing.org/) et partager vos réflexions.
+Please [join our chat room](https://discord.freesewing.org/) and share your thoughts.
 
 </Note>
 

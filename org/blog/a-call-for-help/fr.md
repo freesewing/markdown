@@ -32,7 +32,7 @@ Il n'y a rien de mal à cela. Mais elle impose une limite sur le nombre de proje
 
 Je m'inquiète d'avoir négligé les aspects communautaires de FreeSewing, il n'y a pas de commentaires ni d'aspects *sociaux* sur le site. J'ai toujours pensé que c'était une erreur d'essayer de réunir les gens sur son propre site Web. Il vaut mieux les laisser discuter sur les plates-formes de leur choix.
 
-Pour la communauté couture, c'est souvent Instagram. Or comme j'ai quitté Instagram il y a un an, j'ai l'impression de m'éloigner de la communauté.
+Pour la communauté couture, c'est souvent Instagram. Since I have left Instagram a year ago, I feel like I'm getting further away from the sewing community.
 
 Mes [raisons de partir](https://joost.decock.org/post/187710847164/24-hours-from-now-i-want-to-remove-my-instagram) sont les mêmes aujourd'hui qu'à l'époque, mais j'aimerais pouvoir me connecter avec la communauté couture d'une manière qui fonctionne pour moi.
 
@@ -42,7 +42,7 @@ Premièrement : **Black lives matter**✊🏾
 
 Mon malaise vient de mon environnement. Je suis un homme blanc cis-genre d'âge moyen, né et élevé dans un pays dont l'histoire est teintée du sang de gens de couleur ([ce pays est la Belgique](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)). À ce jour, un racisme occasionnel imprègne tous les aspects de la société dans laquelle je vis.
 
-La diversité d'une communauté est *une condition sine qua non* pour moi. Mais je me sens mal équipé pour comprendre comment en créer une sur FreeSewing.
+A welcoming and diverse community is a *sine qua non* for me. Mais je me sens mal équipé pour comprendre comment en créer une sur FreeSewing.
 
 ## Développement communautaire
 
@@ -71,7 +71,7 @@ En supposant que cette lecture vous ait rendu plus heureux qu'en colère, nous p
 
 Nous commençons simplement : nous prévoyons de tenir un Zoom/Skype/Autre toutes les 2 semaines pour faire le point au fur-et-à-mesure. Nous commençons le premier week-end de septembre (week-end prochain). Nous n'avons pas encore choisi d'heure, car cela dépendra des fuseaux horaires dans lesquels vivent les participants.
 
-Si vous souhaitez y assister, veuillez [nous le faire savoir dans notre salon de discussion](https://chat.freesewing.org/).
+If you'd like to attend, please [let us know in our chat room](https://discord.freesewing.org/).
 
 ### De quelle aide avons nous besoin ?
 
@@ -123,13 +123,14 @@ Vous vérifiez que la traduction du texte original en anglais ne contient pas de
 **Responsable de plateforme des réseaux sociaux**  
 Vous représentez FreeSewing sur une *plateforme * où la plateforme peut être Facebook, Twitter, Instagram, Tiktok, Snapchat, Reddit, &hellip;. Vous gérez le compte FreeSewing sur la plateforme, et l'utilisez pour interagir avec la communauté.
 
-**Administrateur système** Vous vous occupez de nos serveurs. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
+**System Administrator**  
+You look after our servers. Installez les mises à jour, assurez-vous que les certificats sont à jour, et tout foctionne. Linux est votre grand chouchou. Vous avez secrètement automatisé la majeure partie de votre travail avec Ansible, mais bon, vous avez mis les playbooks dans Git donc ça va.
 
 **Rédacteur technique (code)**  
 Vous écrivez de la documentation pour freesewing.dev, notre site web de développeurs. Vous avez de bonnes compétences en programmation et vous êtes familier avec le code (Javascript).
 
 **Rédacteur technique (couture)**  
-Vous écrivez de la documentation pour freesewing.org, notre site web pour les ceux qui vont réaliser les patrons. Vous avez de bonnes compétences en rédaction et vous êtes à l'aise en couture.
+Vous écrivez de la documentation pour freesewing.org, notre site web pour les ceux qui vont réaliser les patrons. You have good writing skills and familiarity with sewing.
 
 **Traducteur**  
 Vous traduisez dans une des langues supplémentaires de FreeSewing (français, allemand, néerlandais, espagnol) ou si vous êtes ambitieux, ajoutez-en une nouvelle. Vous maîtrisez parfaitement la langue dans laquelle vous traduisez et maîtrisez bien l'anglais.

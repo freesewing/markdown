@@ -13,7 +13,7 @@ Wahnsinn! Was für ein Jahr für FreeSewing. Im August haben wir die Version 2.0
 
 So cool wie unser neuer Technologie-Stack ist, ist es nicht die wichtigste Arbeit, die wir im letzten Jahr geleistet haben. Ja, es ist ist recht ordentlich und ja, es ist nur wegen der Arbeit am 2.0 möglich. Aber es ist die Arbeit an sich, die am wichtigsten ist. Der Hauptgrund für das Umschreiben von 2.0 war es, eine vertikale Skalierung des Projekts zu ermöglichen. Oder, um es, es ganz offen auszudrücken: Um es Freesewing zu erlauben sich dorthin zu entwickeln, wo ich es nicht alleine hintragen konnte.
 
-In gewisser Weise ist das (Software-)Projekt FreeSewing erwachsen geworden. Wir haben mehrere Personen, die regelmäßig etwas beitragen, [einen aktiven Chat-Room](https://chat.freesewing.org/), [eine speziell für Entwickler gedachte Website und Dokumentation für Übersetzer](https://freesewing.dev), eine Vielzahl an [Paketen, die wir auf NPM veröffentlichen](https://www.npmjs.com/search?q=keywords:freesewing), wir haben an der benötigten Upstream-Software Bugfixes und Verbesserungen gemacht, und wir haben nun auch andere Personen und Teams, die auf unsere Pakete angewiesen sind.
+In gewisser Weise ist das (Software-)Projekt FreeSewing erwachsen geworden. Wir haben mehrere Personen, die regelmäßig etwas beitragen, [einen aktiven Chat-Room](https://discord.freesewing.org/), [eine speziell für Entwickler gedachte Website und Dokumentation für Übersetzer](https://freesewing.dev), eine Vielzahl an [Paketen, die wir auf NPM veröffentlichen](https://www.npmjs.com/search?q=keywords:freesewing), wir haben an der benötigten Upstream-Software Bugfixes und Verbesserungen gemacht, und wir haben nun auch andere Personen und Teams, die auf unsere Pakete angewiesen sind.
 
 Wir haben (derzeit) [23 verfügbare Schnittmuster](/patterns/) und wir veröffentlichen 62 Pakete auf NPM (die Node.js Paket-Registry). Seit wir Version 2.0 veröffentlicht haben, schreiben sich pro Monat durchschnittlich 450 Leute ein und unsere Gesamtzahl zeigt aktuell über 15,000 an.
 
@@ -21,7 +21,7 @@ Wir haben (derzeit) [23 verfügbare Schnittmuster](/patterns/) und wir veröffen
 
 Seit v2 haben wir für [unsere Übersetzungen](https://freesewing.dev/guides/translator/) auf [Crowdin](https://crowdin.com) gewechselt. Übersetzung ist wohl der beste Weg, um den Zugang zu unserer Plattform zu demokratisieren, und ich möchte mich bei allen Menschen herzlich bedanken, die bei diesen Bemühungen geholfen haben und weiterhin helfen.
 
-Vielleicht ist das ein guter Zeitpunkt, um euch darauf hinzuweisen, dass auch ihr mithelfen könnt. Unsere [Dokumentation für Übersetzer](https://freesewing.dev/guides/translator/) ist ein guter Startpunkt, oder schaut in [unserem Chatroom](https://chat.freesewing.org/) vorbei.
+Vielleicht ist das ein guter Zeitpunkt, um euch darauf hinzuweisen, dass auch ihr mithelfen könnt. Unsere [Dokumentation für Übersetzer](https://freesewing.dev/guides/translator/) ist ein guter Startpunkt, oder schaut in [unserem Chatroom](https://discord.freesewing.org/) vorbei.
 
 ## Was wir für das nächste Jahr vor haben
 

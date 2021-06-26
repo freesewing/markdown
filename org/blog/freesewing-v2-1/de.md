@@ -79,5 +79,5 @@ Last but not least, während wir versuchen, eine Anleitung für Messungen zu geb
 
 Weitere Informationen finden Sie [im Changelog](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
 
-We hope you enjoy this release, and please [stop by our chat room](https://chat.freesewing.org/) to share your thoughts, feedback, suggestions, or ideas. Wir freuen uns, von Ihnen zu hören 
+We hope you enjoy this release, and please [stop by our chat room](https://discord.freesewing.org/) to share your thoughts, feedback, suggestions, or ideas. Wir freuen uns, von Ihnen zu hören 
 

@@ -94,4 +94,4 @@ Hold the front side against your belly and wrap both strings around you and tie 
 
 Here is an article demonstrating how to tie wrap pants: [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")
 
-If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://chat.freesewing.org/).
+If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://discord.freesewing.org/).

@@ -4,20 +4,20 @@ title: Jersey biezen
 
 ## Wat is een jersey bies zelfs?
 
-Een jersey bies is een algemene term voor een afwerking die (vaak) aan de hals- of armopening van t-shirts of andere jersey kledingstukken gebruikt wordt.
+Knit binding is a general term for a type of finish (typically) found on the neck or arm opening of T-shirts and other knitwear.
 
 Er zijn twee varianten van deze afwerking, een jersey boord, en een echte jersey bies.
 
 ## Jersey boord
 
-![Zoals de meeste t-shirts heeft die van dit meisje een jersey boord aan de halsopening.](knit_band.jpg)
+![Like most T-shirts, the one this girl is wearing has a knit band at the neck opening.](knit_band.jpg)
 
-Jersey boord is wat je gewoonlijk vindt aan de halsopening van je t-shirt. Het is een strook stof die dubbel geplooid is en aan de rand van het kledingstuk bevestigd.
+Knit band is what you typically find at the neck opening of your T-shirt. Het is een strook stof die dubbel geplooid is en aan de rand van het kledingstuk bevestigd.
 
 Dit laat een onafgewerkte rand aan de binnenkant die vaak vastgestikt wordt door rond de boord te stikken, dicht tegen de rand.
 
 ### Jersey biezen
-![Het grijze onderhemdje en witte t-shirt van dit meisje hebben allebei een jersey bies aan de halslijn.](knit_binding.jpg)
+![This girl's grey undershirt and white T-shirt both have a knit binding at the neckline.](knit_binding.jpg)
 
 Een echte jersey bies lijkt meer op een klassieke biais, als in, de bies wordt rond de stof geplooid in plaats van een apart stuk te vormen.
 
@@ -26,7 +26,7 @@ De onafgewerkte rand van het kledingstuk wordt tussen de geplooide bies bevestig
 > Foto's door [Support Tattoos and Piercings at Work](https://www.flickr.com/photos/supporttattoosandpiercingsatwork/21870942614/) en [Derek A.](https://www.flickr.com/photos/sfj/696122404/)
 
 ### Stijl versus functie
-Een jersey boord komt vaker voor, en is wat je meestal ziet aan de halslijn van t-shirts. Het is de meer decoratieve optie.
+A knit band is more common, and is what you typically find on T-shirt necklines. Het is de meer decoratieve optie.
 
 Een jersey bies is minder gebruikelijk, maar vaak gebruikt bij onderhemdjes (als in, ondergoed). Het is de meer functionele optie.
 
@@ -34,7 +34,7 @@ Een jersey bies is minder gebruikelijk, maar vaak gebruikt bij onderhemdjes (als
 > 
 > Een andere manier om het onderscheid te maken if zo: denk aan wat er gebeurt als je besluit de bies/boord breder te maken.
 > 
-> Bij een t-shirt zorgt een bredere boord voor een smallere halsopening. Als je een bredere boord wil moet je ook je halsopening groter knippen.
+> On a T-shirt, widening the band at the neck will make the neck opening smaller. If you want a wider band, you will have to cut a larger hole in your T-shirt.
 > 
 > Bij een onderhemd heeft de breedte van de bies geen invloed op de grootte van de opening. De bies zal gewoon verder over de stof heen liggen en breder ogen.
 
@@ -48,7 +48,7 @@ Of je nu een boord of een bies gebruikt, je zal de stof een beetje moeten uitrek
 
 Aan een rechte rand kan je gewoon je bies/boord bevestigen. De stof en de bies hebben dezelfde lengte, dus alles komt in orde.
 
-Het meest gebruikelijke scenario waarbij je dit tegenkomt is aan de (korte) mouwen van een t-shirt. Alhoewel de bies rond je arm heen gaat is de naad (op het patroon) plat.
+The most likely scenario where you will encounter this is on the (short) sleeves of a T-shirt. Alhoewel de bies rond je arm heen gaat is de naad (op het patroon) plat.
 
 
 ### Gelijk gebogen: gelijke stretch
@@ -73,11 +73,11 @@ Als je de bies te veel uitrekt zal die te ver terug in vorm springen, en zo de s
 
 ![Als de curve veranderd, moet de hoeveelheid stretch ook veranderen](knitbinding3.png)
 
-Rechte naden bestaan, en alhoewel ik er nog geen ben tegengekomen bestaan uitsnijdingen met gelijke curves ook. Maar de curve van een rand zal vaker wel dan niet gevarieerd zijn.
+Straight seams exist, and although I've never come across one, maybe uniformly curved seams exist too. Maar de curve van een rand zal vaker wel dan niet gevarieerd zijn.
 
-Aan een typische t-shirt halslijn is de curve aan de achterkant anders dan vooraan, en is er waarschijnlijk een fellere kromming aan de schoudernaad.
+On a typical T-shirt neckline, the curve at the back of your neck is different from the front, and there's probably a somewhat tighter bend behind your shoulder seam.
 
-Aan een zachte curve is het verschil tussen de binnenste en buitenste rand niet zo groot, en heb je maar een beetje stretch nodig. Maar als de curve scherper wordt is het verschil tussen de binnenste en buitenste rand van je bies ook groter. En dan heb je meer stretch nodig om dat op te vangen.
+Aan een zachte curve is het verschil tussen de binnenste en buitenste rand niet zo groot, en heb je maar een beetje stretch nodig. Maar als de curve scherper wordt is het verschil tussen de binnenste en buitenste rand van je bies ook groter. And you'll need more stretch to accommodate for that.
 
 Dus als je je naad volgt, en die langs halslijnen, schouders of designelementen loopt, zal je de hoeveelheid stretch aan de situatie moeten aanpassen.
 
@@ -91,7 +91,7 @@ Er zijn een hoop tutorials op het internet die je tonen hoe je biezen naait. Man
 
 Het idee is dat je je bies knipt, de uiteindes aan elkaar bevestigt, en alles dan in de opening naait. That is (in my opinion) no good.
 
-Een alternatief om het lengteprobleem te omzeilen is de bies te bevestigen voor je de opening waar de bies in komt sluit. Bijvoorbeeld, bij een t-shirt zou je één schoudernaad sluiten, de bies vaststikken, en dan de tweede schoudernaad sluiten.
+Een alternatief om het lengteprobleem te omzeilen is de bies te bevestigen voor je de opening waar de bies in komt sluit. For example, on a T-shirt you close one shoulder seam, attach the binding, then close the second shoulder seam.
 
 Dit houdt dan in dat de schoudernaad ook door de bies loopt, wat onaanvaardbaar is voor mij.
 
@@ -100,10 +100,10 @@ Dit houdt dan in dat de schoudernaad ook door de bies loopt, wat onaanvaardbaar 
  - Knip je bies even lang als de rand waar hij aan moet. Geen 90%, maar 100%. Op deze manier weet je dat het te lang gaat zijn, en dat willen we.
  - Markeer waar je de naad van je bies wil (bijvoorbeeld, achteraan de halslijn) en leg je bies 1 cm voorbij dit punt.
  - Begin je bies 3 cm voorbij dit punt vast te naaien, en ga helemaal rond. Terwijl je dit doet pas je de hoeveelheid stretch aan de curve aan. There's no tricks for this, you'll have to practice until it comes naturally to you.
- - Wanneer je bijna rond bent en in de buurt komt van het punt dat je gemarkeerd hebt, stop je ongeveer 3 cm ervoor.
- - Nu is je hele bies bevestigd, behalve een zestal cm aan de achterkant. Speld de twee uiteindes van je bies met de goede kanten op elkaar, exact zo lang als nodig, en stik vast.
+ - When you make your way around and get close to the point you marked, stop about 3cm before that.
+ - Now your entire binding is attached, apart from a 6cm or so stretch at the back. Pin both edges of your binding good sides together, making is exactly as long as needed and sew them together.
  - Naai de overgebleven 6 cm van je bies.
 
 Op deze manier is er geen gegok naar de lengte van je bies, en zit de naad van de bies waar je hem wil.
 
-> Voor gedetailleerde instructies, kijk eens bij [Aaron](/en/docs/patterns/aaron/)
+> For detailed instructions, check [the Aaron documentation](/docs/patterns/aaron/)

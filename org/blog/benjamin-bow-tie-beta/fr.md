@@ -23,7 +23,7 @@ That's right, Benjamin was designed and coded by [Wouter Van Wageningen](/users/
 
 > I had a blast making the Bow Tie pattern. I basically used it to move from the BabyBib tutorial into something that was original and not too complex (and actually useful). I wanted to get the whole process under control before venturing out into the real stuff. 
 > 
-> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://chat.freesewing.org).
+> That I was able to pick things up so easily is due mostly to the great [BabyBib tutorial](https://freesewing.org/tutorials/pattern-design/) and the help you've provided [here](https://discord.freesewing.org).
 
 ## Who will be next to contribute a pattern?
 

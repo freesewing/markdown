@@ -12,6 +12,6 @@ Bob3000's first pair of Charlie trousers are super rad! Keep an eye out for an u
 
 <Note>
 
-This picture is from bob3000 on [the FreeSewing Discord](https://chat.freesewing.org/). It is reposted here with permission.
+Dieses Bild stammt von bob3000 aus dem [FreeSewing Discord](https://discord.freesewing.org/). It is reposted here with permission.
 
 </Note>

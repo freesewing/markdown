@@ -20,5 +20,5 @@ All calls can be joined via [meet.freesewing.org](https://meet.freesewing.org/).
 
 We've moved our chat rooms from to Discord. Our legacy chat on Gitter is deprecated.
 
-You can join us at https://chat.freesewing.org, or use this in-app Discord invite: https://discord.gg/YDV4GvU
+You can join us at https://discord.freesewing.org, or use this in-app Discord invite: https://discord.gg/YDV4GvU
 

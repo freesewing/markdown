@@ -80,5 +80,5 @@ Enfin et surtout, alors que nous essayons de fournir des conseils sur les mesure
 
 Plus d'informations sont disponibles [dans le suivi des modifications](https://github.com/freesewing/freesewing/blob/develop/CHANGELOG.md).
 
-We hope you enjoy this release, and please [stop by our chat room](https://chat.freesewing.org/) to share your thoughts, feedback, suggestions, or ideas. Nous aimerions connaître votre avis. 
+We hope you enjoy this release, and please [stop by our chat room](https://discord.freesewing.org/) to share your thoughts, feedback, suggestions, or ideas. Nous aimerions connaître votre avis. 
 

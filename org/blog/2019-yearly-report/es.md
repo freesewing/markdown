@@ -13,7 +13,7 @@ Wow! What a year it's been for FreeSewing. In August we released version 2.0 whi
 
 Cool as our new technoglogy stack is, it is not the most important work we've done over the last year. Yes, it's pretty neat, and yes it's only possible because of the work done on 2.0. But that work itself is what matters most. The main reason for the 2.0 rewrite was to allow the project to scale horizontally. Or to put it bluntly, to allow FreeSewing to go where I could not carry it on my own.
 
-In a way, FreeSewing has grown up as a (software) project. We have several people making regular contributions, [an active chat room](https://chat.freesewing.org/), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
+In a way, FreeSewing has grown up as a (software) project. We have several people making regular contributions, [an active chat room](https://discord.freesewing.org/), [a dedicated website for developer and translator documentation](https://freesewing.dev), a plethora of [packages we publish on NPM](https://www.npmjs.com/search?q=keywords:freesewing), we've contributed fixes and improvements to upstream software we depend on, and we now also have other people and teams who depend on the packages we put out.
 
 We (currently) have [23 patterns available](/patterns/), we publish 62 packages on NPM (the Node.js package registry). Since putting out version 2.0, on average 450 people sign up every month, and our total tally currently stands above 15.000.
 
@@ -21,7 +21,7 @@ We (currently) have [23 patterns available](/patterns/), we publish 62 packages 
 
 Since v2, we've also switched to [Crowdin](https://crowdin.com) for [our translations](https://freesewing.dev/guides/translator/). Translation is arguably the best way to democratize access to our platform, and I'd like to give a shout-out to all people who have helped and continue to help with these efforts.
 
-It's perhaps also a good time to point out that you too can help with this. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room](https://chat.freesewing.org/).
+It's perhaps also a good time to point out that you too can help with this. Our [documentation for translators](https://freesewing.dev/guides/translator/) is a good place to get started, or stop by [our chat room](https://discord.freesewing.org/).
 
 ## What we're planning for next year
 
