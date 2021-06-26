@@ -68,6 +68,8 @@ Fold them in half along the long side, _good sides together_. Stitch the long si
 
 This can be made easier by taking a piece of twine longer than the strips. Lay that between the right sides, along the fold. Make sure you catch this while sewing the short side. You can use this to pull the end through the tube you've created. When you're done, you can cut it off. Having a long, skinny stick or a loop turner can help too with this.
 
+</Tip>
+
 ## Step 5: Sew the waist band
 
 ![Lay the two parts on top of one another with good sides together. Sew the crotch seam](waralee-waist-band-no-pockets.png)
@@ -92,6 +94,7 @@ Press your pants, and try them on!
 
 Hold the front side against your belly and wrap both strings around you and tie in the back (or, if you have long strings, wrap them all the way around you and tie in the front). Then hand the back side through your legs to yourself and tie the other strings in the front.
 
-Here is an article demonstrating how to tie wrap pants: [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants "External link")
+Here is an article demonstrating how to tie wrap pants: [How to Tie Wrap Pants](https://www.wikihow.com/Tie-Wrap-Pants)
 
 If you get stuck, or have additional questions, you can always reach out to [other FreeSewers](https://discord.freesewing.org/).
+
