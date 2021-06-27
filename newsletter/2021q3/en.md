@@ -1,7 +1,8 @@
 Welcome to the 2021 Summer edition of the FreeSewing newsletter.  
 Here's what we've included for you:
 
-- 👀 Help Sanne test her new bodice block
+- 👖 Pattern releases spring 2021 (1-minute read - by Natalia)
+- 👀 Help Sanne test her new bodice block (1-minute read - by Joost)
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
 - 🕵️ Behind the seams: An Gargouri (8-minute read - by Eleonore)
 - 🤓 Git good: Let’s walk through a simple FreeSewing contribution together (2-minute read - by Natalia)
@@ -13,6 +14,21 @@ If not, mash that reply button and tell us what you'd like to read instead ¯\\\
 
 
 &nbsp;  
+
+&nbsp;  
+
+# 🩲 Pattern releases spring 2021
+
+Here's a quick recap of the new patterns we released in the second quarter of this year:
+
+ - [The Ursula undies](https://freesewing.org/blog/announcing-ursula/): A highly-customizable underwear pattern with plenty of options to achieve different styles. This is my first pattern design. My hope is that Ursula will help you customize undies with the perfect look and fit for your own body. Interested in making a test pair and helping to refine the pattern? I'd love to chat with you over in the [FreeSewing Discord](https://discord.freesewing.org/).
+ - [The Charlie Chinos trousers](https://freesewing.org/blog/announcing-charlie/): Joost designed a new trouser pattern that will adapt better to differently shaped bodies. Charlie has 31 options that allow you to configure your trousers so you get them just as you like.
+
+Click through either of the links for the blog posts announcing these patterns.
+
+&nbsp;  
+
+---
 
 &nbsp;  
 
