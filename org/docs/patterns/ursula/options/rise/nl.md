@@ -1,1 +1,1 @@
-This options controls the height of the waist
+This options controls the height of the waist.
