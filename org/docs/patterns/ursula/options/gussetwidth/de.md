@@ -1,1 +1,1 @@
-This options controls the width of the gusset.
+Diese Option steuert die Breite des Zwickels.
