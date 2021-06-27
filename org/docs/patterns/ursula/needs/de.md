@@ -1,6 +1,6 @@
-To make Ursula, you will need the following:
+Um Ursula zu erstellen, benötigst du Folgendes:
 - [Grundlegendes Nähzubehör](/docs/sewing/basic-sewing-supplies)
-- About 0.7 meter of a suitable fabric (see [Fabric options](/docs/patterns/ursula/fabric))
+- Etwa 0.7 Meter eines geeigneten Stoffes (siehe [Stoffoptionen](/docs/patterns/ursula/fabric))
 - About 3 meters of underwear elastic, such as picot elastic or fold over elastic
 
 <Tip>
