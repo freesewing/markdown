@@ -1,1 +1,1 @@
-This option controls the amount of exposed skin on the front.
+Diese Option steuert die Menge an freigelegter Haut auf der vorderen Seite.
