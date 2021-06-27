@@ -1,6 +1,7 @@
 Welcome to the 2021 Summer edition of the FreeSewing newsletter.  
 Here's what we've included for you:
 
+- 👀 Help Sanne test her new bodice block
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
 - 🕵️ Behind the seams: An Gargouri (8-minute read - by Eleonore)
 - 🤓 Git good: Let’s walk through a simple FreeSewing contribution together (2-minute read - by Natalia)
@@ -12,6 +13,20 @@ If not, mash that reply button and tell us what you'd like to read instead ¯\\\
 
 
 &nbsp;  
+
+&nbsp;  
+
+# 👀 Help Sanne test her new bodice block
+
+Sanne is working on a bodice block that is based on her own drafting experience and the 
+techniques she learned. She's hoping to get some feedback from a couple of more testers,
+particularly people with larger cup sizes.
+
+If you'd like to help out, you can [generate your own version of the block online](https://bodice-block-sannek.netlify.app/).
+
+&nbsp;  
+
+---
 
 &nbsp;  
 
