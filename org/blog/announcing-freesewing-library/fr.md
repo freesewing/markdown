@@ -23,15 +23,15 @@ In other words, we wanted to reach people who speak different languages, and wan
 
 We've done remarkably well on this front. While you won't find every last bit of content translated, this website's main features are now available in five languages:
 
- - English
- - German
- - Spanish
- - French
- - Dutch
+ - Anglais
+ - Allemand
+ - Espagnol
+ - Français
+ - Néerlandais
 
-Which really is 100% thanks to the great work of [our wonderful translators](/i18n/).
+Ce qui est vraiment 100% grâce au bon travail de [nos merveilleux traducteurs](/i18n/).
 
-### Less programming languages
+### Moins de langages de programmation
 
 The switch from [Jekyll]() to a [Nuxt](https://nuxtjs.org/)-based front-end has removed [Ruby](https://www.ruby-lang.org/) from our technology stack. Freesewing.org now runs on JavaScript, PHP and a little bit of C (which we'll ignore for now).
 
