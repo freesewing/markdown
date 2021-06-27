@@ -1,6 +1,6 @@
 ---
 date: 2021-06-25
-title: Huey hoodie by Hellgy
+title: Huey Hoodie von Hellgy
 img: dinosaurs1.jpg
 caption: "A Huey hoodie featuring a dinosaur print"
 patterns:
