@@ -1,7 +1,7 @@
 Welcome to the 2021 Summer edition of the FreeSewing newsletter.  
 Here's what we've included for you:
 
-- 👖 Pattern releases spring 2021 (1-minute read - by Natalia)
+- 🩲 Pattern releases spring 2021 (1-minute read - by Natalia)
 - 👀 Help Sanne test her new bodice block (1-minute read - by Joost)
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
 - 🕵️ Behind the seams: An Gargouri (8-minute read - by Eleonore)
