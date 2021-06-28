@@ -3,7 +3,7 @@
 
 ![Close the shoulder seams](step01.svg)
 
-- Place the front and back on top of each other with [good sides together](https://freesewing.org/docs/sewing/good-sides-together/). Align the shoulder seams.
+- Place the front and back on top of each other with [good sides together](/docs/sewing/good-sides-together). Align the shoulder seams.
 - Serge the shoulder seams, or stitch them with a narrow (~2 mm) zigzag stitch at the standard seam allowance.
 
 <Note>
@@ -28,11 +28,11 @@ Optional: In a drapier knit, you may choose to reinforce the shoulder seams by s
 
 <Tip>
 
-A more extensive how-to on knit binding can be found in the [Aaron Instuctions](https://freesewing.org/docs/patterns/aaron/instructions/).
+A more extensive how-to on knit binding can be found in the [Aaron Instuctions](/docs/patterns/aaron/instructions).
 
 </Tip>
 
-- We are going to finish the arm and neck hole with [knit binding](https://freesewing.org/en/docs/sewing/knit-binding) (note: not a knit band. There’s a difference, and it’s explained [here](https://freesewing.org/en/docs/sewing/knit-binding)).
+- We are going to finish the arm and neck hole with [knit binding](/docs/sewing/knit-binding) (note: not a knit band. There’s a difference, and it’s explained [here](/docs/sewing/knit-binding)).
 
 <Note>
 This is the most complex step in making the Teagan T-shirt, but it just requires a bit of practice. Don’t worry, all you need to do is make a couple of these and you’ll be a pro in no time.
