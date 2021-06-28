@@ -1,7 +1,7 @@
 ## Tie fabric
-The ties you find in the store are typically make out of silk or some imitation silk poly. So it will come as no surprise that those are good options.
+The ties you find in the store are typically made out of silk or some imitation silk poly. So it will come as no surprise that those are good options.
 
-In general, you want something with good drape so that you tie hangs nicely. Cutting your tie on bias can help here too.
+In general, you want something with good drape so that your tie hangs nicely. Cutting your tie on bias can help here too.
 
 Personally, I like using different fabrics for ties. Things like denim or corduroy make great ties, while being a bit different from the run-of-the-mill store-bought tie.
 
