@@ -22,9 +22,9 @@ Le tricot ne s'effiloche pas, vous pouvez donc simplement le plier une fois et l
 
 <Note>
 
-##### À propos du biais de jersey
+##### About knit binding
 
-Si vous êtes novice en [biais de jersey](/fr/docs/sewing/knit-binding), vous pouvez lire [cette page sur le sujet](/fr/docs/sewing/knit-binding).
+If you are new to [knit binding](/docs/sewing/knit-binding), you might read [this page on the subject](/docs/sewing/knit-binding).
 
 ###### Repeat steps 3 and 4 for both armholes and the neck opening
 
@@ -89,7 +89,7 @@ Cousez votre biais bien placé tout en étirant délicatement le biais, mais pas
 
 Vous aurez peut-être besoin de vous entraîner un peu pour y arriver.
 
-> Veillez à étirer votre biais davantage lorsque vous prenez une courbe plus nette. Lisez mes notes sur le [biais de jersey](/en/docs/sewing/knit-binding) pour plus d'informations.
+> Veillez à étirer votre biais davantage lorsque vous prenez une courbe plus nette. Read my notes on [knit binding](/docs/sewing/knit-binding) for more info.
 
 ### Marquer les extrémités du biais
 
