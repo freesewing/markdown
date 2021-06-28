@@ -48,7 +48,7 @@ title: "@freesewing/models"
 This package provides a set of standard-sized measurements to test your patterns with.
 
 <ul class='links'>
-  <li><a href='https://freesewing.org/docs/about/sizes/'>FreeSewing's sizing tables</a></li>
+  <li><a href='https://freesewing.org/docs/various/sizes'>FreeSewing's sizing tables</a></li>
   <li><a href='https://www.npmjs.com/package/@freesewing/models'>Package on NPM</a></li>
   <li><a href='https://github.com/freesewing/freesewing/tree/develop/packages/models'>Code on Github</a></li>
 </ul>
