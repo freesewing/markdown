@@ -41,6 +41,6 @@ or need some help or advice, you can [join our chat room](https://discord.freese
 You could do as a real favor by letting us know what you loved or hated about this tutorial.
 
 Where there areas that were not clear? Did we dwell too long on one topic, or rushed through another one too quickly?
-You feedback helps us improve things, so don't be shy and [tell us what you think](https://chat.freesewing.org/)
+You feedback helps us improve things, so don't be shy and [tell us what you think](https://discord.freesewing.org/).
 
 </Note>
