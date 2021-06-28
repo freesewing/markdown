@@ -25,7 +25,7 @@ Knitwear doesn't ravel, so you can simply fold this over once and sew it down, t
 
 ##### About knit binding
 
-If you are new to [knit binding](/en/docs/sewing/knit-binding), you might read [this page on the subject](/en/docs/sewing/knit-binding).
+If you are new to [knit binding](/docs/sewing/knit-binding), you might read [this page on the subject](/docs/sewing/knit-binding).
 
 ###### Repeat steps 3 and 4 for both armholes and the neck opening
 
@@ -92,7 +92,7 @@ Sew your binding in place while gently stretching the binding, but not the fabri
 You might need to practice a bit to get the hang of it.
 
 > Make sure to stretch your binding more when you're taking a sharper bend. 
-> Read my notes on [knit binding](/en/docs/sewing/knit-binding) for more info.
+> Read my notes on [knit binding](/docs/sewing/knit-binding) for more info.
 
 ### Mark binding ends
 
