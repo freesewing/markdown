@@ -15,7 +15,7 @@ goals:
   - Starting the FreeSewing development environment
 ---
 ## Setting up a development environment using Windows Subsystem for Linux (WSL) and Visual Studio Code (VSCode)
-If you already have a working WSL environment and VSCode Remote configured you can follow the [getting started on Linux guide](getting-started-linux) or skip ahead to [Setting up the FreeSewing development environment (WSL)](#setting-up-the-freesewing-development-environment-wsl). If not, the following process is very similar but has some differences to avoid quirks specific to this environment.
+If you already have a working WSL environment and VSCode Remote configured you can follow the [getting started on Linux guide](/tutorials/getting-started-linux) or skip ahead to [Setting up the FreeSewing development environment (WSL)](#setting-up-the-freesewing-development-environment-wsl). If not, the following process is very similar but has some differences to avoid quirks specific to this environment.
 
 Windows Subsystem for Linux allows you to run a Linux distribution as a development environment, with enough functionality to develop a FreeSewing pattern. While this approach offers some advantages this is not strictly necessary to develop patterns on Windows. If you would prefer a simpler setup process refer to [Setting up a development environment in Windows](#setting-up-a-development-environment-in-windows).
 
