@@ -1,9 +1,9 @@
-Ursula consists of a front, a back, and a lined gusset.
+Ursula besteht aus einem vorderen Teil, einem hinteren Teil und einem gefütterten Zwickel.
 
  - **Oberstoff**
    - Cut **1 front**
    - Cut **1 back**
-   - Cut **2 gusset**
+   - Schneide **2 Zwickel**
 
 <Note>
 

@@ -1,18 +1,18 @@
 ---
 date: 2021-06-25
-title: Hugo Hoodie von Hellgy
-img: hugobyhellgydinosaurs1.jpg
-caption: "A Hugo hoodie featuring a dinosaur print"
+title: Huey Hoodie von Hellgy
+img: dinosaurs1.jpg
+caption: "A Huey hoodie featuring a dinosaur print"
 patterns:
-  - hugo
+  - huey
 author:
 ---
 
-We adore Hellgy's Hugo hoodies and their excellent choice in fabrics. This dinosaur one was a crowd favorite over on the FreeSewing Discord.
+We adore Hellgy's Huey hoodies and their excellent choice in fabrics. This dinosaur one was a crowd favorite over on the FreeSewing Discord.
 
-![Eine Detailansicht](hugobyhellgydinosaurs2.jpg)
+![Eine Detailansicht](dinosaurs2.jpg)
 
-![Noch eine Detailansicht](hugobyhellgydinosaurs3.jpg)
+![Noch eine Detailansicht](dinosaurs3.jpg)
 
 <Note>
 

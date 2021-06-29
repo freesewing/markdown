@@ -1,3 +1,3 @@
 ![L'option stretch pour Bruce](./stretch.svg)
 
-Le facteur de stretch horizontal.
+The amount of overall (horizontal) stretch.
