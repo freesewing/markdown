@@ -18,6 +18,6 @@ let sleeveBonus = measurements.shoulderToWrist * (1 + options.sleeveLengthBonus)
 
 <Note>
 
-Keep in mind that [FreeSewing uses millimeter for everything](/guides/overview/about/units/).
+Keep in mind that [FreeSewing uses millimeter for everything](/guides/prerequisites/units).
 
 </Note>
