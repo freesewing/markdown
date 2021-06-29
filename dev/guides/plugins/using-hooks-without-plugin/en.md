@@ -4,7 +4,7 @@ order: 85
 ---
 
 You can attach a method to a hook at run-time without the need for a plugin 
-using the [Pattern.on()](/api/pattern#on) method.
+using the [Pattern.on()](/reference/api/pattern/on) method.
 
 The method takes the hook name as its first argument, and the hook method as its second.
 

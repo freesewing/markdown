@@ -29,6 +29,6 @@ drafting the part it gets injected to. It will, in other words, influece the dra
 
 <Note>
 
-For inheriting parts from other patterns, please refer to [pattern inheritance](/howtos/core/inheritance/).
+For inheriting parts from other patterns, please refer to [Design inheritance](/howtos/code/inheritance/).
 
 </Note>

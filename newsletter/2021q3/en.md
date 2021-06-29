@@ -1,17 +1,48 @@
 Welcome to the 2021 Summer edition of the FreeSewing newsletter.  
 Here's what we've included for you:
 
+- 🩲 Pattern releases spring 2021 (1-minute read - by Natalia)
+- 👀 Help Sanne test her new bodice block (1-minute read - by Joost)
 - 😢 Farewell David: Remembering David Page Coffin (2-minute read - by Joost)
 - 🕵️ Behind the seams: An Gargouri (8-minute read - by Eleonore)
 - 🤓 Git good: Let’s walk through a simple FreeSewing contribution together (2-minute read - by Natalia)
 - ⚡ FreeSewing v2.16: This one's for the developers (1-minute read - by Joost)
-- 🤷 Gender is an anti-pattern (3-minute read - by Joost)
+- 🤷 Gender inclusivity (3-minute read - by Karen)
 
 We hope you enjoy it.
 If not, mash that reply button and tell us what you'd like to read instead ¯\\\_(ツ)\_/¯
 
 
 &nbsp;  
+
+&nbsp;  
+
+# 🩲 Pattern releases spring 2021
+
+Here's a quick recap of the new patterns we released in the second quarter of this year:
+
+ - [The Ursula undies](https://freesewing.org/blog/announcing-ursula/): A highly-customizable underwear pattern with plenty of options to achieve different styles. This is my first pattern design. My hope is that Ursula will help you customize undies with the perfect look and fit for your own body. Interested in making a test pair and helping to refine the pattern? I'd love to chat with you over in the [FreeSewing Discord](https://discord.freesewing.org/).
+ - [The Charlie Chinos trousers](https://freesewing.org/blog/announcing-charlie/): Joost designed a new trouser pattern that will adapt better to differently shaped bodies. Charlie has 31 options that allow you to configure your trousers so you get them just as you like.
+
+Click through either of the links for the blog posts announcing these patterns.
+
+&nbsp;  
+
+---
+
+&nbsp;  
+
+# 👀 Help Sanne test her new bodice block
+
+Sanne is working on a bodice block that is based on her own drafting experience and the 
+techniques she learned. She's hoping to get some feedback from a couple of more testers,
+particularly people with larger cup sizes.
+
+If you'd like to help out, you can [generate your own version of the block online](https://bodice-block-sannek.netlify.app/).
+
+&nbsp;  
+
+---
 
 &nbsp;  
 
@@ -226,38 +257,35 @@ I will just [point you to the blog post on the matter](https://freesewing.org/bl
 &nbsp;  
 
 
-# 🤷 Gender is an anti-pattern 
+# 🤷 Gender Inclusivity
 
-To be clear: When I say *anti-pattern*, I am not talking about sewing patterns.  
-An anti-pattern is a term used in technology to label a common approach that is counter-productive. 
-In other words, when a poor solution is nevertheless a popular one, we call that an anti-pattern.
+A month or two back, some FreeSewing users asked a really great question
+on the [Discord](https://chat.freesewing.org/).
+What is the goal of having a "womenswear" and "menswear" tag on FreeSewing patterns,
+and is it really necessary? While some of our users found the tags helpful for sorting,
+others felt alienated by the terminology, or didn't feel like either term represented
+them. We thought we could do better, so we've made a few changes.
 
-Anti-patterns are often not the result of a conscious choice, but rather the absence of one. 
-I was reminded of this recently when we were having a discussion on how we use gender on the FreeSewing website.
+**Tags are gone!** 🎉 
 
-As you may or may not know, we have a history of striving for diversity and inclusion, 
-and as part of those efforts have gone through several iterations of the way we gather input 
-from our users about their bodies. In the end, we landed on merely making the distinction between 
-bodies *with-breasts*, and bodies *without-breasts*. Since that is an important distinction 
-when designing patterns, and we don't care or need to know about gender.
+Instead, we now have departments. For the moment, these departments include
+Accessories, Bottoms, Tops, Coats & Jackets, Underwear, and Swimwear.
+The departments are listed at the top of the [Designs](https://freesewing.org/designs/) page,
+along with difficulty ratings and types of patterns (pattern or block).
+If you are looking for something in particular, you can use the departments to filter
+patterns, then decide what's right for you!
 
-As it turns out, there was still some gendered language on the site, particularly on the overview 
-page of our designs where you could filter by *menswear* and *womenswear*.
-This was brought to our attention recently, and we've since updated the way we allow filtering for 
-different styles, adopting gender-free terminology like *tops*, *bottoms*, *accessories* and so on.
+**Why is this an improvement?** 🤔
 
-I honestly can't remember when I added *menswear* and *womenswear* to the site, but it must have 
-been a good while ago. I didn't really think about it much, and hence put my foot squarely 
-into the anti-pattern that is gender.
+The old categories on FreeSewing's Designs page, including menswear and womenswear,
+were developed based on the types of categories you might find at a clothing shop.
+However, we're not a clothing shop. And that's kind of the point.
+FreeSewing patterns are made-to-measure because they're meant for everyone.
+We think these new departments are a better representation of that.
 
-I like to think that I won't make that same mistake again. But I'm certain I'll make others. 
-Partially because I am a hopelessly flawed human being, but also because I believe that *done is better than perfect*.
+These categories were also not visible on the Designs page - you had to do a little more
+work to filter patterns. As we add more patterns to FreeSewing, it made sense to add some filters,
+so you can more easily find just what you're looking for.
 
-When writing software, designing patterns, or building a website, we have the luxury to come back to it 
-to improve things, fix problems, and make it better. 
-Without such a safety net, the worries of getting it wrong would paralyse me, and I'd get nothing done.
-
-So if you see something that's wrong. [Let us know](https://discord.freesewing.org/). 
-That's how we make it better.
-
+Thanks to the users who started this discussion and helped make FreeSewing a little better! ♥
 
