@@ -34,7 +34,7 @@ It's used by our [Carlita](/reference/packages/carlita) pattern, which extends t
 
 <Tip>
 
-To learn more about extending a pattern, see [Pattern inheritance](/howtos/core/inheritance/)
+To learn more about extending a pattern, see [Design inheritance](/howtos/code/inheritance/)
 
 </Tip>
 

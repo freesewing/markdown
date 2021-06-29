@@ -15,8 +15,7 @@ Here's some of the most relevant reference documentation:
 We have a [Pattern design tutorial](/tutorials/pattern-design/) that is a 
 good way to familiarize yourself with the FreeSewing platform.
 
-Alternatively, we have bite-sized guides that cover [the FreeSewing basics](/guides/basics/)
-and [Pattern building blocks](/guides/pattern-building-blocks/).
+Alternatively, we have bite-sized guides that cover [prerequisites](/guides/prerequisites/), [patterns](/guides/patterns/), [best practices when designing](/guides/best-practices/), and [plugins](/guides/plugins/).
 
 #### Not here for core?
 
