@@ -3,7 +3,7 @@ date: 2021-06-27
 title: "Announcing Ursula, a basic, highly-customizable underwear pattern"
 linktitle: "Announcing the Ursula Undies"
 img: cover.jpg
-caption: "Photo by Karolina Grabowska from Pexels"
+caption: "Foto von Karolina Grabowska von Pexels"
 author: joost
 ---
 
