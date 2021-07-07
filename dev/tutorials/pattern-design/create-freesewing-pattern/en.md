@@ -3,10 +3,18 @@ title: Setting up the development environment
 order: 100
 ---
 
+<Note>
+
+###### Already did the Getting started tutorial?
+
+If you already set up the FreeSewing development environment and created a pattern, you can use that pattern and skip these steps. You can move on to [Your first part](/tutorials/pattern-design/your-first-part/).
+  
+</Note>
+
 Open a terminal and enter the following command:
 
 ```bash
-npm init freesewing-pattern
+npx create-freesewing-pattern
 ```
 
 This will load a few dependencies, and then ask you the following questions:
@@ -63,10 +71,7 @@ If all goes well, your browser will open and show the following landing page:
 
 <Note>
 
-###### Using Windows?
-
-We have tested this on Linux and MacOS, but not on Windows since I (joost) don't have
-a Windows machine I can test this on.
+###### Need help?
 
 If you run into any issues, join [our chatroom](https://discord.freesewing.org/) and
 we'll figure it out together.
