@@ -1,0 +1,17 @@
+---
+date: 2021-07-07
+title: Alberto's double colour flat cap
+img: Albertos_double_colour_flat_cap.jpg
+caption: "A Florent flat cap featuring split colours"
+patterns:
+  - florent
+author:
+---
+
+This double colour flat cap was made by Alberto G. S., who says that the secret of the colour split is to use the existing points on the pattern! We are super impressed with this fashionable take on Florent.
+
+<Note>
+
+This picture is from Alberto Ginel Salvador on Facebook. Hij werd hier gepost met toestemming.
+
+</Note>
