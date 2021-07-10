@@ -70,9 +70,10 @@ The example above makes the following variables available:
  - `Path`: The Path constructor
  - `paths`: A reference to the part's paths
 
-These are the most basic building blocks of your pattern; without these, you will not be able to draw anything. 
+These will make it possible for you to draw points and paths easily.
 
-The following three varibales are also needed to create a full fledged FreeSewing pattern; their function and usage will be covered in detail [later on in this tutorial](/tutorials/pattern-design/completing-your-pattern/):
+The following three variables are also needed to create a full-fledged FreeSewing pattern; their function and usage will
+be covered in detail [later on in this tutorial](/tutorials/pattern-design/completing-your-pattern/):
 
 - `complete`: create a *complete* pattern (or not)
 - `sa`: include *seam allowance* (or not)
