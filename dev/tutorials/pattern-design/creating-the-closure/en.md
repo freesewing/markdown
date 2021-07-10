@@ -21,6 +21,9 @@ let {
   points,
   Path,
   paths,
+  complete,
+  sa,
+  paperless,
   measurements,
   options,
   macro
