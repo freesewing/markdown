@@ -56,7 +56,7 @@ options: {
 ```
 
  - You've added `widthRatio` and `lengthRatio` options
- - You've given all options sensible defauls 
+ - You've given all options sensible defaults 
  - You've given all options sensible maximum and minimum boundaries
 
 <Note>
