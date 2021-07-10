@@ -39,20 +39,20 @@ Then, in the `src/index.js` file, change the import accordingly:
 
 ```js
 // Change this line
-//import draftBox from "./box";
+//import draftBox from "./box"
 
 // Into this
-import draftBib from "./bib";
+import draftBib from "./bib"
 ```
 
 Finally, still in the `src/index.js` file, update the draftmethod:
 
 ```js
 // Change this line
-//Pattern.prototype.draftBox = draftBox;
+//Pattern.prototype.draftBox = draftBox
 
 // Into this
-Pattern.prototype.draftBib = draftBib;
+Pattern.prototype.draftBib = draftBib
 ```
 
 <Tip>
