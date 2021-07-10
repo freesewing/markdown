@@ -30,7 +30,7 @@ the area under *// Complete?*
 ###### The point of (non) complete patterns
 
 Users can set the `complete` setting to `false`. When that's the case, you
-should draft a base outline of the pattern, rather than a fully detailed pattern.i
+should draft a base outline of the pattern, rather than a fully detailed pattern.
 
 This has different uses, such as generating patterns to be cut out with a laser cutter.
 
