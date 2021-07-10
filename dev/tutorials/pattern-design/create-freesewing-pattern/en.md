@@ -36,22 +36,7 @@ This will take a few minutes because we're loading some software for your develo
 
 </Note>
 
-When it's ready, you'll need to run two commands in parallel. In the current terminal,
-enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
-
-```bash
-cd tutorial
-npm run start
-```
-
-Or if you chose to use Yarn as package manager:
-
-```bash
-cd tutorial
-yarn start
-```
-
-Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
+When it's ready, enter the directory that was just created for our `tutorial` pattern and navigate to the `example` subfolder. There, start the development environment:
 
 ```bash:
 cd tutorial/example
