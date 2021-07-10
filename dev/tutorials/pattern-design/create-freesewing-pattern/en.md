@@ -26,7 +26,7 @@ This will load a few dependencies, and then ask you the following questions:
  - **Department**: Use the arrow keys to select `Accessories`
  - **Author**: Enter your GitHub username
  - **GitHub repository**: This will be prefilled for you, so just hit Enter
- - **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
+ - **Package manager**: Use the arrow to choose. Pick `npm` if you're not sure.
 
 After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
 
