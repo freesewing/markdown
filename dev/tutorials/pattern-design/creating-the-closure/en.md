@@ -57,7 +57,7 @@ macro("round", {
 });
 ```
 
-<Fixme> Add link to macro/extend docs </Fixme>
+<Note> You can find more information on the `round` macro in [the macros docs](/reference/macros/round/).</Note>
 
 <Example pattern="tutorial" part="step7" caption="Pretty good, but how are we going to fit it over the baby's head?" />
 
