@@ -25,7 +25,7 @@ let {
   paperless,
   measurements,
   options
-} = part.shorthand();
+} = part.shorthand()
 ```
 
 Great. Now let's get to work:
