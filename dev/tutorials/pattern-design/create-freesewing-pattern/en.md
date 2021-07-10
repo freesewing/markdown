@@ -40,7 +40,7 @@ When it's ready, enter the directory that was just created for our `tutorial` pa
 
 ```bash:
 cd tutorial/example
-npm run start
+npm start
 ```
 
 Or if you chose to use Yarn as package manager:
