@@ -4,7 +4,7 @@ order: 130
 ---
 
 FreeSewing is all about *made-to-measure* sewing patterns; 
-We are going to draft our pattern according to the measurements provided to us.
+we are going to draft our pattern according to the measurements provided to us.
 
 Which begs the question, which measurements?
 
