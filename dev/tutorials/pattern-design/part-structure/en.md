@@ -8,7 +8,7 @@ Open `src/bib.js` and make sure it looks like this:
 
 ```js
 export default function(part) {
-  let { Point, points, Path, paths complete, sa, paperless } = part.shorthand();
+  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand();
   // Design pattern here
 
   // Complete?
