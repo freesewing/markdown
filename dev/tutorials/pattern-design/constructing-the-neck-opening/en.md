@@ -52,7 +52,7 @@ points.right = new Point(measurements.head / 10, 0);
 ```
 
  - We're adding a point named `right` to `points` which holds our part's points
- - We're using the Point constructor, which takes two arguments: The points X and Y values
+ - We're using the Point constructor, which takes two arguments: The point's X and Y values
  - The X value is `measurements.head / 10`
  - The Y value is `0`
 
