@@ -8,7 +8,7 @@ Open `src/bib.js` and make sure it looks like this:
 
 ```js
 export default function(part) {
-  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand();
+  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand()
   // Design pattern here
 
   // Complete?
@@ -19,7 +19,7 @@ export default function(part) {
     if (paperless) {
     }
   }
-  return part;
+  return part
 }
 ```
 
@@ -36,7 +36,7 @@ export default function(part) {
 
   // ...
   
-  return part;
+  return part
 }
 
 ```
@@ -57,7 +57,7 @@ let {
   points,
   Path,
   paths,
-} = part.shorthand();
+} = part.shorthand()
 ```
 
 This is FreeSewing's **shorthand** method. It returns an object with a bunch of handy helpers
