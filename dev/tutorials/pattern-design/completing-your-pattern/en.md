@@ -7,7 +7,7 @@ When we started out, we said a good part boilerplate looks like this:
 
 ```js
 export default function(part) {
-  let { Point, points, Path, paths } = part.shorthand();
+  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand();
   // Design pattern here
 
   // Complete?
