@@ -97,6 +97,12 @@ points.logo = new Point(0, 0);
 snippets.logo = new Snippet("logo", points.logo);
 ```
 
+<Note>
+
+  You can find all possible snippets in [our documentation](/reference/snippets/).
+  
+</Note>
+
 ## Seam allowance
 
 Just like users can choose whether they want a complete pattern or not, they can choose
