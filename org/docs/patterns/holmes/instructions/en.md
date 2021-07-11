@@ -75,7 +75,7 @@ If you are uncertain about the length you want for you ties take 1 metre (39") o
 <Note>
 
 The lengths above are recommendations so feel free to go as long or as short as you like with the ties.  
-If you prefer you can make your ties with your fashion fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
+If you prefer you can make your ties with your main fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
 
 </Note>
 
@@ -198,7 +198,7 @@ Assembly and Lining instructions are written with a 6 panelled Holmes in mind. Y
 
 ### Step 6: Finishing Ties
 
-If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made your ties with then fashion fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
+If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made your ties with your main fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
 
 #### Finishing Ties Method 1
 
