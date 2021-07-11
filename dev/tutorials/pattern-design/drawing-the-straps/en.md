@@ -105,6 +105,12 @@ macro("round", {
 
 ```
 
+<Note>
+
+  You can also remove the `render` line completely. More on this in the next section.
+  
+</Note>
+
 With that out of the way, our bib now looks like this:
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
