@@ -31,7 +31,7 @@ Instead, we include dimensions on the pattern that allows them to transfer
 the pattern directly onto fabric, or onto an intermediate medium such as tracing paper.
 
 In addition, FreeSewing will automatically render a grid for each pattern part with metric or imperial
-marcations, depending on the units requested by the user.
+markings, depending on the units requested by the user.
 
 While the grid gets added automatically, the dimensions you have to add yourself.
 Thankfully, there's macros that can help you with that, specifically:
