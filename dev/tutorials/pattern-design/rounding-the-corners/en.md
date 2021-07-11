@@ -13,14 +13,14 @@ macro("round", {
   via: points.bottomLeft,
   radius: points.bottomRight.x / 4,
   prefix: "bottomLeft"
-});
+})
 macro("round", {
   from: points.bottomLeft,
   to: points.topRight,
   via: points.bottomRight,
   radius: points.bottomRight.x / 4,
   prefix: "bottomRight"
-});
+})
 ```
 
 But there's still something to be learned here. If you look at our earlier use of the `round` macro,

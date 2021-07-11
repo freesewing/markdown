@@ -7,7 +7,7 @@ When we started out, we said a good part boilerplate looks like this:
 
 ```js
 export default function(part) {
-  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand();
+  let { Point, points, Path, paths, complete, sa, paperless } = part.shorthand()
   // Design pattern here
 
   // Complete?
@@ -18,7 +18,7 @@ export default function(part) {
     if (paperless) {
     }
   }
-  return part;
+  return part
 }
 ```
 
@@ -56,7 +56,7 @@ let {
   complete,
   snippets,
   Snippet
-} = part.shorthand();
+} = part.shorthand()
 ```
 
 ## Adding snippets
@@ -67,9 +67,9 @@ Things like buttons or buttonholes, a logo, or snaps:
 ```js
 // Complete?
 if (complete) {
-  snippets.snapMale = new Snippet("snap-stud", points.snapLeft);
+  snippets.snapMale = new Snippet("snap-stud", points.snapLeft)
   snippets.snapFemale = new Snippet("snap-socket", points.snapRight)
-    .attr("opacity", 0.5);
+    .attr("opacity", 0.5)
 
   if (sa) {
   }
@@ -93,8 +93,8 @@ Any attributes you set will be added to the SVG output.
 Since we're adding snippets, let's throw a logo on there too:
 
 ```js
-points.logo = new Point(0, 0);
-snippets.logo = new Snippet("logo", points.logo);
+points.logo = new Point(0, 0)
+snippets.logo = new Snippet("logo", points.logo)
 ```
 
 <Note>
@@ -133,7 +133,7 @@ paths.bias = paths.seam
   .offset(-5)
   .attr("class", "various dashed")
   .attr("data-text", "finishWithBiasTape")
-  .attr("data-text-class", "center fill-various");
+  .attr("data-text-class", "center fill-various")
 ```
 
 The `path.offset()` method makes it trivial to add seam allowance, since it will contruct
@@ -154,20 +154,20 @@ That's why you should number your parts and give them a name.
 The `title` macro can help you with that:
 
 ```js
-points.title = points.bottom.shift(-90, 45);
+points.title = points.bottom.shift(-90, 45)
 macro("title", {
   at: points.title,
   nr: 1,
   title: "bib"
-});
+})
 ```
 
 The `scalebox` macro prints a box of an exact size.
 It is used by people who print the pattern to make sure their print is correctly scaled.
 
 ```js
-points.scalebox = points.title.shift(-90, 55);
-macro("scalebox", { at: points.scalebox });
+points.scalebox = points.title.shift(-90, 55)
+macro("scalebox", { at: points.scalebox })
 ```
 
 And with that, our pattern is now *complete*:
