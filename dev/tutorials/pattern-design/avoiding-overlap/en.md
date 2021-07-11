@@ -41,7 +41,7 @@ while (points.tipRightBottomStart.x > -1) {
 We're rotating all the points in the `rotateThese` array around the `edgeLeft` points.
 We're using increments of 1 degree until the `tipRightBottomStart` point is 1mm passed the center of our bib.
 
-While we're add it, let's add a point where the closure's snap should go:
+While we're at it, let's add a point where the closure's snap should go:
 
 ```js
 points.snapLeft = points.top.shiftFractionTowards(points.edgeTop, 0.5);
