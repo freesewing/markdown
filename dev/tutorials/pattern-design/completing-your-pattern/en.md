@@ -79,9 +79,9 @@ if (complete) {
 }
 ```
 
-We've added a `snap-male` and `snap-female` snippet to the points we had foreseen for that.
+We've added a `snap-stud` and `snap-socket` snippet to the points we had foreseen for that.
 
-Because the female snippet is at the back of the fabric, we've made it semi-transparent by
+Because the socket snippet is at the back of the fabric, we've made it semi-transparent by
 setting the `opacity` attribute to `0.5`. Yes, you can do that.
 
 <Tip>
