@@ -113,7 +113,7 @@ Our bib does not use seam allowance. Instead we'll finish it with bias tape.
 So you can simply remove that condition.
 
 However, for future refefence, `sa` is a variable that you can get from `part.shorthand()`
-just like `complete`. But instead of `true` or `false` it will hold the amount if seam allowance
+just like `complete`. But instead of `true` or `false` it will hold the amount of seam allowance
 in mm. 
 
 Note that you can still do `if (sa)` because zero is *falsy*.
@@ -131,7 +131,7 @@ paths.bias = paths.seam
 ```
 
 The `path.offset()` method makes it trivial to add seam allowance, since it will contruct
-a path parallel at the distance you pass it. 9 times out of 10, you'll be using it as `path.offset(sa)`.
+a path parallel to the given path at the distance you pass it. 9 times out of 10, you'll be using it as `path.offset(sa)`.
 
 Note that we're also using the attributes again, to change the look of the line, and add text to it,
 as explained in [Adding text](/concepts/adding-text).
@@ -166,7 +166,7 @@ macro("scalebox", { at: points.scalebox });
 
 And with that, our pattern is now *complete*:
 
-<Example pattern="tutorial" part="step11" caption="We used attributed to add color, dashes, text on a path and even opacity" />
+<Example pattern="tutorial" part="step11" caption="We used attributes to add color, dashes, text on a path and even opacity" />
 
 We're not done yet though. There's one more thing the user can ask for: a *paperless* pattern.
 
