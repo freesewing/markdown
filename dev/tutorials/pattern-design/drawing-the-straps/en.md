@@ -85,6 +85,26 @@ paths.seam = new Path()
   .attr("class", "fabric");
 ```
 
+The `round` macro we added earlier is still drawing a half-circle. We cannot remove the macros, or the points it creates would also disappear. Luckily, we can simply set `render` to `false` and keep the points without drawing the curves between them:
+
+```js
+macro("round", {
+  from: points.edgeTop,
+  to: points.tipRight,
+  via: points.tipRightTop,
+  prefix: "tipRightTop",
+  render: false // set this from true to false
+})
+macro("round", {
+  from: points.tipRight,
+  to: points.top,
+  via: points.tipRightBottom,
+  prefix: "tipRightBottom",
+  render: false // set this from true to false
+})
+
+```
+
 With that out of the way, our bib now looks like this:
 
 <Example pattern="tutorial" part="step9" caption="That is looking a lot like a bib" />
