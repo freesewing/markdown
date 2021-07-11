@@ -6,7 +6,7 @@ order:  270
 Users can request paperless patterns by setting the `paperless` setting to `true`.
 
 We can get that value of the setting from the `part.shorthand()` method.
-It will be the last shorthand we need:
+It will be the last shorthand we will put to use:
 
 ```js
 let {
@@ -14,13 +14,14 @@ let {
   points,
   Path,
   paths,
+  complete,
+  sa,
+  paperless, // <- this one here
   measurements,
   options,
   macro,
-  complete,
   snippets,
-  Snippet,
-  paperless
+  Snippet
 } = part.shorthand();
 ```
 
