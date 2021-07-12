@@ -26,7 +26,6 @@ title: "@freesewing/core"
   <a
     href="https://deepscan.io/dashboard#view=project&tid=2114&pid=2993&bid=23256"
     title="Code quality on DeepScan"
-    style={styles.badge}
   >
     <img
       src="https://deepscan.io/api/teams/2114/projects/2993/branches/23256/badge/grade.svg"
