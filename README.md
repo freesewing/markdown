@@ -24,7 +24,7 @@ for parametric design of sewing patterns. It's a modular system (check our list
 of [plugins](https://freesewing.dev/reference/plugins/) and getting started is as simple as:
 
 ```bash
-npm init freesewing-pattern
+npx create-freesewing-pattern
 ```
 
 The [getting started](https://freesewing.dev/start) section on [freesewing.dev](https://freesewing.dev/) is a good
