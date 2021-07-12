@@ -2,9 +2,7 @@
 title: "@freesewing/examples"
 ---
 
-import PatternPage from "../../../../../src/components/pattern-page";
-
-<PatternPage pattern="examples" />
+<Pattern pattern="examples" />
 
 This pattern holds examples used throughout the documentation.  
 Examples like this one:
