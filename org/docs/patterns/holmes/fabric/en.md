@@ -1,5 +1,5 @@
 ---
-Holmes Fabric options
+title: Holmes Fabric options
 ---
 ### Main Fabric
 For the main fabric of your hat, a thick fabric will work best to hold the shape but if you wanna go for a lighter fabric you can interface it to give it more body. Generally you want to use **Wools** of coating weight but you can experiment with different weights and fabrics with the relevant interfacing.
