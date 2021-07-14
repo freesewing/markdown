@@ -1,5 +1,5 @@
 ---
-Holmes Construction
+title: Holmes Construction
 ---
 
 ### Glossary
