@@ -26,7 +26,7 @@ This will load a few dependencies, and then ask you the following questions:
  - **Department**: Use the arrow keys to select `Accessories`
  - **Author**: Enter your GitHub username
  - **GitHub repository**: This will be prefilled for you, so just hit Enter
- - **Package manager**: Use the arrow to choose. Pick `NPM` if you're not sure.
+ - **Package manager**: Use the arrow to choose. Pick `npm` if you're not sure.
 
 After you've answered these questions, the default template will be copied, after which all dependencies will be installed.
 
@@ -36,26 +36,11 @@ This will take a few minutes because we're loading some software for your develo
 
 </Note>
 
-When it's ready, you'll need to run two commands in parallel. In the current terminal,
-enter the directory that was just created for our `tutorial` pattern and start rollup in watch mode:
-
-```bash
-cd tutorial
-npm run start
-```
-
-Or if you chose to use Yarn as package manager:
-
-```bash
-cd tutorial
-yarn start
-```
-
-Now open a second terminal, and navigate to the `example` subfolder and run the same command there:
+When it's ready, enter the directory that was just created for our `tutorial` pattern and navigate to the `example` subfolder. There, start the development environment:
 
 ```bash:
 cd tutorial/example
-npm run start
+npm start
 ```
 
 Or if you chose to use Yarn as package manager:
