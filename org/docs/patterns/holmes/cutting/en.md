@@ -1,5 +1,5 @@
 ---
-Holmes Cutting
+title: Holmes Cutting
 ---
 The **gore** pattern piece needs to be cut on the fold to create a whole piece.
 
