@@ -1,7 +1,7 @@
 ---
 date: 2021-07-07
 title: Alberto's double colour flat cap
-img: Albertos_double_colour_flat_cap.jpg
+img: cap.jpg
 caption: "A Florent flat cap featuring split colours"
 patterns:
   - florent
