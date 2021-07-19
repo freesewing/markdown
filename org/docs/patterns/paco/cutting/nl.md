@@ -10,10 +10,10 @@ Als een patroondeel niet is afgedrukt, betekent dit dat je het niet nodig hebt.
     - 2x **deel 1**: Dit is het achterpand. Knip deze uit je **buitenstof** met _goede kanten op elkaar_
     - 2x **deel 2**: Dit is het voorpand. Knip deze uit je **buitenstof** met _goede kanten op elkaar_
     - 2x **deel 3**: Dit is de tailleband. Knip dit uit je **buitenstof**
-    - 2x **deel 4**: Dit is de enkelboord. Knip deze uit je **buitenstof** _aan de stofvouw_ (niet nodig als je geen elastische zoom wil)
+    - 2x **deel 4**: Dit is de enkelboord. Cut these, from your **main fabric** with _good sides together_ (not needed if your chose not to have an elasticated hem)
     - 2x **deel 7**: Dit is de paspel voor de achterzak. Knip 2 van deze uit je **buitenstof** met _goede kanten op elkaar_
   - Uit je voeringsstof:
-    - 2x **deel 5**: Dit is het voorste zakdeel. Knip deze _aan de stofvouw_ van je **voeringsstof** (niet nodig als je geen voorzakken wil)
+    - 2x **part 5**: This is the front pocket bag. Knip deze _aan de stofvouw_ van je **voeringsstof** (niet nodig als je geen voorzakken wil)
     - 2x **deel 6**: Dit is het achterste zakdeel. Knip 2 van deze uit je **voeringsstof** _aan de stofvouw_
   - Uit tussenvoering:
     - 2x **deel 8**: Dit is de versteviging van de paspel voor de achterzak. Knip 2 van deze uit **tussenvoering**
