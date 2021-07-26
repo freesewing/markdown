@@ -7,7 +7,7 @@ patterns: [carlton]
 author: karen
 ---
 
-FreeSewing user Jim Rexroat made this absolutely incredible Carlton, originally posted on [Discord](discord.freesewing.org),
+FreeSewing user Jim Rexroat made this absolutely incredible Carlton, originally posted on [Discord](https://discord.freesewing.org/),
 and shared here with permission. Can you believe it's his first FreeSewing make?
 
 ![Unbottoned view](jim2.jpg)
