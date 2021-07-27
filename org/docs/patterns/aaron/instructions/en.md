@@ -1,14 +1,39 @@
 
 ## Step 1: Close seams
 
-![Close the side and shoulder seams](step01.png)
+<img align="right" src="https://freesewing.org/static/26236109311ef34dee8ac0f91f28ebdc/0b533/step01.png">
 
 Put front and back on top of each other with _good sides together_. 
 Serge the side seams, and the short seams at the shoulder straps.
 
+<br> 
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ## Step 2: Finish hem
 
-![Finish the hem](step02.png)
+<img align="right" src="https://freesewing.org/static/91f6483dfb7dcaefa9d8a84058cce1f0/0b533/step02.png">
 
 Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, use a _twin needle_ or _zig-zag stitch_ to keep the seam stretchable.
 
@@ -18,6 +43,25 @@ Fold the hem upwards, and sew it down. If you have a coverlock, use it. If not, 
 Knitwear doesn't ravel, so you can simply fold this over once and sew it down, then neatly trim back the fabric.
 
 </Note>
+
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
 
 ## Step 3: Sew knit binding to the front
 
@@ -50,16 +94,38 @@ This is the only part of making this A-shirt that requires a bit of practice. Do
 
 ### Pick your spot
     
-![Applying knit binding](step03a.png)
+<img align="right" src="https://freesewing.org/static/154309c7cfd21ed6ab17e3d7658095b0/0b533/step03a.png">
 
 The first thing we need to do is decide where we are going to start/stop our binding. Here's what I suggest:
 
   - For the armholes: at the side seam. This will hide our seam under the arm
   - For the neck opening: the center back of the neck. You might want to mark this with a pin
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ### Place (the start of) your binding
 
-![Place (the start of) your binding](step03b.png)
+<img align="right" src="https://freesewing.org/static/9ff3ce9605bd1a81e1ce24fc9d9bb6df/0b533/step03b.png">
 
 Put your A-shirt down with the good side up, and place your binding strip on top of it with the good side down (as in, good sides together).
 
@@ -67,9 +133,28 @@ Align the long edge of your strip with the edge of your fabric so the strip lies
 
 Now shift your binding strip 1cm beyond your starting point. This little extra will guarantee we can join the two ends later.
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ### Make sure you know where to sew
 
-![Make sure you know where to sew](step03c.png)
+<img align="right" src="https://freesewing.org/static/99869c935ca7c7e11af238524657cd57/0b533/step03c.png">
 
 We are going to sew 1.5cm from the edge. So be careful because this is not the standard seam allowance.
 
@@ -82,10 +167,25 @@ Then all you need to do is keep the edge of your fabric aligned with that line.
 </Tip>
 
 Also, we are not starting at our start point, but we skip the first 3cm. We'll need this wiggle room later to join the ends of our binding.
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
 
 ### Sew binding in place
 
-![Sew binding in place](step03d.png)
+<img align="right" width="500" height="500" src="https://freesewing.org/static/d419cc2c5dfd53569134bdc82976d2d8/82158/step03d.png">
 
 Sew your binding in place while gently stretching the binding, but not the fabric. Make sure not to sew the last 3cm but leave them, just as you did at the start.
 
@@ -94,38 +194,159 @@ You might need to practice a bit to get the hang of it.
 > Make sure to stretch your binding more when you're taking a sharper bend. 
 > Read my notes on [knit binding](/docs/sewing/knit-binding) for more info.
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ### Mark binding ends
 
-![Joining the binding ends](step03e.png)
+
+<img align="right" src="https://freesewing.org/static/c5ecc43a188ea1f5c90ba33326aed7bd/0b533/step03e.png">
 
 With about 6cm left to go before we complete our circle, it's time to sew the ends of the binding together.
     
-![Mark binding ends](step03f.png)
+<img align="right" src="https://freesewing.org/static/3c2e76a789c6facbac3daf9b30815876/0b533/step03f.png">
 
 Take one of the edges, and stretch it along the 3cm seperating it from the start point as you would while sewing.
 
 Mark the binding where it reaches the start point. Do the same for the other end.
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ### Sew binding ends together
 
-![Join the ends of the binding](step03g.png)
+<img align="right" src="https://freesewing.org/static/ad65b0a0ba5e747b4e2ba72966cedcb5/0b533/step03g.png">
 
 Fold your A-shirt in whatever way makes it easier for you to place both binding ends with good sides together, aligning the marks. Sew them together on the mark.
 
 > 6 cm is not much, but should be enough to get both edges comfortably under your sewing machine to sew them togther.
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ### Finish last 6cm of binding
 
-![Sew binding ends together](step03h.png)
+<img align="right" src="https://freesewing.org/static/8014da8aee5de034356b28ed6255352b/0b533/step03h.png">
 
 Now that your binding ends are joined together, it's time to finish the last 6cm of binding. Sew it down, staying 1.5cm from the edge as you did before.
+
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
 
 ## Step 4: Fold knit binding to the back and sew down
 
 ### Fold your binding over the fabric edge to the back
     
-![Fold knit binding to the back](step04a.png)
-
+<img align="right" src="https://freesewing.org/static/8841ea75716ac3671deccada0029f5f6/0b533/step04a.png">
 
 Fold your binding fabric around the fabric of your A-shirt to the back. This is how we'll sew it down.
 
@@ -133,7 +354,7 @@ Fold your binding fabric around the fabric of your A-shirt to the back. This is 
 
 ### Sew your binding down
 
-![Sew the knit binding down](step04b.png)
+<img align="right" src="https://freesewing.org/static/1898f23627d440b135f8d6e6357e50d5/0b533/step04b.png">
 
 From the right side of your fabric, sew along the inner edge of your binding (furthest from the edge), making sure to catch the binding at the back in the process.
 
@@ -158,9 +379,25 @@ So watch out for this, and if you see it happening, stretch the under-layer a bi
 
 </Note>
 
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+<br>
+
+</br>
+
 ## Step 5: Trim back knit binding on the inside
 
-![Trim back knit binding on the inside](step05.png)
+<img align="right" src="https://freesewing.org/static/7ba5749cc7cf2c3664c34100f0f67e6c/0b533/step05.png">
 
 On the inside of your A-shirt, trim back the knit binding against your seam to finish up.
 
