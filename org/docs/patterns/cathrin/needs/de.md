@@ -1,8 +1,8 @@
-Corsets are easier than they seem to construct, however they need several specialist items and tools.
+Corsets are easier to construct than they seem, however they need several specialist items and tools.
 
 You will need BONING. Historic corsets used whale bone to stiffen corsets. Modern corset makers use steel. You can get steel bones either as flat steel and spiral steel - do research, as different types of corset and different corset makers have their own preferences. Plastic bones are also a cheaper option.
 
-You can find a good guide to other tools at Foundations Revealed.
+You can find a good guide to other tools at [Foundations Revealed](https://foundationsrevealed.com/).
 
 Sample supplies list:
 
