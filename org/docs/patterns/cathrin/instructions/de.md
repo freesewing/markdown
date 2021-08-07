@@ -1,8 +1,8 @@
 <Note>
 
-#### There are many ways to construct a corset
+#### Es gibt viele Möglichkeiten, ein Korsett zu konstruieren
 
-These instructions are just one way. With this method, I recommend using a wider seam allowance of at least 1.5cm so that your boning channels fit comfortably inside the seam allowance.
+Diese Anleitung ist nur eine davon. With this method, I recommend using a wider seam allowance of at least 1.5cm so that your boning channels fit comfortably inside the seam allowance.
 
 Beginner corset makers should read the tutorials written by [Sidney Eileen](http://www.sidneyeileen.com), who demonstrates several different construction methods. [Foundations Revealed](https://www.foundationsrevealed.com) is a paywall site for corset makers, with several exceptional articles free for non members.
 
