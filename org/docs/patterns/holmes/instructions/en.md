@@ -146,10 +146,10 @@ Once again there are two methods for final assembly and lining. Read both method
 __1.__ Matchings centres and seam lines align the ear flap with the right side of one of the panels that is not part of the centre crown seam. Making sure the faced side is placed against the crown (if faced).  
 __2.__ Sew ear flap to the crown along seam lines.  
 __3.__ Repeat steps 1 and 2 for the remaining ear flap on the opposite side of the crown.  
-__4.__ Align centre front of brim with the right side of the centre crown seam making sure the bill insert is on the bottom.  
-__5.__ Hand-***Baste*** the brim to the crown matching the brim basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
-__6.__ Sew the brim to the crown along seam lines. You may find it easier to permanently hand-sew the brim on rather than using a machine.   
-__7.__ Repeat steps 4 to 6 for the remaining brim on the opposite side of the centre crown seam.  
+__4.__ Align centre front of bill with the right side of the centre crown seam making sure the bill insert is on the bottom.  
+__5.__ Hand-***Baste*** the bill to the crown matching the bill basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
+__6.__ Sew the bill to the crown along seam lines. You may find it easier to permanently hand-sew the bill on rather than using a machine.   
+__7.__ Repeat steps 4 to 6 for the remaining bill on the opposite side of the centre crown seam.  
 __8.__ Remove all pad and basting stitches.  
 __9.__ Press the seam allowances inwards, making sure the stitching is not visible on the outside.  
 __10.__ (Optional) Loosely ***Whipstitch*** the seams to the inside of the crown making sure the stitching does not show on the outside.  
@@ -165,10 +165,10 @@ __16.__ (Optional) ***Tack*** the peak of the lining to the peak of the crown. T
 __1.__ Matchings centres and seam lines align the ear flap with the right side of one of the panels that is not part of the centre crown seam. Making sure the faced side is placed against the crown (if faced).  
 __2.__ ***Baste*** the ear flap to the crown along seam lines  
 __3.__ Repeat steps 1 and 2 for the remaining ear flap on the opposite side of the crown.  
-__4.__ Align centre front of brim with the right side of the centre crown seam making sure the bill insert is on the bottom.  
-__5.__ Hand-***Baste*** the brim to the crown matching the brim basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
-__6.__ (Optional) Machine-***Baste*** the brim to the crown along seam lines.  
-__7.__ Repeat steps 4 to 6 for the remaining brim on the opposite side of the centre crown seam.  
+__4.__ Align centre front of bill with the right side of the centre crown seam making sure the bill insert is on the bottom.  
+__5.__ Hand-***Baste*** the bill to the crown matching the bill basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
+__6.__ (Optional) Machine-***Baste*** the bill to the crown along seam lines.  
+__7.__ Repeat steps 4 to 6 for the remaining bill on the opposite side of the centre crown seam.  
 __8.__ Construct lining the same way as the crown ommitting ***Edgestitching*** and leaving a gap in the centre lining seam large enough to turn the hat.  
 __9.__ With right sides together, matching centre crown seams, panel seams and seam lines. Sew the lining to the the crown along seam lines. If bulky you may want to trim either the lining seams or both seams.
 __10.__ Turn hat inside out, pressing lining to inside.  
@@ -180,19 +180,19 @@ __14.__ (Optional) ***Tack*** the peak of the lining to the peak of the crown. T
 <Note>
 
 **For both Assembly and Lining Methods**  
-You can attach the brims on first, just make sure the brims are under the ear flaps if there is any overlap. It is simply whether you prefer the brims to be underneath or prefer the ear flaps to be underneath like in the instructions.
+You can attach the bills on first, just make sure the bills are under the ear flaps if there is any overlap. It is simply whether you prefer the bills to be underneath or prefer the ear flaps to be underneath like in the instructions.
 
 </Note>
 <Tip>
 
 **For both Assembly and Lining Methods**  
-If you are having trouble dealing with the curves of the brims, sew a stitching line an 1/8" (3mm) from the basting line in the seam allowance of the brim and clip to it. This should make it easier to bend the brim to shape. Just make sure to hide this stitching and the clips when attaching the lining.
+If you are having trouble dealing with the curves of the bills, sew a stitching line an 1/8" (3mm) from the basting line in the seam allowance of the bill and clip to it. This should make it easier to bend the bill to shape. Just make sure to hide this stitching and the clips when attaching the lining.
 
 </Tip>
 <Warning>
 
 **For both Assembly and Lining Methods**  
-Assembly and Lining instructions are written with a 6 panelled Holmes in mind. You may find the placement of bills and ear flap pieces are different for other numbered panelled Holmes. As a rule generally the centre front of the brim is always on the centre crown seam so go from there if struggling.
+Assembly and Lining instructions are written with a 6 panelled Holmes in mind. You may find the placement of bills and ear flap pieces are different for other numbered panelled Holmes. As a rule generally the centre front of the bill is always on the centre crown seam so go from there if struggling.
 
 </Warning>
 
