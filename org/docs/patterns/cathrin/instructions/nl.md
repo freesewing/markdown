@@ -109,7 +109,7 @@ Use bias tape or ribbon to bind the top and bottom edges of the corset.
 
 ## Step 10: Set the grommets
 
-Set the corsets in the locations you marked earlier.
+Set the grommets in the locations you marked earlier.
 
 ## Step 11: Lace the corset
 
