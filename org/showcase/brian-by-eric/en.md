@@ -1,7 +1,7 @@
 ---
 date: 2021-07-29
 title: Hoodie based on the Brian body block
-img: teagan1.jpg
+img: brian1.jpg
 caption: "Eric used the Brian Body Block and added their own hood"
 patterns: [brian]
 author:
