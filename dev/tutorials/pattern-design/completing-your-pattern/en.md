@@ -67,8 +67,8 @@ Things like buttons or buttonholes, a logo, or snaps:
 ```js
 // Complete?
 if (complete) {
-  snippets.snapMale = new Snippet("snap-stud", points.snapLeft)
-  snippets.snapFemale = new Snippet("snap-socket", points.snapRight)
+  snippets.snapStud = new Snippet("snap-stud", points.snapLeft)
+  snippets.snapSocket = new Snippet("snap-socket", points.snapRight)
     .attr("opacity", 0.5)
 
   if (sa) {
