@@ -5,7 +5,7 @@ title: Holmes Fabric options
 For the main fabric of your hat, a thick fabric will work best to hold the shape but if you wanna go for a lighter fabric you can interface it to give it more body. Generally you want to use **Wools** of coating weight but you can experiment with different weights and fabrics with the relevant interfacing.
 <Note>
  
-A fun thing to try is printed cotton. Just double up the main fabric so each piece is double thickness. Then interface it with a **Medium Firm Interfacing**.
+A fun thing to try is printed cotton. Just double up the main fabric so each piece is double thickness. Then interface it with a __Medium Firm Interfacing__.
 
 </Note>
 
@@ -17,7 +17,7 @@ Depending on your main fabric's thickness and how well it keeps its shape you ma
 
 <Note>
  
-If you are trying to make a more Historical Holmes you can use **Tarlatan** which is a lightweight stiffened muslin. Just make sure you use natural fibres.
+If you are trying to make a more Historical Holmes you can use __Tarlatan__ which is a lightweight stiffened muslin. Just make sure you use natural fibres.
 
 </Note>
 
