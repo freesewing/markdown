@@ -69,13 +69,13 @@ __7.__ ***Baste*** the raw edges together.
 __8.__ Repeat steps 3 to 7 for the remaining ear flap.
 <Tip>
 
-If you are uncertain about the length you want for you ties take 1 metre (39") of ribbon and cut in half. Use these halves as the ties in the instructions above. The ties are finished at the end so you can adjust the lengths then.
+If you are uncertain about the length you want for your ties take 1 metre (39") of ribbon and cut it in half. Use these halves as the ties in the instructions above. The ties are finished at the end so you can adjust the lengths then.
   
 </Tip>
 <Note>
 
 The lengths above are recommendations so feel free to go as long or as short as you like with the ties.  
-If you prefer you can make your ties with your main fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
+If you prefer you can make your custom ties with fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
 
 </Note>
 
@@ -198,19 +198,19 @@ Assembly and Lining instructions are written with a 6 panelled Holmes in mind. Y
 
 ### Step 6: Finishing Ties
 
-If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made your ties with your main fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
+If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made custom ties with fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
 
 #### Finishing Ties Method 1
 
 __1.__ Fold the ends of a tie in half and cut a triangle out from the corner to the fold.  
 __2.__ Unfold.  
-__3.__ If you are worried about the ties fraying you can use fray check or equivalent.
+__3.__ If you are worried about the ties fraying you can use fray check or equivalent.  
 __4.__ Repeat steps 1 to 3 for the remaining tie.
 
 #### Finishing Ties Method 2
 
-__1.__ Fold under 1/8" (3mm) and another 1/8" (3mm) on one of the ties. Pin if needed.
-__2.__ ***Whipstitch*** the folded edge down to the tie
+__1.__ Fold under 1/8" (3mm) and another 1/8" (3mm) on one of the ties. Pin if needed.  
+__2.__ ***Whipstitch*** the folded edge down to the tie  
 __3.__ Repeat steps 1 to 2 for the remaining tie.
 
 <Note>
@@ -229,7 +229,7 @@ __3.__ Alternatively if you are not using the button with the ear flaps you can 
 
 <Note>
 
-Whilst certainly optional, you may find that a button is what is missing from the hat to finish the look. So if you are uncertain of the look at this point, make up a quick button and place it on temporarily to see if this is what missing. If it is attach it permanently. 
+Whilst certainly optional, you may find that a button is what is missing from the hat to finish the look. So if you are uncertain of the look at this point, make up a quick button and place it on temporarily to see if this is what missing. If it is, attach it permanently. 
 Whilst a covered button is recommeneded you can use whatever button you desire, feel free to experiment!
 
 </Note>
