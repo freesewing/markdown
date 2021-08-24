@@ -69,13 +69,13 @@ __7.__ ***Baste*** the raw edges together.
 __8.__ Repeat steps 3 to 7 for the remaining ear flap.
 <Tip>
 
-If you are uncertain about the length you want for you ties take 1 metre (39") of ribbon and cut in half. Use these halves as the ties in the instructions above. The ties are finished at the end so you can adjust the lengths then.
+If you are uncertain about the length you want for your ties take 1 metre (39") of ribbon and cut it in half. Use these halves as the ties in the instructions above. The ties are finished at the end so you can adjust the lengths then.
   
 </Tip>
 <Note>
 
 The lengths above are recommendations so feel free to go as long or as short as you like with the ties.  
-If you prefer you can make your ties with your main fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
+If you prefer you can make your custom ties with fabric, you can find how to [here](https://freesewing.org/docs/patterns/holmes/cutting/).  
 
 </Note>
 
@@ -101,41 +101,41 @@ It is recommended to at least ***Topstitch*** the ear flaps but this may not be 
 
 </Note>
 
-### Step 4: The Bill
+### Step 4: The Visors
 
-There are two methods for constructing the bill. This is due to the different types of materials the bill inserts can be made of. Method 1 is for materials that will not be damaged by a needle or iron. Method 2 is for materials that will be damaged by a needle or iron. Read both methods to determine which is best for you to use. 
+There are two methods for constructing the visors. This is due to the different types of materials the visor inserts can be made of. Method 1 is for materials that will not be damaged by a needle or iron. Method 2 is for materials that will be damaged by a needle or iron. Read both methods to determine which is best for you to use. 
 
-#### The Bill Method 1
+#### The Visors Method 1
 
-__1.__ Place bill insert on one bill piece inside seam lines.  
-__2.__ Temporarily secure bill insert to bill with temporary ***Pad Stitches***. This will be refered to as "faced bill" going forward.  
-__3.__ ***Baste*** along the seam line of the inner curve of the bill, making sure not to catch the bill insert.  
-__4.__ With right sides together, matching seam lines and centre fronts, sew the faced bill to another bill piece along the outer curve close to the bill insert, making sure not to catch the bill Insert.  
+__1.__ Place visor insert on one visor piece inside seam lines.  
+__2.__ Temporarily secure visor insert to visor with temporary ***Pad Stitches***. This will be refered to as "faced visor" going forward.  
+__3.__ ***Baste*** along the seam line of the inner curve of the visor, making sure not to catch the visor insert.  
+__4.__ With right sides together, matching seam lines and centre fronts, sew the faced visor to another visor piece along the outer curve close to the visor insert, making sure not to catch the visor Insert.  
 __5.__ Notch and trim the outer curve making sure not to clip the stitching. (You may wish to turn and check the shape before this step)  
-__6.__ Turn inside out and press. Making sure that the seam allowances are on top of not under the bill insert.  
+__6.__ Turn inside out and press. Making sure that the seam allowances are on top of not under the visor insert.  
 __7.__ Using the previous basting line as a guide, ***Baste*** the opening closed.  
-__8.__ Repeat steps 1 to 7 for remaining bill pieces.
+__8.__ Repeat steps 1 to 7 for remaining visor pieces.
 
 <Warning>
 
-Be careful with the heat of an iron when using certain insert materials. You do not want to melt the Bill Insert and damage both it and the fabric.
+Be careful with the heat of an iron when using certain insert materials. You do not want to melt the Visor Insert and damage both it and the fabric.
 
 </Warning>
 <Note>
 
-If preferred you can temporarily attach the bill insert another way that does not require hand sewing and putting a needle through the material. Just make sure it does not damage your hat fabric when removing or applying. 
+If preferred you can temporarily attach the visor insert another way that does not require hand sewing and putting a needle through the material. Just make sure it does not damage your hat fabric when removing or applying. 
 
 </Note>
 
-#### The Bill Method 2
+#### The Visors Method 2
 
-__1.__ With rights sides together, matching seam lines and centre fronts, sew the outer curver of two bill pieces together.  
+__1.__ With rights sides together, matching seam lines and centre fronts, sew the outer curver of two visor pieces together.  
 __2.__ Notch and trim (if needed) the outer curve making sure not to clip the stitching. (You may wish to turn and check the shape before this step)  
 __3.__ Turn inside out and press.  
-__4.__ Insert bill insert in to sewn bill tightly so there is no gap on the outer curver and the seam allowances are all one on side of the bill insert. This will be the upper side of the bill.  
-__5.__ Pin the inner curve together making sure that the outer edge is pulled tightly over the bill insert.  
-__6.__ ***Baste*** as close as you can to the inner curve of the bill insert, making sure you pull the fabric tightly over the outer edge as you sew.  
-__7.__ Repeat steps 1 to 6 for the remaining bill pieces.
+__4.__ Insert visor insert in to sewn visor tightly so there is no gap on the outer curver and the seam allowances are all one on side of the visor insert. This will be the upper side of the visor.  
+__5.__ Pin the inner curve together making sure that the outer edge is pulled tightly over the visor insert.  
+__6.__ ***Baste*** as close as you can to the inner curve of the visor insert, making sure you pull the fabric tightly over the outer edge as you sew.  
+__7.__ Repeat steps 1 to 6 for the remaining visor pieces.
 
 ### Step 5: Assembly and Lining
 
@@ -146,10 +146,10 @@ Once again there are two methods for final assembly and lining. Read both method
 __1.__ Matchings centres and seam lines align the ear flap with the right side of one of the panels that is not part of the centre crown seam. Making sure the faced side is placed against the crown (if faced).  
 __2.__ Sew ear flap to the crown along seam lines.  
 __3.__ Repeat steps 1 and 2 for the remaining ear flap on the opposite side of the crown.  
-__4.__ Align centre front of bill with the right side of the centre crown seam making sure the bill insert is on the bottom.  
-__5.__ Hand-***Baste*** the bill to the crown matching the bill basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
-__6.__ Sew the bill to the crown along seam lines. You may find it easier to permanently hand-sew the bill on rather than using a machine.   
-__7.__ Repeat steps 4 to 6 for the remaining bill on the opposite side of the centre crown seam.  
+__4.__ Align centre front of visor with the right side of the centre crown seam making sure the visor insert is on the bottom.  
+__5.__ Hand-***Baste*** the visor to the crown matching the visor basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
+__6.__ Sew the visor to the crown along seam lines. You may find it easier to permanently hand-sew the visor on rather than using a machine.   
+__7.__ Repeat steps 4 to 6 for the remaining visor on the opposite side of the centre crown seam.  
 __8.__ Remove all pad and basting stitches.  
 __9.__ Press the seam allowances inwards, making sure the stitching is not visible on the outside.  
 __10.__ (Optional) Loosely ***Whipstitch*** the seams to the inside of the crown making sure the stitching does not show on the outside.  
@@ -165,10 +165,10 @@ __16.__ (Optional) ***Tack*** the peak of the lining to the peak of the crown. T
 __1.__ Matchings centres and seam lines align the ear flap with the right side of one of the panels that is not part of the centre crown seam. Making sure the faced side is placed against the crown (if faced).  
 __2.__ ***Baste*** the ear flap to the crown along seam lines  
 __3.__ Repeat steps 1 and 2 for the remaining ear flap on the opposite side of the crown.  
-__4.__ Align centre front of bill with the right side of the centre crown seam making sure the bill insert is on the bottom.  
-__5.__ Hand-***Baste*** the bill to the crown matching the bill basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
-__6.__ (Optional) Machine-***Baste*** the bill to the crown along seam lines.  
-__7.__ Repeat steps 4 to 6 for the remaining bill on the opposite side of the centre crown seam.  
+__4.__ Align centre front of visor with the right side of the centre crown seam making sure the visor insert is on the bottom.  
+__5.__ Hand-***Baste*** the visor to the crown matching the visor basting lines to the crown seam lines. It easier to ***Baste*** the centre down first and then work from the centre out.  
+__6.__ (Optional) Machine-***Baste*** the visor to the crown along seam lines.  
+__7.__ Repeat steps 4 to 6 for the remaining visor on the opposite side of the centre crown seam.  
 __8.__ Construct lining the same way as the crown ommitting ***Edgestitching*** and leaving a gap in the centre lining seam large enough to turn the hat.  
 __9.__ With right sides together, matching centre crown seams, panel seams and seam lines. Sew the lining to the the crown along seam lines. If bulky you may want to trim either the lining seams or both seams.
 __10.__ Turn hat inside out, pressing lining to inside.  
@@ -180,37 +180,37 @@ __14.__ (Optional) ***Tack*** the peak of the lining to the peak of the crown. T
 <Note>
 
 **For both Assembly and Lining Methods**  
-You can attach the bills on first, just make sure the bills are under the ear flaps if there is any overlap. It is simply whether you prefer the bills to be underneath or prefer the ear flaps to be underneath like in the instructions.
+You can attach the visors on first, just make sure the visors are under the ear flaps if there is any overlap. It is simply whether you prefer the visors to be underneath or prefer the ear flaps to be underneath like in the instructions.
 
 </Note>
 <Tip>
 
 **For both Assembly and Lining Methods**  
-If you are having trouble dealing with the curves of the bills, sew a stitching line an 1/8" (3mm) from the basting line in the seam allowance of the bill and clip to it. This should make it easier to bend the bill to shape. Just make sure to hide this stitching and the clips when attaching the lining.
+If you are having trouble dealing with the curves of the visors, sew a stitching line an 1/8" (3mm) from the basting line in the seam allowance of the visor and clip to it. This should make it easier to bend the visor to shape. Just make sure to hide this stitching and the clips when attaching the lining.
 
 </Tip>
 <Warning>
 
 **For both Assembly and Lining Methods**  
-Assembly and Lining instructions are written with a 6 panelled Holmes in mind. You may find the placement of bills and ear flap pieces are different for other numbered panelled Holmes. As a rule generally the centre front of the bill is always on the centre crown seam so go from there if struggling.
+Assembly and Lining instructions are written with a 6 panelled Holmes in mind. You may find the placement of visors and ear flap pieces are different for other numbered panelled Holmes. As a rule generally the centre front of the visor is always on the centre crown seam so go from there if struggling.
 
 </Warning>
 
 ### Step 6: Finishing Ties
 
-If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made your ties with your main fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
+If you did not cut your ties down when constructing the ear flaps, now is the time to do so. If you made custom ties with fabric then you do not need to do these steps. Again read through both methods carefully and pick which is the best for you.
 
 #### Finishing Ties Method 1
 
 __1.__ Fold the ends of a tie in half and cut a triangle out from the corner to the fold.  
 __2.__ Unfold.  
-__3.__ If you are worried about the ties fraying you can use fray check or equivalent.
+__3.__ If you are worried about the ties fraying you can use fray check or equivalent.  
 __4.__ Repeat steps 1 to 3 for the remaining tie.
 
 #### Finishing Ties Method 2
 
-__1.__ Fold under 1/8" (3mm) and another 1/8" (3mm) on one of the ties. Pin if needed.
-__2.__ ***Whipstitch*** the folded edge down to the tie
+__1.__ Fold under 1/8" (3mm) and another 1/8" (3mm) on one of the ties. Pin if needed.  
+__2.__ ***Whipstitch*** the folded edge down to the tie  
 __3.__ Repeat steps 1 to 2 for the remaining tie.
 
 <Note>
@@ -229,7 +229,7 @@ __3.__ Alternatively if you are not using the button with the ear flaps you can 
 
 <Note>
 
-Whilst certainly optional, you may find that a button is what is missing from the hat to finish the look. So if you are uncertain of the look at this point, make up a quick button and place it on temporarily to see if this is what missing. If it is attach it permanently. 
+Whilst certainly optional, you may find that a button is what is missing from the hat to finish the look. So if you are uncertain of the look at this point, make up a quick button and place it on temporarily to see if this is what missing. If it is, attach it permanently. 
 Whilst a covered button is recommeneded you can use whatever button you desire, feel free to experiment!
 
 </Note>
