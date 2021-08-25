@@ -64,7 +64,7 @@ const send = async (test = true) => {
       await smtp.sendMail({
         from: '"FreeSewing" <info@freesewing.org>',
         to: sub.email,
-        subject: 'FreeSewing newsletter: Spring 2021',
+        subject: 'FreeSewing newsletter: Summer 2021',
         headers: {
           Language: 'en',
           'List-Owner': 'joost@joost.at',
